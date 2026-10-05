@@ -6,10 +6,9 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
-  actions: read
 
 concurrency:
   group: pages
@@ -23,9 +22,33 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v5
+
+      # GITHUB_TOKEN cannot create a Pages site (GitHub App restriction). With secret
+      # PAGES_ENABLE_TOKEN (classic PAT, repo scope), enablement creates the site once.
+      # Otherwise enable Pages manually: Settings → Pages → Source: GitHub Actions.
+      - name: Configure Pages (auto-enable with PAT)
+        if: ${{ secrets.PAGES_ENABLE_TOKEN != '' }}
+        uses: actions/configure-pages@v5
         with:
           enablement: true
+          token: ${{ secrets.PAGES_ENABLE_TOKEN }}
+
+      - name: Set default branch to main (PAT)
+        if: ${{ secrets.PAGES_ENABLE_TOKEN != '' }}
+        env:
+          GH_TOKEN: ${{ secrets.PAGES_ENABLE_TOKEN }}
+        run: |
+          branch=$(gh api "repos/${{ github.repository }}" -q .default_branch)
+          if [ "$branch" != "main" ]; then
+            gh api --method PATCH "repos/${{ github.repository }}" -f default_branch=main
+          fi
+
+      - name: Configure Pages
+        if: ${{ secrets.PAGES_ENABLE_TOKEN == '' }}
+        uses: actions/configure-pages@v5
+        with:
+          enablement: false
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .

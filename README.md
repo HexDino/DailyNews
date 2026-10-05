@@ -4,9 +4,17 @@ Báo sáng tiếng Việt dạng trang tĩnh: đọc trên trình duyệt như l
 
 ## Đọc trực tuyến (GitHub Pages)
 
-Sau khi bật Pages (workflow `Deploy GitHub Pages` trên nhánh `main`):
-
 **https://hexdino.github.io/DailyNews/**
+
+### Bật Pages lần đầu (bắt buộc một lần)
+
+Token mặc định của GitHub Actions **không thể** tự tạo site Pages (lỗi `Resource not accessible by integration`). Chọn một trong hai cách:
+
+1. **Thủ công (khuyến nghị):** [Settings → Pages](https://github.com/HexDino/DailyNews/settings/pages) → **Build and deployment** → **Source: GitHub Actions**. Đặt [default branch = `main`](https://github.com/HexDino/DailyNews/settings) nếu repo vẫn trỏ nhánh cũ. Push hoặc re-run workflow **Deploy GitHub Pages**.
+
+2. **Tự động:** Thêm secret repo **`PAGES_ENABLE_TOKEN`** (classic PAT, scope `repo`), rồi chạy lại workflow — bước `configure-pages` với `enablement: true` sẽ tạo site và đặt `main` làm default branch.
+
+Sau khi bật, mỗi push lên `main` deploy qua workflow `Deploy GitHub Pages`.
 
 - Trang chủ: số mới nhất (hoặc `?date=YYYY-MM-DD` để mở một ngày cụ thể).
 - Lọc mục: tham số `?tag=ai|github|football|politics|culture|lifestyle` (hoặc `#tag=…`).
