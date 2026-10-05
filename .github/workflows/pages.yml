@@ -23,31 +23,30 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # GITHUB_TOKEN cannot create a Pages site (GitHub App restriction). With secret
-      # PAGES_ENABLE_TOKEN (classic PAT, repo scope), enablement creates the site once.
-      # Otherwise enable Pages manually: Settings → Pages → Source: GitHub Actions.
-      - name: Configure Pages (auto-enable with PAT)
-        if: ${{ secrets.PAGES_ENABLE_TOKEN != '' }}
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
-          token: ${{ secrets.PAGES_ENABLE_TOKEN }}
-
-      - name: Set default branch to main (PAT)
-        if: ${{ secrets.PAGES_ENABLE_TOKEN != '' }}
+      # Optional: classic PAT with repo scope in PAGES_ENABLE_TOKEN can create the
+      # Pages site and set default_branch=main (GITHUB_TOKEN cannot do either).
+      - name: Bootstrap GitHub Pages (optional admin PAT)
         env:
-          GH_TOKEN: ${{ secrets.PAGES_ENABLE_TOKEN }}
+          PAT: ${{ secrets.PAGES_ENABLE_TOKEN }}
         run: |
-          branch=$(gh api "repos/${{ github.repository }}" -q .default_branch)
+          if [ -z "$PAT" ]; then
+            echo "::notice::No PAGES_ENABLE_TOKEN. If deploy fails, enable Pages once under Settings → Pages → Source: GitHub Actions, and set default branch to main."
+            exit 0
+          fi
+          export GH_TOKEN="$PAT"
+          if ! gh api "repos/${GITHUB_REPOSITORY}/pages" >/dev/null 2>&1; then
+            gh api --method POST "repos/${GITHUB_REPOSITORY}/pages" -f build_type=workflow
+            echo "Created GitHub Pages site (workflow source)."
+          fi
+          branch=$(gh api "repos/${GITHUB_REPOSITORY}" -q .default_branch)
           if [ "$branch" != "main" ]; then
-            gh api --method PATCH "repos/${{ github.repository }}" -f default_branch=main
+            gh api --method PATCH "repos/${GITHUB_REPOSITORY}" -f default_branch=main
+            echo "Set default branch to main."
           fi
 
-      - name: Configure Pages
-        if: ${{ secrets.PAGES_ENABLE_TOKEN == '' }}
-        uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@v5
         with:
-          enablement: false
+          enablement: true
 
       - uses: actions/upload-pages-artifact@v3
         with:
