@@ -1,0 +1,26 @@
+{
+  "masthead": "Daily News",
+  "latest": "2026-10-05",
+  "issues": [
+    {
+      "date": "2026-10-01",
+      "path": "2026-10-01/content.json"
+    },
+    {
+      "date": "2026-10-02",
+      "path": "2026-10-02/content.json"
+    },
+    {
+      "date": "2026-10-03",
+      "path": "2026-10-03/content.json"
+    },
+    {
+      "date": "2026-10-04",
+      "path": "2026-10-04/content.json"
+    },
+    {
+      "date": "2026-10-05",
+      "path": "2026-10-05/content.json"
+    }
+  ]
+}

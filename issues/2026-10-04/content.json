@@ -1,0 +1,299 @@
+{
+  "date": "2026-10-04",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 4/10/2026 · Tin tổng hợp trong khoảng 24 giờ qua · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Google siết Gemini app: từ 9/10 người dùng miễn phí chỉ còn Flash-Lite; AI Plus mất Pro, AI Pro được Deep Think",
+    "GDP 9 tháng 2026 tăng 9,01%; Thủ tướng Lê Minh Hưng: quý IV phải tăng hơn 12,5% để đạt mục tiêu hai con số",
+    "Nations League: Anh hủy diệt Croatia 7-0; Tây Ban Nha thắng Czechia 3-1",
+    "Việt Nam chuẩn bị tranh hạng Ba ASEAN Cup với Malaysia 16h ngày 5/10 — Việt Anh bỏ ngỏ khả năng ra sân",
+    "Zelenskyy: Ukraine sẽ tăng tấn công nhà máy lọc dầu Nga sau khi Nga đánh cầu Bắc Kyiv"
+  ],
+  "sections": [
+    {
+      "title": "Trí tuệ nhân tạo",
+      "intro": "Sáng 3–4/10: Google thắt chặt quyền truy cập mô hình trên Gemini app; hệ sinh thái coding agent (Claude Code, Codex) tiếp tục vá lỗi phiên dài và trung tâm điều khiển đa agent.",
+      "items": [
+        {
+          "headline": "Gemini app: từ 9/10 miễn phí chỉ còn Flash-Lite; AI Plus mất Pro; AI Pro nhận Deep Think",
+          "body": "Theo 9to5Google ngày 3/10, tài liệu hỗ trợ cập nhật của Google cho biết người dùng Gemini app không có gói đăng ký sẽ chỉ còn truy cập mô hình Flash-Lite; từ 9/10 họ mất Flash và Pro. Gói AI Plus (khoảng 4,99 USD/tháng) giữ Flash-Lite và Flash nhưng không còn Pro; Google sẽ gửi email thông báo thời điểm áp dụng. AI Pro và AI Ultra không bị cắt giảm — ngược lại, khách AI Pro (khoảng 19,99 USD/tháng) sẽ được tùy chọn Deep Think (suy luận song song tối đa) vốn trước đây chỉ có trên các gói đắt hơn. Ứng dụng cũng dự kiến thêm mức effort low/medium/high cho từng mô hình trong tháng 10. Chưa rõ Gemini 4 Argon sẽ xếp vào bậc Pro hay một tầng riêng; Google mới nói Argon trước mắt tới AI Ultra.",
+          "sources": [
+            {
+              "name": "9to5Google",
+              "url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        },
+        {
+          "headline": "Claude Code 2.1.288: vá resume và auto-compaction — phiên dài hết lỗi 'Prompt is too long'",
+          "body": "Bản tổng hợp tuần của AI Coding Guide (ngày 4/10, đối chiếu changelog Claude Code) ghi nhận loạt 2.1.284–2.1.288. Điểm thực dụng nhất cho người chạy phiên dài: 2.1.288 sửa trường hợp hội thoại dài báo 'Prompt is too long' thay vì tự compact khi phản hồi cuối báo 0 token; khắc phục --resume làm mất file/context vừa được compact, mất phản hồi cuối lượt, và mất thinking của phiên cũ. Cùng tuần, 2.1.284 đưa Claude Sonnet 5.5 (claude-sonnet-5-5) thành Sonnet mặc định trên Anthropic API — cùng mức giá Sonnet 5 (2/10 USD mỗi triệu token vào/ra, cache đọc 0,20 USD). 2.1.285 thêm CLAUDE_CODE_DISABLE_WEB_FETCH và allowedProviders để tổ chức khóa WebFetch hoặc ghim nhà cung cấp API.",
+          "sources": [
+            {
+              "name": "AI Coding Guide",
+              "url": "https://aicoding-guide.com/en/posts/weekly-2026-10-04/"
+            },
+            {
+              "name": "Anthropic (Sonnet 5.5)",
+              "url": "https://www.anthropic.com/claude-sonnet-5-5"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        },
+        {
+          "headline": "Codex CLI 0.160.0: agent command center phân trang + Guardian review tùy chọn",
+          "body": "Theo ghi chú phát hành chính thức rust-v0.160.0 trên GitHub (công bố khoảng tối 1/10 theo UTC, được các bản tin coding agent nhắc lại đầu tuần này), Codex CLI bổ sung 'Show more' có điều khiển bàn phím để duyệt task cũ trong agent command center; cho phép chọn transcript và dán bằng chuột giữa trên terminal Linux X11 fullscreen; hỗ trợ mở phiên ngoài project với workspace mặc định khi policy cho phép; và thêm Guardian review tùy chọn — lấy lại chỉ dẫn người dùng trước đó cùng ngữ cảnh handoff giữa agent. Bản vá đáng chú ý: tin nhắn xếp hàng chưa gửi được khôi phục sau reconnect mà không gửi trùng; tiếp tục sửa sandbox PowerShell/Windows.",
+          "sources": [
+            {
+              "name": "OpenAI Codex (GitHub Release)",
+              "url": "https://github.com/openai/codex/releases/tag/rust-v0.160.0"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        },
+        {
+          "headline": "Gemini CLI 0.62: thêm gemini-3.8-flash và gemini-3.5-flash-lite",
+          "body": "Cùng bản tổng hợp tuần 4/10, Gemini CLI 0.62.0 (phát hành cuối tháng 9, đang được cộng đồng coding agent nhắc như lựa chọn Flash mới) bổ sung hai model ID có thể chọn: gemini-3.8-flash và gemini-3.5-flash-lite — chọn qua /model hoặc model.name trong ~/.gemini/settings.json. Bản này cũng vá giữ OAuth refresh token và một số lỗi PTY/ConPTY trên Windows. Đáng theo khi Google vừa siết quyền truy cập mô hình trên Gemini app: CLI vẫn là kênh thử Flash mới cho developer.",
+          "sources": [
+            {
+              "name": "AI Coding Guide",
+              "url": "https://aicoding-guide.com/en/posts/weekly-2026-10-04/"
+            },
+            {
+              "name": "TurboAI (Gemini CLI 0.62)",
+              "url": "https://www.turboai.dev/blog/gemini-cli-v0-62-0"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Kho GitHub đáng chú ý",
+      "intro": "Chọn từ GitHub Trending ngày 4/10 và các kho agent harness đang nổi; bỏ các repo đã đưa số 2–3/10 (Agent-Reach, caveman, mattpocock/skills, hyperframes, context-mode, codegraph, google/skills, ponytail, superpowers, pi, cursor/plugins, impeccable, OpenShell, openrig…). Số sao lấy từ trang trending/repo sáng 4/10 (giờ VN).",
+      "items": [
+        {
+          "headline": "affaan-m/ECC — harness tối ưu hiệu năng agent: skills, instincts, memory, security",
+          "meta": "JavaScript · ~272.229 sao (+954 hôm nay) · github.com/affaan-m/ECC",
+          "body": "Còn gọi Everything Claude Code: hệ tối ưu harness cho Claude Code, Codex, OpenCode, Cursor… — đóng gói skills, instincts, memory, security và quy trình research-first. Đứng gần đầu trending hôm nay; hữu ích khi muốn một lớp cấu trúc portable thay vì tự nối MCP + prompt rời mỗi dự án.",
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/affaan-m/ECC"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "openclaw/openclaw — trợ lý AI tự host, gặp bạn trên Discord/Slack/iMessage…",
+          "meta": "TypeScript · ~391.247 sao · github.com/openclaw/openclaw",
+          "body": "OpenClaw chạy trên máy bạn, hiện diện qua 20+ kênh chat và app native (macOS/iOS/Android/Windows/Linux). State, memory, credential ở phần cứng của bạn; model/harness (Claude, Codex, local) là plugin có thể đổi. Không có tầng trả phí của dự án — phù hợp ai muốn trợ lý luôn bật nhưng kiểm soát dữ liệu.",
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/openclaw/openclaw"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "thedotmack/claude-mem — nhớ ngữ cảnh xuyên phiên cho mọi agent",
+          "meta": "TypeScript · ~95.565 sao (+218 hôm nay) · github.com/thedotmack/claude-mem",
+          "body": "Ghi lại việc agent làm trong phiên, nén bằng AI rồi tiêm lại ngữ cảnh liên quan vào phiên sau. Hỗ trợ Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode… — bổ sung đúng chỗ khi agent 'quên' quyết định hôm qua.",
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/thedotmack/claude-mem"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "addyosmani/agent-skills — skills kỹ sư sản xuất cho coding agent",
+          "meta": "JavaScript · ~100.829 sao · github.com/addyosmani/agent-skills",
+          "body": "Bộ skills mã hóa workflow senior: /spec → /plan → /build → /test → /review → /ship. Đóng gói cổng chất lượng và best practice để agent đi cùng một quy trình xuyên suốt vòng đời phần mềm — khác phong cách 'prompt rời' của nhiều kho skills cộng đồng.",
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/addyosmani/agent-skills"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "cloudflare/cloudflare-os — workspace agent trên Workers cho nội bộ doanh nghiệp",
+          "meta": "TypeScript · ~10.559 sao (+84 hôm nay) · github.com/cloudflare/cloudflare-os",
+          "body": "Môi trường năng suất AI nội bộ Cloudflare (chat agent có ngữ cảnh công ty, sandbox dựng 'gadget', khung Gatekeepers). Mã nguồn mở để tổ chức fork thành '*Your Company* OS' — mẫu tham chiếu khi muốn agent doanh nghiệp an toàn trên Cloudflare Workers chứ không chỉ CLI cá nhân.",
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/cloudflare/cloudflare-os"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "NVIDIA/NemoClaw — chạy OpenClaw/Hermes/LangChain Deep Agents trong OpenShell",
+          "meta": "Python/Shell · ~22.649 sao · github.com/NVIDIA/NemoClaw",
+          "body": "Stack tham chiếu mã nguồn mở: onboard có hướng dẫn, inference quản lý, network policy, persistence trên OpenShell. Agent hỗ trợ: OpenClaw (mặc định), Hermes, LangChain Deep Agents Code. Ghép với NVIDIA OpenShell khi cần sandbox cứng hơn cho agent tự hành.",
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/NVIDIA/NemoClaw"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        }
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "title": "Bóng đá",
+      "newpage": true,
+      "intro": "Cuối tuần Nations League (3/10): Anh–Croatia, Tây Ban Nha–Czechia. ASEAN Cup: Việt Nam–Malaysia tranh hạng Ba ngày 5/10.",
+      "items": [
+        {
+          "headline": "ASEAN Cup: Việt Nam gặp Malaysia tranh hạng Ba 16h ngày 5/10 — Việt Anh bỏ ngỏ",
+          "body": "Theo lịch The Thao Van Hoa và nhận định Thethao247 ngày 3/10, trận tranh hạng ba FIFA ASEAN Cup 2026 (Premier) diễn ra 16h00 ngày 5/10 tại Gelora Bung Karno (Jakarta): Malaysia – Việt Nam; chung kết Indonesia – Thái Lan lúc 20h cùng ngày. Việt Nam kết thúc vòng bảng với 6 điểm (nhì bảng B); Malaysia nhì bảng A. HLV Kim Sang-sik phải xoay tua vì nhiều trụ cột thể trạng kém; Bùi Hoàng Việt Anh rời sân trận Pakistan và khả năng ra sân vẫn bỏ ngỏ. Malaysia dưới Tan Cheng Hoe từng thắng Singapore 6-0 và tạo thế trận tốt trước Indonesia; tiền đạo nhập tịch Bergson đã có 4 bàn tại giải. Việt Nam chỉ để thủng lưới một bàn trong năm lần gần nhất gặp Malaysia — điểm tựa trước đối thủ đang lên phong độ.",
+          "sources": [
+            {
+              "name": "Thể thao & Văn hóa",
+              "url": "https://thethaovanhoa.vn/lich-thi-dau-chung-ket-va-tranh-hang-3-fifa-asean-cup-2026-20261002174152591.htm"
+            },
+            {
+              "name": "Thethao247",
+              "url": "https://thethao247.vn/493-nhan-dinh-malaysia-vs-viet-nam-thu-thach-lon-cho-thay-tro-kim-sang-sik-c288-d438657.html"
+            }
+          ],
+          "tags": [
+            "football"
+          ]
+        },
+        {
+          "headline": "Nations League: Anh 7-0 Croatia — Kane và Saka mỗi người hai bàn",
+          "body": "Ngày 3/10 tại Rijeka, Anh đánh bại Croatia 7-0 — tỷ số đậm kỷ lục với đối thủ này theo UEFA. Harry Kane mở tỷ số từ đường chuyền Jude Bellingham, rồi Bellingham nâng 2-0; Anthony Gordon và Bukayo Saka ghi bàn trước giờ nghỉ. Hiệp hai Kane và Saka hoàn tất cú đúp, dự bị Morgan Rogers ấn định 7-0. Cùng tối, Tây Ban Nha thắng Czechia 3-1 (Lamine Yamal mở tỷ số sớm lần thứ ba liên tiếp, Rodri nâng 2-0, Sláma rút ngắn, Merino chốt 3-1 sau thẻ đỏ của Krejčí) — lần đầu mở chiến dịch Nations League bằng ba trận thắng liên tiếp.",
+          "sources": [
+            {
+              "name": "UEFA",
+              "url": "https://www.uefa.com/uefanationsleague/news/02aa-21b9c92be12f-a190457ae8e6-1000--uefa-nations-league-matchday-3-harry-kane-inspires-englan/"
+            }
+          ],
+          "tags": [
+            "football"
+          ]
+        },
+        {
+          "headline": "Nations League: Ba Lan 6-0 Romania (Lewandowski hat-trick); Scotland thắng trận đầu dưới Pocognoli",
+          "body": "Cũng trong loạt trận cuối tuần theo UEFA: Robert Lewandowski lập hat-trick giúp Ba Lan thắng Romania (thiếu người) 6-0 — chiến thắng đầu tiên của Ba Lan ở bảng B4. Scotland thắng Bắc Macedonia 2-0 (bàn đầu của Kieron Bowie cho ĐTQG; Andy Robertson chơi trận thứ 100) — chiến thắng đầu dưới HLV Sébastian Pocognoli. Thụy Sĩ ngược dòng hạ Slovenia 2-1 để giữ ngôi đầu League B với 9 điểm.",
+          "sources": [
+            {
+              "name": "UEFA",
+              "url": "https://www.uefa.com/uefanationsleague/news/02aa-21b9c92be12f-a190457ae8e6-1000--uefa-nations-league-matchday-3-harry-kane-inspires-englan/"
+            },
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c6vgxe0yxpn8o"
+            }
+          ],
+          "tags": [
+            "football"
+          ]
+        }
+      ],
+      "tags": [
+        "football"
+      ]
+    },
+    {
+      "title": "Chính trị",
+      "items": [
+        {
+          "headline": "GDP 9 tháng tăng 9,01%; Thủ tướng: quý IV phải tăng hơn 12,5%",
+          "body": "Cục Thống kê: GDP chín tháng 2026 ước tăng 9,01% so với cùng kỳ (quý I 8,15%; quý II 8,81%; quý III 9,95%) — cao hơn cùng kỳ 2025 (7,80%). Công nghiệp–xây dựng tăng 11,21%, dịch vụ 8,69%, nông–lâm–thủy sản 4,02%. Sáng 3/10, Thủ tướng Lê Minh Hưng kết luận phiên họp Chính phủ thường kỳ tháng 9 và hội nghị trực tuyến với địa phương: để cả năm đạt tăng trưởng hai con số, quý IV GDP phải tăng hơn 12,5% — 'áp lực rất lớn'. Ông yêu cầu các địa phương cập nhật kịch bản sau 9 tháng, tháo điểm nghẽn đầu tư–đất đai–mặt bằng; kiểm soát giá, phấn đấu giữ mục tiêu lạm phát Quốc hội giao (CPI bình quân 9 tháng đã tăng 4,52%).",
+          "sources": [
+            {
+              "name": "Cục Thống kê",
+              "url": "https://www.nso.gov.vn/tin-tuc-thong-ke/2026/10/mot-so-net-chinh-tinh-hinh-kinh-te-xa-hoi-quy-iii-va-9-thang-nam-2026/"
+            },
+            {
+              "name": "Nhân Dân",
+              "url": "https://nhandan.vn/quyet-tam-no-luc-cao-nhat-dat-muc-tieu-tang-truong-quy-iv-va-ca-nam-2026-post992691.html"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        },
+        {
+          "headline": "Tô Lâm tiếp 10 đại sứ trình Quốc thư; nhấn mạnh tăng trưởng hai con số và khoa học–công nghệ",
+          "body": "Tối 3/10 tại Phủ Chủ tịch, Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Đại sứ Palestine, Séc, Đan Mạch, Hàn Quốc, Malaysia, Na Uy, Hà Lan, Bỉ, Brazil và Pháp nhân dịp trình Quốc thư. Ông đề nghị các đại sứ chủ động đề xuất dự án cụ thể với bộ, ngành, địa phương Việt Nam; thông tin định hướng lấy khoa học–công nghệ, đổi mới sáng tạo và chuyển đổi số làm động lực, hướng tới tăng trưởng kinh tế hai con số. Với Palestine, ông tái khẳng định ủng hộ sự nghiệp chính nghĩa của nhân dân Palestine; với Hàn Quốc nêu mục tiêu thương mại 100 tỷ USD năm 2026 và chuẩn bị APEC 2027 tại Phú Quốc.",
+          "sources": [
+            {
+              "name": "Nhân Dân",
+              "url": "https://nhandan.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-dai-su-cac-nuoc-trinh-quoc-thu-post992782.html"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        },
+        {
+          "headline": "Tô Lâm tại Đại hội Hội Cựu Công an: trở thành 'ngọn cờ tư tưởng đúng đắn' ở cơ sở",
+          "body": "Sáng 3/10 tại Hà Nội, Tổng Bí thư, Chủ tịch nước Tô Lâm dự và chỉ đạo Đại hội đại biểu toàn quốc Hội Cựu Công an nhân dân Việt Nam lần thứ II (nhiệm kỳ 2026–2031). Ông yêu cầu hội viên quan tâm giáo dục chính trị tư tưởng tại nơi cư trú, phản bác quan điểm sai trái, thù địch, lan tỏa cái tốt–cái đúng; phát huy vai trò nòng cốt phong trào toàn dân bảo vệ an ninh Tổ quốc ở cơ sở; phối hợp Đoàn Thanh niên và Bộ GDĐT giáo dục truyền thống cho thế hệ trẻ. Ông gắn nhiệm vụ với Nghị quyết 18 và 22 của Trung ương khóa XIV về xã hội kỷ cương, an toàn, văn minh.",
+          "sources": [
+            {
+              "name": "Công luận / Vietnam.vn",
+              "url": "https://www.vietnam.vn/tong-bi-thu-chu-tich-nuoc-to-lam-cuu-cong-an-nhan-dan-phai-thuc-su-tro-thanh-ngon-co-tu-tuong-dung-dan-o-co-so"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        },
+        {
+          "headline": "Zelenskyy: tăng đánh lọc dầu Nga sau 'học thuyết mới'; cầu Bắc Kyiv bị tấn công",
+          "body": "Ngày 3/10, DW/AFP/Reuters: Tổng thống Zelenskyy nói tình báo Ukraine phát hiện 'học thuyết mới' cho phép tấn công hạ tầng, logistics, đường sá, trường học, bệnh viện nhằm gây áp lực để dân rời đô thị trước mùa đông — và khẳng định Kyiv sẽ đáp trả chủ yếu bằng tấn công nhà máy lọc dầu (nguồn thu chiến tranh), không đánh dân thường theo kiểu Nga. Thị trưởng Klitschko thông báo cầu Bắc (Northern Bridge) qua sông Dnipro bị không kích, hai người bị thương, mặt đường và dây xe điện bị hỏng, giao thông một chiều bị chặn — sau các đợt drone vào cầu Nam vài ngày trước. Nga cảnh báo ngoại giao đoàn và công dân nước ngoài rời Kyiv; Moldova lên án vũ khí Nga xâm phạm không phận và nổ trên đất Moldova.",
+          "sources": [
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        }
+      ],
+      "tags": [
+        "politics"
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp tự động từ các nguồn công khai sáng 4/10/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ trang trending/repo tại thời điểm tra cứu. Không lặp lại các tin đã đóng số 3/10 trừ khi có cập nhật thực sự (ví dụ lịch/chấn thương trước trận Việt Nam–Malaysia 5/10; diễn biến Kyiv/cầu Bắc sau tin drone ngày 2/10)."
+}

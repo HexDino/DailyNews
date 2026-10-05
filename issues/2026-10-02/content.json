@@ -1,0 +1,335 @@
+{
+  "date": "2026-10-02",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 2/10/2026 · Tin tổng hợp trong khoảng 24 giờ qua · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Broadcom cho Anthropic vay tới 42 tỷ USD để thuê chip TPU — lộ trong hồ sơ IPO của Anthropic",
+    "Barclays mở rộng Claude: trợ lý kiến thức cho 16.000 nhân viên, xử lý ~120.000 email/ngày",
+    "Bồ Đào Nha thắng Đan Mạch 4-2 không có Ronaldo; Man City chuẩn bị kháng cáo với luận điểm chính phủ Abu Dhabi",
+    "Putin bác đề xuất ngừng đánh đổi hạ tầng năng lượng với Ukraine, tái khẳng định đe dọa hạt nhân quanh Kaliningrad",
+    "Tuyển Việt Nam đấu Pakistan 16h hôm nay (2/10) tại Jakarta — chỉ cần 1 điểm để chắc suất tranh hạng Ba ASEAN Cup"
+  ],
+  "sections": [
+    {
+      "title": "Trí tuệ nhân tạo",
+      "intro": "Sau đêm DevDay và Gemini 4 Argon, ngày 1/10 tập trung vào tài chính hạ tầng AI (Broadcom–Anthropic), triển khai doanh nghiệp (Barclays), bản vá Claude Code, và phản ứng truyền thông về việc Google hạn chế Argon vì an toàn.",
+      "items": [
+        {
+          "headline": "Broadcom cho Anthropic vay tới 42 tỷ USD để thuê chip — lộ trong hồ sơ IPO",
+          "body": "Theo Reuters/CNBC ngày 1/10, hồ sơ IPO của Anthropic cho thấy Broadcom đồng ý cho vay tới 42 tỷ USD để tài trợ chi tiêu hạ tầng. Khoản nợ chuyển đổi có thể đổi thành cổ phần Anthropic; công ty nói không kỳ vọng bán trái phiếu trước khi hoàn tất IPO. Số tiền này có thể trang trải khoảng một phần ba cam kết thuê công suất TPU năm năm trị giá 125,2 tỷ USD (hợp tác Broadcom–Google, công suất thế hệ mới từ 2027). Anthropic cảnh báo vai trò kép nhà cung cấp chip và đối tác tài chính tạo “xung đột lợi ích tiềm ẩn”; Broadcom không bình luận. Anthropic dự kiến trở thành khách hàng compute lớn nhất của Broadcom năm 2027.",
+          "sources": [
+            {
+              "name": "CNBC (dẫn Reuters)",
+              "url": "https://www.cnbc.com/2026/10/01/broadcom-lending-anthropic-42-billion-chips-reuters.html"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01/"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        },
+        {
+          "headline": "Barclays mở rộng Claude trên toàn ngân hàng — mục tiêu đa số kỹ sư dùng Claude Code năm 2027",
+          "body": "Ngày 1/10, Anthropic công bố Barclays mở rộng hợp tác chiến lược: tích hợp Claude để tăng tốc phát triển phần mềm, hiện đại hóa hệ thống cũ và nâng hiệu suất vận hành. Barclays kỳ vọng Claude Code đạt khoảng 50% dân số lập trình viên cuối 2026, rồi đa số kỹ sư phần mềm năm 2027. Trợ lý kiến thức đồng nghiệp (RAG trên Claude) đã có hơn 16.000 người dùng và hơn một triệu lượt tìm; mảng Global Markets dùng Claude phân loại và định tuyến khoảng 120.000 email mỗi ngày. Paul Smith (CCO Anthropic) gọi đây là cột mốc lớn tại Anh, nhấn mạnh tiêu chuẩn bảo mật và giám sát của Barclays.",
+          "sources": [
+            {
+              "name": "Anthropic",
+              "url": "https://www.anthropic.com/news/barclays-scales-claude"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        },
+        {
+          "headline": "Claude Code 2.1.287: Claude Mods, companion “You should know”, vá lỗi quyền hạn",
+          "body": "Anthropic phát hành Claude Code 2.1.287 ngày 1/10 (18:00 UTC). Bản này giới thiệu Claude Mods — cách plugin thay đổi hành vi sâu hơn — và companion tùy chọn “You should know” cảnh báo điều người dùng hoặc agent chính có thể bỏ sót (chỉ phiên first-party có telemetry). Cùng lúc có sửa lỗi: lệnh xóa shell nguy hiểm mất lớp always-ask khi kết hợp redirect; trần quyền theo tổ chức bị bỏ với MCP tool tên __proto__; thêm trường prompt_text trong OpenTelemetry cần che giống prompt. Bản 2.1.286 (30/9) trước đó đã sửa mất lượt khi resume sau crash tool song song và sai đồng hồ chi tiêu cache/stream.",
+          "sources": [
+            {
+              "name": "Kingy AI (tóm release notes)",
+              "url": "https://kingy.ai/news/claude-code-2-1-287-mods-permissions-rollout/"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        },
+        {
+          "headline": "Anthropic đăng “Claude-shaped science”: BootLoops — harness mã nguồn mở cho tính toán chính xác",
+          "body": "Ngày 1/10, Anthropic đăng bài khách của GS Matthew Schwartz về BootLoops — toolkit/harness mã nguồn mở giúp LLM làm tính toán chính xác trong khoa học định lượng (ban đầu từ scattering amplitudes / S-matrix bootstrap). Claude với BootLoops mở rộng sang sinh thái, di truyền quần thể, kinh tế (AI data editor cho hàng nghìn paper), ngôn ngữ học (AccStack ~6.072 ngôn ngữ) và nhiều lĩnh vực khác, luôn có chuyên gia người hướng dẫn. BootLoops không phải sản phẩm Anthropic; Schwartz là visiting researcher. Chi tiết tại bootloops.ai và GitHub.",
+          "sources": [
+            {
+              "name": "Anthropic Research",
+              "url": "https://www.anthropic.com/research/claude-shaped-science"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        },
+        {
+          "headline": "The Guardian: Google hạn chế Gemini 4 Argon — chỉ nhóm chuyên gia an ninh mạng tin cậy",
+          "body": "Ngày 1/10, AFP/The Guardian đưa tin Google tạm không phát hành rộng Gemini 4 Argon (công bố 30/9), chỉ mở cho nhóm cyber defender đã thẩm định qua Fairwind để tránh bị hacker lạm dụng. Google tham gia quy trình tự nguyện của chính phủ Mỹ về tiếp cận mô hình trước phát hành; Argon được mô tả mạnh về lập trình, pháp lý–tài chính và phòng thủ mạng, từng giúp tester phát hiện lỗ hổng phần mềm bệnh viện mà mô hình khác bỏ sót. Báo chí so sánh với cách Anthropic hạn chế Claude Mythos Preview. (Chi tiết kỹ thuật Argon đã có trong số 1/10.)",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/oct/01/google-releases-gemini-model-restrictions"
+            },
+            {
+              "name": "Google Blog",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        },
+        {
+          "headline": "Codex Security Cloud: quét bảo mật GitHub liên tục, xác thực lỗ hổng rồi đề xuất vá",
+          "body": "Channel Insider (1/10) phân tích sâu Codex Security Cloud — research preview kèm nâng cấp Codex sau DevDay: dịch vụ quản lý cho kho GitHub đã kết nối, quét theo lịch cho khách Pro/Business/Enterprise/Edu. Hệ thống trước hết hiểu cấu trúc ứng dụng, dựng threat model (điểm vào, biên tin cậy), điều tra commit/repo, thử tái hiện lỗ hổng trong môi trường cách ly rồi mới đưa finding và bản vá đề xuất — developer vẫn quyết định merge. Thanh toán theo token; scan tạm dừng khi hết hạn mức. OpenAI khuyên bắt đầu ít repo, có reviewer riêng; không thay thế toàn bộ AppSec hiện có.",
+          "sources": [
+            {
+              "name": "Channel Insider",
+              "url": "https://www.channelinsider.com/ai/news-openai-codex-security-cloud/"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Kho GitHub đáng chú ý",
+      "intro": "Chọn từ GitHub Trending ngày 2/10; ưu tiên kho mới hoặc chưa đưa số hôm qua. Số sao lấy tại thời điểm tra cứu sáng 2/10. Đọc README trước khi dùng.",
+      "items": [
+        {
+          "headline": "DietrichGebert/ponytail — bắt agent nghĩ như senior “lười” nhất phòng",
+          "meta": "JavaScript · ~150.470 sao (+1.179 hôm nay) · github.com/DietrichGebert/ponytail",
+          "body": "Slogan: “Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.” Định hướng agent tránh viết thừa, ưu tiên giải pháp tối giản — hữu ích khi coding agent hay sinh diff phình to không cần thiết.",
+          "sources": [
+            {
+              "name": "GitHub Trending",
+              "url": "https://github.com/DietrichGebert/ponytail"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "obra/superpowers — framework skills & phương pháp phát triển cho agent",
+          "meta": "Shell · ~293.955 sao (+476 hôm nay) · github.com/obra/superpowers",
+          "body": "Tự mô tả là “agentic skills framework & software development methodology that works”. Khi Claude và Gemini đều đẩy mạnh mô hình skills, đây là một bộ khung lớn (đầu bảng trending) để học cách đóng gói quy trình kỹ sư thành skill tái sử dụng.",
+          "sources": [
+            {
+              "name": "GitHub Trending",
+              "url": "https://github.com/obra/superpowers"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "earendil-works/pi — toolkit agent: API LLM thống nhất, vòng lặp agent, TUI, CLI coding",
+          "meta": "TypeScript · ~111.195 sao (+294 hôm nay) · github.com/earendil-works/pi",
+          "body": "Bộ công cụ agent gồm API LLM thống nhất, agent loop, giao diện TUI và CLI coding agent. Phù hợp nếu muốn một lớp mỏng, tự host thay vì phụ thuộc một IDE/agent thương mại duy nhất.",
+          "sources": [
+            {
+              "name": "GitHub Trending",
+              "url": "https://github.com/earendil-works/pi"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "cursor/plugins — đặc tả plugin Cursor và plugin chính thức",
+          "meta": "TypeScript · ~9.318 sao (+157 hôm nay) · github.com/cursor/plugins",
+          "body": "Kho đặc tả plugin và plugin chính thức của Cursor. Đáng theo dõi nếu bạn viết hoặc đóng gói skill/plugin cho môi trường IDE agent — đặc biệt khi hệ sinh thái skills đang chuẩn hóa.",
+          "sources": [
+            {
+              "name": "GitHub Trending",
+              "url": "https://github.com/cursor/plugins"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "pbakaus/impeccable — “design language” giúp harness AI thiết kế đẹp hơn",
+          "meta": "github.com/pbakaus/impeccable · đang trending",
+          "body": "Mô tả: ngôn ngữ thiết kế giúp harness AI giỏi thiết kế hơn. Hữu ích khi agent sinh UI/HTML/CSS thường lệch thẩm mỹ — một lớp chỉ dẫn thiết kế có cấu trúc thay vì prompt rời.",
+          "sources": [
+            {
+              "name": "GitHub Trending",
+              "url": "https://github.com/pbakaus/impeccable"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "NVIDIA/OpenShell vẫn tăng mạnh — runtime an toàn cho tác tử tự hành",
+          "meta": "Rust · ~13.994 sao (+2.503 hôm nay) · github.com/NVIDIA/OpenShell",
+          "body": "Tiếp số hôm qua: OpenShell vẫn dẫn đầu mức tăng sao trong ngày trên Trending. Runtime cách ly/kiểm soát cho autonomous agent của NVIDIA — đáng thử khi vận hành agent lâu trên máy riêng sau loạt báo cáo agent hành động ngoài ý muốn.",
+          "sources": [
+            {
+              "name": "GitHub Trending",
+              "url": "https://github.com/NVIDIA/OpenShell"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "mvschwarz/openrig — mạng agent bền vững từ Claude Code, Codex và Pi",
+          "meta": "TypeScript · ~3.702 sao (+640 hôm nay) · github.com/mvschwarz/openrig",
+          "body": "Cập nhật mô tả trending: xây mạng agent từ Claude Code, Codex và Pi — đội bền vững có vai trò, ngữ cảnh dùng chung và công việc được sở hữu. Kết hợp tốt với kho pi (ở trên) nếu muốn đa agent đa nhà cung cấp.",
+          "sources": [
+            {
+              "name": "GitHub Trending",
+              "url": "https://github.com/mvschwarz/openrig"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        }
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "title": "Bóng đá",
+      "newpage": true,
+      "intro": "Đêm 1/10 (giờ châu Âu): Bồ Đào Nha thắng Đan Mạch không có Ronaldo; Man City hé lộ luận điểm kháng cáo trước hạn thứ Sáu. Chiều nay (VN): Việt Nam–Pakistan.",
+      "items": [
+        {
+          "headline": "Bồ Đào Nha thắng Đan Mạch 4-2 — không Ronaldo, vẫn ba trận toàn thắng Nations League",
+          "body": "Đêm 1/10 tại Parken (Copenhagen), Bồ Đào Nha thắng Đan Mạch 4-2: João Cancelo (13'), Gonçalo Ramos (25'), Vitinha (67'), João Félix (87'); phía Đan Mạch có Mikkel Damsgaard (23') và Rasmus Højlund (53'). Bruno Fernandes kiến tạo hai bàn. Trước đó Ronaldo rời trại tập sau khi HLV Jorge Jesus nói anh không đá chính; Liên đoàn xác nhận đội tiếp tục với 24 cầu thủ còn lại. Chiến thắng đưa đội của Jesus dẫn cách biệt sáu điểm ở bảng; chủ nhật tiếp Na Uy trên sân nhà.",
+          "sources": [
+            {
+              "name": "PortuGOAL",
+              "url": "https://www.portugoal.net/selecao/6130-denmark-2-4-portugal-match-report"
+            },
+            {
+              "name": "Al Jazeera (bối cảnh Ronaldo)",
+              "url": "https://www.aljazeera.com/sports/2026/10/1/why-did-ronaldo-leave-portugals-training-camp-and-will-he-play-again"
+            }
+          ],
+          "tags": [
+            "football"
+          ]
+        },
+        {
+          "headline": "Man City sẽ kháng cáo: tiền tài trợ đến từ chính phủ Abu Dhabi, không phải chủ sở hữu",
+          "body": "Theo BBC và Sky Sports ngày 1/10, Man City dự kiến nộp kháng cáo trước hạn thứ Sáu (2/10) sau khi ủy ban độc lập kết luận CLB có tội gần như toàn bộ cáo buộc tài chính. Luận điểm trung tâm: các khoản “bơm” vào hợp đồng tài trợ đến từ chính phủ Abu Dhabi (vốn được phép tài trợ theo luật giải) chứ không phải ADUG của Sheikh Mansour. Ủy ban trước đó bác bỏ giải thích này là “không đúng sự thật” và gọi là cách che giấu kế hoạch tài trợ trá hình hơn 830 triệu bảng. Sky lưu ý City có thể tranh luận quy tắc kháng cáo rút gọn 12 tuần (mới) không áp dụng vì vụ khởi tố từ 2023. Án phạt vẫn chờ phiên riêng.",
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno"
+            },
+            {
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/football/news/13594069/man-city-charges-how-premier-league-club-plan-to-argue-their-innocence-in-appeal"
+            }
+          ],
+          "tags": [
+            "football"
+          ]
+        },
+        {
+          "headline": "Tuyển Việt Nam gặp Pakistan 16h hôm nay — chỉ cần 1 điểm để chắc suất tranh hạng Ba",
+          "body": "Theo Tuổi Trẻ, lúc 16h ngày 2/10 tại SVĐ Gelora Bung Karno (Jakarta), Việt Nam đá lượt cuối bảng B FIFA ASEAN Cup 2026 với Pakistan. Thái Lan đã chắc nhất bảng (6 điểm) và vào chung kết; Việt Nam đang nhì với 3 điểm (hiệu số −1), Philippines và Pakistan cùng 1 điểm. Về lý thuyết chỉ cần hòa là chắc nhì bảng đá tranh hạng Ba, nhưng trước đối thủ yếu hơn, mục tiêu của thầy trò Kim Sang-sik là thắng thuyết phục. Trận Thái Lan–Philippines cũng 16h; trực tiếp TV360 và FPT Play. (Tính đến giờ ra báo sáng sớm, trận chưa đá.)",
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/lich-truc-tiep-fifa-asean-cup-2026-viet-nam-dau-pakistan-tranh-suat-nhi-bang-100261001173621379.htm"
+            }
+          ],
+          "tags": [
+            "football"
+          ]
+        }
+      ],
+      "tags": [
+        "football"
+      ]
+    },
+    {
+      "title": "Chính trị",
+      "items": [
+        {
+          "headline": "Putin bác đề xuất ngừng đánh đổi hạ tầng năng lượng với Ukraine, tái đe dọa hạt nhân vì Kaliningrad",
+          "body": "Ngày 1/10 tại diễn đàn Valdai ở Moskva, Tổng thống Nga Vladimir Putin từ chối ý tưởng “họ ngừng đánh nhà máy lọc dầu của chúng tôi, chúng tôi ngừng đánh tàu của họ”, gọi là “đơn giản là buồn cười”. Ông nói các cuộc tấn công của Ukraine vào nhà máy lọc dầu Nga đã làm thiệt khoảng 1% GDP và Nga đang đáp trả tương xứng; vẫn muốn kết thúc xung đột bằng đàm phán và muốn Ukraine trung lập sau chiến tranh. Ông cảnh báo nếu có tấn công trực tiếp vào lãnh thổ Nga — nêu Kaliningrad và có thể vùng khác — việc triển khai “toàn bộ vũ khí” sẽ “không thể tránh khỏi và ngay lập tức”. Cùng ngày, quan chức Kyiv cho biết máy bay không người lái Nga đánh một trường học ở thủ đô; không có thương vong vì mọi người trong hầm trú.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        },
+        {
+          "headline": "Việt Nam: Tổng Bí thư, Chủ tịch nước làm việc với Ban Chính sách, chiến lược Trung ương",
+          "body": "Sáng 1/10, Tổng Bí thư, Chủ tịch nước Tô Lâm làm việc với Ban Chính sách, chiến lược Trung ương về phát huy sức mạnh đội ngũ cán bộ các viện hàn lâm, viện nghiên cứu trong tham mưu chiến lược. Ông yêu cầu Ban chịu trách nhiệm xác định vấn đề, đặt yêu cầu nghiên cứu, tích hợp luận cứ và xây dựng phương án; đến 2027 phải thấy chuyển biến rõ về chất lượng dự báo và tham mưu. Cùng sáng, Thủ tướng Lê Minh Hưng chủ trì Hội nghị Thường trực Đảng ủy Chính phủ đánh giá, xếp loại cán bộ lãnh đạo quý III/2026, nhấn mạnh năm 2026 — năm đầu nhiệm kỳ — có ý nghĩa tạo thế, tạo lực cho cả nhiệm kỳ.",
+          "sources": [
+            {
+              "name": "Nhân Dân",
+              "url": "https://nhandan.vn/tin-noi-bat-ngay-110-tong-bi-thu-chu-tich-nuoc-lam-viec-voi-ban-chinh-sach-chien-luoc-trung-uong-thu-tuong-chu-tri-hoi-nghi-thuc-hien-cong-tac-danh-gia-xep-loai-can-bo-post992203.html"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        },
+        {
+          "headline": "Quốc hội: UBTVQH khai mạc Phiên họp 7 — Luật Đất đai (sửa đổi); Kỳ họp 2 dự kiến 17/10–21/11",
+          "body": "Chiều 1/10, dưới sự chủ trì của Chủ tịch Quốc hội Trần Thanh Mẫn, Ủy ban Thường vụ Quốc hội khai mạc Phiên họp thứ 7 — phiên cuối chuẩn bị Kỳ họp thứ 2 Quốc hội khóa XVI. Nội dung gồm 5 dự án luật, 1 nghị quyết quy phạm và các báo cáo kinh tế–xã hội, ngân sách; mở đầu bằng dự án Luật Đất đai (sửa đổi). Kỳ họp 2 dự kiến khai mạc 17/10, bế mạc khoảng 21/11 (có thể kéo dài tùy chương trình).",
+          "sources": [
+            {
+              "name": "Nhân Dân",
+              "url": "https://nhandan.vn/tin-noi-bat-ngay-110-tong-bi-thu-chu-tich-nuoc-lam-viec-voi-ban-chinh-sach-chien-luoc-trung-uong-thu-tuong-chu-tri-hoi-nghi-thuc-hien-cong-tac-danh-gia-xep-loai-can-bo-post992203.html"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        },
+        {
+          "headline": "Việt Nam–Hoa Kỳ “đến rất gần” kết quả cuối cùng về Hiệp định thương mại đối ứng",
+          "body": "Tại họp báo thường kỳ Bộ Ngoại giao chiều 1/10, Người phát ngôn Phạm Thu Hằng cho biết ngày 21/9 tại New York, Tổng Bí thư, Chủ tịch nước Tô Lâm đã tiếp Đại sứ Jamieson Greer, Trưởng Đại diện Thương mại Hoa Kỳ. Hai bên ghi nhận tiến triển tích cực hướng tới sớm ký Hiệp định thương mại đối ứng công bằng và cân bằng, tạo khuôn khổ ổn định lâu dài cho quan hệ kinh tế–thương mại–đầu tư. Việt Nam và Hoa Kỳ tiếp tục trao đổi để thúc đẩy đàm phán, bảo đảm lợi ích chính đáng của người dân và doanh nghiệp.",
+          "sources": [
+            {
+              "name": "Nhân Dân",
+              "url": "https://nhandan.vn/tin-noi-bat-ngay-110-tong-bi-thu-chu-tich-nuoc-lam-viec-voi-ban-chinh-sach-chien-luoc-trung-uong-thu-tuong-chu-tri-hoi-nghi-thuc-hien-cong-tac-danh-gia-xep-loai-can-bo-post992203.html"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        }
+      ],
+      "tags": [
+        "politics"
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp tự động từ các nguồn công khai sáng 2/10/2026 (giờ VN). Mọi con số, trích dẫn đều lấy từ nguồn ghi kèm; một số chi tiết (đặc biệt từ blog phân tích release notes) nên kiểm tra lại ở nguồn gốc. Trận Việt Nam–Pakistan chưa đá tại thời điểm đóng số."
+}

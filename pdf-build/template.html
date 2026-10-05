@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<title>{{ masthead }} — {{ date_vn }}</title>
+<style>
+@font-face { font-family: "BaoSerif"; src: url("fonts/SourceSerifPro-Regular.ttf"); font-weight: 400; font-style: normal; }
+@font-face { font-family: "BaoSerif"; src: url("fonts/SourceSerifPro-It.ttf"); font-weight: 400; font-style: italic; }
+@font-face { font-family: "BaoSerif"; src: url("fonts/SourceSerifPro-Semibold.ttf"); font-weight: 600; font-style: normal; }
+@font-face { font-family: "BaoSerif"; src: url("fonts/SourceSerifPro-Bold.ttf"); font-weight: 700; font-style: normal; }
+
+@page {
+  size: {{ page_size }};
+  margin: 15mm 14mm 16mm 14mm;
+  @bottom-center {
+    content: "{{ masthead }} · {{ date_short }} · trang " counter(page) "/" counter(pages);
+    font-family: "BaoSerif", "Noto Serif", serif; font-size: 8.5pt; color: #000;
+  }
+}
+@page :first { @bottom-center { content: "trang " counter(page) "/" counter(pages); font-family: "BaoSerif", serif; font-size: 8.5pt; } }
+
+html { color: #000; background: #fff; }
+body { font-family: "BaoSerif", "Noto Serif", serif; font-size: {{ font_size }}; line-height: 1.42;
+       hyphens: manual; text-align: left; margin: 0; }
+a { color: #000; text-decoration: none; }
+
+.masthead { text-align: center; border-bottom: 3pt double #000; padding-bottom: 3mm; margin-bottom: 4mm; }
+.masthead .title { font-size: 30pt; font-weight: 700; letter-spacing: 0.5pt; line-height: 1.1; margin: 0; }
+.masthead .date { font-size: 12pt; font-style: italic; margin-top: 1.5mm; }
+.masthead .tagline { font-size: 9pt; margin-top: 1mm; }
+
+.quick { border: 1.5pt solid #000; padding: 3mm 4mm 2mm 4mm; margin: 0 0 6mm 0; page-break-inside: avoid; }
+.quick h2 { font-size: 13pt; margin: 0 0 1.5mm 0; text-transform: uppercase; letter-spacing: 1pt; border: none; padding: 0; }
+.quick ol { margin: 0; padding-left: 5.5mm; }
+.quick li { margin-bottom: 1.5mm; font-weight: 600; font-size: 11.5pt; line-height: 1.32; }
+
+.toc { margin: 0 0 4mm 0; font-size: 11pt; page-break-inside: avoid; }
+.toc h2 { font-size: 11pt; margin: 0 0 1mm 0; text-transform: uppercase; letter-spacing: 1pt; border-bottom: 0.6pt solid #000; padding-bottom: 0.8mm; }
+.toc table { width: 100%; border-collapse: collapse; }
+.toc td { padding: 0.8mm 0; border-bottom: 0.3pt dotted #000; vertical-align: top; }
+.toc td.n { text-align: right; white-space: nowrap; font-style: italic; }
+.toc a::after { content: target-counter(attr(href), page); }
+.section { margin-top: 2mm; }
+.section h2 { font-size: 17pt; font-weight: 700; margin: 6mm 0 1mm 0; padding: 1mm 0; border-top: 2pt solid #000;
+              border-bottom: 0.6pt solid #000; text-transform: uppercase; letter-spacing: 1pt; page-break-after: avoid; }
+.section .intro { font-style: italic; font-size: 10.5pt; margin: 1.5mm 0 2mm 0; }
+.section.newpage { page-break-before: always; }
+.section.newpage h2 { margin-top: 0; }
+
+.item { margin: 3.5mm 0 0 0; padding-bottom: 3mm; border-bottom: 0.4pt solid #000; }
+.item:last-child { border-bottom: none; }
+.item h3 { font-size: 13.5pt; font-weight: 700; line-height: 1.25; margin: 0 0 1.2mm 0; page-break-after: avoid; }
+.item .meta { font-size: 10pt; font-style: italic; margin: 0 0 1mm 0; }
+.item p { margin: 0 0 1.2mm 0; orphans: 3; widows: 3; }
+.src { font-size: 8.8pt; line-height: 1.3; margin-top: 1mm; overflow-wrap: anywhere; word-break: break-word; }
+.src b { font-weight: 600; }
+.src .url { font-size: 8.3pt; }
+
+.footer-note { margin-top: 6mm; font-size: 9pt; font-style: italic; border-top: 0.6pt solid #000; padding-top: 2mm; }
+</style>
+</head>
+<body>
+<header class="masthead">
+  <div class="title">{{ masthead }}</div>
+  <div class="date">{{ date_vn }}</div>
+  {% if tagline %}<div class="tagline">{{ tagline }}</div>{% endif %}
+</header>
+
+<div class="quick">
+  <h2>Điểm nhanh</h2>
+  <ol>{% for h in highlights %}<li>{{ h }}</li>{% endfor %}</ol>
+</div>
+
+{% if cover %}
+<div class="toc">
+  <h2>Trong số này</h2>
+  <table>{% for s in sections %}<tr><td><b>{{ s.title }}</b> — {{ s['items']|length }} tin</td><td class="n">trang <a href="#sec{{ loop.index }}"></a></td></tr>{% endfor %}</table>
+</div>
+{% endif %}
+
+{% for s in sections %}
+<section id="sec{{ loop.index }}" class="section{% if s.newpage or (cover and loop.first) %} newpage{% endif %}">
+  <h2>{{ s.title }}</h2>
+  {% if s.intro %}<div class="intro">{{ s.intro }}</div>{% endif %}
+  {% for it in s['items'] %}
+  <article class="item">
+    <h3>{{ it.headline }}</h3>
+    {% if it.meta %}<div class="meta">{{ it.meta }}</div>{% endif %}
+    {% for para in (it.body if it.body is not string else [it.body]) %}<p>{{ para }}</p>{% endfor %}
+    {% if it.sources %}<div class="src"><b>Nguồn:</b>
+      {% for src in it.sources %}{{ src.name }}{% if src.url %} — <a class="url" href="{{ src.url }}">{{ src.url }}</a>{% endif %}{% if not loop.last %}; {% endif %}{% endfor %}
+    </div>{% endif %}
+  </article>
+  {% endfor %}
+</section>
+{% endfor %}
+
+{% if footer_note %}<div class="footer-note">{{ footer_note }}</div>{% endif %}
+</body>
+</html>

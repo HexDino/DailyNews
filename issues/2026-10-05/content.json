@@ -1,0 +1,434 @@
+{
+  "date": "2026-10-05",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 5/10/2026 · Tin tổng hợp trong khoảng 24 giờ qua · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Bầu cử Brazil: Flávio Bolsonaro dẫn Lula 47,85% – 44,20% khi đã kiểm 92,5% phiếu; nhiều khả năng có vòng hai ngày 25/10",
+    "Codex cam kết 28 ngày liên tiếp: mỗi ngày một cải tiến rõ rệt hoặc một lần reset toàn bộ hạn mức",
+    "Việt Nam gặp Malaysia tranh hạng Ba FIFA ASEAN Cup lúc 16h hôm nay — cả hai đội đều sứt mẻ lực lượng",
+    "Nga tuyên bố tăng cường tấn công Kyiv; Zelenskyy cho rằng Nga đã chia sẻ công nghệ drone phản lực cho Triều Tiên",
+    "Thủ tướng yêu cầu trình ngay Nghị định giảm 30% thuế thu nhập cho doanh nghiệp, hộ kinh doanh doanh thu ≤10 tỷ đồng/năm"
+  ],
+  "sections": [
+    {
+      "title": "Trí tuệ nhân tạo",
+      "intro": "Ngày 4/10 là một ngày Chủ Nhật tương đối yên ắng: đội Codex hứa một tháng cải tiến dồn dập, Anthropic mở thêm lựa chọn chia sẻ dữ liệu giọng nói, còn giới nghiên cứu tiếp tục đào sâu vào “harness” cho tác tử.",
+      "items": [
+        {
+          "headline": "Codex hứa 28 ngày liên tiếp: mỗi ngày một cải tiến hoặc một lần reset hạn mức",
+          "meta": "OpenAI · Thibault Sottiaux (@thsottiaux) trên X, 4/10",
+          "body": [
+            "Trưởng nhóm Codex Thibault Sottiaux viết trên X rằng trong 28 ngày tới, mỗi ngày đội sẽ “ship một thứ là cải tiến rõ ràng và có ích cho phần lớn người dùng Codex/Work, hoặc ship một lần reset toàn bộ”. Khoảng 16 giờ trước đó, ông nói đội đang “locking in” chỉ vào bốn việc: đơn giản hóa sản phẩm, dùng tài nguyên hiệu quả hơn để phục vụ nhiều lượt dùng hơn, tính năng đột phá và mô hình mới.",
+            "Lưu ý: chưa có danh sách cải tiến, ngày cụ thể hay gói nào được áp dụng, và chưa có lần reset nào được xác nhận cho tài khoản cá nhân. Nếu tính từ 4/10, chuỗi 28 ngày kết thúc khoảng 31/10–1/11."
+          ],
+          "sources": [
+            {
+              "name": "NerdsChalk",
+              "url": "https://nerdschalk.com/openai-codex-28-day-reset-pledge/"
+            },
+            {
+              "name": "RSS.bz (tổng hợp bài X)",
+              "url": "https://rss.bz/post/openai-codex-simplification-efficiency-roadmap"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        },
+        {
+          "headline": "Code Review của Codex trong ChatGPT: bình luận ở mục Summary/Changes được đăng lên GitHub ngay lập tức",
+          "meta": "OpenAI · tài liệu Code Review",
+          "body": "Plugin Code Review (có trong release notes ngày 29/9) cho phép Codex đọc pull request GitHub ngay trong ChatGPT; hỗ trợ GitLab merge request vẫn ở dạng preview. Tài liệu của OpenAI cảnh báo: đăng bình luận trong khung Summary hoặc Changes sẽ gửi thẳng lên GitHub mà không chờ bấm Submit review. Việc trò chuyện về PR trong chat thì không đăng gì cả. Ở máy local, lệnh /review trong Codex CLI, app desktop hoặc extension IDE sẽ review so với nhánh gốc hoặc review thay đổi chưa commit, không sửa working tree.",
+          "sources": [
+            {
+              "name": "Mixed News",
+              "url": "https://mixed-news.com/en/codex-code-review-pull-requests-comment-posts-immediately/"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        },
+        {
+          "headline": "Claude bắt đầu hỏi người dùng có muốn chia sẻ dữ liệu giọng nói để huấn luyện mô hình",
+          "meta": "Anthropic · Claude voice mode",
+          "body": "Khi dùng tính năng giọng nói, người dùng Claude thấy lời mời “Allow us to use your voice data to improve our AI models” với hai lựa chọn Allow và Not now. Tùy chọn này mặc định tắt, tách riêng khỏi tùy chọn dùng chat và phiên Claude Code để huấn luyện, có thể tắt lại hoặc xóa dữ liệu giọng nói trong Settings > Privacy. Anthropic chưa nói rõ việc xóa có ảnh hưởng tới mô hình đã huấn luyện hay không.",
+          "sources": [
+            {
+              "name": "Xploitwire",
+              "url": "https://xploitwire.com/article/anthropic-opens-voice-data-training-tap"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        },
+        {
+          "headline": "Google Cloud AI Research: RRSI giúp tác tử tự cải thiện harness mà không “học thuộc” bài kiểm tra",
+          "meta": "Nghiên cứu · mô hình nền Claude Opus 4.8 giữ nguyên",
+          "body": [
+            "Khi để mô hình ngôn ngữ tự viết lại harness (prompt, quy trình, công cụ, bộ nhớ) dựa trên phản hồi từ bộ bài kiểm tra, tác tử dễ quá khớp: điểm trên bài luyện tăng nhưng trên bài mới thì không. RRSI giới hạn số chỉnh sửa mỗi vòng (ngân sách co dần theo thời gian), dùng một “critic” loại bỏ đề xuất cài cứng tên bài hay lời giải, và chỉ chấp nhận tốn thêm compute khi có lợi rõ ràng.",
+            "Trên tám benchmark (lập trình, công việc văn phòng kiểu agent, thiết kế kỹ thuật), RRSI tăng tối đa 14,1 điểm trên bài luyện và tối đa 4,7 điểm trên năm benchmark chưa từng thấy, dùng ít hơn khoảng 30% token so với bản không điều chuẩn. Mã nguồn đã có trên GitHub."
+          ],
+          "sources": [
+            {
+              "name": "The Decoder",
+              "url": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        },
+        {
+          "headline": "Hacker News tranh luận: “Agents don't need memory, they need documentation”",
+          "meta": "Hacker News · hơn 340 điểm, hơn 200 bình luận",
+          "body": "Bài luận của Kevin Liao lập luận rằng thay vì hệ bộ nhớ vector, tác tử lập trình cần tài liệu dự án dạng Markdown được đọc trước khi làm và cập nhật sau khi làm, có lịch sử qua Git để review. Nhiều bình luận phản biện rằng tài liệu cũ hoặc rời rạc còn tệ hơn bộ nhớ, và với dữ kiện thay đổi liên tục hay kho tri thức lớn thì vẫn cần hệ bộ nhớ có nguồn gốc rõ ràng. Cùng ngày, bài đứng đầu HN là hướng dẫn chạy Qwen 3.8 Flash Next (125B) trên một RTX 4090 ở khoảng 100 token/giây (565 điểm).",
+          "sources": [
+            {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/item?id=49945933"
+            },
+            {
+              "name": "Kevin Liao (blog)",
+              "url": "https://liao.gg/blog/agents-dont-need-memory"
+            },
+            {
+              "name": "Hacker News – trang chủ",
+              "url": "https://news.ycombinator.com/"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        },
+        {
+          "headline": "Gemini Live có Guided Vision cho người khiếm thị trên Android",
+          "meta": "Google · ra mắt 1/10, chưa đưa ở các số trước",
+          "body": "Guided Vision biến Gemini Live thành trợ lý thị giác trò chuyện thời gian thực: chia sẻ camera để nhận mô tả âm thanh về xung quanh, đặt câu hỏi chi tiết và nhận gợi ý xoay hướng camera bằng lời. Tính năng được phát triển cùng cộng đồng người mù và thị lực kém, chạy trên Android 9 trở lên ở các vùng và ngôn ngữ có Gemini Live; có thể gán phím tắt trợ năng (nút nổi, vuốt hai ngón hoặc giữ hai phím âm lượng).",
+          "sources": [
+            {
+              "name": "Google Blog",
+              "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/"
+            }
+          ],
+          "tags": [
+            "ai"
+          ]
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Kho GitHub đáng chú ý",
+      "intro": "Chọn từ GitHub Trending sáng 5/10 (giờ VN); bỏ các repo đã đưa ở các số 1–4/10 (ponytail, Agent-Reach, impeccable, agent-skills, claude-mem…). Số sao lấy từ trang trending tại thời điểm tra cứu.",
+      "items": [
+        {
+          "headline": "earthtojake/text-to-cad — cho agent “siêu năng lực” CAD",
+          "meta": "Python · ~16.848 sao (+75 hôm nay) · github.com/earthtojake/text-to-cad",
+          "body": "Bộ công cụ để coding agent dựng mô hình CAD 3D bằng code, xây trên build123d và nhân hình học Open CASCADE, có gói PyPI cadgen và được phân phối dạng skill (skills.sh). Hữu ích nếu bạn muốn nhờ Claude Code hay Codex thiết kế chi tiết in 3D hoặc linh kiện cơ khí mà vẫn kiểm soát được qua mã nguồn.",
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/earthtojake/text-to-cad"
+            },
+            {
+              "name": "Docs",
+              "url": "https://www.texttocad.dev"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "calesthio/OpenMontage — hệ thống sản xuất video kiểu agent, mã nguồn mở",
+          "meta": "Python · ~63.197 sao (+361 hôm nay) · AGPLv3 · github.com/calesthio/OpenMontage",
+          "body": "Tự giới thiệu là hệ thống sản xuất video agentic mã nguồn mở đầu tiên: 12 pipeline sản xuất, hơn 100 công cụ và hơn 700 file skill/kiến thức sản xuất, biến trợ lý lập trình AI thành một “xưởng” dựng video. Có hướng dẫn riêng cho agent (AGENT_GUIDE.md) và tính năng bắt đầu từ một video mẫu bạn thích.",
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/calesthio/OpenMontage"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "michael-denyer/pstack-claude — bản port pstack cho Claude Code, Codex, Pi, OpenCode, Gemini",
+          "meta": "JavaScript · ~1.134 sao (+242 hôm nay) · github.com/michael-denyer/pstack-claude",
+          "body": "Port bộ skill pstack của Lauren Tan (vốn viết cho Cursor) sang các harness khác, bám theo upstream. Cài một dòng: /plugin marketplace add trong Claude Code, codex plugin marketplace add cho Codex, hoặc pi install cho Pi. Gọi poteto-mode với mục tiêu và nó tự chọn quy trình phù hợp (thiết kế, review đối kháng, “arena” nhiều ứng viên…).",
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/michael-denyer/pstack-claude"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "garrytan/gstack — bộ thiết lập Claude Code của Garry Tan (CEO Y Combinator)",
+          "meta": "TypeScript · ~135.154 sao (+121 hôm nay) · github.com/garrytan/gstack",
+          "body": "23 công cụ có chủ kiến đóng vai CEO, Designer, Eng Manager, Release Manager, Doc Engineer và QA, để một người làm việc như cả đội. Đáng tham khảo cách chia vai trò và quy trình phát hành; các con số năng suất trong README là do tác giả tự báo cáo.",
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/garrytan/gstack"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "coreyhaines31/marketingskills — skills marketing cho Claude Code và các agent",
+          "meta": "JavaScript · ~53.051 sao (+270 hôm nay) · MIT · github.com/coreyhaines31/marketingskills",
+          "body": "Thư viện skill theo chuẩn Agent Skills cho tối ưu chuyển đổi (CRO), copywriting, SEO, analytics và growth engineering; chạy được với Claude Code, Codex, Cursor, Windsurf. Hợp với founder hoặc dân kỹ thuật muốn agent lo phần landing page và đo lường.",
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/coreyhaines31/marketingskills"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        },
+        {
+          "headline": "antirez/ds4 (DwarfStar) — engine suy luận local cho DeepSeek V4, GLM 5.x, Qwen 3.8 Flash Next",
+          "meta": "C · ~23.441 sao (+211 hôm nay) · github.com/antirez/ds4",
+          "body": "Engine suy luận gốc, gọn, của tác giả Redis, tối ưu cho vài mô hình lớn trên phần cứng cá nhân: Metal (Mac từ 96 GB, máy nhỏ hơn dùng SSD streaming), CUDA (nhắm DGX Spark, hỗ trợ multi-GPU) và ROCm trên Strix Halo. Nạp mô hình, tool call, KV state, HTTP server và coding agent được kiểm thử cùng nhau, nên đáng thử nếu muốn chạy agent hoàn toàn offline.",
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/antirez/ds4"
+            }
+          ],
+          "tags": [
+            "github"
+          ]
+        }
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "title": "Bóng đá",
+      "intro": "Nations League tối 4/10 và trận tranh hạng Ba FIFA ASEAN Cup của tuyển Việt Nam chiều nay.",
+      "newpage": true,
+      "items": [
+        {
+          "headline": "16h hôm nay: Việt Nam – Malaysia tranh hạng Ba FIFA ASEAN Cup, cả hai đội đều thiếu người",
+          "meta": "Sân Gelora Bung Karno, Jakarta",
+          "body": [
+            "Sau buổi tập cuối tối 4/10, HLV Kim Sang-sik cho biết Việt Anh bị chấn thương cơ nhưng “có khả năng cao” vẫn ra sân sau khi ban y tế kiểm tra; Hoàng Hên không thể góp mặt, Tài Lộc chưa đạt thể lực tốt nhất. Theo Thể Thao 247, nếu Việt Anh và Hoàng Hên đều vắng, đội chỉ còn 19 cầu thủ lành lặn (gồm 3 thủ môn). Ông Kim nhắc riêng tiền đạo số 9 mới nhập tịch của Malaysia.",
+            "Malaysia mất trung vệ Dion Cools (về nước vì việc gia đình) và Faisal Halim (chấn thương bắp chân), nhưng vẫn có Bergson (4 bàn ở giải), Fergus Tierney, Manuel Hidalgo. Lần gần nhất Malaysia thắng Việt Nam là bán kết AFF Cup 2014 (4-2 tại Mỹ Đình)."
+          ],
+          "sources": [
+            {
+              "name": "VietnamPlus (qua vietnam.vn)",
+              "url": "https://www.vietnam.vn/hlv-kim-sang-sik-cang-kho-khan-tuyen-viet-nam-cang-quyet-tam-chien-thang"
+            },
+            {
+              "name": "Thể Thao 247",
+              "url": "https://thethao247.vn/175391-dt-viet-nam-chi-co-19-cau-thu-san-sang-dau-malaysia-o-fifa-asean-cup-c1-d438664.html"
+            },
+            {
+              "name": "Bongda.com.vn",
+              "url": "https://bongda.com.vn/malaysia-mat-cap-tru-cot-truoc-man-cham-tran-tuyen-viet-nam-d849670.html"
+            }
+          ],
+          "tags": [
+            "football"
+          ]
+        },
+        {
+          "headline": "Không Ronaldo, Bồ Đào Nha ngược dòng thắng Na Uy 2-1, sớm vào tứ kết Nations League",
+          "meta": "Lượt 4 bảng A4 · sân Dragão, Porto, tối 4/10",
+          "body": "Kristoffer Ajer mở tỷ số cho Na Uy phút 36, hai phút sau João Cancelo vô-lê gỡ hòa; phút 79 Gonçalo Ramos đệm bóng cận thành ấn định 2-1. Francisco Conceição nhận hai thẻ vàng phút 86. Haaland bị Rúben Dias và Renato Veiga khóa chặt. Bồ Đào Nha có 12 điểm tuyệt đối sau bốn lượt; trên khán đài có biểu ngữ ủng hộ Ronaldo và một phần CĐV la ó HLV Jorge Jesus.",
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bo-dao-nha-thang-na-uy-vao-tu-ket-nations-league-5128319.html"
+            }
+          ],
+          "tags": [
+            "football"
+          ]
+        },
+        {
+          "headline": "Kết quả Nations League ngày 4/10: Thụy Sĩ, Iceland, Phần Lan cùng thắng",
+          "meta": "Tổng hợp",
+          "body": "Thụy Sĩ 2-1 Slovenia; Phần Lan 2-1 Albania; Iceland 3-0 Bulgaria; Belarus 4-0 San Marino; Estonia 1-0 Luxembourg.",
+          "sources": [
+            {
+              "name": "Vietnam.vn",
+              "url": "https://www.vietnam.vn/ket-qua-lich-thi-dau-bong-da-hom-nay-4-10-soi-dong-uefa-nations-league"
+            },
+            {
+              "name": "Yêu Thể Thao",
+              "url": "https://yeuthethao.net.vn/ket-qua-uefa-nations-league-b-sang-410-thuy-si-scotland-cung-thang-d897234.html"
+            }
+          ],
+          "tags": [
+            "football"
+          ]
+        },
+        {
+          "headline": "Bóng đá nữ: Man City ngược dòng thắng Arsenal 4-2; Barça hủy diệt Real Madrid 7-0",
+          "meta": "WSL và Liga F · 4/10",
+          "body": "Tại Etihad, Lauren Hemp lập cú đúp, Casparij và Bunny Shaw cũng ghi bàn giúp Man City thắng 5/5 trận và trở lại ngôi đầu WSL; Arsenal mới thắng một trận, kém 10 điểm. Ở Tây Ban Nha, Clàudia Pina ghi bốn bàn (hat-trick chỉ trong nửa giờ), Graham Hansen, Pajor và Schertenleib góp mặt trong trận Barcelona thắng Real Madrid 7-0.",
+          "sources": [
+            {
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/football/news/13594349/man-city-4-2-arsenal-wsl-champions-come-from-behind-in-thriller-to-ramp-up-pressure-on-renee-slegers-and-the-gunners"
+            },
+            {
+              "name": "AS USA",
+              "url": "https://en.as.com/soccer/barcelona-destroys-real-madrid-with-stunning-7-0-clasico-win-f202610-n/"
+            }
+          ],
+          "tags": [
+            "football"
+          ]
+        }
+      ],
+      "tags": [
+        "football"
+      ]
+    },
+    {
+      "title": "Chính trị",
+      "items": [
+        {
+          "headline": "Bầu cử Brazil: Flávio Bolsonaro dẫn Lula ở vòng một, nhiều khả năng phải đấu vòng hai ngày 25/10",
+          "meta": "Số liệu TSE lúc 20:40 giờ Brasília (6:40 sáng nay giờ VN), đã kiểm 92,53% điểm bỏ phiếu",
+          "body": [
+            "Flávio Bolsonaro (PL), con trai cựu tổng thống Jair Bolsonaro, có 47,85% phiếu hợp lệ; Tổng thống Lula (PT), 80 tuổi, tranh nhiệm kỳ thứ tư, có 44,20%. Khoảng cách đã thu hẹp từ 7,3 xuống 3,65 điểm phần trăm khi các bang ủng hộ Lula như Bahia, Ceará, Pernambuco còn đang kiểm phiếu. Chưa ai vượt 50% và TSE chưa công bố kết quả; Datafolha dự báo có vòng hai.",
+            "Cuộc thăm dò cuối của Datafolha (3/10) cho Lula 45%, Flávio 42%. Chiến dịch bị chi phối bởi bê bối ngân hàng Banco Master, lo ngại kinh tế và cáo buộc Mỹ can thiệp (Mỹ bác bỏ). Người thắng nhậm chức ngày 5/1/2027."
+          ],
+          "sources": [
+            {
+              "name": "The Rio Times",
+              "url": "https://www.riotimesonline.com/brazil-election-first-round-results-lula-flavio-2026/"
+            },
+            {
+              "name": "Reuters qua NBC News",
+              "url": "https://www.nbcnews.com/world/brazil/brazilians-polarized-election-lula-flavio-bolsonaro-rcna601381"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        },
+        {
+          "headline": "Nga tuyên bố tăng cường tấn công Kyiv; Zelenskyy: Nga đã chia sẻ công nghệ drone phản lực với Triều Tiên",
+          "meta": "Reuters · 4/10",
+          "body": "Bộ Quốc phòng Nga nói sẽ đẩy mạnh tấn công các cơ sở quân sự, công nghiệp quốc phòng và hạ tầng liên quan ở Kyiv và nơi khác, đáp lại việc Zelenskyy nói với Reuters rằng Ukraine sẽ đánh mạnh hơn vào nhà máy lọc dầu Nga (nhưng không nhắm vào dân thường). Cùng ngày, khi được hỏi Nga có chia sẻ công nghệ drone phản lực thế hệ mới cho Triều Tiên hay không, Zelenskyy đáp: “Có, tất nhiên.” Ukraine hiện chưa có cách chống drone phản lực hiệu quả ngoài dùng máy bay chiến đấu.",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/europe/russia-intensify-strikes-ukraine-after-zelenskiy-interview-2026-10-04/"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/aerospace-defense/ukraine-believes-russia-shared-jet-drone-technology-with-north-korea-says-2026-10-04/"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        },
+        {
+          "headline": "Yemen: chính phủ được Saudi Arabia hậu thuẫn mở chiến dịch lớn chống Houthi",
+          "meta": "Reuters qua NBC News · 4/10",
+          "body": "Tổng thống Rashad al-Alimi tuyên bố trên truyền hình bắt đầu chiến dịch “giành lại phần lãnh thổ còn lại của nước cộng hòa”; theo các quan chức, Saudi Arabia sẽ phụ trách không chiến, lực lượng Yemen đánh trên bộ. Trong khi đó Houthi vẫn giữ thế chủ động, vài tuần sau khi chiếm eo biển Bab el-Mandeb, và 48 giờ qua tiến gần con đường cuối cùng nối Taiz với Aden.",
+          "sources": [
+            {
+              "name": "NBC News / Reuters",
+              "url": "https://www.nbcnews.com/world/middle-east/yemen-leader-major-military-operations-iran-backed-houthis-rcna601377"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        },
+        {
+          "headline": "Iran: eo biển Hormuz chỉ mở lại khi Mỹ đáp ứng đủ 7 điều kiện",
+          "meta": "Reuters qua Al Arabiya · 4/10",
+          "body": "Chủ tịch Quốc hội kiêm trưởng đoàn đàm phán Mohammad Bagher Ghalibaf nói Hormuz sẽ không mở lại cho tới khi bảy điều kiện trong Bản ghi nhớ Islamabad (thỏa thuận tạm thời tháng 6 với Mỹ) được đáp ứng. Iran đã đưa đề xuất tại Đại hội đồng LHQ, theo đó có thể khôi phục lưu thông trong bảy ngày nếu đủ điều kiện; Mỹ đã trả lời tuần trước qua trung gian Qatar.",
+          "sources": [
+            {
+              "name": "Al Arabiya / Reuters",
+              "url": "https://english.alarabiya.net/News/middle-east/2026/10/04/iran-says-strait-of-hormuz-will-not-reopen-until-conditions-are-met"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        },
+        {
+          "headline": "Việt Nam: Thủ tướng yêu cầu trình ngay Nghị định giảm 30% thuế thu nhập cho doanh nghiệp nhỏ; không tăng giá điện",
+          "meta": "Kết luận phiên họp Chính phủ thường kỳ tháng 9 · cập nhật số 4/10",
+          "body": "Ngoài mục tiêu GDP quý IV trên 12,5% (đã đưa số trước), Thủ tướng Lê Minh Hưng giao Bộ Tài chính trình ngay Nghị định giảm 30% thuế thu nhập cho doanh nghiệp, hộ kinh doanh có doanh thu không quá 10 tỷ đồng/năm; yêu cầu không tăng giá điện, giữ mục tiêu lạm phát; Bộ Nội vụ hoàn thiện đề xuất biên chế hệ thống chính trị và cơ chế tiền lương, phụ cấp. Thủ tướng nói quý III đã “bật đèn vàng” với một số địa phương và kết quả cuối năm sẽ là cơ sở đánh giá, luân chuyển cán bộ.",
+          "sources": [
+            {
+              "name": "Kinh tế & Tiêu dùng (theo chinhphu.vn)",
+              "url": "https://kinhtetieudung.vn/khan-truong-trinh-nghi-dinh-giam-thue-de-xuat-co-che-tien-luong-phu-cap-phan-cap-phan-quyen-a30617.html"
+            },
+            {
+              "name": "BBC Tiếng Việt",
+              "url": "https://www.bbc.com/vietnamese/articles/c3y0erpv8wnlo"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        },
+        {
+          "headline": "Việt Nam: sân bay Long Thành vận hành thử tháng 10–11, dự kiến khai thác thương mại tháng 12/2026",
+          "meta": "Nhân Dân · sáng 4/10",
+          "body": "Phó Thủ tướng Thường trực Phạm Gia Túc kiểm tra tiến độ dự án; dự án thành phần 3 đã đạt hơn 80% giá trị hợp đồng. Cũng trong ngày, Ban Chỉ đạo chuyển đổi số trong các cơ quan Đảng ra thông báo kết luận phiên họp thứ 5, yêu cầu chuyển từ tư duy “hoàn thành đầu việc” sang “tạo ra sản phẩm, kết quả và giá trị thực tiễn”.",
+          "sources": [
+            {
+              "name": "Nhân Dân – Tin nổi bật ngày 4/10",
+              "url": "https://nhandan.vn/tin-noi-bat-ngay-410-day-manh-trien-khai-hieu-qua-chuyen-doi-so-trong-cac-co-quan-dang-chuan-bi-van-hanh-thu-nghiem-san-bay-long-thanh-post992872.html"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        },
+        {
+          "headline": "Mỹ nói sẵn sàng đối thoại với Triều Tiên nếu phục vụ lợi ích quốc gia",
+          "meta": "Nhân Dân · 3/10 (giờ Mỹ)",
+          "body": "Phát biểu khi vận động ở Ohio trước bầu cử giữa nhiệm kỳ, Tổng thống Trump nói ông có quan hệ “rất tốt” với Kim Jong Un; trước đó người phát ngôn Bộ Ngoại giao Tommy Pigott nói Washington không coi đàm phán với Bình Nhưỡng là “nhượng bộ”. Triều Tiên vẫn bác yêu cầu phi hạt nhân hóa.",
+          "sources": [
+            {
+              "name": "Nhân Dân",
+              "url": "https://nhandan.vn/tin-noi-bat-ngay-410-day-manh-trien-khai-hieu-qua-chuyen-doi-so-trong-cac-co-quan-dang-chuan-bi-van-hanh-thu-nghiem-san-bay-long-thanh-post992872.html"
+            }
+          ],
+          "tags": [
+            "politics"
+          ]
+        }
+      ],
+      "tags": [
+        "politics"
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp tự động từ các nguồn công khai sáng 5/10/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; kết quả bầu cử Brazil là số liệu kiểm phiếu chưa hoàn tất. Không lặp lại tin đã đưa các số 1–4/10 trừ khi có cập nhật thực sự (trận Việt Nam–Malaysia, phiên họp Chính phủ tháng 9, chiến sự Ukraine)."
+}
