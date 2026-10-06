@@ -1,0 +1,589 @@
+{
+  "date": "2026-10-06",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 6/10/2026 · Tin tổng hợp trong khoảng 24 giờ qua · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Indonesia vô địch FIFA ASEAN Cup sau loạt luân lưu với Thái Lan; Việt Nam thua Malaysia 0-1, xếp thứ tư",
+    "Brazil kiểm xong 100% phiếu: Flávio Bolsonaro 47,03% – Lula 45,16%; Zema, Caiado ủng hộ Flávio trước vòng hai 25/10",
+    "Codex “ngày 1/28”: GPT-6 Astra và GPT-6.1 Sol nhanh hơn khoảng 50% qua gói đăng ký ChatGPT",
+    "Khai mạc Hội nghị Trung ương 4 khóa XIV; Tổng thống Panama bắt đầu thăm chính thức Việt Nam",
+    "Reflection công bố Beam 501B open-weight; Nobel Y sinh 2026 trao cho quang di truyền học"
+  ],
+  "sections": [
+    {
+      "title": "Trí tuệ nhân tạo",
+      "tags": [
+        "ai"
+      ],
+      "intro": "Ngày 5/10: Codex bắt đầu chuỗi 28 ngày cải tiến, Anthropic mở suy luận tại Ấn Độ và vướng tranh luận quyền riêng tư, phòng lab Reflection tung mô hình mở cỡ lớn.",
+      "items": [
+        {
+          "headline": "Codex “ngày 1/28”: GPT-6 Astra và GPT-6.1 Sol nhanh hơn khoảng 50% qua gói đăng ký",
+          "meta": "OpenAI · Thibault Sottiaux (@thsottiaux) trên X, 5/10 · cập nhật tin số 5/10",
+          "body": [
+            "Một ngày sau lời hứa “28 ngày, mỗi ngày một cải tiến hoặc một lần reset hạn mức”, đội Codex công bố cải tiến đầu tiên: tốc độ mặc định của GPT-6 Astra và GPT-6.1 Sol được tối ưu để nhanh hơn khoảng 50% khi dùng qua gói đăng ký ChatGPT.",
+            "Thay đổi áp dụng cho mọi sản phẩm của OpenAI và các đối tác hỗ trợ “Sign in with ChatGPT” như OpenCode, Pi, Amp, Devin; người dùng không cần chỉnh gì và sẽ thấy hiệu lực trong vài giờ. Theo trang trạng thái của OpenAI, cùng ngày Codex Cloud cũng ghi nhận tỷ lệ lỗi tăng cao và đội ngũ đang triển khai biện pháp khắc phục."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "OpenAI Developer Community",
+              "url": "https://community.openai.com/t/day-1-28-days-of-quality-of-life-improvements-or-a-full-reset/1403525"
+            },
+            {
+              "name": "OpenAI Status",
+              "url": "https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W"
+            },
+            {
+              "name": "mlllm.io",
+              "url": "https://mlllm.io/articles/3458-openai-codex-lead-promises-28-days-of-daily-improvements-or-full-quota-resets/"
+            }
+          ]
+        },
+        {
+          "headline": "Claude chạy suy luận ngay trong lãnh thổ Ấn Độ qua Amazon Bedrock",
+          "meta": "Anthropic · 5/10",
+          "body": [
+            "Anthropic đưa Claude Opus 5, Sonnet 5 và Haiku 4.5 lên Amazon Bedrock với cơ chế suy luận trong nước: yêu cầu gửi qua endpoint Ấn Độ được xử lý trên máy chủ đặt tại Ấn Độ, đáp ứng yêu cầu lưu trú dữ liệu của ngân hàng, bảo hiểm và cơ quan nhà nước.",
+            "Theo Times of India, Ấn Độ là thị trường lớn thứ hai của Claude.ai, và lập trình chiếm 45,2% các tác vụ công việc người dùng Ấn Độ giao cho Claude — tỷ lệ cao nhất trong mọi thị trường. TCS đang trang bị Claude cho 50.000 nhân viên."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/anthropic-launches-in-country-claude-ai-inference-in-india-via-aws/articleshow/134677000.cms"
+            },
+            {
+              "name": "Adgully",
+              "url": "https://www.adgully.com/post/21671/claude-launches-in-india-with-in-country-inference-through-amazon-bedrock"
+            }
+          ]
+        },
+        {
+          "headline": "Dùng Claude như “nhật ký”, một phụ nữ Florida bị Anthropic báo cảnh sát và đối mặt cáo buộc trọng tội",
+          "meta": "Tom's Hardware, TechSpot · 5/10 · Hacker News gần 490 điểm, hơn 400 bình luận",
+          "body": [
+            "Theo hồ sơ bắt giữ mà WINK News và Tom's Hardware dẫn lại, hệ thống an toàn của Anthropic gắn cờ một tin nhắn ngày 26/9 đe dọa “xả súng” vào Văn phòng Cảnh sát trưởng quận Lee; đội rà soát con người sau đó báo cho cơ quan chức năng. Người phụ nữ ở Bonita Springs bị buộc tội đe dọa bằng văn bản/điện tử (Điều 836.10 luật Florida) từ ngày 30/9.",
+            "Tom's Hardware cho biết đây là ít nhất vụ thứ ba kể từ tháng 8 mà cuộc trò chuyện với chatbot của Anthropic đến tay cảnh sát; Anthropic chưa bình luận. Vụ việc làm nóng tranh luận về quyền riêng tư khi trò chuyện với AI."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-reports-florida-womans-claude-diary-threat-to-shoot-up-sheriffs-office-felony-charge-follows-its-at-least-the-third-such-conversation-to-reach-police-since-august"
+            },
+            {
+              "name": "TechSpot",
+              "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html"
+            }
+          ]
+        },
+        {
+          "headline": "Reflection công bố Beam: mô hình open-weight 501 tỷ tham số, tập trung vào lập trình và agent",
+          "meta": "Reflection AI · 5/10 · trọng số dự kiến phát hành trong tháng 10, giấy phép Apache 2.0",
+          "body": [
+            "Beam là mô hình Mixture-of-Experts thưa với 501 tỷ tham số tổng, 23 tỷ tham số hoạt động, pretrain trên 23,8 nghìn tỷ token và trải qua đợt học tăng cường hơn 100 triệu rollout trên 10.500 GPU NVIDIA GB300 trong 4 tuần.",
+            "Reflection tự đánh giá Beam ngang GLM 5.2 ở các bài agentic coding nhưng tốn ít tính toán suy luận hơn 3–4 lần; Kimi K3 vẫn mạnh hơn về năng lực thô. Hiện mới mở danh sách chờ; trọng số, báo cáo kỹ thuật và công cụ fine-tune sẽ ra sau khi hoàn tất red-team."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Reflection AI (blog)",
+              "url": "https://reflection.ai/blog/introducing-beam"
+            },
+            {
+              "name": "The Next Web",
+              "url": "https://thenextweb.com/news/reflection-ai-beam-open-weight-model"
+            }
+          ]
+        },
+        {
+          "headline": "Đội agent Claude Opus 5.5 tìm ra hai ứng viên bán dẫn từ tính hoạt động ở nhiệt độ phòng",
+          "meta": "Vals AI · blog ngày 4/10, lên trang nhất Hacker News 5/10",
+          "body": [
+            "Một nhóm agent Claude Opus 5.5 do Vals AI điều phối đã thiết kế hợp chất mới YBaMnFeO₅ và “phát hiện lại” KV[Cr(CN)₆] (chế tạo từ năm 1999) như hai ứng viên bán dẫn “Luttinger compensated”: tổng từ tính bằng 0 nhưng vẫn phân tách electron theo spin — hướng đi cho bộ nhớ spintronics thế hệ mới.",
+            "Đây mới là kết quả mô phỏng (DFT): YBaMnFeO₅ có thể khó chế tạo đúng cấu trúc, còn KV[Cr(CN)₆] cần được tổng hợp lại và đo trực tiếp. Toàn bộ dữ liệu tính toán và mã được công khai trên GitHub."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Vals AI",
+              "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"
+            },
+            {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            }
+          ]
+        },
+        {
+          "headline": "Gemini API: agent Antigravity bản tháng 5 ngừng hoạt động, nhà phát triển cần chuyển sang bản tháng 9",
+          "meta": "Google AI for Developers · hạn chót 5/10",
+          "body": [
+            "Google cho biết antigravity-preview-05-2026 — agent được quản lý tự lập kế hoạch, chạy code, quản lý file và tìm kiếm web trong sandbox Linux — bị tắt vào ngày 5/10. Bản thay thế antigravity-preview-09-2026 nâng cấp harness với prompt caching tốt hơn, công cụ tìm kiếm mã gốc và chỉnh sửa file theo dải dòng.",
+            "Cả hai bản đều có cửa sổ ngữ cảnh đầu vào khoảng 1 triệu token (tự nén ở khoảng 135 nghìn) và tối đa 65.536 token đầu ra."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Google AI for Developers (bản 05-2026)",
+              "url": "https://ai.google.dev/gemini-api/docs/models/antigravity-preview-05-2026"
+            },
+            {
+              "name": "Google AI for Developers (bản 09-2026)",
+              "url": "https://ai.google.dev/gemini-api/docs/models/antigravity-preview-09-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kho GitHub đáng chú ý",
+      "tags": [
+        "github"
+      ],
+      "intro": "Chọn từ GitHub Trending ngày và tuần (sáng 6/10, giờ VN); bỏ các repo đã đưa ở các số 1–5/10 như claude-mem, text-to-cad, OpenMontage, Agent-Reach, cloudflare-os.",
+      "items": [
+        {
+          "headline": "pingdotgg/t3code — “bảng điều khiển” cho mọi coding agent trên máy bạn",
+          "meta": "TypeScript · ~25.600 sao (+487 hôm nay) · github.com/pingdotgg/t3code",
+          "body": "T3 Code điều khiển các agent đang cài trên máy qua ứng dụng di động (iOS, Android), web và desktop Electron, dùng luôn gói đăng ký Claude Code, Codex, Cursor, Grok Build, OpenCode hay Google Antigravity. Hữu ích khi bạn muốn giao việc và theo dõi agent từ xa mà không bị khoá vào một nhà cung cấp.",
+          "tags": [
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/pingdotgg/t3code"
+            }
+          ]
+        },
+        {
+          "headline": "paperclipai/paperclip — ứng dụng mã nguồn mở để quản lý agent trong công việc",
+          "meta": "TypeScript · ~97.647 sao (+8.732 tuần này) · MIT · github.com/paperclipai/paperclip",
+          "body": "Paperclip tự giới thiệu là “ứng dụng mọi người dùng để quản lý agent ở nơi làm việc” — nơi tập trung giao việc và theo dõi nhiều agent cùng lúc. Một trong những repo tăng sao mạnh nhất tuần trên GitHub Trending.",
+          "tags": [
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/paperclipai/paperclip"
+            }
+          ]
+        },
+        {
+          "headline": "vectorize-io/hindsight — bộ nhớ cho agent biết “học” theo thời gian",
+          "meta": "Python · ~45.927 sao (+10.623 tuần này) · MIT · github.com/vectorize-io/hindsight",
+          "body": "Hindsight cung cấp lớp bộ nhớ dài hạn cho agent, kèm tài liệu, cookbook, benchmark công khai và bài báo trên arXiv; có client Python và npm. Phù hợp khi agent của bạn cần nhớ ngữ cảnh xuyên phiên thay vì bắt đầu lại từ đầu.",
+          "tags": [
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/vectorize-io/hindsight"
+            },
+            {
+              "name": "Tài liệu",
+              "url": "https://hindsight.vectorize.io"
+            }
+          ]
+        },
+        {
+          "headline": "Gaurav-Gosain/tuios — trình quản lý cửa sổ terminal “biết” agent đang làm gì",
+          "meta": "Go · ~4.836 sao (+708 tuần này) · github.com/Gaurav-Gosain/tuios",
+          "body": "Chia ô (tiling), workspace, phiên làm việc sống sót qua khởi động lại, và một Inbox chung cho mọi coding agent — tiện khi chạy song song nhiều agent CLI trong terminal. Giao diện kiểu vim, viết bằng Go.",
+          "tags": [
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/Gaurav-Gosain/tuios"
+            }
+          ]
+        },
+        {
+          "headline": "msitarzewski/agency-agents — cả một “agency” gồm các agent chuyên môn có sẵn quy trình",
+          "meta": "Shell · ~157.240 sao (+687 hôm nay) · github.com/msitarzewski/agency-agents",
+          "body": "Bộ sưu tập agent chuyên biệt, từ frontend, cộng đồng Reddit đến kiểm chứng thực tế, mỗi agent có tính cách, quy trình và sản phẩm đầu ra rõ ràng. Dùng làm mẫu prompt/vai trò khi dựng hệ đa agent.",
+          "tags": [
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/msitarzewski/agency-agents"
+            }
+          ]
+        },
+        {
+          "headline": "alirezarezvani/claude-skills — 380 skill và plugin cho Claude Code, Codex, Gemini CLI, Cursor…",
+          "meta": "Python · ~27.707 sao (+1.024 tuần này) · github.com/alirezarezvani/claude-skills",
+          "body": "Kho hơn 380 skill, 30+ agent và 70+ lệnh tuỳ biến, phủ kỹ thuật, marketing, sản phẩm, tuân thủ, tài chính và năng suất cá nhân; dùng được với Claude Code, Codex, Gemini CLI, Cursor và khoảng 8 coding agent khác.",
+          "tags": [
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/alirezarezvani/claude-skills"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "Khép lại FIFA ASEAN Cup 2026 tại Jakarta và lượt cuối đợt FIFA Days tháng 10 của Nations League.",
+      "items": [
+        {
+          "headline": "Việt Nam thua Malaysia 0-1, xếp thứ tư FIFA ASEAN Cup 2026",
+          "meta": "Tranh hạng Ba · sân Gelora Bung Karno, Jakarta, chiều 5/10 · cập nhật tin số 5/10",
+          "body": [
+            "Fergus Tierney vào sân thay người chỉ ít phút đã sút xa ở phút 62, bóng đi qua chân Bùi Hoàng Việt Anh vào góc gần, giúp Malaysia giành hạng Ba. Việt Nam hai lần xin phạt đền (phút 73 và 82) nhưng VAR đều không công nhận.",
+            "Đây là trận thua đầu tiên của Việt Nam trước Malaysia kể từ năm 2014 (không tính trận 0-4 bị huỷ) và là giải đấu thất bại đầu tiên dưới thời HLV Kim Sang-sik; sau chuỗi 27 trận bất bại, đội thua 2 trong 3 trận gần nhất. Ông Kim nhận trách nhiệm và nói khó khăn lực lượng không phải lý do biện minh."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/viet-nam-v-malaysia-5128576-tong-thuat.html"
+            },
+            {
+              "name": "VOV",
+              "url": "https://vov.vn/the-thao/ket-qua-fifa-asean-cup-2026-dt-viet-nam-thua-dt-malaysia-post1338530.vov"
+            },
+            {
+              "name": "Thời Mới",
+              "url": "https://thoimoi.vn/cap-nhat-ket-qua-viet-nam-vs-malaysia-ngay-510-ket-qua-fifa-asean-cup-moi-nhat-341143"
+            }
+          ]
+        },
+        {
+          "headline": "Indonesia vô địch FIFA ASEAN Cup sau loạt luân lưu với Thái Lan",
+          "meta": "Chung kết · Gelora Bung Karno, tối 5/10 · khoảng 67.000 khán giả",
+          "body": "Hai đội hoà 2-2 sau 120 phút: Dean James đá phạt mở tỷ số sau khi Nicholas Mickelson (Thái Lan) nhận thẻ đỏ phút 81, Iklas Sanron gỡ phút 87; Thái Lan dù chơi thiếu người vẫn vượt lên ở phút 111 trước khi Indonesia gỡ hoà phút 116. Thủ môn Emil Audero cản phá lượt thứ tư, Indonesia thắng luân lưu 4-2; Tổng thống Prabowo trao cúp.",
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VietnamPlus (TTXVN)",
+              "url": "https://www.vietnamplus.vn/fifa-asean-cup-2026-indonesia-dang-quang-sau-loat-luan-luu-nghet-tho-post1140217.vnp"
+            },
+            {
+              "name": "VietNamNet",
+              "url": "https://vietnamnet.vn/ket-qua-bong-da-indonesia-vs-thai-lan-chung-ket-fifa-asean-cup-2561680.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nations League: Olise rực sáng, Pháp ghi 4 bàn trong 14 phút để thắng Bỉ 4-1",
+          "meta": "Bảng A1 · Stade de France, tối 5/10",
+          "body": "Bỉ dẫn trước nhờ Dodi Lukébakio, nhưng Doué gỡ hoà phút 77, Cherki ấn định 2-1 từ đường chuyền của Olise, rồi Olise vào sân từ ghế dự bị ghi thêm hai bàn. Đây là chiến thắng sân nhà đầu tiên của HLV Zinedine Zidane; Pháp hơn Ý 3 điểm ở đầu bảng sau khi Ý thắng Thổ Nhĩ Kỳ 3-1 tại Bologna (Scamacca, Calafiori, Pio Esposito).",
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/football/2026/oct/05/nations-league-roundup-olise-leads-late-charge-as-france-bowl-over-belgium"
+            },
+            {
+              "name": "UEFA",
+              "url": "https://www.uefa.com/uefanationsleague/news/02aa-21bfd72342bb-2092e5a5aba6-1000--uefa-nations-league-matchday-4-highlights-france-and-italy-r/"
+            }
+          ]
+        },
+        {
+          "headline": "Kết quả khác tối 5/10: Gyökeres ghi bàn trận thứ 7 liên tiếp, Bosnia thắng Ba Lan",
+          "meta": "Nations League · tổng hợp",
+          "body": "Hungary thắng Ukraine 2-1 nhờ bàn muộn của Mark Csinger; Thụy Điển thắng Romania 1-0 với bàn của Viktor Gyökeres; Bosnia & Herzegovina thắng Ba Lan 1-0 nhờ quả phạt đền muộn của Ivan Basic; Síp ngược dòng thắng Latvia 2-1; Georgia hoà Bắc Ireland 0-0 khi Mamardashvili cản phá một quả phạt đền.",
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/football/2026/oct/05/nations-league-roundup-olise-leads-late-charge-as-france-bowl-over-belgium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Brazil: kiểm 100% phiếu, Flávio Bolsonaro 47,03% – Lula 45,16%; phe hữu dồn sức trước vòng hai 25/10",
+          "meta": "Số liệu TSE chính thức · cập nhật tin số 5/10",
+          "body": [
+            "Khi đã kiểm toàn bộ phiếu, thượng nghị sĩ Flávio Bolsonaro (PL) đạt 56.104.503 phiếu hợp lệ (47,03%), Tổng thống Lula (PT) đạt 53.879.538 phiếu (45,16%). Không ai vượt 50% nên hai người sẽ đấu vòng hai ngày 25/10; tỷ lệ bỏ phiếu vắng mặt hơn 21%, cao nhất kể từ 1998.",
+            "Theo Reuters, hai ứng viên cánh hữu bị loại là Romeu Zema và Ronaldo Caiado tuyên bố ủng hộ Flávio, trong khi Augusto Cury và Renan Santos nói sẽ không ủng hộ ai."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "O Globo",
+              "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/05/com-100percent-das-urnas-apuradas-flavio-bolsonaro-alcanca-4703percent-dos-votos-validos-e-lula-tem-4516percent.ghtml"
+            },
+            {
+              "name": "Reuters qua ThePrint",
+              "url": "https://theprint.in/world/bolsonaro-wins-endorsements-from-right-wing-rivals-for-brazil-election-runoff/3062796/"
+            }
+          ]
+        },
+        {
+          "headline": "ICC công bố chi tiết lệnh bắt hai lãnh đạo Taliban vì đàn áp phụ nữ",
+          "meta": "Reuters · Amsterdam, 5/10",
+          "body": "Tòa Hình sự Quốc tế lần đầu công bố nội dung lệnh bắt (ban hành năm 2025) đối với thủ lĩnh tối cao Haibatullah Akhundzada và Chánh án Abdul Hakim Haqqani. Các thẩm phán kết luận hai người thực thi chính sách gây vi phạm nghiêm trọng quyền cơ bản, gắn với giết người, giam cầm, tra tấn, hiếp dâm và cưỡng bức mất tích; Afghanistan vẫn là nước duy nhất cấm nữ sinh học trung học và phụ nữ học đại học.",
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/icc-issues-arrest-warrants-two-taliban-leaders-2026-10-05/"
+            }
+          ]
+        },
+        {
+          "headline": "Mỹ cảnh báo ngân hàng nước ngoài giao dịch với Iran có thể bị trừng phạt mà không báo trước",
+          "meta": "Bộ Tài chính Mỹ (OFAC) · 5/10",
+          "body": "Cảnh báo của OFAC nhắm tới các tổ chức tài chính nước ngoài vẫn giao dịch với ngân hàng Iran đã bị trừng phạt, kể cả chi nhánh, công ty con của ngân hàng Iran ở nước thứ ba, và yêu cầu chấm dứt ngay các quan hệ này. Động thái nối tiếp chiến dịch “Economic Outcast” mở rộng trừng phạt thứ cấp.",
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "OFAC – Recent Actions 5/10",
+              "url": "https://ofac.treasury.gov/recent-actions/20261005"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/us-says-foreign-financial-institutions-doing-business-with-iran-may-be-2026-10-05/"
+            }
+          ]
+        },
+        {
+          "headline": "Nga nói drone Ukraine đánh trúng hai cơ sở tại nhà máy điện hạt nhân Zaporizhzhia",
+          "meta": "Rosatom, TASS, Anadolu · 5/10 · Ukraine chưa bình luận",
+          "body": "Theo phía Nga, mái một toà nhà phòng thí nghiệm (cách tổ máy 4 và 5 khoảng 200 m) và một cơ sở xử lý chất thải phóng xạ bị hư hại, một tài xế giao đồ ăn thiệt mạng; Rosatom khẳng định không đe dọa an toàn hạt nhân và phóng xạ nền vẫn bình thường. Thông tin chưa được kiểm chứng độc lập.",
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/eurasia/rosatom-says-2-zaporizhzhia-nuclear-plant-facilities-damaged-in-overnight-attack/4078544"
+            },
+            {
+              "name": "TASS",
+              "url": "https://tass.com/world/2197539"
+            }
+          ]
+        },
+        {
+          "headline": "Việt Nam: khai mạc Hội nghị Trung ương 4 khóa XIV, Tổng Bí thư gợi mở 4 trọng tâm",
+          "meta": "Hà Nội, sáng 5/10",
+          "body": "Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì hội nghị, nhấn mạnh mục tiêu tăng trưởng GDP hơn 10% và gợi ý 4 nội dung: nâng năng lực tự đổi mới, tự chỉnh đốn của Đảng; đổi mới phương thức lãnh đạo, cầm quyền; đổi mới công tác cán bộ, trọng dụng nhân tài; xác định đúng ưu tiên, dùng hiệu quả nguồn lực để phát triển nhanh và bền vững.",
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Nhân Dân – Tin nổi bật ngày 5/10",
+              "url": "https://nhandan.vn/tin-noi-bat-ngay-510-khai-mac-hoi-nghi-lan-thu-tu-ban-chap-hanh-trung-uong-dang-khoa-xiv-tong-thong-cong-hoa-panama-bat-dau-tham-chinh-thuc-viet-nam-post993081.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng thống Panama lần đầu thăm chính thức Việt Nam; Lào có Thủ tướng và Chủ tịch Quốc hội mới",
+          "meta": "Ngoại giao · 5/10",
+          "body": [
+            "Chiều 5/10, Tổng thống Panama José Raúl Mulino và Phu nhân đến Hà Nội, bắt đầu chuyến thăm chính thức 5–8/10 theo lời mời của Tổng Bí thư, Chủ tịch nước Tô Lâm; đoàn có Bộ trưởng Ngoại giao và Bộ trưởng phụ trách Kênh đào Panama.",
+            "Cùng ngày, Quốc hội Lào khóa X bầu ông Saleumxay Kommasith làm Thủ tướng và ông Sonexay Siphandone làm Chủ tịch Quốc hội; Thủ tướng Lê Minh Hưng và Chủ tịch Quốc hội Trần Thanh Mẫn đã gửi thư chúc mừng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Nhân Dân",
+              "url": "https://nhandan.vn/tin-noi-bat-ngay-510-khai-mac-hoi-nghi-lan-thu-tu-ban-chap-hanh-trung-uong-dang-khoa-xiv-tong-thong-cong-hoa-panama-bat-dau-tham-chinh-thuc-viet-nam-post993081.html"
+            },
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/lanh-dao-viet-nam-gui-thu-chuc-mung-lanh-dao-cong-hoa-dan-chu-nhan-dan-lao-post1140186.vnp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Lễ hội Katê 2026: làng Chăm Khánh Hoà vào hội, lần đầu gắn với Lễ hội gốm Bàu Trúc",
+          "meta": "Khánh Hoà (Ninh Thuận cũ) · 5–12/10",
+          "body": "Từ 5–9/10, các thôn Chăm ở xã Phước Hữu giao lưu thể thao, văn nghệ; chính lễ diễn ra với lễ rước y trang từ chiều 9/10 và các nghi thức tại tháp Pô Klong Garai, Pô Rômê. Từ 10–12/10, xã Ninh Phước tổ chức Lễ hội gốm Chăm Bàu Trúc lần thứ I với trình diễn làm gốm, thổ cẩm, viết chữ Chăm, dân ca Chăm. Katê là di sản văn hoá phi vật thể quốc gia từ năm 2017.",
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Nhân Dân",
+              "url": "https://nhandan.vn/khanh-hoa-san-sang-vui-don-le-hoi-kate-2026-post992878.html"
+            },
+            {
+              "name": "VOV",
+              "url": "https://vov.vn/van-hoa/le-hoi-kate-nam-2026-lan-toa-nghe-thuat-lam-gom-cua-nguoi-cham-post1334451.vov"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội mừng 72 năm Giải phóng Thủ đô: pháo hoa hồ Tây, hồ Gươm và “Bản Giao hưởng Hà Nội”",
+          "meta": "Sở VH-TT&DL Hà Nội · họp báo chiều 5/10",
+          "body": "21h ngày 10/10 bắn pháo hoa 15 phút ở hai điểm: hồ Tây (900 giàn trên mặt nước) và hồ Hoàn Kiếm (350 giàn). Nhà hát Hồ Gươm có hai đêm nghệ thuật 9 và 10/10; Lễ hội Đồ uống 9–11/10 tại Công viên Thiên Văn học, Festival Thu Hà Nội 16–18/10 tại Công viên Thống Nhất; thành phố ra mắt 72 gợi ý hành trình và nền tảng du lịch thông minh HanoiGo.",
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tạp chí Công Thương",
+              "url": "https://tapchicongthuong.vn/ha-noi-to-chuc-loat-su-kien-van-hoa--nghe-thuat-chao-mung-ngay-giai-phong-thu-do-555488.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Triển lãm sơn mài “Sắc Tâm 2026” tại Văn Miếu – Quốc Tử Giám",
+          "meta": "Nhà Tiền Đường, Văn Miếu · đến 18/10",
+          "body": "19 hoạ sĩ nhóm Nguyen Art Gallery trưng bày tranh sơn mài chủ đề “Tinh hoa đạo học”, đặt trong tương tác với văn hoá trầm hương, nhân dịp kỷ niệm 950 năm thành lập Quốc Tử Giám. Các tác phẩm đi từ trừu tượng đến hiện thực, đối thoại về con người, thiên nhiên và đời sống đương đại.",
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Thể thao & Văn hoá",
+              "url": "https://thethaovanhoa.vn/diem-cham-giua-nghe-thuat-va-di-san-trong-trien-lam-sac-tam-20261005214325791.htm"
+            }
+          ]
+        },
+        {
+          "headline": "ChatGPT gắn chữ ký thật của hoạ sĩ New Yorker lên tranh biếm hoạ do AI vẽ",
+          "meta": "Nieman Lab · 5/10",
+          "body": "Phóng viên Andrew Deck ghi nhận hơn 15 hoạ sĩ biếm hoạ của The New Yorker — như Brendan Loper, Emily Flake, Pat Byrnes, Saul Steinberg — bị ChatGPT tái tạo chữ ký trên tranh “phong cách New Yorker” mà không xin phép hay trả tiền. OpenAI nói rất cảm ơn cộng đồng báo lỗi; ChatGPT bắt đầu hiện cảnh báo nhưng đến lúc đăng bài vẫn còn ký tên hoạ sĩ thật lên một số tranh.",
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Nieman Lab",
+              "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Thời tiết: Bắc Bộ đêm và sáng trời lạnh, Hà Nội thấp nhất 20–22°C; Hà Tĩnh đến Huế mưa rất to",
+          "meta": "Dự báo ngày 6/10 · theo Trung tâm Dự báo KTTV quốc gia",
+          "body": "Hà Nội nhiều mây, đêm có mưa vài nơi, trưa chiều hửng nắng, cao nhất 27–29°C; vùng núi Bắc Bộ có nơi dưới 18°C. Khu vực Hà Tĩnh–TP Huế mưa to và dông, cục bộ mưa rất to; Nam Bộ và TP.HCM chiều tối có mưa rào, đề phòng lốc, sét, gió giật.",
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Báo Lâm Đồng qua Vietnam.vn",
+              "url": "https://www.vietnam.vn/du-bao-thoi-tiet-dem-nay-va-ngay-mai-06-10-2026-bac-bo-troi-lanh-trung-bo-mua-rat-to"
+            }
+          ]
+        },
+        {
+          "headline": "Từ 5/10, chia sẻ tin giả có thể bị công bố danh tính tại nơi cư trú, nơi làm việc",
+          "meta": "Nghị định 328/2026/NĐ-CP có hiệu lực",
+          "body": "Người tạo, đăng, chia sẻ hay bình luận tin giả có thể bị công bố danh tính sau khi cơ quan chức năng xác minh; tin giả phải được gắn nhãn “TIN GIẢ, TIN SAI SỰ THẬT” trong 24 giờ kể từ khi có kết luận. Theo Nghị định 174/2026 (hiệu lực từ 1/7), chia sẻ thông tin sai sự thật trên mạng xã hội có thể bị phạt 20–50 triệu đồng tuỳ hành vi.",
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Báo Phụ nữ Việt Nam qua Vietnam.vn",
+              "url": "https://www.vietnam.vn/tu-ngay-5-10-chia-se-tin-gia-co-the-bi-cong-bo-danh-tinh"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội triệt phá cơ sở sản xuất hơn 1,2 triệu viên sủi giả",
+          "meta": "Công an TP Hà Nội · Nhân Dân 5/10",
+          "body": "Sản phẩm của Công ty TNHH Sản xuất Dược–Mỹ phẩm Vintechpharm (xã Hồng Vân) có hàm lượng natri benzoat 4,18–6,78%, vượt 20–33 lần mức cho phép 0,2%, trong khi các vitamin B1, B3, B6 quảng cáo trên nhãn không được phát hiện. Bốn bị can đã bị khởi tố về tội sản xuất, buôn bán hàng giả là thực phẩm.",
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Nhân Dân",
+              "url": "https://nhandan.vn/tin-noi-bat-ngay-510-khai-mac-hoi-nghi-lan-thu-tu-ban-chap-hanh-trung-uong-dang-khoa-xiv-tong-thong-cong-hoa-panama-bat-dau-tham-chinh-thuc-viet-nam-post993081.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nobel Y sinh 2026 vinh danh quang di truyền học — “công tắc ánh sáng” cho tế bào thần kinh",
+          "meta": "Karl Deisseroth, Peter Hegemann, Georg Nagel · công bố 5/10",
+          "body": "Hegemann (ĐH Humboldt Berlin) và Nagel (ĐH Würzburg) phát hiện protein channelrhodopsin trong tảo đơn bào; Deisseroth (Stanford/HHMI) biến nó thành công cụ bật tắt tế bào thần kinh bằng ánh sáng. Kỹ thuật này giúp lập bản đồ mạch thần kinh chi phối ký ức, cảm xúc, hành vi và mở hướng điều trị rối loạn thần kinh, tâm thần, phục hồi thị lực.",
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Nhân Dân",
+              "url": "https://nhandan.vn/tin-noi-bat-ngay-510-khai-mac-hoi-nghi-lan-thu-tu-ban-chap-hanh-trung-uong-dang-khoa-xiv-tong-thong-cong-hoa-panama-bat-dau-tham-chinh-thuc-viet-nam-post993081.html"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/deisseroth-hegemann-nagelwin-2026-nobel-medicine-prize-2026-10-05/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp tự động từ các nguồn công khai sáng 6/10/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ trang Trending tại thời điểm tra cứu. Không lặp lại tin đã đưa các số 1–5/10 trừ khi có cập nhật thực sự (kết quả trận Việt Nam–Malaysia, kết quả kiểm phiếu cuối cùng ở Brazil, ngày đầu chuỗi 28 ngày của Codex). Kết quả bầu cử Québec (5/10) chưa có khi đóng số."
+}
