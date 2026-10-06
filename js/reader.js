@@ -56,6 +56,41 @@
     return `${THU[dt.getUTCDay()]}, ${d} tháng ${m}, ${y}`;
   }
 
+  const CHIEU_SUFFIX = "-chieu";
+
+  function parseIssueId(issueId) {
+    if (issueId.endsWith(CHIEU_SUFFIX)) {
+      return {
+        issueId,
+        calendarDate: issueId.slice(0, -CHIEU_SUFFIX.length),
+        edition: "chieu",
+      };
+    }
+    return { issueId, calendarDate: issueId, edition: null };
+  }
+
+  function calendarDateFromIssueId(issueId) {
+    return parseIssueId(issueId).calendarDate;
+  }
+
+  function dayHasEveningEdition(index, calendarDate) {
+    return index.issues.some(
+      (i) =>
+        calendarDateFromIssueId(i.date) === calendarDate &&
+        parseIssueId(i.date).edition === "chieu"
+    );
+  }
+
+  function issueListLabel(issueId, index) {
+    const cal = calendarDateFromIssueId(issueId);
+    const day = vnDate(cal);
+    const { edition } = parseIssueId(issueId);
+    const both = dayHasEveningEdition(index, cal);
+    if (edition === "chieu") return `${day} · Buổi chiều`;
+    if (both) return `${day} · Buổi sáng`;
+    return day;
+  }
+
   function parseParams() {
     const q = new URLSearchParams(location.search);
     let date = q.get("date");
@@ -205,7 +240,7 @@
     return `
       <header class="masthead">
         <h1>${escapeHtml(MASTHEAD)}</h1>
-        <div class="date-line">${escapeHtml(vnDate(dateIso))}</div>
+        <div class="date-line">${escapeHtml(data.date_vn || vnDate(dateIso))}</div>
         ${data.tagline ? `<div class="tagline">${escapeHtml(data.tagline)}</div>` : ""}
       </header>
       ${highlights}
@@ -291,7 +326,7 @@
       const data = await loadIssue(date);
       data.masthead = MASTHEAD;
 
-      document.title = `${MASTHEAD} — ${vnDate(date)}`;
+      document.title = `${MASTHEAD} — ${data.date_vn || vnDate(data.date)}`;
 
       const render = (newTag) => {
         tag = newTag;
@@ -355,7 +390,7 @@
     listEl.innerHTML = dates
       .map((d) => {
         const latest = d === index.latest ? `<span class="badge">Mới nhất</span>` : "";
-        return `<li>${latest}<a class="issue-link" href="${asset(`index.html?date=${d}`)}">${escapeHtml(vnDate(d))}</a>
+        return `<li>${latest}<a class="issue-link" href="${asset(`index.html?date=${d}`)}">${escapeHtml(issueListLabel(d, index))}</a>
           <button type="button" class="archive-fav" data-date="${d}" aria-label="Lưu số báo">☆</button></li>`;
       })
       .join("");
@@ -385,7 +420,7 @@
       favEl.innerHTML = `<ul class="archive-list">${fav
         .map(
           (d) =>
-            `<li><a class="issue-link" href="${asset(`index.html?date=${d}`)}">${escapeHtml(vnDate(d))}</a></li>`
+            `<li><a class="issue-link" href="${asset(`index.html?date=${d}`)}">${escapeHtml(issueListLabel(d, index))}</a></li>`
         )
         .join("")}</ul>`;
     }

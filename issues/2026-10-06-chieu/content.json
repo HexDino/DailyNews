@@ -1,0 +1,481 @@
+{
+  "date": "2026-10-06",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Ba, 6 tháng 10, 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 6/10/2026 · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Trung ương 4 sang ngày thứ hai; Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Panama",
+    "Thủ tướng Lê Minh Hưng sẽ thăm Lào và Campuchia 8–10/10 — chuyến song phương đầu tiên",
+    "Tây Ban Nha bầu cử sớm 29/11; Ukraine tung 650 drone vào Moscow",
+    "TP.HCM: lũ gần 2 m ở Tân Khánh, trưa trung tâm ngập; miền Trung mưa lớn",
+    "Nobel Vật lý 2026 cho “người bẫy hạt ma” Francis Halzen"
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Hội nghị Trung ương 4 tiếp tục làm việc, lễ đón Tổng thống Panama và lịch đối ngoại mới của Thủ tướng.",
+      "items": [
+        {
+          "headline": "Hội nghị Trung ương 4 sang ngày thứ hai: bàn công tác cán bộ, đổi tên Đảng ủy Mặt trận và các đoàn thể",
+          "meta": "Cập nhật ngày 6/10 · Chinhphu.vn, VOV, SGGP",
+          "body": [
+            "Sau phiên khai mạc sáng 5/10 (đã đưa ở số sáng), Trung ương tiếp tục làm việc theo chương trình trong ngày 6/10. Theo thông cáo báo chí ngày làm việc thứ nhất, Ban Chấp hành Trung ương họp về công tác cán bộ để bầu bổ sung Ủy viên Ủy ban Kiểm tra Trung ương và cho chủ trương đổi tên Đảng ủy Mặt trận Tổ quốc, các đoàn thể Trung ương thành Đảng ủy Dân vận, Mặt trận và các đoàn thể Trung ương.",
+            "Tại tổ, các đại biểu thảo luận sơ kết 5 năm Nghị quyết 28-NQ/TW về đổi mới phương thức lãnh đạo, cầm quyền của Đảng, và tổng kết Nghị quyết 26-NQ/TW (2018) để ban hành nghị quyết mới về xây dựng đội ngũ cán bộ các cấp, đổi mới căn bản, toàn diện công tác cán bộ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Xây dựng chính sách – Chinhphu.vn",
+              "url": "https://xaydungchinhsach.chinhphu.vn/hoi-nghi-trung-uong-4-hop-ve-cong-tac-can-bo-119261006080303794.htm"
+            },
+            {
+              "name": "VOV",
+              "url": "https://vov.vn/chinh-tri/thong-cao-bao-chi-ve-ngay-lam-viec-thu-nhat-hoi-nghi-trung-uong-4-post1338690.vov"
+            },
+            {
+              "name": "SGGP",
+              "url": "https://www.sggp.org.vn/ngay-lam-viec-thu-nhat-hoi-nghi-lan-thu-4-ban-chap-hanh-trung-uong-dang-khoa-xiv-thao-luan-nghi-quyet-ve-tang-cuong-xay-dung-chinh-don-dang-va-he-thong-chinh-tri-post875044.html"
+            }
+          ]
+        },
+        {
+          "headline": "Chiều 6/10: Tổng Bí thư, Chủ tịch nước Tô Lâm đón chính thức và hội đàm với Tổng thống Panama",
+          "meta": "Nhà Quốc hội, Hà Nội · cập nhật chuyến thăm 5–8/10 · TTXVN/VietnamPlus",
+          "body": [
+            "Cập nhật so với số sáng: chiều 6/10, Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân chủ trì lễ đón trọng thể Tổng thống Panama José Raúl Mulino và Phu nhân tại Nhà Quốc hội; hai nhà lãnh đạo duyệt Đội danh dự Quân đội nhân dân Việt Nam.",
+            "Ngay sau lễ đón, hai bên tiến hành hội đàm cùng đoàn đại biểu cấp cao. Dự lễ đón có Phó Thủ tướng Thường trực Phạm Gia Túc, Bộ trưởng Ngoại giao Lê Hoài Trung cùng đại sứ, đại biện các nước Mỹ Latinh–Caribe. Nội dung, kết quả cụ thể của cuộc hội đàm chưa được công bố khi đóng số."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VietnamPlus (lễ đón)",
+              "url": "https://www.vietnamplus.vn/tong-bi-thu-chu-tich-nuoc-to-lam-chu-tri-le-don-tong-thong-cong-hoa-panama-tham-chinh-thuc-viet-nam-post1140366.vnp"
+            },
+            {
+              "name": "VietnamPlus (hội đàm)",
+              "url": "https://www.vietnamplus.vn/tong-bi-thu-chu-tich-nuoc-to-lam-va-tong-thong-cong-hoa-panama-hoi-dam-post1140375.vnp"
+            }
+          ]
+        },
+        {
+          "headline": "Thủ tướng Lê Minh Hưng sẽ thăm chính thức Lào và Campuchia từ 8 đến 10/10",
+          "meta": "Thông cáo Bộ Ngoại giao ngày 6/10 · Tuổi Trẻ",
+          "body": [
+            "Theo lời mời của Thủ tướng Lào Saleumxay Kommasith và Thủ tướng Campuchia Hun Manet, Thủ tướng Lê Minh Hưng sẽ dẫn đầu đoàn đại biểu cấp cao Việt Nam thăm chính thức hai nước láng giềng trong ba ngày 8–10/10.",
+            "Đây là chuyến thăm đầu tiên của ông tới Lào và Campuchia, đồng thời là chuyến công tác song phương đầu tiên kể từ khi nhậm chức Thủ tướng tháng 4/2026. Hai Thủ tướng Việt Nam và Campuchia từng gặp nhau tại Hà Nội hồi tháng 6/2026."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thu-tuong-le-minh-hung-se-tham-lao-va-campuchia-100261006091208174.htm"
+            },
+            {
+              "name": "Vietnam.vn",
+              "url": "https://www.vietnam.vn/thu-tuong-le-minh-hung-se-tham-lao-va-campuchia"
+            }
+          ]
+        },
+        {
+          "headline": "Nghị định 378/2026: khu thương mại tự do phải rộng tối thiểu 1.000 ha",
+          "meta": "Chính phủ · Nghị định 378/2026/NĐ-CP hướng dẫn Luật Phát triển đô thị · Markettimes 6/10",
+          "body": [
+            "Nghị định quy định tiêu chí thành lập khu thương mại tự do: vị trí gắn hoặc kết nối trực tiếp với cảng biển, sân bay quốc tế, trung tâm tài chính quốc tế hay cửa khẩu quan trọng; kết nối ít nhất 2 phương thức vận tải; quy mô tối thiểu 1.000 ha; có phương án quản lý dựa trên dữ liệu số và phòng chống buôn lậu, gian lận xuất xứ, rửa tiền.",
+            "Khu có thể gồm khu logistics, công nghiệp, thương mại–dịch vụ, nghiên cứu đổi mới sáng tạo, trung tâm dữ liệu và khu phi thuế quan. UBND tỉnh, thành lập đề án, lấy ý kiến các bộ Tài chính, Công Thương, Quốc phòng, Công an, Nông nghiệp và Môi trường; Chủ tịch UBND tỉnh, thành quyết định thành lập."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Markettimes",
+              "url": "https://markettimes.vn/chinh-phu-ban-hanh-tieu-chi-dieu-kien-thanh-lap-khu-thuong-mai-tu-do-132417.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Bầu cử sớm ở Tây Ban Nha, chiến sự Yemen – Saudi Arabia, drone tấn công Moscow và căn cứ Mỹ tại Anh.",
+      "items": [
+        {
+          "headline": "Tây Ban Nha bầu cử sớm ngày 29/11 sau khi Quốc hội bác hai sắc lệnh nhà ở",
+          "meta": "BBC, Guardian, Anadolu · Thủ tướng Pedro Sánchez công bố 5/10",
+          "body": [
+            "Hai sắc lệnh khẩn cấp — gồm tạm dừng cưỡng chế thu hồi nhà của người thuê dễ tổn thương đến 2030, gia hạn hợp đồng thuê, tăng thuế căn hộ du lịch và hạn chế “quỹ kền kền” mua nhà ở — bị bác với tỷ lệ 178–172 và 184–166. Đảng ly khai Catalonia Junts bỏ phiếu chống cùng Đảng Nhân dân và Vox.",
+            "Các biện pháp được soạn sau làn sóng biểu tình vì vụ cụ bà 87 tuổi Maricarmen Abascal bị đuổi khỏi căn nhà ở Madrid bà sống 70 năm. Theo Guardian, đây sẽ là cuộc tổng tuyển cử thứ năm của Tây Ban Nha trong 10 năm."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c623dlk4y75mo"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/05/pedro-sanchez-gamble-snap-general-election-spain-explainer"
+            },
+            {
+              "name": "Anadolu",
+              "url": "https://www.aa.com.tr/en/europe/spain-s-sanchez-calls-early-elections-after-housing-measures-rejected/4078089"
+            }
+          ]
+        },
+        {
+          "headline": "Yemen: quân chính phủ tuyên bố giành lại cảng Mokha; hai sân bay Saudi Arabia bị tấn công",
+          "meta": "Al Jazeera, CNBC · 6/10",
+          "body": [
+            "Quân đội chính phủ Yemen được quốc tế công nhận nói đã chiếm lại thành phố cảng chiến lược Mokha trên Biển Đỏ và mở cuộc phản công lớn nhằm đẩy Houthi khỏi các vị trí gần eo Bab al-Mandeb. Liên quân do Saudi Arabia dẫn đầu không kích các cơ sở vũ khí của Houthi ở Sanaa; các sân bay Jazan và Najran của Saudi Arabia bị tấn công, 3 người bị thương theo cơ quan hàng không Saudi.",
+            "Saudi Arabia, Thổ Nhĩ Kỳ và Pakistan nhất trí “triển khai nhanh” lực lượng và kích hoạt các biện pháp răn đe. Giá dầu Brent sáng 6/10 quanh 100 USD/thùng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/06/iran-war-yemen-saudi-arabia-mokha-oil.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ukraine tung khoảng 650 drone vào Moscow, một trong những đợt lớn nhất hai năm qua",
+          "meta": "France 24 (AFP, AP) · sáng 6/10",
+          "body": [
+            "Thị trưởng Moscow Sergei Sobyanin nói phần lớn trong số 650 drone đã bị bắn hạ, trong đó 105 chiếc gần thành phố. Thống đốc vùng Moscow Andrei Vorobyov cho biết một thanh niên 20 tuổi thiệt mạng ở ngôi làng ngoại ô, nhiều nhà bị hư hại; RIA Novosti đưa tin 6 người bị thương.",
+            "Theo TASS, đây là đợt tấn công bằng drone lớn thứ hai nhằm vào thủ đô Nga trong hai năm. Nga tuyên bố sẽ gia tăng tấn công hạ tầng, kể cả ở Kyiv, khi mùa đông tới gần."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "France 24",
+              "url": "https://www.france24.com/en/europe/20261006-massive-ukrainian-drone-attack-targets-moscow-russian-officials-say"
+            }
+          ]
+        },
+        {
+          "headline": "Trump xác nhận Mỹ rút oanh tạc cơ khỏi căn cứ RAF Fairford (Anh) vì “mối đe dọa”",
+          "meta": "BBC · 6/10",
+          "body": [
+            "Lầu Năm Góc đã đưa khoảng một chục máy bay ném bom B-1 từ RAF Fairford về Mỹ. Ông Trump nói: “Chúng không bay đi một cách tình cờ. Có một số mối đe dọa”, và khi được hỏi thì cho rằng những người này “có liên hệ với Iran”; Ngoại trưởng Marco Rubio dè dặt hơn, nói việc điều chuyển khí tài là “không bất thường”.",
+            "Trước đó, ngày 27/9, cảnh sát Anh được báo về ba “phương tiện khả nghi” gần căn cứ; sáu người bị bắt rồi được tại ngoại. Tehran bác bỏ mọi liên quan."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cwj3413e5m1lo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Mưa lũ ở TP.HCM và miền Trung, giá xăng chờ điều chỉnh, chuyện nghỉ phép nơi công sở.",
+      "items": [
+        {
+          "headline": "TP.HCM: lũ gần 2 m tràn vào khu dân cư Tân Khánh, giữa trưa trung tâm lại ngập",
+          "meta": "VnExpress, Thanh Niên, VietnamPlus · 6/10",
+          "body": [
+            "Mưa lớn đêm 5/10 khiến nước từ thượng nguồn Suối Cái đổ về, ngập khoảng 20 ha quanh công trình nạo vét ở phường Tân Khánh (Bình Dương cũ); cảnh sát cứu 12 người mắc kẹt. Theo báo cáo sơ bộ của phường, khoảng 308 hộ bị ảnh hưởng, 75 hộ ngập nhà, 138,5 ha lúa và hoa màu ngập úng; không có thiệt hại về người. “Tôi sống ở đây gần 5 năm, lần đầu thấy nước tràn về như thế này”, bà Võ Thị Bích nói với VnExpress.",
+            "Khoảng 11h30 trưa 6/10, mưa lớn ở trung tâm làm ngập các đường Lê Thánh Tôn, Nguyễn Du, Hàm Nghi, Bùi Viện, Pasteur…; chân cầu Ba Son ngập nặng. Đài KTTV Nam Bộ cảnh báo ngày 6–7/10 còn mưa lớn, nhất là giờ cao điểm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nha-cua-ngon-ngang-sau-dong-lu-gan-2-m-o-tp-hcm-5129041.html"
+            },
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/tha-luoi-bat-ca-ngoi-nhau-ngay-noi-ngap-lut-o-tphcm-185261006132155985.htm"
+            },
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/mua-lon-nhieu-tuyen-duong-trung-tam-thanh-pho-ho-chi-minh-ngap-sau-post1140324.vnp"
+            }
+          ]
+        },
+        {
+          "headline": "Không khí lạnh gây mưa lớn diện rộng ở Trung Bộ, cảnh báo mưa trên 100 mm/3 giờ",
+          "meta": "Trung tâm Dự báo KTTV quốc gia qua Nhân Dân · cập nhật trưa chiều 6/10",
+          "body": [
+            "Từ nam Hà Tĩnh đến Đà Nẵng và phía đông Quảng Ngãi có mưa to và dông, nguy cơ lũ quét, sạt lở; vịnh Bắc Bộ gió đông bắc cấp 7, giật cấp 8. Ngày và đêm 7/10, bắc Biển Đông (gồm Hoàng Sa) gió cấp 6–7, giật cấp 8–9, sóng 2–4 m.",
+            "Bắc Bộ và Thanh Hóa sáng sớm, đêm trời lạnh, thấp nhất 18–21°C, vùng núi cao 14–17°C; Hà Nội ngày nắng, đêm không mưa."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Nhân Dân qua Vietnam.vn",
+              "url": "https://www.vietnam.vn/khong-khi-lanh-tran-vao-mien-trung-gay-mua-lon-dien-rong-nen-nhiet-o-mien-bac-giam"
+            }
+          ]
+        },
+        {
+          "headline": "Giá xăng dầu: kỳ điều chỉnh tới vào chiều thứ Năm 8/10, dầu thế giới quanh 100 USD/thùng",
+          "meta": "VietNamNet · 6/10",
+          "body": [
+            "Giá bán hiện hành (kỳ 1/10): E5 RON92 không quá 26.569 đồng/lít, E10 RON95-III không quá 27.189 đồng/lít, diesel 0.05S không quá 29.717 đồng/lít. Liên bộ Công Thương – Tài chính sẽ điều chỉnh vào chiều 8/10.",
+            "Giá dầu thế giới đi xuống khi xuất khẩu dầu Trung Đông tăng trở lại và G7 nhất trí xả 100 triệu thùng dầu thô, diesel từ kho dự trữ khẩn cấp; Brent chốt phiên 5/10 ở 100,3 USD/thùng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VietNamNet",
+              "url": "https://vietnamnet.vn/gia-xang-dau-hom-nay-6-10-the-gioi-di-xuong-trong-nuoc-sap-dieu-chinh-2562005.html"
+            }
+          ]
+        },
+        {
+          "headline": "“Bị giục nghỉ phép”: chiều ngược của chuyện xin nghỉ ở công sở",
+          "meta": "VnExpress Đời sống · 6/10",
+          "body": [
+            "Giữa nhiều bài than phiền bị quản lý làm khó khi xin nghỉ, không ít người lao động kể chuyện ngược lại: bị giục, thậm chí bắt buộc dùng hết ngày phép năm. Khảo sát của VnExpress ghi nhận nhóm “bị ép nghỉ” phần lớn làm ở tập đoàn, công ty lớn, đa ngành — nơi doanh nghiệp muốn bảo đảm quyền lợi người lao động và tối ưu quản trị."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bi-giuc-nghi-phep-5126391.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Xu hướng du lịch 2027: “kỳ nghỉ chống tối ưu” — đi ít nơi, ở lâu hơn, làm ít hơn",
+          "meta": "Euronews · báo cáo của Lemongrass Marketing · 6/10",
+          "body": [
+            "Báo cáo dự đoán du khách sẽ rời xa danh sách “phải đến”, biohacking và lịch trình do AI soạn, để chọn chuyến đi ít điểm dừng, lịch trình đơn giản, ở lâu và “để ngày tự trôi”. Thay vì “bucket list” là “depth list”: tour do chuyên gia dẫn, đường mòn văn hoá, trò chuyện với người bản địa.",
+            "Các xu hướng khác: khoảng cách niềm tin với nội dung AI (du khách tin người “đã đến tận nơi” hơn), du lịch khoa học công dân, và “gần là xa mới” — chuyến ngắn, đi tàu, nghỉ trái mùa."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/06/simpler-itineraries-longer-stays-how-travellers-embrace-doing-less-while-on-holiday"
+            }
+          ]
+        },
+        {
+          "headline": "Bữa ăn siêu chế biến khiến cơ thể tiết nhiều insulin hơn dù dinh dưỡng y hệt",
+          "meta": "Virginia Tech · Nature Metabolism 5/10 · News-Medical",
+          "body": [
+            "Nhóm của Alex DiFeliceantonio cho 57 người trưởng thành khỏe mạnh ăn hai bữa 300 kcal khớp nhau trong phạm vi 1% về đạm, béo, tinh bột, nước và muối — một bữa siêu chế biến (sandwich bơ đậu phộng, gà tây xông khói, bánh quy, khoai nghiền ăn liền…) và một bữa ít chế biến (chuối, nam việt quất khô, phô mai, trứng).",
+            "Bữa siêu chế biến làm insulin tăng cao hơn, đường huyết cao lâu hơn, cơ thể tiêu hao nhiều năng lượng hơn nhưng đốt ít carbohydrate hơn; khác biệt này liên quan tới phản ứng của vùng não về động lực và phần thưởng. Nhóm nghiên cứu lưu ý mẫu nhỏ, mới thử một cặp bữa ăn."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "News-Medical (Virginia Tech)",
+              "url": "https://www.news-medical.net/news/20261005/Ultraprocessed-meals-produce-distinct-metabolic-and-brain-responses.aspx"
+            },
+            {
+              "name": "Nature Metabolism",
+              "url": "https://www.nature.com/articles/s42255-026-01619-4"
+            }
+          ]
+        },
+        {
+          "headline": "Trung Quốc: tranh cãi chuyện bà mẹ 60 tuổi sinh hai con trong 28 tháng",
+          "meta": "VnExpress · 6/10",
+          "body": [
+            "Bà Zhang, 60 tuổi, ngày 17/9 sinh mổ một bé gái nặng 2,8 kg tại Bệnh viện Trung tâm Trú Mã Điếm, tỉnh Hà Nam. Trước đó, tháng 5/2024, ở tuổi 58, bà sinh bé trai Guoguo nặng 3,15 kg; cả hai bé đều đủ tháng. Câu chuyện gây tranh luận trên mạng xã hội về rủi ro sinh con ở tuổi cao."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tranh-cai-chuyen-me-60-tuoi-sinh-hai-con-trong-28-thang-5128119.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khoa học",
+      "tags": [
+        "ai"
+      ],
+      "intro": "Một tin ngắn trong ngày.",
+      "items": [
+        {
+          "headline": "Nobel Vật lý 2026 trao cho Francis Halzen — người “bẫy hạt ma” bằng băng Nam Cực",
+          "meta": "Viện Hàn lâm Khoa học Hoàng gia Thụy Điển công bố 16h45 giờ Hà Nội 6/10 · VnExpress",
+          "body": [
+            "Nhà khoa học 82 tuổi sinh tại Bỉ, làm việc tại ĐH Wisconsin–Madison, được vinh danh vì đóng góp quyết định cho Đài quan sát Neutrino IceCube — khối băng một km³ gắn cảm biến ánh sáng ở Nam Cực — và việc phát hiện neutrino năng lượng cao có nguồn gốc vật lý thiên văn. Ông đề xuất ý tưởng từ năm 1988; IceCube hoàn thành năm 2011.",
+            "Tiền thưởng năm nay là 12 triệu krona Thụy Điển (khoảng 1,2 triệu USD)."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/giai-nobel-vat-ly-2026-trao-cho-nghien-cuu-ve-hat-ma-5129074.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Chuyện lạ trong ngày và vài sự thật về ngày 6 tháng 10.",
+      "items": [
+        {
+          "headline": "Trộm “khiêng” bìa sách bằng đồng nặng 150 kg của Salvador Dalí",
+          "meta": "Issoire (Pháp) · The Connexion 6/10",
+          "body": [
+            "Đêm 4 rạng 5/10, kẻ gian phá cổng Trung tâm Nghệ thuật Đương đại Issoire và lấy đi chiếc bìa đồng 150 kg do Dalí làm cho “L'Apocalypse de Saint Jean” — cuốn sách duy nhất một bản, làm trên giấy da cừu giai đoạn 1958–1961 với minh hoạ của Dalí, Bernard Buffet, Leonor Fini và ghi chú của Jean Cocteau. Phần sách vẫn an toàn vì được cất ở nơi khác.",
+            "Chủ sở hữu Christian Karoutzos ước giá trị nhiều triệu euro; cảnh sát chưa rõ kẻ trộm mang vật nặng như vậy đi bằng cách nào."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "The Connexion",
+              "url": "https://www.connexionfrance.com/news/cover-of-worlds-most-expensive-book-stolen-from-french-art-centre/819251"
+            }
+          ]
+        },
+        {
+          "headline": "Penang: thực khách bị nghi nhổ lông ngực bỏ vào đĩa hủ tiếu xào để “quỵt” 30 ringgit",
+          "meta": "Malay Mail · 6/10",
+          "body": [
+            "Quản lý nhà hàng ở George Town nghi ngờ vì “nếu sợi lông thật sự nằm trong món char kway teow thì phải dính dầu, nhưng sợi này lại khô”. Xem lại camera, anh thấy vị khách liên tục thò tay vào áo rồi bỏ thứ gì đó vào đĩa. Đoạn video đã được chia sẻ cho các nhà hàng khác để cảnh giác."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Malay Mail",
+              "url": "https://www.malaymail.com/news/malaysia/2026/10/06/chest-a-minute-diner-allegedly-plucks-out-body-hair-and-plants-it-in-char-kway-teow-to-dodge-rm30-bill-in-penang/237956"
+            }
+          ]
+        },
+        {
+          "headline": "Hộp súp cà chua phát nổ, nắp sắc cứa vào mũi một nông dân Úc",
+          "meta": "ABC News (Úc) · 6/10",
+          "body": [
+            "Ông Dick Lanyon ở Boort (Victoria) nghe tiếng nổ trong bếp, sáng hôm sau thấy một hộp súp đã bung nắp; hôm sau nữa, hộp thứ hai phồng đáy phát nổ ngay khi ông mang đi vứt. Cơ quan FSANZ khuyến cáo không dùng đồ hộp bị phồng, rò rỉ, gỉ hay móp."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "ABC News",
+              "url": "https://www.abc.net.au/news/2026-10-06/exploding-heinz-tomato-soup-tin-man-injured-/107231928"
+            }
+          ]
+        },
+        {
+          "headline": "Nước ngập ruộng, dân Tân Khánh mang lưới ra bắt cá, nướng ăn ngay bên vùng phong tỏa",
+          "meta": "Thanh Niên · 6/10",
+          "body": [
+            "Ở khu phố Khánh Lộc (phường Tân Khánh, TP.HCM), ruộng ngập sâu gần 1 m sau trận mưa đêm 5/10; nhiều người mang lưới ra bắt cá, có người nướng cá và nhậu ngay gần đoạn đường bị phong tỏa vì nước tràn qua."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/tha-luoi-bat-ca-ngoi-nhau-ngay-noi-ngap-lut-o-tphcm-185261006132155985.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: ngày 6/10/1995, hành tinh đầu tiên quay quanh một “mặt trời” khác được phát hiện",
+          "meta": "Wikipedia – October 6",
+          "body": [
+            "Hành tinh đó là 51 Pegasi b. Thật trùng hợp, cũng ngày 6/10 năm nay, giải Nobel Vật lý được trao cho một nghiên cứu thiên văn học khác — neutrino vũ trụ của IceCube."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – October 6",
+              "url": "https://en.wikipedia.org/wiki/October_6"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 6/10/1927, “The Jazz Singer” — phim “có tiếng” nổi bật đầu tiên — ra mắt; 6/10/2010, Instagram ra đời",
+          "meta": "Wikipedia – October 6",
+          "body": [
+            "Cùng trang lịch sử: ngày 6/10/1883 vua Dục Đức qua đời; xạ thủ Hoàng Xuân Vinh, nhà vô địch Olympic của Việt Nam, sinh ngày 6/10/1974. Ngày 6/10 là ngày thứ 279 trong năm, còn 86 ngày nữa là hết năm."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – October 6",
+              "url": "https://en.wikipedia.org/wiki/October_6"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 18h ngày 6/10/2026 (giờ VN). Không lặp tin của số sáng, trừ hai cập nhật thực sự trong ngày (Hội nghị Trung ương 4 ngày thứ hai; lễ đón và hội đàm với Tổng thống Panama chiều 6/10). Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
