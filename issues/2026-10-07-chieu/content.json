@@ -1,0 +1,432 @@
+{
+  "date": "2026-10-07",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Tư, 7 tháng 10, 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 7/10/2026 · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Trung ương 4 ngày thứ ba bàn kế hoạch 2027, sửa Điều lệ Đảng; bế mạc ngày 8/10",
+    "Nga tập kích Ukraine đúng sinh nhật Putin, ít nhất 19 người chết",
+    "Huế – Đà Nẵng mưa có nơi trên 500 mm, Đà Nẵng kích hoạt ứng phó khẩn cấp",
+    "Houthi bắn vào sân bay Aden; Vance đòi Iran cắt làm giàu urani",
+    "Nobel Hóa học 2026 cho Kagan và Soai; WHO: không dùng thuốc giảm cân cho trẻ dưới 10 tuổi"
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Ngày làm việc thứ ba của Trung ương 4, các cuộc gặp mới với Tổng thống Panama và lịch thăm Lào, Campuchia của Thủ tướng.",
+      "items": [
+        {
+          "headline": "Trung ương 4 ngày thứ ba: bàn kế hoạch kinh tế – xã hội 2027, sửa Điều lệ Đảng và tổng kết 100 năm; bế mạc ngày mai",
+          "meta": "Thông cáo báo chí ngày làm việc thứ ba · Chinhphu.vn, VnExpress, Báo Thanh tra · 7/10",
+          "body": [
+            "Buổi sáng 7/10, Thường trực Ban Bí thư Trần Cẩm Tú điều hành; Trung ương thảo luận tại Hội trường đề án chiến lược thu hút, trọng dụng nhân tài, quy định về đảng viên tham gia đầu tư, kinh doanh và quy định mới về kiểm tra, giám sát, kỷ luật của Đảng (thay Quy định 21-QĐ/TW ngày 11/4/2026). Sau đó Bộ Chính trị, Ban Bí thư họp cho ý kiến về các báo cáo tiếp thu ý kiến thảo luận của hai ngày 5 và 6/10.",
+            "Phần mới của buổi chiều: thảo luận tại tổ báo cáo kinh tế – xã hội, ngân sách 2026 và dự kiến kế hoạch, dự toán ngân sách 2027; đề cương tổng thể và 4 đề cương nhóm nội dung để sửa đổi, bổ sung Điều lệ Đảng; đề cương Báo cáo tổng kết 100 năm Đảng lãnh đạo (1930–2030), định hướng phát triển 100 năm tiếp theo (2030–2130) và tổng kết 40 năm thực hiện Cương lĩnh. Theo thông cáo, ngày 8/10 Hội nghị làm việc tiếp và bế mạc."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Báo Chính phủ (thông cáo)",
+              "url": "https://baochinhphu.vn/thong-cao-bao-chi-ve-ngay-lam-viec-thu-ba-hoi-nghi-lan-thu-tu-ban-chap-hanh-trung-uong-dang-khoa-xiv-102261007155840904.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/trung-uong-thao-luan-de-cuong-sua-doi-dieu-le-dang-5129530.html"
+            },
+            {
+              "name": "Báo Thanh tra qua Vietnam.vn",
+              "url": "https://www.vietnam.vn/trung-uong-ban-phat-trien-kinh-te-xa-hoi-du-toan-ngan-sach-nha-nuoc-2027"
+            }
+          ]
+        },
+        {
+          "headline": "Thủ tướng Lê Minh Hưng và Chủ tịch Quốc hội Trần Thanh Mẫn hội kiến Tổng thống Panama",
+          "meta": "Trụ sở Chính phủ và Nhà Quốc hội, sáng 7/10 · VietnamPlus, Znews, VOV",
+          "body": [
+            "Ngày thứ ba của chuyến thăm Việt Nam (5–8/10), Tổng thống José Raúl Mulino lần lượt gặp Thủ tướng Lê Minh Hưng tại Trụ sở Chính phủ và Chủ tịch Quốc hội Trần Thanh Mẫn tại Nhà Quốc hội. Theo Znews, hai bên được đánh giá có tiềm năng hợp tác ở nông nghiệp, viễn thông, hạ tầng, vận tải biển, hàng không, hậu cần cảng biển, ngân hàng, giáo dục và năng lượng xanh; kênh đào Panama được nhắc như lợi thế để đưa hàng Việt vào Mỹ Latinh.",
+            "Phần hội đàm và Tuyên bố chung với Tổng Bí thư, Chủ tịch nước đã có trong số sáng; đây là các cuộc gặp mới trong ngày."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/thu-tuong-le-minh-hung-hoi-kien-tong-thong-panama-jose-raul-mulino-post1140473.vnp"
+            },
+            {
+              "name": "Znews",
+              "url": "https://lifestyle.zingnews.vn/thu-tuong-chu-tich-quoc-hoi-hoi-kien-tong-thong-panama-post1688031.html"
+            },
+            {
+              "name": "Kiến Thức (theo VOV)",
+              "url": "https://kienthuc.net.vn/thu-tuong-le-minh-hung-hoi-kien-tong-thong-panama-jose-raul-mulino-post1637253.html"
+            }
+          ]
+        },
+        {
+          "headline": "Trước giờ lên đường: Lào 8–9/10, Campuchia 9–10/10 — trọng tâm là đưa thỏa thuận cấp cao vào thực tế",
+          "meta": "Thứ trưởng Ngoại giao Nguyễn Mạnh Cường trả lời báo chí · Tuổi Trẻ, Tiền Phong 7/10",
+          "body": [
+            "Lịch cụ thể được công bố: Thủ tướng Lê Minh Hưng thăm chính thức Lào ngày 8–9/10 rồi Campuchia ngày 9–10/10. Theo Thứ trưởng Nguyễn Mạnh Cường, đây là chuyến thăm song phương nước ngoài đầu tiên của Thủ tướng trên cương vị mới, khẳng định ưu tiên cao với hai nước láng giềng; trong chuyến đi, Thủ tướng sẽ trao đổi với lãnh đạo hai nước về biện pháp cụ thể thúc đẩy hợp tác trong các lĩnh vực thiết thực."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ qua Vietnam.vn",
+              "url": "https://www.vietnam.vn/chuyen-tham-song-phuong-dau-tien-cua-thu-tuong-le-minh-hung-den-lao-va-campuchia"
+            },
+            {
+              "name": "Tiền Phong qua Vietnam.vn",
+              "url": "https://www.vietnam.vn/trong-tam-chuyen-tham-cua-thu-tuong-le-minh-hung-toi-lao-va-campuchia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Ukraine, Yemen, đàm phán Mỹ – Iran, biểu tình học sinh ở Pháp và ba năm sau ngày 7/10.",
+      "items": [
+        {
+          "headline": "Nga tập kích Ukraine đúng sinh nhật 74 tuổi của Putin: ít nhất 19 người chết; EU giải ngân 1,24 tỷ euro",
+          "meta": "The Guardian – Europe live · 7/10",
+          "body": [
+            "Đêm 6 rạng 7/10, Nga tấn công Pryluky, Dnipro, Kremenchuk, Zaporizhzhia và Kyiv, nhắm vào hạ tầng năng lượng; tên lửa đánh trúng một tòa chung cư năm tầng ở Pryluky. Đến trưa giờ châu Âu, tổng số người chết đã lên 19. Tổng thống Zelensky gọi đây là “món quà sinh nhật cho Putin” và kêu gọi thêm tên lửa Patriot.",
+            "Chủ tịch Ủy ban châu Âu Ursula von der Leyen nói Nga theo đuổi “chiến lược khủng bố có chủ đích” và công bố giải ngân 1,24 tỷ euro cho Ukraine mua drone, tên lửa. Kyiv nói đã đánh hai cơ sở dầu và một bãi tập ở các vùng Perm, Samara, Astrakhan của Nga."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
+            }
+          ]
+        },
+        {
+          "headline": "Houthi bắn tên lửa vào sân bay Aden, Saudi Arabia bắn hạ tên lửa phía bắc Riyadh",
+          "meta": "Al Jazeera · 7/10",
+          "body": [
+            "Bộ Giao thông Yemen cho biết ít nhất hai tên lửa đạn đạo và nhiều drone nhắm vào đường băng, nhà ga sân bay Aden; một quả rơi gần đường băng vài phút trước khi chuyến bay từ Cairo hạ cánh, máy bay phải chuyển hướng sang Jeddah. Liên quân do Saudi Arabia dẫn đầu nói đã đánh chặn một tên lửa phía bắc thủ đô Riyadh; Houthi tuyên bố nhắm vào các sân bay ở Riyadh và Abha.",
+            "Trên bộ, quân chính phủ Yemen mở chiến dịch giành huyện núi al-Waziiya (Taiz) trong cuộc tổng phản công “Bình minh Yemen”; liên quân nói 100 chiến đấu cơ đang yểm trợ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera (Aden)",
+              "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh"
+            },
+            {
+              "name": "Al Jazeera (Taiz)",
+              "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz"
+            }
+          ]
+        },
+        {
+          "headline": "Phó Tổng thống Mỹ Vance: Iran phải cắt giảm năng lực làm giàu urani “một cách thực chất” mới chấm dứt được chiến tranh",
+          "meta": "Phỏng vấn Reuters · Straits Times, Independent · 6–7/10",
+          "body": [
+            "Ông JD Vance nói Washington cần hành động cụ thể chứ không phải lời hứa cắt giảm trong tương lai, đặt câu hỏi vì sao Iran cần nhiên liệu làm giàu 60%. Mỹ và Iran đã trao đổi đề xuất về việc chấm dứt giao tranh và mở lại eo biển Hormuz; cuộc chiến đã kéo dài bảy tháng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "The Straits Times (Reuters)",
+              "url": "https://www.straitstimes.com/world/europe/in-interview-us-vice-president-vance-says-iran-must-cut-enrichment-to-end-war"
+            },
+            {
+              "name": "The Independent",
+              "url": "https://www.independent.co.uk/news/world/americas/us-politics/vance-iran-nuclear-enrichment-peace-b3062538.html"
+            }
+          ]
+        },
+        {
+          "headline": "Pháp: Thủ tướng Lecornu phát biểu tối nay về làn sóng biểu tình của học sinh, giá nhiên liệu và nợ công",
+          "meta": "Le Monde, France 24, The Guardian · 7/10",
+          "body": [
+            "Sau cuộc tuần hành khoảng 250.000 người vì ngân sách giáo dục, Bộ trưởng Nội vụ Laurent Nuñez tạm dừng dùng lựu đạn gây choáng khi có tin một học sinh 15 tuổi bị mất bàn tay. Thủ tướng Sébastien Lecornu sẽ phát biểu từ Matignon tối 7/10 (giờ Paris, tức khuya nay giờ Việt Nam) về học sinh, giá nhiên liệu, khủng hoảng nông nghiệp và tài chính công. Các nghiệp đoàn giáo dục kêu gọi đình công, ngày biểu tình thứ tư dự kiến vào thứ Năm 8/10."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/07/sebastien-lecornu-s-exprimera-mercredi-soir-sur-la-mobilisation-lyceenne-le-prix-des-carburants-la-crise-agricole-et-la-dette_6789550_823448.html"
+            },
+            {
+              "name": "France 24",
+              "url": "https://www.france24.com/fr/info-en-continu/20261007-col%C3%A8re-des-lyc%C3%A9ens-journ%C3%A9e-test-mercredi-apr%C3%A8s-une-mobilisation-massive"
+            },
+            {
+              "name": "TF1 Info",
+              "url": "https://www.tf1info.fr/societe/en-direct-manifestations-acte-iv-colere-des-lyceens-apres-la-forte-mobilisation-les-organisations-appellent-a-poursuivre-le-mouvement-actions-blocages-le-point-du-7-octobre-2026-2468442.html"
+            }
+          ]
+        },
+        {
+          "headline": "Israel tưởng niệm ba năm vụ tấn công ngày 7/10",
+          "meta": "The Guardian live · 7/10",
+          "body": [
+            "Vụ tấn công do Hamas dẫn đầu ngày 7/10/2023 làm khoảng 1.200 người chết và 251 người bị bắt làm con tin. Theo Bộ Y tế Gaza — nguồn số liệu Liên Hợp Quốc đánh giá là đáng tin cậy — ít nhất 74.243 người đã thiệt mạng ở Gaza trong cuộc chiến sau đó."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/oct/07/israel-october-7-anniversary-hamas-gaza-netanyahu-iran-latest-news-updates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Mưa lũ miền Trung, một tấm gương dũng cảm và bài toán già hóa dân số.",
+      "items": [
+        {
+          "headline": "Huế – Đà Nẵng mưa cực lớn, có nơi trên 500 mm đến đêm 8/10; Đà Nẵng kích hoạt ứng phó khẩn cấp",
+          "meta": "Trung tâm Dự báo KTTV quốc gia, UBND Đà Nẵng · VietnamPlus, Báo Xây dựng · 7/10",
+          "body": [
+            "Từ chiều tối 7/10 đến đêm 8/10, khu vực Huế – Đà Nẵng mưa phổ biến 150–300 mm, cục bộ trên 500 mm; đông Quảng Ngãi 100–200 mm. Đỉnh lũ các sông từ Quảng Trị đến Huế có thể lên báo động 1–2, có sông trên báo động 2; từ 9/10 mưa giảm dần. Từ 5–7/10, đỉnh Bạch Mã đã đo được 501 mm, Giang Hải 455 mm.",
+            "Đà Nẵng ban hành công văn khẩn yêu cầu sơ tán dân khỏi vùng nguy hiểm, vận hành hồ chứa “đón lũ” và giao Sở GD-ĐT cùng các xã, phường chủ động cho học sinh nghỉ học. Huế cảnh báo lũ quét, sạt lở ở A Lưới, Phong Điền, Nam Đông, Phú Lộc, Chân Mây – Lăng Cô và tuyến cao tốc Cam Lộ – Túy Loan."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VietnamPlus (dự báo)",
+              "url": "https://www.vietnamplus.vn/tu-toi-710-den-dem-810-khu-vuc-hue-den-da-nang-cuc-bo-co-noi-mua-tren-500mm-post1140576.vnp"
+            },
+            {
+              "name": "VietnamPlus (Đà Nẵng)",
+              "url": "https://www.vietnamplus.vn/da-nang-kich-hoat-ung-pho-khan-cap-chu-dong-dieu-tiet-ho-chua-don-lu-post1140567.vnp"
+            },
+            {
+              "name": "Báo Xây dựng",
+              "url": "https://baoxaydung.vn/mua-lon-keo-dai-canh-bao-lu-quet-sat-lo-va-ngap-lut-o-hue-192261007095029351.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Cô giáo mất một chân khi cứu bé 2 tuổi được đặc cách trao giải “Thanh niên sống đẹp” 2026",
+          "meta": "Thanh Niên · 7/10",
+          "body": [
+            "Trung ương Hội LHTN Việt Nam chọn 15 người nhận giải năm nay, trao tại gala ngày 10/10 ở Hà Nội, mỗi người kèm phần thưởng 10 triệu đồng. Trong đó có cô Hoàng Thị Hiền, 32 tuổi, giáo viên mầm non ở Nghệ An — mẹ đơn thân nuôi hai con — người lao ra cứu một bé trai trước đầu xe tải và phải cắt bỏ chân phải. Cô được đặc cách dù đã quá tuổi theo thể lệ hai năm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/co-giao-cuu-be-trai-2-tuoi-o-nghe-an-duoc-tuyen-duong-thanh-nien-song-dep-1852610071620149.htm"
+            }
+          ]
+        },
+        {
+          "headline": "“65 tuổi chăm 85 tuổi”: Việt Nam còn khoảng 10 năm để chuẩn bị cho xã hội già",
+          "meta": "Góc nhìn VnExpress · 7/10",
+          "body": [
+            "Tác giả Võ Thị Minh Ngọc dẫn dự báo của Liên Hợp Quốc: khoảng năm 2036 Việt Nam thành “xã hội già” (người từ 65 tuổi chiếm 14%), sau chỉ 18–20 năm kể từ khi bắt đầu già hóa. Cả nước có khoảng 160 khoa Lão trên hơn 1.300 bệnh viện; theo một khảo sát năm 2026 được bài viết trích, chi phí cần chuẩn bị cho một người cao tuổi trung bình 11,8 triệu đồng/tháng. Bài viết kêu gọi người trẻ học “hiểu biết về tuổi già” thay vì chỉ lo sổ tiết kiệm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/viet-nam-va-bai-toan-gia-hoa-dan-so-5129336.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "WHO: không dùng thuốc giảm cân GLP-1 như Wegovy, Mounjaro cho trẻ dưới 10 tuổi",
+          "meta": "BBC · hướng dẫn toàn cầu mới của WHO · 7/10",
+          "body": [
+            "WHO đưa ra “khuyến nghị mạnh”: trẻ dưới 10 tuổi không nên dùng thuốc béo phì, phẫu thuật giảm cân hay thiết bị kiểm soát cân nặng; chăm sóc nên tập trung vào ăn uống lành mạnh và vận động. Với trẻ lớn và vị thành niên, các biện pháp này có thể phù hợp khi thay đổi lối sống thất bại.",
+            "Theo ước tính WHO dẫn lại, 170 triệu trẻ em và thanh thiếu niên thế giới bị béo phì, trong đó 70 triệu trẻ 5–9 tuổi; tỷ lệ béo phì ở nhóm này tăng gấp bốn từ năm 1990 (2% lên 8%)."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/crvg904yw397o"
+            }
+          ]
+        },
+        {
+          "headline": "Séc rút khỏi Eurovision 2027 vì cắt giảm ngân sách",
+          "meta": "Euronews · 7/10",
+          "body": [
+            "Đài truyền hình Séc nói “sẽ không thấy lá cờ Séc trên sân khấu năm sau” do điều chỉnh ngân sách, không liên hệ quyết định với tranh cãi quanh việc Israel tham dự. Ireland đã xác nhận tẩy chay năm thứ hai, Tây Ban Nha đang cân nhắc; Eurovision 2027 diễn ra tại Burgas, Bulgaria."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/07/czechia-withdraws-from-eurovision-song-contest-2027-citing-budget-pressures"
+            }
+          ]
+        },
+        {
+          "headline": "Ánh sáng tím-xanh diệt sạch 64 chủng vi khuẩn gây ngộ độc phổ biến nhất trên thịt gà",
+          "meta": "ĐH Reading & APHA · tạp chí Microbiology · BBC",
+          "body": [
+            "Campylobacter có trên khoảng ba phần tư thịt gà sống bán ở Anh. Trong phòng thí nghiệm, ánh sáng tím-xanh tiêu diệt toàn bộ 64 chủng thử nghiệm, kể cả chủng kháng kháng sinh, không cần hóa chất và không cần chạm vào thực phẩm. Nhóm nghiên cứu ước tính có thể giảm tỷ lệ thân gà nhiễm nặng đến tay người mua từ khoảng 1/10 xuống 1/50, nhưng còn phải thử trên thịt nhiễm khuẩn tự nhiên."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckwyqvzl66vyo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khoa học",
+      "tags": [
+        "ai"
+      ],
+      "intro": "Một tin ngắn trong ngày.",
+      "items": [
+        {
+          "headline": "Nobel Hóa học 2026: Henri Kagan và Kenso Soai giải bí ẩn “sự bất đối xứng của sự sống”",
+          "meta": "NobelPrize.org, BBC · công bố chiều 7/10 giờ Việt Nam",
+          "body": [
+            "Nhà hóa học Pháp Henri B. Kagan và nhà hóa học Nhật Kenso Soai được trao giải “vì phát hiện hiệu ứng phi tuyến và tự xúc tác trong tổng hợp hữu cơ bất đối xứng” — lý giải vì sao sự sống chỉ dùng một trong hai dạng “ảnh gương” của phân tử như axit amin. Phản ứng Soai là phản ứng hóa học đầu tiên chỉ tạo ra một dạng ảnh gương; hai ông chia đều 12 triệu krona Thụy Điển."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "NobelPrize.org",
+              "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Chuyện lạ trong ngày và vài sự thật về ngày 7 tháng 10.",
+      "items": [
+        {
+          "headline": "Mượn Rolls-Royce “dính” vụ rửa tiền 3 tỷ USD quay TikTok, quán cá đuối nồi đất ở Singapore tăng gấp đôi doanh thu",
+          "meta": "NDTV (theo The Straits Times)",
+          "body": [
+            "Ông Muhammad Ezam Abdul Gani, 52 tuổi, mượn chiếc Rolls-Royce Phantom của bạn — xe từng nằm trong vụ rửa tiền lớn nhất Singapore và được chủ hiện tại mua đấu giá — để quay clip chưa đầy 15 phút bằng iPhone cho quầy assam pedas của dì. Clip hơn 500.000 lượt xem; doanh thu từ khoảng 600 lên hơn 1.200 đô la Singapore/ngày, và ông thu hồi 35.000 đô vốn sửa quầy chỉ sau hơn một tháng thay vì 9 tháng như dự tính."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "NDTV",
+              "url": "https://www.ndtv.com/offbeat/hawkers-rolls-royce-stunt-goes-viral-doubles-sales-at-singapore-food-stall-12148849"
+            }
+          ]
+        },
+        {
+          "headline": "Tượng Trump khỏa thân mạ vàng “Dịch hạch màu cam” xuất hiện ở Nghị viện châu Âu",
+          "meta": "Metro (Anh) · Strasbourg, 7/10",
+          "body": [
+            "Tác phẩm cao hơn 2,4 m của nhà điêu khắc Đan Mạch Jens Galschiøt, phủ vàng lá 23 kara, cho thấy ông Trump cầm gậy golf ngồi trên vai một người đàn ông đang oằn mình — lấy cảm hứng từ truyện “Bộ quần áo mới của hoàng đế” của Andersen để phê phán chính sách khí hậu. Khách tham quan được phát tượng mini in 3D; tác phẩm sẽ đến COP31 ở Thổ Nhĩ Kỳ tháng tới."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Metro",
+              "url": "https://metro.co.uk/2026/10/07/naked-statue-donald-trump-unveiled-called-orange-plague-29687148/"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 7/10/1959, Luna 3 gửi về những bức ảnh đầu tiên chụp mặt khuất của Mặt Trăng",
+          "meta": "Wikipedia – October 7",
+          "body": [
+            "Cùng ngày 7/10 trong lịch sử: năm 1913 Ford đưa vào dây chuyền lắp ráp ô tô di động đầu tiên; năm 1919 KLM được thành lập — hãng bay lâu đời nhất còn hoạt động dưới tên gốc; năm 1885 nhà vật lý Niels Bohr chào đời."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – October 7",
+              "url": "https://en.wikipedia.org/wiki/October_7"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: tỷ số 222–0 — trận bóng bầu dục đại học chênh lệch nhất lịch sử Mỹ diễn ra ngày 7/10/1916",
+          "meta": "Wikipedia – October 7",
+          "body": [
+            "Georgia Tech thắng Cumberland University 222–0. Ngày 7/10 là ngày thứ 280 trong năm; năm 2026 còn 85 ngày nữa là hết. Và đúng ngày này năm 2008, tiểu hành tinh 2008 TC3 lao xuống Sudan — lần đầu tiên một vụ va chạm được phát hiện trước khi thiên thạch vào khí quyển."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – October 7",
+              "url": "https://en.wikipedia.org/wiki/October_7"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 18h ngày 7/10/2026 (giờ VN). Không lặp tin của số sáng, trừ các cập nhật thực sự trong ngày (phiên chiều ngày thứ ba Hội nghị Trung ương 4; các cuộc hội kiến Tổng thống Panama sáng 7/10). Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
