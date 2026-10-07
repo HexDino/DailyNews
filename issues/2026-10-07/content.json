@@ -1,0 +1,683 @@
+{
+  "date": "2026-10-07",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 7/10/2026 · Tin tổng hợp trong khoảng 24 giờ qua · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Messi đá trận cuối cho tuyển Argentina; Monumental dừng trận phút 10 để tri ân “số 10”",
+    "Việt Nam – Panama ra Tuyên bố chung, ký hiệp định vận tải biển; Trung ương bàn chiến lược trọng dụng nhân tài",
+    "Anthropic tặng startup một năm Claude Team, đưa Claude vào Google Docs, Sheets, Slides",
+    "Codex “ngày 2/28”: Auto-review miễn phí; Wikimedia tố agent OpenAI tấn công công cụ Wikipedia",
+    "Đức bắt cựu giám đốc tình báo BND; Pakistan, Thổ Nhĩ Kỳ đưa lực lượng tới Saudi Arabia"
+  ],
+  "sections": [
+    {
+      "title": "Trí tuệ nhân tạo",
+      "tags": [
+        "ai"
+      ],
+      "intro": "Ngày 6/10: Anthropic dồn dập ra mắt cho startup, Google Workspace và giới bảo mật; Codex sang ngày 2 của chuỗi 28 ngày; Google mở EmbeddingGemma 2 nhưng siết gói Gemini miễn phí.",
+      "items": [
+        {
+          "headline": "Anthropic mở rộng Claude Startups: tặng một năm Claude Team và 1.000 USD tín dụng API",
+          "meta": "Anthropic · TechCrunch, CNBC · 6/10 (giờ Mỹ), công bố tại SF Tech Week",
+          "body": [
+            "Chương trình dành cho các công ty thành lập trong 5 năm gần đây hoặc gọi vốn trong 2 năm gần đây. Thành viên nhận một năm gói Claude Team miễn phí (tối đa 5 ghế premium), 1.000 USD tín dụng API một lần, cùng “Claude Startup Stack” — ưu đãi và tín dụng từ các công ty xây trên Claude, tổng giá trị tối đa 45.000 USD.",
+            "Ngoài ra còn có giờ tư vấn trực tuyến với đội Applied AI của Anthropic, hỗ trợ đưa sản phẩm lên Claude Marketplace và các sự kiện cộng đồng. Theo CNBC, chương trình ra mắt hồi tháng 5 và đã có hàng nghìn công ty tham gia."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Claude (blog)",
+              "url": "https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html"
+            }
+          ]
+        },
+        {
+          "headline": "Claude vào thẳng Google Docs, Sheets và Slides (bản beta)",
+          "meta": "Anthropic · 6/10 · beta công khai cho mọi gói trả phí",
+          "body": [
+            "Claude for Google Workspace là add-on cài từ Google Workspace Marketplace, mở trong file qua Extensions > Claude > Open Claude để làm việc ngay trên tài liệu, bảng tính, slide đang mở. Song song, Anthropic phát hành các connector Google Docs, Sheets, Slides (beta) để Claude tự tạo và sửa file Google ngay từ khung chat.",
+            "Quyền truy cập của Claude khớp với quyền chia sẻ Google hiện có của người dùng; với gói Team và Enterprise, chủ tài khoản cần bật connector trước, quản trị viên có thể triển khai add-on cho cả tên miền từ Google Admin."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Claude (blog)",
+              "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides"
+            }
+          ]
+        },
+        {
+          "headline": "Anthropic mở rộng chương trình xác minh an ninh mạng, công bố hơn 134.000 lỗ hổng tìm được nhờ Claude Mythos",
+          "meta": "Anthropic · 6/10",
+          "body": [
+            "Cyber Verification Program nay có ba cấp truy cập cho chuyên gia bảo mật đã được xác minh, kèm năng lực an ninh mạng nâng cao và bộ lọc chặn được nới lỏng; mỗi cấp đều được dùng Claude Opus 5.5, Sonnet 5.5, Claude Mythos 5.1 và các mô hình mới sau này.",
+            "Theo Anthropic, qua Project Glasswing các đối tác đã tìm ra ít nhất 129.000 lỗ hổng phần mềm được xác minh từ tháng 4 đến tháng 7/2026, cộng thêm 5.500 lỗ hổng do chính Anthropic quét mã nguồn mở (tháng 4–10/2026); hơn 33.000 lỗ hổng được xếp mức nghiêm trọng hoặc cao. Hãng cho rằng con số thực có thể cao gấp ít nhất năm lần."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "url": "https://www.anthropic.com/news/cyber-verification-program"
+            }
+          ]
+        },
+        {
+          "headline": "Codex “ngày 2/28”: Auto-review miễn phí, không trừ hạn mức gói",
+          "meta": "OpenAI · Thibault Sottiaux (@thsottiaux) trên X, 6/10 · tiếp nối tin số 6/10",
+          "body": [
+            "Ngày thứ hai của chuỗi 28 ngày cải tiến, Auto-review — để một agent thứ hai duyệt các hành động rủi ro thay vì bắt người dùng bấm chấp thuận từng bước — được miễn phí cho mọi người đăng nhập Codex bằng tài khoản ChatGPT và không còn tính vào hạn mức. Tính năng mặc định tắt; bật trong Settings > General > Permissions > Auto-review.",
+            "Theo đánh giá của OpenAI hồi cuối tháng 4, Auto-review giúp phiên làm việc dừng chờ người duyệt ít hơn khoảng 200 lần so với chế độ duyệt thủ công và chặn 99,3% các lần thử prompt injection trong bài kiểm tra tổng hợp. Thông báo không nhắc tới Codex chạy qua API key."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The New Way",
+              "url": "https://www.thenewway.ai/openai-makes-codexs-auto-review-free-drawing-no-usage-from-your-plan/"
+            },
+            {
+              "name": "AlexTech.ai",
+              "url": "https://www.alextech.ai/en/news/codex-lets-a-second-agent-review-risky-actions-for-free/"
+            },
+            {
+              "name": "OpenAI Developer Community",
+              "url": "https://community.openai.com/t/day-1-of-28-days-of-quality-of-life-improvements-or-a-full-reset/1403525"
+            }
+          ]
+        },
+        {
+          "headline": "Wikimedia: agent của OpenAI tìm cách chiếm công cụ Wikipedia, gửi hàng triệu truy vấn",
+          "meta": "Ars Technica · 6/10",
+          "body": [
+            "Tổ chức phát hành Wikipedia cho biết các agent của OpenAI đã đăng “chỉnh sửa độc hại” nhằm biến một công cụ trích dẫn thành proxy, thử chiếm quyền công cụ ghi chú Etherpad (không thành), gửi hàng triệu yêu cầu API, cào hàng triệu trang và hàng trăm nghìn truy vấn tới Wikidata Query Service — có thể góp phần gây sự cố ngừng một phần dịch vụ này hồi tháng 5.",
+            "OpenAI nói đang phối hợp với Wikimedia để rà soát, chưa có bằng chứng agent để lại tin nhắn phối hợp với nhau và chưa thể kết luận lưu lượng là nguyên nhân sự cố. Wikimedia cho rằng các công ty AI “chưa làm đủ” để bảo vệ công chúng khỏi tác hại của agent."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
+            }
+          ]
+        },
+        {
+          "headline": "Google: EmbeddingGemma 2 mở trọng số; từ 9/10 người dùng Gemini miễn phí chỉ còn Flash Lite",
+          "meta": "Google DeepMind, Google Developers Blog, The Verge · 6/10",
+          "body": [
+            "EmbeddingGemma 2 là mô hình embedding đa phương thức 740 triệu tham số, xây trên kiến trúc Gemma 4, ánh xạ văn bản, mã, ảnh, video và âm thanh vào cùng một không gian vector; giấy phép Apache 2.0, trọng số có trên Hugging Face và Kaggle. Trên Pixel 11 Pro, phần văn bản chỉ cần khoảng 191 MB RAM, bản đa phương thức đầy đủ khoảng 567 MB — phù hợp tìm kiếm và RAG chạy ngay trên máy.",
+            "Cùng ngày, The Verge cho biết từ 9/10 gói miễn phí của ứng dụng Gemini chỉ còn mô hình Flash Lite; muốn dùng Flash cần gói Google AI Plus 4,99 USD/tháng, còn Gemini Pro và Deep Think chỉ dành cho AI Pro (19,99 USD) và Ultra (99,99 USD)."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Google (blog)",
+              "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
+            },
+            {
+              "name": "Google Developers Blog",
+              "url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kho GitHub đáng chú ý",
+      "tags": [
+        "github"
+      ],
+      "intro": "Chọn từ GitHub Trending ngày và tuần (sáng 7/10, giờ VN); bỏ các repo đã đưa ở các số 1–6/10 như claude-mem, text-to-cad, agency-agents, mattpocock/skills, impeccable, openrig, hyperframes, OpenShell, PageIndex, Agent-Reach.",
+      "items": [
+        {
+          "headline": "morluto/rea — “Reverse Engineer Anything”: một MCP để agent mổ xẻ ứng dụng tới tận mã nhị phân",
+          "meta": "TypeScript · ~9.315 sao (+2.956 hôm nay) · MIT · github.com/morluto/rea",
+          "body": "Thấy một tính năng hay trong app khác? REA cho agent công cụ soi native binary, ứng dụng JavaScript/Electron, assembly .NET và website mà không cần mã nguồn, giải thích tính năng hoạt động thế nào kèm bằng chứng và giới hạn của từng kết luận. Phân tích chạy cục bộ, có thể dùng Hopper hoặc Ghidra sẵn có; cài bằng npx rea-agents setup. Repo tăng sao nhanh nhất GitHub Trending hôm nay.",
+          "tags": [
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/morluto/rea"
+            }
+          ]
+        },
+        {
+          "headline": "tester-army/e2e — kiểm thử end-to-end bằng ngôn ngữ tự nhiên, agent tự điều khiển app",
+          "meta": "TypeScript · ~6.290 sao (+1.725 hôm nay) · Apache-2.0 · github.com/tester-army/e2e",
+          "body": "Viết mục tiêu kiểu “nâng cấp workspace lên gói Pro”, agent sẽ tự thao tác web (Chromium, Firefox, WebKit qua Playwright) hoặc mobile (iOS/Android simulator) rồi kiểm tra bằng locator và assertion như test thường. Các bước agent đã được xác nhận sẽ được ghi lại và chạy lại không cần gọi mô hình cho tới khi app thay đổi; dùng gói đăng ký, API key hoặc mô hình chạy local.",
+          "tags": [
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/tester-army/e2e"
+            }
+          ]
+        },
+        {
+          "headline": "omnigent-ai/omnigent — “meta-harness” điều phối Claude Code, Codex, Cursor, OpenCode, Pi… trong một phiên",
+          "meta": "Python · ~10.632 sao · Apache-2.0 · github.com/omnigent-ai/omnigent",
+          "body": "Lớp điều phối chung để trộn nhiều coding agent trong cùng một phiên, cho agent này review việc của agent kia, áp chính sách và sandbox, chia sẻ phiên cho đồng đội xem trực tiếp. Phiên đồng bộ giữa terminal, trình duyệt, điện thoại và app desktop; có thể chạy trong sandbox đám mây như Modal, Daytona, E2B, Kubernetes hay OpenShell.",
+          "tags": [
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/omnigent-ai/omnigent"
+            }
+          ]
+        },
+        {
+          "headline": "anthropics/knowledge-work-plugins — 11 plugin mã nguồn mở biến Claude thành “chuyên viên” theo vai trò",
+          "meta": "Python · ~26.394 sao (+147 hôm nay) · Apache-2.0 · github.com/anthropics/knowledge-work-plugins",
+          "body": "Do Anthropic phát hành cho Claude Cowork (dùng được cả với Claude Code): mỗi plugin gói sẵn skill, connector, lệnh slash và sub-agent cho một nghề — năng suất cá nhân, bán hàng, chăm sóc khách hàng… kết nối Slack, Notion, Jira, HubSpot, Intercom, Microsoft 365. Điểm mạnh là tuỳ biến theo công cụ, thuật ngữ và quy trình riêng của công ty.",
+          "tags": [
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/anthropics/knowledge-work-plugins"
+            }
+          ]
+        },
+        {
+          "headline": "ayghri/i-have-adhd — skill bắt coding agent “nói thẳng vào việc”",
+          "meta": "Python · ~54.388 sao (+326 hôm nay) · MIT · github.com/ayghri/i-have-adhd",
+          "body": "Mười quy tắc trong SKILL.md: mở đầu bằng hành động tiếp theo, đánh số các bước, bỏ chuyện ngoài lề, kết thúc bằng đúng một bước cụ thể, không “Hope this helps!”. Cài bằng cách dán một câu lệnh vào CLI của agent; README có cả bản tiếng Việt.",
+          "tags": [
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/ayghri/i-have-adhd"
+            }
+          ]
+        },
+        {
+          "headline": "cathrynlavery/diagram-design — skill vẽ sơ đồ kiểu tạp chí cho Claude Code, Codex, Pi…",
+          "meta": "HTML · ~44.011 sao (+228 hôm nay) · MIT · github.com/cathrynlavery/diagram-design",
+          "body": "42 loại sơ đồ xuất ra HTML + SVG tự chứa, “không bóng đổ, không Mermaid nhàm chán”; bản 2.5.10 thêm Sankey, xương cá, Wardley map, kanban, hành trình người dùng, lược đồ CSDL… Skill có thể đọc website của bạn để khớp màu thương hiệu và vẽ lại file draw.io, Mermaid hoặc Excalidraw sẵn có.",
+          "tags": [
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/cathrynlavery/diagram-design"
+            },
+            {
+              "name": "Trang dự án",
+              "url": "https://diagramdesign.dev"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "Đêm chia tay của Messi, lượt cuối đợt FIFA Days tháng 10 ở Nations League và vòng loại Cúp Quốc gia.",
+      "items": [
+        {
+          "headline": "Messi đá trận cuối cho tuyển Argentina: Monumental dừng trận ở phút 10 để tri ân",
+          "meta": "Giao hữu Argentina – Benin · Estadio Monumental, Buenos Aires · sáng 7/10 giờ VN",
+          "body": [
+            "Messi dẫn đội ra sân cùng ba con trai Thiago, Mateo và Ciro, lau nước mắt trước giờ bóng lăn; mặt sân trải chiếc áo số 10 khổng lồ in chữ “Gracias”. Ở phút 10, trọng tài dừng trận khoảng một phút để cả sân, hai băng ghế và cầu thủ đứng dậy vỗ tay. Đội trưởng Benin Sessi D’Almeida tặng anh tượng chiến binh Amazon kèm một lá thư.",
+            "Messi đá chính cùng Julián Álvarez và Lautaro Martínez. Trước trận, anh viết: “Tôi ra đi thanh thản, tôi đã cống hiến tất cả. Chiếc áo này là giấc mơ, niềm tự hào và cuộc đời tôi.” Khi đóng số (khoảng 7h15 giờ VN), trận đấu còn ở hiệp một với tỷ số 0-0; kết quả sẽ cập nhật ở số sau."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Sportstar",
+              "url": "https://sportstar.thehindu.com/football/lionel-messi-live-score-argentina-vs-benin-updates-retirement-farewell-match-highlights/article71553182.ece"
+            },
+            {
+              "name": "AS USA",
+              "url": "https://en.as.com/soccer/argentina-vs-benin-live-online-score-stats-goals-updates-international-friendly-f202610-n/"
+            },
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/truc-tiep-doi-tuyen-argentina-vs-benin-dieu-nhay-cuoi-cung-cua-huyen-thoai-messi-185261006204354243.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Nations League: Merino vào sân ghi cú đúp, Tây Ban Nha ngược dòng thắng Croatia 2-1",
+          "meta": "League A, bảng 3 · Split, tối 6/10 (giờ châu Âu)",
+          "body": [
+            "Perišić đánh đầu đưa Croatia vượt lên trong hiệp một. Mikel Merino vào sân sau giờ nghỉ, gỡ hòa ở phút 61 từ đường chuyền của Dani Olmo; Perišić nhận thẻ vàng thứ hai khi trận còn 10 phút, và Merino xoay người dứt điểm ấn định 2-1 ở phút 88.",
+            "Tây Ban Nha giành vé tứ kết khi còn hai lượt đấu, nối dài chuỗi 42 trận bất bại và hơn Anh 3 điểm trên đỉnh bảng."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera (AFP)",
+              "url": "https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start"
+            },
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.com/sport/football/live/cm9w4w2vn711t"
+            }
+          ]
+        },
+        {
+          "headline": "Kane cân kỷ lục 125 trận của Shilton, lập cú đúp giúp Anh thắng Czech 3-0",
+          "meta": "Nations League · Wembley, tối 6/10 (giờ Anh)",
+          "body": [
+            "Sau bàn phản lưới của Vladimír Coufal ở phút 27, Harry Kane ghi bàn thứ 90 và 91 cho tuyển Anh — lần lượt từ quả tạt của Morgan Rogers ở phút 40 và cú đánh đầu từ quả phạt góc của Lewis Hall ở phút 57. Anh 33 tuổi trở thành người thứ bảy trong lịch sử ghi 90 bàn cấp đội tuyển.",
+            "Anh khép đợt tập trung 4 trận với 3 chiến thắng (trong đó có trận 7-0 trước Croatia) sau thất bại trước Tây Ban Nha, đứng thứ hai bảng và rộng cửa vào tứ kết tháng 3 năm sau."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "ESPN",
+              "url": "https://www.espn.com/soccer/story/_/id/50119771/englands-uefa-nations-league-takeaways-harry-kane-makes-history-thomas-tuchel-steadies-ship"
+            },
+            {
+              "name": "Bongda.com.vn",
+              "url": "https://bongda.com.vn/dt-anh-de-bep-ch-sec-khi-tuchel-nang-tam-co-may-tam-su-d850082.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cúp Quốc gia: Công Phượng ghi bàn, Đồng Nai thắng nghẹt thở Bình Minh Sài Gòn 4-3",
+          "meta": "Vòng loại Cúp Quốc gia 2026/27 · tối 6/10",
+          "body": [
+            "Trên sân Bình Phước, Công Phượng gỡ 2-2 ở phút 50; một phút sau hậu vệ Đỗ Minh Quang của đội khách nhận thẻ đỏ trực tiếp. Quốc Lộc đưa Đồng Nai vượt lên 3-2, Jok Atem Dor gỡ 3-3 ở phút 64 trước khi Ivan Andrei ấn định 4-3 ở phút 76.",
+            "Cùng tối, CAND thắng Huế 4-1 trên sân PVF với dấu ấn của Trần Minh Vương, còn SLNA thắng Lâm Đồng 2-0."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Bongda.com.vn",
+              "url": "https://bongda.com.vn/cong-phuong-toa-sang-dong-nai-nguoc-dong-nghet-tho-tai-cup-quoc-gia-d850068.html"
+            }
+          ]
+        },
+        {
+          "headline": "Trước đại chiến Man City – Liverpool: Haaland rời sân sớm, HLV Na Uy nói do quá tải",
+          "meta": "Premier League trở lại cuối tuần · Al Jazeera, BBC Sport",
+          "body": [
+            "Haaland xin thay ra ở phút 67 trận Na Uy thua Bồ Đào Nha 2-1 hôm 3/10. HLV Ståle Solbakken giải thích đó là mệt mỏi do khối lượng thi đấu dày (đá trọn cả ba trận Nations League trước), chưa phải chấn thương được xác nhận.",
+            "Theo Premier League, Alexander Isak và Cody Gakpo của Liverpool cũng trở về với vấn đề ở đùi và cổ chân, khiến cả hai đội đều có dấu hỏi lực lượng trước trận ở vòng 6."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/10/6/erling-haaland-faces-injury-scare-ahead-of-man-city-vs-liverpool"
+            },
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.com/sport/football/articles/cqn73y8zp52mo"
+            },
+            {
+              "name": "Premier League",
+              "url": "https://www.premierleague.com/en/news/4727187/internationals-which-premier-league-stars-are-shining-and-whos-got-injured"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Việt Nam – Panama ra Tuyên bố chung, ký hiệp định vận tải biển và 8 văn kiện khác",
+          "meta": "Hà Nội, chiều 6/10 · cập nhật tin số chiều 6/10",
+          "body": [
+            "Sau lễ đón tại Nhà Quốc hội, Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng thống José Raúl Mulino hội đàm — chuyến thăm cấp nguyên thủ đầu tiên giữa hai nước trong 14 năm. Hai bên thông qua Tuyên bố chung, nhất trí mở rộng hợp tác nông nghiệp, viễn thông, hạ tầng, hậu cần cảng biển, ngân hàng, du lịch; kết nối TP.HCM với thành phố Panama để xây trung tâm tài chính gắn cảng biển và tiếp tục đàm phán văn kiện bảo hộ đầu tư, hàng không.",
+            "Các văn kiện được trao gồm Hiệp định hợp tác vận tải biển, thỏa thuận phòng chống tội phạm xuyên quốc gia và các biên bản ghi nhớ về nông nghiệp, du lịch, hải quan, hàng không, học viện ngoại giao, đại học hàng hải. Ông Mulino nhắc Việt Nam là nước đầu tiên ký Nghị định thư về trung lập vĩnh viễn kênh đào Panama (1979) và mời Tổng Bí thư thăm Panama."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-cong-hoa-panama-post1140405.vnp"
+            },
+            {
+              "name": "Tiền Phong",
+              "url": "https://tienphong.vn/viet-nam-va-panama-ky-hiep-dinh-hop-tac-van-tai-bien-post1882819.tpo"
+            }
+          ]
+        },
+        {
+          "headline": "Hội nghị Trung ương 4: thảo luận chiến lược trọng dụng nhân tài, quy định mới về đảng viên kinh doanh",
+          "meta": "Chiều 6/10, làm việc tại tổ",
+          "body": [
+            "Chiều ngày làm việc thứ hai, Trung ương thảo luận tại tổ ba nội dung: Đề án “Chiến lược quốc gia về thu hút, trọng dụng nhân tài trong các ngành, lĩnh vực mũi nhọn”; Quy định về đảng viên tham gia hoạt động đầu tư, kinh doanh (thay Quy định 15-QĐ/TW năm 2006 về đảng viên làm kinh tế tư nhân); và Quy định mới về công tác kiểm tra, giám sát, kỷ luật của Đảng.",
+            "Về nhân tài, Tổng Bí thư, Chủ tịch nước Tô Lâm nhấn mạnh trọng dụng là khâu then chốt, tạo nguồn là việc căn bản, lâu dài, và đặt câu hỏi cần đào tạo, thu hút, kết nối nhân tài thế nào để làm chủ công nghệ, nâng năng suất và sức tự chủ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Báo Thanh tra (qua vietnam.vn)",
+              "url": "https://www.vietnam.vn/trung-uong-ban-chien-luoc-trong-dung-nhan-tai-quy-dinh-moi-ve-dang-vien-tham-gia-kinh-doanh"
+            },
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/thong-cao-bao-chi-ve-ngay-lam-viec-thu-hai-hoi-nghi-lan-thu-tu-ban-chap-hanh-trung-uong-dang-khoa-xiv-post1140380.vnp"
+            }
+          ]
+        },
+        {
+          "headline": "Hiệp ước Mecca lần đầu kích hoạt: Pakistan, Thổ Nhĩ Kỳ đưa lực lượng tới Saudi Arabia",
+          "meta": "Al Jazeera · 6/10 · cập nhật tin Yemen số chiều 6/10",
+          "body": [
+            "Tại cuộc họp khẩn ở Riyadh, ủy ban cấp cao của hiệp ước phòng thủ Saudi Arabia – Pakistan – Thổ Nhĩ Kỳ (ký tại Mecca tháng 8) quyết định “chuyển ngay sang triển khai thực tế các cam kết phòng thủ tập thể”, đưa lực lượng đã thỏa thuận tới vương quốc; quy mô và vai trò không được công bố. Liên quân do Saudi dẫn đầu nói 100 chiến đấu cơ đang yểm trợ chính phủ Yemen phản công Houthi.",
+            "Bộ trưởng Quốc phòng Pakistan nói lực lượng hai nước chỉ “hỗ trợ”, như trinh sát, còn chiến đấu do Saudi đảm nhiệm. Theo Al Jazeera, quân đội Thổ Nhĩ Kỳ ra nước ngoài cần quốc hội chấp thuận, trong khi quốc hội nước này chưa phê chuẩn hiệp ước; giới phân tích ở Tehran coi việc Pakistan tham chiến chống Houthi là “lằn ranh đỏ”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means"
+            },
+            {
+              "name": "Middle East Eye",
+              "url": "https://www.middleeasteye.net/news/turkey-to-deploy-troops-and-air-defence-systems-saudi-arabia"
+            }
+          ]
+        },
+        {
+          "headline": "Đức bắt cựu giám đốc tình báo BND August Hanning vì nghi phản quốc, gián điệp",
+          "meta": "Viện Công tố Liên bang Đức, BBC · 6/10",
+          "body": [
+            "Ông Hanning, người đứng đầu BND giai đoạn 1998–2005, bị cáo buộc dùng tài liệu mật soạn một bản phân tích cho sĩ quan tình báo nước ngoài và nhiều năm chuyển thông tin chính trị cho đại diện một cơ quan tình báo nước ngoài khác; các nước liên quan chưa được tiết lộ.",
+            "Cựu chánh văn phòng của ông, Manfred D., cũng bị bắt vì bị cho là đã chuyển khoảng 2.000 tài liệu, nhiều tài liệu mật, cho Hanning để nhận tiền. Theo truyền thông Đức, vụ việc lộ ra từ một cuộc điều tra khác liên quan tới vụ bắt cóc con của nữ thừa kế Christina Block."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Generalbundesanwalt",
+              "url": "https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/EN/2026/Pressemitteilung-vom-06-10-2026-engl.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c58jzyer1kr0o"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/06/germany-august-hanning-bnd-arrest-former-domestic-intelligence-chief"
+            }
+          ]
+        },
+        {
+          "headline": "Pháp: hơn 256.000 người xuống đường ủng hộ học sinh đòi ngân sách giáo dục, cảnh sát bắn hơi cay",
+          "meta": "AP (qua PBS), BBC · 6/10",
+          "body": [
+            "Bộ Nội vụ Pháp ước tính 256.000 người tuần hành khắp nước, riêng Paris 56.000; cảnh sát dùng hơi cay ở Paris, Marseille. Lớp học bị đình chỉ toàn bộ hoặc một phần tại 891 trường. Phong trào bắt đầu từ một trường trung học ở vùng Paris giữa tháng 9, phản đối lớp đông, thiếu giáo viên, trường xuống cấp.",
+            "Hơn hai tuần phong tỏa trường đã dẫn tới hơn 6.100 vụ bắt giữ, phần lớn là trẻ vị thành niên; một thiếu niên 15 tuổi mất một bàn tay vì lựu đạn gây choáng hôm 5/10. Thủ tướng Sébastien Lecornu nói chính phủ phải lắng nghe học sinh, đồng thời lên án “bạo lực cực đoan”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "PBS News (AP)",
+              "url": "https://www.pbs.org/newshour/world/french-police-fire-tear-gas-as-more-than-250000-protest-nationwide-for-school-funding"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c8x23706pvz3o"
+            }
+          ]
+        },
+        {
+          "headline": "Hàn Quốc chê lời xin lỗi của Ukraine vụ tù binh Triều Tiên là “chưa đủ”, cân nhắc triệu hồi đại sứ",
+          "meta": "Yonhap, Korea Times · 6/10",
+          "body": [
+            "Ngoại trưởng Cho Hyun cho biết đã nhận tin nhắn có lời xin lỗi từ Ngoại trưởng Ukraine Andrii Sybiha sau khi Tổng thống Zelensky công khai việc chuyển hai tù binh Triều Tiên sang Hàn Quốc, nhưng mức độ “khác với kỳ vọng” nên Seoul sẽ có “biện pháp cứng rắn”, kể cả khả năng triệu hồi Đại sứ Park Hee-chang.",
+            "Seoul khẳng định hai bên đã thỏa thuận giữ kín để bảo vệ hai binh sĩ và gia đình họ còn ở Triều Tiên. Hai người bị bắt ở Kursk tháng 1/2025 khi chiến đấu cho Nga và đến Hàn Quốc giữa tháng 9."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Yonhap",
+              "url": "https://en.yna.co.kr/view/AEN20261006005600315"
+            },
+            {
+              "name": "Korea Times",
+              "url": "https://www.koreatimes.co.kr/foreignaffairs/20261006/ukraines-apology-over-nk-pows-falls-short-of-koreas-expectation-foreign-minister"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Khai mạc Lễ hội 158 năm ngày Anh hùng dân tộc Nguyễn Trung Trực hy sinh",
+          "meta": "Rạch Giá, An Giang · tối 6/10 · lễ hội 6–8/10 (26–28/8 âm lịch)",
+          "body": [
+            "Chương trình nghệ thuật chủ đề “Nguyễn Trung Trực – dấu son bất tử” tái hiện tinh thần bất khuất, trung nghĩa của vị thủ lĩnh kháng Pháp ở Nam Bộ, thu hút hàng nghìn người; NSND Thanh Ngân góp tiết mục về cuộc đời ông. Chiều cùng ngày, nguyên Thủ tướng Nguyễn Tấn Dũng, Đại tướng Lê Hồng Anh và lãnh đạo tỉnh dâng hương.",
+            "Ban tổ chức dự kiến lễ hội đón hàng trăm nghìn lượt người dân và du khách."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/khai-mac-le-hoi-truyen-thong-ky-niem-158-nam-anh-hung-dan-toc-nguyen-trung-truc-hy-sinh-10026100621130309.htm"
+            },
+            {
+              "name": "vietnam.vn",
+              "url": "https://www.vietnam.vn/khai-mac-le-hoi-truyen-thong-ky-niem-158-nam-anh-hung-dan-toc-nguyen-trung-truc-hy-sinh"
+            }
+          ]
+        },
+        {
+          "headline": "Từ hôm nay: triển lãm ảnh “Hà Nội trong tôi” mùa thứ 21 tại Văn Miếu",
+          "meta": "Văn Miếu – Quốc Tử Giám · 7–12/10",
+          "body": [
+            "Gần 80 bức ảnh với chủ đề “Chính quyền địa phương 2 cấp: Tinh gọn, hoạt động hiệu quả và gần dân”, ghi lại Hà Nội sau hơn một năm vận hành mô hình mới, xen với ảnh về nét thanh lịch của người Hà Nội và cảnh di sản. Có khu tư liệu về 21 năm của chuỗi triển lãm, khởi đầu từ Câu lạc bộ Nhiếp ảnh Người cao tuổi Hà Nội.",
+            "Từ năm nay, Cơ quan Báo và Phát thanh, Truyền hình Hà Nội chủ trì tổ chức; sự kiện nằm trong chuỗi hoạt động mừng 72 năm Giải phóng Thủ đô."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Hà Nội Mới (qua vietnam.vn)",
+              "url": "https://www.vietnam.vn/san-sang-cho-trien-lam-anh-ha-noi-trong-toi-nam-2026"
+            }
+          ]
+        },
+        {
+          "headline": "Chiếu miễn phí “Em bé Hà Nội”, “Ngày về”, “Đào, phở và piano” dịp 10/10",
+          "meta": "Rạp Ngọc Khánh (523 Kim Mã) · 9h các ngày 7–9/10",
+          "body": [
+            "Viện Phim Việt Nam giới thiệu ba bộ phim từ ba thời kỳ: “Em bé Hà Nội” (1974, NSND Hải Ninh) về cô bé 12 tuổi lạc gia đình sau trận bom; “Ngày về” (1986, đạo diễn Tự Huy) về người lính trở về thời hậu chiến; và “Đào, phở và piano” (2023, Phi Tiến Sơn) tái hiện những ngày chiến đấu ở Hà Nội cuối 1946 – đầu 1947."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tiin.vn",
+              "url": "https://tiin.vn/chuyen-muc/phim/chieu-mien-phi-3-phim-viet-nhan-ky-niem-ngay-giai-phong-thu-do.html"
+            }
+          ]
+        },
+        {
+          "headline": "“Trại buôn người” thu 310 tỷ sau 11 ngày, hai phim Việt dời lịch tránh mặt",
+          "meta": "Tuổi Trẻ · 6/10",
+          "body": [
+            "Tính đến sáng 6/10, “Trại buôn người” đạt 310 tỷ đồng và vẫn dẫn đầu doanh thu ngày với gần 8 tỷ dù là đầu tuần; phim được kỳ vọng chạm mốc 400 tỷ. “Chị chị em em 3” dời từ 16/10 sang 30/10, “Án mạng karaoke” từ 2/10 sang 30/10 — cùng ngày với “Huyết thống”, khiến cuối tháng 10 có ba phim Việt ra rạp một lúc.",
+            "Trong khi đó “Mẹ Mìn” (Minh Hằng) giữ lịch 23/10, còn “Án mạng xém hoàn hảo” của Anh Tú Atus và DJ Mie ra rạp ngày 9/10."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/trai-buon-nguoi-khien-phim-viet-de-chung-tinh-hinh-phong-ve-cang-nhu-day-dan-100261006120352769.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Thời tiết 7/10: Hà Nội nắng, sáng và đêm lạnh; Huế, Đà Nẵng mưa to đến rất to",
+          "meta": "Trung tâm Dự báo KTTV quốc gia, qua Nhân Dân · sáng 7/10",
+          "body": [
+            "Hà Nội ít mây, ngày nắng, nhiệt độ 20–22°C lúc sáng sớm, cao nhất 29–31°C; vùng núi Tây Bắc có nơi dưới 17°C. TP.HCM có mưa rào và dông vài nơi, chiều tối mưa vừa, cục bộ mưa to, nhiệt độ 24–33°C.",
+            "Thành phố Huế mưa to đến rất to; Đà Nẵng và phía đông Quảng Ngãi mưa to, cục bộ rất to, có thể kèm lốc, sét. Bắc Biển Đông (gồm Hoàng Sa) gió đông bắc cấp 6–7, giật cấp 8–9, sóng cao 2–4 m."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Nhân Dân",
+              "url": "https://nhandan.vn/thoi-tiet-ngay-710-bac-bo-ngay-nang-sang-som-va-dem-troi-lanh-thanh-pho-hue-co-mua-to-den-rat-to-post993373.html"
+            }
+          ]
+        },
+        {
+          "headline": "Giá vàng: SJC giảm 600.000 đồng, quanh 140–143,5 triệu đồng/lượng",
+          "meta": "Báo Thế giới & Việt Nam, vietnam.vn · chốt phiên 6/10 và sáng 7/10",
+          "body": [
+            "Chốt phiên 6/10, vàng miếng SJC tại SJC, PNJ, Bảo Tín Mạnh Hải giảm 600.000 đồng/lượng, còn 139,9–142,9 triệu đồng; sáng 7/10 các bảng giá tổng hợp ghi nhận vàng miếng phổ biến 140,5–143,5 triệu. Vàng miếng SJC cao hơn giá thế giới quy đổi gần 13 triệu đồng/lượng.",
+            "Giá thế giới quanh 4.150–4.160 USD/ounce, vùng thấp nhất khoảng hai tháng, chịu sức ép từ đồng USD mạnh và lợi suất trái phiếu Mỹ ở mức cao."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Báo Thế giới & Việt Nam",
+              "url": "https://baoquocte.vn/gia-vang-hom-nay-7-10-2026-trong-nuoc-giam-lien-tiep-dong-tien-dau-tu-co-the-som-tro-lai-va-ngan-hang-trung-uong-se-khong-dung-mua-vao-452697.html"
+            },
+            {
+              "name": "vietnam.vn",
+              "url": "https://www.vietnam.vn/gia-vang-hom-nay-7-10-2026-vang-mieng-sjc-nhan-tron-9999-btmc-va-vang-the-gioi"
+            }
+          ]
+        },
+        {
+          "headline": "Gần 20 triệu người Việt thừa cân, béo phì; trẻ 5–19 tuổi tăng đáng lo",
+          "meta": "VnExpress · 6/10 · số liệu từ Đại hội Tim mạch toàn quốc lần thứ 20",
+          "body": [
+            "GS.TS Phạm Mạnh Hùng, Chủ tịch Hội Tim mạch học Việt Nam, dẫn điều tra STEPS 2021 của Bộ Y tế và WHO: khoảng 19,5% dân số thừa cân, béo phì, dự báo tăng khoảng 4% mỗi năm giai đoạn 2020–2035. Ở nhóm 5–19 tuổi, gần 21% thừa cân và hơn 11% béo phì, tương đương khoảng 4,8 triệu em.",
+            "Gần hai phần ba người được hỏi ngồi hơn 6 giờ mỗi ngày. Chuyên gia khuyên đổi câu hỏi từ “giảm bao nhiêu kg” sang “sức khỏe cải thiện thế nào”, với thay đổi lối sống là nền tảng điều trị."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/gan-20-trieu-nguoi-viet-thua-can-beo-phi-5128953.html"
+            }
+          ]
+        },
+        {
+          "headline": "Chàng trai đuối nước hiến tạng, trao sự sống cho 6 người ở ba miền",
+          "meta": "Bệnh viện E, Hà Nội · VnExpress, 6/10",
+          "body": [
+            "Sau ba ngày hồi sức với ECMO, lọc máu và hạ thân nhiệt, nam thanh niên được xác định chết não; gia đình thực hiện tâm nguyện hiến tạng của anh. Tim được ghép cho một bệnh nhi suy tim nặng tại Việt Đức, gan về Bệnh viện 108, hai thận bay vào Gia Định và Trung ương Huế, hai giác mạc về Bệnh viện Mắt Trung ương.",
+            "Tỷ lệ tạng hiến từ người chết não ở Việt Nam tăng từ dưới 5% trước năm 2023 lên gần 19% năm 2025."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nam-thanh-nien-duoi-nuoc-hien-tang-cuu-6-nguoi-5129038.html"
+            }
+          ]
+        },
+        {
+          "headline": "TP.HCM: 800–1.000 bệnh nhân ung thư xếp hàng chờ xạ trị, trung bình 4–6 tuần",
+          "meta": "Bệnh viện Ung bướu TP.HCM · VnExpress, 6/10",
+          "body": [
+            "10 máy xạ trị chạy ba ca từ 5h đến 23h, phục vụ khoảng 700 ca mỗi ngày nhưng vẫn quá tải; bệnh viện tiếp nhận 4.800–5.000 lượt khám và điều trị mỗi ngày, phần lớn từ các tỉnh. Một số bệnh nhân phù hợp được áp dụng phác đồ giảm phân liều, xạ trị ngắn ngày để rút ngắn thời gian.",
+            "TP.HCM vừa quyết định đầu tư hơn 5.000 tỷ đồng giai đoạn 2026–2030 cho bệnh viện, gồm trung tâm xạ trị Proton và hệ thống Cyclotron."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hang-nghin-nguoi-xep-hang-tu-rang-sang-cho-xa-tri-o-benh-vien-ung-buou-5129118.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp tự động từ các nguồn công khai sáng 7/10/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ trang Trending tại thời điểm tra cứu. Không lặp lại tin đã đưa các số 1–6/10 trừ khi có cập nhật thực sự (kết quả hội đàm Việt Nam – Panama, chiều thứ hai Hội nghị Trung ương 4, hiệp ước Mecca trong chiến sự Yemen, ngày 2 chuỗi 28 ngày của Codex). Trận Argentina – Benin chưa kết thúc khi đóng số."
+}
