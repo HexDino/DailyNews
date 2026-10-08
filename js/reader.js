@@ -37,6 +37,19 @@
     { id: "github", label: "GitHub / Kho GitHub" },
   ];
 
+  const MOBILE_NARROW_TAG_HIDE = new Set(["ai", "github"]);
+
+  function isMobileLayout() {
+    return window.matchMedia("(max-width: 640px)").matches;
+  }
+
+  function tagsForLayout() {
+    if (isMobileLayout()) {
+      return TAGS.filter((t) => !MOBILE_NARROW_TAG_HIDE.has(t.id));
+    }
+    return TAGS;
+  }
+
   const SECTION_TAG = {
     "Trí tuệ nhân tạo": "ai",
     "Kho GitHub đáng chú ý": "github",
@@ -442,6 +455,14 @@
     let debounceTimer = 0;
     let searchGen = 0;
 
+    const searchOpenBtn = document.getElementById("btn-search-open");
+    const searchDrawerClose = document.getElementById("search-drawer-close");
+
+    function setSearchDrawerOpen(open) {
+      document.body.classList.toggle("search-drawer-open", open);
+      searchOpenBtn?.setAttribute("aria-expanded", open ? "true" : "false");
+    }
+
     function setPanelOpen(open) {
       panel.hidden = !open;
       input.setAttribute("aria-expanded", open ? "true" : "false");
@@ -449,9 +470,15 @@
 
     function closeSearch(clearInput) {
       setPanelOpen(false);
+      setSearchDrawerOpen(false);
       if (clearInput) input.value = "";
       const { date, tag, anchor } = parseParams();
       syncUrl(date, tag, anchor, "");
+    }
+
+    function openSearchDrawer() {
+      setSearchDrawerOpen(true);
+      window.setTimeout(() => input.focus(), 0);
     }
 
     async function showResults(query, pushUrl) {
@@ -462,6 +489,7 @@
         return;
       }
       setPanelOpen(true);
+      if (isMobileLayout()) setSearchDrawerOpen(true);
       statusEl.textContent = "Đang tìm…";
       listEl.innerHTML = "";
       const gen = ++searchGen;
@@ -521,27 +549,125 @@
     });
 
     closeBtn?.addEventListener("click", () => closeSearch(true));
+    searchDrawerClose?.addEventListener("click", () => closeSearch(true));
+    searchOpenBtn?.addEventListener("click", () => {
+      if (document.body.classList.contains("search-drawer-open")) {
+        closeSearch(false);
+      } else {
+        openSearchDrawer();
+        if (input.value.trim()) setPanelOpen(true);
+      }
+    });
 
     document.addEventListener("keydown", (e) => {
-      if (e.key === "Escape" && !panel.hidden) {
-        e.preventDefault();
-        closeSearch(false);
-        input.blur();
+      if (e.key === "Escape") {
+        if (document.body.classList.contains("search-drawer-open") || !panel.hidden) {
+          e.preventDefault();
+          closeSearch(false);
+          input.blur();
+        }
+        if (document.body.classList.contains("more-menu-open")) {
+          setMoreMenuOpen(false);
+        }
       }
     });
 
     document.addEventListener("pointerdown", (e) => {
-      if (panel.hidden) return;
+      if (panel.hidden && !document.body.classList.contains("search-drawer-open")) return;
       const t = e.target;
       if (wrap && t instanceof Node && wrap.contains(t)) return;
-      closeSearch(false);
+      if (searchOpenBtn && t instanceof Node && searchOpenBtn.contains(t)) return;
+      if (!panel.hidden) closeSearch(false);
+      else setSearchDrawerOpen(false);
     });
 
     const { searchQuery } = parseParams();
     if (searchQuery) {
       input.value = searchQuery;
+      if (isMobileLayout()) openSearchDrawer();
       showResults(searchQuery, false);
     }
+  }
+
+  function setMoreMenuOpen(open) {
+    if (!isMobileLayout()) return;
+    const menu = document.getElementById("more-menu");
+    const btn = document.getElementById("btn-more");
+    if (!menu) return;
+    menu.hidden = !open;
+    document.body.classList.toggle("more-menu-open", open);
+    btn?.setAttribute("aria-expanded", open ? "true" : "false");
+  }
+
+  function syncMoreMenuLayout() {
+    const menu = document.getElementById("more-menu");
+    if (!menu) return;
+    if (isMobileLayout()) {
+      if (!document.body.classList.contains("more-menu-open")) menu.hidden = true;
+    } else {
+      menu.hidden = false;
+      document.body.classList.remove("more-menu-open");
+    }
+  }
+
+  function initMobileChrome() {
+    const moreBtn = document.getElementById("btn-more");
+    const menu = document.getElementById("more-menu");
+    if (!moreBtn || !menu) return;
+
+    syncMoreMenuLayout();
+    let resizeTimer = 0;
+    window.addEventListener("resize", () => {
+      window.clearTimeout(resizeTimer);
+      resizeTimer = window.setTimeout(syncMoreMenuLayout, 120);
+    });
+
+    moreBtn.addEventListener("click", () => {
+      setMoreMenuOpen(menu.hidden);
+    });
+    menu.querySelector(".more-menu-backdrop")?.addEventListener("click", () => {
+      setMoreMenuOpen(false);
+    });
+    menu.querySelectorAll(".actions a, .actions button").forEach((el) => {
+      el.addEventListener("click", () => setMoreMenuOpen(false));
+    });
+    menu.querySelector(".more-menu-archive")?.addEventListener("click", () => {
+      setMoreMenuOpen(false);
+    });
+
+    const strip = document.getElementById("tag-strip");
+    if (!strip) return;
+    let lastScrollY = window.scrollY;
+    let scrollTick = false;
+    window.addEventListener(
+      "scroll",
+      () => {
+        if (!isMobileLayout()) {
+          strip.classList.remove("tag-strip--hidden");
+          return;
+        }
+        if (scrollTick) return;
+        scrollTick = true;
+        requestAnimationFrame(() => {
+          const y = window.scrollY;
+          if (y > lastScrollY && y > 72) strip.classList.add("tag-strip--hidden");
+          else strip.classList.remove("tag-strip--hidden");
+          lastScrollY = y;
+          scrollTick = false;
+        });
+      },
+      { passive: true }
+    );
+  }
+
+  function injectIssuePager(root, prev, next) {
+    root.querySelector(".issue-pager")?.remove();
+    if (!prev && !next) return;
+    const nav = document.createElement("nav");
+    nav.className = "issue-pager";
+    nav.setAttribute("aria-label", "Chuyển số báo");
+    nav.innerHTML = `${prev ? `<a class="btn" href="${asset(`index.html?date=${prev}`)}">← Số trước</a>` : ""}${next ? `<a class="btn" href="${asset(`index.html?date=${next}`)}">Số sau →</a>` : ""}`;
+    root.appendChild(nav);
   }
 
   function scrollToAnchor(id) {
@@ -1051,13 +1177,14 @@
   function renderTags(activeTag, onSelect) {
     const strip = document.getElementById("tag-strip");
     if (!strip) return;
-    strip.innerHTML = `<p>Lọc theo mục</p><div class="tag-chips" role="group" aria-label="Lọc mục"></div>`;
+    strip.innerHTML = `<p class="tag-strip-label">Lọc theo mục</p><div class="tag-chips-scroll"><div class="tag-chips" role="group" aria-label="Lọc mục"></div></div>`;
     const chips = strip.querySelector(".tag-chips");
-    TAGS.forEach((t) => {
+    tagsForLayout().forEach((t) => {
       const btn = document.createElement("button");
       btn.type = "button";
       btn.textContent = t.label;
       btn.className = t.id === activeTag ? "active" : "";
+      btn.dataset.tagId = t.id;
       btn.setAttribute("aria-pressed", t.id === activeTag ? "true" : "false");
       btn.addEventListener("click", () => onSelect(t.id));
       chips.appendChild(btn);
@@ -1234,6 +1361,7 @@
     if (!root) return;
 
     initThemeToggle();
+    initMobileChrome();
     let { date, tag, anchor: pendingAnchor, searchQuery } = parseParams();
 
     try {
@@ -1245,6 +1373,17 @@
 
       document.title = `${MASTHEAD} — ${data.date_vn || vnDate(data.date)}`;
 
+      const prev = index.issues
+        .map((i) => i.date)
+        .sort()
+        .filter((d) => d < date)
+        .pop();
+      const next = index.issues
+        .map((i) => i.date)
+        .sort()
+        .filter((d) => d > date)
+        .shift();
+
       const render = (newTag, options = {}) => {
         tag = newTag;
         const urlAnchor = options.anchor ?? options.scrollTo ?? "";
@@ -1253,6 +1392,7 @@
         root.innerHTML = renderIssue(data, tag, date);
         bindCalendarChrome(root);
         renderTags(tag, render);
+        injectIssuePager(root, prev, next);
         const onProgress = () => refreshReadProgressUi(date, data);
         bindReadControls(root, date, data, () => render(tag, { keepSearch: true }), onProgress);
         setupAutoRead(root, date, data, onProgress);
@@ -1295,16 +1435,6 @@
         updateFavButton(date);
       });
 
-      const prev = index.issues
-        .map((i) => i.date)
-        .sort()
-        .filter((d) => d < date)
-        .pop();
-      const next = index.issues
-        .map((i) => i.date)
-        .sort()
-        .filter((d) => d > date)
-        .shift();
       const prevA = document.getElementById("nav-prev");
       const nextA = document.getElementById("nav-next");
       if (prevA) {
@@ -1335,6 +1465,7 @@
     if (!listEl) return;
 
     initThemeToggle();
+    initMobileChrome();
     const index = await loadIndex();
     initSearch(index);
     const dates = index.issues.map((i) => i.date).sort().reverse();
