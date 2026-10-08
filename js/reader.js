@@ -804,7 +804,8 @@
       }
       return escapeHtml(d.label);
     });
-    return `<div class="sources"><strong>Nguồn:</strong> ${parts.join("; ")}</div>`;
+    const sep = '<span class="sources-sep" aria-hidden="true"> · </span>';
+    return `<p class="sources-line"><span class="sources-label">Nguồn:</span> ${parts.join(sep)}</p>`;
   }
 
   function formatShortDate(iso) {
@@ -921,7 +922,7 @@
           : "";
         return `${head}<article class="calendar-item">
           ${time ? `<div>${time}</div>` : ""}
-          <strong>${escapeHtml(ev.title || "")}</strong>
+          <strong class="calendar-item-title">${escapeHtml(ev.title || "")}</strong>
           ${topic ? `<div>${topic}</div>` : ""}
           ${ev.note ? `<p class="calendar-note">${escapeHtml(ev.note)}</p>` : ""}
           ${sourcesHtml(ev.sources)}

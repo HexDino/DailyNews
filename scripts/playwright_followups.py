@@ -206,12 +206,10 @@ def capture_calendar_panel_screenshots(browser, base_url: str) -> None:
             timeout=5000,
         )
         shot_page.wait_for_timeout(250)
-        target = shot_page.locator(".calendar-strip-wrap")
-        if width <= 640:
-            target = shot_page.locator("#calendar-panel-full")
-        target.scroll_into_view_if_needed()
+        panel = shot_page.locator("#calendar-panel-full")
+        panel.scroll_into_view_if_needed()
         path = ARTIFACT_DIR / f"calendar-panel-{width}-{theme}.png"
-        target.screenshot(path=str(path))
+        panel.screenshot(path=str(path))
         ctx.close()
 
 

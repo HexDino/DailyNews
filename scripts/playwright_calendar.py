@@ -117,6 +117,35 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
     page.wait_for_function(wait_open, timeout=5000)
     assert_state(True, "strip open")
 
+    src_check = page.evaluate(
+        """() => {
+      const items = [...document.querySelectorAll('#calendar-panel-full .calendar-item')];
+      const bad = [];
+      items.forEach((it, i) => {
+        const line = it.querySelector('.sources-line');
+        if (!line) {
+          bad.push(`item${i}: no sources line`);
+          return;
+        }
+        const label = line.querySelector('.sources-label');
+        if (!label || label.textContent.trim() !== 'Nguồn:') {
+          bad.push(`item${i}: bad label`);
+        }
+        const links = line.querySelectorAll('.source-link');
+        if (!links.length) bad.push(`item${i}: no source links`);
+        const labelStyle = label ? getComputedStyle(label) : null;
+        if (labelStyle && parseFloat(labelStyle.fontSize) > 15) {
+          bad.push(`item${i}: label font ${labelStyle.fontSize}`);
+        }
+        if (label && getComputedStyle(label).display === 'block') {
+          bad.push(`item${i}: label block`);
+        }
+      });
+      return bad;
+    }"""
+    )
+    errors.extend(f"{label} {width}px {theme}: {b}" for b in src_check)
+
     link = page.locator("#calendar-panel-full .source-link").first
     if link.count():
         href = link.get_attribute("href") or ""
