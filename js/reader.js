@@ -970,7 +970,60 @@
   }
 
   function getCalendarPanel() {
-    return document.getElementById("calendar-panel-full");
+    const hosted = document.querySelector("#lich-su-kien #calendar-panel-full");
+    if (hosted) return hosted;
+    return document.querySelector("body > #calendar-panel-full");
+  }
+
+  function cleanupCalendarDomBeforeRender() {
+    document.querySelectorAll("body > #calendar-panel-full").forEach((el) => {
+      el.remove();
+    });
+    document.body.classList.remove("calendar-sheet-open");
+    const backdrop = document.querySelector(".calendar-backdrop");
+    if (backdrop) backdrop.hidden = true;
+  }
+
+  function ensureCalendarInteractionHandlers() {
+    const doc = document.documentElement;
+    if (!doc.dataset.calendarClickBound) {
+      doc.dataset.calendarClickBound = "1";
+      document.addEventListener("click", (e) => {
+        const paper = document.getElementById("paper-root");
+        if (!paper) return;
+        const wrap = paper.querySelector("#lich-su-kien");
+        if (!wrap) return;
+
+        const panel = getCalendarPanel();
+        const closeBtn = e.target.closest(".calendar-panel-close");
+        if (closeBtn && panel?.contains(closeBtn)) {
+          e.preventDefault();
+          setCalendarOpen(false, paper);
+          return;
+        }
+
+        const toggle = e.target.closest(".calendar-strip-toggle");
+        if (toggle && wrap.contains(toggle)) {
+          e.preventDefault();
+          setCalendarOpen(!!panel?.hidden, paper);
+        }
+      });
+    }
+
+    if (!doc.dataset.calendarBackdropBound) {
+      let backdrop = document.querySelector(".calendar-backdrop");
+      if (!backdrop) {
+        backdrop = document.createElement("div");
+        backdrop.className = "calendar-backdrop";
+        backdrop.hidden = true;
+        document.body.appendChild(backdrop);
+      }
+      doc.dataset.calendarBackdropBound = "1";
+      backdrop.addEventListener("click", () => {
+        const paper = document.getElementById("paper-root");
+        if (paper) setCalendarOpen(false, paper);
+      });
+    }
   }
 
   function calendarPanelHost(root) {
@@ -1023,6 +1076,7 @@
   }
 
   function bindCalendarChrome(root) {
+    ensureCalendarInteractionHandlers();
     const wrap = root.querySelector("#lich-su-kien");
     const headerBtn = document.getElementById("btn-calendar");
     if (!wrap) {
@@ -1033,15 +1087,6 @@
     }
     headerBtn?.removeAttribute("hidden");
 
-    let backdrop = document.querySelector(".calendar-backdrop");
-    if (!backdrop) {
-      backdrop = document.createElement("div");
-      backdrop.className = "calendar-backdrop";
-      backdrop.hidden = true;
-      backdrop.addEventListener("click", () => setCalendarOpen(false, root));
-      document.body.appendChild(backdrop);
-    }
-
     let initiallyOpen = false;
     try {
       initiallyOpen = localStorage.getItem(CALENDAR_OPEN_KEY) === "1";
@@ -1050,15 +1095,6 @@
     }
     setCalendarOpen(initiallyOpen, root);
 
-    const toggleOpen = () => {
-      const panel = getCalendarPanel();
-      setCalendarOpen(!!panel?.hidden, root);
-    };
-
-    root.querySelector(".calendar-strip-toggle")?.addEventListener("click", toggleOpen);
-    root.querySelector(".calendar-panel-close")?.addEventListener("click", () =>
-      setCalendarOpen(false, root)
-    );
     if (headerBtn && !headerBtn.dataset.calendarBound) {
       headerBtn.dataset.calendarBound = "1";
       headerBtn.addEventListener("click", () => {
@@ -1468,6 +1504,7 @@
     const status = document.getElementById("status");
     if (!root) return;
 
+    ensureCalendarInteractionHandlers();
     initThemeToggle();
     initMobileChrome();
     let { date, tag, anchor: pendingAnchor, searchQuery } = parseParams();
@@ -1497,6 +1534,7 @@
         const urlAnchor = options.anchor ?? options.scrollTo ?? "";
         const q = options.keepSearch ? searchQuery : parseParams().searchQuery;
         syncUrl(date, tag, urlAnchor, q);
+        cleanupCalendarDomBeforeRender();
         root.innerHTML = renderIssue(data, tag, date);
         bindCalendarChrome(root);
         renderTags(tag, render);

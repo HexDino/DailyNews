@@ -170,6 +170,51 @@ def exercise_followup_expand(page: Page, width: int, theme: str, label: str) -> 
     return errors
 
 
+def capture_calendar_panel_screenshots(browser, base_url: str) -> None:
+    """Expanded calendar: 1280 light/dark, 390 mobile modal."""
+    ARTIFACT_DIR.mkdir(parents=True, exist_ok=True)
+    from playwright_calendar import mouse_click_locator
+
+    for width, theme in (
+        (1280, "light"),
+        (1280, "dark"),
+        (390, "light"),
+    ):
+        height = 900 if width >= 768 else 844
+        ctx = browser.new_context(
+            viewport={"width": width, "height": height},
+            color_scheme=theme,
+        )
+        ctx.add_init_script(
+            f'localStorage.setItem("dailynews-theme", "{theme}");'
+            f'localStorage.setItem("dailynews-calendar-open", "0");'
+        )
+        shot_page = ctx.new_page()
+        shot_page.goto(
+            f"{base_url}index.html?date={FOLLOWUPS_ISSUE}",
+            wait_until="domcontentloaded",
+            timeout=60000,
+        )
+        shot_page.wait_for_selector(".calendar-strip-toggle", timeout=30000)
+        mouse_click_locator(shot_page, ".calendar-strip-toggle")
+        shot_page.wait_for_function(
+            """() => {
+          const p = document.querySelector('#lich-su-kien #calendar-panel-full')
+            || document.querySelector('body > #calendar-panel-full');
+          return p && !p.hidden;
+        }""",
+            timeout=5000,
+        )
+        shot_page.wait_for_timeout(250)
+        target = shot_page.locator(".calendar-strip-wrap")
+        if width <= 640:
+            target = shot_page.locator("#calendar-panel-full")
+        target.scroll_into_view_if_needed()
+        path = ARTIFACT_DIR / f"calendar-panel-{width}-{theme}.png"
+        target.screenshot(path=str(path))
+        ctx.close()
+
+
 def capture_calendar_teaser_screenshots(browser, base_url: str) -> None:
     """Save Sắp diễn ra bar at 1280, 1024, 390 (light + dark)."""
     ARTIFACT_DIR.mkdir(parents=True, exist_ok=True)

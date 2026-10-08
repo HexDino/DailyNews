@@ -15,12 +15,18 @@ SCRIPTS = Path(__file__).resolve().parent
 import sys
 
 sys.path.insert(0, str(SCRIPTS))
-from playwright_calendar import CALENDAR_ISSUE, CALENDAR_VIEWPORTS, exercise_calendar
+from playwright_calendar import (
+    CALENDAR_ISSUE,
+    CALENDAR_ISSUES_ARCHIVE,
+    CALENDAR_VIEWPORTS,
+    exercise_calendar,
+)
 from playwright_followups import (
     FOLLOWUPS_ISSUE,
     FOLLOWUPS_VIEWPORTS,
     assert_calendar_ui_chips,
     assert_followup_pills,
+    capture_calendar_panel_screenshots,
     capture_calendar_teaser_screenshots,
     capture_followups_screenshots,
     exercise_followup_expand,
@@ -174,7 +180,31 @@ def main() -> int:
                     errors.extend(exercise_followup_expand(page, w, theme, "smoke"))
                     ctx.close()
 
+            for archive_id in CALENDAR_ISSUES_ARCHIVE:
+                for w in (1024, 390):
+                    for theme in ("light",):
+                        ctx = browser.new_context(
+                            viewport={"width": w, "height": 900 if w >= 768 else 844},
+                            color_scheme=theme,
+                        )
+                        ctx.add_init_script(
+                            f'localStorage.setItem("dailynews-theme", "{theme}");'
+                            f'localStorage.setItem("dailynews-calendar-open", "0");'
+                        )
+                        page = ctx.new_page()
+                        page.goto(
+                            f"{BASE_URL}index.html?date={archive_id}",
+                            wait_until="domcontentloaded",
+                            timeout=60000,
+                        )
+                        if page.locator(".calendar-strip-toggle").count():
+                            errors.extend(
+                                exercise_calendar(page, w, theme, f"archive-{archive_id}")
+                            )
+                        ctx.close()
+
             capture_calendar_teaser_screenshots(browser, BASE_URL)
+            capture_calendar_panel_screenshots(browser, BASE_URL)
             capture_followups_screenshots(browser, BASE_URL)
 
             browser.close()
