@@ -17,6 +17,7 @@ from playwright_calendar import CALENDAR_ISSUE, CALENDAR_VIEWPORTS, exercise_cal
 from playwright_followups import (
     FOLLOWUPS_ISSUE,
     FOLLOWUPS_VIEWPORTS,
+    assert_calendar_ui_chips,
     assert_followup_pills,
     exercise_followup_expand,
 )
@@ -162,6 +163,9 @@ def audit():
                     try:
                         page.goto(fu_url, wait_until="domcontentloaded", timeout=60000)
                         page.wait_for_selector("#theo-doi-tin-cu", timeout=30000)
+                        errors.extend(
+                            assert_calendar_ui_chips(page, w, theme, FOLLOWUPS_ISSUE)
+                        )
                         errors.extend(
                             assert_followup_pills(page, w, theme, FOLLOWUPS_ISSUE)
                         )

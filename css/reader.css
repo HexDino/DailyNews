@@ -18,6 +18,15 @@
   --followup-done-bg: #eceae6;
   --followup-done-border: #b8b2a8;
   --followup-done-fg: #5c574f;
+  --ui-chip-height: 22px;
+  --ui-chip-font-size: 12px;
+  --ui-chip-letter-spacing: 0.06em;
+  --ui-chip-radius: 3px;
+  --ui-chip-gap: 8px;
+  --ui-chip-border: 1px solid var(--rule);
+  --ui-accent-chip-bg: #3a3a3a;
+  --ui-accent-chip-fg: #f4f0e6;
+  --ui-accent-chip-border: #3a3a3a;
   --max-width: 72rem;
   --serif: "Source Serif 4", "Noto Serif", "Times New Roman", serif;
   --sans: "Source Sans 3", system-ui, sans-serif;
@@ -45,6 +54,9 @@ html[data-theme="dark"] {
   --followup-done-bg: #2c2a28;
   --followup-done-border: #4a4742;
   --followup-done-fg: #9a9288;
+  --ui-accent-chip-bg: #c9c2b6;
+  --ui-accent-chip-fg: #1c1a17;
+  --ui-accent-chip-border: #c9c2b6;
 }
 
 *,
@@ -1237,6 +1249,56 @@ html[data-theme="dark"] button.fav-on {
   line-height: 1;
 }
 
+.ui-chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  height: var(--ui-chip-height);
+  padding: 0 8px;
+  font-family: var(--sans);
+  font-size: var(--ui-chip-font-size);
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: var(--ui-chip-letter-spacing);
+  text-transform: uppercase;
+  border: var(--ui-chip-border);
+  border-radius: var(--ui-chip-radius);
+  background: var(--paper);
+  color: inherit;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.ui-chip--accent {
+  background: var(--ui-accent-chip-bg);
+  border-color: var(--ui-accent-chip-border);
+  color: var(--ui-accent-chip-fg);
+}
+
+.ui-chip--action {
+  text-transform: none;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+}
+
+.ui-chip--plain {
+  text-transform: none;
+  letter-spacing: 0.02em;
+}
+
+.ui-chip--status-ongoing {
+  background: var(--followup-ongoing-bg);
+  border-color: var(--followup-ongoing-border);
+  color: var(--followup-ongoing-fg);
+}
+
+.ui-chip--status-done {
+  background: var(--followup-done-bg);
+  border-color: var(--followup-done-border);
+  color: var(--followup-done-fg);
+}
+
 .calendar-strip-wrap {
   margin: 0 0 1rem;
   font-family: var(--sans);
@@ -1249,19 +1311,18 @@ html[data-theme="dark"] button.fav-on {
   flex-direction: row;
   flex-wrap: nowrap;
   align-items: center;
-  gap: 0.45rem 0.55rem;
-  min-height: 2.75rem;
-  max-height: 3rem;
-  padding: 0.35rem 0.65rem 0.35rem 0;
+  gap: var(--ui-chip-gap);
+  min-height: calc(var(--ui-chip-height) + 14px);
+  padding: 7px 10px 7px 0;
   text-align: left;
   background: var(--calendar-teaser-bg);
   border: 1px solid var(--rule);
   color: inherit;
   cursor: pointer;
-  border-radius: 2px;
-  font-family: inherit;
-  font-size: 0.82rem;
-  line-height: 1.2;
+  border-radius: var(--ui-chip-radius);
+  font-family: var(--sans);
+  font-size: var(--ui-chip-font-size);
+  line-height: 1;
   transition: background 0.12s ease;
 }
 
@@ -1290,25 +1351,17 @@ html[data-theme="dark"] button.fav-on {
 .calendar-teaser-icon {
   flex-shrink: 0;
   display: block;
+  width: 18px;
+  height: 18px;
 }
 
 .calendar-teaser-label {
-  font-weight: 700;
-  font-variant: small-caps;
-  letter-spacing: 0.1em;
-  font-size: 0.82rem;
   flex-shrink: 0;
-}
-
-.calendar-teaser-badge {
-  flex-shrink: 0;
-  font-size: 0.68rem;
-  letter-spacing: 0.03em;
-  padding: 0.12rem 0.45rem;
-  border: 1px solid var(--rule);
-  border-radius: 999px;
-  background: var(--paper);
-  white-space: nowrap;
+  font-family: var(--sans);
+  font-size: var(--ui-chip-font-size);
+  font-weight: 600;
+  letter-spacing: var(--ui-chip-letter-spacing);
+  text-transform: uppercase;
 }
 
 .calendar-teaser-event {
@@ -1316,76 +1369,34 @@ html[data-theme="dark"] button.fav-on {
   min-width: 0;
   display: flex;
   align-items: center;
-  gap: 0.35rem;
+  gap: var(--ui-chip-gap);
   overflow: hidden;
-}
-
-.calendar-date-chip {
-  flex-shrink: 0;
-  font-size: 0.72rem;
-  font-weight: 700;
-  font-family: var(--sans);
-  padding: 0.12rem 0.35rem;
-  border: 1px solid var(--rule);
-  background: var(--paper);
-  line-height: 1.1;
-}
-
-.calendar-teaser-today,
-.calendar-today-tag {
-  flex-shrink: 0;
-  font-size: 0.62rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-  padding: 0.1rem 0.35rem;
-  border: 1px solid var(--rule);
-  background: var(--chip-bg);
-  color: var(--accent);
 }
 
 .calendar-teaser-title {
   min-width: 0;
+  flex: 1 1 auto;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
   font-family: var(--serif);
-  font-size: 0.92rem;
-}
-
-.calendar-teaser-action {
-  flex-shrink: 0;
-  font-size: 0.72rem;
-  font-weight: 600;
-  letter-spacing: 0.02em;
-  padding: 0.28rem 0.55rem;
-  border: 1px solid var(--rule);
-  border-radius: 2px;
-  background: var(--paper);
-  white-space: nowrap;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: var(--ui-chip-height);
 }
 
 .calendar-teaser-caret {
-  font-size: 0.85em;
+  font-size: 11px;
+  margin-left: 2px;
 }
 
 @media (max-width: 640px) {
   .calendar-teaser-bar {
-    gap: 0.35rem;
-    padding-right: 0.45rem;
+    padding-right: 8px;
   }
 
   .calendar-teaser-badge {
     display: none;
-  }
-
-  .calendar-teaser-title {
-    font-size: 0.85rem;
-  }
-
-  .calendar-teaser-action {
-    padding: 0.25rem 0.4rem;
-    font-size: 0.68rem;
   }
 }
 
@@ -1508,7 +1519,7 @@ body.calendar-sheet-open {
   grid-template-areas:
     "status title origin"
     "preview preview preview";
-  column-gap: 0.5rem;
+  column-gap: var(--ui-chip-gap);
   row-gap: 0.35rem;
   align-items: center;
   cursor: pointer;
@@ -1523,32 +1534,7 @@ body.calendar-sheet-open {
 
 .followup-status {
   grid-area: status;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
   align-self: center;
-  padding: 0.12em 0.55em;
-  border-radius: 999px;
-  border: 1px solid var(--rule);
-  font-family: var(--sans);
-  font-size: 0.62rem;
-  font-weight: 600;
-  line-height: 1;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  white-space: nowrap;
-}
-
-.followup-status--ongoing {
-  background: var(--followup-ongoing-bg);
-  border-color: var(--followup-ongoing-border);
-  color: var(--followup-ongoing-fg);
-}
-
-.followup-status--done {
-  background: var(--followup-done-bg);
-  border-color: var(--followup-done-border);
-  color: var(--followup-done-fg);
 }
 
 .followup-title {

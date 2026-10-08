@@ -865,7 +865,9 @@
         const status =
           fu.status === "đã kết thúc" ? "đã kết thúc" : "đang diễn biến";
         const statusClass =
-          status === "đã kết thúc" ? "followup-status--done" : "followup-status--ongoing";
+          status === "đã kết thúc"
+            ? "ui-chip--status-done"
+            : "ui-chip--status-ongoing";
         const origin = followupOriginMeta(fu.first_issue);
         const first = fu.first_issue
           ? `<a class="source-link" href="${asset("index.html")}?date=${encodeURIComponent(fu.first_issue)}">Số ${escapeHtml(fu.first_issue)}</a>`
@@ -873,7 +875,7 @@
         return `<li class="followup-row-wrap">
           <details class="followup-row" id="followup-${idx}">
             <summary class="followup-summary">
-              <span class="followup-status ${statusClass}">${escapeHtml(status)}</span>
+              <span class="ui-chip followup-status ${statusClass}">${escapeHtml(status)}</span>
               <span class="followup-title">${escapeHtml(fu.title || "")}</span>
               ${origin ? origin : ""}
               <p class="followup-preview">${escapeHtml(fu.update || "")}</p>
@@ -906,7 +908,7 @@
         if (ev.date !== lastDate) {
           lastDate = ev.date;
           const today = isEventOnIssueDay(ev.date, issueId)
-            ? ` <span class="calendar-today-tag">Hôm nay</span>`
+            ? ` <span class="ui-chip ui-chip--accent calendar-today-tag">Hôm nay</span>`
             : "";
           head = `<h3 class="calendar-date" id="calendar-${escapeHtml(ev.date)}">${escapeHtml(ev.date)}${today}</h3>`;
         }
@@ -934,21 +936,21 @@
     const count = events.length;
     const countLabel = count === 1 ? "1 sự kiện" : `${count} sự kiện`;
     const todayTag = isEventOnIssueDay(next.date, issueId)
-      ? `<span class="calendar-teaser-today">Hôm nay</span>`
+      ? `<span class="ui-chip ui-chip--accent calendar-teaser-today">Hôm nay</span>`
       : "";
-    const calIcon = `<svg class="calendar-teaser-icon" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="5.5" width="16" height="14" rx="1.25" fill="none" stroke="currentColor" stroke-width="1.75"/><path d="M4 9.5h16M8 3.5v4M16 3.5v4" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>`;
+    const calIcon = `<svg class="calendar-teaser-icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="5.5" width="16" height="14" rx="1.25" fill="none" stroke="currentColor" stroke-width="1.75"/><path d="M4 9.5h16M8 3.5v4M16 3.5v4" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>`;
     return `<div class="calendar-strip-wrap calendar-teaser" id="lich-su-kien">
       <button type="button" class="calendar-strip-toggle calendar-teaser-bar" aria-expanded="false" aria-controls="calendar-panel-full">
         <span class="calendar-teaser-accent" aria-hidden="true"></span>
         ${calIcon}
         <span class="calendar-teaser-label">Sắp diễn ra</span>
-        <span class="calendar-teaser-badge">${escapeHtml(countLabel)}</span>
+        <span class="ui-chip ui-chip--plain calendar-teaser-badge">${escapeHtml(countLabel)}</span>
         <span class="calendar-teaser-event">
-          <span class="calendar-date-chip">${escapeHtml(formatShortDate(next.date))}</span>
+          <span class="ui-chip ui-chip--plain calendar-date-chip">${escapeHtml(formatShortDate(next.date))}</span>
           ${todayTag}
           <span class="calendar-teaser-title">${escapeHtml(truncateText(next.title, 64))}</span>
         </span>
-        <span class="calendar-teaser-action">Xem lịch <span class="calendar-teaser-caret" aria-hidden="true">▾</span></span>
+        <span class="ui-chip ui-chip--action calendar-teaser-action">Xem lịch <span class="calendar-teaser-caret" aria-hidden="true">▾</span></span>
       </button>
       <div class="calendar-panel" id="calendar-panel-full" hidden>
         <div class="calendar-panel-head">

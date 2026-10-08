@@ -19,7 +19,9 @@ from playwright_calendar import CALENDAR_ISSUE, CALENDAR_VIEWPORTS, exercise_cal
 from playwright_followups import (
     FOLLOWUPS_ISSUE,
     FOLLOWUPS_VIEWPORTS,
+    assert_calendar_ui_chips,
     assert_followup_pills,
+    capture_calendar_teaser_screenshots,
     capture_followups_screenshots,
     exercise_followup_expand,
 )
@@ -167,10 +169,12 @@ def main() -> int:
                         timeout=60000,
                     )
                     page.wait_for_selector("#theo-doi-tin-cu", timeout=30000)
+                    errors.extend(assert_calendar_ui_chips(page, w, theme, "smoke"))
                     errors.extend(assert_followup_pills(page, w, theme, "smoke"))
                     errors.extend(exercise_followup_expand(page, w, theme, "smoke"))
                     ctx.close()
 
+            capture_calendar_teaser_screenshots(browser, BASE_URL)
             capture_followups_screenshots(browser, BASE_URL)
 
             browser.close()
