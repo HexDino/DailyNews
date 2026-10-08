@@ -46,6 +46,8 @@ def main() -> int:
         "date_vn": data.get("date_vn") or vn_date(d),
         "date_short": f"{d.day}/{d.month}/{d.year}",
         "highlights": data["highlights"],
+        "followups": data.get("followups") or [],
+        "calendar": data.get("calendar") or [],
         "sections": data["sections"],
         "footer_note": data.get("footer_note", ""),
         "cover": data.get("cover", True),

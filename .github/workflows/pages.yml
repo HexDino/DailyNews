@@ -46,6 +46,19 @@ jobs:
 
       - uses: actions/configure-pages@v5
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild issue and search indexes
+        run: python3 scripts/regenerate_index.py
+
+      - name: Install Playwright and run smoke test
+        run: |
+          pip install playwright
+          python3 -m playwright install chromium
+          python3 scripts/smoke_test.py
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .

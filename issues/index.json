@@ -4,47 +4,57 @@
   "issues": [
     {
       "date": "2026-10-01",
-      "path": "2026-10-01/content.json"
+      "path": "2026-10-01/content.json",
+      "article_count": 28
     },
     {
       "date": "2026-10-02",
-      "path": "2026-10-02/content.json"
+      "path": "2026-10-02/content.json",
+      "article_count": 20
     },
     {
       "date": "2026-10-03",
-      "path": "2026-10-03/content.json"
+      "path": "2026-10-03/content.json",
+      "article_count": 19
     },
     {
       "date": "2026-10-04",
-      "path": "2026-10-04/content.json"
+      "path": "2026-10-04/content.json",
+      "article_count": 17
     },
     {
       "date": "2026-10-05",
-      "path": "2026-10-05/content.json"
+      "path": "2026-10-05/content.json",
+      "article_count": 23
     },
     {
       "date": "2026-10-06",
-      "path": "2026-10-06/content.json"
+      "path": "2026-10-06/content.json",
+      "article_count": 30
     },
     {
       "date": "2026-10-06-chieu",
       "path": "2026-10-06-chieu/content.json",
+      "article_count": 22,
       "edition": "chieu",
       "edition_label": "Số buổi chiều"
     },
     {
       "date": "2026-10-07",
-      "path": "2026-10-07/content.json"
+      "path": "2026-10-07/content.json",
+      "article_count": 32
     },
     {
       "date": "2026-10-07-chieu",
       "path": "2026-10-07-chieu/content.json",
+      "article_count": 19,
       "edition": "chieu",
       "edition_label": "Số buổi chiều"
     },
     {
       "date": "2026-10-08",
-      "path": "2026-10-08/content.json"
+      "path": "2026-10-08/content.json",
+      "article_count": 33
     }
   ]
 }

@@ -18,6 +18,60 @@
     "Ukraine: 25 người chết sau đợt 70 tên lửa; Rubio nói Iran mất kiểm soát Hormuz",
     "Xây dựng: openBIM Awards công bố hôm nay ở Tokyo; Autodesk đổi lãnh đạo mảng AEC"
   ],
+  "followups": [
+    {
+      "title": "Đợt tập kích tên lửa Nga vào Ukraine (7/10)",
+      "update": "Số người chết được cập nhật lên 25 (số chiều 7/10 ghi 19): riêng Pryluky 19 người, trong đó có trẻ em; Kyiv và các thành phố khác cũng có nạn nhân. Zelensky nói Nga phóng 70 tên lửa; không quân Ukraine báo cáo nhiều tên lửa và drone bị bắn hạ nhưng vẫn còn hơn hai chục quả lọt lưới.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/ckr5ym098vdeo"
+        }
+      ]
+    },
+    {
+      "title": "openBIM Awards 2026 — chung kết Tokyo",
+      "update": "22 đội đã thuyết trình trước hội đồng ngày 7/10; lễ công bố kết quả bảy hạng mục dự kiến trong ngày 8/10. Daily News sẽ đưa danh sách đoạt giải ở số sau.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08",
+      "sources": [
+        {
+          "name": "buildingSMART International",
+          "url": "https://www.buildingsmart.org/buildingsmart-international-announces-finalists-for-the-2026-openbim-awards/"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-08",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Công bố giải openBIM Awards 2026 (buildingSMART Summit Tokyo)",
+      "topic": "Xây dựng",
+      "note": "Sau vòng thuyết trình chung kết 7/10 tại Tokyo.",
+      "sources": [
+        {
+          "name": "buildingSMART International",
+          "url": "https://www.buildingsmart.org/buildingsmart-international-announces-finalists-for-the-2026-openbim-awards/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Hội nghị Trung ương 4 khoá XIV — phiên bế mạc",
+      "topic": "Chính trị",
+      "note": "Theo lịch các số trước, ngày làm việc và bế mạc dự kiến 8/10.",
+      "sources": [
+        {
+          "name": "Báo Chính phủ (thông cáo ngày 7/10)",
+          "url": "https://baochinhphu.vn/thong-cao-bao-chi-ve-ngay-lam-viec-thu-ba-hoi-nghi-lan-thu-tu-ban-chap-hanh-trung-uong-dang-khoa-xiv-102261007155840904.htm"
+        }
+      ]
+    }
+  ],
   "sections": [
     {
       "topic": "Công nghệ",

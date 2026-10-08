@@ -5,10 +5,9 @@
   const FAV_KEY = "dailynews-favorites";
   const READ_KEY = "dailynews-read";
   const THEME_KEY = "dailynews-theme";
-  /** @type {Map<string, object>|null} */
-  let issueContentCache = null;
-  /** @type {object[]|null} */
-  let searchCorpus = null;
+  /** @type {{ version: string, entries: object[] } | null} */
+  let searchIndexCache = null;
+  const SEARCH_INDEX_KEY = "dailynews-search-index-version";
   /** @type {Set<string>} */
   const sessionManualUnread = new Set();
   /** @type {IntersectionObserver|null} */
@@ -357,9 +356,8 @@
     return parts.filter(Boolean).join(" ");
   }
 
-  function snippetForItem(item, terms) {
-    const source =
-      (item.body && item.body[0]) || item.headline || item.meta || "";
+  function snippetForRow(row, terms) {
+    const source = row.snippetSource || row.headline || "";
     const max = 160;
     let slice = source.slice(0, max);
     if (source.length > max) slice += "…";
@@ -392,40 +390,21 @@
       .join("");
   }
 
-  async function ensureAllIssuesCached(index) {
-    if (issueContentCache && searchCorpus) {
-      return { cache: issueContentCache, corpus: searchCorpus, index };
-    }
-    issueContentCache = new Map();
-    searchCorpus = [];
-    const sortedIssues = [...index.issues].map((i) => i.date).sort();
-    const recencyRank = new Map(
-      sortedIssues.map((id, idx) => [id, idx + 1])
-    );
-    await Promise.all(
-      index.issues.map(async (entry) => {
-        const data = await loadIssue(entry.date);
-        issueContentCache.set(entry.date, data);
-        (data.sections || []).forEach((sec) => {
-          (sec.items || []).forEach((item, idx) => {
-            const articleId = articleDomId(entry.date, sec, idx);
-            const text = itemSearchText(item, sec);
-            searchCorpus.push({
-              issueId: entry.date,
-              articleId,
-              section: sectionLabel(sec),
-              headline: item.headline,
-              text,
-              normHeadline: normSearch(item.headline),
-              normText: normSearch(text),
-              recencyRank: recencyRank.get(entry.date) || 0,
-              item,
-            });
-          });
-        });
-      })
-    );
-    return { cache: issueContentCache, corpus: searchCorpus, index };
+  async function loadSearchIndex() {
+    const res = await fetch(asset("issues/search-index.json"));
+    if (!res.ok) throw new Error("Không tải được chỉ mục tìm kiếm");
+    const data = await res.json();
+    const prev = localStorage.getItem(SEARCH_INDEX_KEY);
+    if (prev && prev !== data.version) searchIndexCache = null;
+    localStorage.setItem(SEARCH_INDEX_KEY, data.version);
+    searchIndexCache = data;
+    return data;
+  }
+
+  async function ensureSearchCorpus() {
+    if (searchIndexCache) return searchIndexCache.entries;
+    const data = await loadSearchIndex();
+    return data.entries;
   }
 
   function runSearch(query, corpus) {
@@ -443,7 +422,7 @@
   }
 
   function issueHref(issueId, articleId) {
-    return `${asset(`index.html?date=${encodeURIComponent(issueId)}`)}#${encodeURIComponent(articleId)}`;
+    return `${asset("index.html")}?date=${encodeURIComponent(issueId)}#${encodeURIComponent(articleId)}`;
   }
 
   function initSearch(indexRef) {
@@ -486,7 +465,7 @@
       listEl.innerHTML = "";
       const gen = ++searchGen;
       const index = await indexPromise;
-      const { corpus } = await ensureAllIssuesCached(index);
+      const corpus = await ensureSearchCorpus();
       if (gen !== searchGen) return;
       const hits = runSearch(q, corpus);
       const terms = normSearch(q).split(/\s+/).filter(Boolean);
@@ -507,7 +486,7 @@
             <a class="search-hit-link" href="${issueHref(row.issueId, row.articleId)}">
               <span class="search-hit-meta">${escapeHtml(label)} · ${escapeHtml(row.section)}</span>
               <span class="search-hit-headline">${highlightTerms(row.headline, terms)}</span>
-              <span class="search-hit-snippet">${snippetForItem(row.item, terms)}</span>
+              <span class="search-hit-snippet">${snippetForRow(row, terms)}</span>
             </a>
           </li>`;
         })
@@ -663,6 +642,92 @@
     return `<div class="sources"><strong>Nguồn:</strong> ${parts.join("; ")}</div>`;
   }
 
+  function parseIsoDate(iso) {
+    const [y, m, d] = iso.split("-").map(Number);
+    return new Date(Date.UTC(y, m - 1, d));
+  }
+
+  function addDaysUtc(dt, days) {
+    const n = new Date(dt.getTime());
+    n.setUTCDate(n.getUTCDate() + days);
+    return n;
+  }
+
+  function upcomingCalendarEvents(data, issueId, windowDays = 14) {
+    const list = data.calendar || [];
+    if (!list.length) return [];
+    const start = parseIsoDate(calendarDateFromIssueId(issueId));
+    const end = addDaysUtc(start, windowDays);
+    return list
+      .filter((ev) => {
+        if (!ev.date) return false;
+        const d = parseIsoDate(ev.date);
+        return d >= start && d <= end;
+      })
+      .sort(
+        (a, b) =>
+          a.date.localeCompare(b.date) ||
+          String(a.time || "").localeCompare(String(b.time || ""))
+      );
+  }
+
+  function renderFollowups(followups) {
+    if (!followups || !followups.length) return "";
+    const items = followups
+      .map((fu, idx) => {
+        const status =
+          fu.status === "đã kết thúc" ? "đã kết thúc" : "đang diễn biến";
+        const first = fu.first_issue
+          ? `<a class="source-link" href="${asset("index.html")}?date=${encodeURIComponent(fu.first_issue)}">Số ${escapeHtml(fu.first_issue)}</a>`
+          : "";
+        return `<article class="followup-item" id="followup-${idx}">
+          <h3>${escapeHtml(fu.title || "")}</h3>
+          <p class="followup-status"><span class="status-badge status-${status === "đã kết thúc" ? "done" : "ongoing"}">${escapeHtml(status)}</span>${first ? ` · Lần đầu: ${first}` : ""}</p>
+          <p>${escapeHtml(fu.update || "")}</p>
+          ${sourcesHtml(fu.sources)}
+        </article>`;
+      })
+      .join("");
+    return `<section class="followups-block" id="theo-doi-tin-cu">
+      <h2>Theo dõi tin cũ</h2>
+      ${items}
+      <p class="back-to-toc"><a class="toc-link" href="#muc-luc">↑ Mục lục</a></p>
+    </section>`;
+  }
+
+  function renderCalendarAside(events) {
+    if (!events.length) return "";
+    let lastDate = "";
+    const chunks = events
+      .map((ev) => {
+        let head = "";
+        if (ev.date !== lastDate) {
+          lastDate = ev.date;
+          head = `<h3 class="calendar-date" id="calendar-${escapeHtml(ev.date)}">${escapeHtml(ev.date)}</h3>`;
+        }
+        const tz = ev.timezone || "giờ VN";
+        const time = ev.time
+          ? `<span class="calendar-time">${escapeHtml(ev.time)} (${escapeHtml(tz)})</span>`
+          : "";
+        const topic = ev.topic
+          ? `<span class="calendar-topic">${escapeHtml(ev.topic)}</span>`
+          : "";
+        return `${head}<article class="calendar-item">
+          ${time ? `<div>${time}</div>` : ""}
+          <strong>${escapeHtml(ev.title || "")}</strong>
+          ${topic ? `<div>${topic}</div>` : ""}
+          ${ev.note ? `<p class="calendar-note">${escapeHtml(ev.note)}</p>` : ""}
+          ${sourcesHtml(ev.sources)}
+        </article>`;
+      })
+      .join("");
+    return `<aside class="calendar-box" id="lich-su-kien" aria-labelledby="calendar-box-title">
+      <h2 id="calendar-box-title">Lịch sự kiện</h2>
+      <p class="calendar-hint">Trong 14 ngày tới (tính từ ngày số báo)</p>
+      ${chunks}
+    </aside>`;
+  }
+
   function renderArticles(sec, issueId) {
     return (sec.items || [])
       .map((it, idx) => {
@@ -686,8 +751,18 @@
     return `<a class="toc-link" href="#${escapeHtml(id)}">${labelHtml}</a>`;
   }
 
-  function tocEntries(sections) {
+  function tocEntries(sections, extras = {}) {
     const rows = [];
+    if (extras.followupCount) {
+      rows.push(
+        `<li><span>${tocAnchorLink("theo-doi-tin-cu", "<strong>Theo dõi tin cũ</strong>")} — ${extras.followupCount} tin</span></li>`
+      );
+    }
+    if (extras.calendarCount) {
+      rows.push(
+        `<li><span>${tocAnchorLink("lich-su-kien", "<strong>Lịch sự kiện</strong>")} — ${extras.calendarCount} sự kiện</span></li>`
+      );
+    }
     let i = 0;
     while (i < sections.length) {
       const sec = sections[i];
@@ -778,9 +853,17 @@
     const dateIso = data.date;
     const showHighlights = tag === "all";
     const progress = countReadProgress(issueId, data);
+    const showExtras = tag === "all";
+    const followups = showExtras ? data.followups || [] : [];
+    const calendarEvents = showExtras
+      ? upcomingCalendarEvents(data, issueId)
+      : [];
 
     let toc = "";
-    if (sections.length) {
+    if (
+      sections.length ||
+      (showExtras && (followups.length || calendarEvents.length))
+    ) {
       const progressHtml =
         progress.total > 0
           ? `<span class="read-progress" id="read-progress">${progress.read}/${progress.total} đã đọc</span>`
@@ -791,7 +874,10 @@
           <h2>Trong số này</h2>
           ${progressHtml}
         </div>
-        <ul>${tocEntries(sections)}</ul>
+        <ul>${tocEntries(sections, {
+          followupCount: followups.length,
+          calendarCount: calendarEvents.length,
+        })}</ul>
         ${clearBtn}
       </div>`;
     }
@@ -805,6 +891,15 @@
     }
 
     const sectionHtml = renderSectionBlocks(sections, issueId);
+    const followupsHtml = followups.length ? renderFollowups(followups) : "";
+    const calendarHtml = calendarEvents.length
+      ? renderCalendarAside(calendarEvents)
+      : "";
+    const mainInner = `${followupsHtml}${sectionHtml}`;
+    const layoutWrap =
+      calendarHtml && showExtras
+        ? `<div class="issue-layout"><div class="issue-main">${mainInner}</div>${calendarHtml}</div>`
+        : mainInner;
 
     const highlights = showHighlights
       ? `<div class="highlights"><h2>Điểm nhanh</h2><ol>${(data.highlights || [])
@@ -821,7 +916,7 @@
       ${highlights}
       ${toc}
       ${empty}
-      ${sectionHtml}
+      ${layoutWrap}
       ${data.footer_note ? `<div class="footer-note">${escapeHtml(data.footer_note)}</div>` : ""}
     `;
   }
@@ -1114,14 +1209,22 @@
     initThemeToggle();
     const index = await loadIndex();
     initSearch(index);
-    const { cache } = await ensureAllIssuesCached(index);
     const dates = index.issues.map((i) => i.date).sort().reverse();
 
     listEl.innerHTML = dates
       .map((d) => {
         const latest = d === index.latest ? `<span class="badge">Mới nhất</span>` : "";
-        const data = cache.get(d);
-        const prog = data ? countReadProgress(d, data) : { read: 0, total: 0 };
+        const meta = index.issues.find((i) => i.date === d);
+        const total = meta?.article_count ?? 0;
+        let read = 0;
+        if (total > 0) {
+          const map = getReadMap();
+          const prefix = `${d}|`;
+          Object.keys(map).forEach((k) => {
+            if (k.startsWith(prefix)) read += 1;
+          });
+        }
+        const prog = { read, total };
         const progHtml =
           prog.total > 0
             ? `<span class="archive-read-progress" data-issue-id="${escapeHtml(d)}">${prog.read}/${prog.total} đã đọc</span>`

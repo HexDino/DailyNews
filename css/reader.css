@@ -49,6 +49,7 @@ body {
   font-size: 1.05rem;
   line-height: 1.55;
   min-height: 100vh;
+  overflow-x: clip;
 }
 
 a {
@@ -431,6 +432,11 @@ html[data-theme="dark"] .article {
   font-size: 1.15rem;
   line-height: 1.3;
   margin: 0 0 0.35rem;
+  overflow-wrap: anywhere;
+}
+
+.articles-columns {
+  min-width: 0;
 }
 
 .article .meta {
@@ -443,6 +449,8 @@ html[data-theme="dark"] .article {
 .article p {
   margin: 0 0 0.65rem;
   text-align: justify;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .article .sources {
@@ -856,5 +864,130 @@ html[data-theme="dark"] button.fav-on {
 
   .read-toggle {
     align-self: flex-start;
+  }
+}
+
+.issue-layout {
+  display: grid;
+  gap: 1.5rem 2rem;
+  align-items: start;
+}
+
+@media (min-width: 960px) {
+  .issue-layout {
+    grid-template-columns: 1fr min(16rem, 32vw);
+  }
+}
+
+.issue-main {
+  min-width: 0;
+}
+
+.followups-block {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.followups-block h2 {
+  font-size: 0.95rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin: 0 0 0.75rem;
+  scroll-margin-top: 4.5rem;
+}
+
+.followup-item {
+  margin-bottom: 1.25rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px dotted var(--accent);
+}
+
+.followup-item h3 {
+  font-size: 1.05rem;
+  margin: 0 0 0.35rem;
+  scroll-margin-top: 4.5rem;
+}
+
+.followup-status {
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  margin: 0 0 0.5rem;
+  color: var(--accent);
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  border: 1px solid var(--rule);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.status-ongoing {
+  background: var(--chip-bg);
+}
+
+.calendar-box {
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  border: 1px solid var(--rule);
+  padding: 0.85rem 1rem;
+  background: var(--chip-bg);
+  scroll-margin-top: 4.5rem;
+}
+
+.calendar-box h2 {
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin: 0 0 0.25rem;
+}
+
+.calendar-hint {
+  margin: 0 0 0.75rem;
+  font-size: 0.72rem;
+  color: var(--accent);
+  font-style: italic;
+}
+
+.calendar-date {
+  font-size: 0.75rem;
+  font-weight: 700;
+  margin: 0.75rem 0 0.35rem;
+  letter-spacing: 0.06em;
+  border-bottom: 1px dotted var(--accent);
+  padding-bottom: 0.2rem;
+}
+
+.calendar-item {
+  margin-bottom: 0.65rem;
+  line-height: 1.4;
+}
+
+.calendar-time {
+  font-size: 0.72rem;
+  color: var(--accent);
+}
+
+.calendar-topic {
+  display: block;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+}
+
+.calendar-note {
+  margin: 0.25rem 0 0;
+  font-family: var(--serif);
+  font-size: 0.85rem;
+}
+
+@media (max-width: 959px) {
+  .calendar-box {
+    margin-top: 1.5rem;
   }
 }

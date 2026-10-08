@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 """Rebuild issues/index.json from issues/YYYY-MM-DD/content.json folders."""
 import json
+import subprocess
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 ISSUES = ROOT / "issues"
+SCRIPTS = ROOT / "scripts"
 
 CHIEU_SUFFIX = "-chieu"
 
@@ -16,9 +19,20 @@ def issue_sort_key(folder_name: str) -> tuple[str, int]:
     return (folder_name, 0)
 
 
+def count_articles(data: dict) -> int:
+    n = 0
+    for sec in data.get("sections") or []:
+        n += len(sec.get("items") or [])
+    return n
+
+
 def issue_entry(folder: Path) -> dict:
     data = json.loads((folder / "content.json").read_text(encoding="utf-8"))
-    entry: dict = {"date": folder.name, "path": f"{folder.name}/content.json"}
+    entry: dict = {
+        "date": folder.name,
+        "path": f"{folder.name}/content.json",
+        "article_count": count_articles(data),
+    }
     if data.get("edition"):
         entry["edition"] = data["edition"]
     if data.get("edition_label"):
@@ -48,6 +62,11 @@ def main() -> None:
         encoding="utf-8",
     )
     print(f"Index updated: {len(issue_ids)} issues, latest {issue_ids[-1]}")
+    subprocess.run(
+        [sys.executable, str(SCRIPTS / "build_search_index.py")],
+        check=True,
+        cwd=str(ROOT),
+    )
 
 
 if __name__ == "__main__":

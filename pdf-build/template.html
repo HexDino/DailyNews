@@ -34,6 +34,16 @@ a { color: #000; text-decoration: none; }
 .quick ol { margin: 0; padding-left: 5.5mm; }
 .quick li { margin-bottom: 1.5mm; font-weight: 600; font-size: 11.5pt; line-height: 1.32; }
 
+.followups { margin: 0 0 5mm 0; font-size: 10.5pt; page-break-inside: avoid; }
+.followups h2 { font-size: 11pt; margin: 0 0 1.5mm 0; text-transform: uppercase; letter-spacing: 1pt; border-bottom: 0.6pt solid #000; padding-bottom: 0.8mm; }
+.followup-item { margin-bottom: 2.5mm; padding-bottom: 2mm; border-bottom: 0.3pt dotted #000; }
+.followup-item h3 { font-size: 11.5pt; margin: 0 0 0.8mm 0; }
+.followup-item .status { font-size: 9pt; font-style: italic; margin: 0 0 0.8mm 0; }
+.calendar-box { margin: 0 0 5mm 0; border: 0.8pt solid #000; padding: 2.5mm 3mm; font-size: 10pt; page-break-inside: avoid; }
+.calendar-box h2 { font-size: 10.5pt; margin: 0 0 1mm 0; text-transform: uppercase; letter-spacing: 0.8pt; }
+.calendar-item { margin-bottom: 1.5mm; }
+.calendar-date { font-weight: 700; font-size: 9.5pt; margin: 1.5mm 0 0.5mm 0; }
+
 .toc { margin: 0 0 4mm 0; font-size: 11pt; page-break-inside: avoid; }
 .toc h2 { font-size: 11pt; margin: 0 0 1mm 0; text-transform: uppercase; letter-spacing: 1pt; border-bottom: 0.6pt solid #000; padding-bottom: 0.8mm; }
 .toc table { width: 100%; border-collapse: collapse; }
@@ -73,10 +83,42 @@ a { color: #000; text-decoration: none; }
   <ol>{% for h in highlights %}<li>{{ h }}</li>{% endfor %}</ol>
 </div>
 
+{% if followups %}
+<div class="followups">
+  <h2>Theo dõi tin cũ</h2>
+  {% for fu in followups %}
+  <div class="followup-item">
+    <h3>{{ fu.title }}</h3>
+    <p class="status">{{ fu.status }}{% if fu.first_issue %} · Lần đầu: số {{ fu.first_issue }}{% endif %}</p>
+    <p>{{ fu.update }}</p>
+    {% if fu.sources %}<div class="src"><b>Nguồn:</b>
+      {% for src in fu.sources %}{{ src.name }}{% if src.url %} — <a class="url" href="{{ src.url }}">{{ src.url }}</a>{% endif %}{% if not loop.last %}; {% endif %}{% endfor %}
+    </div>{% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if calendar %}
+<div class="calendar-box">
+  <h2>Lịch sự kiện</h2>
+  {% for ev in calendar %}
+  <div class="calendar-item">
+    <div class="calendar-date">{{ ev.date }}{% if ev.time %} · {{ ev.time }}{% if ev.timezone %} ({{ ev.timezone }}){% endif %}{% endif %}</div>
+    <b>{{ ev.title }}</b>{% if ev.topic %} — <i>{{ ev.topic }}</i>{% endif %}
+    {% if ev.note %}<p>{{ ev.note }}</p>{% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
 {% if cover %}
 <div class="toc">
   <h2>Trong số này</h2>
-  <table>{% for s in sections %}<tr><td><b>{{ s.title }}</b> — {{ s['items']|length }} tin</td><td class="n">trang <a href="#sec{{ loop.index }}"></a></td></tr>{% endfor %}</table>
+  <table>
+    {% if followups %}<tr><td><b>Theo dõi tin cũ</b> — {{ followups|length }} tin</td><td class="n"></td></tr>{% endif %}
+    {% if calendar %}<tr><td><b>Lịch sự kiện</b> — {{ calendar|length }} sự kiện</td><td class="n"></td></tr>{% endif %}
+    {% for s in sections %}<tr><td><b>{{ s.title }}</b> — {{ s['items']|length }} tin</td><td class="n">trang <a href="#sec{{ loop.index }}"></a></td></tr>{% endfor %}</table>
 </div>
 {% endif %}
 
