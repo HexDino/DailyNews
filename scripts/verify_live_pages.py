@@ -32,8 +32,8 @@ def theme_metrics(page) -> dict:
         """() => {
       const btn = document.getElementById('btn-theme');
       const bb = btn ? btn.getBoundingClientRect() : null;
-      const glyph = btn ? btn.querySelector('.theme-toggle-glyph:not([style*="display: none"])') || btn.querySelector('.theme-toggle-glyph') : null;
-      const gb = glyph ? glyph.getBoundingClientRect() : null;
+      const glyphs = btn ? [...btn.querySelectorAll('.theme-toggle-glyph')].filter((g) => g.getBoundingClientRect().width > 0) : [];
+      const gb = glyphs[0] ? glyphs[0].getBoundingClientRect() : null;
       return {
         btnH: bb ? bb.height : 0,
         btnW: bb ? bb.width : 0,
@@ -91,12 +91,17 @@ def main() -> int:
                     page.locator(".site-bar").screenshot(
                         path=f"/opt/cursor/artifacts/screenshots/live-header-390-{theme}.png"
                     )
-                if width == 1280 and theme == "light":
+                if width == 1280:
                     page.set_viewport_size({"width": 1280, "height": 720})
                     page.goto(LIVE, wait_until="networkidle")
-                    page.wait_for_selector(".calendar-strip-wrap", timeout=60000)
+                    page.wait_for_selector(".calendar-teaser-bar", timeout=60000)
                     page.locator(".paper-sheet").screenshot(
-                        path="/opt/cursor/artifacts/screenshots/live-top-1280-calendar.png"
+                        path=f"/opt/cursor/artifacts/screenshots/live-top-1280-{theme}.png"
+                    )
+                    page.locator(".calendar-teaser-bar").click()
+                    page.wait_for_selector("#calendar-panel-full:not([hidden])")
+                    page.locator(".paper-sheet").screenshot(
+                        path=f"/opt/cursor/artifacts/screenshots/live-expanded-1280-{theme}.png"
                     )
                 ctx.close()
 
