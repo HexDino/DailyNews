@@ -30,25 +30,29 @@
       <nav aria-label="Điều hướng">
         <a href="archive.html" aria-current="page">Kho số cũ</a>
       </nav>
-      <form class="search-form" id="search-form" role="search">
-        <label class="visually-hidden" for="search-input">Tìm trong các số báo</label>
-        <input type="search" id="search-input" name="q" placeholder="Tìm tin…" autocomplete="off" enterkeyhint="search">
-        <button type="submit" class="search-submit" aria-label="Tìm">⌕</button>
-      </form>
-      <button type="button" id="btn-theme" class="theme-toggle" aria-label="Đổi giao diện sáng/tối" title="Sáng / Tối">☀</button>
+      <div class="search-wrap" id="search-wrap">
+        <form class="search-form" id="search-form" role="search">
+          <label class="visually-hidden" for="search-input">Tìm trong các số báo</label>
+          <input type="search" id="search-input" name="q" placeholder="Tìm tin…" autocomplete="off" enterkeyhint="search" aria-controls="search-panel" aria-expanded="false">
+          <button type="submit" class="search-submit" aria-label="Tìm">⌕</button>
+        </form>
+        <div id="search-panel" class="search-panel" hidden>
+          <div class="search-panel-inner">
+            <header class="search-panel-head">
+              <h2>Kết quả tìm kiếm</h2>
+              <button type="button" id="search-close" aria-label="Đóng">Đóng</button>
+            </header>
+            <p id="search-status" class="search-status" aria-live="polite"></p>
+            <ul id="search-results" class="search-results"></ul>
+          </div>
+        </div>
+      </div>
+      <button type="button" id="btn-theme" class="theme-switch" aria-label="Đổi giao diện sáng/tối">
+        <span class="theme-icon" aria-hidden="true"></span>
+        <span class="theme-track" aria-hidden="true"><span class="theme-thumb"></span></span>
+      </button>
     </div>
   </header>
-
-  <div id="search-panel" class="search-panel" hidden>
-    <div class="search-panel-inner">
-      <header class="search-panel-head">
-        <h2>Kết quả tìm kiếm</h2>
-        <button type="button" id="search-close" aria-label="Đóng">Đóng</button>
-      </header>
-      <p id="search-status" class="search-status" aria-live="polite"></p>
-      <ul id="search-results" class="search-results"></ul>
-    </div>
-  </div>
 
   <main class="paper-sheet archive-page">
     <header class="masthead">

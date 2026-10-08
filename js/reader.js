@@ -9,6 +9,12 @@
   let issueContentCache = null;
   /** @type {object[]|null} */
   let searchCorpus = null;
+  /** @type {Set<string>} */
+  const sessionManualUnread = new Set();
+  /** @type {IntersectionObserver|null} */
+  let autoReadObserver = null;
+  /** @type {Map<string, { timer: number, endVisible: boolean }>} */
+  const autoReadState = new Map();
   const THU = [
     "Chủ Nhật",
     "Thứ Hai",
@@ -161,6 +167,83 @@
     return removeDiacritics(String(s)).toLowerCase();
   }
 
+  function levenshteinMax(a, b, max) {
+    if (a === b) return 0;
+    if (!a.length) return b.length;
+    if (!b.length) return a.length;
+    if (Math.abs(a.length - b.length) > max) return max + 1;
+    const prev = new Array(b.length + 1);
+    const curr = new Array(b.length + 1);
+    for (let j = 0; j <= b.length; j++) prev[j] = j;
+    for (let i = 1; i <= a.length; i++) {
+      curr[0] = i;
+      let rowMin = i;
+      for (let j = 1; j <= b.length; j++) {
+        const cost = a[i - 1] === b[j - 1] ? 0 : 1;
+        curr[j] = Math.min(prev[j] + 1, curr[j - 1] + 1, prev[j - 1] + cost);
+        rowMin = Math.min(rowMin, curr[j]);
+      }
+      if (rowMin > max) return max + 1;
+      for (let j = 0; j <= b.length; j++) prev[j] = curr[j];
+    }
+    return prev[b.length];
+  }
+
+  function maxTypos(token) {
+    if (token.length <= 2) return 0;
+    if (token.length <= 4) return 1;
+    return Math.max(1, Math.floor(token.length * 0.34));
+  }
+
+  function isSubsequence(needle, hay) {
+    let i = 0;
+    for (let j = 0; j < hay.length && i < needle.length; j++) {
+      if (hay[j] === needle[i]) i += 1;
+    }
+    return i === needle.length;
+  }
+
+  function tokenMatchesInWords(token, words, fullText) {
+    if (fullText.includes(token)) return { quality: 0 };
+    for (const w of words) {
+      if (!w) continue;
+      if (w === token) return { quality: 0 };
+      if (w.startsWith(token) || (token.length >= 3 && token.startsWith(w))) {
+        return { quality: 0.05 };
+      }
+      if (token.length >= 3 && w.includes(token)) return { quality: 0.08 };
+      if (token.length >= 4 && isSubsequence(token, w)) return { quality: 0.12 };
+      const maxD = maxTypos(token);
+      const d = levenshteinMax(token, w, maxD);
+      if (d <= maxD) return { quality: 0.15 + d * 0.04 };
+    }
+    return null;
+  }
+
+  function wordMatchesToken(word, token) {
+    const w = normSearch(word);
+    if (!w || !token) return false;
+    return !!tokenMatchesInWords(token, [w], w);
+  }
+
+  function scoreSearchRow(row, tokens) {
+    const headlineWords = row.normHeadline.split(/[^a-z0-9]+/).filter(Boolean);
+    const textWords = row.normText.split(/[^a-z0-9]+/).filter(Boolean);
+    let score = 0;
+    for (const token of tokens) {
+      let m = tokenMatchesInWords(token, headlineWords, row.normHeadline);
+      if (m) {
+        score += 100 - m.quality * 20;
+      } else {
+        m = tokenMatchesInWords(token, textWords, row.normText);
+        if (!m) return null;
+        score += 30 - m.quality * 20;
+      }
+    }
+    score += row.recencyRank * 0.001;
+    return score;
+  }
+
   function articleDomId(issueId, sec, itemIndex) {
     const secKey = sec.topic
       ? sec.subtitle
@@ -240,11 +323,11 @@
     const btn = document.getElementById("btn-theme");
     if (!btn) return;
     const dark = effectiveTheme() === "dark";
-    btn.textContent = dark ? "☾ Tối" : "☀ Sáng";
     btn.setAttribute(
       "aria-label",
-      dark ? "Đang dùng giao diện tối, chuyển sang sáng" : "Đang dùng giao diện sáng, chuyển sang tối"
+      dark ? "Đang dùng giao diện tối, bật chuyển sang sáng" : "Đang dùng giao diện sáng, bật chuyển sang tối"
     );
+    btn.setAttribute("aria-pressed", dark ? "true" : "false");
   }
 
   function initThemeToggle() {
@@ -302,10 +385,7 @@
     return parts
       .map((part) => {
         if (!part.trim()) return escapeHtml(part);
-        const nPart = normSearch(part);
-        const hit = terms.some(
-          (t) => nPart.includes(t) || t.includes(nPart) || part.length > 2 && t.includes(nPart)
-        );
+        const hit = terms.some((t) => wordMatchesToken(part, t));
         if (hit) return `<mark>${escapeHtml(part)}</mark>`;
         return escapeHtml(part);
       })
@@ -318,6 +398,10 @@
     }
     issueContentCache = new Map();
     searchCorpus = [];
+    const sortedIssues = [...index.issues].map((i) => i.date).sort();
+    const recencyRank = new Map(
+      sortedIssues.map((id, idx) => [id, idx + 1])
+    );
     await Promise.all(
       index.issues.map(async (entry) => {
         const data = await loadIssue(entry.date);
@@ -325,12 +409,16 @@
         (data.sections || []).forEach((sec) => {
           (sec.items || []).forEach((item, idx) => {
             const articleId = articleDomId(entry.date, sec, idx);
+            const text = itemSearchText(item, sec);
             searchCorpus.push({
               issueId: entry.date,
               articleId,
               section: sectionLabel(sec),
               headline: item.headline,
-              text: itemSearchText(item, sec),
+              text,
+              normHeadline: normSearch(item.headline),
+              normText: normSearch(text),
+              recencyRank: recencyRank.get(entry.date) || 0,
               item,
             });
           });
@@ -345,10 +433,13 @@
     if (!trimmed) return [];
     const terms = normSearch(trimmed).split(/\s+/).filter(Boolean);
     if (!terms.length) return [];
-    return corpus.filter((row) => {
-      const hay = normSearch(row.text);
-      return terms.every((t) => hay.includes(t));
+    const scored = [];
+    corpus.forEach((row) => {
+      const s = scoreSearchRow(row, terms);
+      if (s !== null) scored.push({ row, score: s });
     });
+    scored.sort((a, b) => b.score - a.score);
+    return scored.map((x) => x.row);
   }
 
   function issueHref(issueId, articleId) {
@@ -359,6 +450,7 @@
     const form = document.getElementById("search-form");
     const input = document.getElementById("search-input");
     const panel = document.getElementById("search-panel");
+    const wrap = document.getElementById("search-wrap");
     const statusEl = document.getElementById("search-status");
     const listEl = document.getElementById("search-results");
     const closeBtn = document.getElementById("search-close");
@@ -367,23 +459,35 @@
     let indexPromise = indexRef
       ? Promise.resolve(indexRef)
       : loadIndex();
+    let debounceTimer = 0;
+    let searchGen = 0;
+
+    function setPanelOpen(open) {
+      panel.hidden = !open;
+      input.setAttribute("aria-expanded", open ? "true" : "false");
+    }
+
+    function closeSearch(clearInput) {
+      setPanelOpen(false);
+      if (clearInput) input.value = "";
+      const { date, tag, anchor } = parseParams();
+      syncUrl(date, tag, anchor, "");
+    }
 
     async function showResults(query, pushUrl) {
       const q = query.trim();
-      input.value = q;
+      if (input.value !== q) input.value = q;
       if (!q) {
-        panel.hidden = true;
-        if (pushUrl) {
-          const { date, tag, anchor } = parseParams();
-          syncUrl(date, tag, anchor, "");
-        }
+        closeSearch(false);
         return;
       }
-      panel.hidden = false;
+      setPanelOpen(true);
       statusEl.textContent = "Đang tìm…";
       listEl.innerHTML = "";
+      const gen = ++searchGen;
       const index = await indexPromise;
       const { corpus } = await ensureAllIssuesCached(index);
+      if (gen !== searchGen) return;
       const hits = runSearch(q, corpus);
       const terms = normSearch(q).split(/\s+/).filter(Boolean);
       if (pushUrl) {
@@ -396,6 +500,7 @@
       }
       statusEl.textContent = `${hits.length} kết quả cho “${q}”.`;
       listEl.innerHTML = hits
+        .slice(0, 80)
         .map((row) => {
           const label = issueListLabel(row.issueId, index);
           return `<li class="search-hit">
@@ -409,20 +514,52 @@
         .join("");
     }
 
+    function scheduleSearch(pushUrl) {
+      window.clearTimeout(debounceTimer);
+      debounceTimer = window.setTimeout(() => {
+        showResults(input.value, pushUrl);
+      }, 220);
+    }
+
     form.addEventListener("submit", (e) => {
       e.preventDefault();
+      window.clearTimeout(debounceTimer);
       showResults(input.value, true);
     });
 
-    closeBtn?.addEventListener("click", () => {
-      panel.hidden = true;
-      const { date, tag, anchor } = parseParams();
-      syncUrl(date, tag, anchor, "");
-      input.value = "";
+    input.addEventListener("input", () => {
+      if (!input.value.trim()) {
+        window.clearTimeout(debounceTimer);
+        closeSearch(false);
+        return;
+      }
+      scheduleSearch(true);
+    });
+
+    input.addEventListener("focus", () => {
+      if (input.value.trim()) setPanelOpen(true);
+    });
+
+    closeBtn?.addEventListener("click", () => closeSearch(true));
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && !panel.hidden) {
+        e.preventDefault();
+        closeSearch(false);
+        input.blur();
+      }
+    });
+
+    document.addEventListener("pointerdown", (e) => {
+      if (panel.hidden) return;
+      const t = e.target;
+      if (wrap && t instanceof Node && wrap.contains(t)) return;
+      closeSearch(false);
     });
 
     const { searchQuery } = parseParams();
     if (searchQuery) {
+      input.value = searchQuery;
       showResults(searchQuery, false);
     }
   }
@@ -539,6 +676,7 @@
           ${it.meta ? `<div class="meta">${escapeHtml(it.meta)}</div>` : ""}
           ${bodyHtml(it.body)}
           ${sourcesHtml(it.sources)}
+          <div class="article-end-marker" aria-hidden="true"></div>
         </article>`;
       })
       .join("");
@@ -647,10 +785,7 @@
         progress.total > 0
           ? `<span class="read-progress" id="read-progress">${progress.read}/${progress.total} đã đọc</span>`
           : "";
-      const clearBtn =
-        progress.read > 0
-          ? `<button type="button" class="read-clear-all" id="read-clear-all">Bỏ đánh dấu tất cả</button>`
-          : "";
+      const clearBtn = `<button type="button" class="read-clear-all" id="read-clear-all"${progress.read > 0 ? "" : " hidden"}>Bỏ đánh dấu tất cả</button>`;
       toc = `<div class="toc-block" id="muc-luc">
         <div class="toc-block-head">
           <h2>Trong số này</h2>
@@ -753,17 +888,119 @@
     });
   }
 
-  function bindReadControls(root, issueId, onRerender) {
+  function readKey(issueId, articleId) {
+    return readStorageKey(issueId, articleId);
+  }
+
+  function updateArticleReadDom(articleEl, read) {
+    articleEl.classList.toggle("is-read", read);
+    const btn = articleEl.querySelector(".read-toggle");
+    if (btn) {
+      btn.classList.toggle("is-read", read);
+      btn.setAttribute("aria-pressed", read ? "true" : "false");
+      btn.textContent = read ? "Đã đọc" : "Đánh dấu đã đọc";
+    }
+  }
+
+  function refreshReadProgressUi(issueId, data) {
+    const prog = countReadProgress(issueId, data);
+    const el = document.getElementById("read-progress");
+    if (el) el.textContent = `${prog.read}/${prog.total} đã đọc`;
+    const clearBtn = document.getElementById("read-clear-all");
+    if (clearBtn) clearBtn.hidden = prog.read <= 0;
+    document.querySelectorAll(`.archive-read-progress[data-issue-id="${issueId}"]`).forEach((node) => {
+      node.textContent = `${prog.read}/${prog.total} đã đọc`;
+    });
+  }
+
+  function articleDwellMs(articleEl) {
+    const text = articleEl.innerText || "";
+    const words = text.split(/\s+/).filter(Boolean).length;
+    const ms = (words / 4.5) * 1000;
+    return Math.min(120000, Math.max(3500, ms));
+  }
+
+  function teardownAutoRead() {
+    autoReadState.forEach((st) => window.clearTimeout(st.timer));
+    autoReadState.clear();
+    autoReadObserver?.disconnect();
+    autoReadObserver = null;
+  }
+
+  function setupAutoRead(root, issueId, data, onProgress) {
+    teardownAutoRead();
+    const markers = root.querySelectorAll(".article-end-marker");
+    if (!markers.length) return;
+
+    autoReadObserver = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          const articleEl = entry.target.closest(".article");
+          if (!articleEl) return;
+          const artId = articleEl.dataset.articleId;
+          if (!artId) return;
+          const key = readKey(issueId, artId);
+          let st = autoReadState.get(key);
+          if (!st) {
+            st = { timer: 0, endVisible: false };
+            autoReadState.set(key, st);
+          }
+          if (entry.isIntersecting) {
+            if (isArticleRead(issueId, artId)) return;
+            if (sessionManualUnread.has(key)) return;
+            st.endVisible = true;
+            if (st.timer) return;
+            st.timer = window.setTimeout(() => {
+              st.timer = 0;
+              if (!st.endVisible) return;
+              if (sessionManualUnread.has(key)) return;
+              if (isArticleRead(issueId, artId)) return;
+              setArticleRead(issueId, artId, true);
+              updateArticleReadDom(articleEl, true);
+              onProgress();
+            }, articleDwellMs(articleEl));
+          } else {
+            st.endVisible = false;
+            if (st.timer) {
+              window.clearTimeout(st.timer);
+              st.timer = 0;
+            }
+          }
+        });
+      },
+      { root: null, rootMargin: "0px 0px -8% 0px", threshold: 0.05 }
+    );
+
+    markers.forEach((m) => autoReadObserver.observe(m));
+  }
+
+  function bindReadControls(root, issueId, data, onRerender, onProgress) {
     root.querySelectorAll(".read-toggle").forEach((btn) => {
       btn.addEventListener("click", () => {
         const artId = btn.dataset.articleId;
         if (!artId) return;
+        const key = readKey(issueId, artId);
         const next = !isArticleRead(issueId, artId);
         setArticleRead(issueId, artId, next);
-        onRerender();
+        if (!next) sessionManualUnread.add(key);
+        else sessionManualUnread.delete(key);
+        const st = autoReadState.get(key);
+        if (st?.timer) {
+          window.clearTimeout(st.timer);
+          st.timer = 0;
+        }
+        if (st) st.endVisible = false;
+        const articleEl = btn.closest(".article");
+        if (articleEl) updateArticleReadDom(articleEl, next);
+        onProgress();
       });
     });
     root.querySelector("#read-clear-all")?.addEventListener("click", () => {
+      (data.sections || []).forEach((sec) => {
+        (sec.items || []).forEach((it, idx) => {
+          sessionManualUnread.add(readKey(issueId, articleDomId(issueId, sec, idx)));
+        });
+      });
       clearReadForIssue(issueId);
       onRerender();
     });
@@ -793,7 +1030,9 @@
         syncUrl(date, tag, urlAnchor, q);
         root.innerHTML = renderIssue(data, tag, date);
         renderTags(tag, render);
-        bindReadControls(root, date, () => render(tag, { keepSearch: true }));
+        const onProgress = () => refreshReadProgressUi(date, data);
+        bindReadControls(root, date, data, () => render(tag, { keepSearch: true }), onProgress);
+        setupAutoRead(root, date, data, onProgress);
         if (options.scrollTo) {
           requestAnimationFrame(() => scrollToAnchor(options.scrollTo));
         }
@@ -885,7 +1124,7 @@
         const prog = data ? countReadProgress(d, data) : { read: 0, total: 0 };
         const progHtml =
           prog.total > 0
-            ? `<span class="archive-read-progress">${prog.read}/${prog.total} đã đọc</span>`
+            ? `<span class="archive-read-progress" data-issue-id="${escapeHtml(d)}">${prog.read}/${prog.total} đã đọc</span>`
             : "";
         return `<li>${latest}<a class="issue-link" href="${asset(`index.html?date=${d}`)}">${escapeHtml(issueListLabel(d, index))}</a>
           ${progHtml}
