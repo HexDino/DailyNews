@@ -16,6 +16,13 @@ import sys
 
 sys.path.insert(0, str(SCRIPTS))
 from playwright_calendar import CALENDAR_ISSUE, CALENDAR_VIEWPORTS, exercise_calendar
+from playwright_followups import (
+    FOLLOWUPS_ISSUE,
+    FOLLOWUPS_VIEWPORTS,
+    assert_followup_pills,
+    capture_followups_screenshots,
+    exercise_followup_expand,
+)
 BASE_URL = "http://127.0.0.1:8765/"
 SEARCH_QUERIES = ["claud haiku", "messy argentina", "ifcopenshel", "bong da"]
 
@@ -143,6 +150,28 @@ def main() -> int:
                         exercise_calendar(page, w, theme, "smoke")
                     )
                     ctx.close()
+
+            for w in FOLLOWUPS_VIEWPORTS:
+                for theme in ("light", "dark"):
+                    ctx = browser.new_context(
+                        viewport={"width": w, "height": 900 if w >= 768 else 844},
+                        color_scheme=theme,
+                    )
+                    ctx.add_init_script(
+                        f'localStorage.setItem("dailynews-theme", "{theme}");'
+                    )
+                    page = ctx.new_page()
+                    page.goto(
+                        f"{BASE_URL}index.html?date={FOLLOWUPS_ISSUE}",
+                        wait_until="domcontentloaded",
+                        timeout=60000,
+                    )
+                    page.wait_for_selector("#theo-doi-tin-cu", timeout=30000)
+                    errors.extend(assert_followup_pills(page, w, theme, "smoke"))
+                    errors.extend(exercise_followup_expand(page, w, theme, "smoke"))
+                    ctx.close()
+
+            capture_followups_screenshots(browser, BASE_URL)
 
             browser.close()
     finally:

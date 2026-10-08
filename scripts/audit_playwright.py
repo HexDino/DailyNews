@@ -14,6 +14,12 @@ import sys
 
 sys.path.insert(0, str(SCRIPTS))
 from playwright_calendar import CALENDAR_ISSUE, CALENDAR_VIEWPORTS, exercise_calendar
+from playwright_followups import (
+    FOLLOWUPS_ISSUE,
+    FOLLOWUPS_VIEWPORTS,
+    assert_followup_pills,
+    exercise_followup_expand,
+)
 BASE_URL = "http://127.0.0.1:8765/"
 VIEWPORTS = [(1280, 800), (768, 1024), (390, 844)]
 THEMES = ["light", "dark"]
@@ -140,6 +146,30 @@ def audit():
                         errors.extend(exercise_calendar(page, w, theme, CALENDAR_ISSUE))
                     except Exception as e:
                         errors.append(f"calendar {w}px {theme}: {e}")
+                    ctx.close()
+
+            fu_url = f"{BASE_URL}index.html?date={FOLLOWUPS_ISSUE}"
+            for w in FOLLOWUPS_VIEWPORTS:
+                for theme in THEMES:
+                    ctx = browser.new_context(
+                        viewport={"width": w, "height": 900 if w >= 768 else 844},
+                        color_scheme=theme,
+                    )
+                    ctx.add_init_script(
+                        f'localStorage.setItem("dailynews-theme", "{theme}");'
+                    )
+                    page = ctx.new_page()
+                    try:
+                        page.goto(fu_url, wait_until="domcontentloaded", timeout=60000)
+                        page.wait_for_selector("#theo-doi-tin-cu", timeout=30000)
+                        errors.extend(
+                            assert_followup_pills(page, w, theme, FOLLOWUPS_ISSUE)
+                        )
+                        errors.extend(
+                            exercise_followup_expand(page, w, theme, FOLLOWUPS_ISSUE)
+                        )
+                    except Exception as e:
+                        errors.append(f"followups {w}px {theme}: {e}")
                     ctx.close()
 
             browser.close()

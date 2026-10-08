@@ -848,22 +848,35 @@
       );
   }
 
+  function followupOriginMeta(firstIssue) {
+    if (!firstIssue) return "";
+    const cal = calendarDateFromIssueId(firstIssue);
+    const parts = cal.split("-").map(Number);
+    if (parts.length < 3 || parts.some((n) => Number.isNaN(n))) return "";
+    const [, m, d] = parts;
+    const label = `từ số ${d}/${m}`;
+    return `<a class="followup-origin source-link" href="${asset("index.html")}?date=${encodeURIComponent(firstIssue)}">${escapeHtml(label)}</a>`;
+  }
+
   function renderFollowups(followups) {
     if (!followups || !followups.length) return "";
     const items = followups
       .map((fu, idx) => {
         const status =
           fu.status === "đã kết thúc" ? "đã kết thúc" : "đang diễn biến";
+        const statusClass =
+          status === "đã kết thúc" ? "followup-status--done" : "followup-status--ongoing";
+        const origin = followupOriginMeta(fu.first_issue);
         const first = fu.first_issue
           ? `<a class="source-link" href="${asset("index.html")}?date=${encodeURIComponent(fu.first_issue)}">Số ${escapeHtml(fu.first_issue)}</a>`
           : "";
-        const teaser = truncateText(fu.update || "", 120);
         return `<li class="followup-row-wrap">
           <details class="followup-row" id="followup-${idx}">
-            <summary>
-              <span class="status-badge status-${status === "đã kết thúc" ? "done" : "ongoing"}">${escapeHtml(status)}</span>
+            <summary class="followup-summary">
+              <span class="followup-status ${statusClass}">${escapeHtml(status)}</span>
               <span class="followup-title">${escapeHtml(fu.title || "")}</span>
-              <span class="followup-teaser">${escapeHtml(teaser)}</span>
+              ${origin ? origin : ""}
+              <p class="followup-preview">${escapeHtml(fu.update || "")}</p>
             </summary>
             <div class="followup-body">
               <p>${escapeHtml(fu.update || "")}</p>

@@ -12,6 +12,12 @@
   --read-dim: 0.72;
   --calendar-teaser-bg: #ebe6d9;
   --calendar-teaser-hover: #e3dccf;
+  --followup-ongoing-bg: #e8efe4;
+  --followup-ongoing-border: #9cb392;
+  --followup-ongoing-fg: #2d4a28;
+  --followup-done-bg: #eceae6;
+  --followup-done-border: #b8b2a8;
+  --followup-done-fg: #5c574f;
   --max-width: 72rem;
   --serif: "Source Serif 4", "Noto Serif", "Times New Roman", serif;
   --sans: "Source Sans 3", system-ui, sans-serif;
@@ -33,6 +39,12 @@ html[data-theme="dark"] {
   --read-dim: 0.68;
   --calendar-teaser-bg: #2e2a24;
   --calendar-teaser-hover: #353028;
+  --followup-ongoing-bg: #2a3328;
+  --followup-ongoing-border: #4a6b42;
+  --followup-ongoing-fg: #b8cdb0;
+  --followup-done-bg: #2c2a28;
+  --followup-done-border: #4a4742;
+  --followup-done-fg: #9a9288;
 }
 
 *,
@@ -1490,37 +1502,96 @@ body.calendar-sheet-open {
   border-bottom: 1px dotted var(--accent);
 }
 
-.followup-row > summary {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  gap: 0.35rem 0.5rem;
+.followup-summary {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  grid-template-areas:
+    "status title origin"
+    "preview preview preview";
+  column-gap: 0.5rem;
+  row-gap: 0.35rem;
+  align-items: center;
   cursor: pointer;
-  padding: 0.5rem 0;
+  padding: 0.55rem 0;
   list-style: none;
   line-height: 1.35;
 }
 
-.followup-row > summary::-webkit-details-marker {
+.followup-summary::-webkit-details-marker {
   display: none;
 }
 
-.followup-title {
+.followup-status {
+  grid-area: status;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  padding: 0.12em 0.55em;
+  border-radius: 999px;
+  border: 1px solid var(--rule);
+  font-family: var(--sans);
+  font-size: 0.62rem;
   font-weight: 600;
+  line-height: 1;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.followup-status--ongoing {
+  background: var(--followup-ongoing-bg);
+  border-color: var(--followup-ongoing-border);
+  color: var(--followup-ongoing-fg);
+}
+
+.followup-status--done {
+  background: var(--followup-done-bg);
+  border-color: var(--followup-done-border);
+  color: var(--followup-done-fg);
+}
+
+.followup-title {
+  grid-area: title;
+  font-weight: 700;
   font-size: 0.98rem;
-  flex: 1 1 8rem;
   min-width: 0;
 }
 
-.followup-teaser {
-  flex: 1 1 100%;
+.followup-row:not(:has(.followup-origin)) .followup-title {
+  grid-column: title / origin;
+}
+
+.followup-origin {
+  grid-area: origin;
+  justify-self: end;
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  color: var(--accent);
+  white-space: nowrap;
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+.followup-preview {
+  grid-area: preview;
+  margin: 0;
   font-size: 0.9rem;
   color: var(--accent);
   font-weight: 400;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+
+.followup-row[open] .followup-preview {
+  display: none;
 }
 
 .followup-body {
-  padding: 0 0 0.65rem 0.15rem;
+  padding: 0 0 0.65rem 0;
   font-size: 0.95rem;
 }
 
@@ -1532,20 +1603,6 @@ body.calendar-sheet-open {
   font-family: var(--sans);
   font-size: 0.78rem;
   color: var(--accent);
-}
-
-.status-badge {
-  display: inline-block;
-  padding: 0.1rem 0.45rem;
-  border-radius: 999px;
-  border: 1px solid var(--rule);
-  font-size: 0.72rem;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-
-.status-ongoing {
-  background: var(--chip-bg);
 }
 
 .calendar-hint {
@@ -1588,17 +1645,21 @@ body.calendar-sheet-open {
   font-size: 0.85rem;
 }
 
-@media (min-width: 720px) {
-  .followup-row > summary {
-    flex-wrap: nowrap;
+@media (max-width: 480px) {
+  .followup-summary {
+    grid-template-columns: auto minmax(0, 1fr);
+    grid-template-areas:
+      "status title"
+      "origin origin"
+      "preview preview";
   }
 
-  .followup-teaser {
-    flex: 1 1 auto;
-    min-width: 0;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+  .followup-origin {
+    justify-self: start;
+  }
+
+  .followup-row:not(:has(.followup-origin)) .followup-title {
+    grid-column: title;
   }
 }
 
