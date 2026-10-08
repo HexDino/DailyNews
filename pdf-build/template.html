@@ -90,7 +90,7 @@ a { color: #000; text-decoration: none; }
   <div class="followup-item">
     <h3>{{ fu.title }}</h3>
     <p class="status">{{ fu.status }}{% if fu.first_issue %} · Lần đầu: số {{ fu.first_issue }}{% endif %}</p>
-    <p>{{ fu.update }}</p>
+    <p>{{ fu['update'] }}</p>
     {% if fu.sources %}<div class="src"><b>Nguồn:</b>
       {% for src in fu.sources %}{% if src.url %}<a class="url" href="{{ src.url }}" title="{{ src.url }}">{{ src|source_link_label }}</a>{% else %}{{ src.name }}{% endif %}{% if not loop.last %}; {% endif %}{% endfor %}
     </div>{% endif %}

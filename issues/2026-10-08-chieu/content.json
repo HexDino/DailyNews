@@ -1,0 +1,499 @@
+{
+  "date": "2026-10-08",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Năm, 8 tháng 10, 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 8/10/2026 · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Trung ương 4 bế mạc, thông qua Nghị quyết; hội nghị toàn quốc quán triệt ngày 16/10",
+    "Thủ tướng Lê Minh Hưng hội đàm ở Viêng Chăn, Việt Nam – Lào dự kiến ký hơn 10 văn kiện",
+    "Xăng E10 lên 28.254 đồng/lít, kỳ tăng thứ năm liên tiếp",
+    "Iran dọa đóng các tuyến “bất hợp pháp” qua Hormuz; Houthi tấn công hai sân bay Saudi Arabia",
+    "Kenya có ca Ebola đầu tiên; Seoul vượt Tokyo thành “thành phố lớn tốt nhất”"
+  ],
+  "followups": [
+    {
+      "title": "Hội nghị Trung ương 4 khóa XIV",
+      "update": "Bế mạc chiều 8/10 sau bốn ngày làm việc; Trung ương biểu quyết thông qua Nghị quyết Hội nghị. Hội nghị toàn quốc phổ biến, quán triệt Nghị quyết dự kiến ngày 16/10.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-06-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/be-mac-hoi-nghi-trung-uong-4-khoa-14-5129750.html"
+        },
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/chinh-tri/toan-van-bai-phat-bieu-be-mac-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-trung-uong-4-khoa-xiv-post1339553.vov"
+        }
+      ]
+    },
+    {
+      "title": "Chuyến thăm Lào và Campuchia của Thủ tướng Lê Minh Hưng",
+      "update": "Đã tới Viêng Chăn trưa 8/10, dự lễ đón và hội đàm với Thủ tướng Saleumxay Kommasith; hai bên dự kiến ký hơn 10 văn kiện. Từ 9/10 đoàn thăm Campuchia.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-06-chieu",
+      "sources": [
+        {
+          "name": "VietNamNet",
+          "url": "https://vietnamnet.vn/thu-tuong-lao-chu-tri-le-don-chinh-thuc-thu-tuong-le-minh-hung-2562871.html"
+        }
+      ]
+    },
+    {
+      "title": "Đợt tập kích tên lửa Nga vào Ukraine (7/10)",
+      "update": "Theo Cơ quan Tình trạng khẩn cấp Ukraine (AP dẫn lại), riêng tòa nhà chung cư trúng tên lửa hành trình ở Pryluky đã có 22 người chết, trong đó 5 trẻ em, và 54 người bị thương; lực lượng cứu hộ vẫn bới tìm trong đống đổ nát.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://apnews.com/article/russia-ukraine-war-drones-missiles-zelenskyy-putin-7f395d215bb67082da29f9c4467ef776"
+        }
+      ]
+    },
+    {
+      "title": "Chiến sự Yemen lan sang Saudi Arabia",
+      "update": "Houthi tấn công sân bay Abha và Riyadh làm 3 người chết, 36 người bị thương; liên quân Saudi đáp trả 82 mục tiêu. LHQ: hơn 200.000 người phải sơ tán.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo"
+        }
+      ]
+    },
+    {
+      "title": "Eo biển Hormuz",
+      "update": "Sau tuyên bố của Ngoại trưởng Rubio (số sáng), Iran nói sẽ đóng các tuyến men bờ Oman mà nước này coi là bất hợp pháp; một tàu dầu trúng nhiều vật thể ngoài khơi Qatar.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/08/tanker-attacked-qatar-coast-strait-of-hormuz-iran-oil-price"
+        }
+      ]
+    },
+    {
+      "title": "Mưa lũ Huế – Đà Nẵng",
+      "update": "Sông Hương tại Kim Long vượt báo động 1 chiều 8/10; Đà Nẵng nhiều nơi ngập sâu. Dự báo mưa lớn còn kéo dài tới 10–11/10, giảm từ 12/10 (số sáng ghi giảm từ 9/10 theo bản tin trước).",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "Tiền Phong (qua Vietnam.vn)",
+          "url": "https://www.vietnam.vn/hue-mua-trang-troi-lu-song-huong-vuot-bao-dong-1"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-08",
+      "time": "18:00",
+      "timezone": "giờ VN",
+      "title": "Công bố giải Nobel Văn học 2026",
+      "topic": "Văn hoá",
+      "note": "13:00 CEST tại Stockholm, “sớm nhất”.",
+      "sources": [
+        {
+          "name": "Nobelprize.org",
+          "url": "https://www.nobelprize.org/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Thủ tướng Lê Minh Hưng bắt đầu thăm chính thức Campuchia (9–10/10)",
+      "topic": "Chính trị",
+      "note": "Sau chặng Lào 8–9/10.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thu-tuong-le-minh-hung-se-tham-lao-va-campuchia-100261006091208174.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "time": "16:00",
+      "timezone": "giờ VN",
+      "title": "Công bố giải Nobel Hòa bình 2026",
+      "topic": "Chính trị",
+      "note": "11:00 CEST tại Oslo.",
+      "sources": [
+        {
+          "name": "Nobelprize.org",
+          "url": "https://www.nobelprize.org/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "time": "5h–22h",
+      "timezone": "giờ VN",
+      "title": "Hà Nội cấm xe tải từ 2 tấn, xe khách từ 16 chỗ qua cầu Thăng Long",
+      "topic": "Đời sống",
+      "note": "Bắt đầu áp dụng từ 9/10.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ha-noi-cam-xe-tai-xe-khach-tu-16-cho-qua-cau-thang-long-5129584.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Huế: mưa lớn có thể kéo dài đến 11/10, giảm dần từ 12/10",
+      "topic": "Đời sống",
+      "note": "Cảnh báo lũ quét, sạt lở ở A Lưới, Nam Đông, Phú Lộc…",
+      "sources": [
+        {
+          "name": "Tiền Phong (qua Vietnam.vn)",
+          "url": "https://www.vietnam.vn/hue-mua-trang-troi-lu-song-huong-vuot-bao-dong-1"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Hội nghị toàn quốc quán triệt Nghị quyết Trung ương 4 khóa XIV",
+      "topic": "Chính trị",
+      "note": "Theo phát biểu bế mạc của Tổng Bí thư, Chủ tịch nước.",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/chinh-tri/toan-van-bai-phat-bieu-be-mac-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-trung-uong-4-khoa-xiv-post1339553.vov"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Trung ương 4 khép lại và chặng đầu chuyến công du láng giềng của Thủ tướng.",
+      "items": [
+        {
+          "headline": "Hội nghị Trung ương 4 khóa XIV bế mạc, thông qua Nghị quyết; hội nghị toàn quốc quán triệt ngày 16/10",
+          "meta": "Chiều 8/10 · Tuổi Trẻ, VnExpress, VOV",
+          "body": [
+            "Sau bốn ngày làm việc, chiều 8/10 Hội nghị lần thứ tư Ban Chấp hành Trung ương Đảng khóa XIV họp phiên bế mạc do Chủ tịch Quốc hội Trần Thanh Mẫn thay mặt Bộ Chính trị điều hành. Trung ương nghe Bộ Chính trị báo cáo tiếp thu, giải trình các ý kiến thảo luận rồi biểu quyết thông qua Nghị quyết Hội nghị; buổi sáng, Thủ tướng Lê Minh Hưng điều hành phần thảo luận tại hội trường.",
+            "Trong bài phát biểu bế mạc, Tổng Bí thư, Chủ tịch nước Tô Lâm cho biết Hội nghị đã thông qua các nghị quyết, quy định, đề án thuộc thẩm quyền, và yêu cầu Văn phòng Trung ương sớm hoàn thiện văn kiện để Bộ Chính trị, Ban Bí thư tổ chức Hội nghị toàn quốc phổ biến, quán triệt Nghị quyết vào ngày 16/10/2026."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/be-mac-hoi-nghi-trung-uong-dang-lan-thu-4-khoa-xiv-100261008133836593.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/be-mac-hoi-nghi-trung-uong-4-khoa-14-5129750.html"
+            },
+            {
+              "name": "VOV (toàn văn phát biểu bế mạc)",
+              "url": "https://vov.vn/chinh-tri/toan-van-bai-phat-bieu-be-mac-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-trung-uong-4-khoa-xiv-post1339553.vov"
+            }
+          ]
+        },
+        {
+          "headline": "Thủ tướng Lê Minh Hưng tới Viêng Chăn, hội đàm với Thủ tướng Lào; hai bên dự kiến ký hơn 10 văn kiện",
+          "meta": "Chiều 8/10 · Nhân Dân, VietNamNet, VietnamPlus",
+          "body": [
+            "Khoảng 12h50 ngày 8/10, chuyên cơ chở Thủ tướng và đoàn đại biểu cấp cao Việt Nam hạ cánh xuống sân bay quốc tế Wattay, mở đầu chuyến thăm chính thức Lào 8–9/10. Thủ tướng Lào Saleumxay Kommasith — vừa được Quốc hội Lào bầu ít ngày trước — chủ trì lễ đón tại Phủ Thủ tướng, sau đó hai bên hội đàm.",
+            "Phó Thủ tướng, Bộ trưởng Ngoại giao Lào Thongsavanh Phomvihane nói với báo chí Việt Nam rằng sau hội đàm, hai bên dự kiến ký hơn 10 văn kiện hợp tác trải từ cấp trung ương tới địa phương. Đây là chuyến thăm chính thức đầu tiên của ông Lê Minh Hưng tới Lào trên cương vị Thủ tướng; từ 9/10 đoàn sang Campuchia."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Nhân Dân",
+              "url": "https://nhandan.vn/thu-tuong-le-minh-hung-toi-thu-do-vieng-chan-bat-dau-chuyen-tham-chinh-thuc-lao-post993629.html"
+            },
+            {
+              "name": "VietNamNet",
+              "url": "https://vietnamnet.vn/thu-tuong-lao-chu-tri-le-don-chinh-thuc-thu-tuong-le-minh-hung-2562871.html"
+            },
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/thu-tuong-le-minh-hung-hoi-dam-voi-thu-tuong-lao-saleumxay-kommasith-post1140775.vnp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Hormuz căng thẳng, chiến sự Yemen lan sang Saudi Arabia, Mỹ bắt tay lại với Myanmar.",
+      "items": [
+        {
+          "headline": "Iran tuyên bố sẽ đóng các tuyến “bất hợp pháp” qua Hormuz; tàu dầu trúng nhiều vật thể bay ngoài khơi Qatar",
+          "meta": "The Guardian, Al-Monitor, Gulf News · 7–8/10",
+          "body": [
+            "Ông Mohammadreza Naqdi, cố vấn của Tư lệnh Vệ binh Cách mạng Iran, nói các tuyến đi men bờ biển Oman — được tạo ra bằng cách phá đá và dùng cho “thuyền nhỏ buôn lậu dầu” — sẽ sớm bị đóng; “eo biển Hormuz đã đóng và lực lượng vũ trang Iran kiểm soát hoàn toàn”. Ngoại trưởng Mỹ Marco Rubio thì nói lượng dầu đi qua nay “gần như bằng trước chiến tranh”.",
+            "Cùng lúc, cơ quan UKMTO của Anh cho biết một tàu chở dầu cách Hormuz khoảng 500 km, ngoài khơi bắc Qatar, bị “nhiều vật thể” bắn trúng, chưa rõ thương vong. Theo Guardian, tuần tính đến 5/10 có ít nhất 12 vụ tấn công tàu dầu, khí quanh eo biển — mức cao nhất kể từ khi chiến tranh nổ ra. Iran và Oman cũng thống nhất tọa độ các “tuyến an toàn”; Brent quanh 100 USD/thùng sáng 8/10."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/08/tanker-attacked-qatar-coast-strait-of-hormuz-iran-oil-price"
+            },
+            {
+              "name": "Al-Monitor",
+              "url": "https://www.al-monitor.com/originals/2026/10/iranian-official-says-illegal-routes-strait-hormuz-soon-be-blocked"
+            },
+            {
+              "name": "Gulf News",
+              "url": "https://gulfnews.com/world/mena/us-iran-war-saudi-led-coalition-strikes-82-houthi-targets-after-airport-attacks-tanker-hit-off-qatar-iran-oman-agree-hormuz-routes-as-brent-stays-above-100-1.500702560"
+            }
+          ]
+        },
+        {
+          "headline": "Houthi tấn công hai sân bay Saudi Arabia, 3 người chết; liên quân đáp trả 82 mục tiêu ở Yemen",
+          "meta": "BBC, Al Jazeera, Gulf News · 8/10",
+          "body": [
+            "Cơ quan hàng không dân dụng Saudi Arabia (GACA) cho biết hai người chết, 28 người bị thương ở sân bay quốc tế Abha và một người chết, 8 người bị thương ở sân bay King Khalid (Riyadh) trong các ngày 6–7/10. Houthi nhận đã dùng tên lửa đạn đạo và drone, gọi đây là đáp trả “60 cuộc không kích trong 24 giờ”.",
+            "Liên quân do Saudi Arabia dẫn đầu nói đã phá hủy 82 mục tiêu quân sự của Houthi ở bốn tỉnh của Yemen. Tổng Thư ký LHQ António Guterres lên án các vụ tấn công xuyên biên giới; LHQ cho biết hơn 200.000 người đã phải sơ tán vì đợt leo thang."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on"
+            },
+            {
+              "name": "Gulf News",
+              "url": "https://gulfnews.com/world/mena/us-iran-war-saudi-led-coalition-strikes-82-houthi-targets-after-airport-attacks-tanker-hit-off-qatar-iran-oman-agree-hormuz-routes-as-brent-stays-above-100-1.500702560"
+            }
+          ]
+        },
+        {
+          "headline": "Mỹ mở đối thoại trực tiếp với chính quyền quân sự Myanmar, đảo ngược chính sách cô lập từ sau 2021",
+          "meta": "Reuters qua The Japan Times · 8/10",
+          "body": [
+            "Theo bảy quan chức đương nhiệm và cựu quan chức, chính quyền Trump đã bắt đầu nói chuyện trực tiếp với chính phủ do quân đội dựng lên ở Myanmar. Trợ lý Ngoại trưởng phụ trách tình báo và nghiên cứu Michael Vance đã dự cuộc gặp Tổng thống Min Aung Hlaing tại Naypyitaw ngày 15–16/9, ban đầu nhằm đòi thả doanh nhân Mỹ Adam Castillo.",
+            "Trọng tâm hiện là đóng cửa các trung tâm lừa đảo nhắm vào người Mỹ, nhưng có thể mở rộng sang hợp tác về mỏ đất hiếm của Myanmar."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "The Japan Times (Reuters)",
+              "url": "https://www.japantimes.co.jp/news/2026/10/08/asia-pacific/politics/us-myanmar-open-talks/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Giá xăng và mưa lũ miền Trung.",
+      "items": [
+        {
+          "headline": "Giá xăng tăng kỳ thứ 5 liên tiếp: E10 RON95 lên 28.254 đồng/lít, diesel giảm",
+          "meta": "Áp dụng từ 15h ngày 8/10 · Tuổi Trẻ, SGGP, Petrolimex",
+          "body": [
+            "Liên bộ Công Thương – Tài chính điều chỉnh giá: xăng E5 RON92 tối đa 27.703 đồng/lít (tăng 1.134 đồng), E10 RON95-III 28.254 đồng/lít (tăng 1.065 đồng); dầu diesel 0.05S giảm 589 đồng còn 29.128 đồng/lít, dầu mazut tăng 701 đồng lên 21.092 đồng/kg.",
+            "Theo Bộ Công Thương, giá xăng thành phẩm thế giới bình quân giữa hai kỳ 1/10 và 8/10 tăng 4,6–4,8%. Từ kỳ 10/9 (24.239 đồng) đến nay, mỗi lít E10 đã đắt thêm 4.015 đồng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/dong-loat-tang-gia-xang-dau-xang-e10ron95-len-28254-dong-lit-100261008142600488.htm"
+            },
+            {
+              "name": "SGGP (qua Báo Mới)",
+              "url": "https://baomoi.com/tu-15-gio-ngay-8-10-xang-e10ron95-iii-gia-28-254-dong-lit-c56224304.epi"
+            },
+            {
+              "name": "Petrolimex",
+              "url": "https://www.petrolimex.com.vn/ndi/thong-cao-bao-chi/petrolimex-dieu-chinh-gia-xang-dau-tu-15-gio-00-phut-ngay-08-10-2026.html"
+            }
+          ]
+        },
+        {
+          "headline": "Huế: sông Hương vượt báo động 1; Đà Nẵng nhiều nơi ngập sâu, mưa lớn còn kéo dài đến 11/10",
+          "meta": "Chiều 8/10 · Tiền Phong, VTC News, Đài KTTV Trung Bộ",
+          "body": [
+            "Mực nước sông Hương tại trạm Kim Long đạt +1,05 m, vượt báo động 1 khoảng 0,05 m. Dự báo từ 8 đến 10/10, phía nam TP. Huế mưa phổ biến 150–300 mm, có nơi trên 400 mm; mưa lớn còn duy trì đến 10–11/10 và giảm dần từ 12/10. Nguy cơ lũ quét, sạt lở cao ở A Lưới, Phong Điền, Nam Đông, Phú Lộc, Chân Mây – Lăng Cô.",
+            "Ở Đà Nẵng, nước dâng nhanh từ khoảng 11h khiến nhiều thôn ở xã Núi Thành bị ngập; xã Trà Linh có nhiều điểm sạt lở. Đài KTTV Trung Bộ cảnh báo một đợt lũ trên các sông của Đà Nẵng đến 9/10, đỉnh lũ quanh báo động 1, rủi ro thiên tai cấp 1."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tiền Phong (qua Vietnam.vn)",
+              "url": "https://www.vietnam.vn/hue-mua-trang-troi-lu-song-huong-vuot-bao-dong-1"
+            },
+            {
+              "name": "VTC News",
+              "url": "https://vtcnews.vn/da-nang-mua-trang-troi-nhieu-noi-ngap-sau-giao-thong-chia-cat-ar1044066.html"
+            },
+            {
+              "name": "Đài KTTV Trung Bộ – tin cảnh báo lũ",
+              "url": "https://pctt.danang.gov.vn/Portals/0/DNAN_LULU_20261008_0900.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Y tế và du lịch.",
+      "items": [
+        {
+          "headline": "Kenya có ca Ebola đầu tiên: bệnh nhân đi qua ba nước mà không bị phát hiện, 57 người đang được truy vết",
+          "meta": "AP qua NBC News · 8/10",
+          "body": [
+            "Bệnh nhân là một người Kenya sống ở CHDC Congo bảy năm, phát bệnh từ một tháng trước, đi đường bộ sang Uganda rồi bay tới Nairobi hôm 3/10; ông dương tính với Ebola tại bệnh viện và tử vong ngày 5/10. Bộ trưởng Y tế Aden Duale nói số người tiếp xúc đã lên 57, trong đó 10 người bị cách ly — kể cả nhân viên dọn máy bay.",
+            "Kenya đã dành năm cơ sở y tế với tổng cộng 241 giường cách ly, mở đường dây nóng và một cổng riêng ở sân bay chính cho khách tới từ 10 nước thuộc vùng dịch. Ổ dịch bùng phát ở Congo từ tháng 5."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "NBC News (AP)",
+              "url": "https://www.nbcnews.com/health/health-news/know-kenyas-first-ebola-case-officials-are-responding-rcna602238"
+            }
+          ]
+        },
+        {
+          "headline": "Bình chọn của độc giả Condé Nast Traveler: Nhật Bản đứng đầu năm thứ tư, Seoul vượt Tokyo, Phnom Penh hạng ba",
+          "meta": "The Japan Times, The Asia Business Daily · 8/10",
+          "body": [
+            "Ở hạng mục “Quốc gia tốt nhất thế giới” của ấn bản Mỹ, Nhật Bản giữ ngôi đầu năm thứ tư liên tiếp, tiếp theo là Ý, Ireland, Campuchia và Tây Ban Nha. Giải năm nay, lần thứ 39, có 798.867 phiếu bầu; Changi (Singapore) là sân bay tốt nhất, Haneda xếp thứ sáu.",
+            "Ở hạng mục “Thành phố lớn tốt nhất”, Seoul lần đầu đứng đầu, đẩy Tokyo — quán quân 2024 và 2025 — xuống thứ hai; Phnom Penh thứ ba, Thượng Hải thứ tư, Sydney thứ năm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/10/08/japan/society/japan-best-country/"
+            },
+            {
+              "name": "The Asia Business Daily",
+              "url": "https://www.asiae.co.kr/en/article/2026100814094276868"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Chuyện lạ trong ngày và vài sự thật về ngày 8 tháng 10.",
+      "items": [
+        {
+          "headline": "Con lười treo ngược ở ghế sau minivan chạy trên đường cao tốc ngoại ô Chicago",
+          "meta": "NBC Chicago · 7/10",
+          "body": [
+            "Chị Angellena Kalantzis trên đường đi tập gym ở Batavia (Illinois) chạy song song với một chiếc minivan trắng suốt khoảng 10 phút “để xem nó có thật không”: một con lười treo ngược ở hàng ghế sau, đung đưa theo xe. Video trên TikTok nhanh chóng lan truyền; chủ nhân con lười và nơi nó được chở tới vẫn chưa rõ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "NBC Chicago",
+              "url": "https://www.nbcchicago.com/news/local/see-it-sloth-hangs-upside-down-in-backseat-of-minivan-on-suburban-highway/3999420/"
+            }
+          ]
+        },
+        {
+          "headline": "Hai chú voi 78 tuổi đi bộ 15 km tiễn bà chủ trong đám tang ở Ấn Độ",
+          "meta": "NewsX · 8/10",
+          "body": [
+            "Bà Ram Beti Devi, 74 tuổi, ở làng Byora (huyện Sambhal, bang Uttar Pradesh) qua đời ngày 7/10. Các con trai quyết định để hai chú voi Parma và Mohan — “như thành viên gia đình”, mà bà chăm sóc từ khi chồng mất năm 2012 — dẫn đầu đoàn đưa tang 15 km tới bến Rajghat bên sông Hằng. Khoảng 1.500 người từ 12 làng đi theo, khiến thị trấn Babrala tắc đường chừng 25 phút. Gia đình nói đã nuôi voi hơn 200 năm qua nhiều thế hệ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "NewsX",
+              "url": "https://www.newsx.com/offbeat/watch-video-2-pet-elephants-join-womans-funeral-procession-walk-15-km-to-rajghat-in-sambhal-1500-people-from-12-villages-attend-why-were-they-so-attached-280916/"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 8/10/1871, Đại hỏa hoạn Chicago bùng lên từ một kho thóc",
+          "meta": "HISTORY.com",
+          "body": [
+            "Ngọn lửa bắt đầu trong kho của gia đình Patrick và Catherine O’Leary, cháy suốt hai ngày, làm 200–300 người chết, thiêu rụi 17.450 tòa nhà, khiến 100.000 người mất nhà. Truyền thuyết đổ cho con bò đá đổ đèn dầu; năm 1997, Hội đồng thành phố Chicago chính thức minh oan cho bà O’Leary và con bò.",
+            "Điều bất ngờ: chỉ chín năm sau, dân số Chicago tăng từ khoảng 324.000 lên 500.000, và công cuộc tái thiết đã đặt nền cho những tòa nhà chọc trời đầu tiên của thế giới."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "HISTORY.com – Great Chicago Fire begins",
+              "url": "https://www.history.com/this-day-in-history/october-8/great-chicago-fire-begins"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 8/10/1918, hạ sĩ Alvin York bắt sống 132 lính Đức trong rừng Argonne",
+          "meta": "HISTORY.com",
+          "body": [
+            "Dẫn đầu một toán nhỏ trong rừng Argonne gần sông Meuse (Pháp), hạ sĩ Mỹ Alvin C. York được ghi nhận đã hạ hơn 20 lính Đức và bắt sống thêm 132 người; chiến công này giúp ông nhận Huân chương Danh dự."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "HISTORY.com – This day in history, 8/10",
+              "url": "https://www.history.com/this-day-in-history/october-8/great-chicago-fire-begins"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h45 ngày 8/10/2026 (giờ VN). Không lặp tin của số sáng, trừ các cập nhật thực sự trong ngày (Trung ương 4 bế mạc, chuyến thăm Lào, Hormuz, mưa lũ miền Trung). Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
