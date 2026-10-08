@@ -59,6 +59,9 @@ jobs:
           python3 -m playwright install chromium
           python3 scripts/smoke_test.py
 
+      - name: Cache-bust css/js in HTML for Pages
+        run: python3 scripts/cache_bust_assets.py "${{ github.sha }}"
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .

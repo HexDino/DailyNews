@@ -74,9 +74,25 @@
       ? "/DailyNews/"
       : "/");
 
+  function assetVersion() {
+    return document.documentElement.dataset.assetVersion || "";
+  }
+
   function asset(path) {
     const p = path.replace(/^\//, "");
-    return basePath + p;
+    let url = basePath + p;
+    const v = assetVersion();
+    if (
+      v &&
+      (p === "issues/index.json" || p === "issues/search-index.json")
+    ) {
+      url += (url.includes("?") ? "&" : "?") + "v=" + encodeURIComponent(v);
+    }
+    return url;
+  }
+
+  function fetchJson(url) {
+    return fetch(url, { cache: "no-cache" });
   }
 
   function vnDate(iso) {
@@ -405,7 +421,7 @@
   }
 
   async function loadSearchIndex() {
-    const res = await fetch(asset("issues/search-index.json"));
+    const res = await fetchJson(asset("issues/search-index.json"));
     if (!res.ok) throw new Error("Không tải được chỉ mục tìm kiếm");
     const data = await res.json();
     const prev = localStorage.getItem(SEARCH_INDEX_KEY);
@@ -865,14 +881,21 @@
     </details>`;
   }
 
-  function renderCalendarEventList(events) {
+  function isEventOnIssueDay(evDate, issueId) {
+    return evDate === calendarDateFromIssueId(issueId);
+  }
+
+  function renderCalendarEventList(events, issueId) {
     let lastDate = "";
     return events
       .map((ev) => {
         let head = "";
         if (ev.date !== lastDate) {
           lastDate = ev.date;
-          head = `<h3 class="calendar-date" id="calendar-${escapeHtml(ev.date)}">${escapeHtml(ev.date)}</h3>`;
+          const today = isEventOnIssueDay(ev.date, issueId)
+            ? ` <span class="calendar-today-tag">Hôm nay</span>`
+            : "";
+          head = `<h3 class="calendar-date" id="calendar-${escapeHtml(ev.date)}">${escapeHtml(ev.date)}${today}</h3>`;
         }
         const tz = ev.timezone || "giờ VN";
         const time = ev.time
@@ -892,30 +915,37 @@
       .join("");
   }
 
-  function renderCalendarStrip(events) {
+  function renderCalendarStrip(events, issueId) {
     if (!events.length) return "";
-    const preview = events
-      .slice(0, 3)
-      .map(
-        (ev) =>
-          `<span class="calendar-strip-event">${escapeHtml(formatShortDate(ev.date))} ${escapeHtml(truncateText(ev.title, 42))}</span>`
-      )
-      .join('<span class="calendar-strip-sep" aria-hidden="true"> · </span>');
-    return `<div class="calendar-strip-wrap" id="lich-su-kien">
-      <button type="button" class="calendar-strip-toggle" aria-expanded="false" aria-controls="calendar-panel-full">
-        <span class="calendar-strip-label">Sắp diễn ra:</span>
-        <span class="calendar-strip-preview">${preview}</span>
-        <span class="calendar-strip-more">Xem tất cả (${events.length})</span>
+    const next = events[0];
+    const count = events.length;
+    const countLabel = count === 1 ? "1 sự kiện" : `${count} sự kiện`;
+    const todayTag = isEventOnIssueDay(next.date, issueId)
+      ? `<span class="calendar-teaser-today">Hôm nay</span>`
+      : "";
+    const calIcon = `<svg class="calendar-teaser-icon" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="5.5" width="16" height="14" rx="1.25" fill="none" stroke="currentColor" stroke-width="1.75"/><path d="M4 9.5h16M8 3.5v4M16 3.5v4" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>`;
+    return `<div class="calendar-strip-wrap calendar-teaser" id="lich-su-kien">
+      <button type="button" class="calendar-strip-toggle calendar-teaser-bar" aria-expanded="false" aria-controls="calendar-panel-full">
+        <span class="calendar-teaser-accent" aria-hidden="true"></span>
+        ${calIcon}
+        <span class="calendar-teaser-label">Sắp diễn ra</span>
+        <span class="calendar-teaser-badge">${escapeHtml(countLabel)}</span>
+        <span class="calendar-teaser-event">
+          <span class="calendar-date-chip">${escapeHtml(formatShortDate(next.date))}</span>
+          ${todayTag}
+          <span class="calendar-teaser-title">${escapeHtml(truncateText(next.title, 64))}</span>
+        </span>
+        <span class="calendar-teaser-action">Xem lịch <span class="calendar-teaser-caret" aria-hidden="true">▾</span></span>
       </button>
       <div class="calendar-panel" id="calendar-panel-full" hidden>
         <div class="calendar-panel-head">
           <h2 id="calendar-dialog-title">Lịch sự kiện</h2>
           <button type="button" class="calendar-panel-close icon-btn" aria-label="Đóng lịch">
-            <svg class="toolbar-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m7 7 10 10M17 7 7 17" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>
+            <svg class="toolbar-icon" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m7 7 10 10M17 7 7 17" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>
           </button>
         </div>
         <p class="calendar-hint">Trong 14 ngày tới (tính từ ngày số báo)</p>
-        <div class="calendar-panel-body">${renderCalendarEventList(events)}</div>
+        <div class="calendar-panel-body">${renderCalendarEventList(events, issueId)}</div>
       </div>
     </div>`;
   }
@@ -1212,7 +1242,7 @@
     const followupsHtml = followups.length ? renderFollowups(followups) : "";
     const calendarStripHtml =
       showExtras && calendarEvents.length
-        ? renderCalendarStrip(calendarEvents)
+        ? renderCalendarStrip(calendarEvents, issueId)
         : "";
 
     const highlights = showHighlights
@@ -1227,8 +1257,8 @@
         <div class="date-line">${escapeHtml(data.date_vn || vnDate(dateIso))}</div>
         ${data.tagline ? `<div class="tagline">${escapeHtml(data.tagline)}</div>` : ""}
       </header>
-      ${highlights}
       ${calendarStripHtml}
+      ${highlights}
       ${toc}
       ${followupsHtml}
       ${empty}
@@ -1255,7 +1285,7 @@
   }
 
   async function loadIndex() {
-    const res = await fetch(asset("issues/index.json"));
+    const res = await fetchJson(asset("issues/index.json"));
     if (!res.ok) throw new Error("Không tải được danh sách số báo");
     return res.json();
   }
