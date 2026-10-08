@@ -55,6 +55,25 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
     if not page.locator(".calendar-strip-wrap").count():
         return errors
 
+    panel_expr = _panel_js()
+    page.evaluate(
+        f"""() => {{
+      try {{ localStorage.setItem('dailynews-calendar-open', '0'); }} catch {{}}
+      const panel = {panel_expr};
+      const toggle = document.querySelector('.calendar-strip-toggle');
+      const host = document.querySelector('#lich-su-kien');
+      if (panel && host && panel.parentElement === document.body) {{
+        host.appendChild(panel);
+      }}
+      if (panel) panel.hidden = true;
+      panel?.classList.remove('calendar-panel--open');
+      toggle?.setAttribute('aria-expanded', 'false');
+      document.body.classList.remove('calendar-sheet-open');
+      const bd = document.querySelector('.calendar-backdrop');
+      if (bd) bd.hidden = true;
+    }}"""
+    )
+
     def assert_state(want_open: bool, ctx: str) -> None:
         st = _calendar_state(page)
         if st["panelCount"] > 1:
@@ -87,7 +106,6 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
             if st["bodyLocked"]:
                 errors.append(f"{label} {width}px {theme} {ctx}: desktop body locked")
 
-    panel_expr = _panel_js()
     wait_open = f"() => {{ const p = {panel_expr}; return p && !p.hidden; }}"
     wait_closed = f"() => {{ const p = {panel_expr}; return p && p.hidden; }}"
 
