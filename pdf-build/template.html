@@ -43,6 +43,8 @@ a { color: #000; text-decoration: none; }
 .section { margin-top: 2mm; }
 .section h2 { font-size: 17pt; font-weight: 700; margin: 6mm 0 1mm 0; padding: 1mm 0; border-top: 2pt solid #000;
               border-bottom: 0.6pt solid #000; text-transform: uppercase; letter-spacing: 1pt; page-break-after: avoid; }
+.section.subsection { margin-top: 0; }
+.section .subhead { font-size: 12.5pt; font-weight: 700; margin: 4mm 0 1mm 0; padding-bottom: 0.6mm; border-bottom: 0.6pt solid #000; letter-spacing: 0.02em; }
 .section .intro { font-style: italic; font-size: 10.5pt; margin: 1.5mm 0 2mm 0; }
 .section.newpage { page-break-before: always; }
 .section.newpage h2 { margin-top: 0; }
@@ -79,8 +81,14 @@ a { color: #000; text-decoration: none; }
 {% endif %}
 
 {% for s in sections %}
-<section id="sec{{ loop.index }}" class="section{% if s.newpage or (cover and loop.first) %} newpage{% endif %}">
-  <h2>{{ s.title }}</h2>
+{% set prev_topic = loop.previtem.topic if not loop.first else None %}
+<section id="sec{{ loop.index }}" class="section{% if s.newpage or (cover and loop.first) %} newpage{% endif %}{% if s.topic and s.topic == prev_topic %} subsection{% endif %}">
+  {% if s.topic and s.subtitle %}
+    {% if s.topic != prev_topic %}<h2>{{ s.topic }}</h2>{% endif %}
+    <h4 class="subhead">{{ s.subtitle }}</h4>
+  {% else %}
+  <h2>{{ s.topic or s.title }}</h2>
+  {% endif %}
   {% if s.intro %}<div class="intro">{{ s.intro }}</div>{% endif %}
   {% for it in s['items'] %}
   <article class="item">

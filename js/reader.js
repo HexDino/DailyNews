@@ -15,12 +15,14 @@
 
   const TAGS = [
     { id: "all", label: "Tất cả" },
-    { id: "ai", label: "AI / Trí tuệ nhân tạo" },
-    { id: "github", label: "GitHub / Kho GitHub" },
+    { id: "tech", label: "Công nghệ" },
+    { id: "construction", label: "Xây dựng" },
     { id: "football", label: "Bóng đá" },
     { id: "politics", label: "Chính trị" },
     { id: "culture", label: "Văn hoá" },
     { id: "lifestyle", label: "Đời sống" },
+    { id: "ai", label: "AI / Trí tuệ nhân tạo" },
+    { id: "github", label: "GitHub / Kho GitHub" },
   ];
 
   const SECTION_TAG = {
@@ -33,6 +35,8 @@
   };
 
   const EMPTY_TAG_COPY = {
+    construction:
+      "Số báo này chưa có mục Xây dựng. Các số sau có thể bổ sung tin với trường tags trong JSON.",
     culture:
       "Số báo này chưa có mục Văn hoá. Các số sau có thể bổ sung tin với trường tags trong JSON.",
     lifestyle:
@@ -138,10 +142,26 @@
     return t ? [t] : [];
   }
 
+  function tagInList(list, tag) {
+    if (!list || !list.length) return false;
+    if (tag === "tech") {
+      return list.some(
+        (t) => t === "tech" || t === "ai" || t === "github"
+      );
+    }
+    return list.includes(tag);
+  }
+
   function sectionMatches(section, tag) {
     if (tag === "all") return true;
-    if (section.tags && section.tags.includes(tag)) return true;
-    return SECTION_TAG[section.title] === tag;
+    if (tagInList(section.tags, tag)) return true;
+    const legacy = SECTION_TAG[section.title];
+    if (tag === "tech") return legacy === "ai" || legacy === "github";
+    return legacy === tag;
+  }
+
+  function itemMatchesTag(item, section, tag) {
+    return tagInList(itemTags(item, section), tag);
   }
 
   function filterSections(data, tag) {
@@ -150,13 +170,13 @@
       .map((sec) => {
         if (!sectionMatches(sec, tag)) {
           const items = (sec.items || []).filter((it) =>
-            itemTags(it, sec).includes(tag)
+            itemMatchesTag(it, sec, tag)
           );
           if (!items.length) return null;
           return { ...sec, items };
         }
         const items = (sec.items || []).filter((it) =>
-          itemTags(it, sec).includes(tag)
+          itemMatchesTag(it, sec, tag)
         );
         return { ...sec, items };
       })
@@ -188,6 +208,91 @@
     return `<div class="sources"><strong>Nguồn:</strong> ${parts.join("; ")}</div>`;
   }
 
+  function renderArticles(sec) {
+    return (sec.items || [])
+      .map(
+        (it) => `<article class="article">
+          <h3>${escapeHtml(it.headline)}</h3>
+          ${it.meta ? `<div class="meta">${escapeHtml(it.meta)}</div>` : ""}
+          ${bodyHtml(it.body)}
+          ${sourcesHtml(it.sources)}
+        </article>`
+      )
+      .join("");
+  }
+
+  function tocEntries(sections) {
+    const rows = [];
+    let i = 0;
+    while (i < sections.length) {
+      const sec = sections[i];
+      if (sec.topic) {
+        const topic = sec.topic;
+        const parts = [];
+        while (i < sections.length && sections[i].topic === topic) {
+          const s = sections[i];
+          const n = (s.items || []).length;
+          if (s.subtitle) parts.push(`${escapeHtml(s.subtitle)} ${n}`);
+          else parts.push(`${n} tin`);
+          i += 1;
+        }
+        rows.push(
+          `<li><span><strong>${escapeHtml(topic)}</strong> — ${parts.join(" · ")}</span></li>`
+        );
+      } else {
+        rows.push(
+          `<li><span><strong>${escapeHtml(sec.title)}</strong> — ${(sec.items || []).length} tin</span></li>`
+        );
+        i += 1;
+      }
+    }
+    return rows.join("");
+  }
+
+  function renderSubsectionBlock(sec) {
+    const subhead = sec.subtitle
+      ? `<h3 class="subsection-title">${escapeHtml(sec.subtitle)}</h3>`
+      : "";
+    const intro = sec.intro
+      ? `<div class="intro">${escapeHtml(sec.intro)}</div>`
+      : "";
+    return `<div class="subsection-block">${subhead}${intro}<div class="articles-columns">${renderArticles(sec)}</div></div>`;
+  }
+
+  function renderSectionBlocks(sections) {
+    const blocks = [];
+    let i = 0;
+    while (i < sections.length) {
+      const sec = sections[i];
+      if (sec.topic) {
+        const topic = sec.topic;
+        const subs = [];
+        while (i < sections.length && sections[i].topic === topic) {
+          subs.push(sections[i]);
+          i += 1;
+        }
+        const id = `topic-${topic.replace(/\s+/g, "-")}`;
+        blocks.push(
+          `<section class="section-block topic-group" id="${escapeHtml(id)}">
+        <h2>${escapeHtml(topic)}</h2>
+        ${subs.map(renderSubsectionBlock).join("")}
+      </section>`
+        );
+      } else {
+        const id = sec.title.replace(/\s+/g, "-");
+        blocks.push(
+          `<section class="section-block" id="sec-${escapeHtml(id)}">
+        <h2>${escapeHtml(sec.title)}</h2>
+        ${sec.intro ? `<div class="intro">${escapeHtml(sec.intro)}</div>` : ""}
+        <div class="articles-columns">${renderArticles(sec)}</div>
+      </section>`
+        );
+        i += 1;
+      }
+    }
+    return blocks.join("");
+  }
+
   function renderIssue(data, tag) {
     const sections = filterSections(data, tag);
     const dateIso = data.date;
@@ -195,12 +300,7 @@
 
     let toc = "";
     if (tag === "all" && sections.length) {
-      toc = `<div class="toc-block"><h2>Trong số này</h2><ul>${sections
-        .map(
-          (s) =>
-            `<li><span><strong>${escapeHtml(s.title)}</strong> — ${s.items.length} tin</span></li>`
-        )
-        .join("")}</ul></div>`;
+      toc = `<div class="toc-block"><h2>Trong số này</h2><ul>${tocEntries(sections)}</ul></div>`;
     }
 
     let empty = "";
@@ -211,25 +311,7 @@
       )}</div>`;
     }
 
-    const sectionHtml = sections
-      .map((sec) => {
-        const articles = (sec.items || [])
-          .map(
-            (it) => `<article class="article">
-          <h3>${escapeHtml(it.headline)}</h3>
-          ${it.meta ? `<div class="meta">${escapeHtml(it.meta)}</div>` : ""}
-          ${bodyHtml(it.body)}
-          ${sourcesHtml(it.sources)}
-        </article>`
-          )
-          .join("");
-        return `<section class="section-block" id="sec-${escapeHtml(sec.title.replace(/\s+/g, "-"))}">
-        <h2>${escapeHtml(sec.title)}</h2>
-        ${sec.intro ? `<div class="intro">${escapeHtml(sec.intro)}</div>` : ""}
-        <div class="articles-columns">${articles}</div>
-      </section>`;
-      })
-      .join("");
+    const sectionHtml = renderSectionBlocks(sections);
 
     const highlights = showHighlights
       ? `<div class="highlights"><h2>Điểm nhanh</h2><ol>${(data.highlights || [])

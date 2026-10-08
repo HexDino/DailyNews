@@ -277,6 +277,21 @@ button.fav-on {
   color: var(--accent);
 }
 
+.section-block .subsection-title {
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: none;
+  border: none;
+  padding: 0;
+  margin: 1.25rem 0 0.5rem;
+}
+
+.topic-group > .subsection-block:first-child .subsection-title {
+  margin-top: 0;
+}
+
 @media (min-width: 960px) {
   .articles-columns {
     column-count: 2;

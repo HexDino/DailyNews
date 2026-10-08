@@ -1,0 +1,758 @@
+{
+  "date": "2026-10-08",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 8/10/2026 · Tin tổng hợp trong khoảng 24 giờ qua · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Messi khép lại sự nghiệp tuyển: một bàn, hai kiến tạo, Argentina thắng Benin 3-0",
+    "Anthropic ra Claude Haiku 5.5, rẻ hơn khoảng 75% so với Haiku 4.5, và giảm nửa giá cache Sonnet 5.5",
+    "Microsoft, Nvidia ra Surface chạy RTX Spark; Windows 11 có vùng cách ly cho agent AI",
+    "Ukraine: 25 người chết sau đợt 70 tên lửa; Rubio nói Iran mất kiểm soát Hormuz",
+    "Xây dựng: openBIM Awards công bố hôm nay ở Tokyo; Autodesk đổi lãnh đạo mảng AEC"
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "Anthropic hoàn tất bộ ba mô hình 5.5; Codex tiếp tục chuỗi 28 ngày; Google ra công cụ làm game và mở rộng kiểm tra nội dung AI.",
+      "items": [
+        {
+          "headline": "Anthropic ra Claude Haiku 5.5: rẻ hơn khoảng 75% so với Haiku 4.5, đồng thời giảm nửa giá cache của Sonnet 5.5",
+          "meta": "Anthropic · 7/10 (giờ Mỹ) · mẫu thứ ba của dòng 5.5 trong vòng một tháng",
+          "body": [
+            "Anthropic gọi Haiku 5.5 là mô hình nhỏ rẻ nhất, nhanh nhất và mạnh nhất hãng từng phát hành, nhắm tới việc khối lượng lớn, nhạy về chi phí: tóm tắt, nén ngữ cảnh, truy vấn cơ sở dữ liệu, phân loại, làm subagent cho Opus 5.5 và Sonnet 5.5 trong việc lập trình, hỗ trợ khách hàng trực tiếp và điều khiển trình duyệt. Mô hình có trên Claude Platform (mã claude-haiku-5-5), AWS Bedrock, Google Cloud và Microsoft Azure.",
+            "Cùng lúc, giá đọc cache của Sonnet 5.5 giảm một nửa, từ 0,20 xuống 0,10 USD mỗi triệu token; theo Anthropic, điều này làm phần lớn tác vụ agent trên Sonnet 5.5 rẻ đi khoảng 20%. Trong tuần này, thuê bao Max 5x nhận 100 USD tín dụng API mỗi tháng, Max 20x nhận 200 USD, gói Team tối đa 500 USD (dùng chung trong nhóm), áp dụng cho mọi mô hình."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "url": "https://www.anthropic.com/claude-haiku-5-5"
+            },
+            {
+              "name": "SiliconANGLE",
+              "url": "https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/"
+            },
+            {
+              "name": "AWS Machine Learning Blog",
+              "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/"
+            }
+          ]
+        },
+        {
+          "headline": "Codex: tung bốn cải tiến rồi vẫn reset hạn mức sau khi cộng đồng bình chọn; CLI 0.161.0 đặt GPT-6.1 Sol làm mặc định",
+          "meta": "OpenAI · AI Industry Today, GitHub · 7/10 · tiếp nối chuỗi “28 ngày” đã đưa ở các số trước",
+          "body": [
+            "Trong chuỗi 28 ngày “mỗi ngày một cải tiến hoặc một lần reset”, OpenAI đã ra bốn thay đổi: Auto-review không tính vào hạn mức, bậc sử dụng API đơn giản hơn, plugin Meetings ghi chú cuộc họp và Decisions API bản beta công khai. Thibault Sottiaux sau đó mở bình chọn giữa cải tiến và reset; ảnh chụp cuộc bình chọn cho thấy khoảng 74% chọn reset. OpenAI reset hạn mức Codex và ChatGPT Work cho người dùng đủ điều kiện mà không rút lại các cải tiến; reset không áp dụng cho tín dụng tính phí API.",
+            "Ở phía mã nguồn, bản Codex CLI rust-v0.161.0 (phát hành 7/10) đặt GPT-6.1 Sol làm mô hình mặc định trong danh mục đi kèm và danh mục Amazon Bedrock; Bedrock cũng hỗ trợ multi-agent V2 và mức suy luận Ultra trên các mô hình tương thích."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "AI Industry Today",
+              "url": "https://aiindustrytoday.com/news/openai-ships-four-day-2-updates-then-resets-codex-and-work-usage-anyway/"
+            },
+            {
+              "name": "GitHub openai/codex",
+              "url": "https://github.com/openai/codex/releases/tag/rust-v0.161.0"
+            }
+          ]
+        },
+        {
+          "headline": "Google: Playground tạo game bằng câu lệnh, SynthID Detector mở cho mọi người, Gemini trong Chrome tới Android ở Ấn Độ",
+          "meta": "Google · The Verge · 7/10",
+          "body": [
+            "Playground là nền tảng thử nghiệm trên trình duyệt để tạo, chơi và chia sẻ game chỉ bằng mô tả văn bản, chạy trên Gemini, Nano Banana và Lyria. Bản đầu mở cho người dùng Mỹ từ 18 tuổi tại playground.google; dùng miễn phí, thuê bao Google One có hạn mức token mỗi tuần cao hơn. Google cho biết sắp có Unity Spark cho người làm game muốn cơ chế phức tạp và đồ hoạ 3D.",
+            "SynthID Detector, công cụ kiểm tra ảnh, video, âm thanh có phải do AI của Google hoặc đối tác (OpenAI, NVIDIA, Kakao, sắp tới là Apple) tạo ra hay không, nay mở toàn cầu bằng tiếng Anh. Google nói đã gắn watermark cho hơn 180 tỷ ảnh và video. Ở Ấn Độ, Gemini trong Chrome có mặt trên Android, còn tính năng auto browse mở cho thuê bao AI Pro và AI Ultra trên máy tính và Android."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Google Blog (Playground)",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai"
+            },
+            {
+              "name": "Google DeepMind (SynthID)",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/"
+            },
+            {
+              "name": "Google India Blog",
+              "url": "https://blog.google/intl/en-in/products/bringing-gemini-in-chrome-with-auto-browse-to-india/"
+            }
+          ]
+        },
+        {
+          "headline": "Agent AI: báo cáo của Partnership on AI chỉ ra sáu lỗ hổng giám sát; Bitdefender ra lá chắn miễn phí cho Claude Code",
+          "meta": "CSMonitor, Bitdefender · 7/10",
+          "body": [
+            "Partnership on AI thử bốn hệ thống agent đang bán công khai và tìm ra sáu mảng giám sát chưa đầy đủ: agent chỉ được nhận diện bằng tên hoặc số, không ghi lại lúc con người can thiệp, không ghi việc đổi chế độ quyền hay thay đổi bộ nhớ của agent, và chuỗi suy luận khó nhìn thấu. Báo cáo cảnh báo ngân hàng, bảo hiểm và các tập đoàn lớn có thể chịu thiệt hại tài chính nếu không theo dõi đủ dữ liệu về hành động của agent.",
+            "Cùng ngày, Bitdefender phát hành AI Guardian, bản beta mở miễn phí trên macOS: đặt giới hạn file, công cụ và dữ liệu agent được chạm tới, theo dõi hành động theo thời gian thực, nhắm vào prompt injection, công cụ MCP độc hại, skill chưa kiểm duyệt và lộ API key. Bản beta hỗ trợ Claude Code 2.1.121 trở lên và OpenClaw 2026.6.6 trở lên."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "CSMonitor",
+              "url": "https://www.csmonitor.com/Business/2026/1007/ai-agents-security-gaps-report"
+            },
+            {
+              "name": "Bitdefender",
+              "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/bitdefender-ai-guardian-free-security-for-ai-agents"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "Chọn từ GitHub Trending sáng 8/10 (giờ VN); bỏ các repo đã đưa ở số trước như rea, e2e, i-have-adhd, diagram-design, claude-mem, openrig.",
+      "items": [
+        {
+          "headline": "cloudflare/security-audit-skill: skill kiểm toán bảo mật nhiều bước cho coding agent",
+          "meta": "GitHub Trending (ngày) · khoảng 26.000 sao, +576 trong ngày · JavaScript, MIT",
+          "body": [
+            "Repo của Cloudflare đóng gói một quy trình audit bảo mật nhiều giai đoạn để coding agent chạy trên mã nguồn; mỗi phát hiện được kiểm chứng độc lập và xuất ra dạng máy đọc được, giúp đưa thẳng vào CI hoặc hệ thống theo dõi lỗi thay vì chỉ là đoạn văn bản."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/cloudflare/security-audit-skill"
+            }
+          ]
+        },
+        {
+          "headline": "addyosmani/agent-skills: bộ skill kỹ thuật “chuẩn production” cho agent lập trình",
+          "meta": "GitHub Trending (ngày) · hơn 102.000 sao, +677 trong ngày · MIT",
+          "body": [
+            "Bộ sưu tập skill của Addy Osmani dành cho các coding agent, gom các quy trình kỹ thuật thường dùng thành skill tái sử dụng. Đây là một trong những repo skill lớn nhất hiện nay và vẫn đang lên trending."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/addyosmani/agent-skills"
+            }
+          ]
+        },
+        {
+          "headline": "trycua/cua: hạ tầng mã nguồn mở cho agent điều khiển máy tính",
+          "meta": "GitHub Trending (ngày) · khoảng 28.700 sao, +228 trong ngày · Rust, MIT",
+          "body": [
+            "Cua cung cấp driver mã nguồn mở, cụm máy ảo nhiều hệ điều hành và bộ benchmark để huấn luyện, đánh giá và sinh dữ liệu cho agent “computer-use”, tức agent tự nhìn màn hình, bấm và gõ như người."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/trycua/cua"
+            }
+          ]
+        },
+        {
+          "headline": "manaflow-ai/cmux: terminal macOS dựa trên Ghostty, làm riêng cho người chạy nhiều coding agent",
+          "meta": "GitHub Trending (ngày) · khoảng 27.800 sao · Swift",
+          "body": [
+            "cmux có tab dọc, thông báo khi agent cần người và khả năng lập trình để sắp xếp nhiều phiên coding agent chạy song song trong cùng một cửa sổ."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/manaflow-ai/cmux"
+            }
+          ]
+        },
+        {
+          "headline": "cursor/plugins: đặc tả plugin và các plugin chính thức của Cursor",
+          "meta": "GitHub Trending (tuần) · khoảng 10.250 sao, +1.109 trong tuần · TypeScript",
+          "body": [
+            "Repo công bố đặc tả định dạng plugin của Cursor kèm các plugin chính thức, là điểm bắt đầu cho ai muốn đóng gói skill, công cụ hoặc connector cho trình soạn mã này."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/cursor/plugins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Microsoft và Nvidia ra Surface chạy chip RTX Spark; Windows 11 có “Execution Containers” để cô lập agent AI",
+          "meta": "TechCrunch, NVIDIA Blog · sự kiện tại San Francisco, 7/10 (giờ Mỹ)",
+          "body": [
+            "Surface Laptop Ultra có hai cấu hình gốc, giá từ 2.600 USD và 3.700 USD, bản cao nhất 5.900 USD (Microsoft nói đã hết hàng). Máy trạm Surface RTX Spark Dev Box giá từ 6.000 USD, cài sẵn VS Code, GitHub Copilot CLI, WSL và PowerShell 7. Cả hai nhắm vào chạy mô hình AI ngay trên máy; Microsoft giảm tới 1.000 USD cho người đổi MacBook Pro.",
+            "Windows 11 bản mới có Execution Containers để chạy agent trong vùng cách ly; Satya Nadella nói tính năng này sẽ có cho mọi người dùng Windows 11. Dell cũng mở đặt trước XPS 16 Creator Edition dùng RTX Spark, giá 3.800 USD, giao cuối tháng 10."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+            },
+            {
+              "name": "NVIDIA Blog",
+              "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+            }
+          ]
+        },
+        {
+          "headline": "Apple ra “Reference Image”: chứng thực ảnh chụp từ iPhone mà không lộ danh tính người chụp",
+          "meta": "Schneier on Security, Apple · 7/10",
+          "body": [
+            "Hệ thống tạo một “bản âm bản số” an toàn ngay trên máy, rồi “tráng” ảnh trong Private Cloud Compute; ảnh cuối được dịch vụ ký của Apple ký sau khi được xác thực. Apple nói cách này giúp nhà báo ở vùng xung đột chứng minh ảnh chưa bị sửa mà không phải công khai danh tính, và kể cả Apple cũng không xem được điểm ảnh. Chỉ iPhone đời mới hỗ trợ.",
+            "Bình luận trên blog của Bruce Schneier chia hai luồng: người khen chuỗi tin cậy từ cảm biến tới chữ ký, người hỏi vì sao không dùng chuẩn mở C2PA và lo ngại cơ chế thu hồi ảnh có thể bị lạm dụng."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Schneier on Security",
+              "url": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html"
+            },
+            {
+              "name": "Apple Support",
+              "url": "https://support.apple.com/en-us/128064"
+            }
+          ]
+        },
+        {
+          "headline": "Nhà Trắng sẽ trao Huân chương Khoa học Quốc gia cho Elon Musk, Sergey Brin, Jensen Huang và Lisa Su",
+          "meta": "VnExpress · 7/10 · lễ trao dự kiến ngày 8/10 tại Washington",
+          "body": [
+            "Theo Nhà Trắng, bốn lãnh đạo công nghệ nhận huân chương tại hội nghị “Khoa học: Kỷ nguyên Vàng Mới”. Michael Dell và CEO Microsoft Satya Nadella nhận Huân chương Quốc gia về Công nghệ và Đổi mới Sáng tạo."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-trump-se-trao-tang-elon-musk-huan-chuong-khoa-hoc-danh-gia-nhat-5129700.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "BIM & openBIM",
+      "title": "Xây dựng · BIM & openBIM",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "buildingSMART Summit Tokyo: 22 đội vào chung kết openBIM Awards đã thuyết trình, kết quả công bố hôm nay 8/10",
+          "meta": "buildingSMART International · Hội nghị thượng đỉnh Tokyo 2026 · lễ trao giải 8/10",
+          "body": [
+            "22 đội ở bảy hạng mục trình bày trước hội đồng quốc tế ngày 7/10. Mảng hạ tầng có nhiều cái tên đáng chú ý: liên danh Balfour Beatty VINCI (Anh) với đảm bảo chất lượng openBIM cho siêu dự án, Viện Khoa học Đường sắt Trung Quốc với nền tảng X-Hub ở Hùng An, Haskoning (Hà Lan) chuyển kho cầu cảng lớn nhất thế giới từ 2D sang IFC 4.3, INECO (Tây Ban Nha) dùng IFC làm mô hình thông tin tài sản, và Sở Giao thông bang Washington (Mỹ) triển khai hình học tuyến IFC4x3.",
+            "Hạng mục Công nghệ có Qonic Agentic 4D (lập tiến độ 4D tự động từ dữ liệu openBIM) và usIFC.MCPserver của ACCA, đưa agent AI vào openBIM qua MCP; nhóm sinh viên có IFC-LS (language server cho IFC) của TU Munich. Daily News sẽ đưa danh sách đoạt giải ở số sau."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "buildingSMART International",
+              "url": "https://www.buildingsmart.org/buildingsmart-international-announces-finalists-for-the-2026-openbim-awards/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Phần mềm",
+      "title": "Xây dựng · Phần mềm",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Autodesk đổi người đứng đầu mảng AEC: Diana Colella thay Amy Bunszel, nhiệm vụ đẩy Forma và AI",
+          "meta": "Autodesk News · 6/10 (giờ Mỹ)",
+          "body": [
+            "Colella, gần 30 năm ở Autodesk và vừa dẫn dắt chuyển đổi AI ở mảng Media & Entertainment, trở thành phó chủ tịch điều hành mảng kiến trúc, kỹ thuật và xây dựng, mảng lớn nhất của hãng. Bunszel nghỉ hưu và ở lại tới 2/11/2026 để bàn giao. Thông cáo nói Colella sẽ phát triển Forma, đồng thời tiếp tục nâng cấp Revit và Civil 3D, gắn chúng chặt hơn với quy trình trên Forma.",
+            "Bối cảnh: tại Autodesk University 2026 hồi giữa tháng 9, Autodesk lần đầu nói rõ Forma sẽ thay Revit “theo thời gian”; Civil 3D trở thành “Forma Connected Client” và có thêm Forma Street Design cho kỹ sư giao thông."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Autodesk News",
+              "url": "https://adsknews.autodesk.com/en/pressrelease/autodesk-names-diana-colella-to-lead-architecture-engineering-and-construction-business/"
+            },
+            {
+              "name": "AEC Magazine (bối cảnh)",
+              "url": "https://aecmag.com/bim/autodesk-confirms-forma-will-replace-revit-over-time/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Nghiên cứu",
+      "title": "Xây dựng · Nghiên cứu",
+      "tags": [
+        "construction"
+      ],
+      "intro": "Bài mới trên arXiv; tóm tắt bằng lời thường.",
+      "items": [
+        {
+          "headline": "“Vibe Building”: để động cơ vật lý, không phải LLM, chấm điểm thiết kế kết cấu",
+          "meta": "arXiv 2610.08156 · Jiang, Luo, Wang, Zhou · nộp 6/10",
+          "body": [
+            "Nhóm tác giả cho mô hình ngôn ngữ chỉ đề xuất chỉnh sửa (chọn tiết diện, cấu trúc, hệ chịu lực ngang), còn việc chấm đạt hay không do một động cơ vật lý tất định đảm nhận theo tiêu chuẩn động đất và gió. Trên bộ thử VB-Bench gồm 3.577 công trình thuộc sáu bộ tiêu chuẩn, cách này cho tỷ lệ thiết kế đạt kiểm chứng cao nhất ở ba trong bốn mô hình nền.",
+            "Điểm đáng nhớ: khi thay động cơ vật lý bằng một LLM làm giám khảo, 58,43% thiết kế được chấp nhận thực ra không đạt tiêu chuẩn. Nói gọn, muốn agent thiết kế kết cấu đáng tin thì cần trọng tài mà agent không “lách” được."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.08156"
+            }
+          ]
+        },
+        {
+          "headline": "Đặt trạm sạc và đổi pin cho xe tải điện đường dài, tính cả giờ nghỉ bắt buộc của tài xế",
+          "meta": "arXiv 2610.08187 · Irannezhad, Guo · nộp 6/10",
+          "body": [
+            "Bài báo xây mô hình tối ưu cùng lúc vị trí trạm sạc hoặc đổi pin và lịch sạc, đổi pin, nghỉ của từng xe, sao cho thời gian sạc trùng với giờ nghỉ luật định thay vì cộng thêm; năng lượng tiêu thụ tính theo địa hình từng đoạn đường. Áp dụng cho 12 hành lang vận tải bờ Đông nước Úc.",
+            "Kết quả: tỷ lệ xe tải điện thay đổi 30% chỉ làm số trạm thay đổi từ âm 12% đến cộng 13%, và hơn 95% trạm được xây ngay ở giai đoạn hai. Sự bất định chủ yếu ảnh hưởng tới chọn địa điểm nào, không phải xây khi nào."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.08187"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Messi khép lại sự nghiệp tuyển: một bàn, hai kiến tạo, Argentina thắng Benin 3-0",
+          "meta": "Giao hữu, Monumental (Buenos Aires) · sáng 7/10 giờ VN · tiếp nối tin số trước (khi đó trận chưa kết thúc)",
+          "body": [
+            "Sau hiệp một không bàn thắng, Messi đá phạt góc để Otamendi, người cũng chia tay tuyển trong trận thứ 140, mở tỷ số phút 48; anh kiến tạo tiếp cho Nico Paz ghi bàn phút 61, rồi tự sút phạt đền thành công phút 71. Messi đá đủ 90 phút trước khoảng 85.000 khán giả, khép lại sự nghiệp quốc tế với 208 trận và 126 bàn, đều là kỷ lục của Argentina.",
+            "Sau trận, anh phát biểu gần 10 phút, tri ân người cha đã mất sau World Cup. Trước giờ bóng lăn, đội trưởng Benin tặng Messi bức thư, đoá hồng và tượng thu nhỏ nữ chiến binh Agojie, món quà theo báo Clarin là dành cho vợ anh, Antonela Roccuzzo. Cristiano Ronaldo cũng bình luận chúc mừng: “Gửi cậu một cái ôm”."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/live/cxdd8721zm4qt"
+            },
+            {
+              "name": "ESPN",
+              "url": "https://www.espn.com/soccer/story/_/id/50123513/lionel-messi-final-argentina-match-emotional-sendoff-worthy-legend"
+            },
+            {
+              "name": "VnExpress (quà của Benin)",
+              "url": "https://vnexpress.net/y-nghia-tu-mon-qua-dac-biet-benin-danh-tang-messi-5129687.html"
+            },
+            {
+              "name": "VnExpress (Ronaldo)",
+              "url": "https://vnexpress.net/ronaldo-tri-an-messi-trong-ngay-chia-tay-tuyen-argentina-5129694.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ronaldo tố HLV Jorge Jesus thất hứa; ông Jesus: “Tôi không có gì để nói thêm”",
+          "meta": "Tuyển Bồ Đào Nha · VnExpress · 7/10",
+          "body": [
+            "Trong thư đăng mạng xã hội, Ronaldo nói hai bên thống nhất anh không đá trận gặp Na Uy và Đan Mạch, nhưng ông Jesus lại báo sẽ dùng anh khoảng 30 phút ở trận Na Uy, rồi không tung vào sân; anh thấy bị phản bội và rời đội ngày 30/9. Ông Jesus, 72 tuổi, chỉ nói đã đọc thông báo và vẫn đi làm như mọi ngày."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hlv-jorge-jesus-phot-lo-chi-trich-cua-ronaldo-5129698.html"
+            }
+          ]
+        },
+        {
+          "headline": "Arteta gia hạn với Arsenal tới 2030, tổng thu nhập tối đa khoảng 106 triệu USD",
+          "meta": "VnExpress · 7/10",
+          "body": [
+            "Lương cố định khoảng 22,5 triệu USD mỗi năm, cộng thưởng tối đa 4 triệu USD, khiến Arteta là HLV nhận lương cao nhất Ngoại hạng Anh và cao thứ ba thế giới sau Simeone và Simone Inzaghi. Từ tháng 12/2019, ông thắng 220 trong 361 trận cùng Arsenal."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/arteta-ky-hop-dong-106-trieu-usd-voi-arsenal-5129695.html"
+            }
+          ]
+        },
+        {
+          "headline": "UEFA chờ kết quả kháng cáo của Man City trước khi xem xét cấm dự cúp châu Âu",
+          "meta": "Sky Sports qua VnExpress · 7/10",
+          "body": [
+            "Ủy ban độc lập của Ngoại hạng Anh kết luận chủ Man City đã bơm 830 triệu bảng trong 9 mùa nhưng ngụy trang thành tiền tài trợ. Nếu UEFA mở vụ riêng, thời hiệu là 5 năm; năm 2020 UEFA từng cấm Man City hai năm nhưng CAS đã huỷ án cấm."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/man-city-nguy-co-bi-cam-du-cup-chau-au-5129604.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cup CLB Đông Nam Á: CA TP.HCM bị Ratchaburi gỡ hoà 1-1 ở phút 90+2; V-League trở lại với vòng 3",
+          "meta": "VnExpress, VOV · tối 7/10",
+          "body": [
+            "Trận ra quân bảng A, tiền đạo nhập tịch Olaha Mạnh Đức ghi bàn phút 58 nhưng Scott Allardice gỡ hoà ở phút bù giờ. Đây là lần đầu đội đại diện TP.HCM dự giải quốc tế, nhờ vô địch Cúp Quốc gia 2025-2026. Ở trong nước, V-League trở lại từ 8/10 với vòng 3, có trận Thể Công Viettel gặp Hà Tĩnh."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ca-tp-hcm-bi-doi-bong-thai-lan-cam-hoa-o-phut-bu-5129663.html"
+            },
+            {
+              "name": "VOV",
+              "url": "https://vov.vn/the-thao/ket-qua-bong-da-hom-nay-710-clb-tphcm-chia-diem-voi-dai-dien-thai-lan-post1339100.vov"
+            },
+            {
+              "name": "Vietnam.vn (V-League)",
+              "url": "https://www.vietnam.vn/guong-quay-v-league-nong-bong-tro-lai-the-cong-viettel-quyet-thang-ha-tinh-hom-nay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Hôm nay: Trung ương 4 bế mạc; Thủ tướng Lê Minh Hưng lên đường thăm chính thức Lào",
+          "meta": "VnExpress, Tuổi Trẻ · 7–8/10 · tiếp nối tin số trước",
+          "body": [
+            "Chiều 7/10, các đại biểu thảo luận tổ về đề cương báo cáo tổng kết 100 năm Đảng lãnh đạo (1930–2030), định hướng phát triển đất nước 100 năm tiếp theo (2030–2130), tổng kết 40 năm thực hiện Cương lĩnh, sửa Điều lệ Đảng và kế hoạch kinh tế – xã hội, ngân sách 2027. Hội nghị họp phiên bế mạc trong ngày 8/10.",
+            "Cũng hôm nay, Thủ tướng Lê Minh Hưng bắt đầu thăm chính thức Lào (8–9/10) rồi Campuchia (9–10/10), chuyến thăm song phương nước ngoài đầu tiên trên cương vị mới. Daily News sẽ cập nhật kết quả ở số chiều."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/trung-uong-ban-tam-nhin-phat-trien-dat-nuoc-den-nam-2130-5129530.html"
+            },
+            {
+              "name": "Tuổi Trẻ qua Vietnam.vn",
+              "url": "https://www.vietnam.vn/chuyen-tham-song-phuong-dau-tien-cua-thu-tuong-le-minh-hung-den-lao-va-campuchia"
+            }
+          ]
+        },
+        {
+          "headline": "Ukraine: số người chết sau đợt tập kích ngày 7/10 lên 25, riêng Pryluky 19 người, có 5 trẻ em",
+          "meta": "BBC · cập nhật cuối ngày 7/10 · tiếp nối tin số chiều (khi đó 19 người)",
+          "body": [
+            "Theo Tổng thống Zelensky, Nga phóng tổng cộng 70 tên lửa; một quả trúng toà chung cư 5 tầng ở Pryluky, phá huỷ 30 căn hộ, ba nạn nhân là trẻ một tuổi. Ngoài Pryluky, Kyiv, Kremenchuk và Oleksandriya mỗi nơi có hai người chết. Không quân Ukraine nói bắn hạ 5 tên lửa đạn đạo, 39 tên lửa hành trình và hơn 100 drone, nghĩa là có tới 26 tên lửa lọt lưới.",
+            "Ukraine nói đã đánh bốn mục tiêu ở Nga trong 24 giờ, gồm hai cơ sở dầu. Trên Biển Đen, tàu dầu Rio bị xuồng không người lái tấn công gần Sochi; Bulgaria ngừng tìm thủy thủ một tàu hàng bị drone đánh chìm."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/ckr5ym098vdeo"
+            }
+          ]
+        },
+        {
+          "headline": "Ngoại trưởng Rubio: Iran đã mất khả năng kiểm soát toàn diện eo biển Hormuz",
+          "meta": "VnExpress · phát biểu tại Athens, 7/10",
+          "body": [
+            "Ông Rubio nói lượng dầu qua Hormuz gần bằng trước xung đột và trừng phạt đang khiến kinh tế Iran “lao dốc không phanh”. Thống đốc ngân hàng trung ương Iran thừa nhận lạm phát là thách thức nhưng nói kinh tế không sụp như Mỹ dự báo. Chuyên gia Arne Lohmann Rasmussen ước xuất khẩu dầu vùng Vịnh (không tính Iran) tháng 9 đạt 19,2 triệu thùng mỗi ngày, bằng 81% trước xung đột."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/my-tuyen-bo-iran-mat-kha-nang-kiem-soat-toan-dien-eo-bien-hormuz-5129599.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thái Lan: cựu trụ trì chùa lĩnh 742 năm tù vì biển thủ tiền công đức",
+          "meta": "VnExpress · Toà Hình sự Trung ương về Tham nhũng, 7/10",
+          "body": [
+            "Phra Alongkot, cựu trụ trì chùa Wat Phra Bat Nam Phu (Lop Buri), từng nổi tiếng vì chăm sóc bệnh nhân HIV/AIDS, bị kết 185 tội biển thủ và tội rửa tiền; trợ lý của ông lĩnh 386 năm. Hai bị cáo phải hoàn trả hơn 9 triệu USD, nhưng theo luật Thái Lan mỗi người chỉ chấp hành tối đa 50 năm."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cuu-tru-tri-chua-thai-lan-linh-an-742-nam-tu-5129682.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Nobel Văn học 2026 công bố hôm nay 8/10; tiền thưởng tăng lên 12 triệu krona",
+          "meta": "Viện Hàn lâm Thụy Điển · VnExpress, 7/10",
+          "body": [
+            "Nhân dịp 125 năm giải thưởng, tiền thưởng tăng thêm 1 triệu krona, lên khoảng 1,2 triệu USD. Các tên thường được nhắc gồm Haruki Murakami, Margaret Atwood, Salman Rushdie, Anne Carson, Tàn Tuyết và Gerald Murnane, nhưng trong 10 năm qua chỉ có Annie Ernaux (2022) là người được dự đoán đúng."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ly-do-ket-qua-nobel-van-hoc-kho-doan-5128888.html"
+            }
+          ]
+        },
+        {
+          "headline": "Danh ca Nhật Tokiko Kato, người hát “Diễm xưa” bằng tiếng Nhật, trở lại Việt Nam sau bảy năm",
+          "meta": "VnExpress · 7/10",
+          "body": [
+            "Ngày 11/11, bà cùng đại diện đài NHK tới nhà cố nhạc sĩ Trịnh Công Sơn ở TP.HCM thắp hương và viếng mộ ông ở nghĩa trang Gò Dưa; gia đình ra mắt sách tranh của ông, trong đó có bức chân dung ông vẽ bà năm 1998. Bà sẽ biểu diễn ở Hà Nội trong tháng 11."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/danh-ca-nhat-yeu-nhac-trinh-tro-lai-viet-nam-5129413.html"
+            }
+          ]
+        },
+        {
+          "headline": "Trailer hoạt hình làm bằng AI “Thế giới trần trụi” của Nguyễn Quang Dũng gây tranh cãi",
+          "meta": "VnExpress · 8/10",
+          "body": [
+            "Phim kể về chú gà tre Koo lạc vào trại gà công nghiệp. Từ khi ra mắt ngày 2/10, trailer bị chê chuyển động thiếu tự nhiên, nét vẽ không đồng nhất giữa các cảnh. Tranh luận nóng hơn khi đạo diễn nói AI giúp tiết kiệm “hàng chục tỷ đồng”, nhiều người cho rằng như vậy là đánh đồng sáng tạo với bài toán chi phí."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khan-gia-phan-ung-trailer-hoat-hinh-ai-cua-nguyen-quang-dung-5128924.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hậu trường bức bình phong sơn mài hai mặt dài 6 m làm trong một tháng",
+          "meta": "VnExpress · 7/10",
+          "body": [
+            "Hoạ sĩ Phạm Mai Châu cùng 30 nghệ nhân xoay ca hoàn thiện bức bình phong, một mặt là Thanh Long, mặt kia là tích Chử Đồng Tử – Tiên Dung, xen chợ quê, đền chùa và rồng thời Lê Sơ. Tác phẩm trưng bày tại triển lãm kim hoàn JGW Hong Kong 14–20/9."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hau-truong-ve-buc-binh-phong-son-mai-phu-vay-rong-gom-5127747.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Huế – Đà Nẵng tiếp tục mưa lớn hôm nay, cảnh báo lũ quét, sạt lở; mưa giảm từ 9/10",
+          "meta": "Viện KTTV, VietnamPlus · bản tin sáng 8/10 · tiếp nối tin số trước",
+          "body": [
+            "Dự báo khu vực Huế – Đà Nẵng mưa phổ biến 200–400 mm, cục bộ trên 500 mm; các sông có thể lên báo động 1–2, có sông trên báo động 2. Bản tin cảnh báo lũ quét lúc 1h ngày 8/10 nêu nguy cơ cao ở nhiều xã như A Lưới, Bình Điền, Nam Đông, Phú Lộc, Chân Mây – Lăng Cô; mưa dự báo giảm dần từ 9/10."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Viện Khoa học KTTV",
+              "url": "https://imh.ac.vn/ban-tin-canh-bao-lu-quet-01h-ngay-08-10-2026/"
+            },
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/thoi-tiet-ngay-810-tiep-tuc-co-mua-lon-o-hue-va-da-nang-post1140656.vnp"
+            },
+            {
+              "name": "Vietnam.vn",
+              "url": "https://www.vietnam.vn/mua-lon-dich-xuong-hue-da-nang-canh-bao-47-diem-sat-lo-lu-quet"
+            }
+          ]
+        },
+        {
+          "headline": "Từ 9/10, cấm xe tải từ 2 tấn và xe khách từ 16 chỗ qua cầu Thăng Long 5h–22h",
+          "meta": "Sở Xây dựng Hà Nội · VnExpress, 7/10",
+          "body": [
+            "Lệnh cấm kéo dài tới hết 10/11 để thi công trạm cân kiểm soát tải trọng phía Bắc cầu; xe buýt bị cấm giờ cao điểm, phương tiện được hướng sang cầu Nhật Tân."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ha-noi-cam-xe-tai-xe-khach-tu-16-cho-qua-cau-thang-long-5129584.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đường song hành Vành đai 4 qua Hà Nội đạt khoảng 90% khối lượng, dự kiến thông xe kỹ thuật trong tháng 10",
+          "meta": "VnExpress · 8/10",
+          "body": [
+            "Vành đai 4 vùng Thủ đô dài khoảng 113 km qua Hà Nội, Hưng Yên, Bắc Ninh; đoạn qua Hà Nội dài 56,5 km. Dự án thành phần đường song hành đã thực hiện khoảng 3.850/4.282 tỷ đồng, nhiều đoạn đã thảm nhựa."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/duong-song-hanh-vanh-dai-4-qua-ha-noi-truoc-ngay-thong-xe-ky-thuat-5129552.html"
+            }
+          ]
+        },
+        {
+          "headline": "Sân bay Long Thành diễn tập đón chuyến bay từ vùng có dịch, trước khi khai thác một phần cuối tháng 12",
+          "meta": "VnExpress · 7/10",
+          "body": [
+            "Buổi diễn tập thuộc chương trình thử nghiệm vận hành toàn diện (ORAT), với hành khách giả định được sàng lọc sức khoẻ và phân luồng; tham gia có nhân viên sân bay, kiểm soát không lưu, kiểm dịch y tế, công an cửa khẩu, hải quan và hãng bay."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/san-bay-long-thanh-dien-tap-don-chuyen-bay-tu-vung-dich-5129641.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 8/10/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub tại thời điểm tra cứu. Mục Xây dựng · Thảo luận cộng đồng tạm vắng vì không tìm được thảo luận mới đủ đáng chú ý. Chờ ở số sau: danh sách đoạt giải openBIM Awards 2026, phiên bế mạc Trung ương 4, kết quả chuyến thăm Lào của Thủ tướng và Nobel Văn học 2026."
+}
