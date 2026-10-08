@@ -3,6 +3,12 @@
 
   const MASTHEAD = "Daily News";
   const FAV_KEY = "dailynews-favorites";
+  const READ_KEY = "dailynews-read";
+  const THEME_KEY = "dailynews-theme";
+  /** @type {Map<string, object>|null} */
+  let issueContentCache = null;
+  /** @type {object[]|null} */
+  let searchCorpus = null;
   const THU = [
     "Chủ Nhật",
     "Thứ Hai",
@@ -129,6 +135,7 @@
     const q = new URLSearchParams(location.search);
     let date = q.get("date");
     let tag = q.get("tag") || "all";
+    let searchQuery = q.get("q") || "";
     let anchor = "";
     const raw = location.hash.slice(1);
     if (raw.startsWith("tag=")) {
@@ -136,17 +143,288 @@
     } else if (raw) {
       anchor = decodeURIComponent(raw);
     }
-    return { date, tag, anchor };
+    return { date, tag, anchor, searchQuery };
   }
 
-  function syncUrl(date, tag, anchor) {
+  function syncUrl(date, tag, anchor, searchQuery) {
     const q = new URLSearchParams();
     if (date) q.set("date", date);
     if (tag && tag !== "all") q.set("tag", tag);
+    if (searchQuery) q.set("q", searchQuery);
     const qs = q.toString();
     let url = location.pathname + (qs ? "?" + qs : "");
     if (anchor) url += "#" + encodeURIComponent(anchor);
     history.replaceState(null, "", url);
+  }
+
+  function normSearch(s) {
+    return removeDiacritics(String(s)).toLowerCase();
+  }
+
+  function articleDomId(issueId, sec, itemIndex) {
+    const secKey = sec.topic
+      ? sec.subtitle
+        ? subsectionSlug(sec.topic, sec.subtitle)
+        : topicSlug(sec.topic)
+      : sectionSlug(sec.title);
+    return `art-${issueId}-${secKey}-${itemIndex}`;
+  }
+
+  function sectionLabel(sec) {
+    if (sec.topic) {
+      return sec.subtitle ? `${sec.topic} · ${sec.subtitle}` : sec.topic;
+    }
+    return sec.title || "";
+  }
+
+  function getReadMap() {
+    try {
+      return JSON.parse(localStorage.getItem(READ_KEY) || "{}");
+    } catch {
+      return {};
+    }
+  }
+
+  function readStorageKey(issueId, articleId) {
+    return `${issueId}|${articleId}`;
+  }
+
+  function isArticleRead(issueId, articleId) {
+    return !!getReadMap()[readStorageKey(issueId, articleId)];
+  }
+
+  function setArticleRead(issueId, articleId, read) {
+    const map = getReadMap();
+    const k = readStorageKey(issueId, articleId);
+    if (read) map[k] = 1;
+    else delete map[k];
+    localStorage.setItem(READ_KEY, JSON.stringify(map));
+  }
+
+  function clearReadForIssue(issueId) {
+    const map = getReadMap();
+    const prefix = `${issueId}|`;
+    Object.keys(map).forEach((k) => {
+      if (k.startsWith(prefix)) delete map[k];
+    });
+    localStorage.setItem(READ_KEY, JSON.stringify(map));
+  }
+
+  function countReadProgress(issueId, data) {
+    let total = 0;
+    let read = 0;
+    (data.sections || []).forEach((sec) => {
+      (sec.items || []).forEach((it, idx) => {
+        total += 1;
+        const id = articleDomId(issueId, sec, idx);
+        if (isArticleRead(issueId, id)) read += 1;
+      });
+    });
+    return { read, total };
+  }
+
+  function effectiveTheme() {
+    const stored = localStorage.getItem(THEME_KEY);
+    if (stored === "dark" || stored === "light") return stored;
+    return window.matchMedia("(prefers-color-scheme: dark)").matches
+      ? "dark"
+      : "light";
+  }
+
+  function applyTheme(theme) {
+    if (theme === "dark") document.documentElement.dataset.theme = "dark";
+    else delete document.documentElement.dataset.theme;
+  }
+
+  function updateThemeButton() {
+    const btn = document.getElementById("btn-theme");
+    if (!btn) return;
+    const dark = effectiveTheme() === "dark";
+    btn.textContent = dark ? "☾ Tối" : "☀ Sáng";
+    btn.setAttribute(
+      "aria-label",
+      dark ? "Đang dùng giao diện tối, chuyển sang sáng" : "Đang dùng giao diện sáng, chuyển sang tối"
+    );
+  }
+
+  function initThemeToggle() {
+    applyTheme(effectiveTheme());
+    updateThemeButton();
+    document.getElementById("btn-theme")?.addEventListener("click", () => {
+      const next = effectiveTheme() === "dark" ? "light" : "dark";
+      localStorage.setItem(THEME_KEY, next);
+      applyTheme(next);
+      updateThemeButton();
+    });
+  }
+
+  function itemSearchText(item, sec) {
+    const parts = [
+      item.headline,
+      item.meta,
+      sec.title,
+      sec.topic,
+      sec.subtitle,
+      sec.intro,
+    ];
+    if (item.body) {
+      parts.push(...(Array.isArray(item.body) ? item.body : [item.body]));
+    }
+    (item.sources || []).forEach((s) => parts.push(s.name));
+    return parts.filter(Boolean).join(" ");
+  }
+
+  function snippetForItem(item, terms) {
+    const source =
+      (item.body && item.body[0]) || item.headline || item.meta || "";
+    const max = 160;
+    let slice = source.slice(0, max);
+    if (source.length > max) slice += "…";
+    const normSlice = normSearch(slice);
+    let start = 0;
+    for (const term of terms) {
+      const i = normSlice.indexOf(term);
+      if (i >= 0) {
+        start = Math.max(0, i - 40);
+        break;
+      }
+    }
+    if (start > 0) {
+      slice = (start > 3 ? "…" : "") + source.slice(start, start + max);
+      if (start + max < source.length) slice += "…";
+    }
+    return highlightTerms(slice, terms);
+  }
+
+  function highlightTerms(text, terms) {
+    if (!terms.length) return escapeHtml(text);
+    const parts = text.split(/(\s+)/);
+    return parts
+      .map((part) => {
+        if (!part.trim()) return escapeHtml(part);
+        const nPart = normSearch(part);
+        const hit = terms.some(
+          (t) => nPart.includes(t) || t.includes(nPart) || part.length > 2 && t.includes(nPart)
+        );
+        if (hit) return `<mark>${escapeHtml(part)}</mark>`;
+        return escapeHtml(part);
+      })
+      .join("");
+  }
+
+  async function ensureAllIssuesCached(index) {
+    if (issueContentCache && searchCorpus) {
+      return { cache: issueContentCache, corpus: searchCorpus, index };
+    }
+    issueContentCache = new Map();
+    searchCorpus = [];
+    await Promise.all(
+      index.issues.map(async (entry) => {
+        const data = await loadIssue(entry.date);
+        issueContentCache.set(entry.date, data);
+        (data.sections || []).forEach((sec) => {
+          (sec.items || []).forEach((item, idx) => {
+            const articleId = articleDomId(entry.date, sec, idx);
+            searchCorpus.push({
+              issueId: entry.date,
+              articleId,
+              section: sectionLabel(sec),
+              headline: item.headline,
+              text: itemSearchText(item, sec),
+              item,
+            });
+          });
+        });
+      })
+    );
+    return { cache: issueContentCache, corpus: searchCorpus, index };
+  }
+
+  function runSearch(query, corpus) {
+    const trimmed = query.trim();
+    if (!trimmed) return [];
+    const terms = normSearch(trimmed).split(/\s+/).filter(Boolean);
+    if (!terms.length) return [];
+    return corpus.filter((row) => {
+      const hay = normSearch(row.text);
+      return terms.every((t) => hay.includes(t));
+    });
+  }
+
+  function issueHref(issueId, articleId) {
+    return `${asset(`index.html?date=${encodeURIComponent(issueId)}`)}#${encodeURIComponent(articleId)}`;
+  }
+
+  function initSearch(indexRef) {
+    const form = document.getElementById("search-form");
+    const input = document.getElementById("search-input");
+    const panel = document.getElementById("search-panel");
+    const statusEl = document.getElementById("search-status");
+    const listEl = document.getElementById("search-results");
+    const closeBtn = document.getElementById("search-close");
+    if (!form || !input || !panel || !listEl) return;
+
+    let indexPromise = indexRef
+      ? Promise.resolve(indexRef)
+      : loadIndex();
+
+    async function showResults(query, pushUrl) {
+      const q = query.trim();
+      input.value = q;
+      if (!q) {
+        panel.hidden = true;
+        if (pushUrl) {
+          const { date, tag, anchor } = parseParams();
+          syncUrl(date, tag, anchor, "");
+        }
+        return;
+      }
+      panel.hidden = false;
+      statusEl.textContent = "Đang tìm…";
+      listEl.innerHTML = "";
+      const index = await indexPromise;
+      const { corpus } = await ensureAllIssuesCached(index);
+      const hits = runSearch(q, corpus);
+      const terms = normSearch(q).split(/\s+/).filter(Boolean);
+      if (pushUrl) {
+        const params = parseParams();
+        syncUrl(params.date, params.tag, params.anchor, q);
+      }
+      if (!hits.length) {
+        statusEl.textContent = `Không có kết quả cho “${q}”.`;
+        return;
+      }
+      statusEl.textContent = `${hits.length} kết quả cho “${q}”.`;
+      listEl.innerHTML = hits
+        .map((row) => {
+          const label = issueListLabel(row.issueId, index);
+          return `<li class="search-hit">
+            <a class="search-hit-link" href="${issueHref(row.issueId, row.articleId)}">
+              <span class="search-hit-meta">${escapeHtml(label)} · ${escapeHtml(row.section)}</span>
+              <span class="search-hit-headline">${highlightTerms(row.headline, terms)}</span>
+              <span class="search-hit-snippet">${snippetForItem(row.item, terms)}</span>
+            </a>
+          </li>`;
+        })
+        .join("");
+    }
+
+    form.addEventListener("submit", (e) => {
+      e.preventDefault();
+      showResults(input.value, true);
+    });
+
+    closeBtn?.addEventListener("click", () => {
+      panel.hidden = true;
+      const { date, tag, anchor } = parseParams();
+      syncUrl(date, tag, anchor, "");
+      input.value = "";
+    });
+
+    const { searchQuery } = parseParams();
+    if (searchQuery) {
+      showResults(searchQuery, false);
+    }
   }
 
   function scrollToAnchor(id) {
@@ -248,16 +526,21 @@
     return `<div class="sources"><strong>Nguồn:</strong> ${parts.join("; ")}</div>`;
   }
 
-  function renderArticles(sec) {
+  function renderArticles(sec, issueId) {
     return (sec.items || [])
-      .map(
-        (it) => `<article class="article">
-          <h3>${escapeHtml(it.headline)}</h3>
+      .map((it, idx) => {
+        const artId = articleDomId(issueId, sec, idx);
+        const read = isArticleRead(issueId, artId);
+        return `<article class="article${read ? " is-read" : ""}" id="${escapeHtml(artId)}" data-article-id="${escapeHtml(artId)}">
+          <div class="article-head">
+            <h3>${escapeHtml(it.headline)}</h3>
+            <button type="button" class="read-toggle${read ? " is-read" : ""}" data-article-id="${escapeHtml(artId)}" aria-pressed="${read ? "true" : "false"}">${read ? "Đã đọc" : "Đánh dấu đã đọc"}</button>
+          </div>
           ${it.meta ? `<div class="meta">${escapeHtml(it.meta)}</div>` : ""}
           ${bodyHtml(it.body)}
           ${sourcesHtml(it.sources)}
-        </article>`
-      )
+        </article>`;
+      })
       .join("");
   }
 
@@ -303,7 +586,7 @@
     return rows.join("");
   }
 
-  function renderSubsectionBlock(sec) {
+  function renderSubsectionBlock(sec, issueId) {
     const subId = sec.subtitle
       ? subsectionSlug(sec.topic, sec.subtitle)
       : "";
@@ -313,10 +596,10 @@
     const intro = sec.intro
       ? `<div class="intro">${escapeHtml(sec.intro)}</div>`
       : "";
-    return `<div class="subsection-block">${subhead}${intro}<div class="articles-columns">${renderArticles(sec)}</div></div>`;
+    return `<div class="subsection-block">${subhead}${intro}<div class="articles-columns">${renderArticles(sec, issueId)}</div></div>`;
   }
 
-  function renderSectionBlocks(sections) {
+  function renderSectionBlocks(sections, issueId) {
     const blocks = [];
     let i = 0;
     while (i < sections.length) {
@@ -332,7 +615,7 @@
         blocks.push(
           `<section class="section-block topic-group">
         <h2 id="${escapeHtml(id)}">${escapeHtml(topic)}</h2>
-        ${subs.map(renderSubsectionBlock).join("")}
+        ${subs.map((s) => renderSubsectionBlock(s, issueId)).join("")}
         <p class="back-to-toc"><a class="toc-link" href="#muc-luc">↑ Mục lục</a></p>
       </section>`
         );
@@ -342,7 +625,7 @@
           `<section class="section-block">
         <h2 id="${escapeHtml(id)}">${escapeHtml(sec.title)}</h2>
         ${sec.intro ? `<div class="intro">${escapeHtml(sec.intro)}</div>` : ""}
-        <div class="articles-columns">${renderArticles(sec)}</div>
+        <div class="articles-columns">${renderArticles(sec, issueId)}</div>
         <p class="back-to-toc"><a class="toc-link" href="#muc-luc">↑ Mục lục</a></p>
       </section>`
         );
@@ -352,14 +635,30 @@
     return blocks.join("");
   }
 
-  function renderIssue(data, tag) {
+  function renderIssue(data, tag, issueId) {
     const sections = filterSections(data, tag);
     const dateIso = data.date;
     const showHighlights = tag === "all";
+    const progress = countReadProgress(issueId, data);
 
     let toc = "";
     if (sections.length) {
-      toc = `<div class="toc-block" id="muc-luc"><h2>Trong số này</h2><ul>${tocEntries(sections)}</ul></div>`;
+      const progressHtml =
+        progress.total > 0
+          ? `<span class="read-progress" id="read-progress">${progress.read}/${progress.total} đã đọc</span>`
+          : "";
+      const clearBtn =
+        progress.read > 0
+          ? `<button type="button" class="read-clear-all" id="read-clear-all">Bỏ đánh dấu tất cả</button>`
+          : "";
+      toc = `<div class="toc-block" id="muc-luc">
+        <div class="toc-block-head">
+          <h2>Trong số này</h2>
+          ${progressHtml}
+        </div>
+        <ul>${tocEntries(sections)}</ul>
+        ${clearBtn}
+      </div>`;
     }
 
     let empty = "";
@@ -370,7 +669,7 @@
       )}</div>`;
     }
 
-    const sectionHtml = renderSectionBlocks(sections);
+    const sectionHtml = renderSectionBlocks(sections, issueId);
 
     const highlights = showHighlights
       ? `<div class="highlights"><h2>Điểm nhanh</h2><ol>${(data.highlights || [])
@@ -454,15 +753,33 @@
     });
   }
 
+  function bindReadControls(root, issueId, onRerender) {
+    root.querySelectorAll(".read-toggle").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const artId = btn.dataset.articleId;
+        if (!artId) return;
+        const next = !isArticleRead(issueId, artId);
+        setArticleRead(issueId, artId, next);
+        onRerender();
+      });
+    });
+    root.querySelector("#read-clear-all")?.addEventListener("click", () => {
+      clearReadForIssue(issueId);
+      onRerender();
+    });
+  }
+
   async function initReader() {
     const root = document.getElementById("paper-root");
     const status = document.getElementById("status");
     if (!root) return;
 
-    let { date, tag, anchor: pendingAnchor } = parseParams();
+    initThemeToggle();
+    let { date, tag, anchor: pendingAnchor, searchQuery } = parseParams();
 
     try {
       const index = await loadIndex();
+      initSearch(index);
       if (!date) date = index.latest;
       const data = await loadIssue(date);
       data.masthead = MASTHEAD;
@@ -472,9 +789,11 @@
       const render = (newTag, options = {}) => {
         tag = newTag;
         const urlAnchor = options.anchor ?? options.scrollTo ?? "";
-        syncUrl(date, tag, urlAnchor);
-        root.innerHTML = renderIssue(data, tag);
+        const q = options.keepSearch ? searchQuery : parseParams().searchQuery;
+        syncUrl(date, tag, urlAnchor, q);
+        root.innerHTML = renderIssue(data, tag, date);
         renderTags(tag, render);
+        bindReadControls(root, date, () => render(tag, { keepSearch: true }));
         if (options.scrollTo) {
           requestAnimationFrame(() => scrollToAnchor(options.scrollTo));
         }
@@ -491,7 +810,7 @@
         if (tag !== "all") {
           render("all", { scrollTo: id, anchor: id });
         } else {
-          syncUrl(date, tag, id);
+          syncUrl(date, tag, id, parseParams().searchQuery);
           scrollToAnchor(id);
         }
       });
@@ -553,13 +872,23 @@
     const favEl = document.getElementById("favorites-list");
     if (!listEl) return;
 
+    initThemeToggle();
     const index = await loadIndex();
+    initSearch(index);
+    const { cache } = await ensureAllIssuesCached(index);
     const dates = index.issues.map((i) => i.date).sort().reverse();
 
     listEl.innerHTML = dates
       .map((d) => {
         const latest = d === index.latest ? `<span class="badge">Mới nhất</span>` : "";
+        const data = cache.get(d);
+        const prog = data ? countReadProgress(d, data) : { read: 0, total: 0 };
+        const progHtml =
+          prog.total > 0
+            ? `<span class="archive-read-progress">${prog.read}/${prog.total} đã đọc</span>`
+            : "";
         return `<li>${latest}<a class="issue-link" href="${asset(`index.html?date=${d}`)}">${escapeHtml(issueListLabel(d, index))}</a>
+          ${progHtml}
           <button type="button" class="archive-fav" data-date="${d}" aria-label="Lưu số báo">☆</button></li>`;
       })
       .join("");
@@ -599,12 +928,17 @@
   window.DailyNews = {
     asset,
     getFavorites,
+    getReadMap,
+    isArticleRead,
     vnDate,
     MASTHEAD,
     slugify,
     topicSlug,
     sectionSlug,
     subsectionSlug,
+    articleDomId,
+    normSearch,
+    removeDiacritics,
   };
 
   if (document.body.dataset.page === "reader") initReader();

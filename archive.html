@@ -12,6 +12,10 @@
   <link rel="stylesheet" href="css/reader.css">
   <script>
     (function () {
+      var t = localStorage.getItem("dailynews-theme");
+      if (t === "dark" || (t !== "light" && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+        document.documentElement.dataset.theme = "dark";
+      }
       var p = location.pathname;
       if (p.indexOf("/DailyNews") !== -1) {
         document.documentElement.dataset.base = p.slice(0, p.indexOf("/DailyNews") + "/DailyNews".length + 1);
@@ -26,8 +30,25 @@
       <nav aria-label="Điều hướng">
         <a href="archive.html" aria-current="page">Kho số cũ</a>
       </nav>
+      <form class="search-form" id="search-form" role="search">
+        <label class="visually-hidden" for="search-input">Tìm trong các số báo</label>
+        <input type="search" id="search-input" name="q" placeholder="Tìm tin…" autocomplete="off" enterkeyhint="search">
+        <button type="submit" class="search-submit" aria-label="Tìm">⌕</button>
+      </form>
+      <button type="button" id="btn-theme" class="theme-toggle" aria-label="Đổi giao diện sáng/tối" title="Sáng / Tối">☀</button>
     </div>
   </header>
+
+  <div id="search-panel" class="search-panel" hidden>
+    <div class="search-panel-inner">
+      <header class="search-panel-head">
+        <h2>Kết quả tìm kiếm</h2>
+        <button type="button" id="search-close" aria-label="Đóng">Đóng</button>
+      </header>
+      <p id="search-status" class="search-status" aria-live="polite"></p>
+      <ul id="search-results" class="search-results"></ul>
+    </div>
+  </div>
 
   <main class="paper-sheet archive-page">
     <header class="masthead">
