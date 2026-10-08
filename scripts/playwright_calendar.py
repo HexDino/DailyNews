@@ -164,7 +164,34 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
         errors.append(f"{label} {width}px {theme}: calendar chrome visible on load")
 
     if is_mobile:
-        page.evaluate("localStorage.setItem('dallynews-calendar-open', '1')")
+        toc = page.locator('a.toc-link[href="#lich-su-kien"]')
+        if not toc.count():
+            errors.append(f"{label} {width}px {theme}: missing toc calendar link")
+        else:
+            toc.scroll_into_view_if_needed()
+        try:
+            mouse_click_locator(page, 'a.toc-link[href="#lich-su-kien"]')
+        except RuntimeError as e:
+            errors.append(f"{label} {width}px {theme}: toc calendar mouse: {e}")
+        else:
+            page.wait_for_function(wait_open, timeout=5000)
+            assert_state(True, "toc open")
+            try:
+                mouse_click_locator(page, ".calendar-panel-close")
+            except RuntimeError as e:
+                errors.append(f"{label} {width}px {theme}: toc close: {e}")
+            else:
+                page.wait_for_function(wait_closed, timeout=5000)
+                assert_state(False, "toc close")
+
+        page.evaluate(
+            """() => {
+          localStorage.setItem('dailynews-calendar-open', '1');
+          const u = new URL(location.href);
+          u.hash = '';
+          history.replaceState(null, '', u.pathname + u.search);
+        }"""
+        )
         page.reload(wait_until="domcontentloaded")
         page.wait_for_selector("#btn-calendar:not([hidden])", timeout=30000)
         st = _calendar_state(page)

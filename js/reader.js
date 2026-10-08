@@ -691,6 +691,18 @@
     if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
+  function openCalendarFromToc(paper) {
+    if (!paper?.querySelector("#lich-su-kien")) return;
+    const panel = getCalendarPanel();
+    if (!panel) return;
+    if (useCalendarModal()) {
+      setCalendarOpen(true, paper);
+      return;
+    }
+    scrollToAnchor("lich-su-kien");
+    setCalendarOpen(true, paper);
+  }
+
   function getFavorites() {
     try {
       return JSON.parse(localStorage.getItem(FAV_KEY) || "[]");
@@ -1573,7 +1585,13 @@
         bindReadControls(root, date, data, () => render(tag, { keepSearch: true }), onProgress);
         setupAutoRead(root, date, data, onProgress);
         if (options.scrollTo) {
-          requestAnimationFrame(() => scrollToAnchor(options.scrollTo));
+          requestAnimationFrame(() => {
+            if (options.scrollTo === "lich-su-kien") {
+              openCalendarFromToc(root);
+            } else {
+              scrollToAnchor(options.scrollTo);
+            }
+          });
         }
       };
 
@@ -1587,6 +1605,9 @@
         e.preventDefault();
         if (tag !== "all") {
           render("all", { scrollTo: id, anchor: id });
+        } else if (id === "lich-su-kien") {
+          syncUrl(date, tag, id, parseParams().searchQuery);
+          openCalendarFromToc(root);
         } else {
           syncUrl(date, tag, id, parseParams().searchQuery);
           scrollToAnchor(id);
@@ -1595,7 +1616,10 @@
 
       window.addEventListener("hashchange", () => {
         const { anchor } = parseParams();
-        if (anchor) scrollToAnchor(anchor);
+        if (!anchor) return;
+        const paper = document.getElementById("paper-root");
+        if (anchor === "lich-su-kien") openCalendarFromToc(paper);
+        else scrollToAnchor(anchor);
       });
 
       if (pendingAnchor) {
