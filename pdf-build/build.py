@@ -11,6 +11,7 @@ import subprocess
 import sys
 from datetime import date
 from pathlib import Path
+from urllib.parse import urlparse
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from weasyprint import HTML
@@ -18,6 +19,32 @@ from weasyprint import HTML
 HERE = Path(__file__).resolve().parent
 THU = ["Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy", "Chủ Nhật"]
 MASTHEAD = "Daily News"
+
+
+def short_url(url: str, max_path: int = 28) -> str:
+    try:
+        p = urlparse(url)
+        host = p.netloc or ""
+        if host.startswith("www."):
+            host = host[4:]
+        path = p.path or "/"
+        if p.query:
+            path = f"{path}?{p.query}"
+        if len(path) > max_path:
+            path = path[: max_path - 1] + "…"
+        if path == "/":
+            return host or url
+        return f"{host}{path}"
+    except Exception:
+        return url if len(url) <= 40 else url[:39] + "…"
+
+
+def source_link_label(src: dict) -> str:
+    name = (src.get("name") or "").strip()
+    url = (src.get("url") or "").strip()
+    if url:
+        return name or short_url(url)
+    return name
 
 
 def vn_date(d: date) -> str:
@@ -58,6 +85,7 @@ def main() -> int:
         loader=FileSystemLoader(HERE),
         autoescape=select_autoescape(["html"]),
     )
+    env.filters["source_link_label"] = source_link_label
     html = env.get_template("template.html").render(**ctx)
     out = Path(a.output) if a.output else HERE / f"daily-news-{d.isoformat()}.pdf"
     if a.html:

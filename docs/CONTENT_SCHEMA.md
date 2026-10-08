@@ -81,3 +81,9 @@ Evening-only section names (e.g. `Chính trị Việt Nam`, `Bên lề & Fact h�
 | `sources` | no | Same shape as article sources. |
 
 See `issues/2026-10-08/content.json` for a full example with `followups` and `calendar`. Issues without those fields render unchanged.
+
+## Web rendering notes
+
+- **Sources:** On the site, each source with a `url` is shown as a single link using `name` when present, otherwise the link host (no `www.`). The full URL is kept in `href` and `title`. PDF uses the same label with a shortened domain + path for long URLs.
+- **Calendar:** Shown as a one-line “Sắp diễn ra” strip under **Điểm nhanh** / above **Trong số này** when the issue has upcoming events in the 14-day window. The full grouped list opens in a collapsible panel (desktop) or bottom sheet (mobile). Open/closed state is stored in `localStorage` (`dailynews-calendar-open`).
+- **Follow-ups:** Rendered as a collapsed **Theo dõi tin cũ (N)** block after the TOC; each story is one summary line (status + title + update teaser) with optional expansion for full text and sources.

@@ -5,6 +5,7 @@
   const FAV_KEY = "dailynews-favorites";
   const READ_KEY = "dailynews-read";
   const THEME_KEY = "dailynews-theme";
+  const CALENDAR_OPEN_KEY = "dailynews-calendar-open";
   /** @type {{ version: string, entries: object[] } | null} */
   let searchIndexCache = null;
   const SEARCH_INDEX_KEY = "dailynews-search-index-version";
@@ -630,16 +631,50 @@
     return paras.map((p) => `<p>${escapeHtml(p)}</p>`).join("");
   }
 
+  function sourceLinkDisplay(src) {
+    const name = String(src.name || "").trim();
+    const url = String(src.url || "").trim();
+    if (url) {
+      let label = name;
+      if (!label) {
+        try {
+          label = new URL(url).hostname.replace(/^www\./i, "");
+        } catch {
+          label = url;
+        }
+      }
+      return {
+        label,
+        url,
+        title: url,
+        hasLink: true,
+      };
+    }
+    return { label: name, url: "", title: "", hasLink: false };
+  }
+
   function sourcesHtml(sources) {
     if (!sources || !sources.length) return "";
     const parts = sources.map((src) => {
-      const name = escapeHtml(src.name || "");
-      if (src.url) {
-        return `${name} — <a class="source-link" href="${escapeHtml(src.url)}" rel="noopener noreferrer" target="_blank">${escapeHtml(src.url)}</a>`;
+      const d = sourceLinkDisplay(src);
+      if (d.hasLink) {
+        return `<a class="source-link" href="${escapeHtml(d.url)}" title="${escapeHtml(d.title)}" rel="noopener noreferrer" target="_blank">${escapeHtml(d.label)}</a>`;
       }
-      return name;
+      return escapeHtml(d.label);
     });
     return `<div class="sources"><strong>Nguồn:</strong> ${parts.join("; ")}</div>`;
+  }
+
+  function formatShortDate(iso) {
+    const parts = String(iso || "").split("-");
+    if (parts.length !== 3) return iso;
+    return `${parts[2]}/${parts[1]}`;
+  }
+
+  function truncateText(text, maxLen) {
+    const t = String(text || "").trim();
+    if (t.length <= maxLen) return t;
+    return `${t.slice(0, maxLen - 1).trimEnd()}…`;
   }
 
   function parseIsoDate(iso) {
@@ -680,25 +715,33 @@
         const first = fu.first_issue
           ? `<a class="source-link" href="${asset("index.html")}?date=${encodeURIComponent(fu.first_issue)}">Số ${escapeHtml(fu.first_issue)}</a>`
           : "";
-        return `<article class="followup-item" id="followup-${idx}">
-          <h3>${escapeHtml(fu.title || "")}</h3>
-          <p class="followup-status"><span class="status-badge status-${status === "đã kết thúc" ? "done" : "ongoing"}">${escapeHtml(status)}</span>${first ? ` · Lần đầu: ${first}` : ""}</p>
-          <p>${escapeHtml(fu.update || "")}</p>
-          ${sourcesHtml(fu.sources)}
-        </article>`;
+        const teaser = truncateText(fu.update || "", 120);
+        return `<li class="followup-row-wrap">
+          <details class="followup-row" id="followup-${idx}">
+            <summary>
+              <span class="status-badge status-${status === "đã kết thúc" ? "done" : "ongoing"}">${escapeHtml(status)}</span>
+              <span class="followup-title">${escapeHtml(fu.title || "")}</span>
+              <span class="followup-teaser">${escapeHtml(teaser)}</span>
+            </summary>
+            <div class="followup-body">
+              <p>${escapeHtml(fu.update || "")}</p>
+              ${first ? `<p class="followup-first">Lần đầu: ${first}</p>` : ""}
+              ${sourcesHtml(fu.sources)}
+            </div>
+          </details>
+        </li>`;
       })
       .join("");
-    return `<section class="followups-block" id="theo-doi-tin-cu">
-      <h2>Theo dõi tin cũ</h2>
-      ${items}
+    return `<details class="followups-block" id="theo-doi-tin-cu">
+      <summary><span class="followups-summary-label">Theo dõi tin cũ</span> <span class="followups-count">(${followups.length})</span></summary>
+      <ul class="followups-list">${items}</ul>
       <p class="back-to-toc"><a class="toc-link" href="#muc-luc">↑ Mục lục</a></p>
-    </section>`;
+    </details>`;
   }
 
-  function renderCalendarAside(events) {
-    if (!events.length) return "";
+  function renderCalendarEventList(events) {
     let lastDate = "";
-    const chunks = events
+    return events
       .map((ev) => {
         let head = "";
         if (ev.date !== lastDate) {
@@ -721,11 +764,97 @@
         </article>`;
       })
       .join("");
-    return `<aside class="calendar-box" id="lich-su-kien" aria-labelledby="calendar-box-title">
-      <h2 id="calendar-box-title">Lịch sự kiện</h2>
-      <p class="calendar-hint">Trong 14 ngày tới (tính từ ngày số báo)</p>
-      ${chunks}
-    </aside>`;
+  }
+
+  function renderCalendarStrip(events) {
+    if (!events.length) return "";
+    const preview = events
+      .slice(0, 3)
+      .map(
+        (ev) =>
+          `<span class="calendar-strip-event">${escapeHtml(formatShortDate(ev.date))} ${escapeHtml(truncateText(ev.title, 42))}</span>`
+      )
+      .join('<span class="calendar-strip-sep" aria-hidden="true"> · </span>');
+    return `<div class="calendar-strip-wrap" id="lich-su-kien">
+      <button type="button" class="calendar-strip-toggle" aria-expanded="false" aria-controls="calendar-panel-full">
+        <span class="calendar-strip-label">Sắp diễn ra:</span>
+        <span class="calendar-strip-preview">${preview}</span>
+        <span class="calendar-strip-more">Xem tất cả (${events.length})</span>
+      </button>
+      <div class="calendar-panel" id="calendar-panel-full" hidden>
+        <div class="calendar-panel-head">
+          <h2>Lịch sự kiện</h2>
+          <button type="button" class="calendar-panel-close" aria-label="Đóng lịch">Đóng</button>
+        </div>
+        <p class="calendar-hint">Trong 14 ngày tới (tính từ ngày số báo)</p>
+        ${renderCalendarEventList(events)}
+      </div>
+    </div>`;
+  }
+
+  function setCalendarOpen(open, root) {
+    const panel = root.querySelector("#calendar-panel-full");
+    const toggle = root.querySelector(".calendar-strip-toggle");
+    const backdrop = document.querySelector(".calendar-backdrop");
+    if (!panel) return;
+    panel.hidden = !open;
+    toggle?.setAttribute("aria-expanded", open ? "true" : "false");
+    panel.classList.toggle("calendar-panel--open", open);
+    document.body.classList.toggle("calendar-sheet-open", open);
+    if (backdrop) backdrop.hidden = !open;
+    try {
+      localStorage.setItem(CALENDAR_OPEN_KEY, open ? "1" : "0");
+    } catch {
+      /* ignore */
+    }
+  }
+
+  function bindCalendarChrome(root) {
+    const wrap = root.querySelector("#lich-su-kien");
+    const headerBtn = document.getElementById("btn-calendar");
+    if (!wrap) {
+      headerBtn?.setAttribute("hidden", "");
+      document.body.classList.remove("calendar-sheet-open");
+      document.querySelector(".calendar-backdrop")?.setAttribute("hidden", "");
+      return;
+    }
+    headerBtn?.removeAttribute("hidden");
+
+    let backdrop = document.querySelector(".calendar-backdrop");
+    if (!backdrop) {
+      backdrop = document.createElement("div");
+      backdrop.className = "calendar-backdrop";
+      backdrop.hidden = true;
+      backdrop.addEventListener("click", () => setCalendarOpen(false, root));
+      document.body.appendChild(backdrop);
+    }
+
+    let initiallyOpen = false;
+    try {
+      initiallyOpen = localStorage.getItem(CALENDAR_OPEN_KEY) === "1";
+    } catch {
+      initiallyOpen = false;
+    }
+    setCalendarOpen(initiallyOpen, root);
+
+    const toggleOpen = () => {
+      const panel = root.querySelector("#calendar-panel-full");
+      setCalendarOpen(!!panel?.hidden, root);
+    };
+
+    root.querySelector(".calendar-strip-toggle")?.addEventListener("click", toggleOpen);
+    root.querySelector(".calendar-panel-close")?.addEventListener("click", () =>
+      setCalendarOpen(false, root)
+    );
+    if (headerBtn && !headerBtn.dataset.calendarBound) {
+      headerBtn.dataset.calendarBound = "1";
+      headerBtn.addEventListener("click", () => {
+        const paper = document.getElementById("paper-root");
+        if (!paper) return;
+        const panel = paper.querySelector("#calendar-panel-full");
+        setCalendarOpen(!!panel?.hidden, paper);
+      });
+    }
   }
 
   function renderArticles(sec, issueId) {
@@ -892,14 +1021,10 @@
 
     const sectionHtml = renderSectionBlocks(sections, issueId);
     const followupsHtml = followups.length ? renderFollowups(followups) : "";
-    const calendarHtml = calendarEvents.length
-      ? renderCalendarAside(calendarEvents)
-      : "";
-    const mainInner = `${followupsHtml}${sectionHtml}`;
-    const layoutWrap =
-      calendarHtml && showExtras
-        ? `<div class="issue-layout"><div class="issue-main">${mainInner}</div>${calendarHtml}</div>`
-        : mainInner;
+    const calendarStripHtml =
+      showExtras && calendarEvents.length
+        ? renderCalendarStrip(calendarEvents)
+        : "";
 
     const highlights = showHighlights
       ? `<div class="highlights"><h2>Điểm nhanh</h2><ol>${(data.highlights || [])
@@ -914,9 +1039,11 @@
         ${data.tagline ? `<div class="tagline">${escapeHtml(data.tagline)}</div>` : ""}
       </header>
       ${highlights}
+      ${calendarStripHtml}
       ${toc}
+      ${followupsHtml}
       ${empty}
-      ${layoutWrap}
+      ${sectionHtml}
       ${data.footer_note ? `<div class="footer-note">${escapeHtml(data.footer_note)}</div>` : ""}
     `;
   }
@@ -1124,6 +1251,7 @@
         const q = options.keepSearch ? searchQuery : parseParams().searchQuery;
         syncUrl(date, tag, urlAnchor, q);
         root.innerHTML = renderIssue(data, tag, date);
+        bindCalendarChrome(root);
         renderTags(tag, render);
         const onProgress = () => refreshReadProgressUi(date, data);
         bindReadControls(root, date, data, () => render(tag, { keepSearch: true }), onProgress);

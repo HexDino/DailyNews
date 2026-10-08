@@ -92,7 +92,7 @@ a { color: #000; text-decoration: none; }
     <p class="status">{{ fu.status }}{% if fu.first_issue %} · Lần đầu: số {{ fu.first_issue }}{% endif %}</p>
     <p>{{ fu.update }}</p>
     {% if fu.sources %}<div class="src"><b>Nguồn:</b>
-      {% for src in fu.sources %}{{ src.name }}{% if src.url %} — <a class="url" href="{{ src.url }}">{{ src.url }}</a>{% endif %}{% if not loop.last %}; {% endif %}{% endfor %}
+      {% for src in fu.sources %}{% if src.url %}<a class="url" href="{{ src.url }}" title="{{ src.url }}">{{ src|source_link_label }}</a>{% else %}{{ src.name }}{% endif %}{% if not loop.last %}; {% endif %}{% endfor %}
     </div>{% endif %}
   </div>
   {% endfor %}
@@ -138,7 +138,7 @@ a { color: #000; text-decoration: none; }
     {% if it.meta %}<div class="meta">{{ it.meta }}</div>{% endif %}
     {% for para in (it.body if it.body is not string else [it.body]) %}<p>{{ para }}</p>{% endfor %}
     {% if it.sources %}<div class="src"><b>Nguồn:</b>
-      {% for src in it.sources %}{{ src.name }}{% if src.url %} — <a class="url" href="{{ src.url }}">{{ src.url }}</a>{% endif %}{% if not loop.last %}; {% endif %}{% endfor %}
+      {% for src in it.sources %}{% if src.url %}<a class="url" href="{{ src.url }}" title="{{ src.url }}">{{ src|source_link_label }}</a>{% else %}{{ src.name }}{% endif %}{% if not loop.last %}; {% endif %}{% endfor %}
     </div>{% endif %}
   </article>
   {% endfor %}
