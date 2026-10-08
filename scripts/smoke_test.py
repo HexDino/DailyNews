@@ -29,6 +29,7 @@ from playwright_followups import (
     capture_calendar_panel_screenshots,
     capture_calendar_teaser_screenshots,
     capture_followups_screenshots,
+    capture_mobile_page_top_screenshots,
     exercise_followup_expand,
 )
 BASE_URL = "http://127.0.0.1:8765/"
@@ -153,7 +154,7 @@ def main() -> int:
                         wait_until="domcontentloaded",
                         timeout=60000,
                     )
-                    page.wait_for_selector(".calendar-strip-toggle", timeout=30000)
+                    page.wait_for_selector("#btn-calendar:not([hidden])", timeout=30000)
                     errors.extend(
                         exercise_calendar(page, w, theme, "smoke")
                     )
@@ -197,7 +198,7 @@ def main() -> int:
                             wait_until="domcontentloaded",
                             timeout=60000,
                         )
-                        if page.locator(".calendar-strip-toggle").count():
+                        if page.locator("#btn-calendar:not([hidden])").count():
                             errors.extend(
                                 exercise_calendar(page, w, theme, f"archive-{archive_id}")
                             )
@@ -205,6 +206,7 @@ def main() -> int:
 
             capture_calendar_teaser_screenshots(browser, BASE_URL)
             capture_calendar_panel_screenshots(browser, BASE_URL)
+            capture_mobile_page_top_screenshots(browser, BASE_URL)
             capture_followups_screenshots(browser, BASE_URL)
 
             browser.close()

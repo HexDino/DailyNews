@@ -143,7 +143,7 @@ def audit():
                     page = ctx.new_page()
                     try:
                         page.goto(cal_url, wait_until="domcontentloaded", timeout=60000)
-                        page.wait_for_selector(".calendar-strip-toggle", timeout=30000)
+                        page.wait_for_selector("#btn-calendar:not([hidden])", timeout=30000)
                         errors.extend(exercise_calendar(page, w, theme, CALENDAR_ISSUE))
                     except Exception as e:
                         errors.append(f"calendar {w}px {theme}: {e}")

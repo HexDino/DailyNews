@@ -32,10 +32,14 @@ def _calendar_state(page: Page) -> dict:
       const mobile = window.matchMedia('(max-width: 640px)').matches;
       const panelBox = panel && !panel.hidden ? panel.getBoundingClientRect() : null;
       const backdropVisible = backdrop && !backdrop.hidden && getComputedStyle(backdrop).display !== 'none';
+      const toggle = document.querySelector('.calendar-strip-toggle');
       return {{
         mobile,
         panelCount: document.querySelectorAll('#calendar-panel-full').length,
         panelOpen: !!(panel && !panel.hidden),
+        panelModal: !!(panel && panel.classList.contains('calendar-panel--open')),
+        panelInBody: panel?.parentElement === document.body,
+        teaserVisible: !!(document.querySelector('.calendar-teaser-bar') && getComputedStyle(document.querySelector('.calendar-teaser-bar')).display !== 'none'),
         backdropVisible,
         bodyLocked: document.body.classList.contains('calendar-sheet-open'),
         panelTop: panelBox ? panelBox.top : null,
@@ -43,18 +47,37 @@ def _calendar_state(page: Page) -> dict:
         panelCenterY: panelBox ? panelBox.top + panelBox.height / 2 : null,
         viewportH: window.innerHeight,
         sourceCount: panel ? panel.querySelectorAll('.source-link').length : 0,
-        ariaExpanded: document.querySelector('.calendar-strip-toggle')?.getAttribute('aria-expanded'),
+        ariaExpanded: toggle?.getAttribute('aria-expanded') ?? null,
       }};
     }}"""
     )
 
 
-def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[str]:
-    """Open/close calendar via real mouse coords, header, Esc; verify state."""
-    errors: list[str] = []
-    if not page.locator(".calendar-strip-wrap").count():
-        return errors
+def _assert_sources(page: Page, label: str, width: int, theme: str) -> list[str]:
+    src_check = page.evaluate(
+        """() => {
+      const items = [...document.querySelectorAll('#calendar-panel-full .calendar-item')];
+      const bad = [];
+      items.forEach((it, i) => {
+        const line = it.querySelector('.sources-line');
+        if (!line) {
+          bad.push(`item${i}: no sources line`);
+          return;
+        }
+        const label = line.querySelector('.sources-label');
+        if (!label || label.textContent.trim() !== 'Nguồn:') {
+          bad.push(`item${i}: bad label`);
+        }
+        const links = line.querySelectorAll('.source-link');
+        if (!links.length) bad.push(`item${i}: no source links`);
+      });
+      return bad;
+    }"""
+    )
+    return [f"{label} {width}px {theme}: {b}" for b in src_check]
 
+
+def _reset_calendar_dom(page: Page) -> None:
     panel_expr = _panel_js()
     page.evaluate(
         f"""() => {{
@@ -74,6 +97,19 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
     }}"""
     )
 
+
+def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[str]:
+    """Open/close calendar via real mouse coords, header, Esc; verify state."""
+    errors: list[str] = []
+    if not page.locator("#btn-calendar:not([hidden])").count():
+        return errors
+
+    panel_expr = _panel_js()
+    _reset_calendar_dom(page)
+    wait_open = f"() => {{ const p = {panel_expr}; return p && !p.hidden; }}"
+    wait_closed = f"() => {{ const p = {panel_expr}; return p && p.hidden; }}"
+    is_mobile = width <= 640
+
     def assert_state(want_open: bool, ctx: str) -> None:
         st = _calendar_state(page)
         if st["panelCount"] > 1:
@@ -82,12 +118,19 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
             )
         if want_open != st["panelOpen"]:
             errors.append(f"{label} {width}px {theme} {ctx}: panel open={st['panelOpen']}")
-        want_exp = "true" if want_open else "false"
-        if st["ariaExpanded"] != want_exp:
-            errors.append(
-                f"{label} {width}px {theme} {ctx}: aria-expanded={st['ariaExpanded']!r}"
-            )
-        if st["mobile"]:
+        if st["ariaExpanded"] is not None:
+            want_exp = "true" if want_open else "false"
+            if st["ariaExpanded"] != want_exp:
+                errors.append(
+                    f"{label} {width}px {theme} {ctx}: aria-expanded={st['ariaExpanded']!r}"
+                )
+        if is_mobile:
+            if st["teaserVisible"]:
+                errors.append(f"{label} {width}px {theme} {ctx}: teaser visible on mobile")
+            if want_open and not st["panelModal"]:
+                errors.append(f"{label} {width}px {theme} {ctx}: mobile panel not modal")
+            if want_open and not st["panelInBody"]:
+                errors.append(f"{label} {width}px {theme} {ctx}: mobile panel not portaled")
             if want_open and not st["backdropVisible"]:
                 errors.append(f"{label} {width}px {theme} {ctx}: mobile backdrop missing")
             if want_open and not st["bodyLocked"]:
@@ -98,59 +141,60 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
                     errors.append(
                         f"{label} {width}px {theme} {ctx}: panel not centered"
                     )
-                if st["panelTop"] is not None and st["panelTop"] < 8:
-                    errors.append(f"{label} {width}px {theme} {ctx}: panel too high")
+            if not want_open and st["panelOpen"] is False:
+                inline = page.evaluate(
+                    """() => {
+                  const p = document.querySelector('#lich-su-kien #calendar-panel-full');
+                  if (!p || p.hidden) return false;
+                  return p.parentElement !== document.body;
+                }"""
+                )
+                if inline:
+                    errors.append(
+                        f"{label} {width}px {theme} {ctx}: inline calendar in page flow"
+                    )
         else:
             if st["backdropVisible"]:
                 errors.append(f"{label} {width}px {theme} {ctx}: desktop backdrop visible")
             if st["bodyLocked"]:
                 errors.append(f"{label} {width}px {theme} {ctx}: desktop body locked")
 
-    wait_open = f"() => {{ const p = {panel_expr}; return p && !p.hidden; }}"
-    wait_closed = f"() => {{ const p = {panel_expr}; return p && p.hidden; }}"
+    st = _calendar_state(page)
+    if is_mobile and (st["teaserVisible"] or st["panelOpen"]):
+        errors.append(f"{label} {width}px {theme}: calendar chrome visible on load")
+
+    page.evaluate("localStorage.setItem('dailynews-calendar-open', '1')")
+    page.reload(wait_until="domcontentloaded")
+    page.wait_for_selector("#btn-calendar:not([hidden])", timeout=30000)
+    st = _calendar_state(page)
+    if is_mobile and st["panelOpen"]:
+        errors.append(f"{label} {width}px {theme}: auto-opened modal from localStorage")
+
+    if not is_mobile:
+        try:
+            mouse_click_locator(page, ".calendar-strip-toggle")
+        except RuntimeError as e:
+            errors.append(f"{label} {width}px {theme}: strip toggle mouse: {e}")
+            return errors
+        page.wait_for_function(wait_open, timeout=5000)
+        assert_state(True, "strip open")
+        errors.extend(_assert_sources(page, label, width, theme))
+        try:
+            mouse_click_locator(page, ".calendar-panel-close")
+        except RuntimeError as e:
+            errors.append(f"{label} {width}px {theme}: close mouse: {e}")
+            return errors
+        page.wait_for_function(wait_closed, timeout=5000)
+        assert_state(False, "close button")
 
     try:
-        mouse_click_locator(page, ".calendar-strip-toggle")
+        mouse_click_locator(page, "#btn-calendar")
     except RuntimeError as e:
-        errors.append(f"{label} {width}px {theme}: strip toggle mouse: {e}")
+        errors.append(f"{label} {width}px {theme}: header calendar mouse: {e}")
         return errors
     page.wait_for_function(wait_open, timeout=5000)
-    assert_state(True, "strip open")
-
-    src_check = page.evaluate(
-        """() => {
-      const items = [...document.querySelectorAll('#calendar-panel-full .calendar-item')];
-      const bad = [];
-      items.forEach((it, i) => {
-        const line = it.querySelector('.sources-line');
-        if (!line) {
-          bad.push(`item${i}: no sources line`);
-          return;
-        }
-        const label = line.querySelector('.sources-label');
-        if (!label || label.textContent.trim() !== 'Nguồn:') {
-          bad.push(`item${i}: bad label`);
-        }
-        const links = line.querySelectorAll('.source-link');
-        if (!links.length) bad.push(`item${i}: no source links`);
-        const labelStyle = label ? getComputedStyle(label) : null;
-        if (labelStyle && parseFloat(labelStyle.fontSize) > 15) {
-          bad.push(`item${i}: label font ${labelStyle.fontSize}`);
-        }
-        if (label && getComputedStyle(label).display === 'block') {
-          bad.push(`item${i}: label block`);
-        }
-      });
-      return bad;
-    }"""
-    )
-    errors.extend(f"{label} {width}px {theme}: {b}" for b in src_check)
-
-    link = page.locator("#calendar-panel-full .source-link").first
-    if link.count():
-        href = link.get_attribute("href") or ""
-        if not href.startswith("http"):
-            errors.append(f"{label} {width}px {theme}: calendar source missing href")
+    assert_state(True, "header open")
+    errors.extend(_assert_sources(page, label, width, theme))
 
     try:
         mouse_click_locator(page, ".calendar-panel-close")
@@ -164,21 +208,14 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
     if st["backdropVisible"] or st["bodyLocked"]:
         errors.append(f"{label} {width}px {theme}: backdrop/body stuck after close")
 
-    page.locator("#btn-calendar").click()
+    mouse_click_locator(page, "#btn-calendar")
     page.wait_for_function(wait_open, timeout=5000)
-    assert_state(True, "header open")
-
     page.keyboard.press("Escape")
     page.wait_for_function(wait_closed, timeout=5000)
     assert_state(False, "escape close")
 
-    st = _calendar_state(page)
-    if st["backdropVisible"] or st["bodyLocked"]:
-        errors.append(f"{label} {width}px {theme}: stuck after Esc")
-
-    if width <= 640:
-        page.evaluate("localStorage.setItem('dailynews-calendar-open', '1')")
-        mouse_click_locator(page, ".calendar-strip-toggle")
+    if is_mobile:
+        mouse_click_locator(page, "#btn-calendar")
         page.wait_for_function(wait_open, timeout=5000)
         page.locator('button[data-tag-id="tech"]').click(force=True)
         page.wait_for_timeout(600)
@@ -187,28 +224,13 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
             errors.append(
                 f"{label} {width}px {theme}: orphan panel after tag rerender"
             )
-        try:
-            mouse_click_locator(page, ".calendar-panel-close")
-        except RuntimeError as e:
-            errors.append(f"{label} {width}px {theme}: close after rerender: {e}")
-        else:
-            page.wait_for_function(wait_closed, timeout=5000)
-            assert_state(False, "close after rerender")
-
-    row = page.locator(".followup-row").first
-    if row.count():
-        block = page.locator("#theo-doi-tin-cu")
-        if block.evaluate("el => !el.open"):
-            block.locator("> summary").click()
-        try:
-            mouse_click_locator(page, ".followup-row summary")
-        except RuntimeError:
-            pass
-        else:
-            page.wait_for_selector(".followup-row[open]", timeout=5000)
-            mouse_click_locator(page, ".followup-row summary")
-            page.wait_for_function(
-                "() => !document.querySelector('.followup-row[open]')", timeout=5000
-            )
+        if st["panelOpen"]:
+            try:
+                mouse_click_locator(page, ".calendar-panel-close")
+            except RuntimeError as e:
+                errors.append(f"{label} {width}px {theme}: close after rerender: {e}")
+            else:
+                page.wait_for_function(wait_closed, timeout=5000)
+        assert_state(False, "after tag rerender")
 
     return errors

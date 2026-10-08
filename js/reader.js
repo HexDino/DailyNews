@@ -931,6 +931,25 @@
       .join("");
   }
 
+  function renderCalendarPanelMarkup(events, issueId) {
+    return `<div class="calendar-panel" id="calendar-panel-full" hidden>
+        <div class="calendar-panel-head">
+          <h2 id="calendar-dialog-title">Lịch sự kiện</h2>
+          <button type="button" class="calendar-panel-close icon-btn" aria-label="Đóng lịch">
+            <svg class="toolbar-icon" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m7 7 10 10M17 7 7 17" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>
+          </button>
+        </div>
+        <p class="calendar-hint">Trong 14 ngày tới (tính từ ngày số báo)</p>
+        <div class="calendar-panel-body">${renderCalendarEventList(events, issueId)}</div>
+      </div>`;
+  }
+
+  /** Mobile: panel host only (header icon opens modal). */
+  function renderCalendarMobileHost(events, issueId) {
+    if (!events.length) return "";
+    return `<div class="calendar-mobile-host" id="lich-su-kien" hidden aria-hidden="true">${renderCalendarPanelMarkup(events, issueId)}</div>`;
+  }
+
   function renderCalendarStrip(events, issueId) {
     if (!events.length) return "";
     const next = events[0];
@@ -953,16 +972,7 @@
         </span>
         <span class="ui-chip ui-chip--action calendar-teaser-action">Xem lịch <span class="calendar-teaser-caret" aria-hidden="true">▾</span></span>
       </button>
-      <div class="calendar-panel" id="calendar-panel-full" hidden>
-        <div class="calendar-panel-head">
-          <h2 id="calendar-dialog-title">Lịch sự kiện</h2>
-          <button type="button" class="calendar-panel-close icon-btn" aria-label="Đóng lịch">
-            <svg class="toolbar-icon" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m7 7 10 10M17 7 7 17" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>
-          </button>
-        </div>
-        <p class="calendar-hint">Trong 14 ngày tới (tính từ ngày số báo)</p>
-        <div class="calendar-panel-body">${renderCalendarEventList(events, issueId)}</div>
-      </div>
+      ${renderCalendarPanelMarkup(events, issueId)}
     </div>`;
   }
 
@@ -1028,7 +1038,12 @@
   }
 
   function calendarPanelHost(root) {
-    return root?.querySelector(".calendar-strip-wrap") || null;
+    return (
+      root?.querySelector(".calendar-strip-wrap") ||
+      root?.querySelector(".calendar-mobile-host") ||
+      root?.querySelector("#lich-su-kien") ||
+      null
+    );
   }
 
   function syncCalendarPanelMount(open, root) {
@@ -1070,7 +1085,11 @@
       syncCalendarPanelMount(false, root);
     }
     try {
-      localStorage.setItem(CALENDAR_OPEN_KEY, open ? "1" : "0");
+      if (useCalendarModal()) {
+        localStorage.setItem(CALENDAR_OPEN_KEY, "0");
+      } else {
+        localStorage.setItem(CALENDAR_OPEN_KEY, open ? "1" : "0");
+      }
     } catch {
       /* ignore */
     }
@@ -1089,10 +1108,18 @@
     headerBtn?.removeAttribute("hidden");
 
     let initiallyOpen = false;
-    try {
-      initiallyOpen = localStorage.getItem(CALENDAR_OPEN_KEY) === "1";
-    } catch {
-      initiallyOpen = false;
+    if (useCalendarModal()) {
+      try {
+        localStorage.setItem(CALENDAR_OPEN_KEY, "0");
+      } catch {
+        /* ignore */
+      }
+    } else {
+      try {
+        initiallyOpen = localStorage.getItem(CALENDAR_OPEN_KEY) === "1";
+      } catch {
+        initiallyOpen = false;
+      }
     }
     setCalendarOpen(initiallyOpen, root);
 
@@ -1294,7 +1321,9 @@
     const followupsHtml = followups.length ? renderFollowups(followups) : "";
     const calendarStripHtml =
       showExtras && calendarEvents.length
-        ? renderCalendarStrip(calendarEvents, issueId)
+        ? isMobileLayout()
+          ? renderCalendarMobileHost(calendarEvents, issueId)
+          : renderCalendarStrip(calendarEvents, issueId)
         : "";
 
     const highlights = showHighlights

@@ -170,6 +170,48 @@ def exercise_followup_expand(page: Page, width: int, theme: str, label: str) -> 
     return errors
 
 
+def capture_mobile_page_top_screenshots(browser, base_url: str) -> None:
+    """390px: page top without calendar block; same with modal open."""
+    ARTIFACT_DIR.mkdir(parents=True, exist_ok=True)
+    from playwright_calendar import mouse_click_locator
+
+    for theme, suffix in (("light", "light"), ("light", "modal")):
+        ctx = browser.new_context(
+            viewport={"width": 390, "height": 844},
+            color_scheme=theme,
+        )
+        ctx.add_init_script(
+            f'localStorage.setItem("dailynews-theme", "{theme}");'
+            f'localStorage.setItem("dailynews-calendar-open", "1");'
+        )
+        shot_page = ctx.new_page()
+        shot_page.goto(
+            f"{base_url}index.html?date={FOLLOWUPS_ISSUE}",
+            wait_until="domcontentloaded",
+            timeout=60000,
+        )
+        shot_page.wait_for_selector("#paper-root .masthead", timeout=30000)
+        if suffix == "modal":
+            shot_page.wait_for_selector("#btn-calendar:not([hidden])", timeout=30000)
+            mouse_click_locator(shot_page, "#btn-calendar")
+            shot_page.wait_for_function(
+                """() => {
+              const p = document.querySelector('body > #calendar-panel-full')
+                || document.querySelector('#lich-su-kien #calendar-panel-full');
+              return p && !p.hidden && p.classList.contains('calendar-panel--open');
+            }""",
+                timeout=5000,
+            )
+            shot_page.wait_for_timeout(250)
+            path = ARTIFACT_DIR / f"mobile-390-calendar-modal-{theme}.png"
+            shot_page.locator("#calendar-panel-full").screenshot(path=str(path))
+        else:
+            shot_page.wait_for_timeout(200)
+            path = ARTIFACT_DIR / f"mobile-390-page-top-{theme}.png"
+            shot_page.locator("#paper-root").screenshot(path=str(path))
+        ctx.close()
+
+
 def capture_calendar_panel_screenshots(browser, base_url: str) -> None:
     """Expanded calendar: 1280 light/dark, 390 mobile modal."""
     ARTIFACT_DIR.mkdir(parents=True, exist_ok=True)
@@ -195,8 +237,11 @@ def capture_calendar_panel_screenshots(browser, base_url: str) -> None:
             wait_until="domcontentloaded",
             timeout=60000,
         )
-        shot_page.wait_for_selector(".calendar-strip-toggle", timeout=30000)
-        mouse_click_locator(shot_page, ".calendar-strip-toggle")
+        shot_page.wait_for_selector("#btn-calendar:not([hidden])", timeout=30000)
+        if width <= 640:
+            mouse_click_locator(shot_page, "#btn-calendar")
+        else:
+            mouse_click_locator(shot_page, ".calendar-strip-toggle")
         shot_page.wait_for_function(
             """() => {
           const p = document.querySelector('#lich-su-kien #calendar-panel-full')
@@ -216,7 +261,7 @@ def capture_calendar_panel_screenshots(browser, base_url: str) -> None:
 def capture_calendar_teaser_screenshots(browser, base_url: str) -> None:
     """Save Sắp diễn ra bar at 1280, 1024, 390 (light + dark)."""
     ARTIFACT_DIR.mkdir(parents=True, exist_ok=True)
-    for width in (1280, 1024, 390):
+    for width in (1280, 1024):
         height = 900 if width >= 768 else 844
         for theme in ("light", "dark"):
             ctx = browser.new_context(

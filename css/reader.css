@@ -1319,6 +1319,15 @@ html[data-theme="dark"] button.fav-on {
   color: var(--followup-done-fg);
 }
 
+.calendar-mobile-host {
+  display: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  height: 0;
+  overflow: hidden;
+}
+
 .calendar-strip-wrap {
   margin: 0 0 1rem;
   font-family: var(--sans);
