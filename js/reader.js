@@ -909,25 +909,67 @@
       </button>
       <div class="calendar-panel" id="calendar-panel-full" hidden>
         <div class="calendar-panel-head">
-          <h2>Lịch sự kiện</h2>
-          <button type="button" class="calendar-panel-close" aria-label="Đóng lịch">Đóng</button>
+          <h2 id="calendar-dialog-title">Lịch sự kiện</h2>
+          <button type="button" class="calendar-panel-close icon-btn" aria-label="Đóng lịch">
+            <svg class="toolbar-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m7 7 10 10M17 7 7 17" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>
+          </button>
         </div>
         <p class="calendar-hint">Trong 14 ngày tới (tính từ ngày số báo)</p>
-        ${renderCalendarEventList(events)}
+        <div class="calendar-panel-body">${renderCalendarEventList(events)}</div>
       </div>
     </div>`;
   }
 
+  function useCalendarModal() {
+    return isMobileLayout();
+  }
+
+  function getCalendarPanel() {
+    return document.getElementById("calendar-panel-full");
+  }
+
+  function calendarPanelHost(root) {
+    return root?.querySelector(".calendar-strip-wrap") || null;
+  }
+
+  function syncCalendarPanelMount(open, root) {
+    const panel = getCalendarPanel();
+    const host = calendarPanelHost(root);
+    if (!panel || !host) return;
+    if (open && useCalendarModal()) {
+      if (panel.parentElement !== document.body) document.body.appendChild(panel);
+    } else if (panel.parentElement === document.body) {
+      host.appendChild(panel);
+    }
+  }
+
   function setCalendarOpen(open, root) {
-    const panel = root.querySelector("#calendar-panel-full");
-    const toggle = root.querySelector(".calendar-strip-toggle");
+    const panel = getCalendarPanel();
+    const toggle = root?.querySelector(".calendar-strip-toggle");
     const backdrop = document.querySelector(".calendar-backdrop");
-    if (!panel) return;
+    if (!panel || !root) return;
+    const modal = open && useCalendarModal();
+    if (open) syncCalendarPanelMount(true, root);
     panel.hidden = !open;
     toggle?.setAttribute("aria-expanded", open ? "true" : "false");
-    panel.classList.toggle("calendar-panel--open", open);
-    document.body.classList.toggle("calendar-sheet-open", open);
-    if (backdrop) backdrop.hidden = !open;
+    panel.classList.toggle("calendar-panel--open", modal);
+    document.body.classList.toggle("calendar-sheet-open", modal);
+    if (backdrop) backdrop.hidden = !modal;
+    if (modal) {
+      panel.setAttribute("role", "dialog");
+      panel.setAttribute("aria-modal", "true");
+      panel.setAttribute("aria-labelledby", "calendar-dialog-title");
+    } else {
+      panel.removeAttribute("role");
+      panel.removeAttribute("aria-modal");
+      panel.removeAttribute("aria-labelledby");
+    }
+    if (!open) {
+      panel.classList.remove("calendar-panel--open");
+      document.body.classList.remove("calendar-sheet-open");
+      if (backdrop) backdrop.hidden = true;
+      syncCalendarPanelMount(false, root);
+    }
     try {
       localStorage.setItem(CALENDAR_OPEN_KEY, open ? "1" : "0");
     } catch {
@@ -964,7 +1006,7 @@
     setCalendarOpen(initiallyOpen, root);
 
     const toggleOpen = () => {
-      const panel = root.querySelector("#calendar-panel-full");
+      const panel = getCalendarPanel();
       setCalendarOpen(!!panel?.hidden, root);
     };
 
@@ -977,9 +1019,30 @@
       headerBtn.addEventListener("click", () => {
         const paper = document.getElementById("paper-root");
         if (!paper) return;
-        const panel = paper.querySelector("#calendar-panel-full");
-        setCalendarOpen(!!panel?.hidden, paper);
+        const panel = getCalendarPanel();
+        const opening = !!panel?.hidden;
+        setCalendarOpen(opening, paper);
+        if (opening && !useCalendarModal()) {
+          paper.querySelector("#lich-su-kien")?.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
       });
+    }
+    if (!document.documentElement.dataset.calendarEscBound) {
+      document.documentElement.dataset.calendarEscBound = "1";
+      document.addEventListener(
+        "keydown",
+        (e) => {
+          if (e.key !== "Escape") return;
+          const panel = getCalendarPanel();
+          const paper = document.getElementById("paper-root");
+          if (panel && !panel.hidden && paper) {
+            e.preventDefault();
+            e.stopImmediatePropagation();
+            setCalendarOpen(false, paper);
+          }
+        },
+        true
+      );
     }
   }
 

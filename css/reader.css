@@ -1261,10 +1261,19 @@ html[data-theme="dark"] button.fav-on {
   margin-top: 0.75rem;
   padding: 0.85rem 1rem 1rem;
   border: 1px solid var(--rule);
-  background: var(--chip-bg);
+  background: var(--paper);
   font-size: 0.82rem;
   max-height: min(70vh, 28rem);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  -webkit-overflow-scrolling: touch;
+}
+
+.calendar-panel-body {
   overflow-y: auto;
+  flex: 1 1 auto;
+  min-height: 0;
   -webkit-overflow-scrolling: touch;
 }
 
@@ -1277,15 +1286,14 @@ html[data-theme="dark"] button.fav-on {
 }
 
 .calendar-panel-head h2 {
-  font-size: 0.78rem;
-  letter-spacing: 0.1em;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   margin: 0;
 }
 
 .calendar-panel-close {
-  font-size: 0.75rem;
-  padding: 0.25rem 0.55rem;
+  flex-shrink: 0;
 }
 
 .calendar-backdrop {
@@ -1301,6 +1309,23 @@ html[data-theme="dark"] .calendar-backdrop {
 
 body.calendar-sheet-open {
   overflow: hidden;
+}
+
+@media (min-width: 641px) {
+  .calendar-backdrop {
+    display: none !important;
+    visibility: hidden;
+    pointer-events: none;
+  }
+
+  body.calendar-sheet-open {
+    overflow: auto;
+  }
+
+  .calendar-panel {
+    position: relative;
+    z-index: auto;
+  }
 }
 
 .followups-block {
@@ -1457,20 +1482,43 @@ body.calendar-sheet-open {
   }
 }
 
+@keyframes calendar-modal-in {
+  from {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+}
+
 @media (max-width: 640px) {
   .calendar-panel.calendar-panel--open {
     position: fixed;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 60;
+    left: 50%;
+    top: 50%;
+    right: auto;
+    bottom: auto;
+    width: min(92vw, 440px);
+    max-height: 75vh;
     margin: 0;
-    max-height: min(78vh, 32rem);
-    border-radius: 12px 12px 0 0;
-    box-shadow: 0 -8px 28px rgba(0, 0, 0, 0.18);
+    padding: 1rem 1rem 1.1rem;
+    transform: translate(-50%, -50%);
+    z-index: 70;
+    border-radius: 3px;
+    border: 1px solid var(--sheet-border);
+    box-shadow: 0 14px 42px rgba(0, 0, 0, 0.22);
+    animation: calendar-modal-in 0.18s ease-out;
   }
 
   html[data-theme="dark"] .calendar-panel.calendar-panel--open {
-    box-shadow: 0 -10px 32px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.55);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .calendar-panel.calendar-panel--open {
+      animation: none;
+    }
   }
 }

@@ -11,6 +11,11 @@ from pathlib import Path
 from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parent.parent
+SCRIPTS = Path(__file__).resolve().parent
+import sys
+
+sys.path.insert(0, str(SCRIPTS))
+from playwright_calendar import CALENDAR_ISSUE, CALENDAR_VIEWPORTS, exercise_calendar
 BASE_URL = "http://127.0.0.1:8765/"
 SEARCH_QUERIES = ["claud haiku", "messy argentina", "ifcopenshel", "bong da"]
 
@@ -116,6 +121,29 @@ def main() -> int:
                 if "Không có kết quả" in status:
                     errors.append(f"search: no hits for {q!r} ({status})")
             ctx.close()
+
+            for w in CALENDAR_VIEWPORTS:
+                for theme in ("light", "dark"):
+                    ctx = browser.new_context(
+                        viewport={"width": w, "height": 900 if w >= 768 else 844},
+                        color_scheme=theme,
+                    )
+                    ctx.add_init_script(
+                        f'localStorage.setItem("dailynews-theme", "{theme}");'
+                        f'localStorage.setItem("dailynews-calendar-open", "0");'
+                    )
+                    page = ctx.new_page()
+                    page.goto(
+                        f"{BASE_URL}index.html?date={CALENDAR_ISSUE}",
+                        wait_until="domcontentloaded",
+                        timeout=60000,
+                    )
+                    page.wait_for_selector(".calendar-strip-toggle", timeout=30000)
+                    errors.extend(
+                        exercise_calendar(page, w, theme, "smoke")
+                    )
+                    ctx.close()
+
             browser.close()
     finally:
         if server:

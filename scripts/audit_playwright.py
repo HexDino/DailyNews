@@ -9,6 +9,11 @@ from pathlib import Path
 from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parent.parent
+SCRIPTS = Path(__file__).resolve().parent
+import sys
+
+sys.path.insert(0, str(SCRIPTS))
+from playwright_calendar import CALENDAR_ISSUE, CALENDAR_VIEWPORTS, exercise_calendar
 BASE_URL = "http://127.0.0.1:8765/"
 VIEWPORTS = [(1280, 800), (768, 1024), (390, 844)]
 THEMES = ["light", "dark"]
@@ -116,6 +121,26 @@ def audit():
                 for ce in console_errs:
                     errors.append(f"archive {w}x{h}: console: {ce}")
                 ctx.close()
+
+            cal_url = f"{BASE_URL}index.html?date={CALENDAR_ISSUE}"
+            for w in CALENDAR_VIEWPORTS:
+                for theme in THEMES:
+                    ctx = browser.new_context(
+                        viewport={"width": w, "height": 900 if w >= 768 else 844},
+                        color_scheme=theme,
+                    )
+                    ctx.add_init_script(
+                        f'localStorage.setItem("dailynews-theme", "{theme}");'
+                        f'localStorage.setItem("dailynews-calendar-open", "0");'
+                    )
+                    page = ctx.new_page()
+                    try:
+                        page.goto(cal_url, wait_until="domcontentloaded", timeout=60000)
+                        page.wait_for_selector(".calendar-strip-toggle", timeout=30000)
+                        errors.extend(exercise_calendar(page, w, theme, CALENDAR_ISSUE))
+                    except Exception as e:
+                        errors.append(f"calendar {w}px {theme}: {e}")
+                    ctx.close()
 
             browser.close()
     finally:
