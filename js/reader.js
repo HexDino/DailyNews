@@ -95,23 +95,63 @@
     return day;
   }
 
+  function removeDiacritics(s) {
+    return String(s)
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/đ/g, "d")
+      .replace(/Đ/g, "D");
+  }
+
+  function slugify(text) {
+    return removeDiacritics(text)
+      .toLowerCase()
+      .replace(/&/g, " va ")
+      .replace(/[^a-z0-9\s-]/g, "")
+      .trim()
+      .replace(/\s+/g, "-")
+      .replace(/-+/g, "-");
+  }
+
+  function topicSlug(topic) {
+    return slugify(topic);
+  }
+
+  function sectionSlug(title) {
+    return slugify(title);
+  }
+
+  function subsectionSlug(topic, subtitle) {
+    return slugify(`${topic} ${subtitle}`);
+  }
+
   function parseParams() {
     const q = new URLSearchParams(location.search);
     let date = q.get("date");
     let tag = q.get("tag") || "all";
-    if (location.hash.startsWith("#tag=")) {
-      tag = location.hash.slice(5) || "all";
+    let anchor = "";
+    const raw = location.hash.slice(1);
+    if (raw.startsWith("tag=")) {
+      if (!q.has("tag")) tag = raw.slice(4) || "all";
+    } else if (raw) {
+      anchor = decodeURIComponent(raw);
     }
-    return { date, tag };
+    return { date, tag, anchor };
   }
 
-  function syncUrl(date, tag) {
+  function syncUrl(date, tag, anchor) {
     const q = new URLSearchParams();
     if (date) q.set("date", date);
     if (tag && tag !== "all") q.set("tag", tag);
     const qs = q.toString();
-    const url = location.pathname + (qs ? "?" + qs : "");
+    let url = location.pathname + (qs ? "?" + qs : "");
+    if (anchor) url += "#" + encodeURIComponent(anchor);
     history.replaceState(null, "", url);
+  }
+
+  function scrollToAnchor(id) {
+    const el = document.getElementById(id);
+    if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
   function getFavorites() {
@@ -221,6 +261,10 @@
       .join("");
   }
 
+  function tocAnchorLink(id, labelHtml) {
+    return `<a class="toc-link" href="#${escapeHtml(id)}">${labelHtml}</a>`;
+  }
+
   function tocEntries(sections) {
     const rows = [];
     let i = 0;
@@ -228,20 +272,30 @@
       const sec = sections[i];
       if (sec.topic) {
         const topic = sec.topic;
+        const topicId = topicSlug(topic);
         const parts = [];
         while (i < sections.length && sections[i].topic === topic) {
           const s = sections[i];
           const n = (s.items || []).length;
-          if (s.subtitle) parts.push(`${escapeHtml(s.subtitle)} ${n}`);
-          else parts.push(`${n} tin`);
+          if (s.subtitle) {
+            const subId = subsectionSlug(topic, s.subtitle);
+            parts.push(
+              tocAnchorLink(
+                subId,
+                `${escapeHtml(s.subtitle)} ${n}`
+              )
+            );
+          } else parts.push(`${n} tin`);
           i += 1;
         }
         rows.push(
-          `<li><span><strong>${escapeHtml(topic)}</strong> — ${parts.join(" · ")}</span></li>`
+          `<li><span>${tocAnchorLink(topicId, `<strong>${escapeHtml(topic)}</strong>`)} — ${parts.join(" · ")}</span></li>`
         );
       } else {
+        const id = sectionSlug(sec.title);
+        const count = (sec.items || []).length;
         rows.push(
-          `<li><span><strong>${escapeHtml(sec.title)}</strong> — ${(sec.items || []).length} tin</span></li>`
+          `<li><span>${tocAnchorLink(id, `<strong>${escapeHtml(sec.title)}</strong>`)} — ${count} tin</span></li>`
         );
         i += 1;
       }
@@ -250,8 +304,11 @@
   }
 
   function renderSubsectionBlock(sec) {
+    const subId = sec.subtitle
+      ? subsectionSlug(sec.topic, sec.subtitle)
+      : "";
     const subhead = sec.subtitle
-      ? `<h3 class="subsection-title">${escapeHtml(sec.subtitle)}</h3>`
+      ? `<h3 class="subsection-title" id="${escapeHtml(subId)}">${escapeHtml(sec.subtitle)}</h3>`
       : "";
     const intro = sec.intro
       ? `<div class="intro">${escapeHtml(sec.intro)}</div>`
@@ -271,20 +328,22 @@
           subs.push(sections[i]);
           i += 1;
         }
-        const id = `topic-${topic.replace(/\s+/g, "-")}`;
+        const id = topicSlug(topic);
         blocks.push(
-          `<section class="section-block topic-group" id="${escapeHtml(id)}">
-        <h2>${escapeHtml(topic)}</h2>
+          `<section class="section-block topic-group">
+        <h2 id="${escapeHtml(id)}">${escapeHtml(topic)}</h2>
         ${subs.map(renderSubsectionBlock).join("")}
+        <p class="back-to-toc"><a class="toc-link" href="#muc-luc">↑ Mục lục</a></p>
       </section>`
         );
       } else {
-        const id = sec.title.replace(/\s+/g, "-");
+        const id = sectionSlug(sec.title);
         blocks.push(
-          `<section class="section-block" id="sec-${escapeHtml(id)}">
-        <h2>${escapeHtml(sec.title)}</h2>
+          `<section class="section-block">
+        <h2 id="${escapeHtml(id)}">${escapeHtml(sec.title)}</h2>
         ${sec.intro ? `<div class="intro">${escapeHtml(sec.intro)}</div>` : ""}
         <div class="articles-columns">${renderArticles(sec)}</div>
+        <p class="back-to-toc"><a class="toc-link" href="#muc-luc">↑ Mục lục</a></p>
       </section>`
         );
         i += 1;
@@ -299,8 +358,8 @@
     const showHighlights = tag === "all";
 
     let toc = "";
-    if (tag === "all" && sections.length) {
-      toc = `<div class="toc-block"><h2>Trong số này</h2><ul>${tocEntries(sections)}</ul></div>`;
+    if (sections.length) {
+      toc = `<div class="toc-block" id="muc-luc"><h2>Trong số này</h2><ul>${tocEntries(sections)}</ul></div>`;
     }
 
     let empty = "";
@@ -400,7 +459,7 @@
     const status = document.getElementById("status");
     if (!root) return;
 
-    let { date, tag } = parseParams();
+    let { date, tag, anchor: pendingAnchor } = parseParams();
 
     try {
       const index = await loadIndex();
@@ -410,15 +469,43 @@
 
       document.title = `${MASTHEAD} — ${data.date_vn || vnDate(data.date)}`;
 
-      const render = (newTag) => {
+      const render = (newTag, options = {}) => {
         tag = newTag;
-        syncUrl(date, tag);
+        const urlAnchor = options.anchor ?? options.scrollTo ?? "";
+        syncUrl(date, tag, urlAnchor);
         root.innerHTML = renderIssue(data, tag);
         renderTags(tag, render);
-        location.hash = tag === "all" ? "" : `#tag=${tag}`;
+        if (options.scrollTo) {
+          requestAnimationFrame(() => scrollToAnchor(options.scrollTo));
+        }
       };
 
-      render(tag);
+      root.addEventListener("click", (e) => {
+        const a = e.target.closest("a.toc-link");
+        if (!a || !root.contains(a)) return;
+        const href = a.getAttribute("href");
+        if (!href || !href.startsWith("#")) return;
+        const id = decodeURIComponent(href.slice(1));
+        if (!id || id === "muc-luc") return;
+        e.preventDefault();
+        if (tag !== "all") {
+          render("all", { scrollTo: id, anchor: id });
+        } else {
+          syncUrl(date, tag, id);
+          scrollToAnchor(id);
+        }
+      });
+
+      window.addEventListener("hashchange", () => {
+        const { anchor } = parseParams();
+        if (anchor) scrollToAnchor(anchor);
+      });
+
+      if (pendingAnchor) {
+        render("all", { scrollTo: pendingAnchor, anchor: pendingAnchor });
+      } else {
+        render(tag);
+      }
       updateFavButton(date);
       setupPdfPanel(date);
 
@@ -514,6 +601,10 @@
     getFavorites,
     vnDate,
     MASTHEAD,
+    slugify,
+    topicSlug,
+    sectionSlug,
+    subsectionSlug,
   };
 
   if (document.body.dataset.page === "reader") initReader();
