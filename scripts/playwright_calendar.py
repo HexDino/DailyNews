@@ -163,12 +163,16 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
     if is_mobile and (st["teaserVisible"] or st["panelOpen"]):
         errors.append(f"{label} {width}px {theme}: calendar chrome visible on load")
 
-    page.evaluate("localStorage.setItem('dailynews-calendar-open', '1')")
-    page.reload(wait_until="domcontentloaded")
-    page.wait_for_selector("#btn-calendar:not([hidden])", timeout=30000)
-    st = _calendar_state(page)
-    if is_mobile and st["panelOpen"]:
-        errors.append(f"{label} {width}px {theme}: auto-opened modal from localStorage")
+    if is_mobile:
+        page.evaluate("localStorage.setItem('dallynews-calendar-open', '1')")
+        page.reload(wait_until="domcontentloaded")
+        page.wait_for_selector("#btn-calendar:not([hidden])", timeout=30000)
+        st = _calendar_state(page)
+        if st["panelOpen"]:
+            errors.append(
+                f"{label} {width}px {theme}: auto-opened modal from localStorage"
+            )
+        _reset_calendar_dom(page)
 
     if not is_mobile:
         try:
