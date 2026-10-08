@@ -34,9 +34,10 @@
         <button type="button" id="btn-calendar" class="icon-btn btn-calendar" hidden aria-label="Lịch sự kiện" title="Lịch sự kiện">
           <svg class="toolbar-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="5.5" width="16" height="14" rx="1.25" fill="none" stroke="currentColor" stroke-width="1.75"/><path d="M4 9.5h16M8 3.5v4M16 3.5v4" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>
         </button>
-        <button type="button" id="btn-theme" class="theme-switch theme-switch--toolbar" aria-label="Đổi giao diện sáng/tối">
-          <span class="theme-icon" aria-hidden="true"></span>
-          <span class="theme-track" aria-hidden="true"><span class="theme-thumb"></span></span>
+        <button type="button" id="btn-theme" class="theme-toggle" aria-label="Đổi giao diện sáng/tối" aria-pressed="false">
+          <svg class="theme-toggle-glyph theme-toggle-glyph--sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.75"/><path d="M12 4v2M12 18v2M4 12h2M18 12h2M6.3 6.3l1.4 1.4M16.3 16.3l1.4 1.4M6.3 17.7l1.4-1.4M16.3 7.7l1.4-1.4" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>
+          <svg class="theme-toggle-glyph theme-toggle-glyph--moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M18 14.8A6.8 6.8 0 0 1 9.2 5.2 7.2 7.2 0 1 0 18 14.8Z" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linejoin="round"/></svg>
+          <span class="theme-toggle-track" aria-hidden="true"><span class="theme-toggle-thumb"></span></span>
         </button>
         <button type="button" id="btn-more" class="icon-btn" aria-label="Menu thêm" aria-expanded="false" aria-controls="more-menu">
           <svg class="toolbar-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 7h14M5 12h14M5 17h14" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>
