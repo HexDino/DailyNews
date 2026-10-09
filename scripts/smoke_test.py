@@ -19,7 +19,7 @@ from playwright_calendar import (
     CALENDAR_ISSUE,
     CALENDAR_ISSUES_ARCHIVE,
     CALENDAR_VIEWPORTS,
-    exercise_calendar,
+    exercise_calendar_with_retry,
 )
 from playwright_followups import (
     FOLLOWUPS_ISSUE,
@@ -156,7 +156,7 @@ def main() -> int:
                     )
                     page.wait_for_selector("#btn-calendar:not([hidden])", timeout=30000)
                     errors.extend(
-                        exercise_calendar(page, w, theme, "smoke")
+                        exercise_calendar_with_retry(page, w, theme, "smoke")
                     )
                     ctx.close()
 
@@ -200,7 +200,9 @@ def main() -> int:
                         )
                         if page.locator("#btn-calendar:not([hidden])").count():
                             errors.extend(
-                                exercise_calendar(page, w, theme, f"archive-{archive_id}")
+                                exercise_calendar_with_retry(
+                                    page, w, theme, f"archive-{archive_id}"
+                                )
                             )
                         ctx.close()
 

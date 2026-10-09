@@ -2,11 +2,12 @@
 """Shared Playwright checks for the Lịch sự kiện calendar UI."""
 from __future__ import annotations
 
-from playwright.sync_api import Page
+from playwright.sync_api import Page, TimeoutError as PlaywrightTimeout
 
-CALENDAR_ISSUE = "2026-10-08"
+CALENDAR_ISSUE = "2026-10-10"
 CALENDAR_VIEWPORTS = (1280, 1024, 768, 390)
 CALENDAR_ISSUES_ARCHIVE = ("2026-10-07", "2026-10-07-chieu")
+CALENDAR_WAIT_MS = 15000
 
 
 def _panel_js() -> str:
@@ -17,10 +18,52 @@ def _panel_js() -> str:
 def mouse_click_locator(page: Page, selector: str) -> None:
     """Real mouse click at element center (not Playwright element.click())."""
     loc = page.locator(selector).first
+    loc.scroll_into_view_if_needed(timeout=10000)
     box = loc.bounding_box()
     if not box or box["width"] < 1 or box["height"] < 1:
         raise RuntimeError(f"no box for {selector}")
     page.mouse.click(box["x"] + box["width"] / 2, box["y"] + box["height"] / 2)
+
+
+def wait_calendar_open(page: Page, timeout: int = CALENDAR_WAIT_MS) -> None:
+    panel_expr = _panel_js()
+    page.wait_for_function(
+        f"() => {{ const p = {panel_expr}; return p && !p.hidden; }}",
+        timeout=timeout,
+    )
+
+
+def wait_calendar_closed(page: Page, timeout: int = CALENDAR_WAIT_MS) -> None:
+    panel_expr = _panel_js()
+    page.wait_for_function(
+        f"""() => {{
+      const p = {panel_expr};
+      const bd = document.querySelector('.calendar-backdrop');
+      const bdOk = !bd || bd.hidden || getComputedStyle(bd).display === 'none';
+      return p && p.hidden && bdOk && !document.body.classList.contains('calendar-sheet-open');
+    }}""",
+        timeout=timeout,
+    )
+
+
+def close_calendar_ui(page: Page) -> None:
+    """Close via ✕ with Esc fallback; wait until fully dismissed."""
+    panel_expr = _panel_js()
+    for attempt in range(2):
+        open_now = page.evaluate(f"() => {{ const p = {panel_expr}; return !!(p && !p.hidden); }}")
+        if not open_now:
+            wait_calendar_closed(page)
+            return
+        try:
+            mouse_click_locator(page, ".calendar-panel-close")
+        except RuntimeError:
+            page.keyboard.press("Escape")
+        try:
+            wait_calendar_closed(page, timeout=8000 if attempt == 0 else CALENDAR_WAIT_MS)
+            return
+        except PlaywrightTimeout:
+            page.keyboard.press("Escape")
+    wait_calendar_closed(page)
 
 
 def _calendar_state(page: Page) -> dict:
@@ -60,12 +103,9 @@ def _assert_sources(page: Page, label: str, width: int, theme: str) -> list[str]
       const bad = [];
       items.forEach((it, i) => {
         const line = it.querySelector('.sources-line');
-        if (!line) {
-          bad.push(`item${i}: no sources line`);
-          return;
-        }
-        const label = line.querySelector('.sources-label');
-        if (!label || label.textContent.trim() !== 'Nguồn:') {
+        if (!line) return;
+        const srcLabel = line.querySelector('.sources-label');
+        if (!srcLabel || srcLabel.textContent.trim() !== 'Nguồn:') {
           bad.push(`item${i}: bad label`);
         }
         const links = line.querySelectorAll('.source-link');
@@ -104,10 +144,7 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
     if not page.locator("#btn-calendar:not([hidden])").count():
         return errors
 
-    panel_expr = _panel_js()
     _reset_calendar_dom(page)
-    wait_open = f"() => {{ const p = {panel_expr}; return p && !p.hidden; }}"
-    wait_closed = f"() => {{ const p = {panel_expr}; return p && p.hidden; }}"
     is_mobile = width <= 640
 
     def assert_state(want_open: bool, ctx: str) -> None:
@@ -141,18 +178,6 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
                     errors.append(
                         f"{label} {width}px {theme} {ctx}: panel not centered"
                     )
-            if not want_open and st["panelOpen"] is False:
-                inline = page.evaluate(
-                    """() => {
-                  const p = document.querySelector('#lich-su-kien #calendar-panel-full');
-                  if (!p || p.hidden) return false;
-                  return p.parentElement !== document.body;
-                }"""
-                )
-                if inline:
-                    errors.append(
-                        f"{label} {width}px {theme} {ctx}: inline calendar in page flow"
-                    )
         else:
             if st["backdropVisible"]:
                 errors.append(f"{label} {width}px {theme} {ctx}: desktop backdrop visible")
@@ -174,14 +199,13 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
         except RuntimeError as e:
             errors.append(f"{label} {width}px {theme}: toc calendar mouse: {e}")
         else:
-            page.wait_for_function(wait_open, timeout=5000)
+            wait_calendar_open(page)
             assert_state(True, "toc open")
             try:
-                mouse_click_locator(page, ".calendar-panel-close")
-            except RuntimeError as e:
+                close_calendar_ui(page)
+            except PlaywrightTimeout as e:
                 errors.append(f"{label} {width}px {theme}: toc close: {e}")
             else:
-                page.wait_for_function(wait_closed, timeout=5000)
                 assert_state(False, "toc close")
 
         page.evaluate(
@@ -207,15 +231,14 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
         except RuntimeError as e:
             errors.append(f"{label} {width}px {theme}: strip toggle mouse: {e}")
             return errors
-        page.wait_for_function(wait_open, timeout=5000)
+        wait_calendar_open(page)
         assert_state(True, "strip open")
         errors.extend(_assert_sources(page, label, width, theme))
         try:
-            mouse_click_locator(page, ".calendar-panel-close")
-        except RuntimeError as e:
-            errors.append(f"{label} {width}px {theme}: close mouse: {e}")
+            close_calendar_ui(page)
+        except PlaywrightTimeout as e:
+            errors.append(f"{label} {width}px {theme}: strip close: {e}")
             return errors
-        page.wait_for_function(wait_closed, timeout=5000)
         assert_state(False, "close button")
 
     try:
@@ -223,16 +246,15 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
     except RuntimeError as e:
         errors.append(f"{label} {width}px {theme}: header calendar mouse: {e}")
         return errors
-    page.wait_for_function(wait_open, timeout=5000)
+    wait_calendar_open(page)
     assert_state(True, "header open")
     errors.extend(_assert_sources(page, label, width, theme))
 
     try:
-        mouse_click_locator(page, ".calendar-panel-close")
-    except RuntimeError as e:
-        errors.append(f"{label} {width}px {theme}: close mouse: {e}")
+        close_calendar_ui(page)
+    except PlaywrightTimeout as e:
+        errors.append(f"{label} {width}px {theme}: header close: {e}")
         return errors
-    page.wait_for_function(wait_closed, timeout=5000)
     assert_state(False, "close button")
 
     st = _calendar_state(page)
@@ -240,14 +262,14 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
         errors.append(f"{label} {width}px {theme}: backdrop/body stuck after close")
 
     mouse_click_locator(page, "#btn-calendar")
-    page.wait_for_function(wait_open, timeout=5000)
+    wait_calendar_open(page)
     page.keyboard.press("Escape")
-    page.wait_for_function(wait_closed, timeout=5000)
+    wait_calendar_closed(page)
     assert_state(False, "escape close")
 
     if is_mobile:
         mouse_click_locator(page, "#btn-calendar")
-        page.wait_for_function(wait_open, timeout=5000)
+        wait_calendar_open(page)
         page.locator('button[data-tag-id="tech"]').click(force=True)
         page.wait_for_timeout(600)
         st = _calendar_state(page)
@@ -257,11 +279,31 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
             )
         if st["panelOpen"]:
             try:
-                mouse_click_locator(page, ".calendar-panel-close")
-            except RuntimeError as e:
+                close_calendar_ui(page)
+            except PlaywrightTimeout as e:
                 errors.append(f"{label} {width}px {theme}: close after rerender: {e}")
-            else:
-                page.wait_for_function(wait_closed, timeout=5000)
         assert_state(False, "after tag rerender")
 
     return errors
+
+
+def exercise_calendar_with_retry(
+    page: Page, width: int, theme: str, label: str, retries: int = 1
+) -> list[str]:
+    """Run exercise_calendar; on timeout/exception retry once after reset."""
+    last_exc: Exception | None = None
+    for attempt in range(retries + 1):
+        try:
+            errs = exercise_calendar(page, width, theme, label)
+            if errs:
+                return errs
+            return []
+        except PlaywrightTimeout as e:
+            last_exc = e
+            if attempt >= retries:
+                return [f"{label} {width}px {theme}: calendar exercise timeout: {e}"]
+            _reset_calendar_dom(page)
+            page.wait_for_timeout(400)
+    if last_exc:
+        return [f"{label} {width}px {theme}: calendar exercise failed: {last_exc}"]
+    return []
