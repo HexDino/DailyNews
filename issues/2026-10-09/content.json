@@ -1,0 +1,867 @@
+{
+  "date": "2026-10-09",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 9/10/2026 · Tin tổng hợp trong khoảng 24 giờ qua · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Nhà thơ Canada Anne Carson đoạt Nobel Văn học 2026",
+    "Việt Nam – Lào trao 11 văn kiện, Việt Nam xây tặng hai trường học; hôm nay Thủ tướng sang Campuchia",
+    "Google ra Gemini agent cho doanh nghiệp; Claude làm được dashboard “sống” và video giải thích",
+    "U17 nữ Việt Nam thắng 20-0; CAHN thắng ở Singapore nhưng Đình Bắc chấn thương",
+    "Xây dựng: Bentley trao giải Year in Infrastructure; Quảng Ngãi khởi công cầu dây võng tự neo đầu tiên"
+  ],
+  "followups": [
+    {
+      "title": "Chuyến thăm Lào và Campuchia của Thủ tướng Lê Minh Hưng",
+      "update": "Chặng Lào: trao 11 văn kiện hợp tác, Việt Nam xây tặng hai trường học 2 triệu USD, khởi động Trường Đại học Hữu nghị Lào – Việt. Theo lịch, Thủ tướng thăm Campuchia 9–10/10.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-06-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/viet-nam-xay-tang-lao-hai-truong-hoc-tri-gia-2-trieu-usd-5130096.html"
+        }
+      ]
+    },
+    {
+      "title": "Hội nghị Trung ương 4 khóa XIV",
+      "update": "Sau bế mạc, Tổng Bí thư, Chủ tịch nước nêu mục tiêu 2027: GDP tăng từ 10% trở lên, CPI khoảng 4,5%. Hội nghị toàn quốc quán triệt Nghị quyết dự kiến ngày 16/10.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-06-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-nam-2027-phai-tang-toc-but-pha-5130020.html"
+        }
+      ]
+    },
+    {
+      "title": "Chiến sự Yemen lan sang Saudi Arabia",
+      "update": "Houthi nói tên lửa đạn đạo trúng sân bay King Khalid (Riyadh) trưa 8/10, ra “cảnh báo lần cuối” cho các hãng bay; liên quân nói đánh chặn hai tên lửa.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/houthi-phong-ten-lua-dan-dao-nham-vao-san-bay-thu-do-arab-saudi-5130111.html"
+        }
+      ]
+    },
+    {
+      "title": "Mưa lũ miền Trung",
+      "update": "Xã Núi Thành (Đà Nẵng) ngập gần 1 m, khoảng 80 hộ sơ tán, một người mất tích do lật ghe; QL55 qua đèo Đa Mi (Lâm Đồng) sạt lở chắn đường.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/nhieu-khu-dan-cu-phia-nam-da-nang-ngap-gan-mot-met-5130083.html"
+        }
+      ]
+    },
+    {
+      "title": "Man City và phán quyết vi phạm tài chính",
+      "update": "Haaland lên tiếng kêu gọi đoàn kết; HLV Maresca dự kiến trả lời báo chí hôm nay; đội làm khách Liverpool ngày 11/10.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/haaland-keu-goi-man-city-doan-ket-giua-khung-hoang-5130142.html"
+        }
+      ]
+    },
+    {
+      "title": "Nobel Văn học 2026",
+      "update": "Thuộc về nhà thơ Canada Anne Carson, 76 tuổi; lễ trao giải tại Stockholm vào tháng 12.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-08",
+      "sources": [
+        {
+          "name": "NobelPrize.org",
+          "url": "https://www.nobelprize.org/prizes/literature/2026/press-release/"
+        }
+      ]
+    },
+    {
+      "title": "openBIM Awards 2026 (Tokyo)",
+      "update": "Lễ trao giải diễn ra ngày 8/10 theo lịch của buildingSMART, nhưng đến sáng 9/10 trang chính thức chưa đăng danh sách đoạt giải; Daily News sẽ đưa khi có nguồn xác nhận.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08",
+      "sources": [
+        {
+          "name": "buildingSMART International",
+          "url": "https://www.buildingsmart.org/buildingsmart-international-announces-finalists-for-the-2026-openbim-awards/"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-09",
+      "time": "16:00",
+      "timezone": "giờ VN",
+      "title": "Công bố giải Nobel Hòa bình 2026",
+      "topic": "Chính trị",
+      "note": "11:00 CEST tại Oslo.",
+      "sources": [
+        {
+          "name": "Nobelprize.org",
+          "url": "https://www.nobelprize.org/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Thủ tướng Lê Minh Hưng thăm chính thức Campuchia (9–10/10)",
+      "topic": "Chính trị",
+      "note": "Sau chặng Lào 8–9/10.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thu-tuong-le-minh-hung-se-tham-lao-va-campuchia-100261006091208174.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "time": "5h–22h",
+      "timezone": "giờ VN",
+      "title": "Hà Nội cấm xe tải từ 2 tấn, xe khách từ 16 chỗ qua cầu Thăng Long (đến hết 10/11)",
+      "topic": "Đời sống",
+      "note": "Bắt đầu áp dụng từ hôm nay; đi cầu Nhật Tân.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ha-noi-cam-xe-tai-xe-khach-tu-16-cho-qua-cau-thang-long-5129584.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "U17 nữ Việt Nam – Kyrgyzstan, lượt cuối bảng D vòng loại châu Á",
+      "topic": "Bóng đá",
+      "note": "Việt Nam chỉ cần hoà để giành vé VCK 2027.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/viet-nam-thang-20-0-o-giai-u17-nu-chau-a-5130112.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "time": "22:30",
+      "timezone": "giờ VN",
+      "title": "Liverpool – Man City, vòng 6 Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "Trận đầu của Man City sau phán quyết tài chính.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/haaland-keu-goi-man-city-doan-ket-giua-khung-hoang-5130142.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn thăm chính thức Trung Quốc (11–15/10)",
+      "topic": "Chính trị",
+      "note": "Đồng chủ trì phiên họp thứ hai Ủy ban hợp tác Quốc hội – Nhân đại.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chu-tich-quoc-hoi-tran-thanh-man-sap-tham-trung-quoc-5129994.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Huế: mưa lớn có thể kéo dài đến 11/10, giảm dần từ 12/10",
+      "topic": "Đời sống",
+      "note": "Theo dự báo nêu ở số chiều 8/10.",
+      "sources": [
+        {
+          "name": "Tiền Phong (qua Vietnam.vn)",
+          "url": "https://www.vietnam.vn/hue-mua-trang-troi-lu-song-huong-vuot-bao-dong-1"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Công bố giải Nobel Kinh tế 2026, khép lại tuần Nobel 5–12/10",
+      "topic": "Văn hoá",
+      "note": "Theo lịch công bố của Nobelprize.org.",
+      "sources": [
+        {
+          "name": "Nobelprize.org",
+          "url": "https://www.nobelprize.org/prizes/literature/2026/summary/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "20:00",
+      "timezone": "giờ VN",
+      "title": "Apple tổ chức sự kiện “Welcome home” ở New York",
+      "topic": "Công nghệ",
+      "note": "9h sáng giờ miền Đông Mỹ; dự đoán sản phẩm nhà thông minh.",
+      "sources": [
+        {
+          "name": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/08/apple-announces-special-event-for-october-13-welcome-home/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Hội nghị toàn quốc quán triệt Nghị quyết Trung ương 4 khóa XIV",
+      "topic": "Chính trị",
+      "note": "Theo phát biểu bế mạc của Tổng Bí thư, Chủ tịch nước.",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/chinh-tri/toan-van-bai-phat-bieu-be-mac-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-trung-uong-4-khoa-xiv-post1339553.vov"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "Google và Anthropic cùng đẩy agent vào công việc văn phòng; Codex tiếp tục chuỗi 28 ngày.",
+      "items": [
+        {
+          "headline": "Google ra “Gemini agent”: một agent duy nhất cho công việc, chạy cả mô hình Gemini lẫn Claude",
+          "meta": "Google Cloud · sự kiện Gemini at Work 2026 · 8/10 (giờ Mỹ)",
+          "body": [
+            "Gemini agent nhận việc từ một ô lệnh duy nhất: trả lời câu hỏi, xử lý tác vụ, viết nội dung và viết, chạy mã. Agent tự lập kế hoạch, dùng skill và công cụ, kết nối hệ thống của doanh nghiệp rồi trả kết quả ngay trong Gmail, Docs, Sheets, Calendar, cũng như qua Slack và Microsoft 365. Theo CNBC, agent tự chọn mô hình phù hợp cho từng việc, hiện gồm mô hình Gemini của Google và Claude của Anthropic, sẽ thêm mô hình khác sau.",
+            "Người dùng có thể tạo “coworker agent” đóng vai thành viên trong nhóm, có địa chỉ email riêng và chỉ được truy cập dữ liệu được giao. Bản đầu chỉ mở cho khách hàng doanh nghiệp dưới dạng private preview; phiên bản cho tài chính và pháp lý đang thử nghiệm. Tại sự kiện, CEO Sundar Pichai nói Gemini có hơn 1 tỷ người dùng mỗi tháng và gần 90% doanh nghiệp Fortune 100 dùng Gemini Enterprise."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Google Blog",
+              "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up.html"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+            }
+          ]
+        },
+        {
+          "headline": "Claude làm được dashboard dữ liệu “sống” và video giải thích; Docs, Slides, Design ra khỏi beta, mở cho cả gói Free",
+          "meta": "Anthropic · Digital Trends, The Verge · 8/10 (giờ Mỹ)",
+          "body": [
+            "Claude Dashboards (beta, gói trả phí) kết nối thẳng với Databricks, Snowflake, Amazon Redshift, ClickHouse hay Salesforce; người dùng hỏi bằng lời thường thay vì viết SQL, Claude dựng dashboard và tự làm mới khi có dữ liệu mới. Bấm vào bất kỳ con số nào sẽ thấy truy vấn đã tạo ra nó; có thể chuyển dashboard sang Grafana, Hex, Mixpanel, Sigma.",
+            "Claude Motion (beta, gói Team và Enterprise) biến báo cáo hay biểu đồ thành đoạn hoạt hình khoảng 30 giây, tải về dạng MP4. Claude không tạo cảnh quay thật hay người ảo mà viết mã để làm chuyển động chữ và hình. Cùng ngày, Anthropic công bố cam kết 150 triệu USD trong ba năm cho chương trình Genesis Mission của Mỹ, đưa Claude tới hơn 15 cơ quan như NASA, NIH, NSF, và cập nhật Chính sách sử dụng, có hiệu lực từ 12/11."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Digital Trends",
+              "url": "https://www.digitaltrends.com/computing/claude-can-now-build-live-dashboards-and-animated-explainers-from-your-data/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1008134/claude-can-now-turn-data-into-animated-explainers"
+            },
+            {
+              "name": "Anthropic (Genesis Mission)",
+              "url": "https://www.anthropic.com/news/genesis-mission-commitment"
+            },
+            {
+              "name": "Anthropic (Usage Policy)",
+              "url": "https://www.anthropic.com/news/2026-usage-policy-update"
+            }
+          ]
+        },
+        {
+          "headline": "Codex ngày thứ 4: chỉnh hướng agent “tức thì” giữa chừng; GPT-6.1 Sol Ultrafast nhanh tới 8 lần bắt đầu triển khai",
+          "meta": "OpenAI · RuntimeWire, VibeHacker, GitHub · 8/10 · tiếp nối chuỗi “28 ngày” ở các số trước",
+          "body": [
+            "Trưởng nhóm Codex Thibault Sottiaux cho biết lệnh chỉnh hướng (steering) khi tác vụ đang chạy nay có hiệu lực ngay, để mô hình đổi hướng thay vì tiếp tục tốn công vào hướng cũ. Cùng ngày, OpenAI Developers nói bậc Ultrafast của GPT-6.1 Sol bắt đầu có trong API, Codex và ChatGPT Work, tạo token nhanh tới 8 lần bản Standard; đây là tốc độ đỉnh do hãng công bố, không có nghĩa tác vụ xong nhanh gấp 8.",
+            "Bản Codex CLI rust-v0.162.0 (8/10) thêm công cụ tạo và liệt kê Git worktree được quản lý, ghim tác vụ trong Command Center bằng phím p, lệnh /copy để chép từng khối hội thoại và cho phép bấm vào URL trong các hộp xác nhận."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "RuntimeWire",
+              "url": "https://runtimewire.com/article/openai-codex-instant-steering-gpt-61-sol-ultrafast"
+            },
+            {
+              "name": "VibeHacker",
+              "url": "https://vibehacker.com/news/codex-day-4-instant-steering-ships-alongside-gpt-6-1-sol-ultrafast-up-to-8x-fast"
+            },
+            {
+              "name": "GitHub openai/codex",
+              "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "Chọn từ GitHub Trending sáng 9/10 (giờ VN); bỏ các repo đã đưa ở số trước như rea, diagram-design, claude-mem, mattpocock/skills, knowledge-work-plugins, openrig, cursor/plugins.",
+      "items": [
+        {
+          "headline": "earthtojake/text-to-cad: cho agent dựng mô hình 3D, kiểm tra khả năng chế tạo và xuất bản vẽ kỹ thuật",
+          "meta": "GitHub Trending (tuần) · khoảng 18.500 sao, +1.898 trong tuần · Python, MIT",
+          "body": [
+            "Plugin giúp coding agent tạo mô hình 3D dạng STEP, GLB, STL hoặc 3MF ngay trên máy, chạy kiểm tra thiết kế cho sản xuất (DFM), sinh bản vẽ kỹ thuật và kết nối dịch vụ in 3D, gia công tấm kim loại, CNC. Nền tảng là build123d và Open CASCADE; hỗ trợ Claude Code, Codex, Cursor, Gemini và Grok. Lưu ý: mặc định gửi thống kê sử dụng ẩn danh, tắt bằng lệnh uvx cadgen telemetry off."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/earthtojake/text-to-cad"
+            }
+          ]
+        },
+        {
+          "headline": "Panniantong/Agent-Reach: một CLI cho agent đọc Twitter, Reddit, YouTube, GitHub, Bilibili, Xiaohongshu",
+          "meta": "GitHub Trending (tuần) · khoảng 94.100 sao, +6.987 trong tuần · Python, MIT",
+          "body": [
+            "Dự án gom các cách truy cập web vào một công cụ dòng lệnh để agent đọc và tìm kiếm trên nhiều nền tảng mà không trả phí API, có lệnh agent-reach doctor để kiểm tra kênh nào đang hoạt động. Theo README, cookie chỉ lưu trên máy người dùng; mỗi nền tảng có phương án chính và phương án dự phòng khi bị chặn."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/Panniantong/Agent-Reach"
+            }
+          ]
+        },
+        {
+          "headline": "heygen-com/hyperframes: viết HTML, xuất video MP4, làm riêng cho agent",
+          "meta": "GitHub Trending (tuần) · khoảng 59.200 sao, +3.996 trong tuần · TypeScript, Apache-2.0",
+          "body": [
+            "Framework mã nguồn mở biến HTML, CSS, media và hoạt hình thành video MP4 tất định. Đi kèm 21 skill để agent tự lập kế hoạch, viết HTML, gắn hoạt hình, thêm media, kiểm lỗi, xem trước và xuất video; dùng được với Claude Code, Codex, Cursor, Gemini CLI."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/heygen-com/hyperframes"
+            }
+          ]
+        },
+        {
+          "headline": "EpicGames/raddebugger: trình gỡ lỗi đồ hoạ native của Epic Games lên trending",
+          "meta": "GitHub Trending (ngày) · khoảng 8.100 sao, +279 trong ngày · C, MIT · không phải repo agent",
+          "body": [
+            "RAD Debugger là trình gỡ lỗi chạy ở user-mode, đa tiến trình, có giao diện đồ hoạ; repo có từ 1/2024 nhưng hôm nay lại vào danh sách trending ngày."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/EpicGames/raddebugger"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Anthropic mở OSS Scanner: quét lỗ hổng miễn phí, định kỳ cho dự án mã nguồn mở bằng mô hình mạnh nhất",
+          "meta": "Anthropic · 8/10 (giờ Mỹ)",
+          "body": [
+            "Dự án mã nguồn mở quan trọng có thể đăng ký bằng cách gửi PR vào repo của chương trình; báo cáo do mô hình sinh hoàn toàn, không qua người duyệt, nên có thể sai, nhưng mỗi báo cáo kèm cách tái hiện lỗi và bản vá đề xuất. Anthropic cho biết sáu tháng qua đã tìm ra hơn 29.000 lỗ hổng ứng viên nhưng mới duyệt tay được khoảng 6.000.",
+            "Khi chuyên gia kiểm thử xâm nhập kiểm lại 97 lỗ hổng mức cao và nghiêm trọng từ máy quét ở 48 dự án, 85 lỗ hổng (88%) đạt chuẩn công bố, chỉ một trường hợp là báo động giả. wolfSSL cho biết 72/74 báo cáo nhận được là hợp lệ, năm báo cáo thành CVE."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source"
+            }
+          ]
+        },
+        {
+          "headline": "Apple công bố sự kiện “Welcome home” ngày 13/10, dự kiến ra loạt sản phẩm nhà thông minh",
+          "meta": "9to5Mac · 8/10 (giờ Mỹ)",
+          "body": [
+            "Greg Joswiak đăng video nhá hàng; giới báo chí được mời tới “Apple Experience” ở Tribeca, New York lúc 9h sáng giờ miền Đông Mỹ (20h giờ VN). 9to5Mac dự đoán Apple TV 4K mới, màn hình điều khiển nhà “HomePad” và HomePod mini 2; đây là dự đoán, Apple chưa xác nhận sản phẩm."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/08/apple-announces-special-event-for-october-13-welcome-home/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Phần mềm",
+      "title": "Xây dựng · Phần mềm",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Bentley công bố giải Year in Infrastructure 2026: metro Porto, cảng Dublin, đường sắt cao tốc Séc thắng giải",
+          "meta": "Bentley Systems · sự kiện YII 2026 tại Singapore · 7/10",
+          "body": [
+            "Hơn 300 dự án từ 53 nước được đề cử ở 12 hạng mục. Một số dự án hạ tầng giao thông thắng giải: AYESA (Bồ Đào Nha) với quy trình thiết kế hầm số hoá cho Porto Metro 3.0; Wills Bros (Ireland) với bến 52–53 cảng Dublin; SUDOP PRAHA (Séc) với đoạn đường sắt cao tốc Trung Bohemia; liên danh Torrens to Darlington (Úc) với dự án đường T2D; WIKA Gedung (Indonesia) với mái đóng mở của sân vận động quốc tế Jakarta.",
+            "Bentley còn trao 16 giải Founders’ Honors, trong đó có WSP USA cho dự án I-35 Capital Express Central (giao hàng dựa trên mô hình) và T.Y.Lin (Singapore) cho hầm đường bộ dài 800 m thuộc hành lang North-South. Giám đốc marketing Cate Lochead nói các đội năm nay dùng AI trên dữ liệu được kết nối xuyên suốt vòng đời dự án và cần một hệ sinh thái mở."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Bentley Systems",
+              "url": "https://www.bentley.com/en/news/bentley-systems-announces-winners-of-the-2026-year-in-infrastructure-awards/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Cup CLB Đông Nam Á: CAHN thắng Lion City Sailors 1-0 nhưng Đình Bắc phải được dìu ra sân",
+          "meta": "Sân Jalan Besar (Singapore) · VnExpress · tối 8/10",
+          "body": [
+            "Leo Artur ghi bàn duy nhất ở phút 45+2 sau pha đánh gót kiến tạo của Bryan Coco Perea. Đình Bắc vào sân phút 57, phút bù giờ thứ tư va chạm với Giovanni Haag rồi ngã; vì CAHN đã hết quyền thay người, anh vẫn trở lại sân và nằm xuống vì đau khi trận đấu kết thúc. Tiền đạo này vừa đá bốn trận FIFA ASEAN Cup từ 25/9 đến 5/10.",
+            "Cũng theo VnExpress, AFC xác nhận Đình Bắc chưa được tính là đã thụ án ở trận gặp Malaysia hồi tháng 3, nên án cấm hai trận vì thẻ đỏ ở U23 châu Á 2026 chuyển sang hai trận đầu VCK Asian Cup 2027: gặp UAE ngày 10/1 và gặp Hàn Quốc."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dinh-bac-gay-lo-lang-trong-tran-thang-cua-cahn-5130132.html"
+            },
+            {
+              "name": "VnExpress (án treo giò)",
+              "url": "https://vnexpress.net/vi-sao-dinh-bac-van-bi-cam-hai-tran-o-asian-cup-2027-5130063.html"
+            }
+          ]
+        },
+        {
+          "headline": "U17 nữ Việt Nam thắng Quần đảo Bắc Mariana 20-0, chỉ cần hoà Kyrgyzstan để vào VCK châu Á",
+          "meta": "Vòng loại U17 nữ châu Á 2027, bảng D · TP HCM · VnExpress, 8/10",
+          "body": [
+            "Việt Nam dẫn 9-0 sau hiệp một, ghi thêm 11 bàn trong hiệp hai dù trời mưa, tiền đạo Khánh Chi ghi 6 bàn. HLV Okiyama Masahiko nói đã bảo các cầu thủ phải ghi 20 bàn, vượt chiến thắng đậm nhất trước đó của bóng đá nữ Việt Nam (16-0 trước Maldives năm 2016). Việt Nam và Kyrgyzstan cùng 6 điểm, Việt Nam hơn hiệu số (26-0 so với 20-1); lượt cuối hai đội gặp nhau ngày 11/10, đội nhất bảng giành vé duy nhất dự VCK 2027 tại Trung Quốc."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/viet-nam-thang-20-0-o-giai-u17-nu-chau-a-5130112.html"
+            }
+          ]
+        },
+        {
+          "headline": "Guardian: một tiền đạo tuyển Lào bị bắt vì nghi tiếp tay dàn xếp tỷ số ở ASEAN Cup 2026",
+          "meta": "The Guardian qua VnExpress · 8/10",
+          "body": [
+            "Theo Guardian, Soukphachan Lueanthala (sinh 2002, 20 trận cho tuyển Lào) đang bị giam với cáo buộc tiếp tay đường dây cá độ các trận của Lào ở vòng bảng; LĐBĐ Lào và cảnh sát Lào chưa xác nhận. Lào thua cả bốn trận vòng bảng (0-5, 0-4, 1-4, 2-7), nhận ba thẻ đỏ trực tiếp; từ 7/8 LĐBĐ Lào đã đề nghị Bộ Công an vào cuộc."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bao-anh-cau-thu-lao-bi-bat-vi-dan-xep-ty-so-o-asean-cup-2026-5130078.html"
+            }
+          ]
+        },
+        {
+          "headline": "Haaland là cầu thủ Man City đầu tiên lên tiếng sau phán quyết tài chính: “Phải đoàn kết và mỉm cười”",
+          "meta": "Sky Sports qua VnExpress · 8/10 · tiếp nối tin số trước",
+          "body": [
+            "Man City trở lại tập ngày 8/10, lần đầu đông đủ từ khi uỷ ban độc lập kết luận CLB hạch toán hơn 1 tỷ USD tiền góp vốn của chủ sở hữu thành doanh thu thương mại. Trận tiếp theo là làm khách Liverpool lúc 16h30 ngày 11/10 giờ London (22h30 giờ VN); cảnh sát Merseyside nói sẽ có phương án an ninh phù hợp. HLV Enzo Maresca dự kiến lần đầu trả lời báo chí về vụ việc hôm nay 9/10."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/haaland-keu-goi-man-city-doan-ket-giua-khung-hoang-5130142.html"
+            }
+          ]
+        },
+        {
+          "headline": "Max Dowman, 16 tuổi, nhận ba kỷ lục Guinness",
+          "meta": "VnExpress · 9/10",
+          "body": [
+            "Tiền vệ Arsenal được ghi nhận là cầu thủ trẻ nhất vô địch Ngoại hạng Anh (16 tuổi 144 ngày), trẻ nhất ghi bàn ở giải (16 tuổi 73 ngày) và trẻ nhất ra sân ở Champions League (15 tuổi 308 ngày), trong ấn phẩm Guinness World Records Football Edition 2027."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/than-dong-arsenal-nhan-ba-ky-luc-guinness-o-tuoi-16-5130144.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Việt Nam – Lào trao 11 văn kiện hợp tác, Việt Nam xây tặng hai trường học 2 triệu USD; hôm nay Thủ tướng sang Campuchia",
+          "meta": "Viêng Chăn · VnExpress, Tuổi Trẻ, Báo Công Luận · 8/10 · tiếp nối tin số trước",
+          "body": [
+            "Sau hội đàm, Thủ tướng Lê Minh Hưng và Thủ tướng Saleumxay Kommasith chứng kiến trao 11 văn kiện về an ninh, tư pháp, tài chính, năng lượng, giáo dục, dân tộc, tôn giáo và hợp tác địa phương; dự lễ bàn giao Trung tâm dữ liệu và căn cước công dân, khởi động dự án Trường Đại học Hữu nghị Lào – Việt. Việt Nam sẽ xây tặng tỉnh Huaphan và Champasak hai trường học trị giá tổng cộng 2 triệu USD.",
+            "Việt Nam có khoảng 300 dự án đầu tư tại Lào, tổng vốn đăng ký khoảng 7 tỷ USD; hai bên đặt mục tiêu đưa thương mại song phương lên 5 tỷ USD, hướng tới 10 tỷ USD. Thủ tướng cũng hội kiến Tổng Bí thư, Chủ tịch nước Lào Thongloun Sisoulith. Theo lịch đã công bố, chuyến thăm chính thức Campuchia diễn ra 9–10/10."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/viet-nam-xay-tang-lao-hai-truong-hoc-tri-gia-2-trieu-usd-5130096.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/viet-nam-ban-giao-he-thong-quan-ly-dan-cu-va-cccd-tai-lao-khoi-cong-truong-dai-hoc-huu-nghi-100261008190859036.htm"
+            },
+            {
+              "name": "Báo Công Luận",
+              "url": "https://congluan.vn/viet-nam-va-lao-trao-11-van-kien-hop-tac-khoi-dong-xay-dung-truong-dai-hoc-huu-nghi-lao-viet-post363315.html"
+            },
+            {
+              "name": "VNA (hội kiến)",
+              "url": "https://nvsk.vnanet.vn/thu-tuong-le-minh-hung-hoi-kien-tong-bi-thu-chu-tich-nuoc-lao-thongloun-sisoulith-8-190604.vna"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng Bí thư, Chủ tịch nước: năm 2027 phấn đấu tăng trưởng GDP từ 10% trở lên, CPI khoảng 4,5%",
+          "meta": "Phát biểu bế mạc Hội nghị Trung ương 4 · VnExpress · chiều 8/10",
+          "body": [
+            "Ông Tô Lâm nói tăng trưởng cao phải dựa trên năng suất, sức cạnh tranh và năng lực tự chủ; đầu tư công phải dẫn dắt đầu tư xã hội, giải ngân gắn với khối lượng thực tế, đầu tư nước ngoài gắn với chuyển giao công nghệ. Về sửa đổi Điều lệ Đảng, ông lưu ý không định trước phạm vi, chỉ đề xuất nội dung thật sự cần thiết; thẩm quyền sửa đổi thuộc Đại hội đại biểu toàn quốc."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-nam-2027-phai-tang-toc-but-pha-5130020.html"
+            }
+          ]
+        },
+        {
+          "headline": "Chủ tịch Quốc hội Trần Thanh Mẫn sẽ thăm chính thức Trung Quốc 11–15/10",
+          "meta": "Bộ Ngoại giao qua VnExpress · 8/10",
+          "body": [
+            "Chuyến thăm theo lời mời của Ủy viên trưởng Nhân đại Trung Quốc Triệu Lạc Tế; hai bên đồng chủ trì phiên họp thứ hai Ủy ban hợp tác giữa Quốc hội Việt Nam và Nhân đại Trung Quốc. Bảy tháng đầu 2026, Trung Quốc là đối tác thương mại lớn nhất của Việt Nam với 184,2 tỷ USD."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chu-tich-quoc-hoi-tran-thanh-man-sap-tham-trung-quoc-5129994.html"
+            }
+          ]
+        },
+        {
+          "headline": "Houthi nói đã bắn tên lửa đạn đạo trúng sân bay King Khalid ở Riyadh, ra “cảnh báo lần cuối” cho các hãng bay",
+          "meta": "VnExpress · 8/10 · tiếp nối tin số chiều",
+          "body": [
+            "Phát ngôn viên Yahya Saree tuyên bố tên lửa trúng mục tiêu vào giữa trưa và cảnh báo các hãng hàng không về hậu quả nếu tiếp tục bay qua không phận Saudi Arabia (trừ vùng trời Mecca, Medina). Liên quân do Saudi dẫn đầu nói đã đánh chặn hai tên lửa đạn đạo nhằm vào Riyadh. Dữ liệu FlightRadar24 cho thấy nhiều chuyến bay tại sân bay King Khalid bị hoãn; một số tập đoàn ở Khu Tài chính King Abdullah cho nhân viên làm việc từ xa."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/houthi-phong-ten-lua-dan-dao-nham-vao-san-bay-thu-do-arab-saudi-5130111.html"
+            }
+          ]
+        },
+        {
+          "headline": "Israel buộc 20 nhà ngoại giao Anh, gồm Tổng lãnh sự ở Jerusalem, rời đi",
+          "meta": "AFP qua VnExpress · 8/10",
+          "body": [
+            "Ngoại trưởng Gideon Saar nói Tổng lãnh sự quán Anh tại Jerusalem, lập gần 200 năm trước, chỉ còn là “Phái bộ Anh” 7 người, không còn chức năng lãnh sự; Israel cũng cấm 12 công dân Anh, chủ yếu là nghị sĩ, nhập cảnh. Đây là đòn đáp trả việc Anh trừng phạt Israel về bạo lực của người định cư ở Bờ Tây. Ngoại trưởng Anh Ed Miliband nói phái bộ vẫn hoạt động độc lập và tiếp tục hỗ trợ người Palestine."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/israel-buoc-tong-lanh-su-anh-cung-19-nha-ngoai-giao-phai-roi-di-5129972.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hàn Quốc triệu hồi đại sứ tại Ukraine vì tranh cãi về hai tù binh Triều Tiên",
+          "meta": "VnExpress · 8/10",
+          "body": [
+            "Căng thẳng bắt đầu khi Tổng thống Zelensky nói tại LHQ ngày 23/9 rằng Kyiv đã giao cho Seoul hai tù binh Triều Tiên bị bắt ở Kursk; Seoul cho rằng hai bên đã thoả thuận giữ bí mật để bảo vệ hai người và gia đình họ, còn Kyiv nói không có thoả thuận như vậy. Ngoại trưởng Ukraine Andrii Sybiha gọi đây là “hiểu lầm ngoại giao”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/han-quoc-trieu-hoi-dai-su-sau-cang-thang-voi-ukraine-ve-tu-binh-trieu-tien-5130021.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Nhà thơ Canada Anne Carson đoạt Nobel Văn học 2026",
+          "meta": "Viện Hàn lâm Thụy Điển · công bố 18h ngày 8/10 giờ VN · tiếp nối tin số trước",
+          "body": [
+            "Carson, 76 tuổi, được vinh danh “vì sự nghiệp văn chương táo bạo và sáng tạo, trong cuộc đối thoại tinh nghịch với truyền thống cổ điển, đã tạo ra những hình thức mới cho văn học đương đại”. Bà là người phụ nữ thứ 19 đoạt giải và là nữ tác giả Canada thứ hai sau Alice Munro (2013); tiền thưởng 12 triệu krona, khoảng 1,2 triệu USD. Số trước, Daily News có nhắc tên bà trong nhóm được dự đoán.",
+            "Carson là giáo sư văn học cổ điển hơn 30 năm, dịch Sappho, Sophocles; các tác phẩm nổi tiếng gồm Autobiography of Red (tiểu thuyết bằng thơ, 1998), The Glass Essay, Nox và The Beauty of the Husband, tập thơ giúp bà thành nữ thi sĩ đầu tiên thắng giải T. S. Eliot (2001). Thư ký thường trực Ingrid Carlberg kể khi được gọi báo tin, bà đang ở Iceland “lắng nghe tiếng gió”."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "NobelPrize.org",
+              "url": "https://www.nobelprize.org/prizes/literature/2026/press-release/"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nha-tho-canada-anne-carson-thang-nobel-van-hoc-2026-5130022.html"
+            },
+            {
+              "name": "VnExpress (Iceland)",
+              "url": "https://vnexpress.net/anne-carson-nhan-tin-thang-nobel-khi-dang-o-iceland-lang-nghe-tieng-gio-5130093.html"
+            }
+          ]
+        },
+        {
+          "headline": "Trương Nghệ Mưu lập tổ “tinh hoa AI” thế hệ 9x để làm phim “Tam Thể”",
+          "meta": "Sohu qua VnExpress · LHP Busan 2026 · 8/10",
+          "body": [
+            "Đạo diễn 76 tuổi nói đang chỉnh kịch bản chuyển thể tiểu thuyết của Lưu Từ Hân và coi AI là công cụ; ông cho biết đã đọc hơn 400.000 bình luận của khán giả trong hai năm, dừng lâu hơn ở các ý kiến chê để tìm cách biểu đạt sáng tạo hơn."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/truong-nghe-muu-lap-doi-tinh-hoa-ai-quay-bom-tan-vien-tuong-5129761.html"
+            }
+          ]
+        },
+        {
+          "headline": "MV “Sau những ngày yêu xa” dựng lại Hà Nội xưa bằng AI và 3D",
+          "meta": "VnExpress · 8/10",
+          "body": [
+            "Ca sĩ thính phòng Đặng Ngọc Anh, 22 tuổi, quay thật toàn bộ phần diễn, còn phố cổ mái ngói, tháp Hoà Phong, nhà ga xưa được dựng bằng AI và 3D. MV nằm trong album đầu tay “Gửi mùa thu ở lại” gồm các ca khúc về Hà Nội như Nhớ về Hà Nội, Hoàn Kiếm."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/mv-tai-hien-ha-noi-xua-bang-ai-5129237.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Mưa lớn: nhiều khu dân cư ở xã Núi Thành (Đà Nẵng) ngập gần 1 m, khoảng 80 hộ phải sơ tán",
+          "meta": "VnExpress · tối 8/10 · tiếp nối tin số trước",
+          "body": [
+            "Xã Núi Thành, cách trung tâm Đà Nẵng khoảng 100 km, có 4 điểm ngập gần 1 m; học sinh nghỉ học từ chiều 8/10, thôn Vân Trai vẫn ngập khoảng 1 m ảnh hưởng 100 hộ. Miền núi có sạt lở ở xã Trà Linh và một người mất tích do lật ghe. Ở phường Hội An, một số đoạn đường Trần Hưng Đạo ngập 20–30 cm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nhieu-khu-dan-cu-phia-nam-da-nang-ngap-gan-mot-met-5130083.html"
+            }
+          ]
+        },
+        {
+          "headline": "Sạt lở chắn 30 m quốc lộ 55 trên đèo Đa Mi (Lâm Đồng)",
+          "meta": "VnExpress · chiều 8/10",
+          "body": [
+            "Khoảng 15h30, đất đá và cây từ vách núi đổ xuống đoạn qua xã La Dạ, cách khu du lịch Gió và Mây khoảng 1 km, không có thương vong. Xe máy qua được sau khoảng 30 phút, xe lớn phải chờ thêm nửa tiếng. Đèo Đa Mi nối Phan Thiết với Bảo Lộc; mưa kéo dài gây sạt nhiều điểm trên tuyến những ngày qua."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/sat-lo-deo-da-mi-tren-tuyen-phan-thiet-bao-loc-5130080.html"
+            }
+          ]
+        },
+        {
+          "headline": "Quảng Ngãi khởi công cầu Trà Khúc 1 mới 2.199 tỷ đồng, lần đầu dùng kết cấu dây võng tự neo ở Việt Nam",
+          "meta": "VnExpress · sáng 8/10",
+          "body": [
+            "Cầu dài 577 m, rộng 28 m, ba vòng thép giữa sông gợi hình bờ xe nước. Ba vòng thép là một phần của hệ dây võng tự neo: dây chính không kéo về khối neo bên ngoài mà truyền lực ngược vào dầm. Cầu được xây lệch khoảng 11 độ về phía đông so với cầu cũ hơn 60 năm tuổi để giữ lại cây đa di sản."
+          ],
+          "tags": [
+            "lifestyle",
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khoi-cong-cau-gan-2-200-ty-dong-tai-hien-bo-xe-nuoc-tren-song-tra-khuc-5129717.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cục Đường sắt đề xuất 7 tuyến đường sắt mới khổ 1.435 mm quanh TP HCM, tổng vốn khoảng 544.230 tỷ đồng",
+          "meta": "VnExpress · 8/10",
+          "body": [
+            "Dự thảo quy hoạch trình Bộ Xây dựng gồm các tuyến An Bình – Sài Gòn (Hoà Hưng) – Tân Kiên, Biên Hoà – Vũng Tàu, TP HCM – Lộc Ninh, TP HCM – Cần Thơ – Cà Mau, đường sắt tốc độ cao Bắc – Nam, TP HCM – Mộc Bài và tuyến nối cảng Hiệp Phước, cảng Long An. Giai đoạn đến 2030 cần khoảng 92.670 tỷ đồng, dự kiến khởi công đường sắt tốc độ cao Bắc – Nam, giai đoạn 1 tuyến Biên Hoà – Vũng Tàu và đoạn đơn TP HCM – Cần Thơ."
+          ],
+          "tags": [
+            "lifestyle",
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/de-xuat-xay-7-tuyen-duong-sat-moi-khu-vuc-tp-hcm-5129989.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 9/10/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub tại thời điểm tra cứu. Mục Xây dựng · BIM & openBIM và Thảo luận cộng đồng tạm vắng vì không tìm được tin mới đủ kiểm chứng trong 24 giờ qua (danh sách đoạt giải openBIM Awards 2026 chưa được buildingSMART công bố trên trang chính thức). Tin cầu Trà Khúc và quy hoạch đường sắt TP HCM nằm ở mục Đời sống, có gắn nhãn Xây dựng. Chờ ở số sau: kết quả Nobel Hòa bình, chuyến thăm Campuchia của Thủ tướng."
+}
