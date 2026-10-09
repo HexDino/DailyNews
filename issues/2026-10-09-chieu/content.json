@@ -1,0 +1,623 @@
+{
+  "date": "2026-10-09",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Sáu, 9 tháng 10, 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 9/10/2026 · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Nobel Hòa bình 2026 thuộc về thẩm phán Nam Phi Navi Pillay",
+    "Thủ tướng Lê Minh Hưng tới Phnom Penh, hội đàm với Thủ tướng Hun Manet",
+    "Bom lượn trúng hai xe buýt ở Kramatorsk, 30 người chết; Kiev chìm trong mất điện",
+    "Hà Nội lần đầu có pháo hoa nước trên hồ Tây tối 10/10",
+    "Gạo ST25 Ông Cua giành giải nhì “Gạo ngon nhất thế giới 2026”"
+  ],
+  "followups": [
+    {
+      "title": "Chuyến thăm Lào và Campuchia của Thủ tướng Lê Minh Hưng",
+      "update": "Khép lại chặng Lào bằng buổi gặp cộng đồng người Việt; chiều 9/10 tới Phnom Penh, được Thủ tướng Hun Manet đón chính thức và hội đàm. Chuyến thăm kết thúc ngày 10/10.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-06-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/thu-tuong-campuchia-chu-tri-le-don-thu-tuong-le-minh-hung-5130459.html"
+        }
+      ]
+    },
+    {
+      "title": "Hội nghị Trung ương 4 khóa XIV",
+      "update": "Báo chí phân tích quy định mới cho đảng viên tham gia đầu tư, kinh doanh; Bộ Nội vụ cho biết đề án cải cách tiền lương, bảo hiểm xã hội dự kiến trình Trung ương 5.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-06-chieu",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/khuyen-khich-dang-vien-tham-gia-dau-tu-kinh-doanh-lam-giau-chinh-dang-100261009151019929.htm"
+        }
+      ]
+    },
+    {
+      "title": "Chiến sự Yemen lan sang Saudi Arabia",
+      "update": "Saudi Arabia xác nhận 3 công dân chết trong vụ tấn công sân bay Riyadh, gồm một cơ trưởng Saudia; sân bay hoạt động lại từ 18h ngày 8/10. Houthi áp sát Taiz.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Ông Trump nói sẽ không tấn công Iran trước bầu cử giữa kỳ 3/11, dù lệnh phong tỏa vẫn duy trì.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ong-trump-noi-se-khong-tan-cong-iran-truoc-bau-cu-giua-ky-5130157.html"
+        }
+      ]
+    },
+    {
+      "title": "Nga tập kích Ukraine",
+      "update": "Bom lượn trúng hai xe buýt ở Kramatorsk, 30 người chết; Kiev mất điện, tàu điện ngầm ngừng chạy, Thị trưởng khuyên dân cân nhắc tạm rời thủ đô.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hai-xe-buyt-o-donetsk-hung-bom-luon-it-nhat-30-nguoi-chet-5130194.html"
+        }
+      ]
+    },
+    {
+      "title": "Mưa lũ miền Trung",
+      "update": "Ngày 9/10 Đà Nẵng phần lớn đã ngớt mưa, hửng nắng; thi thể người đàn ông 66 tuổi mất tích do lật ghe trên sông Trường Giang được tìm thấy trưa 9/10.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thi-the-nguoi-chong-cuu-vo-do-lat-ghe-da-duoc-tim-thay-100261009135333256.htm"
+        }
+      ]
+    },
+    {
+      "title": "Giải Nobel Hòa bình 2026",
+      "update": "Trao cho thẩm phán Nam Phi Navi Pillay vì thúc đẩy luật pháp quốc tế; lễ trao giải tại Oslo ngày 10/12.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-09",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/cuu-tham-phan-icc-gianh-giai-nobel-hoa-binh-5130455.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-10",
+      "time": "tối",
+      "timezone": "giờ VN",
+      "title": "Pháo hoa mừng 72 năm Giải phóng Thủ đô tại hồ Tây, hồ Hoàn Kiếm, hồ Văn Quán",
+      "topic": "Đời sống",
+      "note": "Lần đầu có pháo hoa nước trên hồ Tây.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/can-canh-dan-phao-hoa-nuoc-lan-dau-lap-giua-long-ho-tay-cho-khai-hoa-dip-10-10-100261009145044775.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Thủ tướng Lê Minh Hưng kết thúc chuyến thăm chính thức Campuchia",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thu-tuong-le-minh-hung-bat-dau-tham-campuchia-10026100912214668.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Ấn Độ: tuần hành lớn ở Jantar Mantar (New Delhi) phản đối rà soát danh sách cử tri",
+      "topic": "Chính trị",
+      "note": "Phong trào “Cockroach” nói ít nhất 10.000 người đã bị tạm giữ trước cuộc tuần hành.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/09/india-dehli-cockroach-party-weekend-demonstration-mass-detention"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn thăm chính thức Trung Quốc (11–15/10)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chu-tich-quoc-hoi-tran-thanh-man-sap-tham-trung-quoc-5129994.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "time": "22:30",
+      "timezone": "giờ VN",
+      "title": "Liverpool – Man City, vòng 6 Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "Trận đầu của Man City sau phán quyết tài chính.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/haaland-keu-goi-man-city-doan-ket-giua-khung-hoang-5130142.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Huế: mưa lớn có thể kéo dài đến 11/10, giảm dần từ 12/10",
+      "topic": "Đời sống",
+      "note": "Đà Nẵng đã ngớt mưa từ 9/10.",
+      "sources": [
+        {
+          "name": "Tiền Phong (qua Vietnam.vn)",
+          "url": "https://www.vietnam.vn/hue-mua-trang-troi-lu-song-huong-vuot-bao-dong-1"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Công bố giải Nobel Kinh tế 2026, khép lại tuần Nobel",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "Nobelprize.org",
+          "url": "https://www.nobelprize.org/prizes/literature/2026/summary/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Hội nghị toàn quốc quán triệt Nghị quyết Trung ương 4 khóa XIV",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/chinh-tri/toan-van-bai-phat-bieu-be-mac-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-trung-uong-4-khoa-xiv-post1339553.vov"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Chặng Campuchia của Thủ tướng và những quy định mới sau Trung ương 4.",
+      "items": [
+        {
+          "headline": "Thủ tướng Hun Manet đón Thủ tướng Lê Minh Hưng tại Phnom Penh, hai bên hội đàm ngay chiều 9/10",
+          "meta": "Chiều 9/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Rời Viêng Chăn, Thủ tướng Lê Minh Hưng tới Phnom Penh bắt đầu chuyến thăm chính thức Campuchia 9–10/10. Tại lễ đón ở Cung Hòa Bình, hai Thủ tướng nghe quân nhạc cử quốc thiều, duyệt Đội danh dự Quân đội Hoàng gia Campuchia rồi tiến hành hội đàm về các biện pháp cụ thể để thực hiện những thỏa thuận cấp cao.",
+            "Đây là chuyến thăm chính thức Campuchia đầu tiên của ông Lê Minh Hưng, diễn ra bốn tháng sau chuyến thăm Việt Nam của ông Hun Manet. Kim ngạch song phương 8 tháng đầu năm 2026 đạt 8,7 tỷ USD, tăng 8,3%; khách Campuchia sang Việt Nam nửa đầu năm đạt 565.000 lượt, tăng 40,8%. Hai nước sẽ kỷ niệm 60 năm quan hệ ngoại giao vào năm 2027."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thu-tuong-campuchia-chu-tri-le-don-thu-tuong-le-minh-hung-5130459.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thu-tuong-hun-manet-chu-tri-le-don-thu-tuong-le-minh-hung-100261009155703514.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Sau Trung ương 4: đảng viên được “khuyến khích” kinh doanh, làm giàu chính đáng; Bộ Chính trị siết trách nhiệm nơi cư trú",
+          "meta": "9/10 · Tuổi Trẻ",
+          "body": [
+            "Quy định về đảng viên tham gia đầu tư, kinh doanh mà Hội nghị Trung ương 4 thông qua đổi tư duy từ “cho phép” sang “khuyến khích, tạo điều kiện”. Theo phát biểu bế mạc của Tổng Bí thư, Chủ tịch nước Tô Lâm, việc kiểm soát phải căn cứ quyền sở hữu, quyền chi phối và lợi ích thực tế chứ không chỉ người đứng tên, và xung đột lợi ích phải được báo cáo, xử lý chứ “không dừng ở kê khai”. TS Huỳnh Thế Du (ĐH Fulbright Việt Nam) gọi đây là bước điều chỉnh cần thiết cho kinh tế thị trường.",
+            "Cùng ngày, Thường trực Ban Bí thư Trần Cẩm Tú ký Quyết định 221 của Bộ Chính trị về trách nhiệm của đảng viên đang công tác đối với tổ chức đảng và nhân dân nơi cư trú, trong đó nhấn mạnh đảng viên không được lợi dụng vị trí công tác để can thiệp vào công việc của địa phương nơi mình ở."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ – đảng viên kinh doanh",
+              "url": "https://tuoitre.vn/khuyen-khich-dang-vien-tham-gia-dau-tu-kinh-doanh-lam-giau-chinh-dang-100261009151019929.htm"
+            },
+            {
+              "name": "Tuổi Trẻ – Quyết định 221",
+              "url": "https://tuoitre.vn/bo-chinh-tri-dang-vien-khong-loi-dung-vi-tri-de-can-thiep-cong-viec-cua-dia-phuong-noi-cu-tru-100261009112421193.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Đề án cải cách tiền lương và bảo hiểm xã hội dự kiến trình Hội nghị Trung ương 5",
+          "meta": "9/10 · Tuổi Trẻ",
+          "body": [
+            "Trong báo cáo gửi Quốc hội, Bộ trưởng Nội vụ Nguyễn Tiến Hải cho biết bộ đang khẩn trương xây dựng đề án cải cách chính sách tiền lương và bảo hiểm xã hội theo giao nhiệm vụ của Đảng ủy Chính phủ, dự kiến trình Hội nghị Trung ương 5. Phó Thủ tướng Phạm Thị Thanh Trà, Trưởng Ban Chỉ đạo Trung ương về cải cách tiền lương, đã ký kế hoạch nghiên cứu đề án.",
+            "Bộ Nội vụ nhấn mạnh đây là vấn đề lớn, tác động sâu rộng, phải gắn với tăng trưởng kinh tế và khả năng chi trả của ngân sách; mục tiêu là tiến tới trả lương theo vị trí việc làm."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/bo-noi-vu-thong-tin-moi-ve-de-an-cai-cach-tien-luong-bao-hiem-xa-hoi-100261009091851454.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Nobel Hòa bình, chiến sự Ukraine và Trung Đông, bầu cử bổ sung ở Anh.",
+      "items": [
+        {
+          "headline": "Nobel Hòa bình 2026 thuộc về thẩm phán Nam Phi Navi Pillay vì thúc đẩy luật pháp quốc tế",
+          "meta": "Oslo, chiều 9/10 giờ VN · VnExpress, The Guardian",
+          "body": [
+            "Ủy ban Nobel Na Uy trao giải cho bà Navanethem (Navi) Pillay vì “những nỗ lực thúc đẩy hòa bình và luật pháp quốc tế”. Chủ tịch Ủy ban Jørgen Watne Frydnes nói bà có vai trò quan trọng trong việc bảo đảm truy tố tội ác chiến tranh, tội ác chống loài người và tội diệt chủng, và giải thưởng đến lúc luật pháp quốc tế “chịu áp lực rất lớn”.",
+            "Nghe tin khi đang dự diễn đàn ở Nuremberg (Đức), bà Pillay đùa: “Nếu các bạn vỗ tay thêm chút nữa, có lẽ tôi sẽ chia giải với Tổng thống Donald Trump.” Giải trị giá khoảng 1,2 triệu USD, trao tại Oslo ngày 10/12."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cuu-tham-phan-icc-gianh-giai-nobel-hoa-binh-5130455.html"
+            },
+            {
+              "name": "The Guardian (trực tiếp)",
+              "url": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates"
+            }
+          ]
+        },
+        {
+          "headline": "Ukraine: bom lượn trúng hai xe buýt ở Kramatorsk, 30 người chết; Thị trưởng Kiev khuyên dân cân nhắc rời thủ đô",
+          "meta": "8–9/10 · VnExpress (AFP), BBC",
+          "body": [
+            "Tổng thống Zelensky cho biết bom Nga đánh trúng hai xe buýt chạy trong thành phố Kramatorsk (Donetsk) hôm 8/10, làm 30 người chết, 18 người bị thương. Giới chức tỉnh tuyên bố đình chỉ giao thông công cộng ở Kramatorsk và Slovyansk.",
+            "Ở Kiev, Thị trưởng Vitali Klitschko nói với AFP rằng người có người thân ngoài thủ đô nên cân nhắc tạm rời đi khi Nga tăng tập kích ban ngày vào cầu qua sông Dnieper và lưới điện; tàu điện ngầm đã ngừng chạy vì mất điện. BBC ghi nhận nhiều người dân đã thu dọn về nông thôn trước mùa đông."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – Kramatorsk",
+              "url": "https://vnexpress.net/hai-xe-buyt-o-donetsk-hung-bom-luon-it-nhat-30-nguoi-chet-5130194.html"
+            },
+            {
+              "name": "VnExpress – Kiev",
+              "url": "https://vnexpress.net/thi-truong-kiev-keu-goi-nguoi-dan-can-nhac-roi-thanh-pho-5130400.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do"
+            }
+          ]
+        },
+        {
+          "headline": "Saudi Arabia xác nhận 3 công dân chết trong vụ tấn công sân bay Riyadh, một cơ trưởng Saudia trong số nạn nhân",
+          "meta": "9/10 · The Guardian",
+          "body": [
+            "Giới chức Saudi Arabia cho biết hai đợt tấn công chiều 8/10 nhắm vào cơ sở sân bay rồi vào máy bay; Houthi nhận đã bắn tên lửa đạn đạo. Saudia Group xác nhận cơ trưởng Hamoud Ali Alkalthami thiệt mạng và một máy bay đỗ dưới đất bị hư hại (không có khách); sân bay hoạt động lại lúc 18h cùng ngày.",
+            "Đây là vụ tấn công gây chết người nhiều nhất trên đất Saudi kể từ khi liên quân mở chiến dịch lớn chống Houthi cuối tuần trước. Ở Yemen, Houthi tiến nhanh dọc đồng bằng ven biển và áp sát thành phố Taiz."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack"
+            }
+          ]
+        },
+        {
+          "headline": "Trump: sẽ không tấn công Iran trước bầu cử giữa kỳ 3/11, hai bên đang “trao đổi hiệu quả”",
+          "meta": "8/10 · VnExpress",
+          "body": [
+            "Trên Truth Social, ông Trump viết rằng dù lệnh phong tỏa Iran vẫn duy trì đầy đủ, Mỹ sẽ không tấn công Iran vào bất kỳ thời điểm nào trước cuộc bầu cử giữa nhiệm kỳ ngày 3/11. Tuyên bố đưa ra sau khi tạp chí Atlantic và New York Times đưa tin Nhà Trắng yêu cầu Lầu Năm Góc chuẩn bị phương án tấn công.",
+            "Ông cũng tìm cách xoa dịu phát biểu gây tranh cãi ở Nebraska, nói ý mình là giá xăng tăng là “cái giá nhỏ” để Iran không có vũ khí hạt nhân."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-trump-noi-se-khong-tan-cong-iran-truoc-bau-cu-giua-ky-5130157.html"
+            }
+          ]
+        },
+        {
+          "headline": "Anh: Công đảng giữ ghế Holborn và St Pancras của cựu Thủ tướng Starmer, đánh bại lãnh đạo đảng Xanh",
+          "meta": "9/10 · The Guardian",
+          "body": [
+            "Ứng viên Công đảng Sagal Abdi-Wali, từng là trẻ tị nạn từ Somalia, đạt 12.292 phiếu (45%), hơn lãnh đạo đảng Xanh Zack Polanski (8.928 phiếu, 33%). Tỷ lệ đi bầu chỉ 38,7%, thấp nhất trong các cuộc bầu cử bổ sung ở Anh nhiệm kỳ này.",
+            "Theo Guardian, kết quả là phép thử lớn đầu tiên của Thủ tướng Andy Burnham và giúp ông yên tâm hơn trong cuộc đua giành cử tri cánh tả."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/oct/09/labour-wins-holborn-st-pancras-byelection-green-party"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Hà Nội chuẩn bị đêm 10/10, khí hậu nóng dần và hạt gạo ST25.",
+      "items": [
+        {
+          "headline": "Hà Nội lắp pháo hoa nước lần đầu trên hồ Tây, sẵn sàng bắn tối 10/10 mừng 72 năm Giải phóng Thủ đô",
+          "meta": "Sáng 9/10 · Tuổi Trẻ",
+          "body": [
+            "Bộ Quốc phòng, Bộ Tư lệnh Thủ đô, Nhà máy Z121 và Sun Group đã lắp đặt pháo hoa ở ba điểm bắn. Hồ Tây (phố Quảng Khánh) có 1.800 quả tầm cao, 475 quả tầm thấp, và điểm nhấn là 200 quả pháo hoa nước kết hợp 900 giàn hỏa thuật trên mặt hồ — lần đầu có ở đây.",
+            "Hồ Hoàn Kiếm (trước Bưu điện Hà Nội) có 1.725 quả tầm cao, 500 quả tầm thấp, 50 giàn pháo tầm thấp và 350 giàn hỏa thuật; hồ Văn Quán gần 800 đơn vị pháo hoa và hỏa thuật."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/can-canh-dan-phao-hoa-nuoc-lan-dau-lap-giua-long-ho-tay-cho-khai-hoa-dip-10-10-100261009145044775.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Kịch bản khí hậu mới: nội đô TP HCM có thể thêm 90–100 ngày nóng trên 35°C vào cuối thế kỷ",
+          "meta": "9/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Kịch bản biến đổi khí hậu cập nhật năm 2025 do Bộ Nông nghiệp và Môi trường công bố sáng 9/10 cho thấy, theo kịch bản phát thải cao, nhiệt độ trung bình năm ở nội đô Hà Nội có thể tăng 3,6–4,2°C và nội đô TP HCM 3,5–3,7°C vào cuối thế kỷ so với giai đoạn 1995–2014. Số ngày trên 35°C ở nội đô Hà Nội có thể tăng 50–90 ngày, TP HCM 90–100 ngày.",
+            "Mưa cực đoan cũng dồn dập hơn: theo Đài KTTV Nam Bộ, trạm Tân Sơn Hòa đã ghi 8 ngày mưa trên 50 mm từ đầu năm 2026, vượt mức bình quân 7 ngày/năm của giai đoạn 1990–2020; riêng ngày 21/9, trạm Nhà Bè đo được 258 mm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ha-noi-tp-hcm-co-the-tang-them-90-100-ngay-nong-tren-35-do-c-5130376.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/mua-lon-o-tphcm-ngay-cang-don-dap-co-gi-bat-thuong-100261009143921838.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Gạo ST25 Ông Cua đoạt giải nhì “Gạo ngon nhất thế giới 2026”, Myanmar trở lại ngôi đầu sau 15 năm",
+          "meta": "Manila, 9/10 · Tuổi Trẻ",
+          "body": [
+            "Tại Hội nghị Lúa gạo thế giới do The Rice Trader tổ chức ở Manila, gạo ST25 nhãn hiệu Gạo Ông Cua xếp thứ nhì; Philippines thứ ba, Ấn Độ và Thái Lan đồng hạng tư. Giám khảo chấm cả gạo sống lẫn cơm theo độ đồng đều, độ dài hạt, hương thơm, độ mềm dẻo và vị.",
+            "ST25 của kỹ sư Hồ Quang Cua từng đoạt giải nhất các năm 2019, 2023 và 2025 (đồng hạng với Campuchia), giải ba năm 2017."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/gao-ong-cua-st25-dat-giai-nhi-gao-ngon-nhat-the-gioi-2026-100261009131528619.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Án tử phát trực tiếp ở Mỹ, khủng hoảng nhà ở Tây Ban Nha, bạo lực ở Nam Phi.",
+      "items": [
+        {
+          "headline": "Lầu Năm Góc sẽ phát trực tiếp vụ xử bắn kẻ xả súng Fort Hood; LHQ nói như “hành quyết công khai”",
+          "meta": "9/10 · BBC",
+          "body": [
+            "Bộ trưởng Quốc phòng Mỹ Pete Hegseth nói công chúng sẽ được xem vụ xử bắn cựu thiếu tá Nidal Hasan, người bắn chết 13 binh sĩ không vũ trang ở Fort Hood năm 2009; một quan chức xác nhận với BBC rằng sẽ phát trực tiếp. Đây sẽ là vụ thi hành án quân sự đầu tiên ở Mỹ sau hơn 60 năm.",
+            "Văn phòng Nhân quyền LHQ nói với AFP rằng phát trực tiếp “tương đương hành quyết công khai”, vi phạm lệnh cấm tuyệt đối tra tấn. Ông Alonzo Lunsford, người sống sót sau bảy phát đạn, ủng hộ án tử nhưng không cho rằng ai cũng nên được xem."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o"
+            }
+          ]
+        },
+        {
+          "headline": "20.000 người tuần hành ở Madrid tưởng nhớ cụ bà 87 tuổi bị đuổi khỏi nhà, biểu tượng khủng hoảng nhà ở Tây Ban Nha",
+          "meta": "8/10 · The Guardian",
+          "body": [
+            "Bà María del Carmen Abascal (“Maricarmen”) qua đời trong bệnh viện tối 7/10, hai tuần sau khi bị cưỡng chế khỏi căn hộ đã sống bảy thập kỷ; công ty đầu tư mua lại tòa nhà muốn tăng tiền thuê 230%.",
+            "Vụ việc làm bùng lên biểu tình khắp nước. Khi gói biện pháp khẩn cấp về thuê nhà của chính phủ bị phe hữu và cực hữu bác, Thủ tướng Pedro Sánchez tuyên bố tổng tuyển cử sớm ngày 29/11."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/08/thousands-to-march-in-madrid-after-death-of-evicted-pensioner-maricarmen"
+            }
+          ]
+        },
+        {
+          "headline": "Nam Phi: bạo lực bài người nhập cư ở Soweto và Durban, ít nhất 24 xe bị đốt",
+          "meta": "9/10 · BBC",
+          "body": [
+            "Cảnh sát bắn đạn cao su giải tán đám đông khi biểu tình chống nhập cư hôm 8/10 biến thành bạo loạn; nhiều cửa hàng của người nước ngoài bị cướp phá. Ngọn lửa bắt nguồn từ phán quyết của tòa cho phép một số người nhập cư bất hợp pháp nộp đơn tị nạn, gây hàng dài người xếp hàng ở các trung tâm di trú.",
+            "Ngày 9/10, Bộ Nội vụ Nam Phi nói sẽ thay đổi cách thực thi phán quyết vì nhân viên “quá tải” và đã xuất hiện “mối đe dọa nghiêm trọng” với trật tự công cộng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Rùa khổng lồ, súng nước khổng lồ, bí ngòi khổng lồ — và hai sự thật về ngày 9 tháng 10.",
+      "items": [
+        {
+          "headline": "180.000 con rùa khổng lồ trên một đảo san hô ở Seychelles — đông hơn cả dân số nước này",
+          "meta": "The Guardian · 8/10",
+          "body": [
+            "Một khảo sát đăng trên tạp chí Ecology and Evolution ước tính đảo san hô Aldabra có gần 183.000 con rùa khổng lồ trưởng thành và gần trưởng thành sống tự do. Thế kỷ 19, do bị săn bắt, ở đây chỉ còn chưa đến 1.000 con; Aldabra thành khu bảo tồn nghiêm ngặt năm 1981 và Di sản UNESCO năm 1982."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles"
+            }
+          ]
+        },
+        {
+          "headline": "Một tấm ảnh Instagram dẫn tới phát hiện loài súng nước khổng lồ mới ở Colombia, lá to tới mức nhìn thấy từ không gian",
+          "meta": "The Guardian · 9/10",
+          "body": [
+            "Chuyên gia súng nước Carlos Magdalena (Vườn Kew, Anh) tình cờ thấy ảnh một người bơi giữa những lá súng khổng lồ trên sông Inírida (Guainía) và nghi ngờ vì loài Victoria amazonica không mọc ở đó. Sau nhiều năm xem ảnh vệ tinh, đoàn thám hiểm tìm ra loài mới khi chỉ còn 10 tiếng trước chuyến bay về — và nó đã bị xếp vào diện cực kỳ nguy cấp."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia"
+            }
+          ]
+        },
+        {
+          "headline": "Quả bí ngòi 77 kg dài 1,2 m tên “Secretariat” lập kỷ lục Bắc Mỹ",
+          "meta": "VnExpress · 9/10",
+          "body": [
+            "Sarah Whitty, 38 tuổi, trợ lý bác sĩ ở Maine, chở quả bí trồng từ tháng 5 đi hơn 320 km tới Deerfield (New Hampshire) để cân; nó nặng 170 pound, phá kỷ lục cũ 7 pound. Phần thịt quả bí sẽ dành cho con lợn của một người bạn."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/qua-bi-ngoi-77-kg-nang-nhat-bac-my-5130339.html"
+            }
+          ]
+        },
+        {
+          "headline": "Có phải Oliver Twist được lấy cảm hứng từ một phụ nữ bị phạt vì xin… đi dạo?",
+          "meta": "The Guardian · 9/10",
+          "body": [
+            "Nhà sử học Theresa Musgrove tìm thấy báo năm 1836 kể chuyện Alice Shepherd ở trại tế bần Hendon (London) bị biệt giam 24 giờ và chỉ cho ăn bánh mì với nước vì xin phép ra ngoài đi dạo — rất giống cảnh Oliver bị nhốt vì xin thêm cháo. Tiểu thuyết của Dickens bắt đầu đăng từng kỳ năm 1837."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/books/2026/oct/09/dickens-book-oliver-twist-inspiration"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 9/10 là Ngày Bưu chính Thế giới, kỷ niệm Liên minh Bưu chính Quốc tế ra đời năm 1874",
+          "meta": "Wikipedia",
+          "body": [
+            "Liên minh Bưu chính Quốc tế (UPU) thành lập ngày 9/10/1874 tại Thụy Sĩ; Ngày Bưu chính Thế giới được tổ chức từ năm 1969. Nay UPU là cơ quan chuyên môn của LHQ với 192 nước thành viên, trụ sở ở Bern."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – World Post Day",
+              "url": "https://en.wikipedia.org/wiki/World_Post_Day"
+            },
+            {
+              "name": "Wikipedia – Universal Postal Union",
+              "url": "https://en.wikipedia.org/wiki/Universal_Postal_Union"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 9/10/1936, đập Hoover bắt đầu đưa điện tới Los Angeles qua 266 dặm đường dây",
+          "meta": "HISTORY.com",
+          "body": [
+            "Khai thác sức nước sông Colorado, đập Hoover (ban đầu tên Boulder Dam) bắt đầu truyền điện qua đường dây dài 266 dặm (khoảng 428 km) băng núi và sa mạc để thắp đèn, chạy radio và bếp điện ở Los Angeles."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "HISTORY.com – This day in history, 9/10",
+              "url": "https://www.history.com/this-day-in-history/october-9"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h15 ngày 9/10/2026 (giờ VN). Không lặp tin của số sáng, trừ các cập nhật thực sự trong ngày (chuyến thăm Campuchia, Houthi – Riyadh, mưa lũ miền Trung). Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
