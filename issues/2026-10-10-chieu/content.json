@@ -1,0 +1,770 @@
+{
+  "date": "2026-10-10",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Bảy, 10 tháng 10, 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 10/10/2026 · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Trump chốt mua diesel Nga, Zelensky gọi là “món quà cho Putin”",
+    "Động đất 7,7 độ ở Panama làm sập nhà thờ di sản, khách sạn, trụ sở chính quyền",
+    "Thủ tướng Lê Minh Hưng khép lại chuyến thăm Campuchia, đề nghị gỡ vướng cho người gốc Việt",
+    "Ngư dân Quảng Trị trôi dạt 8 giờ, bơi 14 km vào bờ sau khi tàu chìm",
+    "Thợ Việt lần đầu vô địch cuộc thi cốt thép toàn Nhật Bản"
+  ],
+  "followups": [
+    {
+      "title": "Chuyến thăm Lào và Campuchia của Thủ tướng Lê Minh Hưng",
+      "update": "Ngày cuối 10/10: gặp cộng đồng người gốc Việt ở Phnom Penh, đề nghị Campuchia gỡ vướng cư trú, nhập tịch và cho trẻ em gốc Việt học trường công. Chuyến thăm khép lại trong ngày.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-06-chieu",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thu-tuong-le-minh-hung-de-nghi-campuchia-tao-thuan-loi-cho-cong-dong-nguoi-goc-viet-100261010133139934.htm"
+        }
+      ]
+    },
+    {
+      "title": "Nga tập kích Ukraine",
+      "update": "Mỹ dỡ cấm vận cho diesel Nga sau điện đàm Trump – Putin; Zelensky gọi đó là “món quà cho Putin”, Axios nói Washington làm vậy vì Kiev không ngừng đánh nhà máy lọc dầu Nga.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ong-trump-dat-thoa-thuan-dau-voi-nga-vi-bi-ong-zelensky-phot-lo-5130711.html"
+        }
+      ]
+    },
+    {
+      "title": "Chiến sự Yemen lan sang Saudi Arabia",
+      "update": "Liên quân do Saudi Arabia dẫn đầu tuyên bố phá hủy 136 mục tiêu Houthi trong “chiến dịch quy mô lớn”, nhắm vào tỉnh Saada.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/lien-quan-do-saudi-arabia-dan-dau-mo-chien-dich-quy-mo-lon-o-yemen-100261010085817867.htm"
+        }
+      ]
+    },
+    {
+      "title": "Mỹ trừng phạt Tòa án Hình sự Quốc tế",
+      "update": "ICC gọi đây là “cuộc tấn công vào nguyên tắc thượng tôn pháp luật” và kêu gọi 125 nước thành viên bảo vệ tòa; LHQ và nhiều nước châu Âu phản đối, Israel hoan nghênh. Lệnh trừng phạt có hiệu lực sau khoảng sáu tháng.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-10",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/my-trung-phat-icc-israel-hoan-nghenh-lien-hop-quoc-va-chau-au-phan-doi-gat-100261010065133147.htm"
+        }
+      ]
+    },
+    {
+      "title": "Giải Nobel Hòa bình 2026",
+      "update": "Ông Trump nói Na Uy “mang vết nhơ” vì không trao giải cho ông và gọi bà Navi Pillay là “người vô danh”.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-09-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ong-trump-na-uy-mang-vet-nho-vi-khong-trao-nobel-hoa-binh-cho-toi-5130621.html"
+        }
+      ]
+    },
+    {
+      "title": "Lầu Năm Góc định phát trực tiếp vụ xử bắn kẻ xả súng Fort Hood",
+      "update": "Nghị sĩ cả hai đảng phản đối; Phó Tổng thống JD Vance nghi ngờ việc phát trực tiếp sẽ xảy ra và nói sẽ không xem. Ông Trump chưa quyết. Vụ hành quyết dự kiến ngày 3/12.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-09-chieu",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/vu-phat-truc-tiep-xu-ban-tu-tu-luong-dang-my-day-song-ong-trump-noi-gi-10026101008120104.htm"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo"
+        }
+      ]
+    },
+    {
+      "title": "Mưa lũ miền Trung",
+      "update": "Đà Nẵng: nhà thầu dự án Capital Square 2 báo cáo nguyên nhân đoạn Trần Hưng Đạo bên sông Hàn ngập cục bộ trong đợt mưa 6–8/10 là mương thoát nước xuống cấp, hư hỏng khi thi công; Hà Tĩnh rà soát quy trình vận hành hồ Kẻ Gỗ để tăng dung tích đón lũ.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ – Trần Hưng Đạo",
+          "url": "https://tuoitre.vn/doan-duong-tran-hung-dao-ben-song-han-bi-bom-ngap-nuoc-khac-phuc-ra-sao-100261010152206197.htm"
+        },
+        {
+          "name": "Tuổi Trẻ – hồ Kẻ Gỗ",
+          "url": "https://tuoitre.vn/ra-soat-quy-trinh-van-hanh-ho-ke-go-dam-bao-an-toan-cong-trinh-va-vung-ha-du-100261010153244384.htm"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-10",
+      "time": "tối",
+      "timezone": "giờ VN",
+      "title": "Pháo hoa mừng 72 năm Giải phóng Thủ đô tại hồ Tây, hồ Hoàn Kiếm, hồ Văn Quán",
+      "topic": "Đời sống",
+      "note": "Lần đầu có pháo hoa nước trên hồ Tây.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/can-canh-dan-phao-hoa-nuoc-lan-dau-lap-giua-long-ho-tay-cho-khai-hoa-dip-10-10-100261009145044775.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Đối thoại Quy Nhơn về khí hậu và chuyển đổi (Gia Lai) bước sang ngày thứ hai",
+      "topic": "Đời sống",
+      "note": "Hơn 100 đại biểu cấp cao; khai mạc 10/10 với Phó Thủ tướng Hồ Quốc Dũng.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/11-nam-qua-la-thoi-gian-nong-nhat-tung-ghi-nhan-tren-toan-cau-100261010161944975.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn thăm chính thức Trung Quốc (11–15/10)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chu-tich-quoc-hoi-tran-thanh-man-sap-tham-trung-quoc-5129994.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Bão Simon dự kiến đổ bộ bờ biển miền tây Mexico rồi tiến lên lãnh thổ Mỹ",
+      "topic": "Đời sống",
+      "note": "Theo dự báo đăng ngày 8–10/10; đường đi còn khó đoán.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ba-con-bao-cung-luc-ap-sat-my-5130638.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "U17 nữ Việt Nam – Kyrgyzstan, lượt cuối bảng D vòng loại châu Á",
+      "topic": "Bóng đá",
+      "note": "Việt Nam chỉ cần hoà để giành vé VCK 2027.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/viet-nam-thang-20-0-o-giai-u17-nu-chau-a-5130112.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "time": "22:30",
+      "timezone": "giờ VN",
+      "title": "Liverpool – Man City, vòng 6 Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/haaland-keu-goi-man-city-doan-ket-giua-khung-hoang-5130142.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Công bố giải Nobel Kinh tế 2026, khép lại tuần Nobel",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "Nobelprize.org",
+          "url": "https://www.nobelprize.org/prizes/literature/2026/summary/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "trong ngày",
+      "timezone": "giờ Pháp",
+      "title": "Pháp: học sinh trung học và nghiệp đoàn kêu gọi ngày biểu tình mới",
+      "topic": "Chính trị",
+      "note": "Sau khi chính phủ hứa thêm 3.000 giáo viên dạy thay.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Hội nghị toàn quốc quán triệt Nghị quyết Trung ương 4 khóa XIV",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/chinh-tri/toan-van-bai-phat-bieu-be-mac-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-trung-uong-4-khoa-xiv-post1339553.vov"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Ngày cuối ở Phnom Penh, Hà Nội đúng ngày 10/10 và lời cảnh báo về “rác phẩm” trên mạng.",
+      "items": [
+        {
+          "headline": "Thủ tướng Lê Minh Hưng gặp cộng đồng người gốc Việt ở Phnom Penh, đề nghị Campuchia gỡ vướng cư trú, nhập tịch, cho trẻ em đến trường công",
+          "meta": "Sáng 10/10 · Tuổi Trẻ (theo TTXVN)",
+          "body": [
+            "Trong ngày cuối chuyến thăm chính thức Campuchia, Thủ tướng Lê Minh Hưng gặp đại diện cộng đồng người gốc Việt và cán bộ các cơ quan đại diện Việt Nam, thông báo kết quả làm việc với Thủ tướng Hun Manet, Chủ tịch Thượng viện Hun Sen và các lãnh đạo cấp cao Campuchia.",
+            "Thủ tướng giao Bộ Ngoại giao, Đại sứ quán phối hợp với Bộ Công an và phía Campuchia tháo gỡ vướng mắc về thủ tục hành chính, cư trú, nhập tịch, sinh kế và tái định cư, đồng thời tạo điều kiện để trẻ em gốc Việt được học ở trường công lập Campuchia. Bộ Ngoại giao và Bộ GD&ĐT được giao nghiên cứu mở rộng học bổng đại học, sau đại học cho con em kiều bào."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thu-tuong-le-minh-hung-de-nghi-campuchia-tao-thuan-loi-cho-cong-dong-nguoi-goc-viet-100261010133139934.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng Bí thư, Chủ tịch nước Tô Lâm kiểm tra Vành đai 1 và Vành đai 2,5 đúng ngày 10/10, dự lễ 80 năm Lực lượng vũ trang Thủ đô",
+          "meta": "Sáng 10/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Theo báo cáo tại buổi kiểm tra, Vành đai 1 đã thông xe toàn tuyến trừ hai cầu vượt ở nút Láng Hạ – Giảng Võ và Nguyễn Chí Thanh, dự kiến xong trong năm 2026. Bãi đỗ xe kết hợp cây xanh giữa Vành đai 1 và đường La Thành rộng khoảng 6.800 m², vốn hơn 2.900 tỷ đồng, phấn đấu xong trước 31/12. Ba đoạn Vành đai 2,5 làm theo lệnh khẩn cấp đạt khoảng 70–90% khối lượng. Ông Tô Lâm yêu cầu quản lý chặt quy hoạch hai bên tuyến và ưu tiên tối đa cho giao thông.",
+            "Cùng sáng, ông dự Lễ kỷ niệm 80 năm Ngày truyền thống Lực lượng vũ trang Thủ đô (19/10/1946 – 19/10/2026), đơn vị đón danh hiệu Anh hùng Lực lượng vũ trang nhân dân; ông đề nghị xây dựng lực lượng “tinh, gọn, mạnh”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – kiểm tra công trình",
+              "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-kiem-tra-mot-so-cong-trinh-du-an-cua-thu-do-5130699.html"
+            },
+            {
+              "name": "Tuổi Trẻ – 80 năm LLVT Thủ đô",
+              "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-du-le-ky-niem-80-nam-ngay-truyen-thong-cua-luc-luong-vu-trang-thu-do-100261010131107618.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ trưởng Công an Lương Tam Quang cảnh báo “rác phẩm” trên mạng cổ xúy lối sống buông thả",
+          "meta": "Sáng 10/10 · VnExpress",
+          "body": [
+            "Trong tham luận gửi hội thảo khoa học cấp quốc gia về phát huy giá trị văn hóa Việt Nam do Ủy ban Văn hóa và Xã hội phối hợp Bộ Công an tổ chức, Đại tướng Lương Tam Quang cho rằng các đối tượng tận dụng thuật toán và nền tảng xuyên biên giới để phát tán video lệch chuẩn, “rác phẩm”, trào lưu sống gấp, thực dụng.",
+            "Ông nêu lo ngại về bạo lực ngôn từ, tin giả và cách ứng xử lệch chuẩn đang gia tăng trên không gian mạng, và nhận định tội phạm công nghệ cao ngày càng nhắm vào an ninh văn hóa."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bo-truong-cong-an-rac-pham-mang-co-xuy-loi-song-buong-tha-5130637.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đà Nẵng đăng cai Diễn đàn tư pháp ASEAN – Trung Quốc lần thứ tư, bàn giải quyết án xuyên biên giới và tòa án điện tử",
+          "meta": "10/10 · Tuổi Trẻ",
+          "body": [
+            "Gần 130 đại biểu, trong đó 70 người từ tòa án nước ngoài, dự diễn đàn do TAND Tối cao chủ trì với chủ đề “Tăng cường hợp tác tư pháp trong bối cảnh hội nhập quốc tế và kỷ nguyên số”. Chánh án Nguyễn Văn Quảng cho biết các bên trao đổi kinh nghiệm xử án hình sự, dân sự, thương mại có yếu tố xuyên biên giới, cùng việc xây dựng tòa án điện tử và ứng dụng AI."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/asean-trung-quoc-ban-hop-tac-giai-quyet-an-xuyen-bien-gioi-100261010130546468.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Thỏa thuận diesel Mỹ – Nga, Trump nổi giận vì Nobel, Sừng châu Phi và Yemen nóng lên.",
+      "items": [
+        {
+          "headline": "Trump chốt thỏa thuận mua diesel của Nga, Zelensky gọi là “món quà cho Putin”; Axios: Mỹ làm vậy vì Kiev phớt lờ đề nghị ngừng đánh nhà máy lọc dầu",
+          "meta": "9–10/10 · VnExpress, BBC",
+          "body": [
+            "Trên Truth Social, ông Trump nói sau cuộc điện đàm với Tổng thống Putin, Nga sẽ lập tức cung cấp hơn 300.000 tấn diesel cho thị trường Mỹ và toàn cầu, thêm 500.000 tấn vào tháng 11 và một triệu tấn sau đó. Bộ Tài chính Mỹ đã cấp giấy phép tạm thời cho diesel Nga ra thị trường thế giới. Theo AAA, giá diesel bình quân ở Mỹ ngày 8/10 là 6,28 USD/gallon, tăng khoảng 70% kể từ khi chiến sự với Iran nổ ra ngày 28/2.",
+            "Axios dẫn lời một quan chức Mỹ giấu tên nói ông Trump quyết định như vậy sau khi Ukraine phớt lờ đề nghị ngừng tập kích nhà máy lọc dầu Nga; tại cuộc gặp 8 giờ ở Miami, đặc phái viên Witkoff và Kushner đã báo trước cho phái đoàn Ukraine. Ông Zelensky gọi thỏa thuận là “món quà” cho ông Putin."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – thỏa thuận diesel",
+              "url": "https://vnexpress.net/ong-trump-dat-thoa-thuan-hang-trieu-tan-dau-diesel-voi-nga-5130592.html"
+            },
+            {
+              "name": "VnExpress – Axios",
+              "url": "https://vnexpress.net/ong-trump-dat-thoa-thuan-dau-voi-nga-vi-bi-ong-zelensky-phot-lo-5130711.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno"
+            }
+          ]
+        },
+        {
+          "headline": "Trượt Nobel Hòa bình, Trump nói Na Uy “mang vết nhơ không thể gột sạch”, gọi người thắng giải là “người vô danh”",
+          "meta": "Syracuse (New York), 9/10 · VnExpress, BBC",
+          "body": [
+            "Tại cuộc vận động ở Syracuse, ông Trump nói giải Nobel Hòa bình “đã vĩnh viễn mất uy tín” và “chúng tôi sẽ không quên đâu, Na Uy”. Về bà Navi Pillay, 85 tuổi, ông nói: “Tôi chưa từng nghe nói đến người này… Dù sao cũng chúc mừng bà ấy.”",
+            "Ông cũng cho rằng mình đã ngăn giao tranh giữa hai miền Triều Tiên, giữa Nhật Bản và Triều Tiên, giữa Trung Quốc và Đài Loan, nhưng không đưa ra bằng chứng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-trump-na-uy-mang-vet-nho-vi-khong-trao-nobel-hoa-binh-cho-toi-5130621.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo"
+            }
+          ]
+        },
+        {
+          "headline": "Ethiopia tố Eritrea “xâm lược toàn diện” Tigray, cảnh báo sẽ tự vệ; drone tấn công quân Eritrea ở Adigrat",
+          "meta": "9/10 · BBC",
+          "body": [
+            "Trong thư gửi Hội đồng Bảo an LHQ, Ngoại trưởng Ethiopia Gedion Timothewos nói quân Eritrea đã tiến sâu tới 60 km vào Tigray. Eritrea đáp rằng chính họ đang đối mặt với “cuộc chiến tranh xâm lược vô cớ”.",
+            "Giao tranh giữa chính phủ Ethiopia và đảng TPLF kiểm soát Tigray nổ ra từ hai tuần trước; hai nước đã cắt quan hệ ngoại giao tuần trước. Tổ chức giám sát xung đột Acled cho biết quân và đạn dược Eritrea ở Adigrat bị “nhiều đợt tấn công bằng drone”; chưa có báo cáo thương vong được kiểm chứng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o"
+            }
+          ]
+        },
+        {
+          "headline": "Liên quân Saudi Arabia tuyên bố phá hủy 136 mục tiêu Houthi trong “chiến dịch quy mô lớn” ở Yemen",
+          "meta": "10/10 · Tuổi Trẻ (AFP)",
+          "body": [
+            "Người phát ngôn liên quân Turki al-Maliki viết trên X rằng liên quân đã phá hủy 136 mục tiêu quân sự ở vùng Houthi kiểm soát; kênh Almasirah của Houthi nói tên lửa Saudi nhắm vào nhiều khu vực ở tỉnh Saada. Đợt tấn công diễn ra sau vụ Houthi bắn tên lửa vào sân bay Riyadh làm 3 người Saudi thiệt mạng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/lien-quan-do-saudi-arabia-dan-dau-mo-chien-dich-quy-mo-lon-o-yemen-100261010085817867.htm"
+            },
+            {
+              "name": "BBC – Riyadh",
+              "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro"
+            }
+          ]
+        },
+        {
+          "headline": "Đức phẫn nộ khi cựu Thủ tướng Schröder dự tiệc sinh nhật 74 tuổi của Putin tại tư gia",
+          "meta": "9–10/10 · VnExpress (Reuters)",
+          "body": [
+            "Điện Kremlin công bố ảnh ông Gerhard Schröder, 82 tuổi, vỗ tay tại tiệc sinh nhật ông Putin ở Moskva; ông có mặt ở Nga để thăm chuỗi siêu thị Hyperglobus, nơi ông vừa vào hội đồng giám sát. Người phát ngôn chính phủ Đức nói Thủ tướng Friedrich Merz “vô cùng phẫn nộ”, gọi đây là hành động hoàn toàn không hợp lý khi chiến sự Ukraine còn tiếp diễn."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cuu-thu-tuong-duc-du-sinh-nhat-ong-putin-o-moskva-5130614.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Một cuộc sống sót trên biển, một chức vô địch ở Nhật và những tin dân sinh trong ngày.",
+      "items": [
+        {
+          "headline": "Ngư dân Quảng Trị bám phao xốp, trôi dạt rồi bơi 14 km vào bờ sau khi tàu cá chìm giữa sóng 3 m",
+          "meta": "10/10 · VnExpress",
+          "body": [
+            "Sáng 9/10, khi tàu của anh Nguyễn Mạnh Cường (40 tuổi, phường Bắc Gianh) neo cách cửa Gianh khoảng 6,5 km chờ sóng yên, gió mưa bất ngờ mạnh lên, sóng cao 3 m làm vỡ đường ống dẫn nước vào khoang nuôi ghẹ. Bốn máy bơm không cứu được tàu; anh kết tám phao xốp thành bè cho vợ, bố vợ và em trai bám vào, kịp gọi điện báo vị trí cho anh trai trước khi tàu chìm lúc khoảng 11h30.",
+            "Anh Cường vật lộn khoảng 8 giờ trên biển rồi bơi vào bờ cách nơi gặp nạn 14 km. Con tàu dài 12,5 m mua năm 2022 với tổng đầu tư khoảng 500 triệu đồng là sinh kế của cả gia đình năm người."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ngu-dan-vat-lon-8-gio-giua-bien-gianh-giat-su-song-5130707.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thợ Việt Lương Đức Quý là lao động nước ngoài đầu tiên vô địch cuộc thi kỹ năng cốt thép toàn Nhật Bản",
+          "meta": "10/10 · VnExpress",
+          "body": [
+            "Tại TETSU-1 GRAND PRIX lần thứ 6 ở Shizuoka ngày 3/10, anh Quý (33 tuổi, Công ty Tamura Kogyo) vượt 33 đối thủ, nhận bằng khen của Bộ trưởng Đất đai, Hạ tầng, Giao thông và Du lịch Nhật. Bài thi lắp dựng cốt thép móng, cột, dầm theo bản vẽ có thời gian chuẩn 80 phút; anh hoàn thành trong 46 phút 45 giây.",
+            "Anh Quý đã làm việc ở Nhật 11 năm. Đây là lần đầu anh dự thi và đã dành trọn hai tuần trước đó để luyện tập."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tho-viet-lan-dau-gianh-giai-nhat-nghe-cot-thep-o-nhat-5130645.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tạm dừng phạt lỗi chạy dưới tốc độ tối thiểu ở các đoạn dốc cao tốc, tài xế xe tải thở phào",
+          "meta": "10/10 · Tuổi Trẻ",
+          "body": [
+            "Cục CSGT (Bộ Công an) thông báo tạm dừng xử phạt lỗi dưới tốc độ tối thiểu trên các đoạn dốc cao tốc và xem xét điều chỉnh tốc độ tối thiểu tại đây. Tài xế cho biết ở những dốc như Km30 cao tốc Phan Thiết – Dầu Giây hay Km340+800 cao tốc Vân Phong – Nha Trang, xe chở đúng tải dù nhấn hết ga vẫn rớt dưới 60 km/h và bị phạt nguội."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tam-dung-phat-loi-toc-do-toi-thieu-tren-cao-toc-tai-xe-an-tam-1002610101411345.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Lá đơn xin vào Đảng 6 trang giúp nhận diện liệt sĩ Vương Đình Minh sau hơn nửa thế kỷ nằm lại ở Campuchia",
+          "meta": "10/10 · Tuổi Trẻ",
+          "body": [
+            "Đội K72 (Bộ Chỉ huy Quân sự TP Đồng Nai) tìm thấy hai hài cốt liệt sĩ ở huyện Memot, tỉnh Tbong Khmum ngày 28/9. Trong một chiếc ví có ảnh một cô gái, cây bút làm từ vỏ đạn và lá đơn viết tay đã mục, còn đọc được tên Vương Đình Minh, 22 tuổi, quê Nghệ An.",
+            "Đối chiếu ban đầu trùng với thông tin gia đình về liệt sĩ Vương Đình Minh, sinh năm 1949, nhập ngũ 1967, hy sinh ngày 10/1/1971; đơn vị đề xuất lấy mẫu ADN thân nhân để giám định."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/la-don-xin-vao-dang-6-trang-he-lo-danh-tinh-liet-si-hy-sinh-tai-campuchia-100261010135856885.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Quảng Ngãi: 13 người nhập viện nghi ngộ độc sau khi ăn bánh mì ở một tiệm lâu đời",
+          "meta": "Trưa 10/10 · Tuổi Trẻ",
+          "body": [
+            "Bệnh viện Đa khoa Phúc Hưng tiếp nhận 13 bệnh nhân đau bụng dữ dội, buồn nôn, sốt 4–6 giờ sau khi ăn bánh mì mua tại tiệm B.Đ. (phường Cẩm Thành); mức độ được đánh giá trung bình. Cơ quan chức năng đã lấy mẫu xét nghiệm. Tháng 12/2025, Quảng Ngãi từng có 203 người phải khám, điều trị sau khi ăn bánh mì Hồng Vân, nơi mẫu thực phẩm dương tính với Salmonella."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/13-nguoi-nhap-vien-nghi-ngo-doc-sau-khi-an-banh-mi-100261010133816894.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Cần Thơ hủy giải đua vỏ lãi sau khi một thanh niên chạy thử tử vong, thuyền gãy đôi",
+          "meta": "10/10 · VnExpress",
+          "body": [
+            "Sáng 9/10, một thanh niên đi cùng nhóm vận động viên từ Cà Mau chạy thử vỏ lãi tốc độ cao trên sông Quản Lộ – Phụng Hiệp thì gặp sóng lớn do tàu ngược chiều, thuyền gãy đôi, người lái rơi xuống sông và tử vong. Ban tổ chức giải vô địch đua vỏ composite phường Ngã Năm (dự kiến 48 vận động viên) quyết định dừng giải vì công tác chuẩn bị chưa đáp ứng yêu cầu an toàn."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dung-giai-dua-vo-lai-o-can-tho-sau-tai-nan-chet-nguoi-5130713.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Động đất Panama, bão Isaias, học sinh Pháp xuống đường.",
+      "items": [
+        {
+          "headline": "Động đất 7,7 độ ở Panama làm sập nhà thờ di sản, khách sạn và trụ sở chính quyền; cảnh báo sóng thần đã được dỡ bỏ",
+          "meta": "10/10 · VnExpress, Tuổi Trẻ, BBC",
+          "body": [
+            "Theo USGS, trận động đất xảy ra lúc 0h56 ngày 10/10 giờ Việt Nam, tâm chấn ở bán đảo Azuero, sâu hơn 12 km. Tổng thống José Raúl Mulino gọi đây là “thảm họa nghiêm trọng”. Nhà thờ San Atanasio ở Los Santos (di sản lịch sử quốc gia từ 1938), khách sạn El Sitio và tòa văn phòng thống đốc ở Penonomé bị sập; Đại học Panama ghi nhận 45 dư chấn, mạnh nhất ban đầu đo được 6,9.",
+            "Sân bay Tocumen tạm đóng rồi mở lại, trường học cả nước nghỉ; Cơ quan quản lý kênh đào cho biết kênh vẫn hoạt động bình thường. Đến sáng 10/10 giới chức chưa công bố thương vong."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dong-dat-7-7-do-lam-rung-chuyen-panama-gay-canh-bao-song-than-5130583.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/hang-loat-cong-trinh-do-sap-o-panama-sau-dong-dat-77-do-do-bo-canh-bao-song-than-100261010095243417.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo"
+            }
+          ]
+        },
+        {
+          "headline": "Bão Isaias đổ bộ Florida, hàng trăm nghìn hộ mất điện; hai cơn bão khác cùng lúc nhắm vào Mexico và California",
+          "meta": "10/10 · BBC, Tuổi Trẻ, VnExpress",
+          "body": [
+            "Isaias, cơn bão đầu tiên của mùa bão Đại Tây Dương 2026, đổ bộ tối 9/10 (giờ Mỹ) gần Destin với sức gió duy trì khoảng 165 km/h, sau đó suy yếu thành xoáy thuận sau nhiệt đới. Florida, Alabama và Georgia ban bố tình trạng khẩn cấp; hàng chục nghìn người được lệnh sơ tán, hàng trăm nghìn hộ mất điện.",
+            "Cùng lúc, bão Rachel và Simon trên Thái Bình Dương đang tiến vào Mexico và tây nam nước Mỹ; NHC ước tính Simon có thể đạt sức gió cực đại 185 km/h khi gần bờ biển Mexico."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/bao-isaias-do-bo-my-hang-chuc-ngan-nguoi-so-tan-khan-cap-100261010101535082.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ba-con-bao-cung-luc-ap-sat-my-5130638.html"
+            }
+          ]
+        },
+        {
+          "headline": "Pháp hứa thêm 3.000 giáo viên dạy thay để xoa dịu làn sóng biểu tình của học sinh trung học",
+          "meta": "9/10 · BBC",
+          "body": [
+            "Bộ trưởng Giáo dục Edouard Geffray đưa ra nhượng bộ vật chất đầu tiên sau ba tuần biểu tình đòi thêm nguồn lực cho giáo dục trung học. Chính phủ cho biết đã có 6.877 người bị bắt, 86% dưới 18 tuổi; riêng thứ Năm có khoảng 71.000 người xuống đường, 24.000 người tụ tập ở quảng trường Bastille. Các nghiệp đoàn đã kêu gọi một ngày hành động mới vào thứ Ba tới."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po"
+            }
+          ]
+        },
+        {
+          "headline": "Mexico: ba người bị kết tội sát hại hai anh em lướt sóng Australia và bạn người Mỹ năm 2024",
+          "meta": "10/10 · The Guardian, BBC",
+          "body": [
+            "Tòa ở Ensenada xác định ba bị cáo hành động có chủ đích khi bắn chết Jake và Callum Robinson cùng Carter Rhoad trong chuyến lướt sóng ở Baja California. Bà Debra Robinson, mẹ hai nạn nhân, nói: “Phán quyết là điều tốt, nhưng nó không mang các con tôi trở về.”"
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o"
+            }
+          ]
+        },
+        {
+          "headline": "Ca sĩ Ella Langley hủy show 19.000 chỗ ở Tulsa hai giờ trước giờ diễn vì cuộc gọi đe dọa “súng và bom”",
+          "meta": "10/10 · BBC",
+          "body": [
+            "Cảnh sát Tulsa cho biết một người gọi điện dọa gây “tổn hại lớn” tại BOK Center; khám xét nhiều lần với chó nghiệp vụ không thấy mối đe dọa đáng tin cậy, nhưng nhà hát vẫn quyết định hủy. Tháng 9, ca khúc “Choosin' Texas” của Langley đã vượt “All I Want for Christmas Is You” để trở thành đĩa đơn giữ vị trí số 1 lâu nhất lịch sử bảng xếp hạng Mỹ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Một thị trưởng tên “Hitler Mussolini”, vụ trộm vang lớn nhất Italy, cụ rùa 194 tuổi — và ba sự thật về ngày 10 tháng 10.",
+      "items": [
+        {
+          "headline": "Ông “Hitler Mussolini” đắc cử thị trưởng một huyện miền núi Peru, hơn đối thủ đúng 25 phiếu",
+          "meta": "BBC · 9/10",
+          "body": [
+            "Ông Hitler Mussolini Simeon Flores, 45 tuổi, ứng viên đảng trung tả Ahora Nación, giành chức thị trưởng Queropalca (vùng Andes, tỉnh Huánuco) với 229 phiếu. Peru từng có “Hitler” khác làm thị trưởng Yúngar năm 2018, người đã đánh bại đối thủ tên… Lenin Vladimir với khẩu hiệu “Tôi là Hitler tốt”."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo"
+            }
+          ]
+        },
+        {
+          "headline": "Trộm 30.000 chai vang trị giá 5 triệu euro của nhà Antinori bằng chính xe nâng của hãng",
+          "meta": "BBC · 9/10",
+          "body": [
+            "Ít nhất bảy kẻ bịt mặt vô hiệu hóa báo động, camera rồi dùng xe nâng chất Tignanello, Solaia và Guado al Tasso lên hai xe tải ở kho tại Tuscany. CEO Renzo Cotarella nói đây là vụ trộm vang lớn nhất từng xảy ra ở Italy: “Hai xe tải đầy hàng không thể biến mất vào không khí.” Antinori được thành lập năm 1385."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko"
+            }
+          ]
+        },
+        {
+          "headline": "Cụ rùa Jonathan 194 tuổi có gene ti thể “trẻ” như rùa non",
+          "meta": "Tuổi Trẻ (theo The Guardian, Science Advances) · 10/10",
+          "body": [
+            "Phân tích methyl hóa ADN của Jonathan, động vật trên cạn còn sống lâu nhất được ghi nhận, sống ở đảo Saint Helena, cho thấy nhiều gene của cụ giống những con rùa già, nhưng nhóm gene liên quan đến chức năng ti thể lại giống rùa trẻ hơn nhiều. Các nhà khoa học chưa biết điều này có giúp cụ sống lâu hay không."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/gen-la-khien-cu-rua-194-tuoi-cai-lao-hoan-dong-100261010120038806.htm"
+            }
+          ]
+        },
+        {
+          "headline": "“Băng đảng” hơn 20 con rái cá chia hai phe dọc kênh Bangkok Noi",
+          "meta": "VnExpress · 10/10",
+          "body": [
+            "Cư dân sống hơn 40 năm bên kênh ở tỉnh Nonthaburi (Thái Lan) nói chưa bao giờ thấy nhiều rái cá như vậy: hai nhóm mỗi nhóm một bờ, vừa bắt cá vừa “đối mặt” nhau."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bang-dang-rai-ca-can-quet-bo-kenh-5130411.html"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 10/10 là Ngày Sức khỏe Tâm thần Thế giới, lần đầu được tổ chức năm 1992",
+          "meta": "Wikipedia",
+          "body": [
+            "Ngày do Liên đoàn Sức khỏe Tâm thần Thế giới khởi xướng, lần đầu tổ chức ngày 10/10/1992; từ năm 1994 mỗi năm có một chủ đề riêng, và WHO hỗ trợ truyền thông cho ngày này."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – World Mental Health Day",
+              "url": "https://en.wikipedia.org/wiki/World_Mental_Health_Day"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 10/10/1911, khởi nghĩa Vũ Xương mở màn Cách mạng Tân Hợi, chấm dứt gần ba thế kỷ nhà Thanh",
+          "meta": "Wikipedia",
+          "body": [
+            "Tân quân đóng ở Vũ Xương (nay thuộc Vũ Hán, Hồ Bắc) tấn công dinh Tổng đốc Hồ Quảng; Tổng đốc bỏ chạy và quân khởi nghĩa chiếm toàn thành. Cuộc cách mạng sau đó lật đổ triều đại phong kiến cuối cùng của Trung Quốc."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Wuchang Uprising",
+              "url": "https://en.wikipedia.org/wiki/Wuchang_uprising"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 10/10/1846, William Lassell phát hiện Triton – mặt trăng lớn duy nhất quay ngược chiều trong Hệ Mặt Trời",
+          "meta": "Wikipedia",
+          "body": [
+            "Triton là vệ tinh lớn nhất của Sao Hải Vương, đường kính khoảng 2.707 km, lớn hơn mọi hành tinh lùn đã biết. Nó quay quanh Sao Hải Vương theo quỹ đạo nghịch hành và được cho là từng là một hành tinh lùn ở vành đai Kuiper bị hút vào quỹ đạo."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Triton",
+              "url": "https://en.wikipedia.org/wiki/Triton_(moon)"
+            },
+            {
+              "name": "Wikipedia – Ngày này năm xưa (On this day)",
+              "url": "https://en.wikipedia.org/wiki/October_10"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 10/10/2026 (giờ VN). Không lặp tin của số sáng, trừ các cập nhật thực sự trong ngày (chuyến thăm Campuchia, Mỹ trừng phạt ICC, chiến sự Ukraine). Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
