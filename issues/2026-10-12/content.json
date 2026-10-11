@@ -1,0 +1,1030 @@
+{
+  "date": "2026-10-12",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 12/10/2026 · Thứ Hai · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Trump tuyên bố Nga – Ukraine “ngừng bắn năng lượng”; Zelensky nói chỉ biết qua báo chí",
+    "Man City thắng Liverpool 3-0 tại Anfield trong trận đầu sau phán quyết 114 cáo buộc",
+    "Satya Nadella đòi “phanh khẩn cấp” cho AI; giới công nghệ theo Trump gọi AI là “super intelligence”",
+    "Houthi đánh sân bay Riyadh lần hai, cảnh báo hành khách tránh mọi sân bay Saudi",
+    "Xây dựng: Hexagon mua Rocscience 535 triệu USD; IES nối thẳng Revit với mô phỏng năng lượng"
+  ],
+  "followups": [
+    {
+      "title": "Nga tập kích Ukraine",
+      "update": "Ông Trump tuyên bố Nga và Ukraine đã nhất trí ngừng tấn công hạ tầng năng lượng của nhau; ông Zelensky nói chỉ biết qua truyền thông nhưng sẵn sàng nếu Nga đồng ý, Moscow chưa lên tiếng. Cùng ngày Ukraine đánh trung tâm dữ liệu Yandex lần thứ ba trong tuần.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o"
+        },
+        {
+          "name": "BBC – Yandex",
+          "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo"
+        }
+      ]
+    },
+    {
+      "title": "Chiến sự Yemen lan sang Saudi Arabia",
+      "update": "Đòn thứ hai trong hai ngày vào sân bay King Khalid làm 1 người chết, 11 người bị thương; Houthi nhận trách nhiệm và cảnh báo hành khách tránh mọi sân bay Saudi trừ Mecca và Medina.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/houthi-canh-bao-hanh-khach-tranh-xa-cac-san-bay-arab-saudi-5131032.html"
+        }
+      ]
+    },
+    {
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn thăm Trung Quốc",
+      "update": "Ngày 11/10 hội kiến Chủ tịch Chính hiệp Toàn quốc Vương Hộ Ninh, đề nghị đẩy nhanh hợp tác xây dựng các tuyến đường sắt kết nối hai nước; chuyến thăm kéo dài đến 15/10.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-11",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chu-tich-quoc-hoi-tran-thanh-man-hoi-kien-chu-tich-chinh-hiep-toan-quoc-trung-quoc-5131006.html"
+        }
+      ]
+    },
+    {
+      "title": "Man City và 114 cáo buộc vi phạm tài chính",
+      "update": "Trận đầu sau phán quyết có tội, Man City thắng Liverpool 3-0 tại Anfield giữa làn sóng phản đối của CĐV chủ nhà; án phạt vẫn chưa được công bố.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-06",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no"
+        }
+      ]
+    },
+    {
+      "title": "Ronaldo rời đội tuyển Bồ Đào Nha",
+      "update": "Chủ tịch LĐBĐ Bồ Đào Nha Pedro Proença nói “tất cả đều muốn Ronaldo trở lại”, dù tiền đạo 41 tuổi vẫn đối mặt án kỷ luật vì tự ý rời nơi tập trung.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-10",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chu-tich-ldbd-bo-dao-nha-tat-ca-deu-muon-ronaldo-tro-lai-5130868.html"
+        }
+      ]
+    },
+    {
+      "title": "U17 nữ Việt Nam ở vòng loại châu Á",
+      "update": "Thắng Kyrgyzstan 2-0 ở lượt cuối, đứng đầu bảng D với ba trận toàn thắng và giành vé dự vòng chung kết 2027 tại Trung Quốc.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-09",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/u17-nu-viet-nam-gianh-ve-du-vong-chung-ket-chau-a-2027-100261011175904738.htm"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-12",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Công bố giải Nobel Kinh tế 2026, khép lại tuần Nobel",
+      "topic": "Văn hoá",
+      "note": "",
+      "sources": [
+        {
+          "name": "Nobelprize.org",
+          "url": "https://www.nobelprize.org/prizes/literature/2026/summary/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "time": "tối",
+      "timezone": "giờ VN",
+      "title": "Al Nassr – Neftchi Fergana, AFC Champions League Elite",
+      "topic": "Bóng đá",
+      "note": "Ronaldo đang có 980 bàn; FPF vừa đình chỉ tạm thời anh ở đội tuyển.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ronaldo-ghi-ban-thu-980-5130578.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "time": "trong ngày",
+      "timezone": "giờ Kiribati",
+      "title": "Đoàn thám hiểm dự kiến tới đảo Nikumaroro tìm máy bay của Amelia Earhart",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "19:00",
+      "timezone": "giờ VN",
+      "title": "Graphisoft Global Virtual Event giới thiệu Archicad 2026",
+      "topic": "Xây dựng",
+      "note": "14h CEST, phát trực tuyến.",
+      "sources": [
+        {
+          "name": "Nemetschek",
+          "url": "https://www.nemetschek.com/en/news-media/graphisoft-unveils-2026-product-portfolio-led-archicad-and-ai-enabled-design"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "20:00",
+      "timezone": "giờ VN",
+      "title": "Apple tổ chức sự kiện “Welcome home” ở New York",
+      "topic": "Công nghệ",
+      "note": "Dự đoán sản phẩm nhà thông minh.",
+      "sources": [
+        {
+          "name": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/08/apple-announces-special-event-for-october-13-welcome-home/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "PSV – RB Salzburg, Champions League",
+      "topic": "Bóng đá",
+      "note": "Thứ Ba 13/10 theo NL Times.",
+      "sources": [
+        {
+          "name": "NL Times",
+          "url": "https://nltimes.nl/2026/10/09/psv-beat-heerenveen-2-0-first-game-international-break"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "trong ngày",
+      "timezone": "giờ Pháp",
+      "title": "Pháp: học sinh trung học và nghiệp đoàn kêu gọi ngày biểu tình mới",
+      "topic": "Chính trị",
+      "note": "Sau khi chính phủ hứa thêm 3.000 giáo viên dạy thay.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Ngày Doanh nhân Việt Nam",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/ngay-doanh-nhan-viet-nam-13-10-khi-doanh-nghiep-ngai-lon-va-nhung-tran-tro-10026101106442916.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "trong ngày",
+      "timezone": "giờ Mỹ",
+      "title": "TechCrunch Disrupt 2026 khai mạc",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "time": "sáng",
+      "timezone": "giờ VN",
+      "title": "TP HCM truy điệu, di quách 731 hài cốt liệt sĩ từ công viên Lê Thị Riêng về Nghĩa trang liệt sĩ TP",
+      "topic": "Đời sống",
+      "note": "Người dân có thể đứng dọc lộ trình khoảng 26 km để tiễn đưa.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/dua-hai-cot-liet-si-cong-vien-le-thi-rieng-ve-noi-an-tang-nguoi-dan-co-the-tien-cac-anh-tren-tuyen-duong-nao-100261011160707507.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Galatasaray – Barcelona, Champions League",
+      "topic": "Bóng đá",
+      "note": "Barca vào trận với tám trận toàn thắng ở La Liga.",
+      "sources": [
+        {
+          "name": "Dân trí",
+          "url": "https://dantri.com.vn/the-thao/barcelona-tiep-tuc-toan-thang-real-madrid-gianh-3-diem-du-vinicius-bi-duoi-20261011064804844.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Ngày cuối triển lãm “Di sản văn hóa Chăm” tại tháp Pô Sah Inư",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dua-vang-chen-bac-cua-hoang-toc-cham-trong-le-kate-5130715.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Hội nghị toàn quốc quán triệt Nghị quyết Trung ương 4 khóa XIV",
+      "topic": "Chính trị",
+      "note": "",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/chinh-tri/toan-van-bai-phat-bieu-be-mac-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-trung-uong-4-khoa-xiv-post1339553.vov"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16–18/10",
+      "timezone": "giờ VN",
+      "title": "Bắc Bộ có khả năng mưa rào, dông rải rác sau chuỗi ngày nắng hanh",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/du-bao-thoi-tiet-tu-11-den-17-10-bac-bo-cuoi-tuan-mua-trung-bo-va-nam-bo-mua-rao-100261010161428734.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 4: Ninh Bình – HAGL",
+      "topic": "Bóng đá",
+      "note": "HAGL vừa có chiến thắng đầu tiên, 3-0 trước Đà Nẵng.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hagl-tim-lai-niem-vui-o-v-league-5130803.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Real Madrid – Sevilla, vòng 9 La Liga",
+      "topic": "Bóng đá",
+      "note": "Vinicius có thể bị treo giò.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vinicius-tra-gia-dat-vi-giat-toc-doi-thu-o-la-liga-5130887.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "El Clasico Real Madrid – Barcelona, vòng 10 La Liga",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vinicius-tra-gia-dat-vi-giat-toc-doi-thu-o-la-liga-5130887.html"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Satya Nadella đòi “phanh khẩn cấp” cho AI: tách mô hình khỏi phần điều phối, ghi nhật ký không sửa được mọi hành động",
+          "meta": "TechCrunch · 10/10 (giờ Mỹ)",
+          "body": [
+            "Trong bài đăng trên X sáng thứ Bảy, CEO Microsoft Satya Nadella viết đã đến lúc “lùi lại và đánh giá kiến trúc niềm tin” của AI. Theo ông, không thể coi các hệ thống thông minh là những “hộp đen lồng nhau” rồi chỉ chấp nhận hay bác bỏ kết quả của chúng.",
+            "Cách tiếp cận ông đề xuất gồm: tách mô hình khỏi phần mềm điều phối công việc của nó, đưa các lớp kiểm soát và an toàn ra bên ngoài mô hình, ghi lại “mọi hành động đáng kể” bằng bằng chứng người đọc được và không thể sửa, và luôn để một người có thẩm quyền tạm dừng hoặc tắt mô hình giữa chừng. “Chúng ta phải giả định mô hình đã bị xâm nhập và cô lập nó ngay từ đầu. Hãy nghĩ về nó như một chiếc phanh khẩn cấp”, ông viết. TechCrunch lưu ý phát biểu đến đúng lúc các công ty AI liên tiếp thừa nhận sự cố mất kiểm soát mô hình, như vụ Claude tự gửi tin báo giả mà báo đã đưa hôm 10/10."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+            }
+          ]
+        },
+        {
+          "headline": "Thung lũng Silicon lần lượt theo ông Trump gọi AI là “super intelligence”",
+          "meta": "The Verge · 11/10 (giờ Mỹ)",
+          "body": [
+            "Sau khi Tổng thống Trump công bố muốn đổi tên trí tuệ nhân tạo thành “super intelligence” (siêu trí tuệ) và Nhà Trắng tuyên bố coi người dùng chữ “Artificial Intelligence” là “KẺ THÙ”, một sắc lệnh đã yêu cầu các cơ quan chính phủ dùng thuật ngữ mới. Theo The Verge, Elon Musk hứa đổi SpaceXAI thành SpaceXSI, Marc Benioff thông báo Salesforce đổi AIForce thành SIForce.",
+            "Nvidia, có CEO Jensen Huang dự hội nghị công bố sắc lệnh, đưa “nghiên cứu super intelligence” vào khoản cam kết 1 tỷ USD cho khoa học; mới nhất là Satya Nadella cũng dùng chữ “Super Intelligence” trong bài đăng về an toàn AI. The Verge nhận xét phần lớn công chúng vẫn gọi là AI, còn giới lãnh đạo công nghệ chấp nhận cái tên mới để tránh làm mất lòng Nhà Trắng."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "Chọn từ GitHub Trending (ngày và tuần) sáng 12/10 (giờ VN), bỏ các repo đã đưa ở số trước; số sao lấy từ GitHub API lúc tra cứu.",
+      "items": [
+        {
+          "headline": "mvschwarz/openrig: dựng “đội” agent cố định từ Claude Code, Codex và Pi bằng một file YAML",
+          "meta": "GitHub · ~7,0 nghìn sao · Apache-2.0 · TypeScript",
+          "body": [
+            "OpenRig tự mô tả: “harness bọc mô hình, rig bọc các harness”. Người dùng khai báo đội agent trong YAML rồi khởi động bằng một lệnh; Claude Code và Codex chạy chung một rig, có vai trò, ngữ cảnh dùng chung và phần việc được giao rõ. Bạn trò chuyện với một agent trưởng về kết quả mong muốn, agent này điều phối các agent chuyên trách và chỉ đưa lên những quyết định cần người.",
+            "Cần Node.js 22 hoặc 24 và tmux, chạy trên macOS/Linux (Windows qua WSL2). Repo nằm trong top trending tuần của GitHub với khoảng 2.000 sao mới."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – openrig",
+              "url": "https://github.com/mvschwarz/openrig"
+            }
+          ]
+        },
+        {
+          "headline": "thedotmack/claude-mem: trí nhớ dài hạn giữa các phiên cho agent lập trình",
+          "meta": "GitHub · ~99,7 nghìn sao · Apache-2.0 · TypeScript",
+          "body": [
+            "claude-mem ghi lại những gì agent làm trong phiên, nén bằng AI rồi đưa phần ngữ cảnh liên quan trở lại ở các phiên sau, để agent không phải học lại dự án từ đầu. Repo ghi hỗ trợ Claude Code, Codex, Gemini, Hermes, Copilot, OpenCode và OpenClaw; tuần qua có thêm khoảng 4.000 sao."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – claude-mem",
+              "url": "https://github.com/thedotmack/claude-mem"
+            }
+          ]
+        },
+        {
+          "headline": "mattpocock/skills: bộ skill “cho kỹ sư thật” của Matt Pocock",
+          "meta": "GitHub · ~286 nghìn sao · MIT",
+          "body": [
+            "Matt Pocock chia sẻ các skill agent anh dùng hằng ngày, chủ trương nhỏ, dễ sửa và ghép được, chạy với mọi mô hình, thay vì những framework “nắm cả quy trình” như GSD, BMAD hay Spec-Kit vốn khiến khó gỡ lỗi. Có thể cài như plugin cho Claude Code và Codex (tự cập nhật) hoặc chép file qua skills.sh; tuần qua repo thêm khoảng 9.200 sao."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – mattpocock/skills",
+              "url": "https://github.com/mattpocock/skills"
+            }
+          ]
+        },
+        {
+          "headline": "danyuchn/asd-ste100-skill: dùng quy tắc tiếng Anh kỹ thuật giản lược của ngành hàng không để viết prompt rõ hơn",
+          "meta": "GitHub · ~4,5 nghìn sao · MIT · Python",
+          "body": [
+            "ASD-STE100 là chuẩn “Simplified Technical English” dùng trong tài liệu bảo dưỡng máy bay. Skill này biến các quy tắc đó thành công cụ cho Claude Code để viết lại các đoạn tiếng Anh mơ hồ dành cho agent (prompt, tài liệu, hướng dẫn) thành câu ngắn, một nghĩa. Repo vào top trending tuần với khoảng 950 sao mới."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – asd-ste100-skill",
+              "url": "https://github.com/danyuchn/asd-ste100-skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Ukraine tấn công trung tâm dữ liệu Yandex lần thứ ba trong tuần, một số dịch vụ bị gián đoạn",
+          "meta": "BBC · 11/10",
+          "body": [
+            "Yandex, thường được gọi là “Google của Nga”, phải tạm dừng một trung tâm dữ liệu ở Vladimir, phía đông Moscow, sau khi cơ sở này bị drone Ukraine đánh trúng; không ai bị thương nhưng một số dịch vụ không truy cập được. Trước đó trong tuần, hai trong năm trung tâm dữ liệu của hãng đã bị tấn công.",
+            "Kiev nói nhắm vào những nơi tạo nguồn thu cho bộ máy chiến tranh của Moscow và buộc Nga phải dồn nguồn lực sửa chữa. Đây là ví dụ hiếm hoi hạ tầng điện toán đám mây trở thành mục tiêu quân sự trực tiếp."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo"
+            }
+          ]
+        },
+        {
+          "headline": "NASA công bố hơn 800 GB dữ liệu Artemis II: hơn 11.000 ảnh, video và 8,5 giờ âm thanh",
+          "meta": "The Verge · 11/10",
+          "body": [
+            "Kho dữ liệu trên trang “Artemis II: Sights & Sounds of Science” gồm ảnh có chú thích của phi hành đoàn, như ảnh đánh dấu nơi họ thấy chớp sáng va chạm trên mặt tối của Mặt Trăng – có thể là những chớp mờ nhất từng được quan sát bằng mắt thường. NASA kèm ba tài liệu: báo cáo khoa học Mặt Trăng sơ bộ, báo cáo vận hành và hướng dẫn sử dụng dữ liệu."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data"
+            }
+          ]
+        },
+        {
+          "headline": "Amazon bỏ thỏa thuận bảo mật (NDA) khi đàm phán trung tâm dữ liệu với chính quyền địa phương",
+          "meta": "TechCrunch · 11/10",
+          "body": [
+            "Theo TechCrunch, Amazon đi theo Microsoft, tuyên bố không còn dùng NDA khi làm việc với chính quyền địa phương về các dự án trung tâm dữ liệu, trong một bài blog dài lập luận rằng trung tâm dữ liệu có lợi cho cộng đồng. Động thái diễn ra khi nhiều nơi ở Mỹ ban lệnh tạm dừng xây trung tâm dữ liệu; các phóng viên của podcast Equity tranh luận liệu minh bạch hơn có đủ để lấy lại lòng tin của cư dân."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+            }
+          ]
+        },
+        {
+          "headline": "LineageOS ra bản 24.0, chuẩn bị kỷ niệm 10 năm",
+          "meta": "LineageOS · 11/10",
+          "body": [
+            "Bản tin “Changelog 32 – Slick Seventeen, Awesome Applications, Universal USB Tools” công bố LineageOS 24.0, bản Android mã nguồn mở giúp kéo dài tuổi thọ nhiều điện thoại cũ. Nhóm phát triển cho biết dự án sẽ tròn 10 năm vào ngày 24/12/2026."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "LineageOS",
+              "url": "https://lineageos.org/Changelog-32/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Phần mềm",
+      "title": "Xây dựng · Phần mềm",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Hexagon mua Rocscience giá 535 triệu USD, nối mô phỏng địa kỹ thuật với dữ liệu quan trắc thời gian thực",
+          "meta": "AEC Magazine · 11/10",
+          "body": [
+            "Hexagon ký thỏa thuận mua Rocscience (Toronto) từ TA Associates và nhóm sáng lập, định giá 535 triệu USD, dự kiến hoàn tất trong quý IV/2026. Phần mềm Rocscience mô hình hóa hành vi đá, đất và kết cấu, phân tích ổn định mái dốc, chuyển vị nền và đánh giá hầm, đập; được dùng ở khoảng 125 quốc gia và đã có giao diện hỏi đáp bằng ngôn ngữ tự nhiên.",
+            "Hexagon muốn ghép mô phỏng này với radar và cảm biến quan trắc của mình để dữ liệu hiện trường liên tục hiệu chỉnh mô hình trong suốt thiết kế, thi công và vận hành – hữu ích cho hầm, mái taluy đường và đập, nơi cần phát hiện rủi ro sớm. Rocscience sẽ thuộc mảng Radar & Monitoring của Hexagon."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "AEC Magazine",
+              "url": "https://aecmag.com/news/hexagon-to-acquire-rocscience-for-535m/"
+            }
+          ]
+        },
+        {
+          "headline": "IES Sync for Revit: nối thẳng Revit với phần mềm mô phỏng năng lượng IES VE, không cần xuất IFC hay gbXML",
+          "meta": "AEC Magazine · 11/10",
+          "body": [
+            "Thay vì xuất IFC/gbXML hoặc dựng lại mô hình từ bản vẽ DXF, IES Sync truyền hình học từ Revit sang IES VE qua một lớp dữ liệu chung, kể cả lỗ mở và khoang kỹ thuật; các phiên bản sau sẽ truyền thêm dữ liệu liên quan năng lượng.",
+            "IES VE 2026 đồng thời có quy trình thiết kế HVAC có hướng dẫn, bảo vệ tốt hơn cho nghiên cứu tham số, sửa hàng loạt bộ điều khiển HVAC theo phòng, đánh giá quá nhiệt theo CIBSE TM59:2026 và tính năng riêng cho trung tâm dữ liệu với làm mát bằng chất lỏng và lai."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "AEC Magazine",
+              "url": "https://aecmag.com/sustainability/ies-sync-for-revit-launches/"
+            }
+          ]
+        },
+        {
+          "headline": "Matterport cho nhập đám mây điểm E57 từ máy quét Leica, Faro, Trimble, NavVis để tạo mô hình 3D chia sẻ trên web",
+          "meta": "AEC Magazine · 11/10 (trình diễn tại Autodesk University 2026)",
+          "body": [
+            "Tính năng Point Cloud Import đưa file E57 đã đăng ký tọa độ vào tài khoản Matterport và tự tạo mô hình thực tế có thể đi lại, đo đạc, ghi chú trên trình duyệt; vẫn giữ nguyên đăng ký và hình học của đám mây điểm khảo sát. Người không ra công trường có thể đánh dấu va chạm, kiểm tra khoảng hở và đặt câu hỏi gắn với từng thiết bị.",
+            "Matterport cũng có plug-in hai chiều với Autodesk Forma để gửi RFI và vấn đề đã neo vị trí, cùng quy trình trực tiếp sang Revit và Autodesk Tandem."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "AEC Magazine",
+              "url": "https://aecmag.com/reality-capture-modelling/matterport-embraces-point-clouds/"
+            }
+          ]
+        },
+        {
+          "headline": "Phân tích: GPT-6 Astra dựng được mô hình 3D từ bản vẽ và ảnh, nhưng khoảng cách tới mô hình BIM chi tiết còn lớn",
+          "meta": "AEC Magazine · Martyn Day · 11/10",
+          "body": [
+            "Bài viết ghi nhận các thử nghiệm của kiến trúc sư cho GPT-6 Astra điều khiển Blender, Rhino và Revit: mô hình đọc tài liệu tham khảo, lập kế hoạch dựng hình, viết mã, kiểm tra rồi tự sửa; kết quả từ “ấn tượng” đến “khiến BIM manager nhăn mặt”.",
+            "Theo tác giả, tự động hóa thay đổi kinh tế của việc sản xuất mô hình BIM, nhưng điểm yếu lộ ra khi cần sửa: mô hình tốt không chỉ đẹp mà phải giữ đúng quan hệ, tham số giữa các cấu kiện khi thiết kế thay đổi."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "AEC Magazine",
+              "url": "https://aecmag.com/bim/gpt-6-astra-and-the-future-of-bim-modelling/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Thảo luận cộng đồng",
+      "title": "Xây dựng · Thảo luận cộng đồng",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "r/bim: mô hình “lên” LOD 300, 350, 400, 500 thế nào? Dân trong nghề nói phần lớn là thay thế, không phải nâng cấp",
+          "meta": "Reddit r/bim · 11–12/10",
+          "body": [
+            "Một người mới hỏi các mô hình LOD 200 được cập nhật lên LOD 300 rồi 400, 500 bằng cách nào. Các bình luận cho biết thường là thay family đơn giản bằng family chi tiết, hoặc thay cả mô hình; nhà thầu và đơn vị gia công thường dựng lại mô hình chế tạo của riêng họ (Tekla, Advance Steel, CADmep) từ IFC/DWG thay vì nâng file của kiến trúc sư.",
+            "Một bình luận dài nhấn mạnh phải tách mức hình học (LOG) khỏi mức thông tin (LOI), như ISO 19650 chuyển sang khái niệm LOIN; LOD 500 thường đơn giản hơn về hình nhưng giàu dữ liệu vận hành (quét laser kiểm chứng, bảo hành, số serial, COBie). Một người khác nói nhóm họ chỉ làm LOG 300 vì thông tin quan trọng nằm ở dữ liệu chữ số, không phải hình học."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Reddit r/bim",
+              "url": "https://www.reddit.com/r/bim/comments/1x3a4yr/how_do_models_get_upgradedupdated/"
+            }
+          ]
+        },
+        {
+          "headline": "OSArch: tạo BCF từ bảng kiểm tra XLSX của Solibri bằng IfcOpenShell – vướng chỗ chỉ có GUID",
+          "meta": "OSArch Community · 8/10",
+          "body": [
+            "Một thành viên có bảng khối lượng/thông tin xuất từ Solibri Office kèm GUID của cấu kiện, đã kiểm theo quy tắc kiểu IDS, và muốn sinh file BCF cho từng lỗi (thiếu hoặc sai thuộc tính) bằng Python, ifcopenshell và bcf.v3. Vấn đề: thư viện đòi đối tượng IFC trong khi người dùng chỉ có danh sách GUID, nên hỏi cách “chuẩn” để gán GUID mà không phải sửa mã thư viện."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch",
+              "url": "https://community.osarch.org/discussion/3695/bcf-from-xlsx-file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Man City thắng Liverpool 3-0 ngay tại Anfield trong trận đầu tiên sau phán quyết 114 cáo buộc",
+          "meta": "Vòng 6 Ngoại hạng Anh · 11/10 · VnExpress, BBC",
+          "body": [
+            "Jeremy Doku vào sân và thay đổi trận đấu: khiến Ryan Gravenberch nhận thẻ đỏ, góp công vào bàn mở tỷ số của Erling Haaland rồi tự ghi siêu phẩm; Rayan Cherki kết thúc một pha phối hợp đẹp ấn định 3-0. Man City duy trì mạch thắng.",
+            "Trước trận, CĐV Liverpool giăng biểu ngữ “Có tội, 114 cáo buộc”, “Một thế hệ CĐV bị lừa dối”, gọi đội khách là “Cheatchester City”; xe Man City phải đổi lộ trình vào sân. BBC nhận xét chiến thắng mang thông điệp mạnh nhưng có cảm giác “vô nghĩa” khi mùa giải còn treo lơ lửng chờ án phạt sau khi CLB bị kết luận vi phạm luật tài chính giai đoạn 2009-10 đến 2017-18."
+          ],
+          "tags": "football",
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/man-city-de-bep-liverpool-duy-tri-mach-thang-5131049.html"
+            },
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no"
+            }
+          ]
+        },
+        {
+          "headline": "Vinicius có thể lỡ El Clasico vì giật tóc đối thủ",
+          "meta": "La Liga vòng 8 · VnExpress (theo Mundo Deportivo)",
+          "body": [
+            "Phút 71 trận Real Madrid thắng Villarreal 1-0, Vinicius giật tóc Nathan Saliba; bàn đệm của anh bị hủy và anh nhận thẻ đỏ trực tiếp, sau đó còn phản ứng gay gắt với trọng tài theo biên bản. Theo Mundo Deportivo, anh có thể bị treo giò hai trận, lỡ trận gặp Sevilla (18/10) và El Clasico với Barca (25/10). Real đứng thứ ba với 18 điểm sau tám vòng; Barca toàn thắng tám trận."
+          ],
+          "tags": "football",
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/vinicius-tra-gia-dat-vi-giat-toc-doi-thu-o-la-liga-5130887.html"
+            },
+            {
+              "name": "Dân trí",
+              "url": "https://dantri.com.vn/the-thao/barcelona-tiep-tuc-toan-thang-real-madrid-gianh-3-diem-du-vinicius-bi-duoi-20261011064804844.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Serie A: Milan hòa Sassuolo 1-1, Juventus hòa Cagliari; Inter đầu bảng với 16 điểm",
+          "meta": "Vòng 6 Serie A · 11/10 · Báo Hà Tĩnh, Báo Đà Nẵng, Yeuthethao",
+          "body": [
+            "Rabiot đánh đầu mở tỷ số cho Milan ở phút 63 từ đường kiến tạo của Modrić, nhưng Cas Odenthal gỡ hòa cho Sassuolo chỉ năm phút sau. Juventus và Cagliari cầm chân nhau 1-1. Trước đó Inter thắng Parma 3-0 (Thuram ghi bàn) và Napoli thắng Frosinone 3-0 với cú đúp của De Bruyne; Inter dẫn đầu với 16 điểm sau 6 trận."
+          ],
+          "tags": "football",
+          "sources": [
+            {
+              "name": "Báo Hà Tĩnh",
+              "url": "https://baohatinh.vn/tv/sassuolo-1-1-ac-milan-hai-doi-chia-diem-54655.html"
+            },
+            {
+              "name": "Vietnam.vn (Báo Đà Nẵng)",
+              "url": "https://www.vietnam.vn/cam-chan-nhau-1-1-juventus-va-cagliari-lo-co-hoi-ap-sat-nhom-dau-serie-a"
+            },
+            {
+              "name": "Yeuthethao",
+              "url": "https://yeuthethao.net.vn/ket-qua-vong-6-serie-a-marcus-thuram-lap-cong-cho-inter-de-bruyne-thang-hoa-voi-napoli-d898109.html"
+            }
+          ]
+        },
+        {
+          "headline": "U17 nữ Việt Nam thắng Kyrgyzstan 2-0, giành vé duy nhất của bảng D dự VCK châu Á 2027",
+          "meta": "Vòng loại U17 nữ châu Á · sân Bà Rịa · 11/10 · Tuổi Trẻ",
+          "body": [
+            "Huyền Trang mở tỷ số phút 25 sau pha căng ngang của Hà Vi; Hà Vi đánh đầu nâng lên 2-0 ở phút 55. Đội của HLV Okiyama Masahiko khép lại vòng loại với ba trận toàn thắng, ghi 28 bàn, không thủng lưới, và sẽ dự vòng chung kết tại Trung Quốc."
+          ],
+          "tags": "football",
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/u17-nu-viet-nam-gianh-ve-du-vong-chung-ket-chau-a-2027-100261011175904738.htm"
+            }
+          ]
+        },
+        {
+          "headline": "V-League: Hà Nội FC thắng trận đầu mùa, 1-0 trước Bắc Ninh; Nhật Bản mời tuyển Việt Nam đá giao hữu 30/12",
+          "meta": "VnExpress · 11/10",
+          "body": [
+            "Sau ba thất bại liên tiếp đầu mùa, Hà Nội FC của HLV Harry Kewell thắng tân binh Bắc Ninh 1-0 ở vòng 3 trên sân Mỹ Đình: phút 78 Nguyễn Hai Long căng ngang cho Andrew Jung đệm bóng; trước đó Brenner của Bắc Ninh đá hỏng phạt đền ở phút 30.",
+            "Theo VnExpress, VFF và LĐBĐ Nhật Bản đã thỏa thuận sơ bộ về trận giao hữu tại sân Panasonic (Osaka) ngày 30/12/2026, tám ngày trước Asian Cup 2027. Nếu chốt, tuyển Việt Nam của HLV Kim Sang-sik sẽ tập huấn ở Nhật trước khi sang Tây Á."
+          ],
+          "tags": "football",
+          "sources": [
+            {
+              "name": "VnExpress – Hà Nội FC",
+              "url": "https://vnexpress.net/ha-noi-fc-thang-tran-dau-o-mua-giai-2026-2027-5131020.html"
+            },
+            {
+              "name": "VnExpress – giao hữu",
+              "url": "https://vnexpress.net/nhat-ban-moi-viet-nam-da-giao-huu-truoc-them-asian-cup-2027-5130975.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Trump tuyên bố Nga – Ukraine “ngừng bắn năng lượng” có hiệu lực ngay; Zelensky nói chỉ biết qua báo chí, đặt điều kiện 60 ngày cho bầu cử",
+          "meta": "11/10 · VnExpress, BBC, Tuổi Trẻ",
+          "body": [
+            "Ông Trump viết trên Truth Social rằng lệnh ngừng tấn công hạ tầng năng lượng của nhau “có hiệu lực ngay lập tức, hai bên đã nhất trí”, không nêu chi tiết. Tổng thống Zelensky nói mới biết qua truyền thông, nhưng nếu Nga đồng ý thì Ukraine cũng đồng ý; Moscow chưa bình luận, theo BBC.",
+            "Đáp lại phát biểu “Ukraine cần tổng thống mới”, ông Zelensky nói việc chọn lãnh đạo là của người dân Ukraine, và nếu Mỹ muốn Ukraine bầu cử thì hãy đề nghị ông Putin ngừng bắn hoàn toàn 60 ngày. Ở Washington, dân biểu Cộng hòa Brian Fitzpatrick, được Don Bacon đồng bảo trợ, định dùng kiến nghị đặc biệt để buộc Hạ viện bỏ phiếu dự luật chặn mua dầu Nga, thách thức thỏa thuận diesel ông Trump công bố hôm 9/10."
+          ],
+          "tags": "politics",
+          "sources": [
+            {
+              "name": "VnExpress – ngừng bắn",
+              "url": "https://vnexpress.net/ong-trump-nga-ukraine-dat-thoa-thuan-ngung-ban-nang-luong-5131027.html"
+            },
+            {
+              "name": "VnExpress – Zelensky",
+              "url": "https://vnexpress.net/ong-zelensky-phan-bac-phat-bieu-ukraine-can-tong-thong-moi-cua-ong-trump-5131021.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nghi-si-my-de-xuat-du-luat-chan-ong-trump-mua-dau-nga-100261011184251054.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Sân bay Riyadh bị đánh lần thứ hai trong hai ngày; Houthi nhận trách nhiệm, cảnh báo hành khách tránh mọi sân bay Saudi",
+          "meta": "11/10 · BBC, VnExpress",
+          "body": [
+            "Một vật thể bay trúng nhà ga số 4 sân bay quốc tế King Khalid hôm Chủ nhật, gây cháy; một người Pakistan thiệt mạng, 11 người bị thương. BBC dẫn giới chức cho biết đòn hôm trước đã làm 13 người chết và 308 người bị thương.",
+            "Phát ngôn viên quân sự Houthi Yahya Saree cảnh báo mọi hãng bay và hành khách không dùng sân bay, không phận Saudi Arabia, trừ cơ sở hàng không ở Mecca và Medina; nhóm nói đã dùng tên lửa đạn đạo, tên lửa hành trình và drone trong 24 giờ, đồng thời tấn công cả cơ sở dầu mỏ."
+          ],
+          "tags": "politics",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/houthi-canh-bao-hanh-khach-tranh-xa-cac-san-bay-arab-saudi-5131032.html"
+            }
+          ]
+        },
+        {
+          "headline": "Chủ tịch Quốc hội Trần Thanh Mẫn hội kiến ông Vương Hộ Ninh, đề nghị đẩy nhanh các tuyến đường sắt kết nối Việt – Trung",
+          "meta": "Bắc Kinh · 11/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Tại Đại lễ đường Nhân dân, Chủ tịch Quốc hội đề nghị duy trì trao đổi cấp cao, đẩy mạnh hợp tác quốc phòng – an ninh, trọng tâm kinh tế là đẩy nhanh hợp tác xây dựng các tuyến đường sắt kết nối hai nước và liên vận quốc tế, mở cửa hơn cho nông sản Việt Nam và triển khai Năm hợp tác du lịch Việt – Trung. Hai bên nhất trí kiểm soát và giải quyết tốt bất đồng. Ông cũng thăm một mô hình lập pháp ở Bắc Kinh và gặp cộng đồng người Việt."
+          ],
+          "tags": "politics",
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chu-tich-quoc-hoi-tran-thanh-man-hoi-kien-chu-tich-chinh-hiep-toan-quoc-trung-quoc-5131006.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-tham-mo-hinh-lap-phap-o-bac-kinh-hoi-kien-ong-vuong-ho-ninh-100261011214005557.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Đề xuất sửa Luật Bảo hiểm xã hội: bỏ giới hạn 12 tháng của giấy ủy quyền nhận lương hưu, trả qua “tài khoản người thụ hưởng”",
+          "meta": "12/10 · VnExpress",
+          "body": [
+            "Ủy ban Văn hóa Xã hội của Quốc hội đang thẩm tra dự án luật do Bộ Nội vụ soạn. Hiện văn bản ủy quyền nhận lương hưu, trợ cấp chỉ có hiệu lực tối đa 12 tháng; dự luật để việc ủy quyền theo pháp luật dân sự, còn cơ quan BHXH xác minh người hưởng qua kết nối dữ liệu dân cư, hộ tịch. Hình thức chi trả đổi thành “thông qua tài khoản người thụ hưởng” thay vì chỉ tài khoản ngân hàng; nộp hoặc giải quyết hồ sơ chậm gây thiệt hại cho người hưởng sẽ phải bồi thường.",
+            "Cả nước có hơn 22,6 triệu người tham gia BHXH và 3,4 triệu người hưởng lương hưu, trợ cấp."
+          ],
+          "tags": "politics",
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/de-xuat-sua-doi-mot-so-chinh-sach-huu-tri-bao-hiem-xa-hoi-5130940.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ba Lan bắt nghi phạm âm mưu ám sát Thủ tướng Tusk và Bộ trưởng Quốc phòng",
+          "meta": "11/10 · BBC",
+          "body": [
+            "Cảnh sát nhận thông tin đáng tin cậy về khả năng tấn công ông Donald Tusk và Bộ trưởng Quốc phòng Władysław Kosiniak-Kamysz; nghi phạm, công dân Ba Lan, bị bắt ở vùng Hạ Silesia. Người phát ngôn cơ quan điều phối tình báo nói khả năng các đe dọa được thực hiện là “rất cao”. Vụ việc xảy ra trong tuần Ba Lan chấn động vì ba vụ đâm dao ở trường học."
+          ],
+          "tags": "politics",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o"
+            }
+          ]
+        },
+        {
+          "headline": "Lật thuyền ngoài khơi Djibouti: ít nhất 139 người di cư chết, có 15 trẻ em",
+          "meta": "11/10 · BBC (theo IOM), Tuổi Trẻ",
+          "body": [
+            "Thuyền chở 305 người từ Djibouti sang Yemen lật gần cảng Obock tối thứ Năm; khoảng 82 người được cứu, hàng chục người còn mất tích. Tổ chức Di cư Quốc tế (IOM) nâng số người chết từ 109 lên 139 sau khi tìm thêm 30 thi thể. Mỗi năm hàng chục nghìn người từ vùng Sừng châu Phi vượt tuyến này để tới các nước vùng Vịnh."
+          ],
+          "tags": "politics",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tham-hoa-chim-thuyen-o-djibouti-it-nhat-225-nguoi-di-cu-thiet-mang-mat-tich-100261011181935688.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Giáo hoàng Leo XIV sẽ phẫu thuật cắt nốt nhỏ ở phổi",
+          "meta": "Vatican · 11/10 · VnExpress, BBC",
+          "body": [
+            "Giáo hoàng 71 tuổi nói với tín đồ ở Quảng trường Thánh Peter rằng nốt phổi được phát hiện “ở giai đoạn rất sớm”, khu trú nhỏ, và ông quyết định phẫu thuật theo lời khuyên của bác sĩ. Ca mổ dự kiến trong vài ngày tới, cần khoảng một tuần hồi phục; Vatican chưa cho biết nốt có nghi ác tính hay không."
+          ],
+          "tags": "politics",
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/giao-hoang-leo-xiv-sap-phai-phau-thuat-5131004.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Tác giả Naruto trở lại sau 12 năm với manga mới “Naruto: Shadow Rising”",
+          "meta": "New York Comic Con · 10/10 · Tuổi Trẻ (theo Oricon)",
+          "body": [
+            "Masashi Kishimoto công bố dự án qua một đoạn teaser có Naruto, Sasuke, Sakura, Kakashi và tượng Hokage thứ bảy đang được tạc. Một anime bốn tập kết hợp Naruto với Ninku cũng được công bố. Nội dung, lịch phát hành và hình thức đăng của manga mới chưa được tiết lộ, dự kiến công bố thêm tại Jump Festa."
+          ],
+          "tags": "culture",
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tac-gia-naruto-tro-lai-sau-12-nam-100261011173053402.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Đũa bọc vàng, chén bạc của hoàng tộc Chăm trưng bày tại tháp Pô Sah Inư dịp lễ Katê",
+          "meta": "Phan Thiết (Lâm Đồng) · VnExpress",
+          "body": [
+            "Triển lãm “Di sản văn hóa Chăm” của Bảo tàng tỉnh Lâm Đồng và Bảo tàng Cổ vật Mũi Né giới thiệu hơn 100 hiện vật từ thế kỷ XIII đến XVIII, gồm bộ chén, đĩa, đũa vàng bạc hoàng tộc dùng trong yến tiệc và âu bạc, gọ bạc chạm khắc dùng trong nghi lễ thế kỷ XVII. Triển lãm mở đến 15/10."
+          ],
+          "tags": "culture",
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dua-vang-chen-bac-cua-hoang-toc-cham-trong-le-kate-5130715.html"
+            }
+          ]
+        },
+        {
+          "headline": "150 nhà sư khất thực trong lễ Sene Dolta của người Khmer Nam Bộ",
+          "meta": "Chùa Chantarangsay · 11/10 · VnExpress",
+          "body": [
+            "Lễ Sene Dolta diễn ra từ mùng 1 đến 3 tháng 9 âm lịch, năm nay là 10–12/10. “Sene” là cúng, “Dol” là bà, “Ta” là ông: dịp tưởng nhớ tổ tiên và sum họp, tương tự lễ Vu Lan của Phật giáo Bắc tông. Phật tử đi chân đất, xếp hàng dâng bánh trái vào bát các vị sư theo nghi thức Nam tông."
+          ],
+          "tags": "culture",
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/150-nha-su-khat-thuc-trong-le-sene-dolta-cua-nguoi-khmer-5130939.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Triều cường đạt đỉnh chiều 11/10: hẻm ở TP HCM ngập sâu, dân đắp “đê” trước cửa, Cần Thơ ngập trong đêm",
+          "meta": "Tuổi Trẻ, VnExpress · 11/10",
+          "body": [
+            "Tại hẻm 142 Võ Nguyên Giáp (phường Bình Trưng), nước ngập khiến người đi làm về phải gửi xe đầu hẻm rồi lội bộ; nhiều hộ dựng bờ chắn tạm, xe lớn chạy qua lại đẩy sóng vào nhà. Người dân nói triều cường đến đều đặn hai lần mỗi tháng. Hàng quán ở TP HCM, Đồng Nai vắng khách; ở Cần Thơ nhiều tuyến đường ngập trong đêm, lãnh đạo thành phố yêu cầu khẩn trương xử lý điểm ngập."
+          ],
+          "tags": "lifestyle",
+          "sources": [
+            {
+              "name": "Tuổi Trẻ – TP HCM",
+              "url": "https://tuoitre.vn/nguoi-dan-dap-de-truoc-cua-nha-tre-em-boi-giua-dong-trieu-cuong-dat-dinh-tai-tphcm-10026101119084517.htm"
+            },
+            {
+              "name": "Tuổi Trẻ – Cần Thơ",
+              "url": "https://tuoitre.vn/can-tho-duong-ngap-trong-dem-nhieu-luc-luong-giup-dan-vuot-dong-nuoc-100261011201555693.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hang-quan-e-am-nguoi-dan-dao-lon-sinh-hoat-ngay-trieu-cuong-dat-dinh-5130987.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Nguyễn Trọng Khải, 67 tuổi, hy sinh khi lao xuống sông cứu hai nữ sinh",
+          "meta": "Xã Giao Thủy · 11/10 · VnExpress",
+          "body": [
+            "Chiều 10/10, hai nữ sinh 14 tuổi ngã xe xuống sông tiêu nước gần cống họ Phan; ông Khải, cán bộ nông nghiệp đã nghỉ hưu, lập tức nhảy xuống cứu. Người dân hỗ trợ đưa cả ba lên bờ, hai em được cứu sống nhưng ông không qua khỏi. Chính quyền xã đã truy tặng giấy khen ghi nhận hành động dũng cảm của ông."
+          ],
+          "tags": "lifestyle",
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tu-vong-khi-lao-xuong-song-cuu-hai-nu-sinh-5130976.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tiếng ồn tần số thấp: “nỗi khổ vô hình” của cư dân chung cư",
+          "meta": "VnExpress · 11/10",
+          "body": [
+            "Âm thanh dải 20–200 Hz truyền chủ yếu qua kết cấu công trình, nhỏ, khó định vị nhưng xuyên mạnh; tiếp xúc lâu có thể ảnh hưởng thính giác, thần kinh và tim mạch. Một cư dân Trung Quốc mất ngủ nhiều ngày vì tiếng “ù ù” 39 dB, hóa ra từ máy bơm oxy bể cá nhà bên đặt sát tường; một người khác ở Thượng Hải tìm ra nguồn là phòng bơm nước dưới tầng hầm.",
+            "Năm 2025 Trung Quốc ghi nhận hơn 6,8 triệu khiếu nại về tiếng ồn, nhưng tiêu chuẩn đo hiện hành thường chưa đánh giá hết loại âm thanh này. Bài học cho người ở chung cư: vị trí máy bơm, máy nén đặt sát vách có thể là thủ phạm."
+          ],
+          "tags": "lifestyle",
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tieng-on-tan-so-thap-noi-kho-vo-hinh-cua-dan-chung-cu-5130820.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 12/10/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu. Bản tin nghiên cứu Xây dựng ra hằng tuần trong số sáng Chủ nhật."
+}
