@@ -1,0 +1,743 @@
+{
+  "date": "2026-10-11",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Chủ Nhật, 11 tháng 10, 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 11/10/2026 · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Trump nói Ukraine nên có tổng thống mới, Nga hoan nghênh",
+    "Vụ tấn công sân bay Riyadh: 12 người chết, Mỹ có thể cùng Saudi đánh Houthi",
+    "Chủ tịch Quốc hội Trần Thanh Mẫn bắt đầu thăm Trung Quốc",
+    "Mạng xã hội, chứng khoán, livestream phải liên kết VNeID trước 31/12",
+    "Ngộ độc bánh mì Quảng Ngãi tăng lên 55 người"
+  ],
+  "followups": [
+    {
+      "title": "Nga tập kích Ukraine",
+      "update": "Số người chết trong đợt bom lượn xuống Zaporizhzhia tăng lên ít nhất 20, có 4 trẻ em. Ông Trump nói Ukraine nên có tổng thống mới vì Kiev không ngừng đánh nhà máy lọc dầu Nga; Nga hoan nghênh, Ngoại trưởng Ukraine bác bỏ.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08-chieu",
+      "sources": [
+        {
+          "name": "BBC – Zaporizhzhia",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o"
+        },
+        {
+          "name": "BBC – Trump",
+          "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo"
+        }
+      ]
+    },
+    {
+      "title": "Chiến sự Yemen lan sang Saudi Arabia",
+      "update": "Vụ tấn công sân bay Riyadh làm 12 người chết, 309 người bị thương; ông Trump nói Mỹ có thể tham gia đánh Houthi cùng Saudi Arabia.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ong-trump-de-ngo-kha-nang-my-tham-gia-tan-cong-houthi-5130938.html"
+        }
+      ]
+    },
+    {
+      "title": "Ngộ độc bánh mì ở Quảng Ngãi",
+      "update": "Số người nhập viện tăng từ 13 lên 55; điểm bán bị yêu cầu tạm ngừng kinh doanh, 22 mẫu được gửi kiểm nghiệm.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-10-chieu",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/55-nguoi-nhap-vien-nghi-ngo-doc-sau-khi-an-banh-mi-ba-duoc-100261011085847768.htm"
+        }
+      ]
+    },
+    {
+      "title": "Bão Isaias đổ bộ Mỹ",
+      "update": "Ít nhất 4 người chết ở Florida và Alabama, khoảng 670.000 khách hàng mất điện; bão Simon mạnh lên cấp 4 khi áp sát Mexico.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-10-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o"
+        }
+      ]
+    },
+    {
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn thăm Trung Quốc",
+      "update": "Đã tới Bắc Kinh trưa 11/10, bắt đầu chuyến thăm chính thức và đồng chủ trì phiên họp thứ hai Ủy ban hợp tác giữa hai cơ quan lập pháp.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-11",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-len-duong-tham-chinh-thuc-trung-quoc-100261011094002351.htm"
+        }
+      ]
+    },
+    {
+      "title": "Mỹ trừng phạt Tòa án Hình sự Quốc tế",
+      "update": "Chủ nhân Nobel Hòa bình 2026 Navi Pillay gọi lệnh trừng phạt của Mỹ với ICC là “không thể chấp nhận”.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-10",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-11",
+      "time": "22:30",
+      "timezone": "giờ VN",
+      "title": "Liverpool – Man City, vòng 6 Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/haaland-keu-goi-man-city-doan-ket-giua-khung-hoang-5130142.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "time": "11–15/10",
+      "timezone": "giờ VN",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn thăm chính thức Trung Quốc",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-len-duong-tham-chinh-thuc-trung-quoc-100261011094002351.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "time": "trong ngày",
+      "timezone": "giờ Thụy Điển",
+      "title": "Công bố giải Nobel Kinh tế 2026, khép lại tuần Nobel",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "Nobelprize.org",
+          "url": "https://www.nobelprize.org/prizes/literature/2026/summary/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "time": "trong ngày",
+      "timezone": "giờ Kiribati",
+      "title": "Đoàn thám hiểm dự kiến tới đảo Nikumaroro tìm máy bay của Amelia Earhart",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "trong ngày",
+      "timezone": "giờ Pháp",
+      "title": "Pháp: học sinh trung học và nghiệp đoàn kêu gọi ngày biểu tình mới",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Ngày Doanh nhân Việt Nam",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/ngay-doanh-nhan-viet-nam-13-10-khi-doanh-nghiep-ngai-lon-va-nhung-tran-tro-10026101106442916.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "time": "sáng",
+      "timezone": "giờ VN",
+      "title": "TP HCM truy điệu, di quách 731 hài cốt liệt sĩ từ công viên Lê Thị Riêng về Nghĩa trang liệt sĩ TP",
+      "topic": "Đời sống",
+      "note": "Người dân có thể đứng dọc lộ trình khoảng 26 km để tiễn đưa.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/dua-hai-cot-liet-si-cong-vien-le-thi-rieng-ve-noi-an-tang-nguoi-dan-co-the-tien-cac-anh-tren-tuyen-duong-nao-100261011160707507.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Hội nghị toàn quốc quán triệt Nghị quyết Trung ương 4 khóa XIV",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/chinh-tri/toan-van-bai-phat-bieu-be-mac-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-trung-uong-4-khoa-xiv-post1339553.vov"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16–18/10",
+      "timezone": "giờ VN",
+      "title": "Bắc Bộ có khả năng mưa rào, dông rải rác sau chuỗi ngày nắng hanh",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/du-bao-thoi-tiet-tu-11-den-17-10-bac-bo-cuoi-tuan-mua-trung-bo-va-nam-bo-mua-rao-100261010161428734.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 4: Ninh Bình – HAGL",
+      "topic": "Bóng đá",
+      "note": "HAGL vừa có chiến thắng đầu tiên, 3-0 trước Đà Nẵng.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hagl-tim-lai-niem-vui-o-v-league-5130803.html"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Chuyến thăm Bắc Kinh, hạn chót VNeID, lộ trình bảo hiểm y tế và lịch nghỉ năm 2027.",
+      "items": [
+        {
+          "headline": "Chủ tịch Quốc hội Trần Thanh Mẫn tới Bắc Kinh, bắt đầu chuyến thăm chính thức Trung Quốc đầu tiên trên cương vị mới",
+          "meta": "Trưa 11/10 · Tuổi Trẻ (theo TTXVN), VnExpress",
+          "body": [
+            "Chuyên cơ chở Chủ tịch Quốc hội và Đoàn đại biểu cấp cao Việt Nam hạ cánh xuống sân bay quốc tế Bắc Kinh; Phó Ủy viên trưởng Ủy ban Thường vụ Nhân đại toàn quốc Vương Đông Minh ra đón. Ông Trần Thanh Mẫn sẽ đồng chủ trì Phiên họp lần thứ hai Ủy ban hợp tác giữa Quốc hội Việt Nam và Nhân đại toàn quốc Trung Quốc, theo lời mời của Ủy viên trưởng Triệu Lạc Tế.",
+            "Theo TTXVN, kim ngạch thương mại song phương năm 2025 đạt 256,4 tỷ USD, tăng 24,8%; 8 tháng đầu năm 2026 đạt 216,1 tỷ USD, tăng 35,2%. Trung Quốc là đối tác thương mại lớn nhất của Việt Nam."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-len-duong-tham-chinh-thuc-trung-quoc-100261011094002351.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chu-tich-quoc-hoi-tran-thanh-man-bat-dau-tham-trung-quoc-5130943.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tài khoản mạng xã hội, chứng khoán, người livestream bán hàng phải liên kết VNeID trước 31/12/2026",
+          "meta": "11/10 · VnExpress",
+          "body": [
+            "Nghị định 320/2026 sửa đổi quy định về định danh và xác thực điện tử liệt kê 12 loại tài khoản phải liên kết với VNeID, gồm giáo dục, chứng khoán, viễn thông, ngân hàng, thương mại điện tử (người bán, người livestream và người tiếp thị liên kết), hóa đơn điện tử, vận tải, du lịch, dược, khám chữa bệnh và mạng xã hội tại Việt Nam.",
+            "Tài khoản tạo trước ngày nghị định có hiệu lực (28/9) phải liên kết chậm nhất trước 31/12/2026; riêng ngân hàng hạn cuối là 30/6/2027. Đến cuối năm 2025, cả nước có hơn 65 triệu tài khoản VNeID được kích hoạt."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tai-khoan-chung-khoan-mang-xa-hoi-livestream-ban-hang-phai-lien-ket-vneid-truoc-31-12-5130918.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ Y tế soạn nghị định tăng mức đóng bảo hiểm y tế theo lộ trình, đi kèm mở rộng quyền lợi",
+          "meta": "11/10 · Tuổi Trẻ",
+          "body": [
+            "Trong báo cáo gửi Quốc hội, Bộ trưởng Đào Hồng Lan cho biết mức đóng BHYT đang là 4,5% với mọi đối tượng từ năm 2015, trong khi luật cho phép tối đa 6%. Dự thảo nghị định đề xuất điều chỉnh mức đóng theo lộ trình mở rộng danh mục dịch vụ, thuốc, vật tư ở y tế cơ sở mà quỹ chi trả, và vẫn trong trần 6%.",
+            "Nghị quyết 261/2025 của Quốc hội đã đặt hướng mở rộng quyền lợi BHYT phù hợp với việc tăng mức đóng từ năm 2027."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/bo-truong-bo-y-te-thong-tin-ve-lo-trinh-tang-muc-dong-huong-bao-hiem-y-te-100261011095400903.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Lịch nghỉ lễ, Tết 2027: tổng cộng 22 ngày, Tết Nguyên đán nghỉ 7 ngày liền",
+          "meta": "11/10 · Tuổi Trẻ",
+          "body": [
+            "Theo thông báo của Bộ Nội vụ, cán bộ, công chức nghỉ Tết âm lịch từ thứ Năm 4/2/2027 (28 tháng Chạp) đến hết thứ Năm 10/2/2027 (mùng 5 tháng Giêng), Quốc khánh nghỉ 4 ngày từ 2/9 đến 5/9/2027. Dịp 30/4 – 1/5 nghỉ từ 30/4 đến 3/5, Giỗ Tổ (16/4) nghỉ liền cuối tuần, Tết dương lịch nghỉ 3 ngày, và Ngày Văn hóa Việt Nam (24/11/2027) nghỉ 1 ngày."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/chi-tiet-22-ngay-nghi-le-tet-nam-2027-100261011092317529.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Trump đòi Ukraine thay tổng thống, Riyadh đếm thương vong, truyền thông Mỹ bị điều tra.",
+      "items": [
+        {
+          "headline": "Trump nói “đã đến lúc Ukraine có tổng thống mới”; Nga hoan nghênh, Kiev đáp người dân mới có quyền quyết định",
+          "meta": "10–11/10 · BBC, Tuổi Trẻ",
+          "body": [
+            "Đáp lại việc ông Zelensky gọi thỏa thuận diesel với Nga là “món quà cho Putin”, ông Trump nói với phóng viên ngoài Nhà Trắng rằng ông Zelensky “muốn gây rắc rối cho thế giới” khi tiếp tục cho tập kích nhà máy lọc dầu Nga: “Ông ấy tốt nhất nên dừng lại”, rồi gợi ý Ukraine nên có “một lãnh đạo mới có thể đạt thỏa thuận”. Ukraine đang thiết quân luật nên bầu cử bị hoãn từ 2022.",
+            "Đặc phái viên Nga Kirill Dmitriev gọi phát biểu này là “mang tính biểu tượng và lịch sử”. Ngoại trưởng Ukraine Andrii Sybiha viết trên X rằng ông Zelensky được người dân ủng hộ “và họ mới có quyền quyết định”. Ngày 11/10, Elon Musk chia sẻ lại video của Nhà Trắng và viết “Zelensky đã đi quá giới hạn”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo"
+            },
+            {
+              "name": "Tuổi Trẻ – phản ứng Nga, Ukraine",
+              "url": "https://tuoitre.vn/nga-ukraine-phan-ung-sau-khi-ong-trump-doi-kiev-thay-the-tong-thong-zelensky-100261011070115839.htm"
+            },
+            {
+              "name": "Tuổi Trẻ – Elon Musk",
+              "url": "https://tuoitre.vn/ti-phu-elon-musk-hoa-giong-voi-ong-trump-chi-trich-ong-zelensky-100261011153300871.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Vụ tấn công sân bay Riyadh: 12 người chết, 309 người bị thương; Trump nói Mỹ “có thể” cùng Saudi Arabia đánh Houthi",
+          "meta": "11/10 · Tuổi Trẻ (AFP), VnExpress",
+          "body": [
+            "Giới chức Saudi cập nhật số thương vong tại sân bay quốc tế King Khalid: trong 12 người chết có 4 người Saudi, 2 người Bangladesh và các công dân Mỹ, Ai Cập, Jordan, Syria, Palestine, Sudan. Người phát ngôn liên quân Turki al-Maliki cáo buộc Houthi đứng sau và gọi đây là “tội ác chiến tranh”; Houthi chưa bình luận.",
+            "Ông Trump gọi vụ việc là “không thể chấp nhận được”, nói sẽ trao đổi với Thái tử Mohammed bin Salman và “sẽ hành động rất nhanh”. Tổng thư ký LHQ Guterres nói ông “vô cùng bàng hoàng”; đặc phái viên Hans Grundberg gọi đây là “leo thang nghiêm trọng”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/san-bay-thu-do-saudi-arabia-bi-tan-cong-12-nguoi-chet-309-nguoi-bi-thuong-100261011063131938.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-trump-de-ngo-kha-nang-my-tham-gia-tan-cong-houthi-5130938.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ Tư pháp Mỹ điều tra chống độc quyền 5 đài truyền hình vì đã tạm ngừng đưa tin pool về Trump",
+          "meta": "11/10 · BBC, VnExpress",
+          "body": [
+            "Bộ Tư pháp yêu cầu ABC, CBS, CNN, NBC và Fox News nộp các trao đổi liên quan tới nhóm phóng viên pool, cho rằng việc cùng tạm ngừng đưa tin có thể vi phạm Đạo luật Sherman. Tháng trước, các đài làm vậy để phản đối việc Nhà Trắng thu thẻ của phóng viên CNN, MS Now và Politico; quyền tiếp cận của ba hãng sau đó được khôi phục theo phán quyết của tòa."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/my-dieu-tra-5-dai-truyen-hinh-voi-cao-buoc-vi-pham-luat-chong-doc-quyen-5130910.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ấn Độ: thủ lĩnh phong trào Gen Z “Cockroach Janta Party” được thả sau khi khoảng 7.000 người biểu tình bị bắt ở Delhi",
+          "meta": "11/10 · BBC",
+          "body": [
+            "Abhijeet Dipke, người lập phong trào từ tháng 5 sau khi Chánh án Ấn Độ ví một số thanh niên thất nghiệp như “gián”, cùng hai lãnh đạo khác bị bắt khi đến Delhi ngày 10/10 và được tòa trả tự do hôm nay. Nhóm đòi cải cách bầu cử và yêu cầu Trưởng Ủy ban Bầu cử Gyanesh Kumar từ chức vì cáo buộc thao túng danh sách cử tri, điều Ủy ban bác bỏ. Dipke nói phong trào “sẽ không lùi bước”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o"
+            }
+          ]
+        },
+        {
+          "headline": "Sudan: drone của RSF đánh trại người sơ tán gần biên giới Ethiopia, 41 người chết",
+          "meta": "10/10 · BBC",
+          "body": [
+            "Theo nhóm Emergency Lawyers, cuộc tấn công ngày 9/10 nhắm vào trại ở khu Abu Shandi, bang Blue Nile; có 8 trẻ em trong số nạn nhân. OCHA của LHQ nói “kinh hoàng” và cho biết khu vực này đã bị tấn công liên tục nhiều tuần."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Ngộ độc bánh mì, lễ tiễn đưa 731 liệt sĩ, đèo mới làm đã lún và kế hoạch giao thông TP HCM.",
+      "items": [
+        {
+          "headline": "Ngộ độc bánh mì ở Quảng Ngãi tăng lên 55 người, điểm bán bị tạm đình chỉ",
+          "meta": "Sáng 11/10 · Tuổi Trẻ",
+          "body": [
+            "Các bệnh nhân đều ăn bánh mì mua từ 9h đến 18h ngày 9/10 tại điểm bán vỉa hè số 12 Duy Tân (phường Cẩm Thành), nơi bán khoảng 350 ổ mỗi ngày. Bệnh viện Phúc Hưng đang điều trị 36 người, Bệnh viện Đa khoa tỉnh 14 người, Bệnh viện Sản – Nhi 5 người; sức khỏe cơ bản ổn định.",
+            "Đoàn liên ngành ghi nhận chủ cơ sở chưa chứng minh được nguồn gốc chả lụa, thịt, chà bông, rau; bếp chế biến tại nhà có lối đi ngang khu vệ sinh. 13 mẫu thực phẩm và 9 mẫu bệnh phẩm đã được gửi kiểm nghiệm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/55-nguoi-nhap-vien-nghi-ngo-doc-sau-khi-an-banh-mi-ba-duoc-100261011085847768.htm"
+            }
+          ]
+        },
+        {
+          "headline": "TP HCM: ngày 14/10 di quách 731 hài cốt liệt sĩ từ công viên Lê Thị Riêng, người dân được mời cầm hoa trắng tiễn đưa",
+          "meta": "11/10 · Tuổi Trẻ",
+          "body": [
+            "Sau lễ truy điệu sáng 14/10, đoàn xe chia 4 đợt đưa hài cốt về Nghĩa trang liệt sĩ TP HCM (phường Long Bình), quãng đường khoảng 26 km qua Trường Sơn, Cách Mạng Tháng Tám, Điện Biên Phủ, cầu Sài Gòn, Võ Nguyên Giáp và Xa lộ Hà Nội. Lộ trình có thể điều chỉnh theo ban tổ chức."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/dua-hai-cot-liet-si-cong-vien-le-thi-rieng-ve-noi-an-tang-nguoi-dan-co-the-tien-cac-anh-tren-tuyen-duong-nao-100261011160707507.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Đèo Đại Ninh (quốc lộ 28B) sụt lún hơn 40 m, gần nửa mặt đường dù mới thảm nhựa xong hôm 16/9",
+          "meta": "11/10 · VnExpress",
+          "body": [
+            "Vết nứt ở đầu cầu cạn số 4, xã Phan Sơn (Lâm Đồng) xuất hiện khoảng ba ngày trước và kéo dài nhanh sau mưa lớn; xe phải lấn sang làn ngược chiều. Đơn vị thi công cho biết taluy âm bị sạt và đang mời Cục Đường bộ cùng tư vấn thiết kế khảo sát. Dự án nâng cấp tuyến 68 km nối Phan Thiết – Đà Lạt có vốn hơn 1.400 tỷ đồng, chưa được nghiệm thu."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/sut-lun-dai-hon-40-m-deo-dai-ninh-tren-tuyen-mui-ne-da-lat-5130930.html"
+            }
+          ]
+        },
+        {
+          "headline": "TP HCM đặt mục tiêu xóa 28 điểm kẹt xe đến năm 2030, metro lên 255 km",
+          "meta": "11/10 · VnExpress",
+          "body": [
+            "Tại chương trình Dân hỏi – Chính quyền trả lời, Giám đốc Sở Xây dựng Trần Quang Lâm nêu các điểm nghẽn như nút giao Mỹ Thủy, An Phú, quốc lộ 13, cầu – đường Nguyễn Khoái, Bình Tiên. Thành phố cũng nghiên cứu cầu vượt thép ở một số vị trí; mạng lưới metro dự kiến đạt 255 km vào 2030 và thêm khoảng 500 km trong 10 năm sau đó."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tp-hcm-se-xoa-28-diem-ket-xe-den-nam-2030-5130957.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội sẽ thí điểm không gian du lịch, giải trí, thương mại hoạt động 24/7 trong 2026–2027",
+          "meta": "11/10 · VnExpress",
+          "body": [
+            "Theo công văn của Thành ủy ngày 9/10, thành phố sẽ chọn địa điểm đủ điều kiện về hạ tầng, an ninh, môi trường để thí điểm có kiểm soát, cùng phát triển phố ẩm thực, phố đi bộ, thể thao ban đêm. Mục tiêu đến 2030 đón 47–50,5 triệu lượt khách, trong đó 13–15 triệu khách quốc tế."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ha-noi-se-thi-diem-khong-gian-du-lich-giai-tri-24-7-5130894.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Đường dây tín dụng đen ở Hong Kong, bão Isaias, lũ quét Nepal và bạo lực ở Mỹ, Ba Lan.",
+      "items": [
+        {
+          "headline": "Hong Kong bắt 127 người trong đường dây cho vay nặng lãi, hụi và sòng bạc do một phụ nữ Việt cầm đầu",
+          "meta": "11/10 · VnExpress (theo SCMP)",
+          "body": [
+            "Các vụ bắt ngày 8–9/10 khép lại chiến dịch bí mật 6 tháng ở Tây Cửu Long; người bị bắt từ 23 đến 92 tuổi, 37 người là công dân Việt Nam. Cảnh sát cho biết nhóm dùng tiệm tạp hóa và một hiệp hội người Việt làm bình phong, làm giả giấy tờ cho người nhập cư trái phép với giá 2.000–2.500 HKD, và thu lãi 100 HKD mỗi ngày cho khoản vay 10.000 HKD."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/canh-sat-hong-kong-bat-127-nguoi-trong-duong-day-cho-vay-nang-lai-do-nguoi-viet-cam-dau-5130902.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/hong-kong-bat-giu-127-nguoi-viet-trong-duong-day-cho-vay-nang-lai-do-ba-trum-cam-dau-100261011110824914.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bão Isaias làm 4 người chết, khoảng 670.000 khách hàng mất điện ở đông nam nước Mỹ",
+          "meta": "10–11/10 · BBC, Tuổi Trẻ (Reuters)",
+          "body": [
+            "Isaias đổ bộ Florida với sức gió duy trì 168 km/h rồi suy yếu; Alabama và Florida mỗi bang có 2 người chết, trong đó có người bị cây đổ vào nhà. Khoảng 16.000 nhân viên điện lực được huy động; thành phố Pensacola thiếu nước uống. BBC cho biết bão Simon đã mạnh lên cấp 4 khi tiến vào bờ biển Thái Bình Dương của Mexico."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/bao-isaias-can-quet-my-khan-cap-xuat-dau-du-tru-10026101109140577.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Nepal: sạt lở chặn sông Budhi Gandaki gây lũ quét, cuốn trôi hơn 35 ngôi nhà và hai cầu treo",
+          "meta": "11/10 · Tuổi Trẻ (AP)",
+          "body": [
+            "Vụ sạt lở ở làng Chumnubri, huyện Gorkha (cách Kathmandu khoảng 100 km) làm nghẽn dòng sông, nước bùn dâng cuốn trôi cả cây cầu trên quốc lộ nối Gorkha với Dhading. 18 công nhân thủy điện kịp chạy thoát; chưa ghi nhận thương vong. Thủ tướng Balendra Shah cho biết quân đội đã cứu sáu người ở làng Jagat."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/them-tran-lu-quet-lon-sang-11-10-tai-nepal-10026101115141461.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Xả súng ở Erie (Pennsylvania): 9 người chết, có trẻ em và nghi phạm",
+          "meta": "10–11/10 · VnExpress (Reuters)",
+          "body": [
+            "Hai phụ nữ chết ngoài đường, các nạn nhân khác được tìm thấy trong một ngôi nhà trên phố Perry; nghi phạm chết vì vết thương dường như tự gây ra. Cảnh sát trưởng Rick Lorah nói: “Tôi chưa từng thấy điều gì tương tự trong hơn 28 năm làm việc.” Danh tính và động cơ chưa được công bố."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/xa-sung-tai-thanh-pho-my-9-nguoi-thiet-mang-5130845.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ba vụ tấn công bằng dao ở trường học Ba Lan trong một tuần, cảnh sát nghi liên quan một “thử thách” trên mạng",
+          "meta": "10/10 · BBC",
+          "body": [
+            "Vụ mới nhất ở Warsaw: một nữ sinh 21 tuổi làm bị thương ba người, gồm hai cô gái 17 tuổi và một phụ nữ 24 tuổi đến nộp hồ sơ nhập học. Trước đó, hai vụ ngày 7 và 8/10 khiến một nữ nhân viên trường thiệt mạng; cảnh sát đã triển khai tới các trường trên cả nước và tạm giữ 76 người."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Người mẹ 37 năm làm “Muthu Master”, cuộc săn máy bay Amelia Earhart, đàn én về sớm — và hai sự thật về ngày 11 tháng 10.",
+      "items": [
+        {
+          "headline": "Góa phụ Ấn Độ giả làm đàn ông suốt 37 năm để tránh bị quấy rối và nuôi con",
+          "meta": "VnExpress (theo Times of India) · 11/10",
+          "body": [
+            "Bà Petchiammal (sinh 1965, bang Tamil Nadu) mất chồng chỉ 15 ngày sau đám cưới. Sau một lần suýt bị tài xế xe tải ép lên xe, bà cạo đầu, mặc dhoti, đổi tên thành Muthu và làm đầu bếp biryani được gọi là “Muthu Master”. Trên tay bà có 6 hình xăm tên các nữ đồng nghiệp từng phải lòng “chàng đầu bếp”: “Tôi không muốn làm họ thất vọng.”"
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/me-gia-lam-dan-ong-suot-37-nam-de-nuoi-con-5130841.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đoàn thám hiểm đang trên đường tới đảo Nikumaroro tìm máy bay của Amelia Earhart",
+          "meta": "BBC · 10/10",
+          "body": [
+            "Nhóm của Archaeological Legacy Institute và Đại học Purdue rời thủ đô Kiribati hôm thứ Tư, đi khoảng 830 dặm, dự kiến tới nơi vào thứ Hai để kiểm tra “Taraia Object” – vật thể bên mép phá được phát hiện trên ảnh vệ tinh năm 2020 và có mặt cả trong ảnh chụp từ trên không năm 1938. Earhart mất tích năm 1937 khi bay vòng quanh thế giới."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo"
+            }
+          ]
+        },
+        {
+          "headline": "Tro cốt diva Hong Kong Mai Diễm Phương bị đánh cắp khỏi tháp chùa Bảo Liên",
+          "meta": "Tuổi Trẻ (theo Zaobao) · 11/10",
+          "body": [
+            "Một người hâm mộ phát hiện bình tro cốt biến mất từ ngày 18/7 khi thấy ốc vít trên biển tên bị lỏng; tin chỉ được tiết lộ đúng sinh nhật lần thứ 63 của cố ca sĩ (10/10). Cảnh sát Hong Kong xác nhận đã nhận tin báo nhưng chưa bắt ai; gia đình kêu gọi: “Hãy để cô ấy sớm được trở về nhà.”"
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tro-cot-mai-diem-phuong-bi-danh-cap-100261011152019834.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hàng ngàn chim én quay lại phố Sóc Trăng cũ, sớm hơn năm ngoái khoảng 40 ngày",
+          "meta": "Tuổi Trẻ · 11/10",
+          "body": [
+            "Én đậu kín dây điện, cổng chào, hiên nhà trên đường Hai Bà Trưng (phường Phú Lợi, TP Cần Thơ). “Ngày nào cũng phải rửa sân… Thôi đành chịu, đất lành chim mới tìm về đậu”, một chủ tiệm quần áo nói."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/en-ve-som-trong-do-thi-o-can-tho-100261011143223802.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Người Nhật đã ngừng cao lên: thanh niên 18 tuổi bị bạn đồng trang lứa Trung Quốc, Hàn Quốc vượt mặt",
+          "meta": "Tuổi Trẻ (theo Nikkei Asia) · 11/10",
+          "body": [
+            "Thời Minh Trị, người Nhật cao chưa tới 1,6 m; sau Thế chiến II họ thành một trong những dân tộc cao nhất châu Á, nhưng đà tăng chững lại ở thế hệ sinh thập niên 1970–1980. Nam giới 20–30 tuổi giờ chỉ nhỉnh hơn 1,7 m. Theo dữ liệu NCD-RisC đăng trên The Lancet (2020), chiều cao trẻ 5–19 tuổi ở Trung Quốc và Hàn Quốc tăng nhanh nhất thế giới trong 35 năm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/vi-sao-nguoi-nhat-ngung-cao-lon-100261010092819354.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bóng đá: bốn ngày sau trận chia tay Argentina, Messi lập cú đúp giúp Inter Miami thắng DC United 4-0",
+          "meta": "VnExpress · 11/10",
+          "body": [
+            "Suarez ghi hai bàn hiệp một, Messi (39 tuổi) ghi ở phút 47 và 60, nâng tổng số lên 23 bàn, tiếp tục dẫn đầu danh sách ghi bàn MLS. Inter Miami chấm dứt chuỗi 5 trận không thắng."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/messi-lap-cu-dup-trong-tran-dau-sau-khi-chia-tay-tuyen-argentina-5130901.html"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 11/10/1968, Apollo 7 – chuyến bay có người đầu tiên của chương trình Apollo – rời bệ phóng",
+          "meta": "Wikipedia",
+          "body": [
+            "Chuyến bay 11 ngày do Walter Schirra chỉ huy, cùng Donn Eisele và Walter Cunningham, đưa NASA trở lại bay có người sau vụ cháy Apollo 1 năm 1967. Đây cũng là lần đầu truyền hình trực tiếp từ một tàu vũ trụ Mỹ; thành công của nó giúp NASA tự tin đưa Apollo 8 bay quanh Mặt Trăng hai tháng sau."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Apollo 7",
+              "url": "https://en.wikipedia.org/wiki/Apollo_7"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 11/10/1962, Công đồng Vatican II khai mạc, sau đó cho phép dùng tiếng bản địa thay tiếng Latin trong thánh lễ",
+          "meta": "Wikipedia",
+          "body": [
+            "Do Giáo hoàng Gioan XXIII triệu tập, công đồng họp bốn khóa tại Vương cung thánh đường Thánh Phêrô từ 11/10/1962 đến 8/12/1965, với gần 2.500 giám mục tham dự ở các thời điểm, và ban hành 16 văn kiện."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Second Vatican Council",
+              "url": "https://en.wikipedia.org/wiki/Second_Vatican_Council"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 11/10/2026 (giờ VN). Không lặp tin của số sáng, trừ các cập nhật thực sự trong ngày (sân bay Riyadh, Zaporizhzhia, chuyến thăm Trung Quốc). Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
