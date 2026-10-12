@@ -1,0 +1,956 @@
+{
+  "date": "2026-10-12",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Hai, 12 tháng 10, 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 12/10/2026 · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Mỹ được cho là dọa ngừng chia sẻ tình báo, cắt kênh vũ khí của Ukraine",
+    "Triều Tiên phóng loạt tên lửa đạn đạo, Hàn Quốc họp khẩn",
+    "Ngộ độc bánh mì Quảng Ngãi tăng lên 135 người",
+    "Triều cường TP HCM có thể lập đỉnh mới, trường cho học sinh về sớm",
+    "Nobel Kinh tế 2026 cho Robert Hall và Michael Woodford"
+  ],
+  "followups": [
+    {
+      "title": "Nga tập kích Ukraine",
+      "update": "Sau tuyên bố “ngừng bắn năng lượng” của ông Trump, CNN và FT đưa tin Mỹ dọa ngừng chia sẻ tình báo và bán vũ khí gián tiếp nếu Ukraine tiếp tục đánh nhà máy lọc dầu Nga; Axios nói ông Trump “rất tức giận” với ông Zelensky.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/my-doa-ngung-cung-cap-vu-khi-tin-tinh-bao-cho-ukraine-5131300.html"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/truyen-thong-my-ong-trump-dang-rat-tuc-gian-voi-ong-zelensky-100261012131608997.htm"
+        }
+      ]
+    },
+    {
+      "title": "Chiến sự Yemen lan sang Saudi Arabia",
+      "update": "Mỹ, Anh, Canada, Nhật, Hàn, Australia, New Zealand khuyến cáo công dân hạn chế hoặc tránh đến Saudi Arabia sau hai đòn của Houthi vào sân bay Riyadh.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/loat-nuoc-khuyen-cao-cong-dan-khong-den-arab-saudi-5131322.html"
+        }
+      ]
+    },
+    {
+      "title": "Ngộ độc bánh mì ở Quảng Ngãi",
+      "update": "Số người nhập viện tăng lên 135 (thêm 30 ca so với hôm qua; có 39 trẻ em, 3 thai phụ); Chủ tịch UBND tỉnh ra công văn yêu cầu điều tra và kiểm tra thức ăn đường phố toàn tỉnh.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-10-chieu",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/so-ca-nghi-ngo-doc-thuc-pham-sau-khi-an-banh-mi-ba-duoc-tang-len-135-nguoi-100261012112859125.htm"
+        }
+      ]
+    },
+    {
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn thăm Trung Quốc",
+      "update": "Ngày thứ hai (12/10): tiếp các nhân sĩ hữu nghị do ông Dương Vạn Minh dẫn đầu và thăm Bảo tàng Lịch sử Đảng Cộng sản Trung Quốc.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-11",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-tiep-nhan-si-huu-nghi-tham-bao-tang-lich-su-dang-cong-san-trung-quoc-100261012135634531.htm"
+        }
+      ]
+    },
+    {
+      "title": "Triều cường đầu tháng 9 âm lịch ở TP HCM",
+      "update": "Đỉnh triều chiều tối 12/10 dự báo 1,9–1,95 m tại Thủ Dầu Một, cao nhất từ trước đến nay; mưa dông lớn lúc 15h, nhiều trường cho học sinh về sớm.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-12",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/nhieu-truong-o-tp-hcm-cho-hoc-sinh-ve-som-tranh-trieu-cuong-5131253.html"
+        }
+      ]
+    },
+    {
+      "title": "Biểu tình về bầu cử ở Ấn Độ",
+      "update": "Sau khi hàng nghìn người bị bắt ở Delhi cuối tuần, phe đối lập do Rahul Gandhi kêu gọi tuần hành tới Tòa án Tối cao đòi Trưởng Ủy ban Bầu cử từ chức.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-11-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo"
+        }
+      ]
+    },
+    {
+      "title": "Lũ quét ở Nepal",
+      "update": "Theo Tuổi Trẻ, 45 ngôi nhà bị cuốn trôi, 82 người được cứu sau vụ sạt lở chặn sông Budhi Gandaki.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-11-chieu",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/lu-quet-o-nepal-45-ngoi-nha-bi-cuon-troi-vo-so-cong-trinh-hu-hai-cuu-82-nguoi-100261012052747488.htm"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-11",
+      "time": "11–15/10",
+      "timezone": "giờ VN",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn thăm chính thức Trung Quốc",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-tiep-nhan-si-huu-nghi-tham-bao-tang-lich-su-dang-cong-san-trung-quoc-100261012135634531.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "19:00",
+      "timezone": "giờ VN",
+      "title": "Graphisoft Global Virtual Event giới thiệu Archicad 2026",
+      "topic": "Xây dựng",
+      "note": "14h CEST, phát trực tuyến.",
+      "sources": [
+        {
+          "name": "Nemetschek",
+          "url": "https://www.nemetschek.com/en/news-media/graphisoft-unveils-2026-product-portfolio-led-archicad-and-ai-enabled-design"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "20:00",
+      "timezone": "giờ VN",
+      "title": "Apple tổ chức sự kiện “Welcome home” ở New York",
+      "topic": "Công nghệ",
+      "note": "Dự đoán sản phẩm nhà thông minh.",
+      "sources": [
+        {
+          "name": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/08/apple-announces-special-event-for-october-13-welcome-home/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "9:30",
+      "timezone": "giờ Mỹ (miền Đông)",
+      "title": "Tân Thư ký báo chí Nhà Trắng Katie Zacharia họp báo lần đầu",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/nha-trang-sap-co-tan-thu-ky-bao-chi-tung-song-tai-bac-kinh-biet-tieng-trung-100261012152324376.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "PSV – RB Salzburg, Champions League",
+      "topic": "Bóng đá",
+      "note": "Thứ Ba 13/10 theo NL Times.",
+      "sources": [
+        {
+          "name": "NL Times",
+          "url": "https://nltimes.nl/2026/10/09/psv-beat-heerenveen-2-0-first-game-international-break"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "trong ngày",
+      "timezone": "giờ Pháp",
+      "title": "Pháp: học sinh trung học và nghiệp đoàn kêu gọi ngày biểu tình mới",
+      "topic": "Chính trị",
+      "note": "Sau khi chính phủ hứa thêm 3.000 giáo viên dạy thay.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Ngày Doanh nhân Việt Nam",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/ngay-doanh-nhan-viet-nam-13-10-khi-doanh-nghiep-ngai-lon-va-nhung-tran-tro-10026101106442916.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "time": "trong ngày",
+      "timezone": "giờ Mỹ",
+      "title": "TechCrunch Disrupt 2026 khai mạc",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "time": "14–16/10",
+      "timezone": "giờ VN",
+      "title": "Thường trực Ban Bí thư Đảng NDCM Lào Vilay Lakhamfong thăm chính thức Việt Nam",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thuong-truc-ban-bi-thu-trung-uong-dang-nhan-dan-cach-mang-lao-sap-tham-viet-nam-100261012160023578.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "time": "sáng",
+      "timezone": "giờ VN",
+      "title": "TP HCM truy điệu, di quách 731 hài cốt liệt sĩ từ công viên Lê Thị Riêng về Nghĩa trang liệt sĩ TP",
+      "topic": "Đời sống",
+      "note": "Người dân có thể đứng dọc lộ trình khoảng 26 km để tiễn đưa.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/dua-hai-cot-liet-si-cong-vien-le-thi-rieng-ve-noi-an-tang-nguoi-dan-co-the-tien-cac-anh-tren-tuyen-duong-nao-100261011160707507.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Galatasaray – Barcelona, Champions League",
+      "topic": "Bóng đá",
+      "note": "Barca vào trận với tám trận toàn thắng ở La Liga.",
+      "sources": [
+        {
+          "name": "Dân trí",
+          "url": "https://dantri.com.vn/the-thao/barcelona-tiep-tuc-toan-thang-real-madrid-gianh-3-diem-du-vinicius-bi-duoi-20261011064804844.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Ngày cuối triển lãm “Di sản văn hóa Chăm” tại tháp Pô Sah Inư",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dua-vang-chen-bac-cua-hoang-toc-cham-trong-le-kate-5130715.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16–18/10",
+      "timezone": "giờ VN",
+      "title": "Bắc Bộ có khả năng mưa rào, dông rải rác sau chuỗi ngày nắng hanh",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/du-bao-thoi-tiet-tu-11-den-17-10-bac-bo-cuoi-tuan-mua-trung-bo-va-nam-bo-mua-rao-100261010161428734.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Hội nghị toàn quốc quán triệt Nghị quyết Trung ương 4 khóa XIV",
+      "topic": "Chính trị",
+      "note": "",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/chinh-tri/toan-van-bai-phat-bieu-be-mac-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-trung-uong-4-khoa-xiv-post1339553.vov"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 4: Ninh Bình – HAGL",
+      "topic": "Bóng đá",
+      "note": "HAGL vừa có chiến thắng đầu tiên, 3-0 trước Đà Nẵng.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hagl-tim-lai-niem-vui-o-v-league-5130803.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Real Madrid – Sevilla, vòng 9 La Liga",
+      "topic": "Bóng đá",
+      "note": "Vinicius có thể bị treo giò.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vinicius-tra-gia-dat-vi-giat-toc-doi-thu-o-la-liga-5130887.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Dự kiến hợp long cầu đi bộ qua sông Sài Gòn",
+      "topic": "Đời sống",
+      "note": "Thời điểm có thể điều chỉnh theo mực nước sông.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/san-sang-lai-dat-nhip-chinh-cau-di-bo-qua-song-sai-gon-nang-3400-tan-du-kien-hop-long-ngay-21-10-100261012102114907.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "El Clasico Real Madrid – Barcelona, vòng 10 La Liga",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vinicius-tra-gia-dat-vi-giat-toc-doi-thu-o-la-liga-5130887.html"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Ngày thứ hai ở Bắc Kinh, đoàn Lào sắp sang, chuyện thiếu sách giáo khoa và tiếng nói cử tri về video AI.",
+      "items": [
+        {
+          "headline": "Chủ tịch Quốc hội Trần Thanh Mẫn ngày thứ hai ở Bắc Kinh: tiếp nhân sĩ hữu nghị, thăm Bảo tàng Lịch sử Đảng Cộng sản Trung Quốc",
+          "meta": "Sáng 12/10 · Tuổi Trẻ (theo TTXVN)",
+          "body": [
+            "Tiếp đoàn nhân sĩ do Chủ tịch Hội Hữu nghị Đối ngoại nhân dân Trung Quốc Dương Vạn Minh dẫn đầu, Chủ tịch Quốc hội đề nghị các tổ chức hữu nghị hai bên đẩy mạnh các chương trình như Hành trình Đỏ, Diễn đàn Nhân dân Việt Nam – Trung Quốc, Liên hoan Hữu nghị Nhân dân biên giới, đặc biệt chú trọng giao lưu thanh niên.",
+            "Ông cũng mong các tổ chức hữu nghị phối hợp với địa phương, doanh nghiệp tổ chức thêm hoạt động văn hóa, du lịch trong khuôn khổ Năm Hợp tác du lịch Việt Nam – Trung Quốc 2026–2027."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-tiep-nhan-si-huu-nghi-tham-bao-tang-lich-su-dang-cong-san-trung-quoc-100261012135634531.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Thường trực Ban Bí thư Đảng Nhân dân Cách mạng Lào Vilay Lakhamfong thăm chính thức Việt Nam 14–16/10",
+          "meta": "12/10 · Tuổi Trẻ (thông cáo Bộ Ngoại giao)",
+          "body": [
+            "Chuyến thăm theo lời mời của Thường trực Ban Bí thư Trần Cẩm Tú, người đã thăm Lào hồi tháng 4. Bộ Ngoại giao nhấn mạnh quan hệ giữa hai Đảng là “nền tảng chính trị, định hướng chiến lược” của quan hệ Việt – Lào.",
+            "Chuyến đi diễn ra ngay sau chuyến thăm chính thức đầu tiên của Thủ tướng Lê Minh Hưng tới Lào (8–9/10), khi hai bên ký 11 văn kiện, và trước các dịp kỷ niệm năm 2027: 65 năm quan hệ ngoại giao và 50 năm Hiệp ước Hữu nghị và Hợp tác."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thuong-truc-ban-bi-thu-trung-uong-dang-nhan-dan-cach-mang-lao-sap-tham-viet-nam-100261012160023578.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Trần Cẩm Tú: “Có hàng nghìn cơ sở in ấn mà để thiếu sách giáo khoa là có vấn đề”",
+          "meta": "12/10 · Tuổi Trẻ",
+          "body": [
+            "Tiếp xúc cử tri Đà Nẵng trước kỳ họp Quốc hội, Thường trực Ban Bí thư cho biết đầu tháng 9 Bộ Chính trị đã lập đoàn kiểm tra do Trưởng Ban Tuyên giáo Trung ương làm trưởng đoàn, kiểm tra toàn diện ngành giáo dục, trực tiếp là Bộ GD-ĐT: chương trình, sách giáo khoa, dạy và học, đội ngũ nhà giáo, tổ chức bộ máy.",
+            "Ông nói tình trạng thiếu sách phải được “kiểm tra, điều tra, rà soát lại để xử lý nghiêm”; cử tri đề nghị siết quản lý khâu biên soạn sách."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ong-tran-cam-tu-co-hang-nghin-co-so-in-an-ma-de-thieu-sach-giao-khoa-la-co-van-de-100261012125035372.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ủy ban Thường vụ Quốc hội: cử tri phản ánh video AI ngắn “xấu độc” gây nghiện, giá xăng tăng, nợ lương",
+          "meta": "Chiều 12/10 · Tuổi Trẻ",
+          "body": [
+            "Trình bày báo cáo dân nguyện tháng 9, Chủ nhiệm Ủy ban Dân nguyện và Giám sát Lê Thị Nga nêu các vấn đề nổi lên: cán bộ cấp xã quá tải, hàng giả và thuốc giả, chất cấm trong chăn nuôi, chậm cấp và tách sổ đỏ, người lao động bị nợ lương và bảo hiểm xã hội, giá xăng dầu tăng qua các kỳ điều hành.",
+            "Đáng chú ý, cử tri phản ánh video AI ngắn trên mạng xã hội “tạo tâm lý gây nghiện, ảnh hưởng tiêu cực đến tư tưởng, hành động người dùng, đặc biệt là thế hệ trẻ”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/chu-nhiem-uy-ban-cua-quoc-hoi-noi-ve-noi-dung-xau-doc-video-ai-ngan-tao-tam-ly-gay-nghien-100261012161524906.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ Y tế đề xuất tinh giản biên chế ngành y theo cơ chế riêng, tách khỏi khối hành chính",
+          "meta": "12/10 · Tuổi Trẻ",
+          "body": [
+            "Trong báo cáo gửi Quốc hội, Bộ trưởng Đào Hồng Lan cho biết đã kiến nghị Ban Tổ chức Trung ương tham mưu Bộ Chính trị ưu tiên giao biên chế cho các đơn vị y tế cung cấp dịch vụ thiết yếu, áp dụng cơ chế đặc thù “tránh ảnh hưởng đến chất lượng khám, chữa bệnh và phòng bệnh”.",
+            "Chính phủ đã ban hành nghị định 192 về phụ cấp cho nhân viên y tế thôn, tổ dân phố, cô đỡ thôn bản, và nghị định 350 về phụ cấp ưu đãi nghề với viên chức y tế."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/bo-truong-dao-hong-lan-thong-tin-ve-de-xuat-co-che-dac-thu-tinh-gian-bien-che-voi-nganh-y-te-100261012090939768.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng duyệt diễn tập phòng thủ dân sự chung giữa quân đội Việt Nam – Lào – Campuchia",
+          "meta": "12/10 · Tuổi Trẻ",
+          "body": [
+            "Thượng tướng Lê Quang Đạo, Phó Tổng Tham mưu trưởng, dự tổng duyệt. Các lực lượng phối hợp xử lý tình huống giả định sự cố hóa chất, sập công trình, ngập lụt, với trực thăng, quân y, công binh, bộ đội phòng hóa và chó nghiệp vụ; buổi diễn tập chính thức sẽ có Bộ trưởng Quốc phòng ba nước dự."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tong-duyet-dien-tap-chung-ve-phong-thu-dan-su-giua-quan-doi-ba-nuoc-viet-nam-lao-campuchia-100261012153412137.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Washington gây sức ép lên Kiev, Triều Tiên phóng tên lửa, Iran giữ Hormuz và Saudi bị khuyến cáo tránh xa.",
+      "items": [
+        {
+          "headline": "Sau tuyên bố “ngừng bắn năng lượng”: Mỹ được cho là dọa ngừng chia sẻ tình báo, cắt kênh mua vũ khí của Ukraine",
+          "meta": "11–12/10 · VnExpress (theo CNN, FT), Tuổi Trẻ (theo Axios)",
+          "body": [
+            "CNN dẫn lời hai quan chức châu Âu cho biết Bộ Ngoại giao và Lầu Năm Góc đã cảnh báo châu Âu và Kiev rằng Mỹ có thể ngừng bán vũ khí gián tiếp qua cơ chế PURL (ảnh hưởng nguồn tên lửa Patriot) và đình chỉ chia sẻ tình báo nếu Ukraine tiếp tục đánh hạ tầng năng lượng Nga. Nhà Trắng không bình luận.",
+            "Một quan chức Nhà Trắng nói với Axios rằng ông Trump “thực sự đang rất tức giận”, cho rằng ông Zelensky coi sự hỗ trợ của Mỹ là “điều hiển nhiên”. Hai đặc phái viên Witkoff và Kushner được cho là đã hoãn chuyến đi Moskva."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/my-doa-ngung-cung-cap-vu-khi-tin-tinh-bao-cho-ukraine-5131300.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/truyen-thong-my-ong-trump-dang-rat-tuc-gian-voi-ong-zelensky-100261012131608997.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Triều Tiên phóng loạt tên lửa đạn đạo, một quả bay hơn 900 km; Hàn Quốc họp an ninh khẩn",
+          "meta": "Sáng 12/10 · VnExpress",
+          "body": [
+            "Theo Hội đồng Tham mưu trưởng Liên quân Hàn Quốc, nhiều loại tên lửa được phóng từ gần Bình Nhưỡng ra biển phía đông, có vẻ để đáp trả vụ thử tên lửa siêu vượt âm đầu tiên của Hàn Quốc mà Tổng thống Lee Jae Myung trực tiếp theo dõi tuần trước. Cảnh sát biển Nhật cho biết hai quả rơi ngoài vùng đặc quyền kinh tế của Nhật. Lần phóng trước của Triều Tiên là ngày 3/10."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/trieu-tien-phong-loat-ten-lua-dan-dao-han-quoc-hop-khan-5131240.html"
+            }
+          ]
+        },
+        {
+          "headline": "Iran: Mỹ mới đáp ứng một phần 7 điều kiện, eo biển Hormuz “chưa mở”; dọa nhắm vào cáp, trung tâm dữ liệu, cơ sở AI nếu chiến tranh trở lại",
+          "meta": "12/10 · VnExpress",
+          "body": [
+            "Thư ký Hội đồng An ninh Quốc gia Tối cao Mohsen Rezaei bác tuyên bố của ông Trump rằng Hormuz vẫn mở, nói Iran sẽ “duy trì quyền kiểm soát” tuyến hàng hải và lưu lượng tàu vẫn thấp hơn nhiều so với trước xung đột.",
+            "Ông cảnh báo nếu chiến sự bùng phát lại, “nhiều tuyến cáp, trung tâm dữ liệu, cơ sở AI” liên quan tới Mỹ trong khu vực, trị giá ước hơn 2.000 tỷ USD, sẽ bị phá hủy."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/iran-noi-my-hanh-dong-chua-du-de-mo-lai-eo-bien-hormuz-5131320.html"
+            }
+          ]
+        },
+        {
+          "headline": "Mỹ, Anh, Nhật, Hàn và 3 nước khác khuyến cáo công dân tránh Saudi Arabia sau các đòn của Houthi vào sân bay",
+          "meta": "12/10 · VnExpress",
+          "body": [
+            "Australia và New Zealand là những nước mới nhất ra cảnh báo; New Zealand đề nghị công dân không đến sân bay chính ở Riyadh và các tỉnh Najran, Jazan, Asir “dù vì bất kỳ lý do gì”. Hàn Quốc khuyên công dân rời Saudi trừ việc thiết yếu; Anh khuyên tránh mọi sân bay trừ sân bay quốc tế Medina.",
+            "Mỹ yêu cầu nhân viên chính phủ phải có cho phép đặc biệt mới được dùng sân bay Riyadh, Jeddah và Dammam."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/loat-nuoc-khuyen-cao-cong-dan-khong-den-arab-saudi-5131322.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tòa án Mỹ tạm cấm chính quyền Trump phát quảng cáo dùng 20 triệu USD tiền thuế ca ngợi tổng thống",
+          "meta": "11–12/10 · Tuổi Trẻ (theo AFP, AP)",
+          "body": [
+            "Thẩm phán liên bang Jennifer Rochon (New York) ra lệnh hạn chế tạm thời 14 ngày, buộc hủy toàn bộ quảng cáo truyền hình chưa phát sóng của Bộ An ninh Nội địa, sau đơn kiện của nhóm giám sát Common Cause. Nguyên đơn cho rằng loạt quảng cáo là tuyên truyền chính trị hỗ trợ ứng viên Cộng hòa trước bầu cử giữa kỳ 3/11.",
+            "Cùng ngày, ông Trump bổ nhiệm bà Katie Zacharia, 42 tuổi, từng làm luật sư ở Bắc Kinh 2011–2013, làm Thư ký báo chí Nhà Trắng thay bà Karoline Leavitt; buổi họp báo đầu tiên dự kiến 9h30 sáng 13/10 (giờ Mỹ)."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ – quảng cáo",
+              "url": "https://tuoitre.vn/toa-an-my-lenh-cho-chinh-quyen-ong-trump-dung-cac-quang-cao-su-dung-tien-thue-cua-nguoi-dan-100261012155816893.htm"
+            },
+            {
+              "name": "Tuổi Trẻ – thư ký báo chí",
+              "url": "https://tuoitre.vn/nha-trang-sap-co-tan-thu-ky-bao-chi-tung-song-tai-bac-kinh-biet-tieng-trung-100261012152324376.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Trung Quốc trừng phạt hai bộ trưởng Paraguay và Belize vì quan hệ với Đài Loan",
+          "meta": "12/10 · Tuổi Trẻ",
+          "body": [
+            "Bộ Ngoại giao Trung Quốc cấm Bộ trưởng Công nghệ thông tin Paraguay Gustavo Villate và Ngoại trưởng Belize Francis Fonseca nhập cảnh Hong Kong, Macau, và cấm tổ chức, cá nhân Trung Quốc giao dịch với họ. Theo Reuters, Paraguay và Belize là hai trong 12 nước còn quan hệ ngoại giao chính thức với Đài Loan."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/trung-quoc-trung-phat-2-bo-truong-nuoc-ngoai-vi-quan-he-ngoai-giao-voi-dai-loan-100261012115233631.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ấn Độ: phe đối lập tuần hành tới Tòa án Tối cao đòi Trưởng Ủy ban Bầu cử từ chức",
+          "meta": "12/10 · BBC",
+          "body": [
+            "Sau cuối tuần hỗn loạn với hàng nghìn người biểu tình bị bắt ở Delhi, lãnh đạo đối lập Rahul Gandhi kêu gọi “tất cả những ai tin vào dân chủ” tham gia tuần hành. Phe đối lập cáo buộc danh sách cử tri bị thao túng có lợi cho đảng BJP của Thủ tướng Modi dưới thời ông Gyanesh Kumar; Ủy ban Bầu cử và BJP bác bỏ. Chánh án Surya Kant từ chối tiếp đoàn nhưng nói mọi công dân “đều có quyền tìm đến tòa”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Ngộ độc bánh mì lên 135 ca, triều cường kỷ lục, Shark Thủy hầu tòa lần hai và Jackpot 199,5 tỷ.",
+      "items": [
+        {
+          "headline": "Ngộ độc bánh mì Bà Được ở Quảng Ngãi tăng lên 135 người nhập viện, Chủ tịch tỉnh ra công văn khẩn",
+          "meta": "12/10 · Tuổi Trẻ, VnExpress",
+          "body": [
+            "Đến 7h30 ngày 12/10, 135 bệnh nhân điều trị nội trú tại 6 cơ sở y tế (Bệnh viện Phúc Hưng 54, Sản Nhi 42, Đa khoa tỉnh 28…), tăng thêm 30 ca so với hôm qua; trong đó có 39 trẻ em và 3 thai phụ (VnExpress, theo Sở Y tế).",
+            "Chủ tịch UBND tỉnh yêu cầu điều tra, lấy mẫu, truy xuất nguồn gốc thực phẩm và tăng kiểm tra thức ăn đường phố ở mọi xã, phường. Các bệnh nhân đều ăn bánh mì từ điểm bán vỉa hè số 12 Duy Tân, phường Cẩm Thành."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/so-ca-nghi-ngo-doc-thuc-pham-sau-khi-an-banh-mi-ba-duoc-tang-len-135-nguoi-100261012112859125.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/39-tre-3-thai-phu-o-quang-ngai-nghi-ngo-doc-sau-an-banh-mi-5131313.html"
+            }
+          ]
+        },
+        {
+          "headline": "TP HCM: mưa dông tối trời lúc 15h, triều cường chiều tối có thể lập đỉnh mới ở Thủ Dầu Một; nhiều trường cho học sinh về sớm",
+          "meta": "12/10 · Tuổi Trẻ, VnExpress",
+          "body": [
+            "Gió quật mạnh khiến nhiều người đi xe máy không thể chạy trên đường Bình Long; ở trung tâm phải bật đèn xe giữa chiều. Đài Khí tượng Thủy văn Nam Bộ dự báo đỉnh triều 16–18h hôm nay: Phú An, Nhà Bè 1,7–1,8 m, cao hơn báo động 3; trạm Thủ Dầu Một 1,9–1,95 m, “mức cao nhất từ trước đến nay”.",
+            "Ít nhất 5 trường cho phụ huynh đón con từ 15h; THCS Lê Văn Hưu (xã Nhà Bè) rút mỗi tiết còn 30 phút để gần 2.000 học sinh về trước khi nước lên. CSGT TP công bố 83 điểm có nguy cơ ngập do mưa và 39 điểm do triều cường."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tphcm-mua-dong-toi-troi-gio-quang-quat-nguoi-di-xe-may-khong-the-chay-100261012152344708.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nhieu-truong-o-tp-hcm-cho-hoc-sinh-ve-som-tranh-trieu-cuong-5131253.html"
+            }
+          ]
+        },
+        {
+          "headline": "Shark Thủy bị truy tố lần hai, số tiền bị cáo buộc chiếm đoạt tăng lên 8.459 tỷ đồng của 10.123 người",
+          "meta": "12/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "VKSND Tối cao truy tố ông Nguyễn Ngọc Thủy, Chủ tịch Egroup, tội lừa đảo chiếm đoạt tài sản và đưa hối lộ (32 tỷ đồng). Theo cáo buộc, vốn điều lệ Egroup bị nâng khống từ 32 tỷ lên 962,5 tỷ đồng; nhà đầu tư mua cổ phần giá 38.000 đồng và được hứa mua lại 42.000 đồng sau một năm. Khi các trung tâm tiếng Anh, trường mầm non đóng cửa giai đoạn 2021–2023, 70% tiền của khách mới bị dùng để trả khách cũ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/shark-thuy-bi-truy-to-vi-chiem-doat-8-459-ty-dong-5131215.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/shark-thuy-bi-truy-to-vi-chiem-doat-gan-8500-ti-cua-hon-10000-nguoi-100261012142653093.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Người phụ nữ An Giang đeo mặt nạ nhận Jackpot kỷ lục 199,5 tỷ đồng, trích 5 tỷ làm từ thiện",
+          "meta": "Chiều 12/10 · VnExpress",
+          "body": [
+            "Chị V.N, lao động tự do, mua vé qua điện thoại (kênh Vietlott – MobiFone), số do máy tự chọn. Giải tích lũy qua 26 kỳ quay, là Jackpot lớn nhất của Mega 6/45 và lớn nhất từng thuộc về một khách hàng nữ kể từ khi Vietlott kinh doanh (7/2016). Sau thuế, chị nhận hơn 179,6 tỷ đồng và “chưa có kế hoạch sử dụng”."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nu-khach-hang-trung-jackpot-ky-luc-gan-200-ty-dong-5131290.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cầu đi bộ hình lá dừa nước qua sông Sài Gòn qua thử tải 3.400 tấn, dự kiến hợp long 21/10",
+          "meta": "12/10 · Tuổi Trẻ, VnExpress",
+          "body": [
+            "Tổ hợp gồm nhịp chính vòm thép khoảng 1.400 tấn và khung đỡ 2.000 tấn được 30 mô đun xe tự hành nâng cao 40 cm, theo dõi 24 giờ; độ võng và độ cứng khớp tính toán thiết kế. Đoàn lai dắt từ cảng Đông Xuyên (Vũng Tàu) sẽ mất khoảng hai ngày để đưa kết cấu về vị trí lắp đặt."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/san-sang-lai-dat-nhip-chinh-cau-di-bo-qua-song-sai-gon-nang-3400-tan-du-kien-hop-long-ngay-21-10-100261012102114907.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cau-di-bo-qua-song-sai-gon-du-kien-hop-long-ngay-21-10-5131207.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội: mỗi tuyến phố sẽ trồng một loài cây chủ đạo, phố Phan Đình Phùng giữ hàng sấu, hàng nhội",
+          "meta": "12/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Đề án quản lý cây xanh vừa được phê duyệt chia các phố trung tâm thành 6 nhóm cảnh quan, từ “phố ký ức” Ba Đình – Hoàn Kiếm (ưu tiên sấu, nhội, thàn mát, quếch, sao đen) đến trục giao thông cửa ngõ. Trường hợp đặc biệt được trồng tối đa 2 loài; phố nhỏ nội đô chọn cây tán gọn, rễ ăn sâu để không phá vỉa hè. Thành phố hiện có hơn 1.000 tuyến đường, phố."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/moi-tuyen-pho-ha-noi-se-co-mot-loai-cay-dac-trung-5131022.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ha-noi-dinh-huong-moi-duong-pho-mot-loai-cay-100261012104411381.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "El Nino phá kỷ lục, dư chấn ở Panama, sóng bão ở Long Beach và cuộc điều tra tài sản Abramovich.",
+      "items": [
+        {
+          "headline": "El Nino lập kỷ lục: vùng Nino3.4 ở Thái Bình Dương đạt 29,7°C trong tháng 9, dù chưa tới đỉnh",
+          "meta": "12/10 · Tuổi Trẻ (theo AFP)",
+          "body": [
+            "Dịch vụ Biến đổi khí hậu Copernicus của EU cho biết mức nhiệt này vượt đỉnh các kỳ El Nino mạnh 1982/83, 1997/98 và 2015/16; nhiệt độ đại dương toàn cầu cũng cao nhất lịch sử. Đỉnh dự kiến rơi vào cuối năm, nhưng Copernicus thận trọng nói “chưa thể khẳng định” đây là đợt mạnh nhất từng ghi nhận vì đại dương nóng lên làm khó so sánh."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/el-nino-manh-len-nhiet-do-thai-binh-duong-lap-ky-luc-moi-10026101213455559.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Panama ghi nhận hơn 200 dư chấn sau động đất 7,7 độ, gần 900 nhà hư hại, học sinh cả nước nghỉ học",
+          "meta": "12/10 · Tuổi Trẻ (theo Reuters)",
+          "body": [
+            "Chưa có người chết, ít nhất 27 người bị thương; 14 cây cầu ở Veraguas và Los Santos hư hại. Tình trạng khẩn cấp quốc gia cho phép chi tới 100 triệu USD cứu trợ. Mỹ hứa viện trợ 5 triệu USD và cử đội 20 người; kênh đào Panama vẫn hoạt động bình thường."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/panama-hung-chiu-hon-200-du-chan-sau-tran-dong-dat-manh-77-do-100261012094952683.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Long Beach (California), nơi đông người Việt: sóng do bão Rachel đánh vào nhà ven biển, 13 hộ phải sơ tán",
+          "meta": "11–12/10 · Tuổi Trẻ (theo NYT)",
+          "body": [
+            "Nước tràn vào nhà, một số móng nhà nứt; chính quyền ra lệnh sơ tán bắt buộc 13 ngôi nhà trên bán đảo ven biển và lập điểm phát bao cát. Thị trưởng Rex Richardson cảnh báo nguy cơ ngập lan rộng trong mùa El Nino, dù lượng mưa thực tế thấp hơn dự báo và chưa nhà nào sập."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nhieu-ngoi-nha-co-nguy-co-do-sap-tai-bang-dong-nguoi-viet-o-my-100261012145042065.htm"
+            }
+          ]
+        },
+        {
+          "headline": "BBC Panorama: Deloitte Cyprus giúp làm giả giấy tờ, “xóa” 672 triệu USD du thuyền, biệt thự khỏi sổ sách của Abramovich",
+          "meta": "12/10 · BBC",
+          "body": [
+            "Điều tra chung với Bureau of Investigative Journalism cho thấy các tài khoản do Deloitte Cyprus ký duyệt khiến siêu du thuyền, biệt thự, máy bay riêng biến mất khỏi sổ sách công ty của cựu chủ Chelsea; luật sư Andrew Mitchell KC gọi đây là trốn thuế “không thể trắng trợn hơn”. Luật sư của Abramovich bác bỏ cáo buộc; Deloitte Cyprus nói họ “tuân thủ luật hiện hành”."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo"
+            }
+          ]
+        },
+        {
+          "headline": "Russell Brand ra tòa ở London trong phiên xét xử cáo buộc hiếp dâm, tấn công tình dục 6 phụ nữ",
+          "meta": "12/10 · BBC",
+          "body": [
+            "Phiên tòa tại Southwark Crown Court có thể kéo dài tới 10 tuần, bắt đầu bằng việc chọn bồi thẩm đoàn. Nam diễn viên, danh hài 51 tuổi đối mặt 3 tội hiếp dâm, 3 tội tấn công tình dục và 1 tội hành vi khiếm nhã, được cho là xảy ra từ 1999 đến 2009; ông đã không nhận tội."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o"
+            }
+          ]
+        },
+        {
+          "headline": "Malaysia dừng đăng ký mới mẫu Chery Omoda 5 sau vụ xe đang chạy rơi cả trục sau",
+          "meta": "12/10 · VnExpress",
+          "body": [
+            "Ngày 6/10 ở Johor Bahru, toàn bộ cụm treo sau gồm dầm xoắn, giảm xóc, ống phanh và hai bánh rời khỏi xe; không ai bị thương. Cục Giao thông đường bộ Malaysia (JPJ) tạm dừng chứng nhận kiểu loại, buộc triệu hồi xe có rủi ro và thanh tra dây chuyền lắp ráp cùng nhà cung cấp dầm cầu sau; Chery Malaysia đã bắt đầu triệu hồi bản trước nâng cấp."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/malaysia-dung-cap-dang-ky-cho-omoda-5-sau-su-co-roi-truc-khi-dang-chay-5131177.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Nobel Kinh tế, tượng Phật nổi trên sông, cụ bà 92 tuổi — và hai sự thật về ngày 12 tháng 10.",
+      "items": [
+        {
+          "headline": "Nobel Kinh tế 2026 thuộc về hai nhà kinh tế Mỹ Robert E. Hall và Michael Woodford",
+          "meta": "12/10 · CNBC, Nobelprize.org",
+          "body": [
+            "Viện Hàn lâm Khoa học Hoàng gia Thụy Điển vinh danh hai ông vì công trình về “nền tảng vi mô của ổn định hóa kinh tế vĩ mô”, khép lại tuần công bố Nobel 2026. Giải Kinh tế không có trong di chúc của Alfred Nobel mà do Ngân hàng Trung ương Thụy Điển lập năm 1968."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html"
+            },
+            {
+              "name": "Nobelprize.org",
+              "url": "https://www.nobelprize.org/prizes/economic-sciences/2026/summary/"
+            }
+          ]
+        },
+        {
+          "headline": "Thái Lan: Thủ tướng Anutin khai mạc lễ rước tượng Phật xuống sông, truyền thống 400 năm từ chuyện pho tượng “nổi lên” giữa dòng",
+          "meta": "12/10 · Tuổi Trẻ (theo Khaosod)",
+          "body": [
+            "Lễ Um Phra Dam Nam ở tỉnh Phetchabun đưa tượng Phra Buddha Maha Thammaracha xuống sông Pa Sak. Theo truyền thuyết, hơn 400 năm trước một nhóm ngư dân cả ngày không được con cá nào; dòng nước bỗng ngừng chảy rồi một pho tượng Phật trồi lên, chìm xuống liên tục, và họ đưa tượng lên bờ thờ phụng."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/bi-an-tuong-phat-noi-len-giua-song-va-le-hoi-400-nam-tuoi-o-thai-lan-100261012144346546.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Cụ bà 92 tuổi dành dụm tiền con cháu gửi, tự đến Tuổi Trẻ tặng tân sinh viên nghèo và xin giấu tên",
+          "meta": "12/10 · Tuổi Trẻ",
+          "body": [
+            "Bà M.H. (phường Hòa Bình, TP HCM) ủng hộ 35 triệu đồng và 400 đô la Canada cho chương trình Tiếp sức đến trường, lần thứ hai trong năm sau 15 triệu đồng hồi tháng 3. Bà mong không ghi rõ tên để các sinh viên khỏi bận tâm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/cu-ba-92-tuoi-danh-dum-so-tien-con-chau-cho-den-tuoi-tre-gui-tang-tan-sv-ngheo-100261012113725535.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hàng nghìn bộ trang phục Olympic chưa từng được mặc nằm trong kho: Team GB bắt đầu bán lại 700 món từ Paris 2024",
+          "meta": "12/10 · VnExpress (theo BBC Sport)",
+          "body": [
+            "Trang phục thường được đặt trước khi chốt danh sách vận động viên nên dư thừa ngay từ khâu đặt hàng, và ràng buộc thương mại khiến khó thanh lý. Hiệp hội Olympic Anh hợp tác với nền tảng Kitround, tiền thu chuyển cho quỹ từ thiện Team GB Foundation; theo đơn vị tư vấn 5thread, mỗi năm khoảng 100.000 sản phẩm đồ thể thao ở Anh bị đưa ra bãi rác."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hang-nghin-bo-trang-phuc-olympic-bi-bo-phi-moi-nam-5131284.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ban nhạc Úc Powderfinger tái hợp sau 17 năm với 18 đêm diễn trong lều xiếc “cỡ sân vận động”",
+          "meta": "12/10 · BBC",
+          "body": [
+            "Nhóm rock Brisbane sẽ mở màn bằng 4 đêm ở quê nhà vào tháng 9 năm sau, rồi diễn ở Cairns, Sydney, Adelaide, Perth, Melbourne, chỉ vào tối thứ Sáu và thứ Bảy — giống cách Oasis làm trong tour thế giới năm ngoái. “Chúng tôi vô cùng sung sướng”, ban nhạc viết."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 12/10/1999 được Liên Hợp Quốc chọn là “Ngày 6 tỷ dân”",
+          "meta": "Wikipedia",
+          "body": [
+            "Quỹ Dân số Liên Hợp Quốc (UNFPA) chỉ định 12/10/1999 là ngày ước tính dân số thế giới chạm mốc 6 tỷ người và gọi chính thức là “The Day of Six Billion”. Đây là mốc mang tính biểu tượng, vì không ai xác định được chính xác em bé thứ 6 tỷ ra đời lúc nào."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Day of Six Billion",
+              "url": "https://en.wikipedia.org/wiki/Day_of_Six_Billion"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 12/10/1964, Voskhod 1 đưa ba người vào quỹ đạo cùng lúc — lần đầu tiên, và không ai mặc đồ du hành",
+          "meta": "Wikipedia",
+          "body": [
+            "Phi hành đoàn Vladimir Komarov, Konstantin Feoktistov và Boris Yegorov bay một ngày, trở về 13/10. Đây là chuyến bay có người đầu tiên chở hơn một người, đầu tiên không dùng đồ du hành vũ trụ, đầu tiên đưa một kỹ sư và một bác sĩ lên vũ trụ, và lập kỷ lục độ cao tàu có người lái 336 km."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Voskhod 1",
+              "url": "https://en.wikipedia.org/wiki/Voskhod_1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 12/10/2026 (giờ VN). Không lặp tin của số sáng, trừ các cập nhật thực sự trong ngày (Ukraine, Saudi Arabia, chuyến thăm Trung Quốc, triều cường). Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
