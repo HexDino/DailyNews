@@ -1,0 +1,919 @@
+{
+  "date": "2026-10-13",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Ba, 13 tháng 10, 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 13/10/2026 · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Ngộ độc bánh mì Quảng Ngãi tăng lên 167 ca; tiệm Bà Được xin lỗi",
+    "Zelensky đề nghị Mỹ ký thỏa thuận diesel với Ukraine; Bulgaria bị UAV đánh tàu",
+    "Việt Nam – Lào ký kế hoạch hợp tác quốc phòng 2027",
+    "Phó thủ tướng: NOXH mới 48% kế hoạch, nghiên cứu mua nhà tồn kho cho thuê",
+    "Fact: 13/10/2010 — cứu 33 thợ mỏ Chile sau 69 ngày dưới đất"
+  ],
+  "followups": [
+    {
+      "title": "Nga – Ukraine và “ngừng bắn năng lượng”",
+      "update": "Ông Zelensky đề nghị Mỹ ký thỏa thuận diesel với Ukraine và nói Kiev đã hoãn đánh lọc dầu Nga; ông Trump vẫn khẳng định hai bên đã đồng ý ngừng đánh hạ tầng năng lượng dù Kiev báo cáo tiếp tục bị tập kích. EU bổ sung gần 1.600 đối tượng Nga vào danh sách trừng phạt.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ong-zelensky-de-nghi-my-ky-thoa-thuan-diesel-voi-ukraine-5131587.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes"
+        }
+      ]
+    },
+    {
+      "title": "Chiến sự Yemen lan sang Saudi Arabia",
+      "update": "Sau các đòn Houthi vào sân bay Riyadh (số chết cập nhật ít nhất 13), Qatar cảnh báo khủng hoảng năng lượng khu vực; nhiều nước vẫn khuyến cáo hạn chế đến Saudi.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "ĐS&PL",
+          "url": "https://doisongphapluat.com.vn/san-bay-riyadh-rung-chuyen-uae-keu-goi-tang-cuong-hop-tac-quoc-phong-vung-vinh-a735263.html"
+        }
+      ]
+    },
+    {
+      "title": "Ngộ độc bánh mì ở Quảng Ngãi",
+      "update": "Số ca tăng từ 135 lên 167 sáng 13/10; 13 người xuất viện; tiệm Bà Được xin lỗi và tạm dừng kinh doanh; vẫn chưa có kết quả xét nghiệm chính thức.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-10-chieu",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/banh-mi-ba-duoc-len-tieng-xin-loi-so-ca-ngo-doc-nghi-do-an-banh-mi-da-tang-len-167-nguoi-100261013101340065.htm"
+        }
+      ]
+    },
+    {
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn thăm Trung Quốc",
+      "update": "Chuyến thăm kéo dài đến 15/10; số sáng 13/10 đã đưa hội đàm Triệu Lạc Tế / hội kiến Lý Cường — chiều nay chưa có cập nhật mới đáng kể ngoài lịch trình còn lại.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-11",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/viet-trung-se-tang-cuong-ket-noi-chien-luoc-phat-trien-5131448.html"
+        }
+      ]
+    },
+    {
+      "title": "Triều cường đầu tháng 9 âm lịch ở TP HCM",
+      "update": "Sáng 13/10 nhiều tuyến vẫn ngập (Trần Xuân Soạn, Huỳnh Tấn Phát…); đỉnh chiều tối dự báo Phú An ~1,65 m, Nhà Bè ~1,7 m — thấp hơn đỉnh hôm qua nhưng vẫn cao.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-12",
+      "sources": [
+        {
+          "name": "VOH",
+          "url": "https://voh.com.vn/thoi-tiet/trieu-cuong-gay-ngap-nhieu-tuyen-duong-o-tp-ho-chi-minh-sang-1310-673126.html"
+        }
+      ]
+    },
+    {
+      "title": "Hợp tác quốc phòng Việt – Lào – Campuchia",
+      "update": "Sau tổng duyệt diễn tập phòng thủ dân sự, ngày 13/10 Đại tướng Phan Văn Giang đón Bộ trưởng Quốc phòng Lào và ký kế hoạch hợp tác 2027.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-12-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/viet-nam-lao-tang-cuong-hop-tac-cong-nghiep-quoc-phong-5131764.html"
+        }
+      ]
+    },
+    {
+      "title": "Biểu tình về bầu cử ở Ấn Độ",
+      "update": "Không có cập nhật lớn trong ngày 13/10 sau tuần hành đòi Trưởng Ủy ban Bầu cử từ chức; vẫn theo dõi.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-11-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-14",
+      "time": "14–16/10",
+      "timezone": "giờ VN",
+      "title": "Thường trực Ban Bí thư Đảng NDCM Lào Vilay Lakhamfong thăm chính thức Việt Nam",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thuong-truc-ban-bi-thu-trung-uong-dang-nhan-dan-cach-mang-lao-sap-tham-viet-nam-100261012160023578.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "time": "sáng",
+      "timezone": "giờ VN",
+      "title": "TP HCM truy điệu, di quách 731 hài cốt liệt sĩ từ công viên Lê Thị Riêng về Nghĩa trang liệt sĩ TP",
+      "topic": "Đời sống",
+      "note": "Người dân có thể đứng dọc lộ trình khoảng 26 km để tiễn đưa.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/dua-hai-cot-liet-si-cong-vien-le-thi-rieng-ve-noi-an-tang-nguoi-dan-co-the-tien-cac-anh-tren-tuyen-duong-nao-100261011160707507.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Galatasaray – Barcelona, Champions League",
+      "topic": "Bóng đá",
+      "note": "Barca vào trận với tám trận toàn thắng ở La Liga.",
+      "sources": [
+        {
+          "name": "Dân trí",
+          "url": "https://dantri.com.vn/the-thao/barcelona-tiep-tuc-toan-thang-real-madrid-gianh-3-diem-du-vinicius-bi-duoi-20261011064804844.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "time": "23:59",
+      "timezone": "giờ PT (Mỹ)",
+      "title": "Hết hạn khuyến mãi Claude artifact (giảm 50% hạn mức phiên)",
+      "topic": "Công nghệ",
+      "note": "Free/Pro/Max/Team; không gồm Enterprise.",
+      "sources": [
+        {
+          "name": "Claude Help Center",
+          "url": "https://support.claude.com/en/articles/17274727-artifact-usage-promotion"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Ngày cuối triển lãm “Di sản văn hóa Chăm” tại tháp Pô Sah Inư",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dua-vang-chen-bac-cua-hoang-toc-cham-trong-le-kate-5130715.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Ngày cuối chuyến thăm Trung Quốc của Chủ tịch Quốc hội Trần Thanh Mẫn",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/viet-trung-se-tang-cuong-ket-noi-chien-luoc-phat-trien-5131448.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16–18/10",
+      "timezone": "giờ VN",
+      "title": "Bắc Bộ có khả năng mưa rào, dông rải rác sau chuỗi ngày nắng hanh",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/du-bao-thoi-tiet-tu-11-den-17-10-bac-bo-cuoi-tuan-mua-trung-bo-va-nam-bo-mua-rao-100261010161428734.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Hội nghị toàn quốc quán triệt Nghị quyết Trung ương 4 khóa XIV",
+      "topic": "Chính trị",
+      "note": "",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/chinh-tri/toan-van-bai-phat-bieu-be-mac-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-trung-uong-4-khoa-xiv-post1339553.vov"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "time": "sáng",
+      "timezone": "giờ VN",
+      "title": "Khai mạc Kỳ họp thứ hai Quốc hội khóa XVI",
+      "topic": "Chính trị",
+      "note": "Dự kiến xem xét 43 luật, nghị quyết; làm việc cả một số ngày cuối tuần; bế mạc khoảng 21/11.",
+      "sources": [
+        {
+          "name": "DNTT",
+          "url": "https://doanhnghieptiepthi.vn/quoc-hoi-lam-viec-ca-cuoi-tuan-xem-xet-43-luat-nghi-quyet-161261013154413411.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 4: Ninh Bình – HAGL",
+      "topic": "Bóng đá",
+      "note": "HAGL vừa có chiến thắng đầu tiên, 3-0 trước Đà Nẵng.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hagl-tim-lai-niem-vui-o-v-league-5130803.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Real Madrid – Sevilla, vòng 9 La Liga",
+      "topic": "Bóng đá",
+      "note": "Vinicius có thể bị treo giò.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vinicius-tra-gia-dat-vi-giat-toc-doi-thu-o-la-liga-5130887.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Dự kiến hợp long cầu đi bộ qua sông Sài Gòn",
+      "topic": "Đời sống",
+      "note": "Thời điểm có thể điều chỉnh theo mực nước sông.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/san-sang-lai-dat-nhip-chinh-cau-di-bo-qua-song-sai-gon-nang-3400-tan-du-kien-hop-long-ngay-21-10-100261012102114907.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "El Clasico Real Madrid – Barcelona, vòng 10 La Liga",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vinicius-tra-gia-dat-vi-giat-toc-doi-thu-o-la-liga-5130887.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-31",
+      "time": "trong ngày",
+      "timezone": "giờ địa phương",
+      "title": "Hết hạn đổi ưu đãi Google AI Pro/Plus 12 tháng cho sinh viên",
+      "topic": "Công nghệ",
+      "note": "gemini.google.com/students",
+      "sources": [
+        {
+          "name": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Đón Bộ trưởng Quốc phòng Lào, Ngày Doanh nhân, Quốc hội chuẩn bị kỳ họp lớn và bài toán nhà ở.",
+      "items": [
+        {
+          "headline": "Đại tướng Phan Văn Giang đón Bộ trưởng Quốc phòng Lào, ký kế hoạch hợp tác quốc phòng 2027",
+          "meta": "13/10 · VnExpress, VietnamPlus",
+          "body": [
+            "Sáng 13/10 tại Bộ Quốc phòng, Đại tướng Phan Văn Giang chủ trì lễ đón Đại tướng Khamliang Outhakaysone trong khuôn khổ cuộc gặp thường niên ba Bộ trưởng Quốc phòng và diễn tập phòng thủ dân sự Việt Nam – Lào – Campuchia 2026.",
+            "Hai bên thống nhất tăng cường công nghiệp quốc phòng, bảo vệ biên giới, đào tạo nhân lực và tìm kiếm, quy tập hài cốt liệt sĩ Việt Nam tại Lào; ký kế hoạch hợp tác năm 2027."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/viet-nam-lao-tang-cuong-hop-tac-cong-nghiep-quoc-phong-5131764.html"
+            },
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/pho-thu-tuong-bo-truong-bo-quoc-phong-lao-tham-chinh-thuc-viet-nam-post1141658.vnp"
+            }
+          ]
+        },
+        {
+          "headline": "Ngày Doanh nhân 13/10: Tổng Bí thư Tô Lâm yêu cầu tháo gỡ thực chất khó khăn cho doanh nghiệp",
+          "meta": "12–13/10 · VOH (theo TTXVN)",
+          "body": [
+            "Tại cuộc gặp mặt doanh nghiệp tiêu biểu nhân Ngày Doanh nhân Việt Nam, Tổng Bí thư, Chủ tịch nước nhắc thư Bác Hồ gửi giới công thương 13/10/1945 và đề nghị củng cố môi trường kinh doanh ổn định, minh bạch, giảm chi phí.",
+            "Ông nhấn mạnh xử lý vướng mắc đất đai, quy hoạch, đầu tư với trách nhiệm và thời hạn rõ; liên thông thủ tục, giảm thanh tra chồng chéo; doanh nghiệp cần làm chủ công nghệ, xây dựng thương hiệu cạnh tranh quốc tế."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VOH",
+              "url": "https://voh.com.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-to-lam-de-nghi-thao-go-thuc-chat-kho-khan-cho-doanh-nghiep-673149.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thủ tướng Lê Minh Hưng đề nghị EU đẩy mạnh đầu tư hạ tầng chiến lược, năng lượng xanh và công nghệ cao",
+          "meta": "13/10 · VnEconomy",
+          "body": [
+            "Tiếp Đại sứ, Đại biện các nước thành viên EU, Thủ tướng đề nghị cụ thể hóa Đối tác chiến lược toàn diện bằng dự án thực chất: hydrogen xanh, amoniac xanh, điện gió ngoài khơi, đường sắt tốc độ cao, cảng biển và hàng không.",
+            "Ông cũng đề nghị thúc đẩy EVFTA và sớm hoàn tất phê chuẩn EVIPA, tạo thuận lợi thương mại – đầu tư hai chiều."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnEconomy",
+              "url": "https://vneconomy.vn/thu-tuong-de-nghi-eu-day-manh-dau-tu-vao-ha-tang-chien-luoc-nang-luong-xanh-va-cong-nghe-cao.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Kỳ họp thứ hai Quốc hội khóa XVI khai mạc 17/10: xem xét 43 luật, nghị quyết; làm việc cả cuối tuần",
+          "meta": "13/10 · Doanh nghiệp Tiếp thị, Báo Xây dựng",
+          "body": [
+            "Kỳ họp dự kiến khai mạc sáng 17/10 và bế mạc khoảng 21/11, tổng thời gian làm việc khoảng 30 ngày; để kịp tiến độ, Quốc hội bố trí thêm 6 ngày thứ Bảy và 1 ngày Chủ nhật.",
+            "Chương trình lập pháp quy mô lớn: thông qua 43 dự án luật, nghị quyết quy phạm và cho ý kiến thêm một số dự án; đồng thời quyết định nhiều nhóm vấn đề kinh tế – xã hội, ngân sách."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "DNTT",
+              "url": "https://doanhnghieptiepthi.vn/quoc-hoi-lam-viec-ca-cuoi-tuan-xem-xet-43-luat-nghi-quyet-161261013154413411.htm"
+            },
+            {
+              "name": "Báo Xây dựng",
+              "url": "https://baoxaydung.vn/ky-hop-thu-2-quoc-hoi-khoa-xvi-khai-mac-ngay-17-10-du-kien-thong-qua-43-luat-nghi-quyet-192260925110434875.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Phó thủ tướng Phạm Gia Túc: nhà ở xã hội mới đạt 48% kế hoạch; nghiên cứu mua nhà tồn kho để cho thuê",
+          "meta": "Sáng 13/10 · VnExpress",
+          "body": [
+            "Chủ trì Ban Chỉ đạo Trung ương về nhà ở và BĐS, Phó thủ tướng Thường trực nêu ba khó khăn: NOXH chậm, giá nhà cao, dự án vướng mắc kéo dài. 9 tháng mới hoàn thành gần 47.000/97.000 căn NOXH giao năm 2026.",
+            "Ông gợi mở mua lại nhà thương mại tồn kho (khoảng 52.000 căn/lô theo báo cáo 27 địa phương) để phát triển nhà cho thuê gần khu công nghiệp; yêu cầu bí thư địa phương trực tiếp tháo gỡ pháp lý."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nghien-cuu-mua-nha-thuong-mai-ton-kho-de-cho-thue-5131659.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng Bí thư yêu cầu dành quỹ đất thể thao ở khu công nghiệp, đô thị mới; làm bộ chỉ số thể lực đến quý II/2027",
+          "meta": "Thông báo kết luận 12/10 · VnExpress",
+          "body": [
+            "Văn phòng Trung ương Đảng công bố kết luận của Tổng Bí thư Tô Lâm: sức khỏe nhân dân là một phần sức mạnh quốc gia; địa phương phải bố trí không gian vận động khi quy hoạch KCN, đô thị, khu dân cư mới.",
+            "Bộ VHTTDL phối hợp Bộ Y tế, Bộ GD-ĐT xây dựng chỉ số thể lực, mức vận động và tiếp cận thể thao (ưu tiên trẻ em, lao động, người cao tuổi); danh mục môn trọng điểm hoàn thành quý IV/2026."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-yeu-cau-danh-khong-gian-cho-nguoi-dan-tap-the-thao-5131726.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Diesel và “ngừng bắn năng lượng”, UAV trên Biển Đen, trừng phạt EU và tên lửa Triều Tiên.",
+      "items": [
+        {
+          "headline": "Ông Zelensky đề nghị Mỹ ký “thỏa thuận diesel” với Ukraine; ông Trump vẫn khẳng định đã có ngừng bắn năng lượng",
+          "meta": "12–13/10 · VnExpress (Kyiv Post, AP), Al Jazeera",
+          "body": [
+            "Tại Diễn đàn An ninh Warsaw, Tổng thống Ukraine hỏi vì sao Mỹ ký diesel với Nga mà không với Kiev — “chúng tôi có thể quyết định tàu nào ra khơi và nhà máy lọc dầu Nga có hoạt động hay không”.",
+            "Ông nói Ukraine đã hoãn tập kích lọc dầu Nga ngay đêm thông tin thỏa thuận, trong khi Nga tiếp tục đánh hạ tầng Ukraine. Ông Trump trả lời báo chí: hai bên “đã đồng ý vì tôi nói họ đã đồng ý”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-zelensky-de-nghi-my-ky-thoa-thuan-diesel-voi-ukraine-5131587.html"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes"
+            }
+          ]
+        },
+        {
+          "headline": "Bulgaria: UAV đánh hai tàu ngoài khơi Biển Đen, một tàu chìm; Thủ tướng triệu tập đại sứ Nga",
+          "meta": "13/10 · Al Jazeera, VietnamPlus",
+          "body": [
+            "Thủ tướng Rumen Radev cho biết tàu Chelsea 3 (cờ Malta, chủ Ukraine) bị ba UAV cách bờ khoảng 18 hải lý; 15 thủy thủ (7 Ukraine, 8 Azerbaijan) được cứu, 5 người được hỗ trợ y tế nhẹ.",
+            "Một tàu khác bị đánh và chìm; ít nhất một thủy thủ được cứu. Ông gọi vụ việc “không thể chấp nhận”, sẽ nói với Tổng thư ký NATO Mark Rutte; Ursula von der Leyen lên án đòn UAV gần bờ Bulgaria."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says"
+            },
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/bulgaria-hai-tau-bi-uav-tan-cong-ngoai-khoi-bien-den-post1141725.vnp"
+            }
+          ]
+        },
+        {
+          "headline": "EU bổ sung gần 1.600 cá nhân và tổ chức Nga vào danh sách trừng phạt — đợt lớn nhất từ đầu chiến sự",
+          "meta": "12–13/10 · VnEconomy, Al Jazeera",
+          "body": [
+            "Các ngoại trưởng EU tại Luxembourg thông qua gói bổ sung 1.569 đối tượng thuộc công nghiệp quân sự Nga (826 công ty, 743 cá nhân), nâng tổng số bị trừng phạt liên quan Ukraine lên gần 4.600.",
+            "Thủ tướng Đức Friedrich Merz nhấn mạnh Nga chỉ đàm phán nghiêm khi bị sức ép; EU giữ nguyên lập trường trừng phạt dù Washington nới diesel Nga và tuyên bố “ngừng bắn năng lượng”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnEconomy",
+              "url": "https://vneconomy.vn/eu-dua-them-gan-1600-ca-nhan-va-to-chuc-nga-vao-danh-sach-trung-phat.htm"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes"
+            }
+          ]
+        },
+        {
+          "headline": "KCNA: Triều Tiên xác nhận phóng thử tên lửa đạn đạo chiến thuật; ông Kim dẫn con gái xem ICBM Hwasong-20",
+          "meta": "13/10 · VnExpress (KCNA, Reuters)",
+          "body": [
+            "Một ngày sau khi Hàn Quốc báo cáo loạt phóng ra biển phía đông, KCNA xác nhận vụ thử nhằm kiểm chứng nâng cấp “một bộ phận chủ chốt” của hệ thống tấn công.",
+            "KCNA cũng công bố ảnh ông Kim Jong-un cùng vợ con tại Bảo tàng Cách mạng Quốc phòng (11/10), đứng trước ICBM Hwasong-20 — được mô tả có tầm vượt lục địa Mỹ, hướng Nam Mỹ, Trung Đông và Australia."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-kim-jong-un-dan-con-gai-xem-icbm-bao-trum-lanh-tho-my-5131605.html"
+            }
+          ]
+        },
+        {
+          "headline": "Pháp: học sinh và nghiệp đoàn tiếp tục biểu tình; châu Âu đứng vững sau thỏa thuận diesel Mỹ – Nga",
+          "meta": "13/10 · Euronews, RFI",
+          "body": [
+            "Euronews ghi nhận ngày biểu tình mới của học sinh trung học và nghiệp đoàn sau tuần trước căng thẳng với cảnh sát; chính phủ từng hứa thêm giáo viên dạy thay.",
+            "Tổng thống Macron nói châu Âu “không có lý do thực tế” để đổi lập trường; Thủ tướng Đức Merz khẳng định bắt chước thỏa thuận năng lượng với Moskva là “ngoài bàn”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/13/no-respite-for-ukraine-despite-trumps-energy-truce-announcement"
+            },
+            {
+              "name": "RFI",
+              "url": "https://www.rfi.fr/en/international/20261013-eu-cautious-over-trump-s-energy-ceasefire-as-russia-continues-ukraine-attacks"
+            }
+          ]
+        },
+        {
+          "headline": "Anh: Thủ tướng Andy Burnham nói Iran “gần như chắc chắn” đứng sau âm mưu nhắm căn cứ RAF Fairford",
+          "meta": "13/10 · WORLD News Group (tóm tắt ngày)",
+          "body": [
+            "Theo bản tin sáng 13/10 của WORLD, Thủ tướng Anh Andy Burnham khẳng định có rất ít nghi ngờ Iran liên quan âm mưu nhằm vào căn cứ không quân RAF Fairford — nơi lực lượng Mỹ từng sử dụng.",
+            "Tehran bác cáo buộc và nói London dựng chuyện để che đậy liên quan tới chiến dịch Mỹ – Israel; vụ việc làm tăng căng thẳng an ninh Anh sau chuỗi sự kiện Trung Đông."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "WORLD",
+              "url": "https://wng.org/podcasts/tuesday-morning-news-october-13-2026-1791845505"
+            }
+          ]
+        },
+        {
+          "headline": "Saudi Arabia: sân bay Riyadh vẫn chịu sức ép sau đòn Houthi; Qatar cảnh báo khủng hoảng năng lượng khu vực",
+          "meta": "13/10 · Đời sống & Pháp luật, VnExpress",
+          "body": [
+            "Số người chết sau tấn công sân bay King Khalid được cập nhật lên ít nhất 13; một đòn riêng khiến công dân Pakistan thiệt mạng. Houthi nhận trách nhiệm cả hai vụ.",
+            "Bộ trưởng Năng lượng Qatar Saad al-Kaabi gọi xung đột lan rộng là “khủng hoảng năng lượng tồi tệ nhất” ảnh hưởng khoảng 20% dầu khí toàn cầu; nhiều nước vẫn khuyến cáo hạn chế đến Saudi."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "ĐS&PL",
+              "url": "https://doisongphapluat.com.vn/san-bay-riyadh-rung-chuyen-uae-keu-goi-tang-cuong-hop-tac-quoc-phong-vung-vinh-a735263.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/arab-saudi-bo-canh-bao-phong-khong-truoc-ngay-houthi-tan-cong-5131618.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "167 ca ngộ độc bánh mì, triều cường tiếp tục, không khí TP HCM và khỉ đuôi dài trên phố.",
+      "items": [
+        {
+          "headline": "Ngộ độc bánh mì Bà Được ở Quảng Ngãi lên 167 ca; tiệm xin lỗi, vẫn chờ kết quả xét nghiệm",
+          "meta": "Sáng 13/10 · Tuổi Trẻ, Thanh Niên",
+          "body": [
+            "Sở Y tế Quảng Ngãi: đến 7h30 ngày 13/10 ghi nhận 167 ca nghi ngộ độc sau ăn bánh mì tại điểm 12 Duy Tân (phường Cẩm Thành); 13 người đã xuất viện, điều trị tại 9 cơ sở; có khoảng 41 trẻ và 3 thai phụ theo Thanh Niên.",
+            "Bánh mì Bà Được đăng lời xin lỗi, tạm dừng kinh doanh, chờ kết quả 13 mẫu thực phẩm và 9 mẫu bệnh phẩm; chưa có nguyên nhân chính thức."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/banh-mi-ba-duoc-len-tieng-xin-loi-so-ca-ngo-doc-nghi-do-an-banh-mi-da-tang-len-167-nguoi-100261013101340065.htm"
+            },
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/167-nguoi-nghi-ngo-doc-sau-an-banh-mi-co-3-thai-phu-41-benh-nhi-185261013091431665.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Triều cường sáng 13/10: nhiều tuyến TP HCM vẫn ngập; đỉnh chiều tối Phú An ~1,65 m, Nhà Bè ~1,7 m",
+          "meta": "13/10 · VOH",
+          "body": [
+            "Từ sáng sớm, nước ngập trên Trần Xuân Soạn, Huỳnh Tấn Phát, Bình Quới, Xô Viết Nghệ Tĩnh; phụ huynh đưa con đến trường vất vả dù mực nước thấp hơn một số ngày đỉnh trước.",
+            "Đài KTTV Nam Bộ dự báo đỉnh triều Phú An khoảng 1,65 m lúc 19h, Nhà Bè khoảng 1,7 m; triều vẫn cao, nguy cơ ngập vùng trũng ven sông, kênh."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VOH",
+              "url": "https://voh.com.vn/thoi-tiet/trieu-cuong-gay-ngap-nhieu-tuyen-duong-o-tp-ho-chi-minh-sang-1310-673126.html"
+            }
+          ]
+        },
+        {
+          "headline": "TP HCM đặt mục tiêu đến 2030: 80% số ngày không khí tốt hoặc trung bình",
+          "meta": "13/10 · VnExpress",
+          "body": [
+            "Kế hoạch quản lý chất lượng không khí 2026–2030 (UBND phê duyệt 12/10) nhắm giảm PM2.5 từng năm; năm 2025 một số điểm vượt quy chuẩn 1,1–4,6 lần, khu Cát Lái 84% số liệu bụi tổng vượt chuẩn giai đoạn 2021–2025.",
+            "Giải pháp: kiểm soát khí thải ôtô/xe máy, vùng phát thải thấp, chuyển xe buýt/taxi/xe tải sang năng lượng sạch; che chắn công trường; 95% người dân tiếp cận thông tin AQI số."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tp-hcm-dat-muc-tieu-80-so-ngay-co-khong-khi-tot-trung-binh-5131786.html"
+            }
+          ]
+        },
+        {
+          "headline": "Dự thảo: bar, karaoke, vũ trường có thể tiến tới cấm hút thuốc hoàn toàn; cấm bán thuốc lá online",
+          "meta": "13/10 · VnExpress",
+          "body": [
+            "Hồ sơ sửa Luật Phòng, chống tác hại thuốc lá đang thẩm tra, dự kiến trình Quốc hội cuối năm: các địa điểm trong nhà hiện có khu hút riêng sẽ chuyển dần sang cấm hoàn toàn; bổ sung tàu thủy, tàu hỏa vào nhóm cấm.",
+            "Dự luật còn cấm trưng bày thuốc lá tại điểm bán (trừ ngoại lệ), cấm bán qua TMĐT/máy bán hàng, cấm trong bán kính 100 m ngoài cổng trường/y tế; thuốc lá điện tử, nung nóng, túi ngậm nicotine, shisha vào danh mục cấm. Dự kiến hiệu lực 1/7/2027."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/quan-bar-karaoke-co-the-tien-toi-cam-hut-thuoc-hoan-toan-5131634.html"
+            }
+          ]
+        },
+        {
+          "headline": "Khỉ đuôi dài rượt cắn người trên đường Phạm Thế Hiển; kiểm lâm gây mê bắt được con khoảng 7 kg",
+          "meta": "13/10 · Tuổi Trẻ",
+          "body": [
+            "Tối 12/10, ít nhất hai người bị khỉ đuôi dài cào, cắn trên vỉa hè Phạm Thế Hiển (phường Chánh Hưng) và phải tiêm ngừa; một người khâu vết thương tay.",
+            "Ngày 13/10, Chi cục Kiểm lâm TP HCM phối hợp địa phương phát hiện khỉ ẩn trên trần nhà, bắn gây mê bắt giữ. Loài thuộc nhóm IIB (Macaca fascicularis) theo Thông tư 85/2025/TT-BNNMT."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/khi-duoi-dai-ruot-can-nguoi-tren-duong-pham-the-hien-tphcm-100261013140341985.htm"
+            }
+          ]
+        },
+        {
+          "headline": "TP HCM nghiên cứu miễn giấy phép công trình tạm, trạm sạc — “cú hích” giao thông xanh",
+          "meta": "13/10 · Tuổi Trẻ",
+          "body": [
+            "Thành phố đang xem xét miễn giấy phép với một số công trình tạm và trạm sạc xe điện nhằm rút ngắn thủ tục, khuyến khích hạ tầng xanh.",
+            "Đây là một trong các động thái song song với kế hoạch không khí sạch và chuyển đổi phương tiện công cộng sang năng lượng sạch đến 2030."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/se-mien-giay-phep-cong-trinh-tam-tram-sac-cu-hich-ha-tang-va-giao-thong-xanh-o-tphcm-100261013012446586.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hội Thầy thuốc trẻ đưa bác sĩ tư vấn, tầm soát bệnh ngay tại nhà thuốc trên cả nước",
+          "meta": "13/10 · VnExpress",
+          "body": [
+            "Chương trình “Bác sĩ ngay đây, An tâm từ đây” khởi động 13/10, hợp tác hệ thống nhà thuốc Long Châu: bác sĩ có chứng chỉ hành nghề tư vấn tăng huyết áp, đái tháo đường, rối loạn chuyển hóa, đột quỵ tại điểm bán.",
+            "Ba tháng cuối năm tổ chức chuỗi sự kiện theo chủ đề tháng; trường hợp cần chuyên sâu sẽ được kết nối tới cơ sở y tế."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nguoi-dan-duoc-bac-si-tu-van-tam-soat-benh-truc-tiep-tai-nha-thuoc-5131774.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Las Vegas ngập kỷ lục, cuộc thi ngủ ở Nhật, Tom Cruise thăm MAPPA và chuyện VNeID.",
+      "items": [
+        {
+          "headline": "Bão Rachel biến Las Vegas thành “sông”: mưa tháng 10 kỷ lục từ 1947",
+          "meta": "13/10 · VnExpress",
+          "body": [
+            "Cơ quan Thời tiết Quốc gia Mỹ: Las Vegas nhận khoảng 27 mm mưa ngày 12/10 — kỷ lục các đợt mưa tháng 10 từ 1947. Nước cuồn cuộn gần Strip; nhiều ôtô chết máy, hàng chục cuộc cứu hộ.",
+            "Địa hình lòng chảo và bề mặt bê tông khiến nước khó thấm. Bão cũng gây sóng phá Long Beach (California), buộc sơ tán nhiều nhà ven biển."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bao-rachel-bien-thanh-pho-sa-mac-thanh-song-5131638.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nhật Bản tổ chức cuộc thi “ngủ ngon, ngủ nhanh”: quán quân nhận khoảng 14.000 USD",
+          "meta": "13/10 · VnExpress (AFP)",
+          "body": [
+            "Sự kiện 5/10 tại Tokyo: hàng chục người đeo thiết bị theo dõi giấc ngủ, nằm tối đa 90 phút; chọn từ ~800 đăng ký. Người ngủ nhanh và sâu nhất thắng 2,22 triệu yen (~14.000 USD) — lấy cảm hứng từ “Zzz”.",
+            "OECD 2021: người Nhật ngủ trung bình 7 giờ 24 phút/ngày, ít nhất trong OECD. Ban tổ chức muốn “biến ngủ thành sự kiện” để nâng quan tâm giấc ngủ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cuoc-thi-ngu-ngon-ngu-nhanh-o-nhat-5131763.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tom Cruise thăm studio MAPPA, đặc biệt hứng thú với Jujutsu Kaisen",
+          "meta": "13/10 · Tuổi Trẻ",
+          "body": [
+            "Nam diễn viên Hollywood tới studio anime Nhật MAPPA; truyền thông địa phương ghi nhận ông đặc biệt quan tâm tới loạt Jujutsu Kaisen.",
+            "Chuyến thăm làm nóng cộng đồng anime quốc tế và gợi mở khả năng hợp tác điện ảnh – animation giữa Hollywood và ngành anime Nhật."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tom-cruise-tham-mappa-dac-biet-hung-thu-voi-jujutsu-kaisen-100261013144806611.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hàn Quốc: làng quê “tranh suất” xây nhà tù — cuộc đua đảo chiều NIMBY",
+          "meta": "13/10 · VnExpress",
+          "body": [
+            "Một số địa phương nông thôn Hàn Quốc chủ động xin đặt nhà tù mới để đổi lấy đầu tư hạ tầng, việc làm và hỗ trợ ngân sách — trái với phản ứng “không ở sân sau nhà tôi” thường thấy.",
+            "Hiện tượng phản ánh áp lực dân số già, thiếu việc làm và nhu cầu tái phân bổ nguồn lực công ở vùng xa đô thị."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/lang-que-han-quoc-trong-lan-song-tranh-suat-xay-nha-tu-5131610.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ly hôn hơn chục năm nhưng VNeID vẫn hiện “vợ chồng” với người cũ",
+          "meta": "13/10 · VnExpress",
+          "body": [
+            "Nhiều người phản ánh sau ly hôn lâu năm, ứng dụng định danh VNeID vẫn gắn quan hệ hôn nhân cũ, gây khó khăn thủ tục hành chính và giao dịch.",
+            "Câu chuyện nêu khoảng trống đồng bộ dữ liệu hộ tịch – căn cước điện tử khi cập nhật tình trạng hôn nhân."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ly-hon-hon-chuc-nam-nhung-vneid-the-hien-la-vo-chong-cua-nguoi-cu-5131595.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Xe máy đưa người đi viện, thả thú về rừng — và bốn sự thật về ngày 13 tháng 10.",
+      "items": [
+        {
+          "headline": "Chở 6.500 người đi viện miễn phí bằng xe máy — câu chuyện tình nguyện",
+          "meta": "13/10 · VnExpress",
+          "body": [
+            "Một nhóm tình nguyện viên dùng xe máy đưa miễn phí hàng nghìn bệnh nhân, người nhà đến bệnh viện — tổng cộng khoảng 6.500 lượt theo bài tường thuật.",
+            "Câu chuyện nhắc rằng giữa tin nóng chính trị, vẫn có những mạch đời sống âm thầm nối bệnh viện và nhà."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cho-6-500-nguoi-di-vien-mien-phi-bang-xe-may-5131675.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thả trăn đất, khỉ đuôi vàng, rùa núi vàng, tê tê… về Vườn quốc gia Chư Mom Ray",
+          "meta": "13/10 · Tuổi Trẻ",
+          "body": [
+            "Lực lượng chức năng thả nhiều cá thể động vật hoang dã quý hiếm về môi trường tự nhiên tại Vườn quốc gia Chư Mom Ray sau cứu hộ, tái thả.",
+            "Động thái nối tiếp các chiến dịch chống buôn bán động vật hoang dã và phục hồi quần thể tại Tây Nguyên."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tha-tran-dat-khi-duoi-vang-rua-nui-vang-te-te-ve-vuon-quoc-gia-chu-mom-ray-10026101315363301.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 13/10/2010 — 33 thợ mỏ Chile được cứu sau 69 ngày dưới lòng đất",
+          "meta": "AP / History.com",
+          "body": [
+            "Tại mỏ San José gần Copiapó, toàn bộ 33 công nhân được đưa lên từng người bằng viên nang qua giếng sâu khoảng 600 m; Luis Urzúa (đội trưởng ca) lên cuối cùng.",
+            "Thảm họa sập mỏ xảy ra 5/8/2010; liên lạc được xác nhận 22/8 với mẩu giấy “Chúng tôi ổn trong nơi trú ẩn, cả 33”. Cuộc cứu hộ kéo dài khoảng 22,5 giờ và được theo dõi toàn cầu."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "AP – Today in History",
+              "url": "https://apnews.com/today-in-history/october-13"
+            },
+            {
+              "name": "History.com",
+              "url": "https://www.history.com/this-day-in-history/october-13/chilean-miners-are-rescued-after-69-days-underground"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 13/10/1792 — đặt viên đá góc Nhà Trắng",
+          "meta": "Thư viện Quốc hội Mỹ / Britannica",
+          "body": [
+            "Viên đá góc Executive Mansion được đặt tại thủ đô liên bang mới trên sông Potomac. Thiết kế của James Hoban thắng cuộc thi (gồm cả phương án của Jefferson).",
+            "John và Abigail Adams chuyển vào cuối năm 1800 khi công trình chưa hoàn thiện. Tên gọi “White House” được Theodore Roosevelt chính thức hóa năm 1901."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Library of Congress",
+              "url": "https://www.loc.gov/item/today-in-history/october-13/"
+            },
+            {
+              "name": "Britannica",
+              "url": "https://www.britannica.com/on-this-day/October-13"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 13/10/1307 — Pháp bắt giữ hàng loạt Hiệp sĩ Templar",
+          "meta": "History.com",
+          "body": [
+            "Vào một ngày thứ Sáu 13 tháng 10 năm 1307, lệnh của vua Philippe IV dẫn tới việc bắt giữ khoảng 15.000 thành viên Dòng Đền trên khắp Pháp.",
+            "Sự kiện gắn với truyền thuyết về “thứ Sáu ngày 13” xui xẻo (dù nguồn gốc chính xác của mê tín này vẫn được tranh luận) và đánh dấu bước suy tàn của dòng tu – chiến binh từng quyền lực thời Thập tự chinh."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "History.com",
+              "url": "https://www.history.com/this-day-in-history/october-13"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 13/10/1775 — Quốc hội Lục địa Mỹ cho phép thành lập hải quân",
+          "meta": "History.com / NYT On This Day",
+          "body": [
+            "Quốc hội Lục địa ủy quyền đóng và quản lý lực lượng hải quân đầu tiên — tiền thân Hải quân Hoa Kỳ — sau khi nhận tin Anh điều hạm đội.",
+            "Quyết định mở rộng chiến tranh giành độc lập từ đất liền ra biển, đặt nền cho một trong những nhánh quân sự lâu đời nhất của Mỹ."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "History.com",
+              "url": "https://www.history.com/this-day-in-history/october-13"
+            },
+            {
+              "name": "NYT Learning Network",
+              "url": "https://archive.nytimes.com/learning.blogs.nytimes.com/on-this-day/october-13/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 13/10/2026 (giờ VN). Không lặp tin của số sáng, trừ các cập nhật thực sự trong ngày (Ukraine/diesel, bánh mì Quảng Ngãi, triều cường, quốc phòng Việt–Lào). Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
