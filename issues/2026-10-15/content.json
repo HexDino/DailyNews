@@ -1,0 +1,1171 @@
+{
+  "date": "2026-10-15",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 15/10/2026 · Thứ Năm · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Zelensky nói cảm thấy bị ông Trump “phản bội” vì thoả thuận diesel Mỹ – Nga",
+    "8 bang Mỹ kiện OpenAI, cáo buộc ChatGPT không an toàn cho trẻ em",
+    "Man City thua PSG 2-4; Real ngược dòng thắng Roma 4-3",
+    "Houthi đánh trụ sở Aramco ở Dhahran",
+    "Hà Nội xem xét cắt tỉa, dịch chuyển cây hoa sữa"
+  ],
+  "followups": [
+    {
+      "title": "Nga – Ukraine và thoả thuận diesel Mỹ – Nga",
+      "update": "Ngày 14/10 Nga phóng 39 tên lửa đạn đạo vào hạ tầng năng lượng Ukraine; ông Zelensky nói cảm thấy bị ông Trump “phản bội” và chỉ trích việc hạn chế Starshield.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ong-zelensky-cam-thay-bi-tong-thong-trump-phan-boi-5132444.html"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ukraine-hung-gan-40-ten-lua-ong-zelensky-noi-nga-coi-thuong-my-5132261.html"
+        }
+      ]
+    },
+    {
+      "title": "Chiến sự Yemen lan sang Saudi Arabia",
+      "update": "Houthi đánh trụ sở Aramco ở Dhahran (ba tầng trên của một tháp bị phá huỷ theo nhân viên Aramco) và tuyên bố tiếp tục nhắm sân bay, cơ sở dầu khí.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ten-lua-houthi-pha-huy-mot-phan-toa-thap-cua-tap-doan-dau-khi-arab-saudi-5132398.html"
+        }
+      ]
+    },
+    {
+      "title": "Man City và 114 cáo buộc vi phạm tài chính",
+      "update": "Trận sân nhà đầu tiên sau phán quyết, City thua PSG 2-4; HLV Maresca nói nếu là CĐV Man Utd hay Arsenal ông cũng sẽ gọi City là gian lận.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-06",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/man-city-thua-psg-trong-ngay-guardiola-tro-lai-5132435.html"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hlv-maresca-neu-la-cdv-man-utd-hoac-arsenal-toi-cung-goi-man-city-la-gian-lan-5132123.html"
+        }
+      ]
+    },
+    {
+      "title": "Quy tập hài cốt liệt sĩ ở công viên Lê Thị Riêng",
+      "update": "Đã an táng xong 731 hài cốt ngày 14/10; giai đoạn hai khai quật 12 địa điểm khác.",
+      "status": "giai đoạn 1 hoàn tất",
+      "first_issue": "2026-10-13",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hoan-tat-an-tang-731-hai-cot-liet-si-o-cong-vien-le-thi-rieng-5132380.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-15",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Ngày cuối triển lãm “Di sản văn hóa Chăm” tại tháp Pô Sah Inư",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dua-vang-chen-bac-cua-hoang-toc-cham-trong-le-kate-5130715.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "time": "23:59",
+      "timezone": "giờ PT (Mỹ)",
+      "title": "Hết hạn khuyến mãi Claude artifact (giảm 50% hạn mức phiên)",
+      "topic": "Công nghệ",
+      "note": "Free/Pro/Max/Team; không gồm Enterprise.",
+      "sources": [
+        {
+          "name": "Claude Help Center",
+          "url": "https://support.claude.com/en/articles/17274727-artifact-usage-promotion"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Ngày cuối chuyến thăm Trung Quốc của Chủ tịch Quốc hội Trần Thanh Mẫn",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/viet-trung-se-tang-cuong-ket-noi-chien-luoc-phat-trien-5131448.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Hội nghị toàn quốc quán triệt Nghị quyết Trung ương 4 khóa XIV",
+      "topic": "Chính trị",
+      "note": "",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/chinh-tri/toan-van-bai-phat-bieu-be-mac-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-trung-uong-4-khoa-xiv-post1339553.vov"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16–18/10",
+      "timezone": "giờ VN",
+      "title": "Bắc Bộ có khả năng mưa rào, dông rải rác sau chuỗi ngày nắng hanh",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/du-bao-thoi-tiet-tu-11-den-17-10-bac-bo-cuoi-tuan-mua-trung-bo-va-nam-bo-mua-rao-100261010161428734.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "22:00–1:00",
+      "timezone": "giờ VN",
+      "title": "Cao tốc Mỹ Thuận – Cần Thơ có thể tạm dừng xe để lắp dầm (16–19/10)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/cao-toc-my-thuan-can-tho-han-che-xe-de-thi-cong-cau-vuot-5132392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "time": "sáng",
+      "timezone": "giờ VN",
+      "title": "Khai mạc Kỳ họp thứ hai Quốc hội khóa XVI",
+      "topic": "Chính trị",
+      "note": "Dự kiến xem xét 43 luật, nghị quyết; làm việc cả một số ngày cuối tuần; bế mạc khoảng 21/11.",
+      "sources": [
+        {
+          "name": "DNTT",
+          "url": "https://doanhnghieptiepthi.vn/quoc-hoi-lam-viec-ca-cuoi-tuan-xem-xet-43-luat-nghi-quyet-161261013154413411.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 4: Ninh Bình – HAGL",
+      "topic": "Bóng đá",
+      "note": "HAGL vừa có chiến thắng đầu tiên, 3-0 trước Đà Nẵng.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hagl-tim-lai-niem-vui-o-v-league-5130803.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Real Madrid – Sevilla, vòng 9 La Liga",
+      "topic": "Bóng đá",
+      "note": "Vinicius có thể bị treo giò.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vinicius-tra-gia-dat-vi-giat-toc-doi-thu-o-la-liga-5130887.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "time": "trong ngày",
+      "timezone": "giờ CET",
+      "title": "Man City – AEK Athens, Champions League (lượt 3)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/man-city-thua-psg-trong-ngay-guardiola-tro-lai-5132435.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Dự kiến hợp long cầu đi bộ qua sông Sài Gòn",
+      "topic": "Đời sống",
+      "note": "Thời điểm có thể điều chỉnh theo mực nước sông.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/san-sang-lai-dat-nhip-chinh-cau-di-bo-qua-song-sai-gon-nang-3400-tan-du-kien-hop-long-ngay-21-10-100261012102114907.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "trong ngày",
+      "timezone": "giờ CET",
+      "title": "Real Madrid – PSV, Champions League (lượt 3)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/real-ghi-ba-ban-trong-bay-phut-de-thang-nguoc-as-roma-5132436.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "21:00",
+      "timezone": "giờ CEST",
+      "title": "El Clásico Barcelona – Real Madrid, vòng 10 La Liga",
+      "topic": "Bóng đá",
+      "note": "Spotify Camp Nou.",
+      "sources": [
+        {
+          "name": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/matches/138374/fc-barcelona-real-madrid-la-liga-2026-2027"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "time": "trong ngày",
+      "timezone": "giờ địa phương",
+      "title": "Hết hạn chương trình dùng thử Chaos Veras 14 ngày",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Chaos",
+          "url": "https://www.chaos.com/veras/trial"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "time": "trong ngày",
+      "timezone": "giờ địa phương",
+      "title": "Hết giá giới thiệu Gemini 4 Argon API (2/10 USD mỗi triệu token)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Gemini API pricing",
+          "url": "https://ai.google.dev/gemini-api/docs/pricing"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "8 bang Mỹ kiện OpenAI, cáo buộc ChatGPT không an toàn cho trẻ em",
+          "meta": "The Verge / Reuters · 14/10 (Mỹ)",
+          "body": [
+            "Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho và Montana nộp các đơn kiện riêng rẽ, cáo buộc OpenAI vi phạm luật bảo vệ người tiêu dùng khi quảng bá ChatGPT là công cụ “an toàn, phù hợp giới trẻ” trong khi gây nguy hiểm cho người dùng dễ tổn thương; các bang cũng cáo buộc thu thập dữ liệu trẻ vị thành niên và chưa đủ biện pháp chặn người dùng dưới tuổi.",
+            "Các bang đòi phạt dân sự, buộc OpenAI ngừng tuyên bố gây hiểu lầm; một số bang yêu cầu xoá dữ liệu thu thập trái phép. OpenAI nói đã xây “các lớp bảo vệ theo độ tuổi hàng đầu ngành” như kiểm soát của phụ huynh, nhắc nghỉ, và sẵn sàng làm việc với các bang."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+            }
+          ]
+        },
+        {
+          "headline": "The Verge: cuộc đua AI “mở lại” khi Google (Argon) và Meta (Muse Wonder) bắt kịp OpenAI, Anthropic",
+          "meta": "The Verge · 14/10",
+          "body": [
+            "Bài phân tích của The Verge cho rằng chỉ trong vài ngày, Google tung Gemini 4 Argon (13/10) với giá giới thiệu rẻ hơn đối thủ tới 80% mỗi token, còn Meta ra Muse Wonder Full (12/10) mà Meta nói ngang GPT-6 Astra, Claude Opus 5.5 và Claude Fable 5.1 trên nhiều benchmark.",
+            "Tác giả nhận định lợi thế hệ sinh thái hàng tỷ người dùng của Google và Meta là thứ OpenAI và Anthropic không có, trong khi mô hình mở ngày càng mạnh khiến khó ai giữ ngôi đầu lâu. Các so sánh benchmark là số liệu do hãng tự công bố."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
+            }
+          ]
+        },
+        {
+          "headline": "AI “Double Agent” phá kỷ lục cờ vua 58 năm: thế cờ có 63 nước đi hợp lệ đều là chiếu",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Theo VnExpress, hệ thống AI Double Agent tìm ra thế cờ có 63 nước đi hợp lệ mà tất cả đều chiếu tướng, đồng thời chứng minh không thể vượt con số này, phá kỷ lục tồn tại từ năm 1968."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ai-giai-bai-toan-co-vua-58-nam-5132389.html"
+            }
+          ]
+        },
+        {
+          "headline": "Google mở rộng Gemini 4 Argon toàn cầu — API trả phí, Pro/Ultra trên Gemini app",
+          "meta": "Google Blog / Ars Technica · 13/10",
+          "body": [
+            "Google DeepMind công bố Gemini 4 Argon mở rộng toàn cầu ngày 13/10: nhà phát triển dùng qua Gemini API (gói trả phí) trên AI Studio và Android Studio; thuê bao Google AI Ultra và Pro dùng trong Gemini app và AI Mode trên Search; Antigravity (nền tảng coding agent) dành cho Ultra. Argon hướng tới kỹ thuật phần mềm phức tạp, tài chính, pháp lý, an ninh mạng và khoa học; Google nói nội bộ Antigravity tăng submission code agent khoảng 35% và giảm rollback gần một phần ba trong vài tuần.",
+            "Theo blog Google và bảng giá Gemini API, giá giới thiệu đến 30/11/2026 là 2 USD/triệu token đầu vào và 10 USD/triệu token đầu ra (cache ~0,10 USD); từ 1/12 thành 4/20 USD. Argon không có trên Free tier hay gói Google AI Pro cho API. The Verge ghi nhận Antigravity được nhúng vào Gemini app trên Mac, chỉ Ultra."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Google Blog – Argon",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+            },
+            {
+              "name": "Google Blog – Developers",
+              "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/"
+            },
+            {
+              "name": "Gemini API pricing",
+              "url": "https://ai.google.dev/gemini-api/docs/pricing"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
+            },
+            {
+              "name": "The Verge – Antigravity Mac",
+              "url": "https://www.theverge.com/tech/1010415/google-antigravity-gemini-app-mac"
+            }
+          ]
+        },
+        {
+          "headline": "OpenAI: GPT-6.1 Sol bị suy giảm hiệu năng trên Codex và ChatGPT Work khoảng 8 giờ ngày 13/10",
+          "meta": "OpenAI Status · 13/10",
+          "body": [
+            "Theo trang OpenAI Status, GPT-6.1 Sol bị degraded performance trên ChatGPT Work và các bề mặt Codex (Web, API, VS Code extension) ngày 13/10. Sự cố được ghi nhận khoảng 08:18, mitigation lúc 09:30, resolved lúc 16:36 (theo mốc thời gian trên status page).",
+            "OpenAI xác nhận đã khắc phục; bản cập nhật công khai không nêu nguyên nhân gốc, tỷ lệ lỗi hay khu vực bị ảnh hưởng. Đây là sự cố gắn riêng GPT-6.1 Sol trên Codex/Work, không phải toàn bộ dịch vụ OpenAI."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "OpenAI Status",
+              "url": "https://status.openai.com/incidents/jwna590w"
+            }
+          ]
+        },
+        {
+          "headline": "Google: Argon học kỹ năng từ video — demo robotics Apptronik Apollo ném cornhole",
+          "meta": "Google Blog · 13/10",
+          "body": [
+            "Trong bài công bố Argon ngày 13/10, Google nêu điểm Embodied Reasoning (ERQA) 87% và mô tả pipeline “Video-to-Sim-to-Real”: Argon xem video người chơi cornhole, dựng mô phỏng và sinh chuỗi chuyển động, rồi chuyển sang robot humanoid Apollo của Apptronik; Google nói thử nghiệm nội bộ robot ném trúng bảy quả liên tiếp.",
+            "Cùng ngày, Google mở rộng Fairwind Program cho thêm hàng trăm đối tác phòng thủ mạng được duyệt và nêu ví dụ Wiz dùng Argon trong Scan for Good (hạ tầng y tế/chính phủ). Đây là kết quả do Google báo cáo, chưa phải đánh giá độc lập bên ngoài."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Google Blog – Argon",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+            },
+            {
+              "name": "Google Developers – Robotics",
+              "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "Chọn từ GitHub Trending / repo agent mới nổi; số sao lấy từ GitHub API sáng 14/10 (giờ VN), do số 14/10 không phát hành.",
+      "items": [
+        {
+          "headline": "JuliusBrussee/caveman: skill + proxy giúp coding agent nói ngắn, cắt ~33% token đầu vào",
+          "meta": "GitHub · ~111,5 nghìn sao · Apache-2.0 · Go",
+          "body": [
+            "Caveman là skill và proxy cho coding agent: bắt agent trả lời kiểu “hang động” (ngắn gọn) và lọc/đọc ít hơn, vẫn giữ code chính xác. README nêu đo trên 54 lần chạy Claude Code giảm khoảng 33,2% token đầu vào (18/18 câu trả lời đúng); Adobe Research và JetBrains được dẫn là đã thử phong cách này.",
+            "Hỗ trợ nhiều harness (Claude Code, Codex…); có CLI npm. Chưa đưa các số gần đây; số sao lấy từ GitHub API sáng 14/10 (giờ VN)."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – caveman",
+              "url": "https://github.com/JuliusBrussee/caveman"
+            }
+          ]
+        },
+        {
+          "headline": "obra/superpowers: framework skill agent + quy trình làm phần mềm (spec trước, code sau)",
+          "meta": "GitHub · ~298,6 nghìn sao · MIT · Shell",
+          "body": [
+            "Superpowers tự mô tả là methodology phát triển phần mềm cho coding agent: bộ skill kết hợp hướng dẫn bắt agent hỏi rõ mục tiêu, viết spec ngắn từng khối rồi mới code, thay vì nhảy thẳng vào viết. README liệt kê hỗ trợ Claude Code, Codex, Cursor, Gemini CLI, Antigravity, Grok Build, OpenCode, Pi…",
+            "Repo đang nằm nhóm trending agent skill; chưa đưa các số trước. Số sao lấy từ API sáng 14/10 (giờ VN)."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – superpowers",
+              "url": "https://github.com/obra/superpowers"
+            }
+          ]
+        },
+        {
+          "headline": "pbakaus/impeccable: ngôn ngữ thiết kế UI cho AI harness — 1 skill, 24 lệnh, 59 rule detector",
+          "meta": "GitHub · ~80,8 nghìn sao · Apache-2.0 · JavaScript",
+          "body": [
+            "Impeccable cung cấp hướng dẫn thiết kế frontend cho coding agent: một skill `/impeccable`, 24 lệnh (polish, audit, critique…), cài bằng `npx impeccable install`, kèm 59 rule detector chạy không cần LLM để bắt “AI slop” (Inter mọi nơi, gradient tím–xanh, card lồng card…).",
+            "Xuất phát từ frontend-design của Anthropic; hướng tới UI nhất quán hơn khi vibe-coding. Số sao lấy từ API sáng 14/10 (giờ VN)."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – impeccable",
+              "url": "https://github.com/pbakaus/impeccable"
+            }
+          ]
+        },
+        {
+          "headline": "Egonex-AI/Understand-Anything: biến codebase thành knowledge graph tương tác cho agent",
+          "meta": "GitHub · ~86,2 nghìn sao · MIT · TypeScript",
+          "body": [
+            "Understand Anything biến mã nguồn/docs thành đồ thị tri thức có thể duyệt, tìm kiếm và hỏi; README nêu tương thích Claude Code, Codex, Cursor, Copilot, Gemini CLI, OpenCode… Mục tiêu giúp agent (và người) hiểu cấu trúc dự án thay vì chỉ “đồ thị đẹp”.",
+            "Chưa đưa các số gần đây; số sao lấy từ GitHub API sáng 14/10 (giờ VN)."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – Understand-Anything",
+              "url": "https://github.com/Egonex-AI/Understand-Anything"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Microsoft và Nhật Bản triệt phá mạng lưới tội phạm đứng sau hơn 1 tỷ tin nhắn lừa đảo",
+          "meta": "The Verge · 14/10",
+          "body": [
+            "Microsoft cho biết đã phối hợp với Nhật Bản đánh sập một “chợ” dịch vụ tội phạm mạng đứng sau hơn một tỷ tin nhắn lừa đảo kiểu phạt đỗ xe, giao hàng giả."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown"
+            }
+          ]
+        },
+        {
+          "headline": "YouTube gắn nhãn “Made with AI” cho bài hát do AI tạo hoặc chỉnh sửa",
+          "meta": "The Verge · 14/10",
+          "body": [
+            "YouTube thêm nhãn “Made with AI” cho các bản nhạc “bị chỉnh sửa hoặc tạo hoàn toàn” bằng AI, theo cách tương tự nhãn AI đang áp cho video."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label"
+            }
+          ]
+        },
+        {
+          "headline": "Apple “Welcome home”: ra HomeView 299 USD, làm mới HomePod mini 2 và Apple TV 4K",
+          "meta": "Apple Newsroom / The Verge · 13/10 (NY)",
+          "body": [
+            "Tại sự kiện truyền thông “Welcome home” ở New York ngày 13/10, Apple ra mắt HomeView — hub nhà thông minh màn hình Liquid Retina 7 inch, chip A18, Siri AI (Apple Intelligence), nhận diện tối đa sáu khuôn mặt; bản để bàn và gắn tường cùng giá 299 USD (Mỹ). Đặt trước từ 13/10 tại Mỹ, Canada, Anh, Úc, New Zealand, Ấn Độ; giao từ 13/11. Không bán EU vì Siri AI chưa có trên iOS tại EU.",
+            "Cùng lúc: HomePod mini 2 (149 USD, chip S10, giao từ 30/10) và Apple TV 4K mới (299 USD, chip A19, micro tích hợp, giao 13/11). Apple Home Collection (camera/doorbell LG, khóa và thermostat LG/Schneider) “sắp ra”; The Verge ghi nhận camera trong nhà ~199 USD, ngoài trời ~299 USD (+đèn ~399), chuông cửa ~249 USD."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Apple Newsroom – HomeView",
+              "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
+            },
+            {
+              "name": "The Verge – Welcome Home roundup",
+              "url": "https://www.theverge.com/tech/1009816/apple-smart-home-event-homeview-homepod-mini-roundup"
+            }
+          ]
+        },
+        {
+          "headline": "NVIDIA mở mã nguồn toàn bộ nền tảng Run:ai điều phối GPU trên Kubernetes",
+          "meta": "NVIDIA Developer Blog · 13/10",
+          "body": [
+            "NVIDIA công bố mở mã nguồn đầy đủ nền tảng Run:ai trong NVIDIA DSX AI Factory: điều phối workload AI và GPU trên Kubernetes. Bốn thành phần dùng độc lập được nêu: KAI Scheduler (lên lịch GPU, Apache-2.0, CNCF Sandbox), GPU Fractioning Operator (chia GPU theo CUDA 13.4), KAI Resource Management (quota theo team/phòng), Workload Map (hợp đồng quản lý workload).",
+            "Mã trên GitHub tổ chức DSX AI Factory và Helm chart NGC Community Product (không gồm hỗ trợ enterprise trả phí). Tám đối tác DSX (Crusoe, Mirantis, Nebius, OpenNebula, Rafay, Saturn Cloud, Spectro Cloud, vCluster) đang tích hợp."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "NVIDIA Developer Blog",
+              "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "Khuyến mãi đặc biệt",
+      "title": "Công nghệ · Khuyến mãi đặc biệt",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "Chỉ các ưu đãi AI còn hiệu lực, có điều kiện và link chính thức; nêu ngày kết thúc và rủi ro.",
+      "items": [
+        {
+          "headline": "Gemini 4 Argon API giá giới thiệu 2/10 USD mỗi triệu token — đến 30/11/2026",
+          "meta": "Google Blog / Gemini API pricing · đến 30/11/2026",
+          "body": [
+            "Ưu đãi: mô hình gemini-4-argon trên Gemini API (gói Paid) giá 2 USD/triệu token đầu vào và 10 USD/triệu token đầu ra (kèm thinking); cache đầu vào 0,10 USD/triệu. Sau 30/11/2026 (từ 1/12) giá chuẩn 4/20 USD và cache 0,20 USD. Batch/Flex có mức thấp hơn theo bảng giá.",
+            "Đối tượng: tài khoản API trả phí. Không có trên Free tier; trang giá ghi Argon không có trên Google AI Pro plan cho API. App Gemini: Pro và Ultra dùng Argon; Antigravity (agent coding) cần Ultra. Cách nhận: dùng model ID gemini-4-argon trên AI Studio/API theo tài liệu Google.",
+            "Rủi ro: giá tăng gấp đôi sau 30/11; cần thanh toán API; hạn mức và vùng theo tài khoản Google. Kết thúc giá intro: 30/11/2026."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Google Blog – Argon",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+            },
+            {
+              "name": "Gemini API pricing",
+              "url": "https://ai.google.dev/gemini-api/docs/pricing"
+            }
+          ]
+        },
+        {
+          "headline": "Nhà khoa học: Antigravity bậc dùng cao nhất miễn phí 6 tháng (tối đa 10.000 suất)",
+          "meta": "Google Blog · đăng ký đang mở · 6 tháng",
+          "body": [
+            "Ưu đãi kèm ra mắt Argon: Google dành tối đa 10.000 nhà khoa học bậc usage cao nhất trên Google Antigravity miễn phí trong 6 tháng, onboard theo đợt, tùy điều kiện đủ tư cách, sức chứa và lựa chọn. Đăng ký đang mở theo blog Google 13/10.",
+            "Đối tượng: nhà khoa học/nghiên cứu đủ điều kiện Google nêu. Cách nhận: nộp đơn qua kênh Google công bố trong bài Argon (blog.google). Chưa rõ ngày hết nhận hồ sơ trên bài viết — ghi “chưa rõ ngày kết thúc” ngoài hạn 6 tháng dùng thử sau khi được chọn.",
+            "Rủi ro: không đảm bảo được chọn; điều kiện/eligibility do Google quyết; có thể yêu cầu xác minh tổ chức/email nghiên cứu; quyền riêng tư theo điều khoản Google."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Google Blog – Argon",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+            }
+          ]
+        },
+        {
+          "headline": "Pickshot: tài khoản miễn phí tạo ảnh AI không giới hạn trên 5 model; video, giọng nói “free for now”",
+          "meta": "Pickshot (trang chính thức) · tháng 10/2026 · chưa rõ ngày kết thúc",
+          "body": [
+            "Ưu đãi: theo hướng dẫn của Pickshot cập nhật tháng 10/2026, tài khoản miễn phí tạo ảnh không giới hạn với các model Indigo, Saffron, Amber, Cobalt, Jade; các model ảnh chất lượng cao, video, giọng nói, nhạc và chỉnh ảnh đang miễn phí tạm thời (video, giọng, chỉnh ảnh có giới hạn mỗi ngày).",
+            "Cách nhận: đăng ký miễn phí bằng Google, X, Discord hoặc mã email. Rủi ro: phần “free for now” là ưu đãi có thời hạn, hết hạn sẽ tính credit theo bảng giá; Pickshot không công bố ngày kết thúc."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Pickshot – hướng dẫn",
+              "url": "https://pickshot.ai/en/blog/free-unlimited-ai-studio-guide"
+            }
+          ]
+        },
+        {
+          "headline": "Chaos Veras (AI render cho kiến trúc): dùng thử 14 ngày, 100 credit — chương trình hết 30/10/2026",
+          "meta": "Chaos · đến 30/10/2026",
+          "body": [
+            "Ưu đãi: dùng thử Veras 14 ngày, đủ tính năng, 100 credit dùng chung cho ảnh và video (Chaos ước tính khoảng 10 ảnh Nano Banana 2 1K hoặc khoảng 10 video AI); trang ghi chương trình kết thúc 30/10/2026.",
+            "Rủi ro: tự động tính phí sau thời gian dùng thử, phải huỷ trước khi hết hạn ít nhất một ngày; Chaos có quyền điều chỉnh hệ thống credit."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Chaos – Veras trial",
+              "url": "https://www.chaos.com/veras/trial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "BIM & openBIM",
+      "title": "Xây dựng · BIM & openBIM",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Autodesk AU 2026: Civil 3D trở thành Forma Connected Client, ra mắt Forma Street Design",
+          "meta": "Autodesk Forma Blog · 14/10",
+          "body": [
+            "Tổng kết AU 2026, Autodesk cho biết Civil 3D đang trở thành “Forma Connected Client” (cùng Revit): kỹ sư hạ tầng tham chiếu dữ liệu quy hoạch, thiết kế từ Forma ngay trong Civil 3D và đưa ngược thông tin về bối cảnh dự án chung. Forma Street Design đưa thiết kế đường phố lên cloud sớm hơn, có bàn giao sang Civil 3D.",
+            "Ngoài ra có cập nhật Forma Board, Forma Data Management, Autodesk Assistant và Forma Building Layout Explorer."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Autodesk Forma Blog",
+              "url": "https://blogs.autodesk.com/forma/2026/10/14/what-autodesk-forma-announced-au-2026/"
+            }
+          ]
+        },
+        {
+          "headline": "OSArch: lỗi tải IfcConvert 0.9.1 bản Windows được cộng đồng báo",
+          "meta": "OSArch · 13/10",
+          "body": [
+            "Một thành viên OSArch báo file ifcconvert-0.9.1-win64.zip trong GitHub release của IfcOpenShell bị thiếu, dù trang hướng dẫn cài đặt IfcConvert vẫn trỏ tới — đáng lưu ý cho ai dùng IfcConvert trong pipeline chuyển đổi IFC."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch",
+              "url": "https://community.osarch.org/discussion/3707/ifcconvert-download"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Phần mềm",
+      "title": "Xây dựng · Phần mềm",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Nemetschek được IDC MarketScape xếp nhóm Leader phần mềm quản lý xây dựng 2026",
+          "meta": "Nemetschek · 14/10",
+          "body": [
+            "Nemetschek công bố được IDC MarketScape: Worldwide Construction Management Software 2026 xếp vào nhóm Leaders; IDC nêu điểm mạnh là bộ sản phẩm phủ thiết kế, BIM, tài liệu và cộng tác, với Bluebeam thường được dùng song song phần mềm của các hãng khác."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Nemetschek",
+              "url": "https://www.nemetschek.com/en/news-media/idc-marketscape-names-nemetschek-leader-worldwide-construction-management-software"
+            }
+          ]
+        },
+        {
+          "headline": "Trimble dự báo 2027: khoảng cách công nghệ giữa nhà thầu lớn và nhỏ sẽ thu hẹp",
+          "meta": "Construction Equipment · 14/10",
+          "body": [
+            "Trước hội nghị Dimensions (Las Vegas, 8–11/11), Trimble công bố dự báo ngành 2027: AI và robot hiện trường, kết nối dữ liệu, kỹ năng lai; lãnh đạo Trimble cho rằng gói thuê bao và ứng dụng mobile-first giúp nhà thầu vừa và nhỏ tiếp cận năng lực cấp doanh nghiệp."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Construction Equipment",
+              "url": "https://www.constructionequipment.com/technology/construction-technology-software/article/55411735/trimble-industry-outlook"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Thảo luận cộng đồng",
+      "title": "Xây dựng · Thảo luận cộng đồng",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Sawhorse: mở file .skp ra danh sách cắt và xếp tấm, miễn phí MIT/Apache-2.0, đang tìm tester",
+          "meta": "OSArch · 14/10",
+          "body": [
+            "Tác giả Sawhorse, công cụ dựng hình push/pull chạy cục bộ cho thợ mộc và maker, mời cộng đồng OSArch thử tính năng mở file SketchUp (2013–2026) để tự sinh cut list và sắp xếp tấm."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch",
+              "url": "https://community.osarch.org/discussion/3711/sawhorse-open-a-skp-get-a-cut-list-and-sheet-nesting-free-mit-apache-2-0-looking-for-testers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Man City thua PSG 2-4 trong ngày Guardiola trở lại Etihad",
+          "meta": "VnExpress · 14/10 (giờ châu Âu)",
+          "body": [
+            "PSG ghi ba bàn trong hiệp một (Doue, Dembele cách nhau 75 giây, rồi Vitinha phút 32). Haaland đánh đầu rút ngắn phút 53, nhưng sai lầm của Donnarumma ở phút 62 giúp Akliouche ghi bàn thứ tư; Haaland lập cú đúp, còn Donnarumma cản phạt đền của Ferran Torres cuối trận.",
+            "Đây là trận sân nhà đầu tiên của Man City sau khi bị kết luận vi phạm quy định tài chính Premier League. PSG dẫn đầu vòng phân hạng với 6 điểm; Man City đứng thứ 17 với 3 điểm. Lượt sau (20/10): PSG – Barca, Man City – AEK Athens."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/man-city-thua-psg-trong-ngay-guardiola-tro-lai-5132435.html"
+            }
+          ]
+        },
+        {
+          "headline": "Real Madrid ghi 3 bàn trong 7 phút, thắng ngược Roma 4-3",
+          "meta": "VnExpress · 14/10 (giờ châu Âu)",
+          "body": [
+            "Bị dẫn 1-3 đến phút 82 tại Olimpico, Real của Mourinho lội ngược dòng nhờ ba quả phạt góc của Arda Guler dẫn tới bàn của Espi, Endrick và Rudiger. Real có 6 điểm, đứng thứ 8; Roma đứng 25 với 1 điểm."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/real-ghi-ba-ban-trong-bay-phut-de-thang-nguoc-as-roma-5132436.html"
+            }
+          ]
+        },
+        {
+          "headline": "Haaland cán mốc 60 bàn Champions League nhanh nhất lịch sử, nhanh hơn Messi 20 trận",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Với cú đúp vào lưới PSG, Haaland đạt 60 bàn ở Champions League sau 60 trận, ít hơn Messi 20 trận. Cùng lượt, Barcola lập hat-trick giúp Liverpool thắng LASK 6-3."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – Haaland",
+              "url": "https://vnexpress.net/haaland-pha-mot-ky-luc-cua-messi-5132462.html"
+            },
+            {
+              "name": "VnExpress – Liverpool",
+              "url": "https://vnexpress.net/barcola-lap-hat-trick-liverpool-dai-thang-o-champions-league-5132434.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thể Công thua Persib Bandung 0-1, vẫn chưa thắng ở AFC Champions League Two",
+          "meta": "VnExpress · 14/10",
+          "body": [
+            "Trận đấu có 2 thẻ đỏ; Thể Công – Viettel thua nhà vô địch Indonesia ở lượt hai bảng E tối 14/10."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/the-cong-thua-nha-vo-dich-indonesia-trong-tran-cau-2-the-do-5132415.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Zelensky nói cảm thấy bị ông Trump “phản bội” sau thoả thuận diesel Mỹ – Nga",
+          "meta": "VnExpress (theo CNN, AFP) · 14–15/10",
+          "body": [
+            "Trả lời Piers Morgan ngày 14/10, Tổng thống Zelensky xác nhận cảm thấy bị chính quyền Trump “phản bội”, gọi thoả thuận nhiên liệu Mỹ – Nga là “chiến thắng dễ dàng” cho Kremlin và chỉ trích việc hạn chế dịch vụ Starshield (“Mọi người sẽ chết”). Elon Musk nói Starshield thuộc quyền sở hữu, kiểm soát của chính phủ Mỹ.",
+            "Ngày 9/10 ông Trump tuyên bố Nga đồng ý cung cấp ngay hơn 300.000 tấn diesel, thêm 500.000 tấn trong tháng 11; Mỹ tạm dỡ trừng phạt nhiên liệu Nga. Cùng ngày 14/10, ông Zelensky nói Nga dùng 39 tên lửa đạn đạo đánh hạ tầng năng lượng Ukraine."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-zelensky-cam-thay-bi-tong-thong-trump-phan-boi-5132444.html"
+            },
+            {
+              "name": "VnExpress – 39 tên lửa",
+              "url": "https://vnexpress.net/ukraine-hung-gan-40-ten-lua-ong-zelensky-noi-nga-coi-thuong-my-5132261.html"
+            }
+          ]
+        },
+        {
+          "headline": "Houthi đánh trụ sở Aramco ở Dhahran, tuyên bố tiếp tục tấn công sâu vào Arab Saudi",
+          "meta": "VnExpress (theo AFP, Reuters) · 14/10",
+          "body": [
+            "Giới chức Saudi nói một tháp hành chính của Aramco tại Dhahran bị tấn công, chỉ gây “đám cháy nhỏ”, không thương vong; hai nhân viên Aramco nói với AFP ba tầng trên cùng bị phá huỷ. Phát ngôn viên Houthi nhận đã dùng tên lửa đạn đạo, hành trình và drone đánh Aramco, sân bay Riyadh và một nhà máy lọc dầu.",
+            "Vụ nghiêm trọng nhất trước đó là ngày 10/10, khi tên lửa trúng sân bay King Khalid làm 13 người chết, hơn 300 người bị thương."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ten-lua-houthi-pha-huy-mot-phan-toa-thap-cua-tap-doan-dau-khi-arab-saudi-5132398.html"
+            }
+          ]
+        },
+        {
+          "headline": "Giáo hoàng Leo XIV gửi thông điệp đầu tiên sau phẫu thuật ung thư phổi",
+          "meta": "VnExpress (theo CNN, AFP, Reuters) · 14/10",
+          "body": [
+            "Giáo hoàng được chẩn đoán ung thư biểu mô tuyến phổi trong ca mổ 90 phút ngày 13/10 tại Rome, cắt bỏ thuỳ dưới một bên phổi. Bác sĩ nói hồi phục “đúng dự kiến”; ông đã tự đi lại. Vatican huỷ mọi sự kiện công khai đến 20/10 và chưa công bố kích thước khối u hay tình trạng hạch."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/giao-hoang-lan-dau-len-tieng-sau-khi-bi-chan-doan-mac-ung-thu-phoi-5132441.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Trump: Mỹ “có lẽ đã đi quá xa” khi hạ sát các lãnh đạo Iran",
+          "meta": "VnExpress · 14/10",
+          "body": [
+            "Tổng thống Mỹ cho rằng việc nhắm vào giới lãnh đạo Iran đã gây trở ngại cho việc tìm người đàm phán."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-trump-my-co-le-da-di-qua-xa-khi-ha-sat-cac-lanh-dao-iran-5132243.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ủy ban Kiểm tra Trung ương đề nghị kỷ luật nguyên Phó giám đốc Sở KH-ĐT TP HCM; Phú Thọ bãi nhiệm Phó chủ tịch",
+          "meta": "VnExpress · 14/10",
+          "body": [
+            "Ông Sử Ngọc Anh bị kết luận vi phạm “gây hậu quả rất nghiêm trọng”, bị đề nghị kỷ luật. Cùng ngày, ông Nguyễn Huy Ngọc bị bãi nhiệm Phó chủ tịch UBND tỉnh Phú Thọ do vi phạm trong hoạt động công vụ, đã bị khai trừ Đảng. TP HCM cũng phân công lại nhiệm vụ lãnh đạo UBND."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – Sử Ngọc Anh",
+              "url": "https://vnexpress.net/nguyen-pho-giam-doc-so-ke-hoach-va-dau-tu-tp-hcm-vi-pham-gay-hau-qua-rat-nghiem-trong-5132395.html"
+            },
+            {
+              "name": "VnExpress – Phú Thọ",
+              "url": "https://vnexpress.net/ong-nguyen-huy-ngoc-bi-bai-nhiem-pho-chu-tich-tinh-phu-tho-5132275.html"
+            },
+            {
+              "name": "VnExpress – TP HCM",
+              "url": "https://vnexpress.net/phan-cong-lai-nhiem-vu-chu-tich-pho-chu-tich-ubnd-tp-hcm-5132367.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tây Ninh chuẩn bị đề án lên thành phố trực thuộc Trung ương",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Tỉnh dự kiến hoàn thành dự thảo đề án trong tháng 10, trình cấp tỉnh trước khi báo cáo Bộ Chính trị xin chủ trương."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tay-ninh-chuan-bi-de-an-len-thanh-pho-truc-thuoc-trung-uong-5132387.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "TP HCM hoàn tất an táng 731 hài cốt liệt sĩ tìm thấy ở công viên Lê Thị Riêng",
+          "meta": "VnExpress · 14/10",
+          "body": [
+            "Sau gần 12 giờ truy điệu, di quan và an táng, 19h ngày 14/10 những tiểu quách cuối cùng được hạ huyệt tại Nghĩa trang liệt sĩ TP HCM; lễ truy điệu sáng cùng ngày có hơn 3.000 người dự, người dân đứng dọc đường tiễn đưa.",
+            "Đây là kết thúc giai đoạn một sau hơn ba tháng; giai đoạn hai sẽ khai quật 12 địa điểm khác trong công viên. Việc tìm kiếm bắt đầu từ ba bức ảnh hố chôn tập thể do nhóm của KTS Nguyễn Xuân Thắng cung cấp."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hoan-tat-an-tang-731-hai-cot-liet-si-o-cong-vien-le-thi-rieng-5132380.html"
+            }
+          ]
+        },
+        {
+          "headline": "50.000 người dự lễ cung hiến Đền thánh Đức Mẹ Núi Cúi",
+          "meta": "VnExpress · 14/10",
+          "body": [
+            "Hàng chục nghìn người ngồi kín thánh đường, dưới rạp và dọc lối lên đồi trong lễ cung hiến sáng 14/10."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/50-000-nguoi-du-le-cung-hien-den-thanh-duc-me-nui-cui-5132206.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hoa hậu Việt Nam 2004 Nguyễn Thị Huyền bảo vệ thành công luận án tiến sĩ báo chí học",
+          "meta": "VnExpress · 14/10",
+          "body": [
+            "Ở tuổi 41, Nguyễn Thị Huyền trở thành tiến sĩ ngành báo chí học."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hoa-hau-nguyen-thi-huyen-tro-thanh-tien-si-5132308.html"
+            }
+          ]
+        },
+        {
+          "headline": "Châu Tấn trở lại với “The First Taste of Loneliness” tranh giải chính thức Busan",
+          "meta": "VnExpress · 14/10",
+          "body": [
+            "Bài điểm phim của VnExpress đánh giá lối diễn “như tan vào không gian” của Châu Tấn trong tác phẩm tranh giải chính thức LHP quốc tế Busan."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/the-first-taste-of-loneliness-924"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Hà Nội xem xét cắt tỉa chùm hoa sữa, dịch chuyển cây trồng quá dày",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Sở Xây dựng Hà Nội ngày 15/10 giao rà soát các tuyến phố, khu dân cư trồng hoa sữa dày, ưu tiên gần nhà dân, trường học, bệnh viện; nghiên cứu cắt tỉa chùm hoa đúng kỹ thuật, không dùng hoá chất. Lâu dài sẽ thống kê hiện trạng, dịch chuyển một phần cây và trồng bổ sung loài khác, nhưng không thay thế đồng loạt.",
+            "Hà Nội có khoảng 14.400 cây hoa sữa; hoa nở từ tháng 6 đến tháng 11."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ha-noi-xem-xet-cat-tia-chum-hoa-sua-de-giam-mui-huong-5132421.html"
+            },
+            {
+              "name": "VnExpress – Trốn mùi hoa sữa",
+              "url": "https://vnexpress.net/tron-mui-hoa-sua-ha-noi-5132355.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cao tốc Mỹ Thuận – Cần Thơ có thể tạm dừng xe 22h–1h từ 16 đến 19/10",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Ô tô qua một số đoạn có thể phải tạm dừng trong khung 22h đến 1h hôm sau để lắp dầm cầu vượt."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cao-toc-my-thuan-can-tho-han-che-xe-de-thi-cong-cau-vuot-5132392.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đất nứt toác dài 500 m ở Gia Lai sau mưa lớn",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Đất rẫy ở xã Đức Cơ xuất hiện các vết nứt rộng tới 60 cm, sâu hơn 8 m, làm hư hại hàng trăm cây trồng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dat-nut-toac-keo-dai-500-m-o-gia-lai-5132217.html"
+            }
+          ]
+        },
+        {
+          "headline": "IEA cảnh báo thế giới có nguy cơ thiếu diesel đến giữa năm 2027",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Trong báo cáo thị trường dầu tháng 10, IEA cho rằng nguồn cung diesel còn thắt chặt đến giữa năm sau. Trong nước, Bộ Công Thương đề xuất doanh nghiệp tự quyết giá xăng dầu nhưng phải công bố giá mới trước ít nhất 30 phút."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – IEA",
+              "url": "https://vnexpress.net/iea-the-gioi-co-nguy-co-thieu-dau-diesel-den-giua-nam-2027-5132344.html"
+            },
+            {
+              "name": "VnExpress – giá xăng",
+              "url": "https://vnexpress.net/de-xuat-doanh-nghiep-xang-dau-cong-bo-gia-moi-truoc-it-nhat-30-phut-5131935.html"
+            }
+          ]
+        },
+        {
+          "headline": "Một số nhà máy dự kiến cho công nhân nghỉ Tết 9–12 ngày",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Doanh nghiệp kết hợp phép năm, làm bù và điều chỉnh lịch sản xuất để công nhân có thêm thời gian về quê."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/mot-so-nha-may-cho-cong-nhan-nghi-tet-9-12-ngay-5132248.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 15/10/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu. Bản tin nghiên cứu Xây dựng ra hằng tuần trong số sáng Chủ nhật. Mục Khuyến mãi đặc biệt chỉ đăng ưu đãi còn hiệu lực có link chính thức."
+}
