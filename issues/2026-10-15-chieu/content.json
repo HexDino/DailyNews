@@ -1,0 +1,920 @@
+{
+  "date": "2026-10-15",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Năm, 15 tháng 10, 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 15/10/2026 · Thứ Năm · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Zelensky ra lệnh nối lại tập kích lọc dầu Nga; Ryazan báo cháy nhà máy",
+    "Khởi công Vành đai 4 đoạn Tây Ninh gần 78 km, hơn 43.000 tỷ đồng",
+    "CNN: Mỹ xem xét dùng bom MOAB nếu tái tấn công Iran",
+    "Giá xăng E10 giảm về sát 27.000 đồng/lít",
+    "Fact: 15/10/1917 — Mata Hari bị xử bắn gần Paris"
+  ],
+  "followups": [
+    {
+      "title": "Nga – Ukraine và thoả thuận diesel Mỹ – Nga",
+      "update": "Chiều 15/10 ông Zelensky tuyên bố dỡ lệnh ngừng đánh lọc dầu Nga; cùng ngày Ryazan báo UAV gây cháy nhà máy lọc dầu. Ông đòi thêm Patriot nếu Mỹ muốn Kiev dừng tập kích; Musk xác nhận hạn chế Starshield do Washington quyết định.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ong-zelensky-ra-lenh-noi-lai-tap-kich-nha-may-loc-dau-nga-5132724.html"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/world/ukraine/ukraine-resumes-strikes-russian-oil-refineries-trump-starlink-intel-rcna603648"
+        }
+      ]
+    },
+    {
+      "title": "Chiến sự Yemen lan sang Saudi Arabia",
+      "update": "Sau đòn Aramco Dhahran và sân bay King Khalid, Saudi sơ tán gần 100 máy bay khỏi Riyadh (từ 134 xuống 38 chiếc theo Flightradar24); bảo hiểm hàng không chịu sức ép.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/arab-saudi-so-tan-gan-100-may-bay-vi-mua-tap-kich-cua-houthi-5132635.html"
+        }
+      ]
+    },
+    {
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn thăm Trung Quốc",
+      "update": "Chiều 15/10 Đoàn về Hà Nội, kết thúc chuyến thăm; đã đồng chủ trì phiên họp lần 2 Ủy ban hợp tác QH Việt Nam – Nhân đại Trung Quốc.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-11",
+      "sources": [
+        {
+          "name": "VietnamPlus",
+          "url": "https://www.vietnamplus.vn/chu-tich-quoc-hoi-tran-thanh-man-ve-den-ha-noi-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-trung-quoc-post1142132.vnp"
+        }
+      ]
+    },
+    {
+      "title": "Quy tập hài cốt liệt sĩ ở công viên Lê Thị Riêng",
+      "update": "Giai đoạn 1 đã an táng 731 hài cốt (14/10). Chiều nay thêm tin Đội Quy tập Hà Tĩnh tìm thấy 5 hài cốt liệt sĩ quân tình nguyện tại Lào — mạch công tác quy tập tiếp tục.",
+      "status": "giai đoạn 1 hoàn tất",
+      "first_issue": "2026-10-13",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hoan-tat-an-tang-731-hai-cot-liet-si-o-cong-vien-le-thi-rieng-5132380.html"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/them-5-hai-cot-liet-si-quan-tinh-nguyen-viet-nam-duoc-tim-thay-tai-lao-100261015144423035.htm"
+        }
+      ]
+    },
+    {
+      "title": "Man City và 114 cáo buộc vi phạm tài chính",
+      "update": "Không có diễn biến pháp lý mới chiều 15/10 sau thất bại 2-4 trước PSG; vẫn theo dõi phản ứng CĐV và truyền thông Anh.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-06",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/man-city-thua-psg-trong-ngay-guardiola-tro-lai-5132435.html"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "CNN: Mỹ xem xét phương án MOAB nếu tái tấn công Iran; hai tàu hàng chìm ở Hormuz; Iran siết tập kích tàu thương mại.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/10/15/politics/us-considering-mother-of-all-bombs-iran"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hai-tau-hang-lien-tiep-bi-danh-chim-tai-hormuz-5132557.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-16",
+      "time": "16–18/10",
+      "timezone": "giờ VN",
+      "title": "Bắc Bộ có khả năng mưa rào, dông rải rác sau chuỗi ngày nắng hanh",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/du-bao-thoi-tiet-tu-11-den-17-10-bac-bo-cuoi-tuan-mua-trung-bo-va-nam-bo-mua-rao-100261010161428734.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "22:00–1:00",
+      "timezone": "giờ VN",
+      "title": "Cao tốc Mỹ Thuận – Cần Thơ có thể tạm dừng xe để lắp dầm (16–19/10)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/cao-toc-my-thuan-can-tho-han-che-xe-de-thi-cong-cau-vuot-5132392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Hội nghị toàn quốc quán triệt Nghị quyết Trung ương 4 khóa XIV",
+      "topic": "Chính trị",
+      "note": "",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/chinh-tri/toan-van-bai-phat-bieu-be-mac-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-trung-uong-4-khoa-xiv-post1339553.vov"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "time": "17–18/10",
+      "timezone": "giờ VN",
+      "title": "Tổng thống Thụy Sĩ Guy Parmelin và Phu nhân thăm chính thức Việt Nam",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VietnamPlus",
+          "url": "https://www.vietnamplus.vn/tong-thong-thuy-si-guy-parmelin-va-phu-nhan-sap-tham-chinh-thuc-viet-nam-post1142198.vnp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "time": "sáng",
+      "timezone": "giờ VN",
+      "title": "Khai mạc Kỳ họp thứ hai Quốc hội khóa XVI",
+      "topic": "Chính trị",
+      "note": "Dự kiến xem xét 43 luật, nghị quyết; làm việc cả một số ngày cuối tuần; bế mạc khoảng 21/11.",
+      "sources": [
+        {
+          "name": "DNTT",
+          "url": "https://doanhnghieptiepthi.vn/quoc-hoi-lam-viec-ca-cuoi-tuan-xem-xet-43-luat-nghi-quyet-161261013154413411.htm"
+        },
+        {
+          "name": "VietnamPlus",
+          "url": "https://www.vietnamplus.vn/tong-bi-thu-chu-tich-nuoc-va-doan-dai-bieu-quoc-hoi-ha-noi-chuan-bi-cho-ky-hop-thu-hai-quoc-hoi-khoa-xvi-post1142197.vnp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 4: Ninh Bình – HAGL",
+      "topic": "Bóng đá",
+      "note": "HAGL vừa có chiến thắng đầu tiên, 3-0 trước Đà Nẵng.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hagl-tim-lai-niem-vui-o-v-league-5130803.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Real Madrid – Sevilla, vòng 9 La Liga",
+      "topic": "Bóng đá",
+      "note": "Vinicius có thể bị treo giò.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vinicius-tra-gia-dat-vi-giat-toc-doi-thu-o-la-liga-5130887.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "time": "trong ngày",
+      "timezone": "giờ CET",
+      "title": "Man City – AEK Athens, Champions League (lượt 3)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/man-city-thua-psg-trong-ngay-guardiola-tro-lai-5132435.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Dự kiến hợp long cầu đi bộ qua sông Sài Gòn",
+      "topic": "Đời sống",
+      "note": "Thời điểm có thể điều chỉnh theo mực nước sông.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/san-sang-lai-dat-nhip-chinh-cau-di-bo-qua-song-sai-gon-nang-3400-tan-du-kien-hop-long-ngay-21-10-100261012102114907.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "trong ngày",
+      "timezone": "giờ CET",
+      "title": "Real Madrid – PSV, Champions League (lượt 3)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/real-ghi-ba-ban-trong-bay-phut-de-thang-nguoc-as-roma-5132436.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "21:00",
+      "timezone": "giờ CEST",
+      "title": "El Clásico Barcelona – Real Madrid, vòng 10 La Liga",
+      "topic": "Bóng đá",
+      "note": "Spotify Camp Nou.",
+      "sources": [
+        {
+          "name": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/matches/138374/fc-barcelona-real-madrid-la-liga-2026-2027"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "time": "trong ngày",
+      "timezone": "giờ địa phương",
+      "title": "Hết hạn chương trình dùng thử Chaos Veras 14 ngày",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Chaos",
+          "url": "https://www.chaos.com/veras/trial"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "time": "trong ngày",
+      "timezone": "giờ địa phương",
+      "title": "Hết giá giới thiệu Gemini 4 Argon API (2/10 USD mỗi triệu token)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Gemini API pricing",
+          "url": "https://ai.google.dev/gemini-api/docs/pricing"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "CTMTQG lấy đời sống dân làm thước đo, Vành đai 4 Tây Ninh, lộ trình sửa Điều lệ Đảng và đoàn Lào.",
+      "items": [
+        {
+          "headline": "Thủ tướng Lê Minh Hưng: ưu tiên nhiệm vụ thiết yếu tác động trực tiếp đời sống người dân",
+          "meta": "Sáng 15/10 · Tuổi Trẻ, VietnamPlus",
+          "body": [
+            "Tại hội nghị triển khai Chương trình mục tiêu quốc gia phát triển văn hóa – xã hội, nông thôn, dân tộc miền núi giai đoạn 2026–2035, Thủ tướng yêu cầu tích hợp chương trình phải giảm thủ tục, tránh chồng chéo và lấy chuyển biến đời sống người dân làm thước đo hiệu quả.",
+            "Ông nhấn mạnh đầu tư có trọng điểm vào nước sinh hoạt, đất ở, đất sản xuất; chú trọng địa bàn khó khăn và nhóm yếu thế; không đầu tư dàn trải, không để thất thoát lãng phí; “không để người dân phải chờ đợi” khi triển khai."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thu-tuong-dau-tu-co-trong-diem-uu-tien-nhung-nhiem-vu-thiet-yeu-tac-dong-truc-tiep-den-doi-song-nguoi-dan-100261015150732952.htm"
+            },
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/lay-su-chuyen-bien-doi-song-nguoi-dan-lam-thuoc-do-hieu-qua-chuong-trinh-muc-tieu-quoc-gia-post1142177.vnp"
+            }
+          ]
+        },
+        {
+          "headline": "Khởi công Vành đai 4 đoạn Tây Ninh: gần 78 km, vốn hơn 43.000 tỷ đồng",
+          "meta": "Sáng 15/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "UBND tỉnh Tây Ninh khởi công dự án thành phần Vành đai 4 TP HCM qua địa bàn: dài gần 78 km (khoảng 3,8 km thuộc TP HCM), từ cầu Thầy Cai (Hậu Nghĩa) tới cảng Hiệp Phước; GPMB đạt khoảng 94%.",
+            "Giai đoạn một: 4 làn cao tốc, nền 25,5 m, thiết kế 100 km/h; dự kiến hoàn thành sau khoảng 4 năm. Toàn tuyến Vành đai 4 (HCM–Đồng Nai–Tây Ninh) dài hơn 159 km, tổng vốn hơn 120.400 tỷ đồng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khoi-cong-vanh-dai-4-hon-43-000-ty-dong-qua-tay-ninh-5132523.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tay-ninh-khoi-dong-thi-cong-783km-vanh-dai-4-tphcm-100261015125001415.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Trung ương: hoàn thiện đề cương nghiên cứu sửa đổi Điều lệ Đảng trong năm 2026",
+          "meta": "15/10 · VnExpress (kết luận Hội nghị TW 4)",
+          "body": [
+            "Ban Chấp hành Trung ương yêu cầu năm 2026 hoàn thiện đề cương, phương pháp và hệ thống chuyên đề nghiên cứu sửa đổi, bổ sung Điều lệ Đảng; 2027–2028 khảo sát, tổng kết thực tiễn và dự thảo báo cáo tổng thể; 2029 hoàn thiện trước khi giao Tiểu ban Điều lệ Đảng Đại hội 15.",
+            "Phạm vi sửa đổi dựa trên kết quả nghiên cứu, không ấn định trước nhưng không né tránh vấn đề mới; giữ vững bản chất, nguyên tắc tập trung dân chủ; gắn với chuẩn bị Đại hội 15 và tổng kết 100 năm Đảng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hoan-thien-de-cuong-nghien-cuu-sua-doi-dieu-le-dang-trong-nam-2026-5132531.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thường trực Ban Bí thư Trần Cẩm Tú hội đàm với Thường trực Ban Bí thư Lào Vilay Lakhamphong",
+          "meta": "Sáng 15/10 · VietnamPlus (TTXVN)",
+          "body": [
+            "Sau lễ đón tại Trụ sở Trung ương Đảng, hai bên trao đổi về quan hệ Việt – Lào, nhất trí củng cố tin cậy chính trị, trao đổi đoàn cấp cao, hợp tác xây dựng Đảng và thúc đẩy thương mại hướng tới kim ngạch song phương 5 tỷ USD.",
+            "Việt Nam cảm ơn Lào phối hợp quy tập hài cốt liệt sĩ; hai bên nhấn mạnh chuẩn bị “Năm Đoàn kết Hữu nghị Việt Nam – Lào 2027” (65 năm quan hệ ngoại giao, 50 năm Hiệp ước Hữu nghị)."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/thuong-truc-ban-bi-thu-tran-cam-tu-hoi-dam-voi-thuong-truc-ban-bi-thu-trung-uong-dang-nhan-dan-cach-mang-lao-post1142201.vnp"
+            }
+          ]
+        },
+        {
+          "headline": "Chủ tịch Quốc hội Trần Thanh Mẫn về Hà Nội, kết thúc chuyến thăm Trung Quốc",
+          "meta": "Chiều 15/10 · VietnamPlus",
+          "body": [
+            "Chủ tịch Quốc hội và Đoàn đại biểu cấp cao về đến Hà Nội sau chuyến thăm chính thức Trung Quốc, trong đó đồng chủ trì Phiên họp lần thứ hai Ủy ban hợp tác giữa Quốc hội Việt Nam và Nhân đại toàn quốc Trung Quốc.",
+            "Chuyến thăm được đánh giá góp phần củng cố Đối tác hợp tác chiến lược toàn diện và tăng cường hợp tác nghị viện hai nước."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/chu-tich-quoc-hoi-tran-thanh-man-ve-den-ha-noi-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-trung-quoc-post1142132.vnp"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng thống Thụy Sĩ Guy Parmelin và Phu nhân thăm chính thức Việt Nam 17–18/10",
+          "meta": "15/10 · VietnamPlus (Bộ Ngoại giao)",
+          "body": [
+            "Nhận lời mời của Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân, Tổng thống Liên bang Thụy Sĩ Guy Parmelin và Phu nhân sẽ thăm chính thức Việt Nam từ 17 đến 18/10/2026.",
+            "Chuyến thăm diễn ra sát lịch khai mạc Kỳ họp thứ hai Quốc hội khóa XVI (17/10)."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/tong-thong-thuy-si-guy-parmelin-va-phu-nhan-sap-tham-chinh-thuc-viet-nam-post1142198.vnp"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng Bí thư Tô Lâm dự lễ kỷ niệm 70 năm Đại học Bách khoa Hà Nội",
+          "meta": "Sáng 15/10 · VietnamPlus",
+          "body": [
+            "Tổng Bí thư, Chủ tịch nước dự lễ kỷ niệm 70 năm thành lập Đại học Bách khoa Hà Nội; nhà trường đón nhận Huân chương Lao động hạng Nhất.",
+            "Ông đề nghị xây dựng trường thành đại học nghiên cứu xuất sắc, đủ sức đảm nhận nhiệm vụ lớn của quốc gia."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/tong-bi-thu-chu-tich-nuoc-to-lam-du-le-ky-niem-70-nam-thanh-lap-dai-hoc-bach-khoa-ha-noi-post1142197.vnp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Ukraine nối lại đánh lọc dầu Nga, phương án MOAB với Iran, sơ tán máy bay Saudi và tàu chìm ở Hormuz.",
+      "items": [
+        {
+          "headline": "Ông Zelensky ra lệnh nối lại tập kích nhà máy lọc dầu Nga",
+          "meta": "Chiều 15/10 · VnExpress (FT, AFP, Reuters)",
+          "body": [
+            "Trong phỏng vấn Financial Times công bố 15/10, Tổng thống Ukraine tuyên bố lệnh ngừng tấn công lọc dầu Nga “đã chấm dứt”; cùng ngày tỉnh Ryazan báo UAV Ukraine gây cháy tại nhà máy lọc dầu (Rosneft, ~5% công suất lọc dầu Nga).",
+            "Ông nói Kiev mất kiên nhẫn vì Nga tiếp tục đánh hạ tầng năng lượng (hơn 600.000 người mất điện), cáo buộc Mỹ hạn chế tình báo và Starlink; chỉ cân nhắc dừng đánh lọc dầu nếu Mỹ cung cấp thêm tên lửa đánh chặn Patriot — “điều kiện tối thiểu”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-zelensky-ra-lenh-noi-lai-tap-kich-nha-may-loc-dau-nga-5132724.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ong-zelensky-tuyen-bo-noi-lai-tan-cong-nha-may-loc-dau-nga-100261015142757489.htm"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/world/ukraine/ukraine-resumes-strikes-russian-oil-refineries-trump-starlink-intel-rcna603648"
+            }
+          ]
+        },
+        {
+          "headline": "CNN: Mỹ xem xét dùng bom GBU-43/B (“Mẹ của các loại bom”) nếu tái tấn công Iran",
+          "meta": "15/10 · VnExpress (CNN)",
+          "body": [
+            "Nhiều quan chức Mỹ nói quân đội đã xây dựng gói tập kích mới nhắm hạ tầng năng lượng và cơ sở hạt nhân Iran, có khả năng dùng MOAB GBU-43/B nếu ông Trump ra lệnh nối lại chiến dịch — trước khi lực lượng rút khỏi khu vực CENTCOM.",
+            "MOAB nặng khoảng 10 tấn, thuốc nổ ~8,5 tấn; lần thực chiến duy nhất năm 2017 ở Afghanistan. Nhà Trắng không bình luận kế hoạch quân sự nhạy cảm, khẳng định “để ngỏ mọi lựa chọn” để Iran không sở hữu vũ khí hạt nhân."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/my-co-the-dung-me-cua-cac-loai-bom-de-tap-kich-iran-5132627.html"
+            },
+            {
+              "name": "CNN",
+              "url": "https://www.cnn.com/2026/10/15/politics/us-considering-mother-of-all-bombs-iran"
+            }
+          ]
+        },
+        {
+          "headline": "Arab Saudi sơ tán gần 100 máy bay khỏi Riyadh sau “mưa tập kích” Houthi",
+          "meta": "15/10 · VnExpress (WSJ, AP)",
+          "body": [
+            "Flightradar24: số máy bay đỗ sân bay King Khalid giảm từ 134 (8/10) xuống 38 (trưa 14/10) — sơ tán gần 100 chiếc trị giá khoảng 4 tỷ USD sau loạt tên lửa/UAV Houthi vào sân bay (ít nhất 13 chết, 309 bị thương trong một đòn 10/10).",
+            "Saudia mất một A320 bị phá hủy; Riyadh Air có Boeing 787 hư mũi. Houthi tuyên bố không phận Saudi là “địa bàn tác chiến”; ngành bảo hiểm rủi ro chiến sự chịu sức ép trước kỳ gia hạn hợp đồng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/arab-saudi-so-tan-gan-100-may-bay-vi-mua-tap-kich-cua-houthi-5132635.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hai tàu hàng chìm ở Hormuz; Iran siết tấn công trên eo biển",
+          "meta": "15/10 · VnExpress (Guardian, WaPo)",
+          "body": [
+            "Tàu container Singapore GFS Pride bị tấn công 13/10, cháy và chìm 14/10 (thủy thủ sơ tán an toàn); IRGC nói tàu va thủy lôi khi đi “tuyến bất hợp pháp”. Tàu Cape Dao (cờ Antigua) cũng chìm sau vụ trúng vật thể bay từ 23/9 — một thủy thủ Ấn Độ thiệt mạng.",
+            "FT: 28/9–11/10 có khoảng 24 tàu bị tập kích qua Hormuz. Quan chức Iran được dẫn lời nói muốn ảnh hưởng bầu cử giữa kỳ Mỹ bằng cách làm khó nỗ lực giảm giá dầu."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hai-tau-hang-lien-tiep-bi-danh-chim-tai-hormuz-5132557.html"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/15/cnbc-daily-hormuz-iran-starlink-tsmc.html"
+            }
+          ]
+        },
+        {
+          "headline": "Elon Musk: hạn chế Starlink/Starshield của Ukraine do chính phủ Mỹ quyết định",
+          "meta": "15/10 · VnExpress",
+          "body": [
+            "Musk viết trên X rằng hệ thống Starshield thuộc và do chính phủ Mỹ kiểm soát; mọi giới hạn tốc độ/sử dụng do quân đội Mỹ và cuối cùng là Tổng thống quyết định — sau cáo buộc của ông Zelensky về việc cắt/giảm hỗ trợ vệ tinh tiền tuyến.",
+            "Thông tin nối chuỗi căng thẳng Washington–Kiev quanh “ngừng bắn năng lượng”, chia sẻ tình báo và thỏa thuận diesel Mỹ – Nga."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/elon-musk-ong-trump-quyet-dinh-vu-ukraine-bi-han-che-starlink-5132475.html"
+            }
+          ]
+        },
+        {
+          "headline": "F-35 lần đầu hạ cánh thành công trên siêu tàu sân bay lớp Ford",
+          "meta": "15/10 · VnExpress",
+          "body": [
+            "Máy bay tiêm kích F-35 hoàn thành hạ cánh thử nghiệm trên tàu sân bay lớp Gerald R. Ford — bước tiến trong tích hợp tiêm kích thế hệ 5 với siêu tàu sân bay mới nhất của Hải quân Mỹ.",
+            "Sự kiện được ghi nhận trong bối cảnh Mỹ duy trì hiện diện hải quân tại nhiều khu vực nóng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/f-35-lan-dau-ha-canh-thanh-cong-tren-sieu-tau-san-bay-lop-ford-5132614.html"
+            }
+          ]
+        },
+        {
+          "headline": "Pakistan: sập mái trường tư thục ở Peshawar, ít nhất 27 học sinh thiệt mạng",
+          "meta": "15/10 · Tuổi Trẻ",
+          "body": [
+            "Mái một trường tư thục tại khu Dir Colony, Peshawar sập ngày 15/10; báo cáo ban đầu nêu ít nhất khoảng 27–28 người chết (chủ yếu học sinh) và khoảng 30 người bị thương.",
+            "Cơ quan chức năng Pakistan đang làm rõ nguyên nhân kết cấu và tổ chức cứu hộ, hỗ trợ gia đình nạn nhân."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/sap-mai-truong-o-pakistan-17-hoc-sinh-thiet-mang-100261015134347205.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Giá xăng giảm, sân bay Quảng Trị bay kỹ thuật, làn linh hoạt Trường Chinh và 300 tấn quần áo đổ ven đường.",
+      "items": [
+        {
+          "headline": "Giá xăng E10 giảm về sát 27.000 đồng/lít; dầu diesel hạ nhẹ",
+          "meta": "15h 15/10 · VnExpress",
+          "body": [
+            "Liên Bộ Công Thương – Tài chính: từ 15h ngày 15/10, E10 RON 95-III giảm 1.230 đồng xuống 27.020 đồng/lít; E5 RON 92 giảm 730 đồng còn 26.970 đồng/lít; diesel giảm 20 đồng còn 29.100 đồng/lít; mazut tăng lên 22.130 đồng/kg.",
+            "Kỳ điều hành chịu ảnh hưởng thỏa thuận xuất khẩu diesel Nga sang Mỹ và dự báo OPEC; Quỹ bình ổn trích 200 đồng/lít xăng sinh học, chi 500 đồng/lít mazut."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-15-10-5132689.html"
+            },
+            {
+              "name": "VOH",
+              "url": "https://voh.com.vn/doi-song/tram-tin-chieu-1510-gia-xang-dong-loat-giam-tay-ninh-khoi-dong-thi-cong-cac-doan-vanh-dai-4-tphcm-673709.html"
+            }
+          ]
+        },
+        {
+          "headline": "Sân bay Quảng Trị hoàn thiện hơn 80%, thực hiện chuyến bay kỹ thuật đầu tiên",
+          "meta": "15/10 · VnExpress",
+          "body": [
+            "Máy bay Cessna 208 (SAMCOM) bay rà soát tĩnh không trên cảng hàng không Quảng Trị (xã Cửa Việt); đường CHC/đường lăn ~98%, nhà ga >80%, đài kiểm soát >90%. Vốn PPP hơn 5.800 tỷ đồng (T&T – CIENCO4).",
+            "Quy hoạch nâng cấp 4E, hướng tới Boeing 777/787, A350; công suất khoảng 5 triệu HK/năm. Dự kiến khai thác thương mại khoảng tháng 3/2027."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/san-bay-quang-tri-hoan-thien-80-bat-dau-bay-ky-thuat-5132639.html"
+            }
+          ]
+        },
+        {
+          "headline": "TP HCM mở làn linh hoạt trên đường Trường Chinh khi thi công metro số 2",
+          "meta": "Chiều 15/10 · Tuổi Trẻ",
+          "body": [
+            "Sở Xây dựng: tháo dải phân cách cứng đoạn Tây Thạnh – mũi tàu Cộng Hòa, thay cọc tiêu/dải di động; 6h–9h ưu tiên hướng vào trung tâm ~4,5 làn, 16h–19h30 ưu tiên hướng An Sương.",
+            "Rào chắn ga S10 thu hẹp mặt đường hướng vào trung tâm từ 5 xuống ~3,5 làn; camera kết nối Trung tâm điều hành giao thông; bố trí xe cứu hộ tại Bảy Hiền, mũi tàu Cộng Hòa."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tphcm-mo-lan-linh-hoat-tren-duong-truong-chinh-de-giam-un-tac-100261015160112939.htm"
+            }
+          ]
+        },
+        {
+          "headline": "300 tấn quần áo cũ “từ thiện” bị đổ ven đường Phạm Hùng – Lê Đức Thọ (Hà Nội)",
+          "meta": "Chiều 15/10 · VnExpress",
+          "body": [
+            "Khoảng 300 tấn quần áo cũ thu gom làm từ thiện bị đổ tại khu dự án đường nối Phạm Hùng – Lê Đức Thọ (phường Từ Liêm), ngấm nước, bốc mùi; chi phí thu gom ước ~200 triệu đồng, dự kiến xong 16/10.",
+            "Công an phường làm việc với người đổ bỏ; mức phạt đổ chất thải rắn trái quy định có thể rất cao tùy khối lượng, kèm buộc chi trả chi phí xử lý."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/300-tan-quan-ao-cu-bi-do-bo-ven-duong-o-ha-noi-5132772.html"
+            }
+          ]
+        },
+        {
+          "headline": "Không khí Hà Nội lại ô nhiễm; Vĩnh Long cảnh báo triều cường cuối tháng 10",
+          "meta": "15/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Chỉ số chất lượng không khí Hà Nội xấu trở lại trong ngày 15/10 sau chuỗi nắng hanh. Song song, Vĩnh Long cảnh báo ngập do triều: đỉnh Mỹ Thuận từng cao hơn báo động III khoảng 11 cm; đợt mới dự báo cao cuối tháng 10.",
+            "Người dân vùng trũng, ven sông được khuyến cáo theo dõi mực nước và hạn chế lưu thông giờ triều lên."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khong-khi-ha-noi-lai-o-nhiem-5132541.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/vinh-long-canh-bao-ngap-do-trieu-cuong-dot-moi-du-bao-cao-vao-cuoi-thang-10-100261015155113959.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Thêm 5 hài cốt liệt sĩ quân tình nguyện Việt Nam được tìm thấy tại Lào",
+          "meta": "15/10 · Tuổi Trẻ",
+          "body": [
+            "Đội Quy tập hài cốt liệt sĩ Bộ Chỉ huy quân sự tỉnh Hà Tĩnh tìm thấy thêm 5 hài cốt liệt sĩ quân tình nguyện Việt Nam hy sinh tại Lào.",
+            "Công tác quy tập tiếp tục được hai nước phối hợp trong khuôn khổ quan hệ đặc biệt Việt – Lào (cũng được nhắc tại hội đàm cấp cao ngày 15/10)."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/them-5-hai-cot-liet-si-quan-tinh-nguyen-viet-nam-duoc-tim-thay-tai-lao-100261015144423035.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ngư dân cùng thuyền thúng trôi dạt hai ngày trên biển; hai phụ nữ bị lũ cuốn khi thăm vườn sầu riêng",
+          "meta": "15/10 · VnExpress",
+          "body": [
+            "Một ngư dân mất liên lạc, trôi dạt cùng thuyền thúng khoảng hai ngày trước khi được cứu. Cùng ngày, hai phụ nữ bị nước lũ cuốn khi đi thăm vườn sầu riêng; lực lượng địa phương tổ chức tìm kiếm.",
+            "Các vụ việc nhắc rủi ro thời tiết và an toàn lao động biển – nông thôn vào mùa mưa lũ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ngu-dan-cung-thuyen-thung-troi-dat-hai-ngay-tren-bien-5132668.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hai-phu-nu-bi-lu-cuon-khi-di-tham-vuon-sau-rieng-5132653.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Xác tàu 4.700 năm tuổi, lũ Istanbul, Onagawa tạm dừng và lễ cưới tập thể TP HCM.",
+      "items": [
+        {
+          "headline": "Phát hiện xác tàu đắm khoảng 4.700 năm tuổi ngoài khơi Thổ Nhĩ Kỳ — có thể cổ nhất thế giới",
+          "meta": "15/10 · Tuổi Trẻ",
+          "body": [
+            "Xác tàu nằm sâu khoảng 30 m ngoài khơi Thổ Nhĩ Kỳ, kèm vò gốm cổ, hé lộ manh mối thương mại hàng hải thời đồ đồng sớm.",
+            "Nếu niên đại được khẳng định, đây có thể là một trong những xác tàu đắm cổ nhất từng được ghi nhận."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/phat-hien-xac-tau-dam-4700-nam-tuoi-co-the-co-nhat-the-gioi-10026101510395246.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Istanbul: mưa lớn khiến nước lũ cuốn người và ôtô trên phố",
+          "meta": "15/10 · VnExpress",
+          "body": [
+            "Mưa lớn gây ngập cục bộ, video ghi nhận dòng nước cuốn người và xe trên đường phố Istanbul; lực lượng cứu hộ triển khai tại nhiều điểm.",
+            "Sự kiện nối chuỗi thời tiết cực đoan mùa thu tại khu vực Địa Trung Hải – Trung Đông."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khoanh-khac-nuoc-lu-cuon-troi-nguoi-oto-tren-duong-pho-istanbul-5132485.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nhật Bản tạm dừng lò phản ứng Onagawa vì rò rỉ nước",
+          "meta": "15/10 · VietnamPlus",
+          "body": [
+            "Nhà máy điện hạt nhân Onagawa tạm dừng vận hành lò phản ứng sau khi phát hiện rò rỉ nước; cơ quan quản lý và chủ đầu tư đang kiểm tra phạm vi và nguyên nhân.",
+            "Sự cố được theo dõi sát vì Nhật Bản đang từng bước khởi động lại một số nhà máy hạt nhân sau Fukushima."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/nhat-ban-tam-dung-lo-phan-ung-tai-nha-may-dien-hat-nhan-onagawa-do-ro-ri-nuoc-post1142192.vnp"
+            }
+          ]
+        },
+        {
+          "headline": "Hoàng hậu Thái Lan tự lái chuyên cơ đến Nhật Bản",
+          "meta": "15/10 · Tuổi Trẻ",
+          "body": [
+            "Hoàng hậu Thái Lan được ghi nhận tự điều khiển chuyên cơ trong chuyến đến Nhật Bản — hình ảnh hiếm về thành viên hoàng gia điều khiển máy bay.",
+            "Thông tin thu hút truyền thông khu vực về lịch trình và nghi thức ngoại giao hoàng gia."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/hoang-hau-thai-lan-tu-lai-chuyen-co-den-nhat-ban-100261015111016732.htm"
+            }
+          ]
+        },
+        {
+          "headline": "TP HCM tổ chức lễ cưới tập thể cho 52 cặp thanh niên công nhân, viên chức khó khăn",
+          "meta": "15/10 · HTV",
+          "body": [
+            "Trung tâm Hỗ trợ Thanh niên công nhân TP HCM phối hợp các đơn vị tổ chức lễ cưới tập thể cho 52 cặp đôi thanh niên công nhân, viên chức và người lao động có hoàn cảnh khó khăn.",
+            "Chương trình nhằm giảm chi phí ngày cưới và gắn kết cộng đồng lao động thành phố."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "HTV",
+              "url": "https://htv.vn/tin-tuc-noi-bat-ngay-15-10-2026-co-gi-222261015135815769.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Sợi lông công trên long bào Lê Dụ Tông — và bốn sự thật về ngày 15 tháng 10.",
+      "items": [
+        {
+          "headline": "Phát hiện sợi lông công trên long bào vua Lê Dụ Tông — lần đầu ghi nhận trên vải cổ Việt Nam",
+          "meta": "Chiều 15/10 · VnExpress (Hội thảo khảo cổ học toàn quốc)",
+          "body": [
+            "Nhóm nghiên cứu khảo sát hai long bào Lê Dụ Tông (Bảo tàng Lịch sử quốc gia, khai quật mộ Bái Trạch 1964) nhận diện sợi lông công đã xử lý thành sợi dệt ở chi tiết hỏa châu, lông mày, mắt rồng — vật liệu chưa từng được ghi nhận trên vải sợi cổ Việt Nam.",
+            "Còn phát hiện thêu sửa hình mũi rồng sau khi dệt và vẽ màu xanh đen phủ lên hoa văn; kỹ thuật có điểm tương đồng “khổng tước sợi” vân cẩm Nam Kinh thời Minh – Thanh, nhưng nguồn gốc vật liệu vẫn cần phân tích thêm."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/phat-hien-vat-lieu-moi-tren-long-bao-vua-le-du-tong-5132687.html"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 15/10/1917 — Mata Hari bị xử bắn gần Paris",
+          "meta": "AP / On This Day / History.com",
+          "body": [
+            "Vũ công Hà Lan Margaretha Geertruida Zelle (Mata Hari), 41 tuổi, bị tòa án quân sự Pháp kết tội gián điệp Đức trong Thế chiến I và bị xử bắn bởi đội hành quyết gần Paris (Vincennes).",
+            "Bà từ chối bịt mắt và thổi hôn người hành quyết theo nhiều tường thuật; vụ án vẫn là biểu tượng tranh cãi về gián điệp, giới tính và công lý thời chiến."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "AP – Today in History",
+              "url": "https://apnews.com/general-news-34814aae076d40c996a10e0b744f0850"
+            },
+            {
+              "name": "On This Day",
+              "url": "https://www.onthisday.com/date/1917/october/15"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 15/10/1863 — tàu ngầm H.L. Hunley chìm trong buổi thử, chết cả thủy thủ đoàn",
+          "meta": "History.com",
+          "body": [
+            "Tàu ngầm chiến đấu thành công đầu tiên trên thế giới (dài khoảng 12 m, vận hành bằng tay quay) chìm trong buổi trình diễn gần Charleston; nhà phát minh Horace Lawson Hunley và bảy thủy thủ thiệt mạng.",
+            "Hunley sau đó được trục vớt và năm 1864 đánh chìm tàu USS Housatonic — rồi cũng chìm lần nữa — đánh dấu bước đầu lịch sử tàu ngầm chiến đấu."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "History.com",
+              "url": "https://www.history.com/this-day-in-history/october-15"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 15/10/1951 — I Love Lucy lên sóng CBS lần đầu",
+          "meta": "History.com",
+          "body": [
+            "Sitcom I Love Lucy với Lucille Ball và Desi Arnaz phát sóng tập đầu trên CBS, trở thành một trong những chương trình truyền hình Mỹ ảnh hưởng nhất thế kỷ 20.",
+            "Show tiên phong kỹ thuật quay nhiều máy trước khán giả trực tiếp và định hình công thức sitcom gia đình hiện đại."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "History.com",
+              "url": "https://www.history.com/this-day-in-history/october-15"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 15/10/1844 — sinh nhật Friedrich Nietzsche",
+          "meta": "History.com / Britannica",
+          "body": [
+            "Triết gia Đức Friedrich Nietzsche chào đời ngày 15/10/1844. Ông đặt câu hỏi về động cơ đằng sau tôn giáo và đạo đức, ảnh hưởng sâu đến tư tưởng thế kỷ 20.",
+            "Các khái niệm như “ý chí quyền lực”, phê phán đạo đức nô lệ và hình tượng Übermensch tiếp tục được tranh luận trong triết học, văn học và văn hóa đại chúng."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "History.com",
+              "url": "https://www.history.com/this-day-in-history/october-15"
+            },
+            {
+              "name": "Britannica",
+              "url": "https://www.britannica.com/biography/Friedrich-Nietzsche"
+            }
+          ]
+        },
+        {
+          "headline": "Đà Lạt sửa nhiều tuyến đường nội ô đón Festival hoa",
+          "meta": "15/10 · VietnamPlus",
+          "body": [
+            "Lâm Đồng đẩy nhanh sửa chữa, nâng cấp nhiều tuyến đường nội ô Đà Lạt nhằm phục vụ Festival hoa và lượng khách du lịch tăng vào mùa lễ hội.",
+            "Công tác chỉnh trang đô thị đi cùng bảo đảm giao thông và trải nghiệm du khách trong mùa cao điểm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/lam-dong-sua-chua-nang-cap-nhieu-tuyen-duong-noi-o-da-lat-don-festival-hoa-post1142202.vnp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 15/10/2026 (giờ VN). Không lặp tin số sáng, trừ cập nhật thực sự trong ngày (Zelensky nối lại đánh lọc dầu, Houthi/Saudi sơ tán máy bay, Vành đai 4, giá xăng). Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
