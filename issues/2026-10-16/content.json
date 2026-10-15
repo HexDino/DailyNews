@@ -1,0 +1,1000 @@
+{
+  "date": "2026-10-16",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 16/10/2026 · Thứ Sáu · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Zelensky dỡ lệnh ngừng đánh lọc dầu Nga; Ryazan báo cháy nhà máy sau UAV",
+    "Meta Muse Spark Open 816B chạy trên Mac Studio M5 Ultra; FTC đòi OpenAI và Anthropic",
+    "Hà Nội ký EPC 5 tuyến metro ~253 km, vốn khoảng một triệu tỷ đồng",
+    "Conte liên hệ Man Utd khi Carrick chịu áp lực",
+    "TP HCM mùa mưa dị thường: 1/9–6/10 mưa cao nhất 46 năm"
+  ],
+  "followups": [
+    {
+      "title": "Nga – Ukraine và thoả thuận diesel Mỹ – Nga",
+      "update": "Chiều 15/10 ông Zelensky tuyên bố dỡ lệnh ngừng đánh lọc dầu Nga; Ryazan báo cháy nhà máy Rosneft sau UAV. Bài 16/10 phân tích việc Mỹ siết Starshield trùng đợt tên lửa Nga; Musk khẳng định hạn chế do Washington quyết.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ong-zelensky-ra-lenh-noi-lai-tap-kich-nha-may-loc-dau-nga-5132724.html"
+        },
+        {
+          "name": "VnExpress – Starlink",
+          "url": "https://vnexpress.net/ac-mong-tac-chien-voi-ukraine-khi-my-siet-starlink-5132690.html"
+        }
+      ]
+    },
+    {
+      "title": "Chiến sự Yemen lan sang Saudi Arabia",
+      "update": "Sau Aramco Dhahran và sân bay King Khalid, Saudi sơ tán gần 100 máy bay khỏi Riyadh (Flightradar24). Chưa có đòn mới được VnExpress xác nhận sáng 16/10; vẫn theo dõi bảo hiểm hàng không và tuyên bố Houthi.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/arab-saudi-so-tan-gan-100-may-bay-vi-mua-tap-kich-cua-houthi-5132635.html"
+        }
+      ]
+    },
+    {
+      "title": "Man City và 114 cáo buộc vi phạm tài chính",
+      "update": "Không có diễn biến pháp lý mới sáng 16/10 sau thất bại 2-4 trước PSG; lịch CL: Man City – AEK Athens 20/10. Truyền thông Anh vẫn tranh luận sau phát biểu Maresca.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-06",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/man-city-thua-psg-trong-ngay-guardiola-tro-lai-5132435.html"
+        }
+      ]
+    },
+    {
+      "title": "Quy tập hài cốt liệt sĩ ở công viên Lê Thị Riêng",
+      "update": "Giai đoạn 1 đã an táng 731 hài cốt (14/10). Thêm tin Đội Quy tập Hà Tĩnh tìm 5 hài cốt liệt sĩ quân tình nguyện tại Lào (15/10) — mạch quy tập tiếp tục ngoài công viên.",
+      "status": "giai đoạn 1 hoàn tất",
+      "first_issue": "2026-10-13",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hoan-tat-an-tang-731-hai-cot-liet-si-o-cong-vien-le-thi-rieng-5132380.html"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/them-5-hai-cot-liet-si-quan-tinh-nguyen-viet-nam-duoc-tim-thay-tai-lao-100261015144423035.htm"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "CNN (15/10): Mỹ xem xét phương án MOAB nếu tái tấn công Iran; hai tàu hàng chìm ở Hormuz. Sáng 16/10 chưa có cập nhật quân sự mới trên các nguồn đã kiểm — vẫn mở.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/my-co-the-dung-me-cua-cac-loai-bom-de-tap-kich-iran-5132627.html"
+        },
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/10/15/politics/us-considering-mother-of-all-bombs-iran"
+        }
+      ]
+    },
+    {
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn thăm Trung Quốc",
+      "update": "Đoàn về Hà Nội chiều 15/10, kết thúc chuyến thăm; đã đồng chủ trì phiên họp lần 2 Ủy ban hợp tác QH Việt Nam – Nhân đại Trung Quốc.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-11",
+      "sources": [
+        {
+          "name": "VietnamPlus",
+          "url": "https://www.vietnamplus.vn/chu-tich-quoc-hoi-tran-thanh-man-ve-den-ha-noi-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-trung-quoc-post1142132.vnp"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-16",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Hội nghị toàn quốc quán triệt Nghị quyết Trung ương 4 khóa XIV",
+      "topic": "Chính trị",
+      "note": "",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/chinh-tri/toan-van-bai-phat-bieu-be-mac-cua-tong-bi-thu-chu-tich-nuoc-tai-hoi-nghi-trung-uong-4-khoa-xiv-post1339553.vov"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16–18/10",
+      "timezone": "giờ VN",
+      "title": "Bắc Bộ có khả năng mưa rào, dông rải rác sau chuỗi ngày nắng hanh",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/du-bao-thoi-tiet-tu-11-den-17-10-bac-bo-cuoi-tuan-mua-trung-bo-va-nam-bo-mua-rao-100261010161428734.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "22:00–1:00",
+      "timezone": "giờ VN",
+      "title": "Cao tốc Mỹ Thuận – Cần Thơ có thể tạm dừng xe để lắp dầm (16–19/10)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/cao-toc-my-thuan-can-tho-han-che-xe-de-thi-cong-cau-vuot-5132392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "time": "sáng",
+      "timezone": "giờ VN",
+      "title": "Khai mạc Kỳ họp thứ hai Quốc hội khóa XVI",
+      "topic": "Chính trị",
+      "note": "Dự kiến xem xét 43 luật, nghị quyết; làm việc cả một số ngày cuối tuần; bế mạc khoảng 21/11.",
+      "sources": [
+        {
+          "name": "DNTT",
+          "url": "https://doanhnghieptiepthi.vn/quoc-hoi-lam-viec-ca-cuoi-tuan-xem-xet-43-luat-nghi-quyet-161261013154413411.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "time": "17–18/10",
+      "timezone": "giờ VN",
+      "title": "Tổng thống Thụy Sĩ Guy Parmelin và Phu nhân thăm chính thức Việt Nam",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tong-thong-thuy-si-sap-tham-viet-nam-5132806.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 4: Ninh Bình – HAGL",
+      "topic": "Bóng đá",
+      "note": "HAGL vừa có chiến thắng đầu tiên, 3-0 trước Đà Nẵng.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hagl-tim-lai-niem-vui-o-v-league-5130803.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Real Madrid – Sevilla, vòng 9 La Liga",
+      "topic": "Bóng đá",
+      "note": "Vinicius có thể bị treo giò / đã phản đối Mourinho khi bị thay.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vinicius-phan-doi-mourinho-khi-bi-thay-ra-5132543.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Man Utd làm khách Leeds United (Ngoại hạng Anh)",
+      "topic": "Bóng đá",
+      "note": "Phép thử cho Carrick giữa tin Conte liên hệ.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/conte-lien-he-voi-man-utd-5132869.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "sáng",
+      "timezone": "giờ VN",
+      "title": "Sà lan nhịp chính cầu đi bộ sông Sài Gòn dự kiến tới bến Bạch Đằng",
+      "topic": "Đời sống",
+      "note": "Lai dắt từ Đông Xuyên ~124 km; hợp long hướng tới 21/10.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-dan-xe-sieu-truong-ha-thuy-nhip-cau-di-bo-nang-3-400-tan-bac-qua-song-sai-gon-5132906.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "time": "13:00–19:00",
+      "timezone": "giờ VN",
+      "title": "Tạm cấm luồng thủy khu vực thi công cầu đi bộ sông Sài Gòn (neo sà lan)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-dan-xe-sieu-truong-ha-thuy-nhip-cau-di-bo-nang-3-400-tan-bac-qua-song-sai-gon-5132906.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "time": "trong ngày",
+      "timezone": "giờ CET",
+      "title": "Man City – AEK Athens, Champions League (lượt 3)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/man-city-thua-psg-trong-ngay-guardiola-tro-lai-5132435.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Dự kiến hợp long cầu đi bộ qua sông Sài Gòn",
+      "topic": "Đời sống",
+      "note": "Tạm cấm luồng 2h–18h ngày 21 và 22/10; thời điểm có thể điều chỉnh theo mực nước.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-dan-xe-sieu-truong-ha-thuy-nhip-cau-di-bo-nang-3-400-tan-bac-qua-song-sai-gon-5132906.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "trong ngày",
+      "timezone": "giờ CET",
+      "title": "Real Madrid – PSV, Champions League (lượt 3)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/real-ghi-ba-ban-trong-bay-phut-de-thang-nguoc-as-roma-5132436.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "21:00",
+      "timezone": "giờ CEST",
+      "title": "El Clásico Barcelona – Real Madrid, vòng 10 La Liga",
+      "topic": "Bóng đá",
+      "note": "Spotify Camp Nou.",
+      "sources": [
+        {
+          "name": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/matches/138374/fc-barcelona-real-madrid-la-liga-2026-2027"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "time": "trong ngày",
+      "timezone": "giờ địa phương",
+      "title": "Hết hạn chương trình dùng thử Chaos Veras 14 ngày",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Chaos",
+          "url": "https://www.chaos.com/veras/trial"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "time": "trong ngày",
+      "timezone": "giờ địa phương",
+      "title": "Hết giá giới thiệu Gemini 4 Argon API (2/10 USD mỗi triệu token)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Gemini API pricing",
+          "url": "https://ai.google.dev/gemini-api/docs/pricing"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Meta ra Muse Spark Open (816B) — chạy trên hai Mac Studio M5 Ultra nhờ MLX; Zuckerberg và CEO Apple John Ternus công khai ủng hộ nhau",
+          "meta": "The Verge / Meta · 15/10 (Mỹ)",
+          "body": [
+            "Meta công bố Muse Spark Open, gọi là mô hình open-weight Mỹ “khả năng cao nhất đến nay”: đa phương thức gốc, 816 tỷ tham số, hướng tới tác vụ dài hạn, kỹ thuật phần mềm phức tạp và suy luận nhiều bước. Điểm nổi bật: Meta nói đây là mô hình cùng hạng đầu tiên chạy trên desktop với hai Apple Mac Studio M5 Ultra dùng khung MLX mới nhất.",
+            "Meta và Apple — thường là đối thủ — cộng tác nhiều tháng; Mark Zuckerberg viết trên X rằng weights phát hành trong ngày chạy tốt trên Mac Studio nhờ làm việc với John Ternus; Ternus (CEO Apple mới) chúc mừng và nói Mac Studio tiếp tục đẩy biên AI on-device. Alexandr Wang (Meta) nói với Axios hai bên đã “chơi đẹp” trở lại. Số liệu benchmark do Meta công bố."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
+            }
+          ]
+        },
+        {
+          "headline": "FTC Mỹ được cho là đã gửi trát đòi OpenAI và Anthropic về sự cố an ninh AI",
+          "meta": "The Verge (theo Axios) · 15/10",
+          "body": [
+            "Theo Axios được The Verge dẫn, Ủy ban Thương mại Liên bang Mỹ (FTC) đã gửi trát đòi tài liệu liên quan sự cố an ninh AI của OpenAI và Anthropic, kèm hồ sơ về thực hành an toàn, chính sách quyền riêng tư người tiêu dùng và tài liệu marketing — trong khuôn khổ điều tra khả năng vi phạm bảo vệ người tiêu dùng. Nguồn tin Axios còn nói FTC dự kiến buộc lãnh đạo cấp cao các hãng AI ra điều trần về sản phẩm.",
+            "Đây là bước pháp lý song song với các vụ kiện bang Mỹ về an toàn ChatGPT với trẻ em (đã đưa số sáng 15/10). Chưa có phán quyết; các hãng chưa công bố phản hồi chi tiết trên bài Verge."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1012368/the-ftc-reportedly-subpoenaed-openai-and-anthropic-for-info-on-ai-security-incidents"
+            }
+          ]
+        },
+        {
+          "headline": "Anthropic cấp quyền truy cập “gần như nhân viên” cho nhóm đánh giá an toàn METR",
+          "meta": "The Verge · 15/10",
+          "body": [
+            "Anthropic cho sáu nhân viên tổ chức đánh giá an toàn AI độc lập METR quyền truy cập phần cứng và công cụ nội bộ “tương đương gần như” đội đánh giá rủi ro của chính Anthropic. METR sẽ công bố báo cáo về mức rủi ro, sự cố và thực hành của Anthropic; Anthropic vẫn có thể yêu cầu che một số thông tin (cơ chế nội bộ mô hình, dữ liệu khách hàng).",
+            "Động thái nhằm tăng minh bạch đánh giá độc lập trước bối cảnh IPO và giám sát quy định (EU AI Act, FTC). Chi tiết triển khai theo thông báo Anthropic được The Verge dẫn."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1012308/anthropic-metr-employee-like-access"
+            }
+          ]
+        },
+        {
+          "headline": "Claude Platform: OpenTelemetry tracing public beta — theo dõi agent, token, tool use trong Langfuse/LangSmith/Sentry/Grafana",
+          "meta": "Anthropic / Claude docs · 14/10",
+          "body": [
+            "Anthropic công bố (14/10) hỗ trợ OpenTelemetry traces trên Claude Platform: Managed Agents, Messages API và Claude SDK xuất span chuẩn OTel (độ trễ, token, model, tool) tới công cụ quan sát hiện có. SDK dùng tracer provider của ứng dụng; API/Managed Agents cần đăng ký đích OTLP/HTTP trong Claude Console.",
+            "Public beta; chế độ nội dung mặc định metadata_only (không gồm prompt/response trừ khi chọn). Mục tiêu giúp debug agent “hộp đen”, theo dõi chi phí và độ tin cậy — hữu ích cho team xây coding agent/production agent."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Claude – Agent observability",
+              "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform"
+            },
+            {
+              "name": "Claude docs – OpenTelemetry",
+              "url": "https://platform.claude.com/docs/en/manage-claude/opentelemetry"
+            }
+          ]
+        },
+        {
+          "headline": "ChatGPT trên Chrome: đọc tab đang mở, sidebar đầy đủ lịch sử; Work có thể điều khiển tab (điền form, tải file)",
+          "meta": "The Verge · 15/10",
+          "body": [
+            "Sau khi trình duyệt Atlas bị gỡ, OpenAI nâng cấp extension ChatGPT cho Google Chrome: khi gắn thẻ Chrome trong app web/desktop, ChatGPT có thể xem các tab đang mở (demo so sánh sofa trên nhiều tab). Sidebar mang “toàn bộ sức mạnh ChatGPT” và lịch sử Chat/Work mà không rời trang.",
+            "ChatGPT Work còn được mô tả có thể “điều khiển” tab Chrome cho tác vụ như gửi tin, điền form, tải file — tương tự auto browse của Gemini — và nhóm/sắp xếp tab. Cần cài extension; rủi ro quyền riêng tư khi AI đọc nội dung tab."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+            }
+          ]
+        },
+        {
+          "headline": "OpenAI góp 5 triệu USD (gói 15 triệu do Simons Foundation dẫn) giúp toán học gia thẩm định nghiên cứu do AI sinh",
+          "meta": "The Verge · 15/10",
+          "body": [
+            "OpenAI tài trợ 5 triệu USD trong sáng kiến khoảng 15 triệu USD do Simons Foundation dẫn dắt (Anthropic cũng góp) nhằm hỗ trợ cộng đồng toán học xử lý lượng lớn preprint/kết quả do AI tạo — sau tuần OpenAI đổ hàng trăm bản thảo lên cộng đồng nghiên cứu.",
+            "Song song, repo công khai openai/math trên GitHub chứa manuscript và artifact chứng minh Lean từ đánh giá nội bộ OpenAI (719 manuscript / 372 family; ~42% kết quả top-line đã formalize theo README). Repo cảnh báo một số kết quả chưa formalize có thể có lỗi."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1012049/openai-is-giving-5-million-to-help-mathematicians-make-sense-of-ai-generated-research"
+            },
+            {
+              "name": "GitHub – openai/math",
+              "url": "https://github.com/openai/math"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "Chọn repo agent/tool mới nổi; số sao lấy từ GitHub API sáng 16/10 (giờ VN). Đã bỏ qua caveman, superpowers, impeccable, Understand-Anything (đã đưa số trước).",
+      "items": [
+        {
+          "headline": "browser-use/jev-ultrafast: browser agent action-space động — demo Google Flights Zürich→London ~7,1 giây",
+          "meta": "GitHub · ~23,0 nghìn sao · MIT · Python",
+          "body": [
+            "Jev Ultrafast (Browser Use × TypeSafe) là browser agent với không gian thao tác được lập chỉ mục động: mỗi quan sát sinh bảng phần tử; agent chọn thao tác (CLICK, TYPE_TEXT, SELECT, SCROLL, WAIT…) và mục tiêu; LLM nhỏ chỉ sinh text khi cần TYPE_TEXT.",
+            "README nêu demo tìm chuyến Zürich→London trên Google Flights khoảng 7,1 giây (gồm sinh tên thành phố và chờ tải). Có cloud waitlist. Số sao lấy từ GitHub API sáng 16/10 (giờ VN)."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – jev-ultrafast",
+              "url": "https://github.com/browser-use/jev-ultrafast"
+            }
+          ]
+        },
+        {
+          "headline": "yetone/magpie: một gateway local — Claude Code trên Kimi, Codex trên DeepSeek, đổi model từ menu bar",
+          "meta": "GitHub · ~13,4 nghìn sao · MIT · Go",
+          "body": [
+            "Magpie gom cấu hình model/key/base URL của nhiều coding agent vào một app và gateway local: chuyển Claude Code sang Kimi, Codex sang DeepSeek, Gemini CLI sang GLM… từ menu bar; hết quota có thể chuyển tài khoản tiếp theo.",
+            "Hỗ trợ macOS/Windows/Linux/Docker/Termux theo README. Hướng tới người dùng chạy nhiều harness và nhiều gói thuê bao song song. Số sao lấy từ API sáng 16/10 (giờ VN)."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – magpie",
+              "url": "https://github.com/yetone/magpie"
+            }
+          ]
+        },
+        {
+          "headline": "openai/math: 719 manuscript toán do mô hình OpenAI nội bộ — Lean formalization ~42% kết quả top-line",
+          "meta": "GitHub · ~14,9 nghìn sao · Apache-2.0 · Lean",
+          "body": [
+            "Repo openai/math công bố manuscript và artifact chứng minh từ đánh giá mô hình nội bộ trên bài toán nghiên cứu mở (sau khi benchmark toán cũ bão hòa). Hiện 719 manuscript gom 372 family theo ngành; có overview.pdf, CONTENTS.md, thư mục preprints/ và thư viện Lean.",
+            "README nêu ~42% kết quả top-line đã formalize; một số bản chưa formalize có thể có lỗi và sẽ được sửa. Liên quan sáng kiến tài trợ thẩm định nghiên cứu AI nêu ở mục AI. Số sao lấy từ API sáng 16/10 (giờ VN)."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – openai/math",
+              "url": "https://github.com/openai/math"
+            }
+          ]
+        },
+        {
+          "headline": "wheresryan22/anatomy: skill Claude — giải thích ý tưởng bằng mô hình isometric tương tác (SVG/WebGL/3D)",
+          "meta": "GitHub · ~12,7 nghìn sao · MIT · JavaScript",
+          "body": [
+            "Anatomy là agent skill (Claude Code, Antigravity, OpenCode, Codex, MiniMax Code) tạo hình isometric chi tiết, tương tác để “giải thích bằng cách dựng vật thật”. Cài bằng npx skills add; không phụ thuộc runtime ngoài Node ≥20.10 theo README.",
+            "Phù hợp tài liệu kỹ thuật, sản phẩm và giáo dục khi cần hình thay vì đoạn văn dài. Số sao lấy từ API sáng 16/10 (giờ VN)."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – anatomy",
+              "url": "https://github.com/wheresryan22/anatomy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Google làm nổi bật link nội tuyến hơn trong AI Mode và AI Overviews; thử carousel tin “đúng thời điểm”",
+          "meta": "The Verge · 15/10",
+          "body": [
+            "Google cập nhật trải nghiệm AI tìm kiếm: link nội tuyến xuất hiện “cao hơn và thường xuyên hơn” trong AI Mode/AI Overviews để nhà xuất bản dễ được click. Thử nghiệm đưa link liên quan lên đầu câu trả lời cho một số truy vấn; mở rộng carousel bài “đúng thời điểm”; làm link cuối câu trả lời bắt mắt hơn (thumbnail).",
+            "Hơn 400 nhà xuất bản tham gia thí điểm News AI (trả phí nội dung nâng cao); Axios, CNN, Financial Times được Google nêu là đối tác mới. Bối cảnh lo ngại AI search giảm traffic reportage."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links"
+            }
+          ]
+        },
+        {
+          "headline": "Drylab AI (startup Việt): gọi vốn hạt giống 3 triệu USD — agent AI cho nghiên cứu khoa học sự sống",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Drylab AI, startup của ba nhà sáng lập Việt (thành lập 2025), huy động 3 triệu USD vòng seed do Vertex Ventures Southeast Asia & India dẫn, có PatSnap tham gia. Nền tảng Agentic AI cho nhà khoa học đặt câu hỏi ngôn ngữ tự nhiên; hệ thống lập kế hoạch, chọn trong hơn 800 công cụ/CSDL và hỗ trợ kiểm tra kết quả.",
+            "Hướng “Self-Improving Scientific Intelligence”: lưu quy trình đã kiểm chứng để tái dùng theo lab. Khách trả phí gồm dược, trung tâm ung thư, viện nghiên cứu, đại học (Mỹ, châu Âu, châu Á). Vốn mới dùng mở rộng sales, tuyển kỹ sư/sinh học và chứng nhận bảo mật."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/startup-viet-goi-von-3-trieu-usd-cho-ai-ho-tro-nha-khoa-hoc-5132272.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đà Nẵng nghiệm thu drone tải 80–120 kg và xuồng máy phục vụ cứu hộ ngập lụt, sạt lở",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Bộ Chỉ huy Quân sự TP Đà Nẵng ngày 15/10 nghiệm thu quy trình lắp ráp, vận hành xuồng cao su gắn động cơ và drone tải hàng 80–120 kg trong điều kiện thực tế. Xuồng hỗ trợ tiếp cận/sơ tán vùng ngập; drone chuyển lương thực tới điểm cô lập đường bộ/thủy không vào được.",
+            "Mục tiêu hiện đại hóa trang thiết bị phòng thủ dân sự sau các đợt mưa lũ, sạt lở cuối 2025 khi drone đã được dùng tiếp tế khu vực bị chia cắt."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/da-nang-thu-nghiem-drone-tai-trong-120-kg-phuc-vu-cuu-ho-5132878.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "BIM & openBIM",
+      "title": "Xây dựng · BIM & openBIM",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "OSArch: mock-up clash detection trên BonsaiViewer — IDS/IfcTester, xuất BCF; Moult gợi ý IfcClash",
+          "meta": "OSArch · 15/10",
+          "body": [
+            "Thành viên Elobo (Jocelin Birling) chia sẻ mock-up phần mềm phát hiện xung đột (clash) dùng GUI BonsaiViewer: trang tạo/lưu file rule; trang lọc false positive và gửi kết quả thành BCF topic. Logic clash viết Python + PythonOCC, chọn đối tượng bằng IDS (IfcTester).",
+            "Tác giả hỏi cộng đồng về chạy Python trong BonsaiViewer (C++) hay dịch sang C++ bằng AI; mong tích hợp vào BonsaiViewer thay vì viewer độc lập. Moult gợi ý xem IfcClash sẵn có trong hệ sinh thái IfcOpenShell."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch",
+              "url": "https://community.osarch.org/discussion/3713/bonsaiviewer-and-clash-detection"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Conte chủ động liên hệ Man Utd khi Carrick chịu áp lực sau khởi đầu mùa kém",
+          "meta": "VnExpress (theo talkSPORT) · 15/10",
+          "body": [
+            "Qua người đại diện, Antonio Conte bày tỏ muốn dẫn Man Utd ngay; ban lãnh đạo chưa quyết sa thải Michael Carrick và vẫn công khai ủng hộ HLV Anh. Conte thất nghiệp từ mùa hè sau Napoli; mùa hè đã tiếp cận Jason Wilcox nhưng CLB chọn Carrick chính thức.",
+            "Man Utd đứng khoảng thứ 13 NHA (6 điểm/6 vòng), thua 4/9 trận mọi đấu trường, chuỗi không thắng 5 trận sau hòa Tottenham và thua Atletico 0-2. Ứng viên khác được nhắc: Hürzeler, Nagelsmann, Eddie Howe. Trận Leeds (18/10) là phép thử ngắn hạn cho Carrick."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/conte-lien-he-voi-man-utd-5132869.html"
+            }
+          ]
+        },
+        {
+          "headline": "Lo ngại an toàn Asian Cup 2027; AFC có khả năng hoãn giải",
+          "meta": "VnExpress · 15–16/10",
+          "body": [
+            "VnExpress nêu lo ngại về an toàn tại Asian Cup 2027 và khả năng Liên đoàn bóng đá châu Á (AFC) hoãn giải — bối cảnh địa chính trị khu vực và công tác tổ chức. Chi tiết phương án thay thế chưa được AFC chốt công khai trên các bài được dẫn.",
+            "Độc giả Việt Nam theo dõi vì ĐT Việt Nam thường dự vòng loại/chung kết khu vực; lịch thi đấu quốc tế 2027 có thể xáo trộn nếu hoãn."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/lo-ngai-ve-an-toan-o-asian-cup-2027-5132709.html"
+            },
+            {
+              "name": "VnExpress – AFC hoãn",
+              "url": "https://vnexpress.net/ldbd-chau-a-co-kha-nang-hoan-asian-cup-2027-5132572.html"
+            }
+          ]
+        },
+        {
+          "headline": "Chị gái Ronaldo: 'Em trai tôi có thể không trở lại đội tuyển'",
+          "meta": "VnExpress · 16/10",
+          "body": [
+            "Theo VnExpress, chị gái Cristiano Ronaldo phát biểu rằng anh có thể không quay lại đội tuyển quốc gia — tín hiệu về tương lai quốc tế của cầu thủ 41 tuổi sau chuỗi năm gắn bó Bồ Đào Nha.",
+            "Đây là phát ngôn gia đình, chưa phải thông báo chính thức từ Ronaldo hay LĐBĐ Bồ Đào Nha."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chi-gai-ronaldo-em-trai-toi-co-the-khong-tro-lai-doi-tuyen-5132918.html"
+            }
+          ]
+        },
+        {
+          "headline": "U17 Việt Nam tập huấn Hàn Quốc, UAE trước FIFA U17 World Cup",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Đội U17 Việt Nam sẽ tập huấn tại Hàn Quốc và UAE để chuẩn bị cho vòng chung kết FIFA U17 World Cup — bước nâng cấp đối thủ và điều kiện thi đấu trước giải trẻ thế giới."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/u17-viet-nam-tap-huan-o-han-quoc-uae-truoc-khi-du-world-cup-5132871.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Zelensky dỡ lệnh ngừng đánh lọc dầu Nga; Ryazan báo cháy nhà máy sau loạt UAV",
+          "meta": "VnExpress (FT, AFP, Reuters) · 15/10",
+          "body": [
+            "Trong phỏng vấn Financial Times công bố 15/10, Tổng thống Ukraine tuyên bố lệnh ngừng tấn công nhà máy lọc dầu Nga “đã chấm dứt”. Cùng ngày, lãnh đạo tỉnh Ryazan thông báo UAV Ukraine gây cháy tại nhà máy lọc dầu Rosneft (khoảng 5% công suất lọc dầu Nga); chưa ghi nhận thương vong theo phía Nga địa phương.",
+            "Ông nói Kiev cạn kiên nhẫn vì Nga tiếp tục đánh hạ tầng năng lượng (hơn 600.000 người mất điện), cáo buộc Mỹ hạn chế tình báo và Starlink; chỉ cân nhắc dừng đánh lọc dầu nếu Mỹ cung cấp thêm tên lửa Patriot — “điều kiện tối thiểu”. Naftogaz cùng ngày báo Nga đánh cơ sở khí Poltava."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-zelensky-ra-lenh-noi-lai-tap-kich-nha-may-loc-dau-nga-5132724.html"
+            }
+          ]
+        },
+        {
+          "headline": "Phân tích: siết Starshield khiến Ukraine mất 'xương sống' liên lạc drone giữa lúc Nga dội tên lửa",
+          "meta": "VnExpress · 16/10",
+          "body": [
+            "Bài phân tích VnExpress (Reuters/AFP/AP): đêm 14/10 Ukraine bất ngờ mất/bị hạn chế Starshield (biến thể quân sự Starlink do Bộ Quốc phòng Mỹ quản lý) không báo trước, trùng thời điểm Nga phóng hàng chục tên lửa đạn đạo vào hạ tầng năng lượng.",
+            "Giới chức Ukraine nói hạn chế tốc độ và ngưỡng ~160 km/h làm drone hạng nặng/tự sát và drone đánh chặn mất tín hiệu. Elon Musk khẳng định giới hạn do quân đội Mỹ và cuối cùng là Tổng thống quyết. Serhiy Beskrestnov (cố vấn công nghệ của Zelensky) gọi đây là đòn chính trị, không phải sự cố kỹ thuật ngẫu nhiên."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ac-mong-tac-chien-voi-ukraine-khi-my-siet-starlink-5132690.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thủ tướng Lê Minh Hưng đối thoại thanh niên: cơ chế nhà ở cho người trẻ, kiểm soát giá NOXH và thuê nhà",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Tại chương trình đối thoại thanh niên 2026 chiều 15/10, Thủ tướng khẳng định Chính phủ sẽ hỗ trợ người trẻ thuê/mua nhà chi phí phù hợp; kiểm soát giá nhà ở xã hội và nhà thuê; chỉ đạo NHNN đôn đốc tín dụng NOXH theo NQ 33/2023 và hoàn thiện đề án vay thuê nhà dài hạn (kể cả tái cấp vốn).",
+            "Chính phủ đang trình Quốc hội Luật Nhà ở và Luật Kinh doanh BĐS sửa đổi. Thủ tướng cũng giao các bộ chỉ tiêu nhân lực trẻ AI/vũ trụ/năng lượng nguyên tử (Q4/2026), khởi nghiệp và giáo dục gắn AI có trách nhiệm."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thu-tuong-se-co-co-che-dap-ung-nhu-cau-nha-o-cho-nguoi-tre-5132902.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội ký hợp đồng chìa khóa trao tay 5 tuyến metro ~253 km, vốn khoảng một triệu tỷ đồng",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Chiều 15/10, Ban Quản lý đường sắt đô thị Hà Nội ký EPC/Turnkey với liên danh Vinhomes – SGC cho 5 tuyến số 1, 2, 8, 10, 14 (tổng ~253 km). Mục tiêu suất đầu tư không vượt ~120 triệu USD/km; khởi công giữa tháng 6/2026, hoàn thành hướng tới 2030.",
+            "Liên danh đặt hơn 100 dây chuyền TBM và trên 50 dây chuyền tường vây; Vinhomes đã ký Alstom cung cấp 200 đoàn tàu Metropolis 5 toa. Quy hoạch Thủ đô tầm nhìn 100 năm nêu mạng metro ~979 km; Hà Nội hướng ~500 km đến 2035."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ha-noi-ky-hop-dong-chia-khoa-trao-tay-5-tuyen-metro-khoang-mot-trieu-ty-dong-5132852.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng Bí thư Tô Lâm tiếp Thường trực Ban Bí thư Lào Vilay Lakhamphong",
+          "meta": "Báo Tin tức / Vietnam News · 15/10",
+          "body": [
+            "Chiều 15/10 tại Trụ sở Trung ương Đảng, Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp đồng chí Vilay Lakhamphong, Ủy viên Bộ Chính trị, Thường trực Ban Bí thư Đảng NDCM Lào và Đoàn cấp cao nhân chuyến thăm chính thức Việt Nam. Việt Nam khẳng định ưu tiên cao quan hệ đặc biệt với Lào.",
+            "Cùng ngày Chủ tịch Quốc hội Trần Thanh Mẫn và Bộ trưởng Công an cũng tiếp đoàn. Chuyến thăm nối mạch chuẩn bị Năm Đoàn kết Hữu nghị Việt – Lào 2027."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Báo Tin tức",
+              "url": "https://baotintuc.vn/"
+            },
+            {
+              "name": "Vietnam News",
+              "url": "https://vietnamnews.vn/"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Trump hủy kế hoạch phát trực tiếp buổi xử bắn tử tù",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Theo VnExpress, Tổng thống Mỹ Donald Trump hủy kế hoạch phát trực tiếp một buổi thi hành án tử hình — động thái gây tranh cãi về minh bạch tư pháp và quyền riêng tư nạn nhân/gia đình. Chi tiết lý do hủy theo tường thuật báo chí trong ngày."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-trump-huy-ke-hoach-phat-truc-tiep-buoi-xu-ban-tu-tu-5132904.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Châu Tấn thắng Diễn viên xuất sắc Liên hoan phim Busan với The First Taste of Loneliness",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Tại bế mạc BIFF tối 15/10, Châu Tấn (52 tuổi) nhận giải Diễn viên xuất sắc nhờ vai nhà thiết kế Giang Nguyệt trong The First Taste of Loneliness (Cố Hiểu Cương) — phần kết bộ ba Sơn Thủy về ba thế hệ phụ nữ bên sông Tiền Đường.",
+            "Screen Daily khen lối diễn tiết chế. Phim hay nhất thuộc Midday Meal của Majid Majidi (từ 2027 đủ điều kiện xét Oscar Phim quốc tế). BIFF 31 chiếu 315 phim (6–15/10)."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chau-tan-thang-dien-vien-xuat-sac-lien-hoan-phim-busan-5132877.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hoàng Thùy Linh ra MV Thầy dùi — châm biếm thói gièm pha, lấy cảm hứng văn hóa dân gian",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Tối 15/10, Hoàng Thùy Linh phát hành MV Thầy dùi (nhạc Khắc Hưng, đạo diễn Nhu Đặng), dự án mới sau khoảng ba năm kể từ Miền đất hứa với Đen Vâu. “Thầy dùi” là kẻ gièm pha, xúi giục để mình hưởng lợi; MV dùng thành ngữ dân gian và tín ngưỡng thờ Mẫu, gợi họa Mai Trung Thứ.",
+            "Phối khí pha hát chầu văn với trống đương đại; thông điệp “đừng ai như ông thầy dùi” — chuyên tâm làm việc và đối đãi thiện ý."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hoang-thuy-linh-ra-mv-cham-biem-thoi-xau-5132916.html"
+            }
+          ]
+        },
+        {
+          "headline": "Phát hiện sợi lông công trên long bào vua Lê Dụ Tông — vật liệu mới trên vải cổ Việt Nam",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Tại hội thảo khảo cổ học toàn quốc, nhóm nghiên cứu khảo sát long bào Lê Dụ Tông (Bảo tàng Lịch sử quốc gia) nhận diện sợi lông công đã xử lý thành sợi dệt ở chi tiết hỏa châu, lông mày, mắt rồng — chưa từng ghi nhận trên vải sợi cổ Việt Nam.",
+            "Còn thấy thêu sửa mũi rồng và vẽ màu phủ hoa văn; kỹ thuật gợi “khổng tước sợi” vân cẩm Nam Kinh Minh–Thanh, nhưng nguồn vật liệu cần phân tích thêm."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/phat-hien-vat-lieu-moi-tren-long-bao-vua-le-du-tong-5132687.html"
+            }
+          ]
+        },
+        {
+          "headline": "10.000 vé concert Mỹ Tâm 'cháy' sau khoảng 5 phút",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Theo VnExpress, khoảng 10.000 vé concert của Mỹ Tâm bán hết trong khoảng năm phút — tín hiệu sức hút lớn của show ca sĩ hàng đầu V-pop với khán giả trong nước."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/10-000-ve-concert-cua-my-tam-chay-sau-5-phut-5132670.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "TP HCM: mùa mưa dị thường — tháng 9 và đầu 10 lượng mưa cao nhất 46 năm dù đầu mùa khô kỷ lục",
+          "meta": "VnExpress · 16/10",
+          "body": [
+            "Phân tích dữ liệu trạm Tân Sơn Hòa: tháng 5–8 mưa thiếu hụt sâu (ba tháng 6–8 thấp nhất 20 năm), nhưng 1/9–6/10 tổng mưa 680,5 mm — cao nhất cùng kỳ từ 1980 (vượt kỷ lục 2012). Tháng 9 cao hơn trung bình 48% dù đang El Niño mạnh — trái quy luật thiếu mưa thường thấy.",
+            "Mưa dồn cường độ cao (trung bình ngày mưa 27,2 mm — kỷ lục); Nhà Bè từng 187,5 mm/24h (21–22/9). Chuyên gia gắn với đảo nhiệt đô thị; TP HCM từng xếp đầu nhóm đô thị lớn về chênh lệch mưa trung tâm–ven."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/mua-mua-di-thuong-o-tp-hcm-5132888.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội tăng giá trông giữ ôtô, xe máy từ 15/10 — đô thị lõi ôtô có thể 45–70 nghìn đồng/lượt",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "UBND Hà Nội ban hành giá dịch vụ trông giữ trên lòng đường/hè phố vốn ngân sách: xe đạp/máy tăng từ 5.000 lên 10.000 đồng/lượt; ôtô đô thị lõi (trong/trên vành đai 1) khoảng 45.000–70.000 đồng/lượt (60 phút). Vành đai 3–4 thấp hơn (khoảng 20–34 nghìn).",
+            "Giá cũ từ 2017; HĐND đã tăng phí sử dụng hè phố. Sở Xây dựng nói ngoài bù chi phí còn điều tiết đỗ xe trung tâm, khuyến khích bãi tập trung và xe công cộng. Không áp dụng điểm đầu tư ngoài ngân sách."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ha-noi-tang-gia-trong-giu-oto-xe-may-5132893.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hạ thủy nhịp chính cầu đi bộ sông Sài Gòn 3.400 tấn; lai dắt về Bạch Đằng dự kiến 18/10, hợp long 21/10",
+          "meta": "VnExpress · 15–16/10",
+          "body": [
+            "Tối 15/10 tại cảng Đông Xuyên (BR-VT), hơn 100 nhân sự dùng 30 module SPMT hạ tổ hợp vòm thép + khung đỡ dài 187 m, nặng 3.400 tấn xuống sà lan Trung Nam S05. Dự kiến lai dắt ~124 km về bến Bạch Đằng sáng 18/10; hợp long hướng tới 21/10.",
+            "Sở XD TP HCM tạm cấm luồng thủy khu vực thi công 19/10 và 21–22/10 theo khung giờ công bố. Cầu ~720 m, vốn ~1.000 tỷ do Nutifood tài trợ, nối trung tâm – Thủ Thiêm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dung-dan-xe-sieu-truong-ha-thuy-nhip-cau-di-bo-nang-3-400-tan-bac-qua-song-sai-gon-5132906.html"
+            }
+          ]
+        },
+        {
+          "headline": "Giá xăng E10 giảm về sát 27.000 đồng/lít từ 15h ngày 15/10",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Liên Bộ: E10 RON 95-III giảm 1.230 đồng còn 27.020 đồng/lít; E5 RON 92 giảm 730 đồng còn 26.970; diesel giảm 20 đồng còn 29.100 đồng/lít. Kỳ điều hành chịu ảnh hưởng thỏa thuận diesel Nga–Mỹ và Quỹ bình ổn."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-15-10-5132689.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cao tốc Mỹ Thuận – Cần Thơ có thể tạm dừng xe 22h–1h từ 16 đến 19/10 để lắp dầm",
+          "meta": "VnExpress · 15/10",
+          "body": [
+            "Ô tô qua một số đoạn có thể phải tạm dừng trong khung 22h đến 1h hôm sau (16–19/10) để lắp dầm cầu vượt — nhắc lại lịch đã đưa số trước; tài xế nên chủ động tránh khung giờ hoặc chuẩn bị thời gian chờ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cao-toc-my-thuan-can-tho-han-che-xe-de-thi-cong-cau-vuot-5132392.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 16/10/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu. Bản tin nghiên cứu Xây dựng ra hằng tuần trong số sáng Chủ nhật. Mục Khuyến mãi đặc biệt chỉ đăng khi có ưu đãi mới còn hiệu lực có link chính thức (hôm nay không có mục này — các ưu đãi Argon/Antigravity/Pickshot/Veras đã đưa số 15/10; Claude artifact 50% hết hạn 15/10)."
+}
