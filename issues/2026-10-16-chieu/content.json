@@ -1,0 +1,952 @@
+{
+  "date": "2026-10-16",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Sáu, ngày 16 tháng 10 năm 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 16/10/2026 · Thứ Sáu · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Tổng Bí thư: thay cán bộ yếu kém, không chờ đến khi bị kỷ luật",
+    "Trump gọi Ukraine 'đáng hổ thẹn' khi đánh lọc dầu Nga; Lavrov nói Zelensky 'thách thức' Trump",
+    "Phát hiện di tích hơn 3.000 năm ở TP HCM (Gò Đất Nại, Gò Nần)",
+    "Tổng Bí thư thăm Đan Mạch–EU–Bỉ 19–24/10; Quốc hội khai mạc và Parmelin tới 17/10",
+    "Fact: 16/10/1793 — Marie Antoinette bị xử chém tại Paris"
+  ],
+  "followups": [
+    {
+      "title": "Nga – Ukraine và thoả thuận diesel Mỹ – Nga",
+      "update": "Chiều 16/10: ông Trump gọi Ukraine nối lại đánh lọc dầu là “đáng hổ thẹn”, nói Zelensky khó đàm phán hơn Putin (Newsmax). Lavrov cáo buộc Zelensky “thách thức” Trump. CNN: Ukraine có thể đã hết tên lửa Patriot. Zelensky ở Brussels gặp lãnh đạo châu Âu. Chưa ghi nhận đòn lọc dầu mới trong ngày 16/10.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ong-trump-ukraine-dang-ho-then-khi-tap-kich-nha-may-loc-dau-nga-5132973.html"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/world/ukraine/trump-ukraine-strikes-russian-oil-disgrace-zelenskyy-starlink-rcna603848"
+        },
+        {
+          "name": "VnExpress – Patriot",
+          "url": "https://vnexpress.net/ukraine-da-vet-can-kho-ten-lua-patriot-5132987.html"
+        }
+      ]
+    },
+    {
+      "title": "Chiến sự Yemen lan sang Saudi Arabia",
+      "update": "15/10 Houthi phóng tên lửa vào tổ hợp Dinh Tổng thống Yemen ở Aden (5 chết). Trước đó Saudi sơ tán gần 100 máy bay khỏi Riyadh sau đòn sân bay King Khalid — vẫn mở.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ten-lua-houthi-danh-trung-to-hop-dinh-tong-thong-yemen-5132943.html"
+        },
+        {
+          "name": "VnExpress – sơ tán",
+          "url": "https://vnexpress.net/arab-saudi-so-tan-gan-100-may-bay-vi-mua-tap-kich-cua-houthi-5132635.html"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Trump dọa xử bắn người rò rỉ kế hoạch không kích Iran (B-2). Dân lái xuồng gom hàng từ tàu chìm Hormuz; Iran được cho là đổi chiến thuật tập kích để cản hạ giá dầu Mỹ. Vẫn mở.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tong-thong-my-doa-xu-ban-nguoi-ro-ri-ke-hoach-khong-kich-iran-5132995.html"
+        },
+        {
+          "name": "VnExpress – Hormuz",
+          "url": "https://vnexpress.net/dan-lai-xuong-gom-hang-tu-tau-container-chim-o-hormuz-5133166.html"
+        }
+      ]
+    },
+    {
+      "title": "Hội nghị quán triệt Nghị quyết Trung ương 4",
+      "update": "Sáng 16/10 đã diễn ra hội nghị toàn quốc: Tổng Bí thư yêu cầu thay cán bộ yếu kém không chờ kỷ luật; Phó thủ tướng nêu 0,1% GDP/năm cho nhân tài; quy định mới khuyến khích đảng viên kinh doanh hợp pháp.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-16",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-thay-can-bo-yeu-kem-khong-cho-den-khi-bi-ky-luat-5133103.html"
+        }
+      ]
+    },
+    {
+      "title": "Man City và 114 cáo buộc vi phạm tài chính",
+      "update": "Không có diễn biến pháp lý mới chiều 16/10; lịch CL: Man City – AEK Athens 20/10.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-06",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/man-city-thua-psg-trong-ngay-guardiola-tro-lai-5132435.html"
+        }
+      ]
+    },
+    {
+      "title": "Quy tập hài cốt liệt sĩ ở công viên Lê Thị Riêng",
+      "update": "Giai đoạn 1 đã an táng 731 hài cốt (14/10). Không cập nhật mới chiều 16/10.",
+      "status": "giai đoạn 1 hoàn tất",
+      "first_issue": "2026-10-13",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hoan-tat-an-tang-731-hai-cot-liet-si-o-cong-vien-le-thi-rieng-5132380.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-16",
+      "time": "16–18/10",
+      "timezone": "giờ VN",
+      "title": "Bắc Bộ có khả năng mưa rào, dông rải rác sau chuỗi ngày nắng hanh",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/du-bao-thoi-tiet-tu-11-den-17-10-bac-bo-cuoi-tuan-mua-trung-bo-va-nam-bo-mua-rao-100261010161428734.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "time": "22:00–1:00",
+      "timezone": "giờ VN",
+      "title": "Cao tốc Mỹ Thuận – Cần Thơ có thể tạm dừng xe để lắp dầm (16–19/10)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/cao-toc-my-thuan-can-tho-han-che-xe-de-thi-cong-cau-vuot-5132392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "time": "17–18/10",
+      "timezone": "giờ VN",
+      "title": "Tổng thống Thụy Sĩ Guy Parmelin và Phu nhân thăm chính thức Việt Nam (sắp tới)",
+      "topic": "Chính trị",
+      "note": "Trùng tuần Quốc hội khai mạc; kỳ vọng thúc đẩy FTA Việt Nam–EFTA.",
+      "sources": [
+        {
+          "name": "VietnamPlus",
+          "url": "https://www.vietnamplus.vn/tong-thong-thuy-si-guy-parmelin-va-phu-nhan-sap-tham-chinh-thuc-viet-nam-post1142198.vnp"
+        },
+        {
+          "name": "VOV EN",
+          "url": "https://english.vov.vn/en/politics/swiss-presidents-visit-to-vietnam-to-translate-cooperation-potential-into-tangibl-post1341767.vov"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "time": "sáng",
+      "timezone": "giờ VN",
+      "title": "Khai mạc Kỳ họp thứ hai Quốc hội khóa XVI",
+      "topic": "Chính trị",
+      "note": "Dự kiến xem xét 43 luật, nghị quyết; làm việc cả một số ngày cuối tuần; bế mạc khoảng 21/11.",
+      "sources": [
+        {
+          "name": "DNTT",
+          "url": "https://doanhnghieptiepthi.vn/quoc-hoi-lam-viec-ca-cuoi-tuan-xem-xet-43-luat-nghi-quyet-161261013154413411.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "sáng",
+      "timezone": "giờ VN",
+      "title": "Sà lan nhịp chính cầu đi bộ sông Sài Gòn dự kiến tới bến Bạch Đằng",
+      "topic": "Đời sống",
+      "note": "Lai dắt từ Đông Xuyên ~124 km; hợp long hướng tới 21/10.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-dan-xe-sieu-truong-ha-thuy-nhip-cau-di-bo-nang-3-400-tan-bac-qua-song-sai-gon-5132906.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 4: Ninh Bình – HAGL",
+      "topic": "Bóng đá",
+      "note": "HAGL vừa có chiến thắng đầu tiên, 3-0 trước Đà Nẵng.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hagl-tim-lai-niem-vui-o-v-league-5130803.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Real Madrid – Sevilla, vòng 9 La Liga",
+      "topic": "Bóng đá",
+      "note": "Vinicius có thể bị treo giò / đã phản đối Mourinho khi bị thay.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vinicius-phan-doi-mourinho-khi-bi-thay-ra-5132543.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Man Utd làm khách Leeds United (Ngoại hạng Anh)",
+      "topic": "Bóng đá",
+      "note": "Phép thử cho Carrick giữa tin Conte liên hệ.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/conte-lien-he-voi-man-utd-5132869.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "time": "13:00–19:00",
+      "timezone": "giờ VN",
+      "title": "Tạm cấm luồng thủy khu vực thi công cầu đi bộ sông Sài Gòn (neo sà lan)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-dan-xe-sieu-truong-ha-thuy-nhip-cau-di-bo-nang-3-400-tan-bac-qua-song-sai-gon-5132906.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "time": "19–24/10",
+      "timezone": "giờ VN / châu Âu",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Đan Mạch, EU và Bỉ",
+      "topic": "Chính trị",
+      "note": "Chuyến thăm cấp nhà nước Đan Mạch và chính thức EU–Bỉ; nhiều dấu mốc đầu tiên.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-di-chau-au-chuyen-tham-cua-nhieu-dau-moc-dau-tien-10026101614385695.htm"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chuyen-tham-chau-au-cua-tong-bi-thu-chu-tich-nuoc-la-co-hoi-tao-buoc-ngoat-hop-tac-5133146.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "time": "trong ngày",
+      "timezone": "giờ CET",
+      "title": "Man City – AEK Athens, Champions League (lượt 3)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/man-city-thua-psg-trong-ngay-guardiola-tro-lai-5132435.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Dự kiến hợp long cầu đi bộ qua sông Sài Gòn",
+      "topic": "Đời sống",
+      "note": "Tạm cấm luồng 2h–18h ngày 21 và 22/10; thời điểm có thể điều chỉnh theo mực nước.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-dan-xe-sieu-truong-ha-thuy-nhip-cau-di-bo-nang-3-400-tan-bac-qua-song-sai-gon-5132906.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "trong ngày",
+      "timezone": "giờ CET",
+      "title": "Real Madrid – PSV, Champions League (lượt 3)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/real-ghi-ba-ban-trong-bay-phut-de-thang-nguoc-as-roma-5132436.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "21:00",
+      "timezone": "giờ CEST",
+      "title": "El Clásico Barcelona – Real Madrid, vòng 10 La Liga",
+      "topic": "Bóng đá",
+      "note": "Spotify Camp Nou.",
+      "sources": [
+        {
+          "name": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/matches/138374/fc-barcelona-real-madrid-la-liga-2026-2027"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "time": "trong ngày",
+      "timezone": "giờ địa phương",
+      "title": "Hết hạn chương trình dùng thử Chaos Veras 14 ngày",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Chaos",
+          "url": "https://www.chaos.com/veras/trial"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "time": "trong ngày",
+      "timezone": "giờ địa phương",
+      "title": "Hết giá giới thiệu Gemini 4 Argon API (2/10 USD mỗi triệu token)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Gemini API pricing",
+          "url": "https://ai.google.dev/gemini-api/docs/pricing"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Hội nghị quán triệt TW 4: cán bộ, nhân tài, đảng viên kinh doanh; nhân sự TP HCM và Kho bạc; chuyến châu Âu sắp tới.",
+      "items": [
+        {
+          "headline": "Tổng Bí thư: Thay cán bộ yếu kém, không chờ đến khi bị kỷ luật",
+          "meta": "Sáng 16/10 · VnExpress, VOV",
+          "body": [
+            "Tại Hội nghị toàn quốc quán triệt Nghị quyết Trung ương 4 khóa XIV (điểm cầu Nhà Quốc hội, kết nối hơn 40.000 điểm / trên 2,7 triệu đại biểu), Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu rà soát đội ngũ theo nhiệm vụ; thay thế người không đáp ứng, không chờ đến khi phải kỷ luật; bố trí lại không thay cho xử lý vi phạm.",
+            "Ông nhấn mạnh lấy kết quả thực hiện nhiệm vụ làm thước đo; bảo đảm nguồn lực cho cải cách tiền lương, an sinh; đẩy giải ngân đầu tư công; GDP 2027 từ 10% trở lên phải chỉ rõ động lực tăng trưởng; khuyến khích đảng viên làm giàu chính đáng, không tạo đặc quyền."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-thay-can-bo-yeu-kem-khong-cho-den-khi-bi-ky-luat-5133103.html"
+            },
+            {
+              "name": "VOV",
+              "url": "https://vov.vn/chinh-tri/tong-bi-thu-chu-tich-nuoc-phai-bao-dam-nguon-luc-cho-cai-cach-tien-luong-post1341847.vov"
+            }
+          ]
+        },
+        {
+          "headline": "Phó thủ tướng: Phải xóa tâm lý sợ người tài hơn mình; Trung ương đồng ý 0,1% GDP/năm cho nhân tài",
+          "meta": "Sáng 16/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Phó thủ tướng Phạm Thị Thanh Trà trình bày Kết luận 105 về thu hút, trọng dụng nhân tài: Trung ương đồng ý chủ trương dành khoảng 0,1% GDP mỗi năm cho công tác nhân tài; yêu cầu xóa đố kỵ, cô lập, sợ người giỏi hơn mình trong cơ quan.",
+            "Bà nêu Việt Nam xếp hạng 76/135 về chỉ số cạnh tranh nhân tài toàn cầu (2025), thứ 5 ASEAN — còn thấp; khu vực công thu hút chưa tương xứng so với địa phương và doanh nghiệp đã làm tốt hơn."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/pho-thu-tuong-phai-xoa-tam-ly-so-nguoi-tai-hon-minh-5133011.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/pho-thu-tuong-pham-thi-thanh-tra-danh-ngan-sach-nha-nuoc-de-thu-hut-trong-dung-nhan-tai-quoc-gia-100261016123934553.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Không thêm điều kiện hạn chế quyền kinh doanh hợp pháp của đảng viên",
+          "meta": "Sáng 16/10 · VnExpress",
+          "body": [
+            "Trưởng Ban Chính sách, chiến lược Trung ương Nguyễn Thanh Nghị: quy định mới chuyển từ tư duy “cho phép” sang “khuyến khích, tạo điều kiện” đảng viên làm giàu hợp pháp; không thêm điều kiện thu hẹp quyền kinh doanh hợp pháp.",
+            "Số đảng viên làm kinh tế tư nhân tăng hơn 5 lần (khoảng 35.000 năm 2006 lên khoảng 187.000 năm 2026) nhưng mới chiếm ~3,31% tổng đảng viên; chủ doanh nghiệp tư nhân ~0,15% — còn thấp so kỳ vọng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khong-them-dieu-kien-han-che-quyen-kinh-doanh-hop-phap-cua-dang-vien-5132980.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Bùi Thanh Nhân làm Trưởng ban Tuyên giáo Thành ủy TP HCM",
+          "meta": "Sáng 16/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Ông Bùi Thanh Nhân (52 tuổi), Ủy viên Ban Thường vụ Thành ủy, Chủ tịch LĐLĐ TP HCM, được phân công Trưởng ban Tuyên giáo Thành ủy, thay ông Dương Anh Đức (chuyển làm Bí thư Đảng ủy các trường ĐH, CĐ TP HCM).",
+            "Cùng đợt, ông Lê Trương Hải Hiếu (45 tuổi) làm Phó trưởng Ban Tổ chức Thành ủy."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-bui-thanh-nhan-lam-truong-ban-tuyen-giao-thanh-uy-tp-hcm-5133038.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/chu-tich-lien-doan-lao-dong-bui-thanh-nhan-lam-truong-ban-tuyen-giao-thanh-uy-tphcm-100261016101211606.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Phạm Đức Thắng làm Giám đốc Kho bạc Nhà nước",
+          "meta": "16/10 · VnExpress",
+          "body": [
+            "Bộ trưởng Tài chính Ngô Văn Tuấn trao quyết định (ký 15/10) bổ nhiệm ông Phạm Đức Thắng, nguyên Vụ trưởng Tổ chức cán bộ Bộ Tài chính, làm Giám đốc Kho bạc Nhà nước, thay ông Trần Quân (đã chuyển Lạng Sơn).",
+            "Ông Thắng, 50 tuổi, quê Hải Phòng, hơn 20 năm công tác tổ chức cán bộ; Kho bạc thuộc Bộ Tài chính, quản lý quỹ ngân sách và dự trữ tài chính."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-pham-duc-thang-lam-giam-doc-kho-bac-nha-nuoc-5133213.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng Bí thư, Chủ tịch nước thăm Đan Mạch, EU và Bỉ 19–24/10 — nhiều dấu mốc đầu tiên",
+          "meta": "Chiều 16/10 · Tuổi Trẻ, VnExpress",
+          "body": [
+            "Nhận lời mời của Nhà vua Đan Mạch Frederik X, Chủ tịch Hội đồng châu Âu António Costa và Thủ tướng Bỉ Bart De Wever, Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân sẽ thăm cấp nhà nước Đan Mạch, thăm chính thức EU và Bỉ từ 19 đến 24/10.",
+            "Thứ trưởng Ngoại giao Lê Thị Thu Hằng: đây là chuyến thăm cấp nhà nước đầu tiên tới Đan Mạch của một Tổng Bí thư, và chuyến thăm chính thức EU–Bỉ đầu tiên của ông Tô Lâm — kỳ vọng nâng tầm quan hệ, tạo bước ngoặt hợp tác thực chất."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-di-chau-au-chuyen-tham-cua-nhieu-dau-moc-dau-tien-10026101614385695.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chuyen-tham-chau-au-cua-tong-bi-thu-chu-tich-nuoc-la-co-hoi-tao-buoc-ngoat-hop-tac-5133146.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Trump–Zelensky leo thang lời lẽ, Patriot cạn, Iran/Hormuz, Houthi đánh Aden và báo động nhầm ở Nhật.",
+      "items": [
+        {
+          "headline": "Ông Trump: Ukraine 'đáng hổ thẹn' khi tập kích nhà máy lọc dầu Nga",
+          "meta": "16/10 · VnExpress, NBC, Guardian",
+          "body": [
+            "Trong phỏng vấn Newsmax phát 15–16/10, Tổng thống Mỹ gọi việc Ukraine nối lại đánh lọc dầu Nga là “disgrace / đáng hổ thẹn”, nói làm tăng giá dầu thế giới; cho rằng ông Zelensky “khó đàm phán hơn” ông Putin.",
+            "Ông Zelensky đã tới Brussels 16/10 gặp lãnh đạo châu Âu, gọi họ là “real leaders”. NBC: chưa ghi nhận đòn lọc dầu mới ngày 16/10 sau vụ Ryazan 15/10. Starshield được Kiev nói đang được khôi phục một phần."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-trump-ukraine-dang-ho-then-khi-tap-kich-nha-may-loc-dau-nga-5132973.html"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/world/ukraine/trump-ukraine-strikes-russian-oil-disgrace-zelenskyy-starlink-rcna603848"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace"
+            }
+          ]
+        },
+        {
+          "headline": "Nga: ông Zelensky 'thách thức' ông Trump quanh thỏa thuận diesel",
+          "meta": "16/10 · VnExpress",
+          "body": [
+            "Ngoại trưởng Nga Sergey Lavrov nói phản ứng của Tổng thống Ukraine trước thỏa thuận diesel Moskva–Washington là “thách thức trực tiếp” ông Trump; Nga khẳng định đã chấp thuận đề xuất Mỹ.",
+            "Ông Lavrov cáo buộc Kiev đòi thêm tên lửa để tiếp tục đánh hạ tầng năng lượng Nga thay vì ủng hộ thỏa thuận — nối chuỗi căng thẳng sau khi Zelensky dỡ “ngừng bắn năng lượng”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nga-noi-tong-thong-ukraine-thach-thuc-ong-trump-5133098.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ukraine được cho là đã 'vét cạn' kho tên lửa đánh chặn Patriot",
+          "meta": "16/10 · VnExpress (CNN)",
+          "body": [
+            "CNN (15/10) dẫn nguồn: Ukraine có thể đã phóng hết tên lửa đánh chặn cho hệ thống Patriot — vũ khí hiếm đối phó tên lửa đạn đạo Nga — giải thích vì sao gần như mọi tên lửa đạn đạo trong đợt tập kích gần đây đều lọt.",
+            "Đợt tấn công rạng sáng 14/10: tên lửa Nga đánh trúng ba nhà máy điện ở Kiev và hạ tầng Kharkov; ít nhất 4 chết, 25 bị thương tại Kiev. Tin trùng lúc quan hệ Mỹ–Ukraine căng quanh hỗ trợ và Starshield."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ukraine-da-vet-can-kho-ten-lua-patriot-5132987.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Trump dọa xử bắn người rò rỉ kế hoạch không kích Iran",
+          "meta": "16/10 · VnExpress",
+          "body": [
+            "Tại mít tinh Arizona (14/10), Tổng thống Mỹ gọi người làm rò rỉ kế hoạch không kích Iran là “cặn bã”, nói họ đáng bị xử bắn; kể chiến dịch B-2 mang bom lớn bị lộ nên Iran “phục sẵn” khi máy bay tới lúc 1h sáng.",
+            "Thông tin nối chuỗi tin Mỹ xem xét phương án tập kích mới (kể cả MOAB) nếu tái leo thang với Iran — Nhà Trắng trước đó khẳng định “để ngỏ mọi lựa chọn”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-thong-my-doa-xu-ban-nguoi-ro-ri-ke-hoach-khong-kich-iran-5132995.html"
+            }
+          ]
+        },
+        {
+          "headline": "Houthi phóng tên lửa vào tổ hợp Dinh Tổng thống Yemen ở Aden",
+          "meta": "16/10 · VnExpress (AFP)",
+          "body": [
+            "Ngày 15/10, Houthi phóng tên lửa đạn đạo vào khu phức hợp Cung điện Al-Ma'ashiq (Dinh Tổng thống) ở Aden — trụ sở Hội đồng Lãnh đạo Tổng thống Yemen được quốc tế công nhận; bộ trưởng Yemen giấu tên nói trúng trung tâm chỉ huy, 5 người chết.",
+            "Hai tên lửa khác nhắm trung tâm chỉ huy liên quân do Arab Saudi dẫn đầu trong cùng tổ hợp — nối chiến sự Yemen lan rộng sau đòn sân bay Riyadh và sơ tán máy bay Saudi."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ten-lua-houthi-danh-trung-to-hop-dinh-tong-thong-yemen-5132943.html"
+            }
+          ]
+        },
+        {
+          "headline": "Dân lái xuồng gom hàng từ tàu container chìm ở Hormuz; Iran đổi chiến thuật",
+          "meta": "Chiều 16/10 · VnExpress (Reuters)",
+          "body": [
+            "Video Reuters: người dân ven Hormuz lái xuồng nhỏ ra khu vực hai tàu hàng bị đánh chìm để vớt hàng trôi nổi (truyền thông Saudi nêu điện thoại, thiết bị điện tử, nước hoa — chưa xác minh độc lập).",
+            "Quan chức Iran (Reuters 14/10): Tehran đổi loại hình và nhịp độ tập kích tàu bị cáo buộc vi phạm hạn chế tại Hormuz, nhằm cản nỗ lực Mỹ–đồng minh hạ giá dầu và tác động bầu cử giữa kỳ Mỹ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – gom hàng",
+              "url": "https://vnexpress.net/dan-lai-xuong-gom-hang-tu-tau-container-chim-o-hormuz-5133166.html"
+            },
+            {
+              "name": "VnExpress – Iran",
+              "url": "https://vnexpress.net/iran-doi-chien-thuat-tim-cach-can-no-luc-ha-gia-dau-cua-my-5132190.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nhật Bản báo động nhầm siêu động đất 9,9 độ rồi rút lại sau vài phút",
+          "meta": "Chiều 16/10 · Tuổi Trẻ (Japan Times)",
+          "body": [
+            "Cơ quan Khí tượng Nhật Bản (JMA) phát cảnh báo sớm động đất cường độ lên tới 9,9, kèm dự báo rung mạnh nhiều vùng — nhưng định vị sai tâm chấn trận động đất ngoài khơi bán đảo Kamchatka (Nga) và phóng đại cường độ.",
+            "Vài phút sau, JMA rút cảnh báo; chuông đã vang trên loa công cộng và điện thoại người dân — sự cố nhắc rủi ro hệ thống cảnh báo sớm khi dữ liệu đầu vào lệch."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nhat-ban-bao-dong-nham-sieu-dong-dat-99-do-vai-phut-sau-phai-rut-lai-100261016145628775.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Di tích 3.000 năm TP HCM, tai nạn cao tốc, hoa sữa, kỷ lục nóng và hai vụ pháp lý nổi.",
+      "items": [
+        {
+          "headline": "Phát hiện di tích hơn 3.000 năm ở TP HCM (Gò Đất Nại, Gò Nần)",
+          "meta": "Chiều 16/10 · VnExpress",
+          "body": [
+            "Tại hội thảo khảo cổ Hà Nội 16/10, Viện Khoa học xã hội vùng Nam Bộ công bố khai quật Gò Đất Nại và Gò Nần (xã Đất Đỏ, TP HCM — trước thuộc Bà Rịa–Vũng Tàu): hàng nghìn hiện vật, mộ táng cho thấy cư dân ven biển Đông Nam Bộ có đời sống phong phú, giao thương rộng từ hơn 3.000 năm trước.",
+            "Gò Đất Nại (đợt 2, 141 m²): 15 di tích mộ táng (huyệt đất, mộ nồi/vò), niên đại khoảng 3.000–2.500 năm trước đến thế kỷ IV; dù không còn di cốt, cấu trúc và đồ tùy táng vẫn nhận diện rõ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/phat-hien-di-tich-hon-3-000-nam-o-tp-hcm-5133161.html"
+            }
+          ]
+        },
+        {
+          "headline": "7 xe va chạm liên hoàn trên cao tốc Hà Nội – Bắc Giang",
+          "meta": "Sáng 16/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Khoảng 8h ngày 16/10, gần cầu Đại Phúc (Bắc Ninh), hướng về Hà Nội: hai xe tải, một xe khách và bốn xe 4–5 chỗ va chạm liên hoàn do không giữ khoảng cách an toàn; không thương vong nhưng nhiều xe hư nặng, ùn ứ kéo dài.",
+            "Một xe 4 chỗ bị kẹp giữa xe khách và xe tải; mảnh vỡ vương trong phạm vi khoảng vài chục mét — nối chuỗi xử phạt khoảng cách trên cao tốc đang được nhân rộng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/7-xe-va-cham-lien-hoan-tren-cao-toc-ha-noi-bac-giang-5133087.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/7-xe-tong-lien-hoan-do-khong-giu-khoang-cach-an-toan-tren-tuyen-duong-ha-noi-bac-giang-100261016152246516.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội bắt đầu cắt tỉa 992 cây hoa sữa trên 13 tuyến phố",
+          "meta": "16/10 · VnExpress",
+          "body": [
+            "Từ 16 đến 20/10, Công ty Cây xanh Hà Nội và đơn vị chuyên môn cắt tỉa 992 cây hoa sữa tại 13 tuyến nhằm giảm mùi hương nồng: Hồ Tùng Mậu 179 cây, Lê Thanh Nghị 170, Trung Hòa 139, Lê Quang Đạo 125…",
+            "Người dân được khuyến cáo không tự ý cắt cành trước nhà — việc này thuộc thẩm quyền đơn vị quản lý cây xanh; mùi hoa sữa tiếp tục là chủ đề tranh luận đô thị mỗi mùa."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ha-noi-bat-dau-cat-tia-hoa-sua-5132913.html"
+            },
+            {
+              "name": "VnExpress – pháp lý",
+              "url": "https://vnexpress.net/nguoi-dan-co-duoc-tu-y-cat-canh-hoa-sua-truoc-nha-5133095.html"
+            }
+          ]
+        },
+        {
+          "headline": "Học sinh lớp 1 tử vong ở sân trường sau giờ tan học (Hải Phòng)",
+          "meta": "16/10 · VnExpress",
+          "body": [
+            "Khoảng 17h ngày 15/10, cháu Nguyễn Tuấn Minh (6 tuổi, lớp 1 Trường Tiểu học An Dương, Hải Phòng) chơi ghế đá sân trường khi chờ bố mẹ, ngã chấn thương đầu; đưa tới Bệnh viện trẻ em Hải Phòng nhưng không qua khỏi.",
+            "Gia đình yêu cầu làm rõ trách nhiệm vì sự việc xảy ra trong khuôn viên trường; cơ quan chức năng đang xác minh. Tin nhắc an toàn sân trường sau giờ học."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hoc-sinh-lop-1-tu-vong-o-san-truong-sau-gio-hoc-5132945.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nửa tháng 10: 59 kỷ lục nhiệt độ ngày trên cả nước",
+          "meta": "16/10 · VnExpress",
+          "body": [
+            "Nửa đầu tháng 10, 59 trạm khí tượng ghi nhận nhiệt độ cao nhất ngày đạt hoặc vượt kỷ lục cùng kỳ (sau 48 kỷ lục tháng 9); Yên Châu (Sơn La) 38,3°C, Hà Nội 37,1°C — El Niño đang mạnh lên.",
+            "Trung tâm Dự báo KTTV quốc gia: tháng 9 và nửa đầu 10 nhiệt độ phổ biến cao hơn trung bình nhiều năm 1–2°C."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nua-thang-10-ghi-nhan-59-ky-luc-nhiet-do-5132873.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bệnh viện Đa khoa 115 Nghệ An miễn phí gửi xe cho người bệnh và người nhà",
+          "meta": "Chiều 16/10 · Tuổi Trẻ",
+          "body": [
+            "Người đến khám, điều trị tại Bệnh viện Đa khoa 115 Nghệ An được gửi miễn phí ôtô, xe máy, xe đạp — thay cho thu phí mỗi lượt trước đây.",
+            "Chính sách nhỏ nhưng thiết thực, được nhiều người dân đồng tình trong bối cảnh chi phí khám chữa bệnh và đi lại vẫn là gánh nặng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/benh-vien-mien-phi-gui-xe-cho-nguoi-benh-nguoi-nha-o-nghe-an-10026101614433664.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Nữ đại gia xăng dầu bị cáo buộc tham ô 79 tỷ; TikToker 'Sơn Thụy Khuê' bị bắt",
+          "meta": "Chiều 16/10 · VnExpress",
+          "body": [
+            "Bà Chu Thị Thành (66 tuổi), Chủ tịch Tập đoàn Thiên Minh Đức, dự kiến hầu tòa Hà Nội 2–5/11 về tham ô hơn 79 tỷ đồng và mua bán hóa đơn trái phép (thu lợi ~20,7 tỷ); đã nộp lại hơn 99 tỷ trước phiên.",
+            "Cùng ngày, Công an phường Cửa Nam (Hà Nội): Nguyễn Quốc Hưng — TikToker “Sơn Thụy Khuê” — bị bắt với cáo buộc tàng trữ, tổ chức sử dụng ma túy trong đường dây vừa triệt phá."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – Thiên Minh Đức",
+              "url": "https://vnexpress.net/nu-dai-gia-xang-dau-bi-cao-buoc-tham-o-79-ty-dong-5133176.html"
+            },
+            {
+              "name": "VnExpress – Sơn Thụy Khuê",
+              "url": "https://vnexpress.net/tiktoker-son-thuy-khue-bi-bat-5133172.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Xả súng Oregon, Hoàng hậu Thái lái chuyên cơ, tượng Phật Minh và hai vụ kỳ lạ Mỹ–Trung Quốc.",
+      "items": [
+        {
+          "headline": "Oregon (Mỹ): thiếu niên 16 tuổi xả súng trường tiểu học, 3 trẻ và 1 giáo viên chết",
+          "meta": "16/10 · Tuổi Trẻ (AP)",
+          "body": [
+            "Ngày 15/10, thiếu niên 16 tuổi xả súng tại Trường tiểu học Silver Rail, thành phố Bend, bang Oregon: ba trẻ em và một giáo viên thiệt mạng; hai người khác nguy kịch.",
+            "Đối tượng bị người dân truy đuổi vào trong trường và bắn hạ. Vụ việc nối chuỗi bạo lực súng đạn học đường Mỹ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thieu-nien-16-tuoi-xa-sung-tai-truong-tieu-hoc-my-3-tre-em-thiet-mang-100261016095234825.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/xa-sung-tai-truong-tieu-hoc-o-my-5-nguoi-chet-5132941.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hoàng hậu Thái Lan tự lái chuyên cơ tới Nhật Bản",
+          "meta": "16/10 · VnExpress",
+          "body": [
+            "Hoàng hậu Suthida ngày 14/10 tự điều khiển chuyên cơ hoàng gia Thái Lan hạ cánh sân bay New Chitose (Hokkaido), bắt đầu chuyến thăm 9 ngày tới Nhật Bản.",
+            "Sau lễ đón, bà tiếp tục tự lái ôtô về khách sạn tại Sapporo — hình ảnh hiếm về thành viên hoàng gia điều khiển máy bay và xe."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hoang-hau-thai-lan-tu-lai-chuyen-co-toi-nhat-ban-5132974.html"
+            }
+          ]
+        },
+        {
+          "headline": "Australia trao trả tượng Phật thời Minh cho Trung Quốc",
+          "meta": "16/10 · VnExpress (ABC)",
+          "body": [
+            "Tượng Phật đồng cao 15 cm (~500 tuổi, nhà Minh), phát hiện bị chôn bên vệ đường ở Australia năm 2018, được bàn giao lãnh sự quán Trung Quốc tại thị trấn Denham, vịnh Cá Mợp (Shark Bay) ngày 13/10.",
+            "Tượng sẽ về Trung Quốc để chuyên gia nghiên cứu rồi trưng bày tại bảo tàng Bắc Kinh; kèm đất đỏ vùng Shark Bay và vỏ trai ngọc môi vàng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/australia-trao-tra-tuong-phat-bi-an-cho-trung-quoc-5133004.html"
+            }
+          ]
+        },
+        {
+          "headline": "10 tù nhân Mỹ phá bồn cầu bỏ trốn; quản giáo nhận tội",
+          "meta": "16/10 · VnExpress",
+          "body": [
+            "Nhân viên quản giáo Sterling Williams (34 tuổi, New Orleans) nhận tội lạm quyền (15/10), tuyên 2 năm 6 tháng tù vì khóa vòi nước khi tù nhân làm tắc bồn cầu — tạo lỗ hổng để 10 người trốn (5/2025), một trong những vụ vượt ngục lớn gần đây của Mỹ.",
+            "Thay vì báo cáo sửa chữa, anh khóa nước; nhóm tù nhân phá đường ống phía sau nhà vệ sinh để thoát."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/10-tu-nhan-my-pha-bon-cau-de-bo-tron-5133160.html"
+            }
+          ]
+        },
+        {
+          "headline": "Trung Quốc: giả chết 19 năm nhờ tráo danh tính với anh sinh đôi",
+          "meta": "16/10 · VnExpress",
+          "body": [
+            "Trần Nhị, nghi phạm bắt cóc–cướp 2002 ở Ngọc Hoàn (Chiết Giang), bỏ trốn; năm 2007 hồ sơ ghi anh “chết” tai nạn nhờ tráo danh tính với anh sinh đôi thật sự tử nạn — trốn truy nã khoảng 19 năm.",
+            "Cảnh sát bắt được nhờ manh mối từ bạn gái cũ của người anh; vụ việc nêu rủi ro quản lý hộ khẩu và định danh sinh đôi."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/gia-chet-nho-trao-doi-danh-tinh-voi-anh-sinh-doi-5133138.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Marie Antoinette, ether gây mê, Harpers Ferry, Disney và thử hạt nhân Trung Quốc — cùng vài mẩu bên lề.",
+      "items": [
+        {
+          "headline": "Fact hôm nay: 16/10/1793 — Marie Antoinette bị xử chém",
+          "meta": "History.com / Britannica",
+          "body": [
+            "Chín tháng sau khi vua Louis XVI bị hành quyết, cựu hoàng hậu Marie Antoinette bị đưa lên máy chém tại Paris ngày 16/10/1793, sau khi bị kết tội phản quốc và âm mưu với thế lực nước ngoài trong Cách mạng Pháp.",
+            "Con gái Hoàng đế La Mã Thần thánh Francis I, bà kết hôn Louis năm 1770 để củng cố liên minh Pháp–Áo; hình ảnh “Madame Déficit” vẫn là biểu tượng tranh cãi về chế độ quân chủ và công lý cách mạng."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "History.com",
+              "url": "https://www.history.com/this-day-in-history/october-16"
+            },
+            {
+              "name": "timeanddate",
+              "url": "https://www.timeanddate.com/on-this-day/october/16"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 16/10/1846 — trình diễn ether gây mê công khai tại Massachusetts General",
+          "meta": "History.com",
+          "body": [
+            "Nha sĩ–bác sĩ William T.G. Morton trình diễn ether trong phẫu thuật công khai tại Bệnh viện Massachusetts General (Boston) — bước ngoặt khai sinh gây mê hiện đại, thay các biện pháp thô sơ trước đó (rượu, thuốc phiện, thôi miên…).",
+            "Sự kiện được coi là ngày “sinh” của gây mê hiện đại trong lịch sử y khoa phương Tây."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "History.com",
+              "url": "https://www.history.com/this-day-in-history/october-16"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 16/10/1859 — John Brown bắt đầu đột kích Harpers Ferry",
+          "meta": "Library of Congress / History.com",
+          "body": [
+            "Đêm 16/10/1859, John Brown và khoảng 21 người vũ trang đột nhập Harpers Ferry (Virginia, nay thuộc West Virginia), chiếm kho vũ khí liên bang nhằm kích động khởi nghĩa chống chế độ nô lệ.",
+            "Cuộc đột kích thất bại; Brown bị bắt, kết án và treo cổ — trở thành biểu tượng cho phong trào bãi nô và một trong những bước dẫn tới Nội chiến Mỹ."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Library of Congress",
+              "url": "https://www.loc.gov/item/today-in-history/october-16/"
+            },
+            {
+              "name": "History.com",
+              "url": "https://www.history.com/this-day-in-history/october-16"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 16/10/1923 — Disney Brothers Cartoon Studio thành lập; 16/10/1964 — Trung Quốc thử hạt nhân lần đầu",
+          "meta": "timeanddate / History.com",
+          "body": [
+            "16/10/1923: Walt và Roy Disney thành lập Disney Brothers Cartoon Studio (tiền thân The Walt Disney Company). 16/10/1964: Trung Quốc thử thiết bị hạt nhân uranium ~22 kiloton (mã 596 / Chic-1) tại Lop Nur — trở thành cường quốc hạt nhân thứ năm.",
+            "Cùng ngày trong lịch sử còn có: Karol Wojtyła đắc cử Giáo hoàng John Paul II (1978) — giáo hoàng không phải người Italy đầu tiên từ 1523."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "timeanddate",
+              "url": "https://www.timeanddate.com/on-this-day/october/16"
+            },
+            {
+              "name": "History.com",
+              "url": "https://www.history.com/this-day-in-history/october-16"
+            }
+          ]
+        },
+        {
+          "headline": "Bên lề: Nhật Bản báo động nhầm M9.9 — và tượng Phật Minh về lại Trung Quốc",
+          "meta": "16/10 · Tuổi Trẻ, VnExpress",
+          "body": [
+            "Hai câu chuyện “bên lề” cùng ngày: JMA rút cảnh báo siêu động đất 9,9 sau vài phút vì định vị sai; Australia trao trả tượng Phật thời Minh tìm thấy bên đường năm 2018.",
+            "Cả hai nhắc rằng tin nóng chiều nay không chỉ chiến sự — công nghệ cảnh báo và di sản văn hóa cũng vào trang."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nhat-ban-bao-dong-nham-sieu-dong-dat-99-do-vai-phut-sau-phai-rut-lai-100261016145628775.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/australia-trao-tra-tuong-phat-bi-an-cho-trung-quoc-5133004.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 16/10/2026 (giờ VN). Không lặp tin số sáng (Zelensky/Ryazan chi tiết, Meta Muse, metro Hà Nội EPC, Conte, mưa kỷ lục TP HCM), trừ cập nhật mới trong ngày (phản ứng Trump, hội nghị TW 4, di tích TP HCM…). Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
