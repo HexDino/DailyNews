@@ -1,0 +1,851 @@
+{
+  "date": "2026-10-17",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Bảy, ngày 17 tháng 10 năm 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 17/10/2026 · Thứ Bảy · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Ông Trump ký sắc lệnh miễn loạt trừng phạt Nga; Moskva gọi là “khoảnh khắc lịch sử”",
+    "Chính phủ trình Quốc hội mục tiêu GDP 2027 tăng từ 10% trở lên",
+    "Iran nói siêu tàu dầu trúng thủy lôi ở Hormuz; dầu Brent chạm 110 USD",
+    "Tổng Bí thư, Chủ tịch nước đón Tổng thống Thụy Sĩ; đòi làm rõ hoàn tiền khi đo lường gian lận",
+    "Fact: 17/10/1814 — “trận lụt bia” London làm 8 người chết"
+  ],
+  "followups": [
+    {
+      "title": "Nga – Ukraine, Starlink và trừng phạt Mỹ – Nga",
+      "update": "Ông Trump ký sắc lệnh miễn trừng phạt Nga theo Đạo luật Graham; Nga gọi là “khoảnh khắc lịch sử”. Telegraph nói Musk đề nghị hạn chế tốc độ Starlink ở Ukraine; ông Trump nói không biết ai ra lệnh. Zelensky xin EU 70 tỷ euro và 300 Patriot.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o"
+        },
+        {
+          "name": "VnExpress – Starlink",
+          "url": "https://vnexpress.net/bao-anh-elon-musk-de-nghi-ong-trump-ap-han-che-starlink-o-ukraine-5133461.html"
+        },
+        {
+          "name": "VnExpress – Trump/Starlink",
+          "url": "https://vnexpress.net/ong-trump-khong-biet-ai-da-ra-lenh-han-che-starlink-o-ukraine-5133444.html"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "IRGC nói siêu tàu dầu trúng thủy lôi, bốc cháy đêm 16/10 và tuyên bố Hormuz “đã bị đóng”; Brent chạm 110 USD/thùng, cao nhất 5 tháng.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/iran-noi-sieu-tau-dau-trung-thuy-loi-boc-chay-o-hormuz-5133590.html"
+        }
+      ]
+    },
+    {
+      "title": "Kỳ họp thứ hai Quốc hội khóa XVI",
+      "update": "Đã khai mạc sáng 17/10: Chính phủ trình mục tiêu GDP 2027 từ 10% trở lên; chiều Quốc hội thảo luận tổ các dự án luật (Đo lường, Bưu chính…).",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/khai-mac-ky-hop-quoc-hoi-cuoi-nam-5133395.html"
+        }
+      ]
+    },
+    {
+      "title": "Xả súng trường tiểu học Silver Rail (Oregon)",
+      "update": "Cảnh sát Bend: nghi phạm 16 tuổi là cựu học sinh, bắn chết 3 học sinh và 1 giáo viên; một cô giáo ném điện thoại, vật lộn với hắn trước khi một phụ huynh bắn hạ. Ông Trump gọi phụ huynh này là “anh hùng”.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-16-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/co-giao-nem-dien-thoai-vat-lon-voi-ke-xa-sung-truong-hoc-my-5133556.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o"
+        }
+      ]
+    },
+    {
+      "title": "Lai dắt nhịp cầu đi bộ 3.400 tấn qua sông Sài Gòn",
+      "update": "Vòm thép rời cảng Đông Xuyên rạng sáng 18/10, vượt 124 km, dự kiến về bến Bạch Đằng chiều 19/10 để hợp long.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/lo-trinh-lai-dat-nhip-cau-3-400-tan-vuot-bien-ve-trung-tam-tp-hcm-5133429.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-17",
+      "time": "22:00–1:00",
+      "timezone": "giờ VN",
+      "title": "Cao tốc Mỹ Thuận – Cần Thơ có thể tạm dừng xe ban đêm để lắp dầm (đến 19/10)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/cao-toc-my-thuan-can-tho-han-che-xe-de-thi-cong-cau-vuot-5132392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "time": "8:15",
+      "timezone": "giờ VN",
+      "title": "Khai mạc Kỳ họp thứ hai Quốc hội khóa XVI",
+      "topic": "Chính trị",
+      "note": "Thủ tướng báo cáo kinh tế - xã hội; chất vấn gói trong một ngày 12/11; bế mạc khoảng 21/11.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hom-nay-khai-mac-ky-hop-quoc-hoi-cuoi-nam-5133395.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "17–18/10",
+      "timezone": "giờ VN",
+      "title": "Tổng thống Thụy Sĩ Guy Parmelin thăm chính thức Việt Nam (ngày thứ hai)",
+      "topic": "Chính trị",
+      "note": "Lễ đón chiều 17/10 tại Nhà Quốc hội; hội đàm và trao văn kiện hợp tác.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-chu-tri-le-don-tong-thong-thuy-si-5133625.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "18:00",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 4: Ninh Bình – HAGL",
+      "topic": "Bóng đá",
+      "note": "HAGL vừa có chiến thắng đầu tiên, 3-0 trước Đà Nẵng.",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/lich-thi-dau-v-league-moi-nhat-hagl-kho-gay-bat-ngo-cho-ninh-binh-fc-185261016181637501.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "20:00",
+      "timezone": "giờ VN",
+      "title": "Leeds – Man Utd, Ngoại hạng Anh (Elland Road)",
+      "topic": "Bóng đá",
+      "note": "Phép thử cho Carrick giữa tin Conte liên hệ.",
+      "sources": [
+        {
+          "name": "Leeds United",
+          "url": "https://www.leedsunited.com/en/news/television-picks-made-for-october-fixtures"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/scores-fixtures/2026-10-18"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "rạng sáng 18/10 → chiều 19/10",
+      "timezone": "giờ VN",
+      "title": "Lai dắt nhịp cầu đi bộ 3.400 tấn từ cảng Đông Xuyên về bến Bạch Đằng",
+      "topic": "Đời sống",
+      "note": "Hành trình khoảng 124 km, sau đó hợp long.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/lo-trinh-lai-dat-nhip-cau-3-400-tan-vuot-bien-ve-trung-tam-tp-hcm-5133429.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "time": "02:00",
+      "timezone": "giờ VN",
+      "title": "Real Madrid – Sevilla, vòng 9 La Liga",
+      "topic": "Bóng đá",
+      "note": "21:00 CEST ngày 18/10, sân Bernabéu.",
+      "sources": [
+        {
+          "name": "Real Madrid",
+          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/el-real-madrid-sevilla-se-jugara-el-domingo-18-de-octubre-a-las-21-00-h-16-09-2026"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "time": "13:00–19:00",
+      "timezone": "giờ VN",
+      "title": "Tạm cấm luồng thủy khu vực thi công cầu đi bộ sông Sài Gòn (neo sà lan)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-dan-xe-sieu-truong-ha-thuy-nhip-cau-di-bo-nang-3-400-tan-bac-qua-song-sai-gon-5132906.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "time": "19–24/10",
+      "timezone": "giờ VN / châu Âu",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Đan Mạch, EU và Bỉ",
+      "topic": "Chính trị",
+      "note": "Chuyến thăm cấp nhà nước Đan Mạch và chính thức EU–Bỉ; nhiều dấu mốc đầu tiên.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-di-chau-au-chuyen-tham-cua-nhieu-dau-moc-dau-tien-10026101614385695.htm"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chuyen-tham-chau-au-cua-tong-bi-thu-chu-tich-nuoc-la-co-hoi-tao-buoc-ngoat-hop-tac-5133146.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "time": "trong ngày",
+      "timezone": "giờ CET",
+      "title": "Man City – AEK Athens, Champions League (lượt 3)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/man-city-thua-psg-trong-ngay-guardiola-tro-lai-5132435.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Dự kiến hợp long cầu đi bộ qua sông Sài Gòn",
+      "topic": "Đời sống",
+      "note": "Tạm cấm luồng 2h–18h ngày 21 và 22/10; thời điểm có thể điều chỉnh theo mực nước.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-dan-xe-sieu-truong-ha-thuy-nhip-cau-di-bo-nang-3-400-tan-bac-qua-song-sai-gon-5132906.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "trong ngày",
+      "timezone": "giờ CET",
+      "title": "Real Madrid – PSV, Champions League (lượt 3)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/real-ghi-ba-ban-trong-bay-phut-de-thang-nguoc-as-roma-5132436.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "21:00",
+      "timezone": "giờ CEST",
+      "title": "El Clásico Barcelona – Real Madrid, vòng 10 La Liga",
+      "topic": "Bóng đá",
+      "note": "Spotify Camp Nou.",
+      "sources": [
+        {
+          "name": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/matches/138374/fc-barcelona-real-madrid-la-liga-2026-2027"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Ngày đầu kỳ họp Quốc hội: mục tiêu 2027, Luật Đo lường, sách giáo khoa; đón Tổng thống Thụy Sĩ; lãi suất và sắp xếp trường.",
+      "items": [
+        {
+          "headline": "Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì lễ đón Tổng thống Thụy Sĩ Guy Parmelin",
+          "meta": "Chiều 17/10 · VnExpress",
+          "body": [
+            "Chiều 17/10, Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân đón Tổng thống Thụy Sĩ Guy Parmelin và phu nhân tại Nhà Quốc hội, chào cờ, duyệt Đội danh dự rồi hội đàm và chứng kiến trao các văn kiện hợp tác giữa bộ, ngành hai nước. Chuyến thăm chính thức kéo dài 17–18/10.",
+            "Đại sứ Thụy Sĩ Thomas Gass nói chuyến thăm nhằm thúc đẩy thương mại, đầu tư, khoa học công nghệ, đổi mới sáng tạo, tài chính và phát triển bền vững. Hai nước nâng quan hệ lên Đối tác Toàn diện tháng 1/2025 và năm nay kỷ niệm 55 năm quan hệ ngoại giao; GDP bình quân đầu người Thụy Sĩ năm 2025 đạt 116.410 USD."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-chu-tri-le-don-tong-thong-thuy-si-5133625.html"
+            }
+          ]
+        },
+        {
+          "headline": "Chính phủ trình mục tiêu GDP 2027 tăng từ 10% trở lên, thu nhập bình quân 6.100 USD",
+          "meta": "Sáng 17/10 · VnExpress",
+          "body": [
+            "Tại phiên khai mạc kỳ họp thứ hai Quốc hội khóa XVI, Thủ tướng Lê Minh Hưng gọi 2027 là năm “tăng tốc, bứt phá”. Các chỉ tiêu chính: GDP tăng từ 10% trở lên, GDP bình quân đầu người 6.100 USD, CPI tăng khoảng 4,5%, năng suất lao động tăng bình quân 8,6%, thu ngân sách tăng 9,1%.",
+            "Chính phủ dự kiến đa dạng hóa nguồn vốn (trái phiếu, ODA, tín dụng, vốn tư nhân, khuyến khích doanh nghiệp FDI tái đầu tư) và có “giải pháp quyết liệt” giảm lãi suất cho vay, dồn tín dụng vào sản xuất, xuất khẩu, khoa học công nghệ và doanh nghiệp nhỏ và vừa."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chinh-phu-trinh-muc-tieu-tang-truong-kinh-te-2027-tu-10-tro-len-5133468.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng Bí thư: Phải bảo vệ người dân trước sai lệch đo lường, làm rõ trách nhiệm hoàn tiền",
+          "meta": "Chiều 17/10 · VnExpress",
+          "body": [
+            "Thảo luận tổ về dự án Luật Đo lường sửa đổi, Tổng Bí thư, Chủ tịch nước Tô Lâm nói kết quả đo tác động trực tiếp tới tiền điện, nước, xăng và cả xét nghiệm, chẩn đoán bệnh. Khi phát hiện đồng hồ điện, nước hay cột xăng bị gian lận, cơ quan chức năng không thể chỉ xử phạt mà phải xác định vi phạm kéo dài bao lâu, ảnh hưởng tới ai, số tiền bị tính sai và trách nhiệm hoàn tiền, bồi thường.",
+            "Dự thảo luật cũng yêu cầu thiết bị đo có phần mềm phải ngăn ngừa hoặc phát hiện can thiệp trái phép, tránh làm sai lệch kết quả."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-phai-bao-ve-nguoi-dan-truoc-nhung-sai-lech-trong-do-luong-5133584.html"
+            },
+            {
+              "name": "VnExpress – phần mềm đo",
+              "url": "https://vnexpress.net/ngan-gian-lan-ket-qua-can-do-luong-bang-phan-mem-5133513.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ủy ban Thường vụ Quốc hội đề nghị công khai trách nhiệm để thiếu sách giáo khoa",
+          "meta": "Sáng 17/10 · VnExpress",
+          "body": [
+            "Báo cáo giám sát kiến nghị cử tri do Chủ nhiệm Ủy ban Dân nguyện và Giám sát Lê Thị Nga trình bày nêu: dù Bộ GD&ĐT đã chỉ đạo, sau khai giảng năm học 2026–2027 (năm đầu dùng một bộ sách thống nhất) nhiều địa phương vẫn thiếu sách. UBTVQH đề nghị Bộ xác định rõ trách nhiệm tổ chức, cá nhân và công khai kết quả xử lý, đồng thời cấp đủ số sách còn thiếu.",
+            "Báo cáo cũng ghi nhận phản ánh từ Tuyên Quang: trẻ cùng lớp mẫu giáo nhận hỗ trợ ăn trưa chênh nhau, 360.000 đồng và 160.000 đồng mỗi tháng, theo Nghị định 277."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/de-nghi-cong-khai-trach-nhiem-de-thieu-sach-giao-khoa-5133495.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ GD&ĐT sáp nhập, chuyển giao toàn bộ 15 trường cao đẳng, trung cấp trực thuộc ngay trong năm nay",
+          "meta": "17/10 · VnExpress",
+          "body": [
+            "Theo kế hoạch Bộ trưởng Hoàng Minh Sơn ký ngày 16/10, cả 15 trường cao đẳng, trung cấp trực thuộc Bộ cùng hai đơn vị sự nghiệp khác sẽ được sáp nhập vào đại học, chuyển về địa phương hoặc sang bộ khác trong năm 2026; từ 2027 Bộ không còn quản lý trường cao đẳng, trung cấp nào.",
+            "Với các trường đại học, Bộ sẽ trình đề án và ra quyết định sắp xếp trước 1/4/2027; trước đó Bộ dự kiến giảm 5 trong 41 cơ sở đại học đang quản lý."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chot-phuong-an-sap-nhap-cao-dang-trung-cap-dai-hoc-truc-thuoc-bo-giao-duc-va-dao-tao-nam-2026-5133533.html"
+            }
+          ]
+        },
+        {
+          "headline": "Phó thủ tướng yêu cầu giảm lãi suất cho vay 1,5–2% cho sản xuất, kinh doanh",
+          "meta": "17/10 · VnExpress",
+          "body": [
+            "Tại cuộc họp điều hành chính sách tiền tệ ngày 16/10, Phó thủ tướng Nguyễn Văn Thắng yêu cầu Ngân hàng Nhà nước sớm có biện pháp giảm lãi suất cho vay 1,5–2% với sản xuất, kinh doanh và lĩnh vực ưu tiên; Thống đốc trực tiếp chịu trách nhiệm.",
+            "Theo số liệu Ngân hàng Nhà nước, lãi suất cho vay bình quân tháng 8 là 10,7%, tăng 0,2 điểm so tháng trước và khoảng 3 điểm so một năm trước."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/pho-thu-tuong-yeu-cau-giam-lai-suat-cho-vay-1-5-2-5133422.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Trump miễn trừng phạt Nga, Zelensky xin EU tiền và Patriot, Putin nói về “vùng an ninh”, Hormuz nóng và Nhà Trắng thay thư ký báo chí.",
+      "items": [
+        {
+          "headline": "Ông Trump ký sắc lệnh miễn loạt trừng phạt Nga; Moskva gọi là “khoảnh khắc lịch sử”",
+          "meta": "16–17/10 · BBC, VnExpress",
+          "body": [
+            "Nhà Trắng thông báo tối 16/10 (giờ Mỹ) Tổng thống Trump đã ký sắc lệnh tạm miễn áp dụng các biện pháp trừng phạt, hạn chế và thuế quan theo Đạo luật Graham mà Quốc hội Mỹ vừa thông qua tháng 9, viện dẫn lợi ích an ninh quốc gia nhưng không giải thích cụ thể.",
+            "BBC nhận định động thái diễn ra khi căng thẳng giữa ông Trump và Tổng thống Zelensky leo thang. Đặc phái viên Nga ca ngợi đây là “khoảnh khắc lịch sử”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-thong-my-ky-sac-lenh-mien-loat-trung-phat-voi-nga-5133471.html"
+            },
+            {
+              "name": "VnExpress – phản ứng Nga",
+              "url": "https://vnexpress.net/nga-ca-ngoi-khoanh-khac-lich-su-khi-ong-trump-mien-trung-phat-5133611.html"
+            }
+          ]
+        },
+        {
+          "headline": "Zelensky xin EU ít nhất 70 tỷ euro cho năm 2027 và 300 tên lửa Patriot",
+          "meta": "16/10 · VnExpress",
+          "body": [
+            "Tại thượng đỉnh EU ở Bỉ, ông Zelensky nói Nga mở chiến dịch tập kích quy mô lớn vào hạ tầng năng lượng Ukraine; Kiev cần đạn đánh chặn PAC-2, PAC-3 và một gói hỗ trợ mùa đông, vì “không thể xoay xở nếu chỉ nhận 2 hoặc 4 tên lửa sau vài tháng”.",
+            "Ông ước tính chiến tranh tiêu tốn 155 tỷ euro năm 2027 và Ukraine cần thêm ít nhất 70 tỷ euro (khoảng 78,8 tỷ USD) từ EU."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-zelensky-keu-goi-eu-cung-cap-gan-79-ty-usd-300-ten-lua-patriot-5133555.html"
+            }
+          ]
+        },
+        {
+          "headline": "Putin mặc quân phục thăm sở chỉ huy: “vùng an ninh” dọc biên giới không phải chủ đề đàm phán",
+          "meta": "16/10 · VnExpress",
+          "body": [
+            "Ông Putin nói quân đội Nga phải lập “vùng an ninh” ở khu vực giáp ranh và Nga không định đưa điều này vào đàm phán hòa bình. Ông tuyên bố Nga kiểm soát hoàn toàn Lugansk, Ukraine còn giữ 10% Donetsk và 16,5% Zaporizhzhia (theo phía Nga).",
+            "Ông cũng thừa nhận mạng phòng không nội địa cần hoàn thiện sau nhiều đòn Ukraine đánh vào hạ tầng năng lượng, dầu khí."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-putin-nga-dang-lap-vung-an-ninh-khong-thuong-luong-doc-bien-gioi-5133449.html"
+            }
+          ]
+        },
+        {
+          "headline": "IRGC: siêu tàu dầu trúng thủy lôi, bốc cháy ở Hormuz; dầu Brent chạm 110 USD",
+          "meta": "17/10 · VnExpress",
+          "body": [
+            "Vệ binh Cách mạng Iran (IRGC) nói một siêu tàu dầu chở hơn 2 triệu thùng trúng thủy lôi đêm 16/10 khi đi qua Hormuz “không xin phép”, có Mỹ hỗ trợ và tắt định vị; IRGC tuyên bố “eo biển Hormuz đã bị đóng”. Tên, chủ tàu và thương vong chưa được công bố.",
+            "Giá dầu Brent lên cao nhất 5 tháng, chạm 110 USD/thùng trong phiên cuối tuần khi các vụ tấn công ở Trung Đông liên tiếp xảy ra."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/iran-noi-sieu-tau-dau-trung-thuy-loi-boc-chay-o-hormuz-5133590.html"
+            },
+            {
+              "name": "VnExpress – giá dầu",
+              "url": "https://vnexpress.net/gia-dau-tho-cham-110-usd-mot-thung-5133453.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thư ký báo chí Nhà Trắng Katie Zacharia rời ghế sau chưa đầy 5 ngày",
+          "meta": "16–17/10 · BBC, VnExpress",
+          "body": [
+            "Buổi họp báo ra mắt của bà Zacharia vấp làn sóng chỉ trích về lý lịch và sự chuẩn bị, kèm nghi vấn tự nhận là luật sư. Ông Trump kể đã khuyên bà “tính toán lại”; Giám đốc Truyền thông Nhà Trắng nói bà sẽ chuyển sang vai trò mới.",
+            "VnExpress dẫn hậu trường cho biết quy trình thẩm tra lý lịch gần như bị bỏ qua khi bà được chọn để đối phó truyền thông trước bầu cử giữa kỳ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tan-thu-ky-bao-chi-nha-trang-mat-chuc-sau-chua-day-mot-tuan-5133443.html"
+            },
+            {
+              "name": "VnExpress – hậu trường",
+              "url": "https://vnexpress.net/hau-truong-vu-sa-thai-phat-ngon-vien-chop-nhoang-cua-ong-trump-5133497.html"
+            }
+          ]
+        },
+        {
+          "headline": "Giáo hoàng Leo XIV điện đàm với Putin từ bệnh viện, kêu gọi ngừng bắn ở Oleshky",
+          "meta": "16–17/10 · VnExpress, BBC",
+          "body": [
+            "Vatican cho biết Giáo hoàng, đang hồi phục sau ca phẫu thuật khối u phổi ngày 13/10, bày tỏ lo ngại về “thảm họa nhân đạo” ở Oleshky (Kherson) và kêu gọi ngừng bắn để cứu trợ, sơ tán dân. Điện Kremlin nói ông Putin ủng hộ nỗ lực của Vatican.",
+            "Ngoại trưởng Vatican, Tổng giám mục Paul Gallagher, nói với BBC sức khỏe Giáo hoàng “không nên bị xem là điều hiển nhiên”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/giao-hoang-dien-dam-voi-tong-thong-putin-tu-benh-vien-5133445.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo"
+            }
+          ]
+        },
+        {
+          "headline": "Triều Tiên thử ngư lôi Zam-2.0 “dùng AI dò, dẫn đường mục tiêu”",
+          "meta": "17/10 · VnExpress (dẫn KCNA)",
+          "body": [
+            "KCNA cho biết cuộc thử ngày 15/10 xác nhận nâng cấp hệ thống ngư lôi dẫn đường chính xác siêu tốc Zam-2.0, có AI trong khâu phát hiện mục tiêu và dẫn đường; động cơ được hoàn thiện qua hơn 180 lần thử trong 5 năm. Chi tiết kỹ thuật không được công bố."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/trieu-tien-thu-nghiem-ngu-loi-dung-ai-truy-duoi-muc-tieu-5133448.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Metro số 1 mất điện, nhà ở xã hội, mã BHXH, phạt lỗi khoảng cách cao tốc và hoa Tết Sa Đéc.",
+      "items": [
+        {
+          "headline": "Metro Bến Thành – Suối Tiên dừng khoảng 31 phút do sự cố trạm 220 kV Thủ Đức",
+          "meta": "Sáng 17/10 · VnExpress",
+          "body": [
+            "Khoảng 7h04, sự cố kỹ thuật ở trạm biến áp 220 kV Thủ Đức làm gián đoạn điện cấp cho tuyến metro số 1; các đoàn tàu được đưa về ga gần nhất để khách xuống chờ. Đến 7h35 điện được cấp lại, khoảng 14 đoàn tàu bị ảnh hưởng; nguyên nhân cụ thể đang được điều tra."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/metro-ben-thanh-suoi-tien-dung-chay-mot-gio-do-su-co-dien-5133490.html"
+            }
+          ]
+        },
+        {
+          "headline": "Chính phủ phấn đấu hoàn thành khoảng 176.000 căn nhà ở xã hội năm 2027",
+          "meta": "Sáng 17/10 · VnExpress",
+          "body": [
+            "Báo cáo tại Quốc hội cho biết cả nước đang triển khai 907 dự án nhà ở xã hội với gần 858.500 căn (tổng vốn gần 793.000 tỷ đồng), trong đó 301 dự án, khoảng 201.500 căn đã hoàn thành; riêng 4 tháng qua khởi công 22 dự án nhà cho thuê, hơn 33.400 căn."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thu-tuong-phan-dau-hoan-thanh-176-000-can-nha-o-xa-hoi-nam-2027-5133467.html"
+            }
+          ]
+        },
+        {
+          "headline": "Gần 101,5 triệu người đã chuyển mã số BHXH, BHYT sang số định danh cá nhân",
+          "meta": "16–17/10 · VnExpress",
+          "body": [
+            "Sau 45 ngày, hơn 99% người thuộc diện đã chuyển đổi. Còn 162.000 người chưa thành công, hơn 348.000 người chưa thực hiện và gần 337.000 người chưa đủ điều kiện, chủ yếu do thông tin cá nhân hoặc dữ liệu chưa khớp."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/gan-101-5-trieu-nguoi-chuyen-doi-ma-so-bhxh-bhyt-sang-dinh-danh-ca-nhan-5133376.html"
+            }
+          ]
+        },
+        {
+          "headline": "CSGT đề nghị kẻ vạch, lắp biển ở 77 vị trí trên 16 cao tốc để phạt lỗi khoảng cách",
+          "meta": "17/10 · VnExpress",
+          "body": [
+            "Cục Cảnh sát giao thông đề nghị lắp biển báo, kẻ vạch tại 77 vị trí trên 16 tuyến cao tốc làm căn cứ xử phạt tài xế không giữ khoảng cách an toàn. Cùng ngày, Công an Đồng Nai đưa 250 camera AI vào phạt nguội trong hệ thống 762 camera trên các tuyến trọng điểm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/de-nghi-lap-bien-bao-de-xu-phat-loi-khoang-cach-tren-16-cao-toc-5133397.html"
+            },
+            {
+              "name": "VnExpress – Đồng Nai",
+              "url": "https://vnexpress.net/dong-nai-van-hanh-250-camera-ai-de-phat-nguoi-5133386.html"
+            }
+          ]
+        },
+        {
+          "headline": "Làng hoa Sa Đéc xuống giống cho Tết 2027, dự kiến 1–1,2 triệu giỏ",
+          "meta": "17/10 · VnExpress",
+          "body": [
+            "Nhà vườn Sa Đéc tất bật chuẩn bị hoa Tết dù chi phí vật tư tăng; so với 5 năm trước, sản lượng hoa Tết giảm vì giỏ đặt thưa hơn trên cùng diện tích. Phường hiện có 960 ha hoa kiểng, hơn 4.000 hộ; hoa kiểng công trình chiếm khoảng 75% diện tích."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/lang-hoa-lon-nhat-mien-tay-tat-bat-chuan-bi-vu-tet-5133036.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Vụ sơn chì ở trường mầm non Trung Quốc, khói mù Singapore, án tù ở Mexico, rừng Amazon và Jantar Mantar.",
+      "items": [
+        {
+          "headline": "Trung Quốc: chủ trường mầm non lĩnh án chung thân vì pha sơn vào thức ăn, hơn 200 trẻ ngộ độc chì",
+          "meta": "16/10 · VnExpress",
+          "body": [
+            "Tòa Trung cấp Lan Châu (Cam Túc) tuyên chung thân và phạt 75.000 USD với chủ trường mầm non Bồi Tín ở Thiên Thủy. Bốn nhân viên bếp đã mua sơn trang trí trên mạng, pha loãng rồi trộn vào món ăn cho “bắt mắt”; mẫu thực phẩm có hàm lượng chì vượt giới hạn hơn 2.000 lần."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/truong-mam-non-pha-son-vao-thuc-an-200-tre-ngo-doc-chi-5133575.html"
+            }
+          ]
+        },
+        {
+          "headline": "Singapore gửi cảnh cáo 7 công ty Indonesia vì khói mù cháy rừng",
+          "meta": "16/10 · VnExpress",
+          "body": [
+            "Bộ trưởng Môi trường Grace Fu nói điều tra sơ bộ cho thấy một phần khói mù ở Singapore đến từ đám cháy trên đất của 7 công ty có trụ sở ở Sumatra; họ phải dập lửa, ngừng đốt và nộp kế hoạch hành động, nếu không có thể bị phạt tiền hoặc xử lý hành chính."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/singapore-canh-cao-7-cong-ty-indonesia-vi-khoi-chay-rung-5133548.html"
+            }
+          ]
+        },
+        {
+          "headline": "Mexico: ba người lĩnh 158 năm tù mỗi người vì sát hại ba du khách lướt sóng Australia và Mỹ",
+          "meta": "17/10 · BBC",
+          "body": [
+            "Anh em Jake và Callum Robinson cùng bạn Carter Rhoad bị giết trong chuyến đi lướt sóng, theo BBC là trong một vụ cướp bất thành; tòa tuyên mỗi bị cáo 158 năm tù."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo"
+            }
+          ]
+        },
+        {
+          "headline": "Brazil ghi nhận mức giảm phá rừng Amazon kỷ lục trước thềm bầu cử",
+          "meta": "17/10 · BBC",
+          "body": [
+            "BBC đưa tin nạn phá rừng Amazon giảm kỷ lục, sau giai đoạn mở rộng dưới thời cựu Tổng thống Jair Bolsonaro, khi Brazil sắp bước vào cuộc bầu cử quan trọng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o"
+            }
+          ]
+        },
+        {
+          "headline": "Ấn Độ: Jantar Mantar, “thủ phủ biểu tình” thế kỷ 18 ở Delhi, bị gỡ danh nghĩa điểm biểu tình",
+          "meta": "17/10 · BBC",
+          "body": [
+            "Khu đài thiên văn cổ gần như đồng nghĩa với biểu tình ở New Delhi vừa bị bãi bỏ tư cách điểm biểu tình được chỉ định, theo BBC có thể chấm dứt vai trò nơi “hàng nghìn khẩu hiệu từng vang lên”."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Cú lợn Manhattan, cậu bé Coca-Cola, tỷ phú YouTube và đám hỏi 11 con lợn — cùng giờ nhuận, lụt bia 1814 và động đất 1989.",
+      "items": [
+        {
+          "headline": "Bên lề: Gia đình cú lợn làm tổ trên tháp nước khiến dân Manhattan đổ ra phố",
+          "meta": "17/10 · VnExpress",
+          "body": [
+            "Từ 6/10, cư dân Upper West Side phát hiện nhiều con cú lợn trên tháp nước nóc tòa nhà ở phố West 75th, gần Central Park; mỗi tối người dân háo hức ra đường ngắm, chuyên gia Phòng thí nghiệm Điểu học Cornell cũng bất ngờ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cu-dan-new-york-phat-sot-vi-gia-dinh-cu-lon-5133327.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bên lề: “Cậu bé Coca-Cola” trên Vạn Lý Trường Thành 45 năm sau",
+          "meta": "17/10 · VnExpress",
+          "body": [
+            "Tháng 3/1979, nhiếp ảnh gia Mỹ James Andanson đưa lon Coca-Cola cho cậu bé 8 tuổi Hei Jiantao và chụp bức ảnh “Lon Coca-Cola đầu tiên ở Trung Quốc” đăng trên National Geographic, thành biểu tượng thời mở cửa. Nay ông Hei là doanh nhân."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cuoc-doi-cua-cau-be-coca-cola-trong-buc-anh-noi-tieng-5133423.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bên lề: Thầy giáo YouTube dạy vật lý miễn phí thành tỷ phú tự thân trẻ nhất Ấn Độ",
+          "meta": "17/10 · VnExpress (dẫn Forbes)",
+          "body": [
+            "Alakh Pandey, 35 tuổi, từng bỏ đại học năm ba, có tài sản ròng 1,5 tỷ USD theo Forbes sau IPO của PhysicsWallah (tháng 11/2025). Thuở nhỏ gia đình anh hai lần phải bán nhà."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thay-giao-youtube-thanh-ty-phu-tre-nhat-an-do-5133432.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bên lề: Kỹ sư Bỉ mang 11 con lợn hỏi cưới cô gái Pa Cô",
+          "meta": "17/10 · VnExpress",
+          "body": [
+            "Đang đi phượt miền Bắc, kỹ sư hóa học người Bỉ Cools Nick Dirk tách đoàn quay lại Hội An tìm cô thợ may từng từ chối mình, rồi theo phong tục mang 11 con lợn đi hỏi cưới."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chang-ky-su-bi-mang-11-con-lon-hoi-cuoi-co-gai-pa-co-5131387.html"
+            }
+          ]
+        },
+        {
+          "headline": "Fact khoa học: Thế giới bỏ “giây nhuận”, chuyển sang “giờ nhuận”",
+          "meta": "15/10 · VnExpress (dẫn Nature)",
+          "body": [
+            "Ngày 15/10 tại Paris, Hội nghị Đo lường Quốc tế (CGPM) lần thứ 28 thông qua nghị quyết bỏ giây nhuận, thay bằng giờ nhuận khi cần đồng bộ giờ nguyên tử (UTC) với vòng quay Trái Đất. Từ năm 1972 tới nay đã có tổng cộng 27 giây nhuận được thêm vào."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/the-gioi-se-thay-giay-nhuan-bang-gio-nhuan-5133305.html"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay 17/10/1814: “Trận lụt bia” London làm 8 người chết",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Một thùng ủ bia porter ở nhà máy Meux (London) vỡ, kéo theo các thùng khác; khoảng 128.000–323.000 gallon Anh (580.000–1.470.000 lít) bia tràn ra, phá tường sau nhà máy và tràn vào khu ổ chuột St Giles. Tám người thiệt mạng; tòa điều tra kết luận là tai nạn."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – London Beer Flood",
+              "url": "https://en.wikipedia.org/wiki/London_Beer_Flood"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay 17/10/1989: Động đất Loma Prieta 6,9 độ rung chuyển vùng vịnh San Francisco",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Lúc 17h04 (giờ Thái Bình Dương), trận động đất Mw 6,9 trên hệ đứt gãy San Andreas, tâm ở Santa Cruz (California), làm 63 người chết và 3.757 người bị thương. Đoạn đứt gãy này tương đối im lìm kể từ đại động đất San Francisco 1906."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – 1989 Loma Prieta earthquake",
+              "url": "https://en.wikipedia.org/wiki/1989_Loma_Prieta_earthquake"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 17/10/2026 (giờ VN). Không lặp tin số sáng (khai mạc Quốc hội, lịch thăm của Tổng thống Thụy Sĩ, Starlink, Albania, Houthi…), trừ cập nhật mới trong ngày. Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
