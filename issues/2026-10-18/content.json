@@ -1,0 +1,1569 @@
+{
+  "date": "2026-10-18",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 18/10/2026 · Chủ nhật · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Hôm nay ký FTA Việt Nam – EFTA tại Hà Nội; Quốc hội họp Chủ nhật bàn kinh tế - xã hội và ngân sách 2027",
+    "OpenCode bị tấn công “distillation”: 1,4% người dùng Console gắn API key ngoài bị ảnh hưởng, nên đổi key ngay",
+    "Iran nói thêm siêu tàu dầu trúng thủy lôi, tuyên bố đóng Hormuz; Brent chốt 109,86 USD",
+    "Haaland lập cú đúp, Man City thắng Ipswich 3-2, 7 trận toàn thắng đầu mùa",
+    "Nghiên cứu tuần: AI “Inspect Any Crack” đo bề rộng vết nứt bê tông và chấm điểm mức nguy hiểm 0–100"
+  ],
+  "followups": [
+    {
+      "title": "Tổng thống Thụy Sĩ thăm Việt Nam và FTA Việt Nam – EFTA",
+      "update": "17/10 Tổng thống Guy Parmelin hội đàm với Tổng Bí thư, Chủ tịch nước Tô Lâm và Thủ tướng Lê Minh Hưng; hai bên ký nhiều văn kiện, gồm hai dự án hợp tác phát triển kinh tế hỗ trợ thực thi FTA và phát triển đô thị bền vững, cùng thư ý định về lao động – việc làm và đổi mới sáng tạo. Hôm nay (18/10) bốn nước EFTA ký FTA với Việt Nam tại Hà Nội, khép lại tiến trình đàm phán từ 2012; Thủ tướng Liechtenstein Brigitte Haas cũng đang thăm Việt Nam (17–19/10). Hai bên muốn sớm hoàn tất hiệp định bảo hộ đầu tư mới.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15-chieu",
+      "sources": [
+        {
+          "name": "Chính phủ Thụy Sĩ (WBF)",
+          "url": "https://www.wbf.admin.ch/en/newnsb/nFr5JFmp-iss"
+        },
+        {
+          "name": "BBC Tiếng Việt",
+          "url": "https://www.bbc.com/vietnamese/articles/cv70p6xxdn7wo"
+        },
+        {
+          "name": "VOV",
+          "url": "https://english.vov.vn/en/politics/diplomacy/liechtenstein-prime-minister-begins-vietnam-visit-to-boost-bilateral-ties-post1342322.vov"
+        }
+      ]
+    },
+    {
+      "title": "Kỳ họp thứ hai Quốc hội khóa XVI",
+      "update": "Quốc hội làm việc cả Chủ nhật 18/10: nghe trình dự án Luật Thỏa thuận quốc tế (sửa đổi), đề xuất thí điểm thu hồi tài sản liên quan tội phạm không qua kết tội, rồi thảo luận tổ về kinh tế - xã hội và ngân sách 2027. Báo cáo của Thủ tướng: 14/15 chỉ tiêu năm 2026 dự kiến đạt và vượt, GDP quý III tăng 9,95%, 9 tháng tăng 9,01%; xuất nhập khẩu cả năm dự kiến 1.110 tỷ USD, lần đầu vượt 1.000 tỷ USD.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-13-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hom-nay-quoc-hoi-thao-luan-kinh-te-xa-hoi-va-ngan-sach-5133678.html"
+        }
+      ]
+    },
+    {
+      "title": "Ông Trump miễn trừng phạt Nga theo Đạo luật Graham",
+      "update": "Ngày 17/10 quyết định gây phản ứng ở cả hai đảng: các nghị sĩ Cộng hòa Thom Tillis (“beyond irresponsible” – vô trách nhiệm quá mức), John Cornyn, Susan Collins chỉ trích; phe Dân chủ (Schumer, Warren) gọi là nhượng bộ Putin. AP nhận định Quốc hội khó phản đòn nhanh. Ông Zelensky nói ông Trump đang “thưởng cho Putin”.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17-chieu",
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/trump-sanctions-waiver-russa-putin-ukraine-war-3cc9740c39e9e9eb713b1c553b5709e6"
+        },
+        {
+          "name": "Politico",
+          "url": "https://www.politico.com/news/2026/10/17/tillis-cornyn-trump-ukraine-diesel-sanctions-01125243"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trump-suspends-new-russia-sanctions-deal-purchase-diesel-citing-nation-rcna603991"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Hải quân Iran nay nói hai siêu tàu dầu đã trúng thủy lôi (một tàu chở hơn 2 triệu thùng, bốc cháy) và tuyên bố đóng eo; chưa có cơ quan hàng hải độc lập xác nhận. UKMTO ghi nhận ít nhất 10 tàu bị tấn công quanh Hormuz kể từ Chủ nhật 11/10, mức cao nhất một tuần từ khi chiến tranh nổ ra. Phiên 16/10 (giờ Mỹ), Brent chốt 109,86 USD/thùng (+3,7%), cao nhất từ 19/5; WTI 101,41 USD.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "Anadolu",
+          "url": "https://www.aa.com.tr/en/middle-east/iran-says-oil-tanker-hit-naval-mine-in-strait-of-hormuz/4091606"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+        },
+        {
+          "name": "Reuters qua Business Recorder",
+          "url": "https://www.brecorder.com/news/40444629/oil-touches-usd110-a-barrel-for-first-time-since-may"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine nối lại đòn vào lọc dầu Nga",
+      "update": "Theo Reuters, nhà máy lọc dầu Ryazan (17 triệu tấn/năm, cung cấp nhiên liệu cho vùng Moskva) đã dừng tổ hợp chưng cất chính CDU-6 sau đòn UAV đêm 14–15/10, vài đường ống hư hại; ba tổ hợp còn lại vẫn chạy. Ngày 16/10 Nga mở một trong những đợt tập kích lớn nhất vào hơn 15 cơ sở năng lượng Ukraine. Kyiv chưa xác nhận đòn mới vào lọc dầu sau tuyên bố bỏ “lệnh ngừng bắn năng lượng”.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-08",
+      "sources": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-ryazan-oil-refinery-halts-one-of-its-main-units-after-drone-attacks-reuters-reports/"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/russia-ukraine-war-oil-refinery-attacks-resume-0071b4f3792c9912b977b0ee73505b18"
+        }
+      ]
+    },
+    {
+      "title": "Chiến sự Yemen lan sang Saudi Arabia",
+      "update": "17/10 liên quân Saudi báo đánh chặn thêm 4 UAV trên Riyadh, miền Đông và miền Nam, phá hai bệ phóng tên lửa của Houthi ở Saada; truyền thông Houthi nói không kích của Saudi ở Taiz và Dhamar làm ít nhất 12 người chết. Rạng sáng Chủ nhật (giờ Riyadh), dân thủ đô nhận cảnh báo “mối đe dọa trên không”. Tổng thống Ai Cập Sisi nói sẵn sàng bảo vệ Saudi “nếu được đề nghị”; WSJ đưa tin Iran cung cấp tình báo, hỗ trợ ngắm mục tiêu cho Houthi.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-07-chieu",
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+        },
+        {
+          "name": "PBS/AP",
+          "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength"
+        },
+        {
+          "name": "WSJ",
+          "url": "https://www.wsj.com/world/middle-east/iran-houthi-saudi-arabia-attacks-38b82107"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-18",
+      "time": "17–19/10",
+      "timezone": "giờ VN",
+      "title": "Thủ tướng Liechtenstein Brigitte Haas thăm chính thức Việt Nam",
+      "topic": "Chính trị",
+      "note": "Dự kiến ký FTA Việt Nam – EFTA và hiệp định tránh đánh thuế hai lần.",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://english.vov.vn/en/politics/diplomacy/liechtenstein-prime-minister-begins-vietnam-visit-to-boost-bilateral-ties-post1342322.vov"
+        },
+        {
+          "name": "Nhân Dân",
+          "url": "https://en.nhandan.vn/liechtenstein-prime-minister-arrives-in-ha-noi-starting-official-visit-to-viet-nam-post167902.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "18:00",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 4: Ninh Bình – HAGL",
+      "topic": "Bóng đá",
+      "note": "HAGL vừa có chiến thắng đầu tiên, 3-0 trước Đà Nẵng.",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/lich-thi-dau-v-league-moi-nhat-hagl-kho-gay-bat-ngo-cho-ninh-binh-fc-185261016181637501.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "20:00",
+      "timezone": "giờ VN",
+      "title": "Leeds – Man Utd, Ngoại hạng Anh (Elland Road)",
+      "topic": "Bóng đá",
+      "note": "Phép thử cho Carrick giữa tin Conte liên hệ.",
+      "sources": [
+        {
+          "name": "Leeds United",
+          "url": "https://www.leedsunited.com/en/news/television-picks-made-for-october-fixtures"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/scores-fixtures/2026-10-18"
+        },
+        {
+          "name": "Football Web Pages",
+          "url": "https://www.footballwebpages.co.uk/premier-league/fixtures-results/october"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "rạng sáng 18/10 → chiều 19/10",
+      "timezone": "giờ VN",
+      "title": "Lai dắt nhịp cầu đi bộ 3.400 tấn từ cảng Đông Xuyên về bến Bạch Đằng",
+      "topic": "Đời sống",
+      "note": "Hành trình khoảng 124 km, sau đó hợp long.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/lo-trinh-lai-dat-nhip-cau-3-400-tan-vuot-bien-ve-trung-tam-tp-hcm-5133429.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "sáng và chiều",
+      "timezone": "giờ VN",
+      "title": "Quốc hội làm việc Chủ nhật: thảo luận tổ về kinh tế - xã hội, ngân sách 2027",
+      "topic": "Chính trị",
+      "note": "Trước đó nghe trình Luật Thỏa thuận quốc tế (sửa đổi), đề xuất thí điểm thu hồi tài sản liên quan tội phạm không qua kết tội và tổng kết đường Hồ Chí Minh hai làn xe.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hom-nay-quoc-hoi-thao-luan-kinh-te-xa-hoi-va-ngan-sach-5133678.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Ký Hiệp định thương mại tự do Việt Nam – EFTA tại Hà Nội",
+      "topic": "Chính trị",
+      "note": "Bốn nước EFTA (Thụy Sĩ, Na Uy, Iceland, Liechtenstein) cùng ký, có Tổng thống Thụy Sĩ Guy Parmelin; sau đó khai mạc Diễn đàn kinh tế Thụy Sĩ – Việt Nam.",
+      "sources": [
+        {
+          "name": "Chính phủ Thụy Sĩ (WBF)",
+          "url": "https://www.wbf.admin.ch/en/newnsb/nFr5JFmp-iss"
+        },
+        {
+          "name": "BBC Tiếng Việt",
+          "url": "https://www.bbc.com/vietnamese/articles/cv70p6xxdn7wo"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "time": "02:00",
+      "timezone": "giờ VN",
+      "title": "Real Madrid – Sevilla, vòng 9 La Liga",
+      "topic": "Bóng đá",
+      "note": "21:00 CEST ngày 18/10, sân Bernabéu.",
+      "sources": [
+        {
+          "name": "Real Madrid",
+          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/el-real-madrid-sevilla-se-jugara-el-domingo-18-de-octubre-a-las-21-00-h-16-09-2026"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "time": "13:00–19:00",
+      "timezone": "giờ VN",
+      "title": "Tạm cấm luồng thủy khu vực thi công cầu đi bộ sông Sài Gòn (neo sà lan)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-dan-xe-sieu-truong-ha-thuy-nhip-cau-di-bo-nang-3-400-tan-bac-qua-song-sai-gon-5132906.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "time": "19–24/10",
+      "timezone": "giờ VN / châu Âu",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Đan Mạch, EU và Bỉ",
+      "topic": "Chính trị",
+      "note": "Chuyến thăm cấp nhà nước Đan Mạch và chính thức EU–Bỉ; nhiều dấu mốc đầu tiên.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-di-chau-au-chuyen-tham-cua-nhieu-dau-moc-dau-tien-10026101614385695.htm"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chuyen-tham-chau-au-cua-tong-bi-thu-chu-tich-nuoc-la-co-hoi-tao-buoc-ngoat-hop-tac-5133146.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "title": "RELEASE [AEC] 2026 tại Paris: ngày công nghệ AEC tập trung vào AI",
+      "topic": "Xây dựng",
+      "note": "Cité des sciences et de l'industrie; diễn giả gồm Thomas Heatherwick, Graphisoft.",
+      "sources": [
+        {
+          "name": "RELEASE [AEC]",
+          "url": "https://www.release-aec.com/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "02:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 3: PSG – Barcelona, Man City – AEK, Liverpool – Villarreal",
+      "topic": "Bóng đá",
+      "note": "21:00 tối 20/10 giờ châu Âu; cùng giờ còn Napoli – Bodø/Glimt, Stuttgart – Atlético.",
+      "sources": [
+        {
+          "name": "UEFA.com",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "23:45",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 3: Como – Man Utd",
+      "topic": "Bóng đá",
+      "note": "18:45 giờ châu Âu; cùng giờ Lille – Galatasaray.",
+      "sources": [
+        {
+          "name": "UEFA.com",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Dự kiến hợp long cầu đi bộ qua sông Sài Gòn",
+      "topic": "Đời sống",
+      "note": "Tạm cấm luồng 2h–18h ngày 21 và 22/10; thời điểm có thể điều chỉnh theo mực nước.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-dan-xe-sieu-truong-ha-thuy-nhip-cau-di-bo-nang-3-400-tan-bac-qua-song-sai-gon-5132906.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "9:00–15:00",
+      "timezone": "giờ Dubai",
+      "title": "Digital Construction Summit 2026 (Dubai)",
+      "topic": "Xây dựng",
+      "note": "Thảo luận AI trong xây dựng, thiếu hụt nhân lực, robot.",
+      "sources": [
+        {
+          "name": "Digital Construction Summit",
+          "url": "https://2026.digitalconstructionsummit.com/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "time": "02:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 3: Bayern – Arsenal, Real Madrid – Leipzig",
+      "topic": "Bóng đá",
+      "note": "Đêm 21/10 giờ châu Âu; cùng giờ Aston Villa – Viking, Inter – Shakhtar.",
+      "sources": [
+        {
+          "name": "UEFA.com",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "time": "19:15",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 5 mở màn: Công an Hà Nội – Thanh Hóa",
+      "topic": "Bóng đá",
+      "note": "Vòng 5 kéo dài đến 25/10 (HAGL – SLNA 23/10, Đà Nẵng – Hà Nội 25/10).",
+      "sources": [
+        {
+          "name": "VietNamNet",
+          "url": "https://vietnamnet.vn/lich-thi-dau-vong-5-v-league-mua-giai-2026-27-moi-nhat-2565621.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "18:30",
+      "timezone": "giờ VN",
+      "title": "Aston Villa – Man City, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "Man City đang thắng cả 7 trận, dẫn đầu bảng.",
+      "sources": [
+        {
+          "name": "Football Web Pages",
+          "url": "https://www.footballwebpages.co.uk/premier-league/fixtures-results/october"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "21:00",
+      "timezone": "giờ Tây Ban Nha",
+      "title": "El Clásico Barcelona – Real Madrid, vòng 10 La Liga",
+      "topic": "Bóng đá",
+      "note": "Spotify Camp Nou. Châu Âu đã đổi về giờ mùa đông, tương đương khoảng 03:00 ngày 26/10 giờ VN.",
+      "sources": [
+        {
+          "name": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/matches/138374/fc-barcelona-real-madrid-la-liga-2026-2027"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "time": "28–29/10",
+      "timezone": "giờ San Francisco",
+      "title": "GitHub Universe 2026 (Fort Mason Center, San Francisco)",
+      "topic": "Công nghệ",
+      "note": "Chủ đề “kỷ nguyên agent”; có hình thức trực tuyến.",
+      "sources": [
+        {
+          "name": "GitHub Universe",
+          "url": "https://githubuniverse.com/"
+        },
+        {
+          "name": "GitHub Blog",
+          "url": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "time": "29–30/10",
+      "title": "SWACCA BIM Summit 2026 (Pleasanton, California)",
+      "topic": "Xây dựng",
+      "note": "Có phiên dùng AI coding agent để viết công cụ Revit.",
+      "sources": [
+        {
+          "name": "Eventbrite",
+          "url": "https://www.eventbrite.com/e/swacca-bim-summit-2026-align-automate-advance-tickets-1989417992770"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "time": "trong ngày",
+      "timezone": "giờ địa phương",
+      "title": "Hết hạn chương trình dùng thử Chaos Veras 14 ngày",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Chaos",
+          "url": "https://www.chaos.com/veras/trial"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "23:00",
+      "timezone": "giờ VN",
+      "title": "DeepSeek bắt đầu tính phí Search & Fetch qua DeepSeek Harness, Claude Code, Codex",
+      "topic": "Công nghệ",
+      "note": "Hết giai đoạn miễn phí (16:00 UTC 31/10).",
+      "sources": [
+        {
+          "name": "DeepSeek API Docs",
+          "url": "https://api-docs.deepseek.com/news/news261017"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "time": "2–3/11",
+      "title": "buildingSMART USA: openBIM Roads and Bridges Transportation Summit (Pittsburgh)",
+      "topic": "Xây dựng",
+      "note": "Có FHWA, AASHTO và các sở giao thông bang; trọng tâm BIM cho hạ tầng giao thông.",
+      "sources": [
+        {
+          "name": "buildingSMART USA",
+          "url": "https://www.buildingsmart.us/november-2026"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "time": "trong ngày",
+      "timezone": "giờ địa phương",
+      "title": "Hết giá giới thiệu Gemini 4 Argon API (2/10 USD mỗi triệu token)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Gemini API pricing",
+          "url": "https://ai.google.dev/gemini-api/docs/pricing"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "OpenCode bị xâm nhập trong “distillation attack” quy mô lớn: 1,4% người dùng Console gắn API key của nhà cung cấp ngoài bị ảnh hưởng",
+          "meta": "OpenCode (X) · 18/10 (giờ VN)",
+          "body": [
+            "Rạng sáng 18/10 (giờ VN), tài khoản chính thức của OpenCode, agent lập trình mã nguồn mở, cho biết công ty gặp sự cố bảo mật “đêm qua” liên quan đến một vụ distillation attack quy mô lớn (dùng model của người khác ồ ạt để chép năng lực sang model riêng), ảnh hưởng 1,4% người dùng OpenCode Console. OpenCode nói đã gửi email cho toàn bộ người bị ảnh hưởng; ai không nhận email là không bị ảnh hưởng. Những người bị ảnh hưởng là nhóm có gắn nhà cung cấp bên ngoài (API key riêng của OpenAI, Anthropic, Google…). Bài đăng có hơn 770.000 lượt xem và lên đầu Hacker News với khoảng 650 điểm.",
+            "Phiên bản đầu của bài đăng nói sự cố “vẫn đang diễn ra” nên chưa thể chia sẻ thêm. Trên X, một số lập trình viên kể bị trừ tiền bất thường qua đêm trên tài khoản API — đây là chia sẻ cá nhân, chưa được OpenCode xác nhận con số. Nếu từng gắn key vào OpenCode Console: nên thu hồi, tạo key mới và kiểm tra hoá đơn ngay. Lưu ý: số báo hôm qua có giới thiệu ưu đãi model miễn phí trên OpenCode Zen — ưu đãi đó không liên quan trực tiếp đến key bị lộ, nhưng nên cân nhắc rủi ro trước khi gắn thông tin thanh toán hay key riêng."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "OpenCode (X)",
+              "url": "https://x.com/opencode/status/2111519637049319818"
+            },
+            {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/item?id=50133401"
+            }
+          ]
+        },
+        {
+          "headline": "Anthropic công bố báo cáo nội bộ: tỷ lệ tuyển kỹ sư junior giảm từ 27% xuống 9%, agent làm việc gấp 6 lần giờ của nhân viên",
+          "meta": "Anthropic / TechCrunch · 16–17/10",
+          "body": [
+            "Báo cáo “How employment is changing at Anthropic” (16/10) dùng dữ liệu nội bộ về nhân sự, telemetry agent, lịch họp, khảo sát và 17 cuộc phỏng vấn. Tỷ lệ nhân viên junior trong khối kỹ thuật giảm từ 21% xuống 14% từ đầu 2025; tỷ lệ tuyển mới junior kỹ thuật giảm từ 27% xuống 9%. Đến tháng 8, số giờ làm của agent tương tác do nhân viên điều khiển gấp 6 lần giờ làm của chính họ; số commit mỗi kỹ sư gấp 5 lần so với sáu tháng trước, và hãng nói chưa thấy dấu hiệu code do agent viết bị xoá hay revert nhiều hơn.",
+            "Điểm nghẽn giờ là sự chú ý của con người: khoảng 80% thời gian phiên Claude là chờ người phản hồi; đọc hết output của Claude chiếm hơn nửa tuần làm việc kể cả với nhân viên phi kỹ thuật. Thời gian họp tăng 20% (16% với kỹ sư). 20% người được khảo sát nói việc của họ chuyển từ “làm” sang “quản lý các Claude”. Anthropic cho biết đã lập hệ thống cảnh báo sớm các vị trí có nguy cơ bị AI thay đổi và ưu tiên điều chuyển nội bộ; nhưng thừa nhận các biện pháp này không giải quyết việc ít tuyển junior."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "url": "https://www.anthropic.com/research/employment-at-anthropic"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+            }
+          ]
+        },
+        {
+          "headline": "Replit làm rõ: không “cắt” Anthropic, nhưng OpenAI thành model mặc định cho Replit Agent",
+          "meta": "TechCrunch · 17/10 (cập nhật)",
+          "body": [
+            "Sau phát biểu tại TechCrunch Disrupt rằng Replit “không còn làm việc với Anthropic” (số báo hôm qua), CEO Amjad Masad đã đính chính: người dùng vẫn chọn được Claude, nhưng ChatGPT/OpenAI nay là mặc định. “OpenAI giờ là đối tác ưu tiên để vận hành Replit Agent, dựa trên hiệu năng, kinh tế và sức mạnh của quan hệ đối tác,” ông nói với TechCrunch. TechCrunch đã đổi tiêu đề bài.",
+            "Thay đổi này vẫn có thể làm chi tiêu của Replit cho Anthropic giảm mạnh vì phần lớn khách hàng dùng model mặc định; Masad cho biết đến gần đây Replit là một trong năm khách hàng lớn nhất của Anthropic. Ông cũng nói doanh thu enterprise tăng từ khoảng 2% năm ngoái lên khoảng 15% năm nay, và hơn 50% doanh thu là B2B."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+            }
+          ]
+        },
+        {
+          "headline": "DeepSeek ra V4.1-Flash-1017: bản cập nhật nhỏ nhưng tăng mạnh điểm agent/coding, output ngắn hơn; trọng số MIT",
+          "meta": "DeepSeek / Hugging Face · 17/10",
+          "body": [
+            "DeepSeek phát hành DeepSeek-V4.1-Flash-1017 trên web, app và API, kèm trọng số mở giấy phép MIT trên Hugging Face (763 tỷ tham số, cửa sổ ngữ cảnh 1 triệu token). Hãng nói mô hình mạnh hơn bản trước trên lập luận, coding, agent và thị giác, đồng thời chạy nhanh hơn và output ngắn hơn nên rẻ hơn cho mỗi tác vụ. Theo bảng do DeepSeek tự công bố: Terminal-Bench 4.0 tăng từ 31,2 lên 42,3; DeepSWE v1.1 từ 74,2 lên 77,0 (cao hơn GPT-5.6 Sol 73,0 và Opus 5 74,0 trong bảng của hãng).",
+            "Cùng đợt, DeepSeek mở Search & Fetch API cho mọi người (0,75 USD/1.000 lượt gọi mỗi endpoint) và phát hành deepseek-recipe (thư viện Rust có binding Python) để mã hoá prompt đúng định dạng. Bài trên Hugging Face lên top Hacker News với khoảng 640 điểm."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "DeepSeek API Docs",
+              "url": "https://api-docs.deepseek.com/news/news261017"
+            },
+            {
+              "name": "Hugging Face",
+              "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+            },
+            {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/item?id=50129045"
+            }
+          ]
+        },
+        {
+          "headline": "Codex ngày 12–13 của thử thách 28 ngày: tái dùng context giữa subagent, cache lâu hơn để “nới” hạn mức; rồi lại reset giới hạn",
+          "meta": "Tibo Sottiaux (OpenAI) trên X · 17/10 (giờ VN)",
+          "body": [
+            "Sáng 17/10 (giờ VN), Tibo Sottiaux — người phụ trách Codex — đăng “Day 12”: OpenAI đã cải tiến Codex và Work để tăng mức sử dụng thực tế người dùng nhận được, bằng cách tái sử dụng context giữa các subagent, giữ context trong cache lâu hơn và định tuyến request tốt hơn để tăng tỷ lệ trúng cache. Tối 17/10 (giờ VN) ông đăng “Day 13/ Le limit reset” — thêm một lần reset hạn mức.",
+            "Đây là chuỗi “mỗi ngày một cải tiến hoặc một lần reset” ông khởi động đầu tháng 10; các ngày trước gồm giảm 60% dung lượng ổ đĩa của app desktop (Day 9) và giảm lỗi “model đang quá tải” (Day 11). Trên HN cùng ngày có báo cáo lỗi Codex Desktop liên tục sinh file crash dump (issue #25921 trên GitHub)."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "X (@thsottiaux) Day 12",
+              "url": "https://x.com/thsottiaux/status/2111244596131111253"
+            },
+            {
+              "name": "X (@thsottiaux) Day 13",
+              "url": "https://x.com/thsottiaux/status/2111492673890824348"
+            },
+            {
+              "name": "GitHub openai/codex #25921",
+              "url": "https://github.com/openai/codex/issues/25921"
+            }
+          ]
+        },
+        {
+          "headline": "The Verge: nhiều website lớn đang chặn agent AI — Delta, JPMorgan, Schwab, Yelp; Amazon chặn Muse của Meta",
+          "meta": "The Verge · 17/10",
+          "body": [
+            "Người dùng các agent như Muse (Meta), Grok (xAI), Dots (OpenAI) và Instinct báo bị chặn khi nhờ agent làm việc trên nhiều trang lớn. Yelp nói chỉ cho agent đã trả tiền chương trình cấp phép dữ liệu; Delta Air Lines chặn agent đặt vé hộ; JPMorgan Chase và Charles Schwab xác nhận chặn agent truy cập tài khoản vì lý do bảo mật. Amazon nói việc Muse “tiếp tục truy cập” vi phạm chính sách trang; một số người dùng nói Cars.com và Amtrak cũng không còn vào được.",
+            "Meta chọn hợp tác với Walmart, Gap, Sephora, Best Buy… để Muse mua sắm; Shopify mở mạng lưới cửa hàng cho agent. Ngay cả khi không bị cấm thẳng, agent vẫn hay vướng hệ thống chống bot (Cloudflare…). CEO EquiStamp Chris Canal nhận định việc này làm giảm giá trị mà các hãng AI hứa hẹn và có thể khiến web “phiền” hơn với cả người thật."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "Repo agent/tool đang lên GitHub Trending; số sao lấy từ GitHub API lúc 06:08 sáng 18/10 (giờ VN). Đã bỏ qua các repo đưa ở số trước (xerj, android/skills, scientific-agent-skills, ECC, context-mode…).",
+      "items": [
+        {
+          "headline": "stablyai/orca: “nhạc trưởng” chạy song song Codex, Claude Code, OpenCode, Pi — mỗi agent một worktree, có app điện thoại",
+          "meta": "GitHub · 95.351 sao (GitHub API, 06:08 18/10)",
+          "body": [
+            "Orca là ứng dụng desktop (macOS, Windows, Linux; giấy phép MIT) để làm việc với cả “đội” agent lập trình: chạy nhiều agent cạnh nhau, mỗi cái trong git worktree riêng và theo dõi ở một chỗ, dùng chính gói thuê bao của bạn. App đồng hành trên iOS/Android báo khi agent xong việc và cho gửi lệnh tiếp từ điện thoại.",
+            "Repo đang nằm trong GitHub Trending ngày 18/10, đạt 95.351 sao; bản v1.4.229 phát hành ngày 17/10 — cập nhật rất dày."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/stablyai/orca"
+            }
+          ]
+        },
+        {
+          "headline": "akitaonrails/ai-memory: bộ nhớ dài hạn dùng chung cho hơn 20 agent CLI — thoát Claude Code, mở Codex làm tiếp không cần giải thích lại",
+          "meta": "GitHub · 9.895 sao (GitHub API, 06:08 18/10)",
+          "body": [
+            "Công cụ viết bằng Rust (MIT) tạo một bộ nhớ chung cho Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Grok, Kimi, Kiro… Khi chuyển agent giữa chừng, agent sau nhận “handoff” ghi rõ đang dừng ở đâu, cách nào đã thất bại, câu hỏi nào còn mở; lệnh ai-memory run còn mang theo lịch sử phiên cục bộ của agent trước (theo README, máy chủ từ xa không nhận nội dung transcript).",
+            "Có hồ sơ thói quen làm việc theo người dùng (trình quản lý gói, cách bố trí test…) áp vào mọi repo mới. Bản v3.1.1 ra ngày 17/10."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/akitaonrails/ai-memory"
+            }
+          ]
+        },
+        {
+          "headline": "ranxianglei/billion-context: plugin nén ngữ cảnh — hứa ít token hơn 5 lần, cửa sổ 100K là đủ, phiên dài cả tháng",
+          "meta": "GitHub · 1.712 sao (GitHub API, 06:08 18/10)",
+          "body": [
+            "Plugin nén ngữ cảnh (TypeScript, cài bằng npm) cho Claude Code, Codex, OpenCode, Pi, Gemini CLI, Kimi, Qwen Code…, nhắm vào việc giữ một phiên làm việc rất dài với cửa sổ ngữ cảnh nhỏ. Tác giả tuyên bố tiết kiệm khoảng 5 lần token và chạy phiên đơn kéo dài hàng tháng (hàng tỷ token) — đây là con số tự công bố, chưa có kiểm chứng độc lập.",
+            "Dự án của nhà phát triển Trung Quốc (README song ngữ), lọt GitHub Trending tuần; bản v0.1.199 ra ngày 17/10."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/ranxianglei/billion-context"
+            }
+          ]
+        },
+        {
+          "headline": "MadsLorentzen/ai-job-search: framework tìm việc chạy trên máy bạn, dựng trên Claude Code — đánh giá tin tuyển dụng, sửa CV, viết thư, luyện phỏng vấn",
+          "meta": "GitHub · 50.297 sao (GitHub API, 06:08 18/10)",
+          "body": [
+            "Fork repo, điền hồ sơ cá nhân rồi dùng các lệnh /scrape, /apply, /interview để Claude Code đánh giá tin tuyển dụng, viết CV và thư xin việc theo từng vị trí, chuẩn bị phỏng vấn. Tác giả — một nhà địa vật lý mất việc cuối 2025 — kể đã dùng chính quy trình này: 69 hồ sơ, 20 vòng phỏng vấn đầu, một hợp đồng, và bắt đầu làm kỹ sư AI từ tháng 6/2026.",
+            "Repo đang trong GitHub Trending ngày. Tác giả cảnh báo dự án không có token/crypto hay chương trình tài trợ trả phí nào — mọi lời mời kiểu đó là lừa đảo; dự án không liên kết với Anthropic."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/MadsLorentzen/ai-job-search"
+            }
+          ]
+        },
+        {
+          "headline": "HKUDS/CLI-Anything: biến mọi phần mềm thành “agent-native” bằng CLI — có CLI-Hub để cài CLI do cộng đồng viết",
+          "meta": "GitHub · 54.032 sao (GitHub API, 06:08 18/10)",
+          "body": [
+            "Dự án của nhóm HKUDS (Đại học Hồng Kông) tạo giao diện dòng lệnh cho phần mềm vốn chỉ có GUI, để Claude Code, Cursor, OpenClaw, nanobot, Pi… điều khiển được; có vòng xem trước/live preview để agent tự kiểm tra kết quả. Demo gồm dựng CAD, cảnh 3D, sơ đồ, phụ đề; cộng đồng đã đề xuất cả CLI cho ArcGIS Pro.",
+            "CLI-Hub cài bằng pip install cli-anything-hub rồi cli-hub install <tên>. Repo đang trong GitHub Trending ngày — đáng thử với ai muốn cho agent điều khiển phần mềm kỹ thuật/thiết kế."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/HKUDS/CLI-Anything"
+            },
+            {
+              "name": "CLI-Hub",
+              "url": "https://hkuds.github.io/CLI-Anything/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Meta gỡ điều khoản gây lo ngại cho phép dùng nội dung website để huấn luyện AI",
+          "meta": "The Verge / TechCrunch · 17/10",
+          "body": [
+            "Bản cập nhật điều khoản thương mại gần đây của Meta có câu cho phép hãng “dùng bất kỳ nội dung nào” từ domain, trang web, URL của tài khoản doanh nghiệp để phát triển, nghiên cứu và huấn luyện sản phẩm. Nieman Lab và giáo sư luật James Grimmelmann (Cornell) cho rằng điều này có thể cho phép Meta lấy miễn phí nội dung của mọi nhà xuất bản có tài khoản doanh nghiệp Meta để huấn luyện AI, vượt qua cả robots.txt; Ars Technica viết Meta có thể dùng nó để tránh hàng triệu USD phí cấp phép.",
+            "Sau phản ứng, Meta đã xoá hẳn đoạn này. Người phát ngôn Daniel Roberts nói điều khoản chỉ áp dụng cho sản phẩm quảng cáo và kinh doanh, không thay đổi cách Meta dùng crawler, và chủ nội dung vẫn có thể dùng robots.txt."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
+            }
+          ]
+        },
+        {
+          "headline": "Lỗi khiến kính Ray-Ban Meta tự ghi âm hội thoại khi không gọi “Hey Meta” — Meta nói đã sửa",
+          "meta": "Ars Technica · 16/10",
+          "body": [
+            "Một số người dùng báo kính Ray-Ban Meta ghi âm hội thoại dù không nói câu kích hoạt và đã tắt tuỳ chọn “Respond without Hey Meta”; app Meta AI lưu cả bản ghi âm lẫn transcript vào lịch sử. Một người trên Reddit nói gặp trên ba chiếc kính, sau một bản cập nhật firmware. Meta trả lời Android Authority: “Sự cố đã được khắc phục”, người dùng có thể xem và xoá nhật ký giọng nói trong phần cài đặt.",
+            "Meta chưa nói nguyên nhân hay số thiết bị bị ảnh hưởng. Ars nhắc lại các lo ngại riêng tư sẵn có: nhân viên gán nhãn dữ liệu tại Kenya kể từng xem video quay bằng kính mà người bị quay không biết, một vụ kiện tập thể ở Mỹ, cuộc điều tra của Tổng chưởng lý Texas và đề xuất cấm tạm thời ở Na Uy. Ai dùng kính nên kiểm tra lịch sử giọng nói trong app Meta AI."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/"
+            }
+          ]
+        },
+        {
+          "headline": "Microsoft và Carnegie Mellon mở chương trình PRAISE đào tạo kỹ sư phần mềm mới vào nghề trong thời AI",
+          "meta": "CMU · 15/10",
+          "body": [
+            "Kỹ sư mới vào nghề tại Microsoft vừa làm toàn thời gian vừa học online các môn của Trường Khoa học Máy tính CMU (Machine Learning in Production, Preceptorship in AI-Augmented Software Engineering; học kỳ xuân có DevOps bảo mật), đồng thời được kỹ sư cấp cao kèm cặp trong công việc hằng ngày. Tín chỉ có thể tính vào chương trình thạc sĩ kỹ thuật phần mềm của CMU.",
+            "Ý tưởng đến từ Mark Russinovich (CTO Azure): AI giúp kỹ sư cấp cao nhiều nhưng kỹ sư junior chưa hưởng lợi tương xứng. “AI thay đổi công việc, nhưng không xoá bỏ nhu cầu về kỹ sư junior hay sự phán đoán và trách nhiệm của con người,” ông nói. Tin này lên Hacker News ngày 17/10, cùng lúc báo cáo của Anthropic cho thấy tuyển junior giảm mạnh."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "CMU School of Computer Science",
+              "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise"
+            }
+          ]
+        },
+        {
+          "headline": "TikTok khoá vĩnh viễn tài khoản quảng cáo của phim tài liệu “Musk” vì “nội dung chính trị”",
+          "meta": "TechCrunch · 17/10",
+          "body": [
+            "Theo The Hollywood Reporter được TechCrunch dẫn, Bleecker Street — nhà phát hành phim tài liệu dài bốn tiếng “Musk” của đạo diễn từng đoạt Oscar Alex Gibney — được TikTok báo tài khoản quảng cáo bị “đình chỉ vĩnh viễn” do nội dung chính trị. Meta và YouTube từng từ chối quảng cáo trailer rồi sau đó cho chạy (Meta nói là “lỗi”); X của Musk từ chối nhận quảng cáo phim.",
+            "TechCrunch lưu ý mảng TikTok tại Mỹ có một phần thuộc sở hữu của Larry Ellison, người cũng ủng hộ Tổng thống Trump như Musk. Phim mở ở bốn rạp cuối tuần trước, đang chiếu rộng hơn và dự kiến lên HBO năm sau."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "Khuyến mãi đặc biệt",
+      "title": "Công nghệ · Khuyến mãi đặc biệt",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "DeepSeek: Search & Fetch chạy qua DeepSeek Harness, Claude Code, Codex đang miễn phí cho người dùng API — tính phí từ 23:00 ngày 31/10 (giờ VN)",
+          "meta": "DeepSeek API Docs · 17/10",
+          "body": [
+            "Ưu đãi: cùng lúc ra V4.1-Flash-1017, DeepSeek mở Search & Fetch API (dùng công cụ tìm kiếm riêng của hãng) cho mọi người với giá niêm yết 0,75 USD/1.000 lượt gọi mỗi endpoint; nhưng các lượt gọi Search & Fetch qua server-side tools trong DeepSeek Harness, Claude Code và Codex hiện miễn phí cho người dùng DeepSeek API. Đối tượng: ai đã có tài khoản DeepSeek API và dùng model DeepSeek trong ba harness trên. Kết thúc: bắt đầu tính phí 16:00 UTC ngày 31/10/2026 (23:00 giờ VN).",
+            "Cách dùng: xem hướng dẫn “API Guides - Search & Fetch” trong tài liệu DeepSeek; nên nâng DeepSeek Harness lên v0.2.1-rc.1 trở lên. Rủi ro/lưu ý: phải có tài khoản API trả trước (token model vẫn tính phí bình thường); truy vấn tìm kiếm đi qua hạ tầng của DeepSeek (công ty Trung Quốc) — cân nhắc trước khi dùng với dữ liệu nhạy cảm hoặc code của công ty; thông báo chỉ nói miễn phí cho lượt gọi qua server-side tools của ba harness trên, còn giá niêm yết áp cho Search & Fetch API nói chung."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "DeepSeek API Docs",
+              "url": "https://api-docs.deepseek.com/news/news261017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Nghiên cứu (tuần)",
+      "title": "Xây dựng · Nghiên cứu (tuần)",
+      "tags": [
+        "construction"
+      ],
+      "intro": "Bản tổng hợp hằng tuần các bài nghiên cứu công nghệ cho hạ tầng giao thông và xây dựng xuất hiện trên arXiv trong tuần 11–18/10 (một số bài nộp từ 8–9/10 nhưng được công bố trong tuần này).",
+      "items": [
+        {
+          "headline": "“Inspect Any Crack”: AI không chỉ tìm vết nứt bê tông mà còn đo bề rộng và chấm điểm mức nguy hiểm 0–100",
+          "meta": "arXiv 2610.14274 · nộp 9/10 · Ghodsiyeh Rostami, Po-Han Chen, Mahdi S. Hosseini",
+          "body": [
+            "Phần lớn mô hình nhận diện vết nứt chỉ tô đúng điểm ảnh, kỹ sư vẫn phải tự đo đạc và đánh giá. Khung Inspect Any Crack (IAC) đi trọn quy trình: mô hình phân đoạn gọn SACv2-Tiny (chuyển thể từ một mô hình nền thị giác, huấn luyện trên bộ OmniCrack30K) đạt F1 62,49% trên tập kiểm tra và F1 trung bình 69,89% khi thử “zero-shot” trên ba bộ dữ liệu chưa từng thấy.",
+            "Từ mặt nạ vết nứt, IAC quy đổi ra bề rộng và diện tích thật nhờ hiệu chỉnh khoảng cách lấy mẫu mặt đất (GSD); so với 41 điểm đo bằng thước kẹp, sai số bề rộng trung bình là 7,33%. Nhóm còn đề xuất Chỉ số mức độ nứt (CSI) thang 0–100, gộp bề rộng lớn nhất và tỷ lệ diện tích nứt theo hướng bám tiêu chuẩn.",
+            "Vì sao đáng chú ý: biến ảnh chụp (drone, camera) thành con số kỹ sư dùng được ngay để xếp hạng ưu tiên sửa chữa cầu, hầm, kết cấu bê tông, thay vì chỉ “thấy có vết nứt”."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv 2610.14274",
+              "url": "https://arxiv.org/abs/2610.14274"
+            }
+          ]
+        },
+        {
+          "headline": "APTree: robot thi công tự lập và tự sửa kế hoạch công việc, thử trên nhà vòm sinh học livMatS",
+          "meta": "arXiv 2610.18523 · nộp 13/10 · Shermin Sherkat, Thomas Wortmann, Andreas Wortmann",
+          "body": [
+            "Trong tiền chế cấu kiện, kế hoạch nhiệm vụ cho robot hiện chủ yếu soạn tay, vừa tốn công vừa khiến doanh nghiệp ngại dùng robot. APTree kết hợp lập kế hoạch tự động với “cây hành vi” (behavior tree) làm mô hình thực thi: hệ thống điều phối nhiều bộ lập kế hoạch ký hiệu khác nhau để sinh và ghép các kế hoạch dạng mô-đun ngay khi chạy, kèm ngôn ngữ chuyên biệt để đặc tả và kiểm tra kế hoạch.",
+            "Thử trên công trình thật là nhà vòm Biomimetic Shell livMatS (Đức), APTree phát hiện lỗi đặc tả và lỗi lập kế hoạch được cài vào cả lúc thiết kế lẫn lúc chạy, tự sinh kế hoạch quy mô lớn bằng cách phối hợp ba bộ lập kế hoạch. Một phân tích hình thức kiểm chứng bằng máy cho thấy việc ghép kế hoạch và lập lại kế hoạch cục bộ là an toàn trong các giả định nêu rõ.",
+            "Vì sao đáng chú ý: người làm xây dựng có thể dùng robot tiền chế mà không cần thành thạo kỹ thuật lập kế hoạch ký hiệu; điều kiện an toàn được nói rõ là điểm cộng cho ứng dụng thực tế."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv 2610.18523",
+              "url": "https://arxiv.org/abs/2610.18523"
+            }
+          ]
+        },
+        {
+          "headline": "Xe tự lái qua khu công trường trên đường: bộ dữ liệu WZDrive từ 33 tài xế trong mô phỏng có công nhân ảo",
+          "meta": "arXiv 2610.12747 · nộp 8/10 · Shuo Zhang, Aman Sunesh, Semiha Ergan, Kaan Ozbay (NYU)",
+          "body": [
+            "Khu vực thi công trên đường đô thị làm thay đổi tạm thời làn xe và lối đi, khiến việc dự đoán quỹ đạo xe rất khó, trong khi dữ liệu chuyên cho tình huống này còn hiếm. Nhóm thu bộ WZDrive-Data gồm 1.183 đoạn lái qua khu công trường của 33 tài xế, dùng mô phỏng lái có người thật, công nhân dựng sẵn và công nhân điều khiển bằng VR; ghi cả thao tác điều khiển và hướng nhìn của tài xế.",
+            "Mô hình dự đoán đa phương thức WZDrive đạt minADE 1,09 m và minFDE 2,12 m (K=6), giảm lần lượt 7,18% và 13,18% so với mô hình tốt nhất hiện có ở từng chỉ số.",
+            "Vì sao đáng chú ý: an toàn cho công nhân và xe khi thi công, duy tu đường đang khai thác là bài toán thực tế; dữ liệu vẫn là mô phỏng, cần kiểm chứng ngoài hiện trường."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv 2610.12747",
+              "url": "https://arxiv.org/abs/2610.12747"
+            }
+          ]
+        },
+        {
+          "headline": "Tinh chỉnh SAM 2.1 để tách tường, cột, dầm, cửa trong ảnh công trình: mIoU tăng từ 49,9% lên 69,6%",
+          "meta": "arXiv 2610.12786 · nộp 8/10 · Ehsan Agha Ebrahimi, Yong-Cheol Lee, Keith G. Mills",
+          "body": [
+            "Dựng mô hình 3D cấu kiện công trình từ ảnh chụp cần phân đoạn đúng từng loại cấu kiện trong ảnh 2D. Nhóm tinh chỉnh mô hình Segment Anything SAM 2.1 trên bộ HBD (2.679 ảnh của 42 tòa nhà, 11 lớp: tường, cửa sổ, trần, cửa đi, cột, dầm, sàn, lỗ mở, vách kính, mái, thang máy), nâng mIoU từ 49,9% lên 69,6%.",
+            "Mặt nạ sau đó được gom nhóm trong trường bức xạ thần kinh (GARField) để tách cấu kiện ở dạng 3D; bản tinh chỉnh gom nhóm tốt hơn bản gốc. So với SegFormer, SAM 2.1 tốt hơn ở các lớp có diện tích bề mặt lớn.",
+            "Vì sao đáng chú ý: một bước hướng tới “scan-to-BIM” tự động, tạo mô hình hiện trạng từ ảnh thay vì dựng tay."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv 2610.12786",
+              "url": "https://arxiv.org/abs/2610.12786"
+            }
+          ]
+        },
+        {
+          "headline": "Máy đào do LLM điều khiển: cơ chế “giấy phép dùng một lần” chặn thao tác vượt quyền, dừng an toàn khi bị thu hồi",
+          "meta": "arXiv 2610.14245 · nộp 9/10 · Mehdi Heydari Shahna, Seihun Kim, Soyi Jung, Soohyun Park, Jouni Mattila, Joongheon Kim",
+          "body": [
+            "Khi mô hình ngôn ngữ lớn lập kế hoạch cho máy đào, chuyển động có thể khả thi về cơ học nhưng điểm đến hoặc quyền hạn đã không còn khớp với điều người vận hành phê duyệt. Nhóm đề xuất gắn mỗi thao tác với một “lease” dùng một lần (ràng buộc hành động, quỹ đạo, hợp đồng nhiệm vụ và dung sai), kiểm tra lại quyền và độ lệch khớp ngay lúc ra lệnh, giám sát định kỳ và dừng mềm nếu quyền bị thu hồi.",
+            "Trong bộ thử 672 tình huống, cổng kiểm soát cho qua cả 120 lệnh hợp lệ và không để lọt lệnh trái phép nào trong bộ tấn công. Khi thu hồi quyền giữa pha đổ đất (mô phỏng), lượng đất đổ vào khu vực đã đóng giảm từ 1,23 xuống 0,33 m³.",
+            "Vì sao đáng chú ý: khi AI bắt đầu điều khiển máy thi công, câu hỏi “ai cho phép thao tác này” trở thành vấn đề an toàn lao động; kết quả hiện mới ở mức mô phỏng."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv 2610.14245",
+              "url": "https://arxiv.org/abs/2610.14245"
+            }
+          ]
+        },
+        {
+          "headline": "Robot bốn chân lên mái nhà: thử Unitree Go2 cho thấy bàn chân tròn trượt nhiều, hỏng thường xuyên ở độ dốc 25°",
+          "meta": "arXiv 2610.12272 · nộp 8/10 · Bjoern-Felix Dettmar, Arne Roennau",
+          "body": [
+            "Làm việc trên mái vừa nguy hiểm vừa lặp lại, phù hợp để robot hỗ trợ. Nhóm dựng giàn thử mô phỏng mặt mái và đánh giá robot bốn chân thương mại Unitree Go2: độ trượt tăng theo bình phương góc dốc, động tác đứng dậy và nằm xuống chỉ làm được ở độ dốc nhỏ, và lỗi nghiêm trọng xảy ra thường xuyên ngay ở độ dốc vừa phải 25°.",
+            "Vì sao đáng chú ý: đây là đánh giá hệ thống đầu tiên về robot bốn chân trên mái, cho thấy muốn dùng được cần chân thiết kế riêng, cơ học tiếp xúc tốt hơn và dáng đi học bằng học tăng cường cho mái dốc."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv 2610.12272",
+              "url": "https://arxiv.org/abs/2610.12272"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "BIM & openBIM",
+      "title": "Xây dựng · BIM & openBIM",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "IfcOpenShell dồn sức cho bản chạy trên trình duyệt: loạt commit WebAssembly ngày 17/10, Bonsai có thêm hai bản alpha",
+          "meta": "GitHub IfcOpenShell · 17/10",
+          "body": [
+            "Ngày 17/10 (giờ UTC), kho IfcOpenShell nhận loạt commit cho bản build WebAssembly: kiểm tra create_shape() trong script build wasm, cập nhật demo wasm (xem schema, thử lại bằng nhân hình học OpenCascade, sửa cách đặt điểm tường, tầng), để get_placement() không phải gọi tới OpenCascade, cùng các sửa lỗi cho nhân hình học manifold như đánh dấu cạnh giống nhân CGAL và làm mượt pháp tuyến ở đường dự phòng. Trước đó (16/10) bản build pyodide cũng được cập nhật.",
+            "Cùng ngày có hai bản Bonsai 0.9.1 alpha (2610170131 và 2610171932, dạng không ổn định). Đây là công việc phát triển, chưa phải bản phát hành; nhưng hướng chạy IfcOpenShell ngay trong trình duyệt đáng theo dõi với ai làm web viewer hay công cụ kiểm tra IFC không cần cài đặt."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "GitHub IfcOpenShell commit d399e09 (wasm demo)",
+              "url": "https://github.com/IfcOpenShell/IfcOpenShell/commit/d399e09f115437241326ff2fffaa1156737d6a2c"
+            },
+            {
+              "name": "GitHub releases",
+              "url": "https://github.com/IfcOpenShell/IfcOpenShell/releases/tag/bonsai-0.9.1-alpha2610171932"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Phần mềm",
+      "title": "Xây dựng · Phần mềm",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Trimble ra LiveCount 3D: bóc khối lượng tự động từ mô hình Revit, Tekla, IFC cho dự toán, trước mắt tại Benelux",
+          "meta": "Trimble Blog (Clare Klug) · 14/10",
+          "body": [
+            "Trimble giới thiệu LiveCount 3D, tính năng bóc tách khối lượng 3D mới mở rộng quy trình bóc tách 2D sẵn có, hướng tới tổng thầu và nhà thầu cơ điện (MEP). Công cụ tự rút khối lượng hình học, vật liệu và dữ liệu đối tượng từ mô hình 3D, tự cập nhật khi thiết kế thay đổi; chạy trên nền Trimble Connect, đọc được mô hình Revit, Tekla và IFC.",
+            "Người dự toán, quản lý dự án có thể xem mô hình 3D để kiểm tra phạm vi mà không cần biết dùng phần mềm CAD. Hiện LiveCount 3D mới có ở khu vực Benelux (Bỉ, Hà Lan, Luxembourg)."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Trimble Blog",
+              "url": "https://www.trimble.com/en/blog/construction/article/livecount-3d-streamlining-2d-and-3d-construction-takeoff"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Thảo luận cộng đồng",
+      "title": "Xây dựng · Thảo luận cộng đồng",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "r/bim: “Tuần đầu cấm vẽ hình học” — cách một văn phòng dạy Dynamo, và tranh cãi có nên học Dynamo hay đi thẳng Python",
+          "meta": "Reddit r/bim · 16/10",
+          "body": [
+            "Một thành viên chia sẻ cách đào tạo kiến trúc sư trẻ: tuần đầu không được đụng tới hình học, Dynamo được giải thích như “công thức nấu ăn” — nguyên liệu (tham số, đối tượng mô hình, chuỗi văn bản), các bước chế biến (lọc, sắp xếp, nhóm, tính toán) và món ăn (cập nhật tham số, đổi tên view, đặt family). Về list, họ chỉ dạy bốn thao tác dùng hằng ngày: FilterByBoolMask, Flatten, GroupByKey và Transpose (khi trao đổi với bảng Excel).",
+            "Phần bình luận chia rẽ: có người khuyên bỏ Dynamo để học Python, C# hoặc Rhino.Inside vì script Dynamo hay vỡ khi đổi phiên bản Revit; người khác thay các node của nhiều package bằng một node mã tùy biến chứa đoạn code do AI viết và thấy chạy ổn trên nhiều máy. Tác giả cũng thừa nhận dùng AI để dịch bài từ tiếng Tây Ban Nha."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Reddit r/bim",
+              "url": "https://www.reddit.com/r/bim/comments/1x7ecu1/the_day_our_architects_stopped_drawing_in_dynamo/"
+            }
+          ]
+        },
+        {
+          "headline": "r/bim: làm sao hiện vị trí xung đột (clash) từ ACC trên khung nhìn 3D của Power BI?",
+          "meta": "Reddit r/bim · 17/10",
+          "body": [
+            "Một người dùng hỏi cách để khung nhìn 3D trong Power BI chỉ đúng vị trí các issue/clash từ Autodesk Construction Cloud: họ đã có file BCF xuất từ ACC chứa GUID của ghim issue nhưng chưa tìm ra cách nối sang các cấu kiện liên quan (ví dụ tường và sàn) để hiển thị.",
+            "Đây là nhu cầu phổ biến khi đưa dữ liệu điều phối BIM lên dashboard quản lý; mấu chốt thường nằm ở việc ánh xạ GUID trong BCF với ID đối tượng của mô hình."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Reddit r/bim",
+              "url": "https://www.reddit.com/r/bim/comments/1x8757l/powerbi_acc_issues_clashes_3d_view/"
+            }
+          ]
+        },
+        {
+          "headline": "r/civilengineering: viết lại công cụ thiết kế mạng cấp nước chạy trên AutoCAD bằng Python, cần thêm gì?",
+          "meta": "Reddit r/civilengineering · 17/10 (giờ VN rạng sáng 18/10)",
+          "body": [
+            "Tác giả mô tả công cụ cũ: vẽ polyline trên bản đồ địa hình trong AutoCAD, gán thuộc tính chiều dài, cao độ, đường kính, vật liệu; nhu cầu dùng nước lấy từ phân bổ sử dụng đất rồi chia về các nút; cân bằng mạng bằng phương pháp Hardy Cross (công thức Hazen-Williams) và lặp để đề xuất đường kính theo giới hạn vận tốc, có tính cả trường hợp chữa cháy. Người viết hỏi cộng đồng nên bổ sung gì khi làm lại bằng Python.",
+            "Chủ đề hợp với xu hướng kỹ sư hạ tầng tự viết công cụ tính toán bằng Python thay cho macro, script gắn chặt vào một phần mềm."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Reddit r/civilengineering",
+              "url": "https://www.reddit.com/r/civilengineering/comments/1x8g4l1/rebuilding_my_old_water_network_design_tool_in/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Haaland lập cú đúp, Man City thắng Ipswich 3-2 — 7 trận toàn thắng đầu mùa lần đầu sau 129 năm",
+          "meta": "BBC Sport · 17/10",
+          "body": [
+            "Tại Etihad tối 17/10, Phil Foden mở tỷ số phút 19, Daizen Maeda gỡ hòa chỉ 155 giây sau, rồi Erling Haaland ghi bàn ở các phút 34 và 69; Zian Flemming rút ngắn tỷ số bằng quả phạt đền phút 90. Man City của Enzo Maresca thắng cả 7 trận đầu Ngoại hạng Anh, hơn đội nhì Arsenal 6 điểm (Arsenal còn một trận); họ là CLB thứ ba làm được điều này sau Chelsea 2005-06 và Liverpool 2019-20.",
+            "Đây là trận sân nhà đầu tiên của Man City kể từ khi bị kết luận vi phạm luật tài chính; CĐV la ó bài hát chính thức của Ngoại hạng Anh trước giờ bóng lăn. Niềm vui đi kèm lo ngại chấn thương: Kovacic và Matheus Nunes phải rời sân, Haaland và Semenyo tập tễnh cuối trận."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.com/sport/football/live/cky83qp9z4v2t"
+            }
+          ]
+        },
+        {
+          "headline": "Liverpool ngược dòng thắng Brentford 9 người; Chelsea hạ Everton 2-0 nhưng thủ môn Emiliano Martinez nhập viện",
+          "meta": "VnExpress, BBC Sport · 17/10",
+          "body": [
+            "Brentford dẫn trước nhờ cú đánh đầu của Keane Lewis-Potter phút 44, nhưng Yehor Yarmoliuk nhận thẻ đỏ (sau khi trọng tài xem VAR) ở phút bù hiệp một. Sang hiệp hai, Victor Muñoz (62') và Alexander Isak (70') giúp Liverpool thắng 2-1; Brentford còn nhận thêm thẻ đỏ thứ hai cuối trận.",
+            "Ở Hill Dickinson, Pedro Neto lập cú đúp (phút 46 và 90) giúp Chelsea của Xabi Alonso thắng Everton 2-0, lên thứ tư và lần đầu giữ sạch lưới ở Ngoại hạng Anh sau chuỗi 22 trận. Phút 75, thủ môn Emiliano Martinez va đầu với Jarrad Branthwaite, phải nẹp cổ, rời sân bằng cáng và đưa tới bệnh viện; anh vẫn cử động tay, giơ ngón cái. Cùng ngày: Newcastle 0-1 Aston Villa (Manzambi ghi bàn), Fulham 1-0 Hull — trận thắng đầu tiên của Fulham mùa này."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – Liverpool",
+              "url": "https://vnexpress.net/liverpool-thang-nguoc-brentford-khi-hon-hai-nguoi-5133702.html"
+            },
+            {
+              "name": "VnExpress – Chelsea",
+              "url": "https://vnexpress.net/chelsea-vao-top-4-trong-ngay-thu-mon-matinez-nhap-vien-5133697.html"
+            },
+            {
+              "name": "Newcastle United",
+              "url": "https://www.newcastleunited.com/en/news/aston-villa-h-report-26-27"
+            },
+            {
+              "name": "BBC Sport – kết quả",
+              "url": "https://www.bbc.com/sport/football/scores-fixtures/2026-10-17"
+            }
+          ]
+        },
+        {
+          "headline": "Yamal ghi tuyệt phẩm, Barca thắng Betis 5-2 — 11 trận toàn thắng từ đầu mùa",
+          "meta": "VnExpress, BBC Sport · 17/10",
+          "body": [
+            "Lamine Yamal (19 tuổi) mở tỷ số phút 10 bằng cú cứa lòng chân trái và kiến tạo cho Gabriel Jesus, giúp Barca thắng chủ nhà Betis 5-2 ở vòng 9 La Liga. Trận đấu có bàn thắng của Lo Celso bị VAR từ chối vì Cucho Hernandez để bóng chạm tay, cùng thẻ đỏ cho Facundo Bernal.",
+            "Đội của Hansi Flick thắng cả 9 trận La Liga và 2 trận Champions League, ghi 48 bàn sau 11 trận mọi đấu trường. Cùng ngày, Atletico Madrid thắng Espanyol 1-0 trên sân khách; Villarreal hòa Elche 0-0, Valencia hòa Athletic Club 0-0."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/yamal-giup-barca-thang-tran-thu-11-lien-tiep-5133719.html"
+            },
+            {
+              "name": "BBC Sport – kết quả",
+              "url": "https://www.bbc.com/sport/football/scores-fixtures/2026-10-17"
+            }
+          ]
+        },
+        {
+          "headline": "Kane ghi bàn thứ 102 sau 100 trận Bundesliga, phá kỷ lục hơn 60 năm; Bayern đè bẹp Leipzig 6-1",
+          "meta": "VnExpress · 18/10",
+          "body": [
+            "Harry Kane đệm cận thành nâng tỷ số lên 5-0 ở phút 53, đưa anh lên 102 bàn sau 100 trận Bundesliga — nhiều hơn 30 bàn so với cột mốc 72 bàn/100 trận của Timo Konietzka (Dortmund, thập niên 1960). Luis Diaz lập hat-trick; Pavlovic và Olise ghi hai bàn còn lại, Leipzig chỉ có bàn danh dự của Andrija Maksimovic ở phút bù giờ.",
+            "Chiến thắng giúp Bayern đáp trả hoài nghi sau hai trận hòa liên tiếp. Theo ESPN được VnExpress dẫn, Kane (33 tuổi) đang tiến gần thỏa thuận gia hạn tới 2029 và là ứng viên hàng đầu cho Quả Bóng Vàng (lễ trao giải dự kiến 26/10)."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/kane-lap-ky-luc-trong-tran-thang-6-1-cua-bayern-5133722.html"
+            }
+          ]
+        },
+        {
+          "headline": "Serie A: Napoli thua sốc Venezia, De Bruyne hỏng phạt đền; Inter ngược dòng thắng Bologna 3-1. PSG thắng Strasbourg 3-1",
+          "meta": "Sky TG24, BBC Sport, ESPN · 17/10",
+          "body": [
+            "Ở vòng 7 Serie A, Venezia — trận ra mắt HLV Davide Nicola — thắng Napoli của Allegri 1-0 nhờ bàn của Adams phút 49; De Bruyne đá hỏng phạt đền phút 67 trước thủ môn Stankovic. Đây là trận thua thứ ba của Napoli sau 7 vòng. Inter bị Bologna dẫn trước (Pobega 10') nhưng lội ngược dòng 3-1 với các bàn của Thuram, Carlos Augusto và Bonny — hai cầu thủ vào sân từ ghế dự bị của Chivu. Roma thắng Genoa 2-0.",
+            "Tại Ligue 1, PSG bị Strasbourg dẫn trước bởi bàn của Gio Reyna (17') nhưng thắng ngược 3-1 nhờ Zabarnyi, Dembélé và Doué, nối dài chuỗi 6 trận thắng."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Sky TG24",
+              "url": "https://tg24.sky.it/sport/2026/10/17/serie-a-partite-oggi-risultati-gol-highlights-video"
+            },
+            {
+              "name": "ESPN – Strasbourg 1-3 PSG",
+              "url": "https://www.espn.com/soccer/match/_/gameId/401876432/paris-saint-germain-strasbourg"
+            },
+            {
+              "name": "PSG",
+              "url": "https://www.psg.fr/en/content/with-a-comeback-win-at-strasbourg-paris-continue-its-winning-streak-match-report-rc-strasbourg-alsace-paris-saint-germain-ligue-1-matchday-7-2026-2027"
+            }
+          ]
+        },
+        {
+          "headline": "V-League vòng 4: Hải Phòng thắng Đà Nẵng 5-1, Tagueu lập hat-trick; Tuấn Hải ghi bàn đầu tiên cho Nam Định",
+          "meta": "VnExpress · 17/10",
+          "body": [
+            "Trên sân Hòa Xuân, Đà Nẵng mở tỷ số nhờ Bryan Ly (18') nhưng Joel Tagueu ghi ba bàn trong hiệp một (24', 30', 41') và Milan Makaric thêm hai bàn cuối trận, giúp Hải Phòng thắng 5-1. Thủ thành Bùi Tiến Dũng đã thủng lưới 8 bàn sau hai trận (trước đó thua HAGL 0-3); Đà Nẵng là đội thủng lưới nhiều nhất giải với 11 bàn sau 4 vòng.",
+            "Ở Thanh Hóa, Nam Định thắng 2-0: bàn đầu đến từ pha phản lưới phút bù hiệp một, rồi Phạm Tuấn Hải đệm lưới trống phút 86 — bàn đầu tiên của anh cho Nam Định sau khi rời Hà Nội FC. Tuấn Hải nói luôn muốn trở lại đội tuyển quốc gia."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – Đà Nẵng",
+              "url": "https://vnexpress.net/bui-tien-dung-de-thung-luoi-8-ban-sau-hai-tran-v-league-5133687.html"
+            },
+            {
+              "name": "VnExpress – Nam Định",
+              "url": "https://vnexpress.net/pham-tuan-hai-ghi-ban-dau-tien-cho-nam-dinh-5133662.html"
+            }
+          ]
+        },
+        {
+          "headline": "Lịch Chủ nhật 18/10 (giờ VN): Leeds – Man Utd, Forest – Arsenal, Milan – Atalanta, Juventus – Lazio",
+          "meta": "BBC Sport, Sky TG24 · 18/10",
+          "body": [
+            "Ngoại hạng Anh: Bournemouth – Sunderland, Brighton – Crystal Palace và Leeds – Man Utd cùng đá 20h; Nottingham Forest – Arsenal 22h30. Serie A: Milan – Atalanta 23h, Juventus – Lazio 1h45 sáng 19/10. La Liga: Real Madrid – Sevilla 2h sáng 19/10 giữa căng thẳng Real – Tebas."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.com/sport/football/live/cky83qp9z4v2t"
+            },
+            {
+              "name": "Sky TG24",
+              "url": "https://tg24.sky.it/sport/2026/10/17/serie-a-partite-oggi-risultati-gol-highlights-video"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Hôm nay Quốc hội thảo luận tổ về kinh tế - xã hội, ngân sách 2027; nghe trình Luật Thỏa thuận quốc tế sửa đổi",
+          "meta": "VnExpress · 18/10",
+          "body": [
+            "Ngày Chủ nhật 18/10, ngày làm việc thứ hai của Kỳ họp thứ hai Quốc hội khóa XVI, các đại biểu nghe Chính phủ trình dự án Luật Thỏa thuận quốc tế sửa đổi, báo cáo tiếp thu chỉnh lý dự thảo Bộ luật Tố tụng hình sự sửa đổi, đề xuất thí điểm cơ chế thu hồi tài sản liên quan tội phạm không qua kết tội, và tổng kết Nghị quyết 66/2013 về đường Hồ Chí Minh. Sau đó Quốc hội thảo luận tổ cả ngày về kế hoạch kinh tế - xã hội 2026-2027, ngân sách, đầu tư công.",
+            "Theo báo cáo của Thủ tướng Lê Minh Hưng hôm khai mạc, năm 2026 dự kiến 14/15 chỉ tiêu đạt và vượt; GDP 9 tháng tăng 9,01% (quý III 9,95%); kim ngạch xuất nhập khẩu cả năm dự kiến 1.110 tỷ USD — lần đầu vượt mốc 1.000 tỷ; FDI đăng ký 50,36 tỷ USD, tăng 76,4%."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hom-nay-quoc-hoi-thao-luan-kinh-te-xa-hoi-va-ngan-sach-5133678.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cơ quan thẩm tra: TP HCM, Hà Nội, Hải Phòng, Đồng Nai — gần 47% GRDP — đều dự kiến không đạt mục tiêu tăng trưởng 2026",
+          "meta": "Tuổi Trẻ · 17/10",
+          "body": [
+            "Trình bày báo cáo thẩm tra tại phiên khai mạc, Chủ nhiệm Ủy ban Kinh tế và Tài chính Phan Văn Mãi nêu 6 vấn đề, đứng đầu là 'tăng trưởng cao nhưng nền tảng chưa vững chắc'. Đầu tư tư nhân chiếm 53% tổng vốn nhưng chỉ tăng 14%; nhập khẩu tăng 36,7%, vượt xuất khẩu (24,5%), nhập siêu 19,42 tỷ USD; CPI bình quân 9 tháng tăng 4,52%, đã chạm mục tiêu cả năm.",
+            "Số doanh nghiệp hoàn tất giải thể tăng 118,8%, trong khi doanh nghiệp gia nhập và quay lại giảm 3,2%; vốn tạm ứng đầu tư công chưa thu hồi chiếm 37% số đã giải ngân. Cơ quan thẩm tra cho rằng mục tiêu GDP 2027 tăng từ 10% trở lên 'đặt ra thách thức lớn', cần tính tới độ trễ của cú sốc giá năng lượng và nguy cơ lạm phát dồn nén."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tang-truong-cao-nhung-chua-vung-chac-tphcm-ha-noi-hai-phong-dong-nai-du-kien-khong-dat-10026101710270687.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hội đàm Tô Lâm – Parmelin: Thụy Sĩ mời Việt Nam vào sáng kiến 'đối tác tương lai vì đầu tư, thương mại', nhất trí 6 định hướng hợp tác",
+          "meta": "VnExpress · 17/10",
+          "body": [
+            "Tại hội đàm chiều 17/10, Tổng thống Thụy Sĩ Guy Parmelin nói việc Việt Nam cùng Thụy Sĩ và các nước EFTA ký Hiệp định Thương mại tự do sẽ mở cơ hội cho doanh nghiệp, khi đã có hơn 100 công ty Thụy Sĩ hiện diện tại Việt Nam. Ông mời Việt Nam tham gia sáng kiến quan hệ đối tác tương lai vì đầu tư và thương mại của các nền kinh tế quy mô trung bình nhằm thúc đẩy chủ nghĩa đa phương.",
+            "Hai bên nhất trí 6 định hướng trọng tâm: tăng tin cậy chính trị, nâng tầm thương mại - đầu tư, hợp tác tài chính số, blockchain, tài sản số, fintech; đưa khoa học - công nghệ và đổi mới sáng tạo thành trụ cột; hợp tác gìn giữ hòa bình, phòng chống tội phạm. Hai nhà lãnh đạo chứng kiến trao văn kiện hợp tác về lao động, khoa học công nghệ; tối 17/10 cùng phu nhân dạo Hồ Gươm."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thuy-si-moi-viet-nam-tham-gia-sang-kien-ve-doi-tac-tuong-lai-vi-dau-tu-thuong-mai-5133673.html"
+            },
+            {
+              "name": "VnExpress – dạo Hồ Gươm",
+              "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-cung-tong-thong-thuy-si-dao-ho-guom-5133710.html"
+            }
+          ]
+        },
+        {
+          "headline": "Pháp rung chuyển: 550.000 người biểu tình vì giá cả, giáo dục; 1.200 người bị bắt, tòa thị chính Limoges bị đốt",
+          "meta": "BBC, RFI/AFP · 17/10",
+          "body": [
+            "Khoảng 550.000 người (110.000 ở Paris) tuần hành khắp nước Pháp ngày 17/10 phản đối chi phí sinh hoạt, giá nhiên liệu và tình trạng thiếu giáo viên, sau ba tuần biểu tình do học sinh, sinh viên khởi xướng. Thủ tướng Sébastien Lecornu cho biết 1.200 người bị bắt; cướp phá xảy ra ở Paris, Marseille, Lyon, Rouen, Nantes, Toulouse; riêng Marseille có 107 cảnh sát bị thương. Tổng thống Macron tuyên bố 'không có chỗ cho bạo lực'.",
+            "Ở Limoges, nhóm người bịt mặt đột nhập và phóng hỏa tòa thị chính 143 năm tuổi (một phần được xếp hạng di tích từ 1975); mái sập, hai phần ba mặt tiền biến mất — tỉnh trưởng gọi đây là 'thảm họa di sản'. Công đoàn CGT kêu gọi tiếp tục xuống đường, tiến tới ngày tổng đình công liên công đoàn 5/11."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC News",
+              "url": "https://www.bbc.com/news/live/ckpdg1v41562t"
+            },
+            {
+              "name": "RFI/AFP",
+              "url": "https://www.rfi.fr/en/international-news/20261017-fire-rages-at-town-hall-in-france-s-limoges-after-protests-authorities"
+            }
+          ]
+        },
+        {
+          "headline": "Hormuz: tháng 10 ghi kỷ lục số tàu bị tấn công; Mỹ và Iran cùng tuyên bố kiểm soát eo biển",
+          "meta": "Al Jazeera, CBS News · 17/10",
+          "body": [
+            "UKMTO xác nhận ít nhất 12 tàu bị tấn công trong tuần kết thúc 16/10 — một chiếc chìm, hai chiếc tê liệt — và thừa nhận con số thực có thể cao hơn vì đa số tàu không báo cáo. Ngày 17/10 xuất hiện kiểu tấn công mới: một tàu dầu bị bắn bằng súng phóng lựu (RPG) từ xuồng nhỏ, cách Jubail (Arab Saudi) 78 hải lý. Dòng dầu qua Hormuz tuần tới 13/10 còn 11,6 triệu thùng/ngày, khoảng 68% mức trước chiến tranh (Kpler).",
+            "Tư lệnh CENTCOM Brad Cooper khẳng định 400 tàu và 100 triệu thùng dầu đã qua eo biển trong tuần, 'Hormuz do Mỹ và các đối tác kiểm soát, không phải Iran'; Mỹ nói đã rà sạch thủy lôi và tàu bị trúng đạn chứ không phải mìn. Quyền Bộ trưởng Quốc phòng Iran Majid Ibn Reza đáp: 'tên lửa Iran, không phải bom Mỹ, sẽ quyết định tương lai cuộc chiến'. Brent chạm 110 USD hôm 16/10, lần đầu kể từ tháng 5."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels"
+            },
+            {
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+            }
+          ]
+        },
+        {
+          "headline": "Zelensky: lệnh miễn trừng phạt của ông Trump là 'phần thưởng tài chính' cho Putin, thỏa thuận diesel 'chỉ là bước đầu'",
+          "meta": "VnExpress · 17/10",
+          "body": [
+            "Một ngày sau khi Tổng thống Trump ký sắc lệnh đình chỉ các biện pháp trừng phạt mới theo Đạo luật Graham (gồm thuế 100% với nước nhập dầu Nga, trừng phạt ngành năng lượng, ngân hàng và 'đội tàu bóng tối'), Tổng thống Zelensky nói việc dỡ trừng phạt 'sẽ còn tiếp diễn' và chỉ khuyến khích Moskva tiếp tục tấn công.",
+            "Ông kêu gọi giới chức Mỹ khôi phục hiệu lực đạo luật, nhấn mạnh quyết định đưa ra 'đúng lúc Nga tập kích diện rộng ngành năng lượng' Ukraine. Theo RFE/RL, trong 24 giờ tới 17/10 Nga phóng 4 tên lửa hành trình Kalibr, 332 UAV cùng tên lửa đạn đạo Iskander-M/KN-23 — ông Zelensky gọi đây là một trong những đợt tấn công lớn nhất vào ngành năng lượng, nhắm hơn 15 cơ sở phát và truyền tải điện; Vinnytsia mất điện toàn thành phố, Ukrenergo cắt điện khẩn cấp nhiều vùng. Kyiv cũng khẳng định vẫn kiểm soát thị trấn Dobropillia, bác tuyên bố của ông Putin."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-zelensky-lenh-mien-trung-phat-cua-my-trao-phan-thuong-cho-nga-5133682.html"
+            },
+            {
+              "name": "RFE/RL",
+              "url": "https://www.rferl.org/a/russia-ukraine-civilians-killed-attack/33878396.html"
+            }
+          ]
+        },
+        {
+          "headline": "Saudi – Houthi leo thang: không kích ở Yemen làm 12 người chết, Ai Cập sẵn sàng 'bảo vệ Arab Saudi nếu được yêu cầu'",
+          "meta": "CBS News/AFP/AP · 17/10",
+          "body": [
+            "Truyền thông Houthi cho biết các đợt không kích của Saudi từ đêm 16/10 làm ít nhất 12 người chết ở Taiz và Dhamar, trong đó có 3 trẻ em. Liên quân Saudi đánh chặn 4 UAV trên Riyadh, miền Đông và miền Nam; rạng sáng 18/10 (giờ địa phương) dân Riyadh nhận cảnh báo 'mối đe dọa trên không' trên điện thoại. Houthi trả tự do 159 tay súng thân chính phủ theo lệnh ân xá, ICRC xác nhận.",
+            "Tổng thống Ai Cập al-Sisi nói Cairo sẵn sàng phòng thủ cho Arab Saudi nếu được đề nghị, cần quốc hội phê chuẩn. Ngoại trưởng Iran Araghchi tại hội nghị OIC ở Baghdad ủng hộ 'tiến trình chính trị' và đề nghị làm trung gian, nhưng Ngoại trưởng Yemen bác bỏ, cho rằng Tehran 'đã tự biến mình thành một bên trong cuộc chiến'."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Phát hiện di tích hơn 3.000 năm ở Gò Đất Nại: 67 hiện vật vàng, gần 7.000 hạt chuỗi thủy tinh, dấu vết giao thương hàng hải cổ",
+          "meta": "VnExpress · 16/10",
+          "body": [
+            "Các cuộc khai quật tại Gò Đất Nại và Gò Nần (xã Đất Đỏ, TP HCM, trước thuộc Bà Rịa - Vũng Tàu) trong nửa cuối năm 2025 phát hiện 15 mộ táng có niên đại từ khoảng 3.000-2.500 năm trước đến thế kỷ IV, cùng 23.554 mảnh gốm, công cụ và vũ khí sắt, 67 hiện vật vàng, 6.830 hạt chuỗi thủy tinh Indo-Pacific và trang sức mã não, garnet, nephrite.",
+            "Theo Viện Khoa học xã hội vùng Nam Bộ, các hạt chuỗi và vòi bình kendi gần với gốm Chăm sớm cho thấy cư dân ven biển Đông Nam Bộ từng tham gia mạng lưới giao thương hàng hải cổ đại, có liên hệ với Cần Giờ và văn hóa Sa Huỳnh."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/phat-hien-di-tich-hon-3-000-nam-o-tp-hcm-5133161.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hoàng Thùy Linh tái xuất với MV 'Thầy dùi': vào top thịnh hành, hình ảnh được khen, âm nhạc gây tranh luận",
+          "meta": "VnExpress · 18/10",
+          "body": [
+            "Trở lại sau ba năm, Hoàng Thùy Linh ra MV 'Thầy dùi' (nhạc sĩ Khắc Hưng) — dance pop pha EDM và dân gian đương đại, mượn hình ảnh kẻ hay xúi giục gây xích mích, lồng thành ngữ như 'qua cầu rút ván', 'ném đá giấu tay'. Sau hai ngày MV đạt hơn 700.000 lượt xem, vào top 10 thịnh hành YouTube Việt Nam.",
+            "Nhạc sĩ Huy Tuấn khen cách lồng ghép đồng dao, trò chơi dân gian; tuy vậy nhiều khán giả cho rằng điệp khúc chưa bắt tai bằng 'Để Mị nói cho mà nghe' hay 'See tình', phần phối khí còn ôm đồm."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/mv-thay-dui-cua-hoang-thuy-linh-gay-chu-y-5133545.html"
+            }
+          ]
+        },
+        {
+          "headline": "Phim điện ảnh AI đầu tiên được cấp phép chiếu rạp ở Trung Quốc ra mắt 23/10, kể chuyện di chỉ Tam Tinh Đôi",
+          "meta": "VnExpress · 17/10",
+          "body": [
+            "'Tam Tinh Đôi: Vị lai vãng sự' của hãng Bona Film dài 100 phút, phát hành toàn Trung Quốc ngày 23/10, là phim điện ảnh AI đầu tiên được cấp phép chiếu rạp. Câu chuyện xuyên thời gian: các nhà khảo cổ phát hiện ký tự trên đồ đồng cổ là mã nhị phân, chìa khóa giải cứu thế giới khỏi một siêu AI.",
+            "Phim được phát triển hơn hai năm; phụ trách trung tâm nội dung AI của Bona nói hình ảnh từ chỗ 'không thể xem nổi' đã tới mức 'sống động như thật'. Trước đó series ngắn AI cùng đề tài năm 2024 thu hút hơn 200 triệu lượt xem."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hau-truong-phim-ai-chieu-rap-dau-tien-cua-trung-quoc-5133470.html"
+            }
+          ]
+        },
+        {
+          "headline": "Concert Big Bang ở Mỹ Đình 24-25/10 'cháy vé', fan Việt chi 15-40 triệu đồng",
+          "meta": "VnExpress · 18/10",
+          "body": [
+            "Big Bang với G-Dragon, Taeyang và Daesung sẽ diễn hai đêm 24 và 25/10 tại sân Mỹ Đình (sức chứa khoảng 40.000 người/đêm); ban tổ chức thông báo hết vé sau ba đợt mở bán, nhiều fan tìm mua lại qua hội nhóm mạng xã hội.",
+            "Sức hút đến từ ký ức thanh xuân của thế hệ 8x, 9x với các bản hit như Haru Haru (2008) — theo KOFICE vẫn nằm trong top 10 nghe nhiều trên NhacCuaTui năm 2025 — và cơ hội hiếm thấy ba thành viên cùng sân khấu."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ly-do-fan-viet-chi-hang-chuc-trieu-dong-xem-concert-big-bang-5132763.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Ca não mô cầu thứ 4 ở trường THCS Hai Bà Trưng (TP HCM); phụ huynh đổ xô đi tiêm vaccine nhóm B",
+          "meta": "VnExpress · 17-18/10",
+          "body": [
+            "Sở Y tế TP HCM tối 17/10 ghi nhận thêm một nam sinh 12 tuổi mắc não mô cầu nhóm B (đồng nhiễm cúm B), nâng số ca tại trường lên 4, trong đó một em tử vong. Bệnh viện Bệnh Nhiệt đới đang điều trị nội trú 23 học sinh của trường có triệu chứng hô hấp, nhiều em nhiễm cúm A/H1, cúm B; ngành y tế đã cho người tiếp xúc gần uống kháng sinh dự phòng.",
+            "Phụ huynh đưa con đến Viện Pasteur và các điểm tiêm; bác sĩ lưu ý nhiều trẻ đã tiêm vaccine não mô cầu ACWY nhưng chưa được bảo vệ trước nhóm B. Bệnh khởi phát giống cúm (sốt cao, đau đầu, chấm xuất huyết) và có thể diễn tiến rất nhanh — cần đưa trẻ đi khám ngay khi có dấu hiệu."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – ca thứ 4",
+              "url": "https://vnexpress.net/ca-nao-mo-cau-thu-4-o-truong-hoc-tp-hcm-5133670.html"
+            },
+            {
+              "name": "VnExpress – tiêm vaccine",
+              "url": "https://vnexpress.net/phu-huynh-do-xo-dua-con-tiem-vaccine-nao-mo-cau-5133671.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nhịp cầu đi bộ 3.400 tấn lên đường về bến Bạch Đằng, dự kiến hợp long 21/10; cấm luồng sông Sài Gòn nhiều khung giờ",
+          "meta": "VnExpress, Tuổi Trẻ · 18/10",
+          "body": [
+            "Theo kế hoạch, khoảng 5h ngày 18/10 đoàn tàu kéo (tàu chính 5.000 mã lực cùng ba tàu hỗ trợ) đưa tổ hợp vòm thép 1.400 tấn và khung đỡ 2.000 tấn rời cảng Đông Xuyên, đi 124 km qua sông Dinh, cửa Soài Rạp vào sông Sài Gòn; đoàn chỉ chạy ban ngày, neo đêm tại phao SR-05, chiều 19/10 tới công trường và chờ hợp long ngày 21/10. Phương tiện khác phải giữ cách đoàn tối thiểu 5 km.",
+            "Sở Xây dựng TP HCM cấm phương tiện thủy qua khu vực công trường 13h-19h ngày 19/10 và 2h-18h các ngày 21, 22/10. Cầu đi bộ hình lá dừa nước có vốn gần 1.000 tỷ đồng do Nutifood tài trợ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nhip-cau-di-bo-3-400-tan-bat-dau-hanh-trinh-ve-trung-tam-tp-hcm-5133694.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thoi-su.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Nửa tháng 10 có 59 kỷ lục nhiệt độ; El Nino khiến mùa đông có thể ấm, rét đậm đến muộn",
+          "meta": "VnExpress · 17/10",
+          "body": [
+            "Trong nửa đầu tháng 10, 59 trạm khí tượng ghi nhận nhiệt độ cao nhất đạt hoặc vượt giá trị lịch sử cùng kỳ, sau 48 kỷ lục của tháng 9: Yên Châu (Sơn La) 38,3 độ C ngày 3/10, Láng (Hà Nội) 37,1 độ ngày 2/10, Hòn Dấu (Hải Phòng) 37,2 độ — cao hơn kỷ lục cũ 2,4 độ.",
+            "Trung tâm Dự báo KTTV quốc gia dự báo tháng 11 nhiệt độ cả nước cao hơn trung bình nhiều năm 1-2 độ; không khí lạnh hoạt động yếu hơn, rét đậm, rét hại ở Bắc Bộ có thể đến muộn và ít ngày hơn, dù vẫn có thể có đợt rét mạnh. El Nino cũng làm tăng nguy cơ thiếu mưa, thiếu nước."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nua-thang-10-ghi-nhan-59-ky-luc-nhiet-do-5132873.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bão Champi có thể mạnh gần siêu bão, quét qua Guam chiều tối 18/10 nhưng ít khả năng vào Biển Đông; Nam Bộ mưa dông chiều tối",
+          "meta": "Saigoninfo (Tuổi Trẻ) · 18/10",
+          "body": [
+            "Theo Cơ quan Khí tượng Nhật Bản (JMA), chiều tối 17/10 bão Champi ở đông nam đảo Guam mạnh cấp 14 (157 km/h), giật trên cấp 17; dự báo chiều tối 18/10 vùng tâm bão quét qua Guam rồi đi hướng tây, tây tây bắc về phía đông nam Đài Loan, cường độ cực đại có thể tới 175 km/h. Cục Khí tượng thủy văn nhận định bão ít khả năng đi vào Biển Đông; từ nay đến hết tháng 10 chưa có dấu hiệu bão trên Biển Đông.",
+            "Do El Nino rất mạnh, từ tháng 11/2026 đến tháng 1/2027 số bão, áp thấp trên Biển Đông và đổ bộ được dự báo thấp hơn trung bình nhiều năm (khoảng 2,8 cơn và 1,1 cơn đổ bộ), nhưng vẫn cần đề phòng bão mạnh bất thường. Chiều tối 17/10, Nam Bộ, Lâm Đồng, Khánh Hòa, phía đông Đắk Lắk được dự báo có mưa rào, dông, cục bộ trên 80 mm, nguy cơ lốc, sét, mưa đá."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Saigoninfo",
+              "url": "https://saigoninfo.net/bao-champi-o-phia-dong-philippines-co-the-manh-len-tiem-can-sieu-bao-a191899.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 18/10/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu. Mục Nghiên cứu của Xây dựng là bản tổng hợp các bài báo khoa học mới trong 7 ngày qua, ra hằng tuần trong số sáng Chủ nhật. Mục Khuyến mãi đặc biệt chỉ đăng ưu đãi mới còn hiệu lực có link chính thức."
+}
