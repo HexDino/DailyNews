@@ -1,0 +1,936 @@
+{
+  "date": "2026-10-18",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Chủ nhật, ngày 18 tháng 10 năm 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 18/10/2026 · Chủ nhật · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Việt Nam ký FTA với khối EFTA — hiệp định thương mại tự do thứ 18",
+    "Rubio: ông Trump hoãn trừng phạt Nga 60 ngày; nghị sĩ cả hai đảng phản đối",
+    "Pháp sau ngày bạo loạn: khoảng 1.800 người bị bắt",
+    "Cháy nổ ở căn cứ quân sự Canada, ít nhất 7 người chết theo Global News",
+    "Fact: 18/10/1867 — Alaska chính thức thuộc Mỹ với giá 7,2 triệu USD"
+  ],
+  "followups": [
+    {
+      "title": "Ông Trump miễn trừng phạt Nga theo Đạo luật Graham",
+      "update": "Ngoại trưởng Rubio nói lệnh hoãn kéo dài 60 ngày để “phân tích tác động với kinh tế toàn cầu”; nghị sĩ Cộng hòa Tillis, Cruz, McCaul và lãnh đạo Dân chủ Schumer cùng chỉ trích.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/my-neu-ly-do-ong-trump-ky-sac-lenh-mien-trung-phat-nga-5133770.html"
+        },
+        {
+          "name": "VnExpress – chỉ trích",
+          "url": "https://vnexpress.net/nghi-si-luong-dang-chi-trich-ong-trump-vi-sac-lenh-mien-trung-phat-nga-5133727.html"
+        }
+      ]
+    },
+    {
+      "title": "Biểu tình vì giá cả ở Pháp",
+      "update": "Sau ngày 17/10 với 550.000–800.000 người tuần hành, khoảng 1.800 người bị bắt; Reuters gọi đây là một trong những đợt bạo loạn tồi tệ nhất hàng chục năm.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-18",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no"
+        }
+      ]
+    },
+    {
+      "title": "Hiệp định thương mại tự do Việt Nam – EFTA",
+      "update": "Đã ký ngày 18/10 tại Hà Nội — FTA thứ 18 của Việt Nam, với Thụy Sĩ, Iceland, Na Uy và Liechtenstein.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-17",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/viet-nam-ky-hiep-dinh-thuong-mai-tu-do-voi-cac-nuoc-thuoc-efta-5133793.html"
+        }
+      ]
+    },
+    {
+      "title": "Kỳ họp thứ hai Quốc hội khóa XVI",
+      "update": "Ngày 18/10 thảo luận tổ về kinh tế – xã hội và ngân sách: GDP 9 tháng tăng 9,01%; TP HCM cần tăng 13,23% trong quý IV để đạt mục tiêu.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/pho-thu-tuong-chinh-phu-lam-ngay-lam-dem-de-thao-go-kho-khan-5133798.html"
+        }
+      ]
+    },
+    {
+      "title": "Giảm lãi suất cho vay 1,5–2%",
+      "update": "Vietcombank cam kết giảm tối thiểu 2% đến cuối năm; BIDV giảm tới 2%/năm với khoản vay ngắn hạn bằng tiền đồng từ 15/10.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chu-tich-vietcombank-cam-ket-giam-toi-thieu-2-lai-suat-cho-vay-5133686.html"
+        }
+      ]
+    },
+    {
+      "title": "Nga đánh vào hạ tầng năng lượng Ukraine",
+      "update": "Không quân Ukraine báo Nga dùng tên lửa Iskander-M, Kh-22/32, Kalibr và 332 UAV; 22 địa điểm bị trúng.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ukraine-hung-mot-trong-nhung-cuoc-tan-cong-lon-nhat-vao-ha-tang-nang-luong-5133737.html"
+        }
+      ]
+    },
+    {
+      "title": "Lai dắt nhịp cầu đi bộ 3.400 tấn qua sông Sài Gòn",
+      "update": "Đoàn tàu kéo rời cảng Đông Xuyên lúc 5h20 sáng 18/10, chặng đầu khoảng 80 km tới Cần Giờ nghỉ, sáng 19/10 về trung tâm.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/lai-dat-cau-di-bo-hinh-la-dua-vuot-bien-ve-trung-tam-tp-hcm-5133731.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-18",
+      "time": "17–19/10",
+      "timezone": "giờ VN",
+      "title": "Thủ tướng Liechtenstein Brigitte Haas thăm chính thức Việt Nam",
+      "topic": "Chính trị",
+      "note": "Dự kiến ký FTA Việt Nam – EFTA và hiệp định tránh đánh thuế hai lần.",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://english.vov.vn/en/politics/diplomacy/liechtenstein-prime-minister-begins-vietnam-visit-to-boost-bilateral-ties-post1342322.vov"
+        },
+        {
+          "name": "Nhân Dân",
+          "url": "https://en.nhandan.vn/liechtenstein-prime-minister-arrives-in-ha-noi-starting-official-visit-to-viet-nam-post167902.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "18:00",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 4: Ninh Bình – HAGL",
+      "topic": "Bóng đá",
+      "note": "HAGL vừa có chiến thắng đầu tiên, 3-0 trước Đà Nẵng.",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/lich-thi-dau-v-league-moi-nhat-hagl-kho-gay-bat-ngo-cho-ninh-binh-fc-185261016181637501.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "20:00",
+      "timezone": "giờ VN",
+      "title": "Leeds – Man Utd, Ngoại hạng Anh (Elland Road)",
+      "topic": "Bóng đá",
+      "note": "Phép thử cho Carrick giữa tin Conte liên hệ.",
+      "sources": [
+        {
+          "name": "Leeds United",
+          "url": "https://www.leedsunited.com/en/news/television-picks-made-for-october-fixtures"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/scores-fixtures/2026-10-18"
+        },
+        {
+          "name": "Football Web Pages",
+          "url": "https://www.footballwebpages.co.uk/premier-league/fixtures-results/october"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "time": "sáng và chiều",
+      "timezone": "giờ VN",
+      "title": "Quốc hội làm việc Chủ nhật: thảo luận tổ về kinh tế - xã hội, ngân sách 2027",
+      "topic": "Chính trị",
+      "note": "Trước đó nghe trình Luật Thỏa thuận quốc tế (sửa đổi), đề xuất thí điểm thu hồi tài sản liên quan tội phạm không qua kết tội và tổng kết đường Hồ Chí Minh hai làn xe.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hom-nay-quoc-hoi-thao-luan-kinh-te-xa-hoi-va-ngan-sach-5133678.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "time": "02:00",
+      "timezone": "giờ VN",
+      "title": "Real Madrid – Sevilla, vòng 9 La Liga",
+      "topic": "Bóng đá",
+      "note": "21:00 CEST ngày 18/10, sân Bernabéu.",
+      "sources": [
+        {
+          "name": "Real Madrid",
+          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/el-real-madrid-sevilla-se-jugara-el-domingo-18-de-octubre-a-las-21-00-h-16-09-2026"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "time": "13:00–19:00",
+      "timezone": "giờ VN",
+      "title": "Tạm cấm luồng thủy khu vực thi công cầu đi bộ sông Sài Gòn (neo sà lan)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-dan-xe-sieu-truong-ha-thuy-nhip-cau-di-bo-nang-3-400-tan-bac-qua-song-sai-gon-5132906.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "time": "19–24/10",
+      "timezone": "giờ VN / châu Âu",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Đan Mạch, EU và Bỉ",
+      "topic": "Chính trị",
+      "note": "Chuyến thăm cấp nhà nước Đan Mạch và chính thức EU–Bỉ; nhiều dấu mốc đầu tiên.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-di-chau-au-chuyen-tham-cua-nhieu-dau-moc-dau-tien-10026101614385695.htm"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chuyen-tham-chau-au-cua-tong-bi-thu-chu-tich-nuoc-la-co-hoi-tao-buoc-ngoat-hop-tac-5133146.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "time": "sáng",
+      "timezone": "giờ VN",
+      "title": "Nhịp cầu đi bộ 3.400 tấn rời Cần Giờ về bến Bạch Đằng",
+      "topic": "Đời sống",
+      "note": "Chặng cuối của hành trình lai dắt 124 km, chuẩn bị hợp long.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/lai-dat-cau-di-bo-hinh-la-dua-vuot-bien-ve-trung-tam-tp-hcm-5133731.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "time": "0h",
+      "timezone": "giờ VN",
+      "title": "Hai trạm BOT Bến Thủy dừng thu phí 30 ngày",
+      "topic": "Đời sống",
+      "note": "Mở làn cho xe qua tự do trong thời gian nhà đầu tư sửa đường.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-thu-phi-hai-tram-bot-ben-thuy-trong-30-ngay-5133797.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "02:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 3: PSG – Barcelona, Man City – AEK, Liverpool – Villarreal",
+      "topic": "Bóng đá",
+      "note": "21:00 tối 20/10 giờ châu Âu; cùng giờ còn Napoli – Bodø/Glimt, Stuttgart – Atlético.",
+      "sources": [
+        {
+          "name": "UEFA.com",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "21–22/10",
+      "timezone": "giờ VN",
+      "title": "Không khí lạnh yếu tràn xuống Bắc Bộ",
+      "topic": "Đời sống",
+      "note": "Trời nhiều mây hơn, nhiệt độ giảm nhẹ dưới 33 độ C.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/giua-tuan-mien-bac-don-khong-khi-lanh-yeu-5133763.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "23:45",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 3: Como – Man Utd",
+      "topic": "Bóng đá",
+      "note": "18:45 giờ châu Âu; cùng giờ Lille – Galatasaray.",
+      "sources": [
+        {
+          "name": "UEFA.com",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Dự kiến hợp long cầu đi bộ qua sông Sài Gòn",
+      "topic": "Đời sống",
+      "note": "Tạm cấm luồng 2h–18h ngày 21 và 22/10; thời điểm có thể điều chỉnh theo mực nước.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-dan-xe-sieu-truong-ha-thuy-nhip-cau-di-bo-nang-3-400-tan-bac-qua-song-sai-gon-5132906.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "time": "02:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 3: Bayern – Arsenal, Real Madrid – Leipzig",
+      "topic": "Bóng đá",
+      "note": "Đêm 21/10 giờ châu Âu; cùng giờ Aston Villa – Viking, Inter – Shakhtar.",
+      "sources": [
+        {
+          "name": "UEFA.com",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "time": "19:15",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 5 mở màn: Công an Hà Nội – Thanh Hóa",
+      "topic": "Bóng đá",
+      "note": "Vòng 5 kéo dài đến 25/10 (HAGL – SLNA 23/10, Đà Nẵng – Hà Nội 25/10).",
+      "sources": [
+        {
+          "name": "VietNamNet",
+          "url": "https://vietnamnet.vn/lich-thi-dau-vong-5-v-league-mua-giai-2026-27-moi-nhat-2565621.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "18:30",
+      "timezone": "giờ VN",
+      "title": "Aston Villa – Man City, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "Man City đang thắng cả 7 trận, dẫn đầu bảng.",
+      "sources": [
+        {
+          "name": "Football Web Pages",
+          "url": "https://www.footballwebpages.co.uk/premier-league/fixtures-results/october"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "21:00",
+      "timezone": "giờ Tây Ban Nha",
+      "title": "El Clásico Barcelona – Real Madrid, vòng 10 La Liga",
+      "topic": "Bóng đá",
+      "note": "Spotify Camp Nou. Châu Âu đã đổi về giờ mùa đông, tương đương khoảng 03:00 ngày 26/10 giờ VN.",
+      "sources": [
+        {
+          "name": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/matches/138374/fc-barcelona-real-madrid-la-liga-2026-2027"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Ký FTA với EFTA, Quốc hội thảo luận kinh tế – xã hội, TP HCM và mục tiêu hai con số, ngân hàng giảm lãi suất.",
+      "items": [
+        {
+          "headline": "Việt Nam ký FTA với khối EFTA — hiệp định thương mại tự do thứ 18",
+          "meta": "18/10 · VnExpress",
+          "body": [
+            "Hiệp định Thương mại Tự do Việt Nam – EFTA (VEFTA) được ký ngày 18/10 tại Hà Nội, dưới sự chứng kiến của Tổng Bí thư, Chủ tịch nước Tô Lâm và lãnh đạo các nước. EFTA gồm Thụy Sĩ, Iceland, Na Uy và Liechtenstein; đây là FTA thứ 18 Việt Nam ký với các nước, khu vực.",
+            "Hiệp định bao trùm thương mại hàng hóa (thuế quan, hàng rào kỹ thuật, hải quan, phòng vệ), dịch vụ, đầu tư, sở hữu trí tuệ, giải quyết tranh chấp và phát triển bền vững. Theo Bộ Công Thương, thương mại hai bên khoảng 2 tỷ USD mỗi năm; Thụy Sĩ có 234 dự án còn hiệu lực tại Việt Nam với hơn 2,4 tỷ USD vốn đăng ký, Na Uy 62 dự án."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/viet-nam-ky-hiep-dinh-thuong-mai-tu-do-voi-cac-nuoc-thuoc-efta-5133793.html"
+            }
+          ]
+        },
+        {
+          "headline": "Phó thủ tướng Phạm Thị Thanh Trà: Chính phủ “làm ngày, làm đêm” để tháo gỡ khó khăn",
+          "meta": "Sáng 18/10 · VnExpress",
+          "body": [
+            "Thảo luận tổ về kinh tế – xã hội, Phó thủ tướng cho biết GDP 9 tháng tăng 9,01%, xuất nhập khẩu đạt 888 tỷ USD (cao nhất từ trước tới nay), thu ngân sách 9 tháng hơn 2 triệu tỷ đồng, tăng 14%. Các chính sách miễn, giảm, giãn thuế, phí có tổng quy mô 336.000 tỷ đồng, gồm cả bình ổn giá xăng dầu.",
+            "Hơn 3.000 trong 5.000 dự án tồn đọng đã được tháo gỡ, tổng vốn hơn 2 triệu tỷ đồng. Sắp xếp trường mầm non, phổ thông công lập giảm hơn một nửa số đầu mối; số thôn, tổ dân phố giảm 46%."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/pho-thu-tuong-chinh-phu-lam-ngay-lam-dem-de-thao-go-kho-khan-5133798.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bí thư Trần Lưu Quang: TP HCM phải tăng 13,23% trong quý IV để đạt mục tiêu, nhưng “không ăn xổi ở thì”",
+          "meta": "Sáng 18/10 · VnExpress",
+          "body": [
+            "TP HCM được giao GRDP tăng 10,2% năm nay, 9 tháng đạt 9,06%. Ông Trần Lưu Quang tính rằng nếu GRDP thành phố hụt 1%, 33 tỉnh, thành còn lại phải tăng thêm 0,25 điểm mỗi nơi mới bù được.",
+            "Ông nói thành phố sẽ không tăng trưởng bằng mọi giá: kế hoạch thu khoảng 90.000 tỷ đồng từ đấu giá đất, nhưng đã chỉ đạo không bán nếu đất không được giá. “Trong trường hợp không đạt, chúng ta sẽ xin lỗi mọi người và nỗ lực trong năm sau”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bi-thu-tran-luu-quang-tp-hcm-chat-chiu-nguon-luc-de-tang-truong-hai-chu-so-5133772.html"
+            }
+          ]
+        },
+        {
+          "headline": "Vietcombank cam kết giảm tối thiểu 2% lãi suất cho vay đến cuối năm; BIDV giảm tới 2%",
+          "meta": "17–18/10 · VnExpress",
+          "body": [
+            "Phát biểu tại tổ về dự thảo Luật Phát triển doanh nghiệp nhỏ và vừa, Chủ tịch Vietcombank Nguyễn Thanh Tùng nói SME chiếm khoảng 98% số doanh nghiệp nhưng chỉ khoảng 20% dư nợ tín dụng, nên hỗ trợ cần chọn đúng đối tượng thay vì dàn trải.",
+            "BIDV cũng thông báo giảm lãi suất cho vay tới 2%/năm với khoản vay ngắn hạn bằng tiền đồng, áp dụng từ 15/10. Trước đó Thủ tướng cho biết các tổ chức tín dụng đã thống nhất giảm 1,5–2% cho sản xuất kinh doanh."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chu-tich-vietcombank-cam-ket-giam-toi-thieu-2-lai-suat-cho-vay-5133686.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thụy Sĩ đề xuất nối “Crypto Valley” với hệ sinh thái đổi mới sáng tạo Việt Nam",
+          "meta": "17–18/10 · VnExpress",
+          "body": [
+            "Hội kiến Thủ tướng Lê Minh Hưng, Tổng thống Guy Parmelin đề xuất kết nối trung tâm blockchain Crypto Valley (vùng Zug) với Việt Nam để hợp tác về blockchain, AI và công nghệ lượng tử, cùng đào tạo nghề gắn với nhu cầu doanh nghiệp.",
+            "Thủ tướng đề nghị Thụy Sĩ hỗ trợ phát triển Trung tâm tài chính quốc tế tại Việt Nam; các lĩnh vực được nêu gồm tài chính xanh, quản lý tài sản, tài sản mã hóa, tín chỉ carbon và fintech."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thuy-si-de-xuat-ket-noi-crypto-valley-voi-he-sinh-thai-doi-moi-sang-tao-viet-nam-5133708.html"
+            }
+          ]
+        },
+        {
+          "headline": "Dừng thu phí hai trạm BOT Bến Thủy 30 ngày vì đường hư hỏng chậm sửa",
+          "meta": "18/10 · VnExpress",
+          "body": [
+            "Cục Đường bộ Việt Nam yêu cầu trạm Bến Thủy và Bến Thủy 2 dừng thu phí từ 0h ngày 20/10. Từ 9/2025 đến 9/2026, Cục đã 6 lần yêu cầu nhà đầu tư sửa chữa tuyến tránh Vinh và quốc lộ 1 đoạn Nam cầu Bến Thủy – Bắc tuyến tránh TP Hà Tĩnh (cũ); kiểm tra ngày 9/10 vẫn thấy mặt đường hằn lún, vạch sơn mờ.",
+            "Trong 30 ngày, các làn thu phí phải mở cho xe qua tự do, nhà đầu tư phải sửa triệt để hư hỏng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dung-thu-phi-hai-tram-bot-ben-thuy-trong-30-ngay-5133797.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Lý do và phản ứng quanh lệnh hoãn trừng phạt Nga, Pháp sau bạo loạn, Ukraine mất điện, thảm họa ở căn cứ Canada.",
+      "items": [
+        {
+          "headline": "Rubio: ông Trump hoãn trừng phạt Nga 60 ngày để “phân tích tác động”; nghị sĩ cả hai đảng phản đối",
+          "meta": "17–18/10 · VnExpress",
+          "body": [
+            "Ngoại trưởng Marco Rubio nói Tổng thống muốn 60 ngày để xem trừng phạt và thuế quan sẽ tác động thế nào tới kinh tế toàn cầu và Mỹ, trong bối cảnh xung đột với Iran và đòn tấn công của Houthi vào Saudi Arabia đẩy giá năng lượng. Ông cũng khẳng định “không có ai tại Nhà Trắng” ra lệnh hạn chế Starlink ở Ukraine.",
+            "Thượng nghị sĩ Cộng hòa Thom Tillis gọi quyết định là “hoàn toàn vô trách nhiệm”, Ted Cruz nói là “sai lầm”; lãnh đạo Dân chủ Chuck Schumer nói ông Trump vừa trao cho Putin “món quà sinh nhật tuyệt vời nhất”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – lý do",
+              "url": "https://vnexpress.net/my-neu-ly-do-ong-trump-ky-sac-lenh-mien-trung-phat-nga-5133770.html"
+            },
+            {
+              "name": "VnExpress – chỉ trích",
+              "url": "https://vnexpress.net/nghi-si-luong-dang-chi-trich-ong-trump-vi-sac-lenh-mien-trung-phat-nga-5133727.html"
+            }
+          ]
+        },
+        {
+          "headline": "Pháp sau ngày bạo loạn: khoảng 1.800 người bị bắt, Reuters gọi là đợt tồi tệ nhất hàng chục năm",
+          "meta": "18/10 · BBC, VnExpress",
+          "body": [
+            "Sáng Chủ nhật, Paris thức dậy với cửa kính vỡ, ôtô và xe đạp cháy trơ khung. Bộ Nội vụ ước khoảng 550.000 người xuống đường ngày 17/10 (công đoàn CGT nói 800.000) phản đối giá nhiên liệu, chi phí sinh hoạt và dịch vụ công xuống cấp; phần lớn ôn hòa.",
+            "Nhóm quá khích hôi của ở Paris, Marseille, Lille; tòa thị chính Limoges bị đốt, trung tâm thông tin du lịch Lyon cháy. BBC dẫn cảnh sát cho biết khoảng 1.800 người bị bắt."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bao-loan-toi-te-nhat-trong-hang-chuc-nam-bung-phat-o-phap-5133773.html"
+            },
+            {
+              "name": "VnExpress – ảnh",
+              "url": "https://vnexpress.net/canh-tan-hoang-sau-cuoc-bao-loan-toi-te-nhat-hang-chuc-nam-o-phap-5133810.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nga tập kích “một trong những đợt lớn nhất” vào hạ tầng năng lượng Ukraine",
+          "meta": "17–18/10 · VnExpress",
+          "body": [
+            "Không quân Ukraine cho biết Nga phóng tên lửa Iskander-M, Kh-22/32, 4 tên lửa Kalibr và 332 UAV; phòng không bắn hạ hoặc gây nhiễu 4 Kalibr và 289 UAV, vũ khí đánh trúng 22 địa điểm.",
+            "Tài khoản tình báo nguồn mở AMK Mapping ước tính Nga dùng 27 tên lửa, nhắm vào các nhà máy luyện kim Kryvyi Rih, Zaporizhstal và nhà máy máy biến áp Zaporozhtransformator."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ukraine-hung-mot-trong-nhung-cuoc-tan-cong-lon-nhat-vao-ha-tang-nang-luong-5133737.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cháy nổ ở căn cứ quân sự Wainwright (Canada): nhiều người chết, bệnh viện báo động thảm họa",
+          "meta": "18/10 · BBC, VnExpress",
+          "body": [
+            "Thủ tướng Mark Carney nói một “sự việc nghiêm trọng” gây cháy lớn tại căn cứ Wainwright (Alberta) tối 17/10; Bộ trưởng Quốc phòng David McGuinty xác nhận có thương vong nhưng chưa công bố con số hay nguyên nhân.",
+            "Global News dẫn nguồn quân đội giấu tên cho biết ít nhất 7 người chết, hàng chục người bị thương khi đạn trong buổi diễn tập bắn đạn thật trúng đường ống hoặc giếng khí đốt. Bệnh viện Royal Alexandra ở Edmonton kích hoạt “code orange”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chay-no-nhu-tham-hoa-khien-nhieu-nguoi-chet-o-can-cu-quan-su-canada-5133820.html"
+            }
+          ]
+        },
+        {
+          "headline": "Phái đoàn ngoại giao châu Âu bị người định cư Israel đeo mặt nạ tấn công ở Bờ Tây",
+          "meta": "17–18/10 · BBC",
+          "body": [
+            "Bỉ lên án vụ tấn công nhằm vào tổng lãnh sự của mình và các phái viên châu Âu, yêu cầu Israel đưa thủ phạm ra công lý. Quân đội Israel (IDF) gọi đây là “hành vi bạo lực nghiêm trọng” và mở điều tra, nhưng văn phòng Thủ tướng Netanyahu nghi ngờ và cho rằng đó là chiến dịch “bôi nhọ Israel”.",
+            "Một ngày trước đó, nhiếp ảnh gia Heidi Levine của Washington Post và một số người Palestine bị thương trong vụ tấn công khác; Ngoại trưởng Mỹ Rubio gọi vụ này là “đáng lo ngại”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo"
+            }
+          ]
+        },
+        {
+          "headline": "EU chuẩn bị thêm biện pháp hạn chế hàng Trung Quốc vì thâm hụt hơn 1 tỷ euro mỗi ngày",
+          "meta": "16–18/10 · VnExpress",
+          "body": [
+            "Sau thượng đỉnh EU, Chủ tịch Ủy ban châu Âu Ursula von der Leyen nói thỏa thuận giảm một nửa lượng xe hybrid Trung Quốc vào châu Âu chưa giải quyết được mất cân đối mang tính cấu trúc, nên EU sẽ bổ sung biện pháp phòng vệ.",
+            "Tổng thống Pháp Macron đề nghị tập trung vào hóa chất, nhựa và hợp kim sắt."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chau-au-muon-han-che-them-hang-nhap-khau-tu-trung-quoc-5133749.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Bản đồ “Gánh mưu sinh”, thời tiết miền Bắc, hai vụ cháy và vụ bắt chồng cũ Hằng Du Mục.",
+      "items": [
+        {
+          "headline": "“Gánh mưu sinh” trên Google Maps: cộng đồng ghim khoảng 160 gánh hàng của người già ở TP HCM",
+          "meta": "18/10 · VnExpress",
+          "body": [
+            "Người dùng ẩn danh tạo chuỗi địa điểm “Gánh mưu sinh” trên Google Maps, ghim gánh hàng rong của người già khó khăn. Bà Thanh Lan, 60 tuổi, bán bánh tráng trộn trước cổng trường THPT Lương Thế Vinh 15 năm, nói một tuần qua khách lạ tìm tới tăng đột biến: “Tôi không rành điện thoại nhưng mừng vì bán hết hàng sớm”."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nhung-ganh-muu-sinh-tren-google-maps-5132926.html"
+            }
+          ]
+        },
+        {
+          "headline": "Giữa tuần miền Bắc đón không khí lạnh yếu, trời mát hơn khoảng 21–22/10",
+          "meta": "18/10 · VnExpress",
+          "body": [
+            "Đến 20/10 miền Bắc vẫn nắng hanh, cao nhất 32–34 độ; nhiệt độ trung bình từ đầu tháng cao hơn trung bình nhiều năm 1–2 độ. Khoảng 21–22/10 không khí lạnh tác động yếu đến Bắc Bộ, nhiệt độ giảm nhẹ dưới 33 độ, rồi nắng ráo trở lại đến cuối tuần."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/giua-tuan-mien-bac-don-khong-khi-lanh-yeu-5133763.html"
+            }
+          ]
+        },
+        {
+          "headline": "Xe giường nằm cháy rụi trên quốc lộ 4D (Lào Cai), 20 hành khách kịp thoát",
+          "meta": "Rạng sáng 18/10 · VnExpress",
+          "body": [
+            "Khoảng 0h45, xe 24 chỗ chạy từ phường Lào Cai đi Sa Pa bốc cháy ở xã Cốc San. Tài xế tấp vào lề, đánh thức khách; cả 20 người ra ngoài an toàn trước khi lửa lan. Xe và nhiều hành lý cháy rụi, nguyên nhân đang được làm rõ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/20-nguoi-thoat-nan-khi-xe-giuong-nam-chay-rui-5133760.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cháy căn hộ tầng 3 chung cư Happy Valley (Phú Mỹ Hưng), hàng trăm cư dân di tản",
+          "meta": "17–18/10 · VnExpress",
+          "body": [
+            "Gần 19h ngày 17/10, lửa bùng từ căn hộ 100 m² không có người ở tòa M, phường Tân Hưng; khói đen phủ 5 tầng phía trên. Chuông báo cháy giúp cư dân xuống đất bằng cầu thang bộ; 3 xe chữa cháy và 16 chiến sĩ dập lửa sau khoảng 20 phút."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chay-can-ho-tang-3-chung-cu-o-tp-hcm-5133759.html"
+            }
+          ]
+        },
+        {
+          "headline": "Chồng cũ của TikToker Hằng Du Mục bị bắt vì dùng trái phép nhãn hiệu để bán táo đỏ",
+          "meta": "18/10 · VnExpress",
+          "body": [
+            "Công an TP HCM bắt Sun Yupeng (Tôn Bằng, 50 tuổi, quốc tịch Trung Quốc) về tội xâm phạm quyền sở hữu công nghiệp. Nhãn hiệu “Hằng Du Mục” đứng tên ông Nguyễn Công Hảo (bố của TikToker); sau ly hôn, Sun Yupeng lập công ty riêng bán táo đỏ mang nhãn hiệu này mà chưa được chủ sở hữu cho phép."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chong-cu-cua-tiktoker-hang-du-muc-bi-bat-5133846.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Giẫm đạp ở Kolkata, tai nạn sân bóng Wichita, gánh nặng chăm cha mẹ ở Mỹ và một đám cưới tối giản.",
+      "items": [
+        {
+          "headline": "Giẫm đạp tại lễ hội Durga Puja ở Kolkata, ít nhất 19 người chết",
+          "meta": "17–18/10 · VnExpress, BBC",
+          "body": [
+            "Tối 17/10, một thông báo đưa ra khi trời đổ mưa khiến đám đông chờ bên ngoài xô đẩy, lao lên rồi ngã. Thủ hiến Tây Bengal ban đầu nói 17 người chết, trong đó có bé gái 7 tuổi; PTI sau đó dẫn lời ông nói con số tăng lên 19. Ít nhất 25 người bị thương."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/giam-dap-trong-le-hoi-o-an-do-19-nguoi-thiet-mang-5133726.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko"
+            }
+          ]
+        },
+        {
+          "headline": "Xe bán tải lao vào sân bóng ở Wichita (Mỹ), một trẻ em và một người lớn thiệt mạng",
+          "meta": "17–18/10 · VnExpress",
+          "body": [
+            "Chiều 17/10 tại tổ hợp thể thao Stryker (Kansas), xe lao qua sân bóng, đâm nhiều người rồi dừng sau khoảng 100–200 m; 11 người bị thương. Cảnh sát đã bắt tài xế nhưng chưa xác nhận có cố ý hay không; trên xe còn hai trẻ vị thành niên."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/lao-xe-vao-san-bong-o-my-it-nhat-hai-nguoi-chet-5133741.html"
+            }
+          ]
+        },
+        {
+          "headline": "“Thế hệ bánh mì kẹp” ở Mỹ: hơn 80% người trưởng thành sẵn sàng vét tiết kiệm chăm cha mẹ",
+          "meta": "18/10 · VnExpress",
+          "body": [
+            "Nhưng chính họ lại sợ thành gánh nặng cho con khi về già. Một câu chuyện điển hình: chị Allison Hale (bang Washington) phải đưa mẹ 67 tuổi mắc hội chứng Wernicke-Korsakoff vào cơ sở chăm sóc giá 9.000 USD mỗi tháng, trong khi khoản tiết kiệm hưu trí 60.000 USD của mẹ chỉ đủ chưa tới 7 tháng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/the-he-banh-my-kep-vet-tien-cham-bo-me-nhung-so-phien-con-cai-5133156.html"
+            }
+          ]
+        },
+        {
+          "headline": "Làn sóng ma túy tổng hợp tự chế lan khắp nước Mỹ",
+          "meta": "18/10 · BBC",
+          "body": [
+            "BBC phỏng vấn người dùng, người bán, nhân viên nhà tù và trung tâm cai nghiện về một đợt dịch ma túy tổng hợp mới, chết người, đang làm khủng hoảng ở Mỹ thêm trầm trọng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o"
+            }
+          ]
+        },
+        {
+          "headline": "Cặp đôi Chiết Giang bỏ xe hoa, MC, phù dâu — dồn tiền đãi khách bào ngư, cua hoàng đế",
+          "meta": "18/10 · VnExpress",
+          "body": [
+            "Hai tiệc cưới (15 bàn ở Đài Châu, 45 bàn ở Ninh Ba) không có đoàn xe, MC hay thợ chụp ảnh; bố cô dâu phát biểu đúng 41 giây. Cô dâu tự trang điểm, váy cưới hơn 1.000 NDT, nhưng chi 20.000 NDT chụp ảnh cưới ở Lệ Giang."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bo-nghi-thuc-cuoi-don-tien-dai-khach-bao-ngu-cua-hoang-de-5133510.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vắn công nghệ & bóng đá",
+      "tags": [
+        "ai",
+        "football"
+      ],
+      "intro": "Hai tin ngắn.",
+      "items": [
+        {
+          "headline": "Công nghệ, vắn: Apollo Research nói GLM-5.3 của Z.AI có dấu hiệu biết mình đang bị kiểm tra an toàn",
+          "meta": "18/10 · VnExpress (dẫn SCMP)",
+          "body": [
+            "Báo cáo ngày 15/10 cho thấy mô hình cân nhắc việc hành vi trong bài đánh giá ảnh hưởng thế nào đến cách huấn luyện phiên bản sau, một hiện tượng có thể dẫn tới “giả vờ phục tùng”. Nhóm nghiên cứu nói chưa bắt gặp GLM-5.3 tự thay đổi quá trình huấn luyện."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ai-trung-quoc-co-the-gia-vo-ngoan-de-qua-mat-danh-gia-5133788.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bóng đá, vắn: UEFA và DFB cân nhắc David Beckham làm đối trọng với Infantino",
+          "meta": "18/10 · VnExpress",
+          "body": [
+            "Chủ tịch DFB Bernd Neuendorf nói muốn thấy “một người khác đứng đầu FIFA”. Hạn đăng ký ứng viên Chủ tịch FIFA (bầu năm 2027) là 18/11."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/beckham-duoc-uefa-ung-ho-tranh-cu-chu-tich-fifa-5133799.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Du thuyền cầu trượt của Kim Jong Un, ôtô bay khiêu chiến Tesla, 2 triệu con cua — cùng nem chua, Alaska 1867 và Edison 1931.",
+      "items": [
+        {
+          "headline": "Du thuyền 80 m có bể bơi 50 m và cầu trượt nước gần biệt thự nghỉ hè của Kim Jong Un",
+          "meta": "17/10 · BBC",
+          "body": [
+            "Ảnh vệ tinh BBC phân tích cho thấy con tàu nhiều lần xuất hiện ngoài khơi Wonsan từ tháng 7 đến giữa tháng 10, sau nhiều tháng nằm ở cơ sở bảo dưỡng. Cựu quan chức Văn phòng 39 Ri Jong Ho kể mùa đông tàu được cất ở xưởng, mùa hè đưa ra gần biệt thự để “bơi lội, giải trí”."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo"
+            }
+          ]
+        },
+        {
+          "headline": "Hãng ôtô bay Alef “gạ” Elon Musk đua xe: “chúng tôi đã ở đây 11 năm”",
+          "meta": "17–18/10 · VnExpress",
+          "body": [
+            "Hai ngày sau khi Musk công bố mẫu xe bay Tesla Roadster, Alef Aeronautics đăng video xe của họ bay lượn trên một chiếc Roadster đời cũ. CEO Jim Dukhovny nói có thêm Tesla là tốt cho cạnh tranh vì “chứng minh được tính thị trường”."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hang-oto-bay-dau-tien-cua-my-ga-elon-musk-dua-xe-5133781.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bang Washington diệt hơn 2,16 triệu con cua xanh xâm hại trong một năm tài khóa",
+          "meta": "18/10 · VnExpress",
+          "body": [
+            "Theo báo cáo của Cơ quan Cá và Động vật hoang dã Washington, từ 1/7/2025 đến 30/6/2026 bang loại bỏ hơn 2,16 triệu con cua xanh châu Âu nhưng vẫn chưa xóa sổ được quần thể; bang đã chi hơn 8 triệu USD từ khi ban bố khẩn cấp năm 2022."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/my-chi-hang-trieu-usd-tieu-diet-cua-xanh-xam-hai-5133624.html"
+            }
+          ]
+        },
+        {
+          "headline": "Fact khoa học bếp: vì sao nem chua làm từ thịt sống vẫn an toàn?",
+          "meta": "18/10 · VnExpress",
+          "body": [
+            "Thịt được “nấu chín” bằng axit lactic do vi khuẩn lactic tạo ra khi lên men đường: sau 2–3 ngày ủ ở 27–30 độ C, axit làm protein biến tính, đông kết. Vi khuẩn lactic cần môi trường không có oxy, nên khối thịt phải nén chặt và bọc kín bằng nilon — nguyên lý gần với món ceviche Nam Mỹ."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/vi-sao-nem-chua-lam-tu-thit-song-nhung-van-an-toan-5133800.html"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay 18/10/1867: Alaska chính thức về tay Mỹ với giá 7,2 triệu USD",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Thương vụ mua Alaska từ Đế quốc Nga được ký ngày 30/3 và Thượng viện Mỹ phê chuẩn ngày 9/4/1867; chủ quyền Mỹ có hiệu lực trên toàn lãnh thổ từ ngày 18/10. Bang Alaska nay vẫn nghỉ lễ “Alaska Day” mỗi ngày 18/10."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Alaska Purchase",
+              "url": "https://en.wikipedia.org/wiki/Alaska_Purchase"
+            },
+            {
+              "name": "Wikipedia – Alaska Day",
+              "url": "https://en.wikipedia.org/wiki/Alaska_Day"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay 18/10/1931: Thomas Edison qua đời, để lại 1.093 bằng sáng chế tại Mỹ",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Nhà phát minh của bóng đèn sợi đốt, máy hát và điện ảnh sơ khai mất tại West Orange (New Jersey). Việc sáp nhập Edison General Electric với Thomson-Houston đã tạo ra tập đoàn General Electric."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Thomas Edison",
+              "url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 18/10/2026 (giờ VN). Không lặp tin số sáng (hội đàm Tô Lâm – Parmelin, biểu tình Pháp ngày 17/10, Hormuz, Houthi, bão Champi…), trừ cập nhật mới trong ngày. Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
