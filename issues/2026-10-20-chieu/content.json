@@ -1,0 +1,1165 @@
+{
+  "date": "2026-10-20",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ ba, ngày 20 tháng 10 năm 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 20/10/2026 · Thứ ba · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Việt Nam – Đan Mạch đánh dấu Đối tác chiến lược toàn diện trong cuộc gặp Tô Lâm – Frederiksen",
+    "Alberta chọn ở lại Canada: 76% phiếu sơ bộ phản đối tiến tới ly khai",
+    "Luật Điện lực sửa đổi: giá điện sinh hoạt có thể tính theo giờ cao điểm, thấp điểm",
+    "Bạo loạn lan sang Italy: 500 binh sĩ tới Milan; Pháp bắt nghi phạm đốt tòa thị chính Limoges",
+    "Fact: 20/10/1973 — Nhà hát Opera Sydney của kiến trúc sư Đan Mạch Jørn Utzon được khánh thành"
+  ],
+  "followups": [
+    {
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Đan Mạch, EU và Bỉ",
+      "update": "Ngày 20/10 gặp Thủ tướng Mette Frederiksen để đánh dấu khuôn khổ Đối tác chiến lược toàn diện; hai bộ ngoại giao sẽ xây Kế hoạch hành động, Ủy ban liên Chính phủ họp trong tháng 10.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-19",
+      "sources": [
+        {
+          "name": "Statsministeriet",
+          "url": "https://stm.dk/presse/pressemeddelelser/2026/statsministeren-og-vietnams-praesident-markerer-ny-aftale-om-et-omfattende-strategisk-partnerskab/"
+        },
+        {
+          "name": "VietnamPlus",
+          "url": "https://www.vietnamplus.vn/bo-truong-ngoai-giao-le-hoai-trung-gap-bo-truong-ngoai-giao-dan-mach-post1143002.vnp"
+        }
+      ]
+    },
+    {
+      "title": "Bạo loạn sau biểu tình vì giá cả ở Pháp",
+      "update": "Thủ tướng Lecornu cáo buộc “mạng lưới ngầm” cực tả; bắt nghi phạm đốt tòa thị chính Limoges; hơn 120 người bị tống giam; bạo loạn lan sang Milan, Italy điều 500 binh sĩ.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-18",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/thu-tuong-phap-noi-mang-luoi-ngam-gay-bao-loan-de-pha-hoai-bau-cu-5134533.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo"
+        }
+      ]
+    },
+    {
+      "title": "Ông Trump miễn trừng phạt Nga, quan hệ Mỹ – Ukraine căng thẳng",
+      "update": "Trump sẵn sàng thượng đỉnh ba bên ở APEC, nói Nga “khá chừng mực” và muốn người khác đàm phán thay Zelensky; Zelensky nói sẵn sàng tranh cử nếu có ngừng bắn 60 ngày.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ong-trump-san-sang-du-thuong-dinh-ba-ben-voi-nga-va-trung-quoc-5134417.html"
+        }
+      ]
+    },
+    {
+      "title": "Alberta bỏ phiếu về ly khai khỏi Canada",
+      "update": "Kết quả sơ bộ (33% phiếu): 76% chọn ở lại Canada; phe ly khai nói sẽ tiếp tục. Kết quả chính thức dự kiến 29/10.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-19-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/nguoi-dan-alberta-chon-o-lai-voi-canada-5134612.html"
+        }
+      ]
+    },
+    {
+      "title": "Rò rỉ khí ở bãi phế liệu xã Thượng Phúc (Hà Nội)",
+      "update": "VnExpress xác định là khí clo từ bình hóa chất của hộ thu mua phế liệu, 40 người vào viện; bác sĩ cảnh báo triệu chứng có thể nặng dần sau nhiều giờ.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-19-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/khi-clo-doc-nhu-the-nao-5134543.html"
+        }
+      ]
+    },
+    {
+      "title": "Xung đột Houthi – Arab Saudi",
+      "update": "Đòn tên lửa vào thao trường Al-Alam (Shabwah) làm 58 người chết, hơn 200 bị thương; Houthi tuyên bố 6 chiến dịch trong 48 giờ nhắm cả Riyadh và Aramco.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-19",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/houthi-tap-kich-thao-truong-quan-doi-yemen-gan-60-nguoi-chet-5134484.html"
+        }
+      ]
+    },
+    {
+      "title": "Kỳ họp thứ hai Quốc hội khóa XVI",
+      "update": "Chiều 20/10 Quốc hội nghe trình Luật Điện lực sửa đổi (giá điện theo giờ cho hộ gia đình) và dự luật sửa 7 luật văn hóa – thể thao (chặn truy cập phim vi phạm).",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/chinh-thuc-trinh-quoc-hoi-quy-dinh-ap-gia-dien-theo-gio-thap-diem-cao-diem-voi-khach-hang-sinh-hoat-100261020153710016.htm"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-chan-truy-cap-phim-vi-pham-tren-internet-5134672.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-20",
+      "time": "09:00 và 14:00",
+      "timezone": "giờ Copenhagen",
+      "title": "Tô Lâm dự hội nghị doanh nghiệp tại Liên đoàn Công nghiệp Đan Mạch, hội kiến Thủ tướng Mette Frederiksen",
+      "topic": "Chính trị",
+      "note": "Hội nghị tập trung giải pháp xanh, y tế, thực phẩm; tối có hòa nhạc kỷ niệm 55 năm quan hệ ngoại giao tại Glyptoteket. Hai nước đánh dấu nâng quan hệ lên Đối tác chiến lược toàn diện.",
+      "sources": [
+        {
+          "name": "Hoàng gia Đan Mạch",
+          "url": "https://www.kongehuset.dk/en/news/programme-for-the-state-visit-from-the-socialist-republic-of-viet-nam"
+        },
+        {
+          "name": "Statsministeriet",
+          "url": "https://stm.dk/presse/pressemeddelelser/2026/statsministeren-og-vietnams-praesident-markerer-ny-aftale-om-et-omfattende-strategisk-partnerskab/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "time": "0h",
+      "timezone": "giờ VN",
+      "title": "Hai trạm BOT Bến Thủy dừng thu phí 30 ngày",
+      "topic": "Đời sống",
+      "note": "Mở làn cho xe qua tự do trong thời gian nhà đầu tư sửa đường.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-thu-phi-hai-tram-bot-ben-thuy-trong-30-ngay-5133797.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "02:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 3: PSG – Barcelona, Man City – AEK, Liverpool – Villarreal",
+      "topic": "Bóng đá",
+      "note": "21:00 tối 20/10 giờ châu Âu; cùng giờ còn Napoli – Bodø/Glimt, Stuttgart – Atlético.",
+      "sources": [
+        {
+          "name": "UEFA.com",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "09:00",
+      "timezone": "giờ VN",
+      "title": "U17 Việt Nam – FC Seoul U17 (giao hữu tại Hàn Quốc)",
+      "topic": "Bóng đá",
+      "note": "Tiếp theo: Cheonan City U17 (26/10), U17 Hàn Quốc (28/10).",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/u17-viet-nam-bat-ngo-doi-doi-thu-truoc-world-cup-chua-xac-dinh-ngay-dau-u17-han-quoc-185261019153017191.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "21–22/10",
+      "timezone": "giờ VN",
+      "title": "Không khí lạnh yếu tràn xuống Bắc Bộ",
+      "topic": "Đời sống",
+      "note": "Trời nhiều mây hơn, nhiệt độ giảm nhẹ dưới 33 độ C.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/giua-tuan-mien-bac-don-khong-khi-lanh-yeu-5133763.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "23:45",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 3: Como – Man Utd",
+      "topic": "Bóng đá",
+      "note": "18:45 giờ châu Âu; cùng giờ Lille – Galatasaray.",
+      "sources": [
+        {
+          "name": "UEFA.com",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "time": "đêm 21/10",
+      "timezone": "giờ VN",
+      "title": "Dự kiến hợp long cầu đi bộ qua sông Sài Gòn",
+      "topic": "Đời sống",
+      "note": "Vòm thép đã neo ở Bến Bạch Đằng từ chiều 19/10; thời điểm hợp long cụ thể tùy dòng chảy, mực nước. Tạm cấm luồng 2h–18h ngày 21 và 22/10.",
+      "sources": [
+        {
+          "name": "Báo Giao thông – Tạp chí Xây dựng",
+          "url": "https://giaothong.tapchixaydung.vn/vom-thep-nhip-chinh-cau-di-bo-3400-tan-duoc-lai-dat-an-toan-ve-ben-bach-dang-183290000000002416.htm"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vom-thep-cau-di-bo-3-400-tan-tiep-tuc-hanh-trinh-ve-trung-tam-tp-hcm-5133902.html"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dung-dan-xe-sieu-truong-ha-thuy-nhip-cau-di-bo-nang-3-400-tan-bac-qua-song-sai-gon-5132906.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "time": "02:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 3: Bayern – Arsenal, Real Madrid – Leipzig",
+      "topic": "Bóng đá",
+      "note": "Đêm 21/10 giờ châu Âu; cùng giờ Aston Villa – Viking, Inter – Shakhtar.",
+      "sources": [
+        {
+          "name": "UEFA.com",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "time": "19:15",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 5 mở màn: Công an Hà Nội – Thanh Hóa",
+      "topic": "Bóng đá",
+      "note": "Vòng 5 kéo dài đến 25/10 (HAGL – SLNA 23/10, Đà Nẵng – Hà Nội 25/10).",
+      "sources": [
+        {
+          "name": "VietNamNet",
+          "url": "https://vietnamnet.vn/lich-thi-dau-vong-5-v-league-mua-giai-2026-27-moi-nhat-2565621.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "time": "dự kiến 21–22/10",
+      "timezone": "giờ Brussels",
+      "title": "Tô Lâm thăm chính thức EU: gặp António Costa và Ursula von der Leyen",
+      "topic": "Chính trị",
+      "note": "Sau khi rời Đan Mạch 21/10; giờ cụ thể từng cuộc gặp chưa công bố chính thức. Tiếp đó thăm chính thức Bỉ, hội đàm Thủ tướng Bart De Wever; chuyến công du kéo dài đến 24/10.",
+      "sources": [
+        {
+          "name": "Vietnam News",
+          "url": "https://vietnamnews.vn/politics-laws/1802101/top-leader-to-lam-to-visit-denmark-eu-belgium-next-week.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "time": "0h–12h (giờ Anh)",
+      "timezone": "giờ Anh (BST)",
+      "title": "Bão Austen đổ bộ nước Anh, cảnh báo vàng về gió",
+      "topic": "Đời sống",
+      "note": "Nam xứ Wales, tây nam nước Anh; có thể mất điện, gián đoạn giao thông. Tương ứng 6h–18h ngày 23/10 giờ VN.",
+      "sources": [
+        {
+          "name": "BBC Weather",
+          "url": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "time": "23–24/10",
+      "timezone": "giờ VN",
+      "title": "Siêu bão Champi tiến gần Đài Loan; gió mạnh cấp 6-7 ở bắc Biển Đông",
+      "topic": "Đời sống",
+      "note": "Gió đông bắc cấp 6-7, giật cấp 9-10, sóng 3-5 m; xác suất bão vào Đông Bắc Biển Đông nay dưới 10%, Nhật Bản dự báo đổ bộ Đài Loan khoảng 24/10.",
+      "sources": [
+        {
+          "name": "Dân trí",
+          "url": "https://dantri.com.vn/thoi-tiet/sieu-bao-champi-manh-tro-lai-co-the-dat-cap-17-20261019215427276.htm"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/sieu-bao-champi-co-the-gay-gio-manh-tren-bien-dong-5133863.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "time": "trong ngày",
+      "timezone": "giờ Brussels",
+      "title": "Nhà vua, Hoàng hậu Bỉ đón Tô Lâm và Phu nhân tại lâu đài Laeken",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Hoàng gia Bỉ",
+          "url": "https://www.monarchie.be/fr/agenda/leurs-majestes-le-roi-et-la-reine-recoivent-le-president-de-la-republique-socialiste-du"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "18:30",
+      "timezone": "giờ VN",
+      "title": "Aston Villa – Man City, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "Man City đang thắng cả 7 trận, dẫn đầu bảng.",
+      "sources": [
+        {
+          "name": "Football Web Pages",
+          "url": "https://www.footballwebpages.co.uk/premier-league/fixtures-results/october"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "21:00",
+      "timezone": "giờ VN",
+      "title": "Arsenal – Everton, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "15:00 giờ Anh (BST).",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.com/sport/football/scores-fixtures/2026-10-24"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "23:30",
+      "timezone": "giờ VN",
+      "title": "Derby London Chelsea – Tottenham, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "17:30 giờ Anh (BST).",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.com/sport/football/scores-fixtures/2026-10-24"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "24–30/10",
+      "timezone": "giờ Paris",
+      "title": "Tuần lễ Sân khấu Việt Nam tại Pháp – 50 năm quan hệ Việt Nam – UNESCO",
+      "topic": "Văn hoá",
+      "note": "Có lễ kỷ niệm, triển lãm 300 năm ngày sinh Lê Quý Đôn tại trụ sở UNESCO; bà Ngô Phương Ly dự kiến tham dự.",
+      "sources": [
+        {
+          "name": "Vietnam News",
+          "url": "https://vietnamnews.vn/politics-laws/1802101/top-leader-to-lam-to-visit-denmark-eu-belgium-next-week.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "21:00",
+      "timezone": "giờ Tây Ban Nha",
+      "title": "El Clásico Barcelona – Real Madrid, vòng 10 La Liga",
+      "topic": "Bóng đá",
+      "note": "Spotify Camp Nou. Châu Âu đã đổi về giờ mùa đông, tương đương khoảng 03:00 ngày 26/10 giờ VN.",
+      "sources": [
+        {
+          "name": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/matches/138374/fc-barcelona-real-madrid-la-liga-2026-2027"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "21:00",
+      "timezone": "giờ VN",
+      "title": "Man Utd – Bournemouth và Liverpool – Brighton, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "14:00 giờ Anh; nước Anh lùi đồng hồ về GMT rạng sáng 25/10.",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.com/sport/football/scores-fixtures/2026-10-25"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "hết ngày",
+      "timezone": "giờ VN",
+      "title": "Hết thời gian theo dõi 177 người tiếp xúc gần ca não mô cầu ở TP HCM",
+      "topic": "Đời sống",
+      "note": "Trạm Y tế xã Hiệp Phước theo dõi sức khỏe hằng ngày.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hon-2-000-hoc-sinh-giao-vien-truong-co-4-ca-nao-mo-cau-duoc-uong-khang-sinh-du-phong-5134183.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "time": "trong ngày",
+      "timezone": "giờ Israel",
+      "title": "Tổng tuyển cử Israel",
+      "topic": "Chính trị",
+      "note": "Bầu cử toàn quốc đầu tiên kể từ vụ tấn công của Hamas năm 2023; ông Trump vừa công khai ủng hộ ông Netanyahu.",
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "time": "10:00",
+      "timezone": "giờ Alberta",
+      "title": "Công bố kết quả chính thức trưng cầu ý dân Alberta (10 câu hỏi, gồm câu về ly khai)",
+      "topic": "Chính trị",
+      "note": "Kết quả không chính thức được đếm trong 48 giờ sau khi đóng phiếu 19/10.",
+      "sources": [
+        {
+          "name": "Elections Alberta",
+          "url": "https://www.elections.ab.ca/current-election-information/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "time": "trong ngày",
+      "timezone": "giờ Kenya",
+      "title": "Tuyên án mục sư Paul Mackenzie và 28 bị cáo vụ Shakahola",
+      "topic": "Chính trị",
+      "note": "Đã bị kết tội giết 191 người; báo cáo quản chế nộp tòa ngày 30/10.",
+      "sources": [
+        {
+          "name": "Capital FM",
+          "url": "https://capitalfm.africa/court-convicts-all-29-shakahola-accused-of-murder-sets-sentencing-for-november-6/"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Đối tác chiến lược toàn diện với Đan Mạch, lương theo vị trí việc làm, giá điện theo giờ, chặn phim vi phạm và triển lãm quốc phòng.",
+      "items": [
+        {
+          "headline": "Việt Nam – Đan Mạch đánh dấu khuôn khổ Đối tác chiến lược toàn diện trong cuộc gặp Tô Lâm – Mette Frederiksen",
+          "meta": "20/10 · Văn phòng Thủ tướng Đan Mạch, VietnamPlus (TTXVN)",
+          "body": [
+            "Văn phòng Thủ tướng Đan Mạch thông báo bà Mette Frederiksen gặp Tổng Bí thư, Chủ tịch nước Tô Lâm ngày 20/10 để đánh dấu việc hai nước xác lập “đối tác chiến lược toàn diện”, xây trên nền Đối tác chiến lược xanh năm 2023, đúng dịp 55 năm quan hệ ngoại giao. “Trong một thế giới khó lường, chúng ta cần những quan hệ đối tác mạnh”, bà Frederiksen nói.",
+            "Trước đó, Bộ trưởng Ngoại giao Lê Hoài Trung đề nghị hai bộ ngoại giao sớm xây Kế hoạch hành động triển khai khuôn khổ mới, ưu tiên chuyển đổi xanh, năng lượng tái tạo, khoa học – công nghệ và logistics. Ngoại trưởng Lars Løkke Rasmussen cho biết Đan Mạch là nhà đầu tư lớn thứ ba của EU tại Việt Nam, hơn 150 doanh nghiệp tạo hơn 20.000 việc làm; Ủy ban liên Chính phủ sẽ họp ngay trong tháng 10."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Statsministeriet (Đan Mạch)",
+              "url": "https://stm.dk/presse/pressemeddelelser/2026/statsministeren-og-vietnams-praesident-markerer-ny-aftale-om-et-omfattende-strategisk-partnerskab/"
+            },
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/bo-truong-ngoai-giao-le-hoai-trung-gap-bo-truong-ngoai-giao-dan-mach-post1143002.vnp"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ Chính trị: trả lương theo vị trí việc làm và kết quả công việc, bỏ dần lối “cào bằng” theo ngạch, bậc, thâm niên",
+          "meta": "20/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Kết luận ban hành ngày 17/10 coi hệ thống vị trí việc làm là nền tảng để tuyển dụng, đánh giá, quản lý biên chế và cải cách tiền lương. Thay vì quản lý theo số người và chỉ tiêu biên chế, các cơ quan chuyển sang quản lý theo nhiệm vụ, khối lượng công việc, sản phẩm và kết quả; mỗi vị trí phải ghi rõ việc cần làm, năng lực, quyền hạn và kết quả phải đạt.",
+            "Bộ Chính trị đánh giá danh mục vị trí, bản mô tả công việc và khung năng lực đã cơ bản hình thành nhưng phương pháp chưa thống nhất, dữ liệu phân tán, còn chồng chéo nhiệm vụ. Theo Tuổi Trẻ, Bộ Nội vụ, Hà Nội và một địa phương được chọn làm điểm."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bo-chinh-tri-yeu-cau-doi-moi-chinh-sach-tien-luong-theo-hieu-qua-cong-viec-5134465.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/chon-bo-noi-vu-ha-noi-va-1-dia-phuong-lam-diem-xay-dung-vi-tri-viec-lam-100261020161905232.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Trình Quốc hội Luật Điện lực sửa đổi: giá điện sinh hoạt có thể tính theo giờ cao điểm, thấp điểm",
+          "meta": "Chiều 20/10 · Tuổi Trẻ",
+          "body": [
+            "Bộ trưởng Công Thương Lê Mạnh Hùng trình dự luật bổ sung quy định áp giá bán lẻ giờ cao điểm, thấp điểm và bình thường “khi điều kiện kỹ thuật cho phép”, kể cả với khách hàng sinh hoạt; đặt lộ trình giảm, tiến tới xóa bù chéo giữa các nhóm khách hàng; giá trúng thầu là cơ sở ký hợp đồng mua bán điện, hạn chế đàm phán lại.",
+            "Ủy ban Khoa học, Công nghệ và Môi trường lưu ý cách viết giá hợp đồng phải “bảo đảm thu hồi đầy đủ” chi phí, vốn và lợi nhuận có thể bị hiểu là Nhà nước bảo đảm kết quả tài chính cho nhà đầu tư, đề nghị lượng hóa tác động của giá điện theo giờ tới hóa đơn từng nhóm hộ gia đình."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/chinh-thuc-trinh-quoc-hoi-quy-dinh-ap-gia-dien-theo-gio-thap-diem-cao-diem-voi-khach-hang-sinh-hoat-100261020153710016.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Sửa 7 luật văn hóa – thể thao: đề xuất buộc nhà mạng chặn truy cập phim vi phạm trên internet",
+          "meta": "Chiều 20/10 · VnExpress",
+          "body": [
+            "Bộ trưởng Văn hóa, Thể thao và Du lịch Lâm Thị Phương Thanh trình dự luật sửa 7 luật (Thể dục thể thao, Du lịch, Thư viện, Điện ảnh, Di sản văn hóa, Quảng cáo, Báo chí). Nền tảng phổ biến phim phải gỡ phim vi phạm và chỉnh lại mức phân loại, cảnh báo độ tuổi theo yêu cầu bằng văn bản của cơ quan có thẩm quyền.",
+            "Doanh nghiệp viễn thông phải có đầu mối tiếp nhận yêu cầu và chặn truy cập phim vi phạm — điều Luật Điện ảnh 2022 mới chỉ yêu cầu ở phía nền tảng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/de-xuat-chan-truy-cap-phim-vi-pham-tren-internet-5134672.html"
+            }
+          ]
+        },
+        {
+          "headline": "Triển lãm Quốc phòng quốc tế 2026 ở sân bay Gia Lâm (10–13/12): dự kiến ra mắt xe tăng T1, xe chiến đấu bộ binh XTC-03",
+          "meta": "20/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Thiếu tướng Nguyễn Đức Tăng (Tổng cục Công nghiệp quốc phòng) cho biết diện tích trưng bày 123.800 m², tăng 23.800 m² so với hai năm trước; xe tăng T1 và XTC-03 do Tổng cục nghiên cứu, sản xuất đã được báo cáo Bộ Quốc phòng để trưng bày. Theo Tuổi Trẻ, 44 đoàn từ 30 quốc gia đã đăng ký và triển lãm không giới hạn độ tuổi khách tham quan."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/xe-tang-t1-thiet-giap-xtc-03-se-duoc-trung-bay-tai-trien-lam-quoc-phong-2026-5134510.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/44-doan-tu-30-quoc-gia-dang-ky-tham-du-trien-lam-quoc-phong-quoc-te-viet-nam-10026102008294326.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ Chính trị đổi tên Đảng ủy Mặt trận Tổ quốc, các đoàn thể Trung ương thành Đảng ủy Dân vận, Mặt trận và các đoàn thể Trung ương",
+          "meta": "20/10 · Tuổi Trẻ",
+          "body": [
+            "Quyết định được Tuổi Trẻ đưa tin sáng 20/10, gắn thêm chức năng dân vận vào tên gọi của đảng bộ cấp trên trực tiếp ở khối Mặt trận và các đoàn thể."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/bo-chinh-tri-quyet-dinh-doi-ten-dang-uy-mat-tran-to-quoc-cac-doan-the-trung-uong-100261020071414003.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Alberta ở lại Canada, Trump và thượng đỉnh ba bên, bạo loạn Pháp – Italy – Albania, Houthi, Hàn Quốc – Ukraine và vụ tấn công nghị sĩ Australia.",
+      "items": [
+        {
+          "headline": "Alberta chọn ở lại Canada: kiểm 33% phiếu, 76% muốn tiếp tục là một phần Canada",
+          "meta": "20/10 · VnExpress (dẫn CBC, CTV)",
+          "body": [
+            "Chỉ 23% ủng hộ tiến tới trưng cầu ràng buộc về ly khai. “Người dân Alberta đã đưa ra lựa chọn rõ ràng”, Thủ tướng Mark Carney nói. Phe ly khai (Dự án Thịnh vượng Alberta) tuyên bố nỗ lực độc lập “chắc chắn” sẽ tiếp tục. Kết quả chính thức của cả 10 câu hỏi dự kiến công bố 29/10."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nguoi-dan-alberta-chon-o-lai-voi-canada-5134612.html"
+            }
+          ]
+        },
+        {
+          "headline": "Trump sẵn sàng thượng đỉnh ba bên với Putin, Tập ở APEC — và nói Nga “khá chừng mực” với Ukraine",
+          "meta": "19–20/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Ông Trump nói nếu ông Tập muốn tổ chức thì ông sẵn sàng, chủ đề là vũ khí hạt nhân, phi hạt nhân hóa và thương mại, tham gia “không hẳn vì Ukraine”. Ông bảo vệ thỏa thuận diesel và việc hoãn trừng phạt Nga 60 ngày, nói “ông Zelensky không biết mình đang nói gì” và “đã đến lúc ai đó khác đàm phán thay Ukraine”.",
+            "Cùng lúc, ông Zelensky nói với NBC rằng sẵn sàng tái tranh cử nếu bầu cử diễn ra trong thời chiến, với điều kiện Nga chấp nhận ngừng bắn 60 ngày để chuẩn bị luật và an ninh. Giáo hoàng Leo XIV điện đàm, kêu gọi Kyiv và Moskva phối hợp sơ tán dân ở Oleshky (Kherson)."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – Trump",
+              "url": "https://vnexpress.net/ong-trump-san-sang-du-thuong-dinh-ba-ben-voi-nga-va-trung-quoc-5134417.html"
+            },
+            {
+              "name": "VnExpress – Zelensky",
+              "url": "https://vnexpress.net/ong-zelensky-san-sang-tranh-cu-tong-thong-trong-thoi-chien-5134443.html"
+            },
+            {
+              "name": "Tuổi Trẻ – Giáo hoàng",
+              "url": "https://tuoitre.vn/giao-hoang-leo-xiv-dien-dam-voi-ong-zelensky-keu-goi-phoi-hop-nhan-dao-voi-nga-100261020094938589.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Pháp: Thủ tướng Lecornu tố “mạng lưới ngầm” cực tả gây bạo loạn để phá bầu cử 2027; bắt nghi phạm đốt tòa thị chính Limoges",
+          "meta": "19–20/10 · VnExpress, BBC",
+          "body": [
+            "Ông Lecornu nói không ai thiệt mạng là “một phép màu”; riêng Paris có 200 điều tra viên truy tìm người đập phá, cướp tài sản. BBC dẫn FranceInfo: nghi phạm 40 tuổi bị bắt vì vụ cháy tòa thị chính thế kỷ 19 ở Limoges thuộc diện “S” (nguy cơ an ninh quốc gia); Bộ trưởng Tư pháp Darmanin nói hơn 120 người đã bị tống giam."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thu-tuong-phap-noi-mang-luoi-ngam-gay-bao-loan-de-pha-hoai-bau-cu-5134533.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo"
+            }
+          ]
+        },
+        {
+          "headline": "Bạo loạn lan sang Italy: 500 binh sĩ tới Milan, 271 người bị bắt",
+          "meta": "19–20/10 · VnExpress",
+          "body": [
+            "Phó thủ tướng Matteo Salvini thông báo điều quân sau hai ngày biểu tình về giá cả, dịch vụ công và thu nhập thấp biến thành cướp phá. Trong 32 người bị tạm giam có 23 người chưa thành niên; ít nhất 14 cảnh sát bị thương. Nội các bà Meloni cân nhắc siết tạm giữ hành chính với người chưa thành niên."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/italy-dieu-500-binh-si-toi-milan-de-phong-bao-loan-5134466.html"
+            }
+          ]
+        },
+        {
+          "headline": "Albania: ngày thứ bảy liên tiếp đụng độ giữa sinh viên và cảnh sát, đòi Thủ tướng Edi Rama từ chức",
+          "meta": "20/10 · BBC",
+          "body": [
+            "Theo số liệu chính thức trước đợt bạo lực hôm thứ Hai, 295 người bị thương, trong đó 186 cảnh sát. Người biểu tình, nhiều người là học sinh, sinh viên, đòi cải thiện điều kiện đại học và phản đối tham nhũng; ông Rama nói họ bị “thế lực đen tối ở châu Âu và Mỹ” cực đoan hóa."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ trưởng Quốc phòng Mỹ Hegseth bất ngờ tới Israel “bàn về Iran”, 8 ngày trước bầu cử Israel",
+          "meta": "19–20/10 · VnExpress (dẫn Axios)",
+          "body": [
+            "Ông Hegseth được cho là gặp Thủ tướng Netanyahu tại căn cứ không quân Ovda, nơi có máy bay tiếp dầu và chiến đấu cơ Mỹ, giữa lúc hai nước bàn khả năng nối lại chiến dịch tấn công Iran. Lầu Năm Góc từ chối bình luận."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bo-truong-quoc-phong-my-bat-ngo-tham-israel-de-ban-ve-iran-5134482.html"
+            }
+          ]
+        },
+        {
+          "headline": "Houthi bắn tên lửa đạn đạo vào thao trường quân chính phủ Yemen ở Shabwah: 58 chết, hơn 200 bị thương",
+          "meta": "19–20/10 · VnExpress, BBC",
+          "body": [
+            "Theo lãnh đạo tỉnh Shabwah, 14 người còn mất tích sau đòn vào trại Al-Alam; Houthi nói cơ sở do lực lượng Arab Saudi vận hành và tuyên bố 6 chiến dịch trong 48 giờ, nhắm cả sân bay King Khalid ở Riyadh, cơ sở Aramco ở Yanbu và mỏ Shaybah. BBC dẫn chính quyền địa phương ban đầu nêu con số 50 tân binh thiệt mạng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/houthi-tap-kich-thao-truong-quan-doi-yemen-gan-60-nguoi-chet-5134484.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo"
+            }
+          ]
+        },
+        {
+          "headline": "Hàn Quốc rút thêm nhân viên sứ quán ở Kyiv vì tranh cãi “tù binh Triều Tiên”",
+          "meta": "20/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Seoul nói việc triệu hồi Đại sứ hơn một tuần trước không khiến Ukraine “phản hồi tích cực”. Gốc rễ: ông Zelensky công khai tại Đại hội đồng LHQ việc trao hai tù binh Triều Tiên cho Hàn Quốc, điều Tổng thống Lee Jae Myung nói Ukraine đã đơn phương tiết lộ; Kyiv khẳng định không có thỏa thuận bảo mật."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/han-quoc-rut-nhan-vien-tai-su-quan-o-ukraine-sau-tranh-cai-ve-tu-binh-trieu-tien-5134638.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nữ nghị sĩ Australia Helen Haines bị xe Land Cruiser cố ý đâm, phải cắt bỏ một chân",
+          "meta": "19–20/10 · VnExpress, BBC",
+          "body": [
+            "Vụ việc ở Wangaratta (cách Melbourne ~200 km); Thủ tướng Albanese nói tài xế quay đầu để đâm thẳng vào bà. Nghi phạm 43 tuổi bị một thợ cắt tóc khống chế, giật dao trước khi cảnh sát tới; lực lượng chống khủng bố cùng điều tra. BBC cho biết các lời đe dọa nhắm vào chính trị gia Australia đã gia tăng từ trước."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nghi-si-australia-bi-xe-tong-nat-chan-trong-vu-tan-cong-co-y-5134545.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo"
+            }
+          ]
+        },
+        {
+          "headline": "Tòa Tối cao Tây Ban Nha: Puigdemont được về nước mà không bị bắt, gần một thập niên sau trưng cầu Catalonia",
+          "meta": "19/10 · BBC",
+          "body": [
+            "Tòa giữ quyết định hủy lệnh bắt liên quan cuộc trưng cầu độc lập năm 2017; ông sống lưu vong ở Bỉ từ đó. BBC nhận xét độc lập Catalonia nay chỉ còn là vấn đề chính trị bên lề."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o"
+            }
+          ]
+        },
+        {
+          "headline": "Tòa Tối cao Mỹ không thụ lý kháng cáo của Khalid Sheikh Mohammed, chủ mưu vụ 11/9, đòi khôi phục thỏa thuận nhận tội",
+          "meta": "19–20/10 · VnExpress",
+          "body": [
+            "Thỏa thuận năm 2024 giúp KSM và hai đồng phạm tránh án tử đã bị Bộ trưởng Quốc phòng khi đó Lloyd Austin hủy. Ba người vẫn bị giam ở Guantanamo, dự kiến ra tòa tháng 6/2028."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/toa-my-bac-don-khang-cao-cua-chu-muu-vu-khung-bo-11-9-5134429.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Tàu metro Alstom cho Hà Nội, điện LNG Quảng Trạch II, Bệnh viện Tim cơ sở 2, khí clo và một cuộc tìm kiếm có hậu.",
+      "items": [
+        {
+          "headline": "Pháp – Vingroup: Alstom nhận đơn hàng đầu tiên khoảng 800 triệu euro (897 triệu USD) cung cấp tàu metro cho Hà Nội",
+          "meta": "20/10 · Tuổi Trẻ",
+          "body": [
+            "Tập đoàn Alstom công bố đơn hàng đợt đầu cho các dự án đường sắt đô thị Hà Nội, trong khuôn khổ hợp tác với Vingroup."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tap-doan-phap-nhan-don-hang-897-trieu-usd-cung-cap-tau-cho-he-thong-metro-ha-noi-100261020145943622.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Khởi công nhà máy điện LNG Quảng Trạch II hơn 40.000 tỷ đồng, phát điện từ năm 2030",
+          "meta": "Sáng 20/10 · VnExpress",
+          "body": [
+            "Hai tổ máy tổng gần 1.613 MW ở khu kinh tế Hòn La (Quảng Trị), dự kiến cung cấp khoảng 9,5 tỷ kWh mỗi năm; tổ máy 1 phát điện thương mại tháng 2/2030, tổ máy 2 sau hai tháng. Vốn 20% chủ sở hữu, 80% vay thương mại; tổng thầu EPC là liên danh Tập đoàn Xây dựng Điện lực Trung Quốc và Lilama."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/evn-khoi-cong-nha-may-dien-khi-lng-hon-40-000-ty-dong-5134576.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bệnh viện Tim Hà Nội cơ sở 2 (Xuân La) đi vào hoạt động: 300 giường, 6 phòng mổ, có phòng mổ Hybrid",
+          "meta": "20/10 · VnExpress",
+          "body": [
+            "Công trình hơn 789 tỷ đồng ngân sách thành phố, 12 tầng nổi, 2 tầng hầm, 56 phòng khám, 5 phòng can thiệp tim mạch và 3 phòng can thiệp mạch máu. Bệnh viện hiện khám hơn 600.000 lượt, mổ khoảng 2.335 ca và can thiệp 13.000 ca tim mạch mỗi năm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/benh-vien-tim-ha-noi-co-so-2-quy-mo-300-giuong-hoat-dong-5134584.html"
+            }
+          ]
+        },
+        {
+          "headline": "Sau vụ rò rỉ ở Thượng Phúc: khí clo nguy hiểm vì triệu chứng có thể nặng dần nhiều giờ sau",
+          "meta": "20/10 · VnExpress Sức khỏe",
+          "body": [
+            "Bác sĩ Nguyễn Huy Hoàng giải thích clo gặp ẩm trên niêm mạc tạo chất axit, oxy hóa mạnh, có thể gây co thắt phế quản, phù phổi, suy hô hấp; bớt cay mắt hay bớt ho chưa có nghĩa là hết nguy hiểm. VnExpress cho biết đây là lần đầu xảy ra ngộ độc tập thể do khí clo từ bình phế liệu, với 40 người phải vào viện."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khi-clo-doc-nhu-the-nao-5134543.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bé trai 3 tuổi ở Sơn La được tìm thấy trong bể nước vườn nhãn sau hơn 14 giờ mất tích",
+          "meta": "20/10 · VnExpress",
+          "body": [
+            "Cháu mất tích từ 8h ngày 19/10 ở bản Chiềng Xôm (xã Mường Hung), đến khoảng 22h30 được tìm thấy cách nhà khoảng 1 km, mệt vì đói và lạnh. Công an xã khuyến cáo che chắn, khóa ao, giếng, bể chứa nước và không để trẻ nhỏ đi chơi một mình."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/be-trai-3-tuoi-duoc-tim-thay-trong-be-nuoc-sau-14-tieng-mat-tich-5134726.html"
+            }
+          ]
+        },
+        {
+          "headline": "TP HCM thu hồi 19,2 ha đất dự án Công viên Thiên niên kỷ ở Khu Công nghệ cao sau gần 10 năm",
+          "meta": "20/10 · VnExpress",
+          "body": [
+            "Công ty CP Dệt may Sài Gòn thuê đất từ 6/2017 cho dự án công viên khoa học, bảo tàng thiên nhiên vốn dự kiến 900 tỷ đồng (công bố 2015); dự án chấm dứt từ 5/2025 và doanh nghiệp tự nguyện trả đất."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tp-hcm-thu-hoi-hon-19-ha-dat-du-an-cong-vien-thien-nien-ky-5134519.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tphcm-thu-hoi-khu-dat-du-an-cong-vien-thien-nien-ky-tai-khu-cong-nghe-cao-100261020090652286.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Tiểu thương Paris, Bắc Kinh già hóa, Thủ tướng Hà Lan sắp làm cha, bão Austen và tiểu thư hoàng gia làm phụ bếp.",
+      "items": [
+        {
+          "headline": "Paris sau bạo loạn: quyên góp hàng trăm nghìn euro cứu tiểu thương — và cả các quỹ lừa đảo; Vinted gỡ tin rao hàng cướp",
+          "meta": "19–20/10 · VnExpress, BBC",
+          "body": [
+            "Chủ tiệm điện thoại Hassan Robiul (đại lộ Magenta) mất hơn 200.000 euro hàng; chiến dịch gây quỹ cho ông vượt 85.000 euro sau hai ngày. Phòng Thương mại Pháp ước hơn 2.000 doanh nghiệp bị ảnh hưởng trực tiếp. Ở Nice, hai quỹ mạo danh giúp một quản lý cửa hàng đã thu 8.000 euro. Nền tảng đồ cũ Vinted cho biết đã gỡ các tin rao hàng nghi bị cướp."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nguoi-phap-quyen-gop-cuu-tro-cac-tieu-thuong-sau-bao-loan-5134474.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro"
+            }
+          ]
+        },
+        {
+          "headline": "Bắc Kinh dự kiến thành “xã hội siêu già” năm 2035: cứ ba người có một người từ 60 tuổi",
+          "meta": "20/10 · VnExpress (dẫn Beijing Daily)",
+          "body": [
+            "Cuối 2025, Bắc Kinh có 5,288 triệu cư dân từ 60 tuổi (24,3% dân số); cả nước có 323,38 triệu người cao tuổi (23%). Thành phố có 620 cơ sở dưỡng lão, 168 trung tâm chăm sóc khu vực, hơn 1.500 trạm dịch vụ dân cư với 155.000 giường."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/du-doan-cu-3-nguoi-bac-kinh-se-co-1-nguoi-gia-vao-nam-2035-5134438.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thủ tướng Hà Lan Rob Jetten và bạn đời sắp có con đầu lòng nhờ mang thai hộ, phi thương mại",
+          "meta": "19–20/10 · VnExpress",
+          "body": [
+            "Ông Jetten, 39 tuổi, thủ tướng trẻ nhất lịch sử Hà Lan, cùng tuyển thủ khúc côn cầu Argentina Nicolas Keenan đón con năm 2027. Đảng D66 cho biết người mang thai hộ và người hiến trứng đều là bạn của ông; tại Hà Lan trả tiền cho mang thai hộ là bất hợp pháp."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thu-tuong-ha-lan-sap-don-con-dau-long-nho-mang-thai-ho-5134463.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bão Austen — cơn bão được đặt tên đầu tiên của mùa thu — sắp quét Anh với gió giật mạnh",
+          "meta": "20/10 · BBC Weather",
+          "body": [
+            "Met Office ban hành cảnh báo vàng về gió từ 0h đến 12h trưa thứ Sáu 23/10 (giờ Anh) cho nam xứ Wales, tây nam nước Anh; có thể hư hại nhà cửa, gián đoạn giao thông và mất điện. Một vùng áp thấp khác mang thêm mưa gió vào thứ Bảy."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC Weather",
+              "url": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo"
+            }
+          ]
+        },
+        {
+          "headline": "Tiểu thư Louise Windsor, cháu cố Nữ hoàng Elizabeth II, từ chối tước Công chúa và đi làm phụ bếp ở Balmoral",
+          "meta": "20/10 · VnExpress",
+          "body": [
+            "Cô gái 23 tuổi, con Hoàng tử Edward và Nữ công tước Sophie, từng làm thu ngân ở trung tâm cây cảnh với lương tối thiểu 6,8 bảng/giờ; cha mẹ để cô tự quyết tước hiệu khi tròn 18 tuổi."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tieu-thu-hoang-gia-anh-bo-tuoc-hieu-lam-phu-bep-5134562.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vắn công nghệ & bóng đá",
+      "tags": [
+        "ai",
+        "football"
+      ],
+      "intro": "Hai tin ngắn.",
+      "items": [
+        {
+          "headline": "Mỹ cấm DeepSeek trong toàn bộ cơ quan dân sự liên bang",
+          "meta": "20/10 · VnExpress (dẫn Reuters)",
+          "body": [
+            "Bộ An ninh Nội địa yêu cầu gỡ bỏ, không mua sản phẩm DeepSeek và dịch vụ bên thứ ba dùng AI này, viện lo ngại dữ liệu nhạy cảm bị chuyển về Trung Quốc."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/my-cam-dung-deepseek-trong-he-thong-co-quan-chinh-phu-5134558.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ronaldo viện dẫn 5 Quả Bóng Vàng để xin giảm án — và chỉ bị treo giò 30 ngày thay vì tới 6 tháng",
+          "meta": "20/10 · VnExpress (dẫn A Bola)",
+          "body": [
+            "Hội đồng Kỷ luật FPF xác định tiền đạo 41 tuổi cố ý vi phạm khi tự ý rời đội tuyển ở Copenhagen ngày 30/9 (khung 1–6 tháng, phạt 510–1.020 euro) nhưng chấp nhận tình tiết giảm nhẹ, phạt 255 euro."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ronaldo-vien-dan-5-qua-bong-vang-de-duoc-giam-an-5134648.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Hồng hạc Peachy, đề thi bằng lái Hy Lạp, cung thủ không tay, hai cụ trăm tuổi, giếng phun 15 m — cùng tàu MMX, Cái chết Đen và Nhà hát Opera Sydney.",
+      "items": [
+        {
+          "headline": "Du khách Canada say xỉn “bắt cóc” chú hồng hạc Peachy về phòng khách sạn ở Las Vegas, bị kết tội ngược đãi động vật",
+          "meta": "20/10 · BBC",
+          "body": [
+            "Camera ghi cảnh Mitchell Fairbarn cười, xách cổ con hồng hạc Chile trong thang máy; anh khai đã uống 30–40 lon bia. Chuyên gia cho biết chim bị nhổ lông, mất máu. Luật sư: “Mitch say. Mitch ngốc.” Bị cáo đối mặt gần 5 năm tù."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo"
+            }
+          ]
+        },
+        {
+          "headline": "Đề thi lý thuyết bằng lái khó nhất thế giới ở Hy Lạp: đúng 29/30 câu; Việt Nam thuộc nhóm thứ 4 với khoảng 91%",
+          "meta": "20/10 · VnExpress (dẫn AutoviaTest)",
+          "body": [
+            "Bảng xếp hạng 65 nước theo tỷ lệ đúng tối thiểu: Hy Lạp 97% (ngân hàng 825 câu, 35 phút), Nhật Bản 95%, Ba Lan 92%, rồi New Zealand, Việt Nam, Australia cùng khoảng 91%. VnExpress lưu ý bảng này chưa phản ánh hết độ khó đào tạo, sát hạch."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bo-de-thi-bang-lai-xe-kho-nhat-the-gioi-5134579.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cung thủ không tay Sheetal Devi bắn bằng chân, vai và hàm, đạt 149/150 điểm — phá kỷ lục thế giới",
+          "meta": "20/10 · VnExpress Thể thao",
+          "body": [
+            "Tại Asian Para Games 2026 (Aichi-Nagoya), cô gái Ấn Độ 19 tuổi chỉ một lần trúng vòng 9 trong 15 mũi tên, vượt kỷ lục 148 điểm của Jessica Stretton (2019), rồi vào chung kết cung compound nữ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cung-thu-khong-tay-pha-ky-luc-the-gioi-bang-ky-thuat-dac-biet-5134679.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hai anh em 104 và 101 tuổi ở Dương Châu vẫn hút thuốc, ăn móng giò mỗi ngày",
+          "meta": "20/10 · VnExpress",
+          "body": [
+            "Từng làm thợ xây từ năm 12 tuổi, hai cụ gói bí quyết trong 9 chữ: “Cuộc sống tốt, con cái tốt, tâm thái tốt”. Câu chuyện là một trường hợp cá biệt, không phải lời khuyên sức khỏe."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bi-quyet-truong-tho-cua-cap-anh-em-hon-100-tuoi-5134288.html"
+            }
+          ]
+        },
+        {
+          "headline": "Giếng khoan hơn 10 năm tuổi ở Vĩnh Long bất ngờ phun cột nước cao 15 m",
+          "meta": "20/10 · Tuổi Trẻ",
+          "body": [
+            "Giếng của bà Dương Thị Hường; cơ quan chức năng đang tìm nguyên nhân."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/gieng-khoan-hon-10-nam-tuoi-bat-ngo-phun-cot-nuoc-cao-15m-100261020124419238.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Fact khoa học: Nhật Bản phóng tàu MMX đi lấy mẫu mặt trăng Phobos của Sao Hỏa, mang về Trái Đất năm 2031",
+          "meta": "20/10 · VnExpress (dẫn Space.com, JAXA)",
+          "body": [
+            "Tên lửa H3 rời Tanegashima lúc 4h41 ngày 20/10 giờ Nhật (2h41 giờ Hà Nội). Nếu thành công, MMX sẽ là tàu đầu tiên hạ cánh và lấy mẫu từ Phobos, giúp giải bí ẩn nguồn gốc hai mặt trăng Phobos và Deimos. Hành trình tới Sao Hỏa mất khoảng 10 tháng."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nhat-ban-phong-tau-lay-mau-vat-mat-trang-sao-hoa-5134573.html"
+            }
+          ]
+        },
+        {
+          "headline": "Fact khoa học: “Cái chết Đen” thế kỷ 14 làm đa dạng sinh học ở châu Âu giảm khoảng 40%",
+          "meta": "20/10 · Tuổi Trẻ",
+          "body": [
+            "Nghịch lý theo nghiên cứu mới: đại dịch khiến nhiều vùng canh tác bị bỏ hoang, nhưng đa dạng sinh học ở chính những nơi đó lại giảm."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/cai-chet-den-khien-da-dang-sinh-hoc-chau-au-giam-40-100261020112211374.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay 20/10/1973: Nữ hoàng Elizabeth II khánh thành Nhà hát Opera Sydney",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Công trình do kiến trúc sư Đan Mạch Jørn Utzon thiết kế — một sợi dây thú vị với chuyến thăm Đan Mạch đang diễn ra — được UNESCO công nhận Di sản Thế giới năm 2007."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Sydney Opera House",
+              "url": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 20/10/2026 (giờ VN). Không lặp tin số sáng (Huân chương Voi, Kiev bị tập kích, giới nghiêm ở Pháp, Iran, Ngày Phụ nữ Việt Nam, 18 loài cây cấm trồng…), trừ cập nhật mới trong ngày. Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
