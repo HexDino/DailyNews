@@ -1,0 +1,1123 @@
+{
+  "date": "2026-10-22",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ năm, ngày 22 tháng 10 năm 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 22/10/2026 · Thứ năm · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Nga phóng hơn 20 tên lửa, 200 UAV vào Kiev ngay sau khi đồng ý nối lại đàm phán",
+    "Hà Nội lấy ý kiến nhận thêm hơn 4.000 ha từ Phú Thọ, gồm vườn quốc gia Ba Vì",
+    "Houthi tấn công sân bay Dammam; NBC nói Mỹ âm thầm rút quân khỏi Trung Đông",
+    "Meta bị phạt 25 tỷ USD vì “dối trá” về quyền riêng tư",
+    "Fact: 22/10/1797 — cú nhảy dù đầu tiên được ghi nhận, trên bầu trời Paris"
+  ],
+  "followups": [
+    {
+      "title": "Ông Trump miễn trừng phạt Nga, quan hệ Mỹ – Ukraine căng thẳng",
+      "update": "Nga phóng hơn 20 tên lửa và hơn 200 UAV vào Kiev ngay sau khi đồng ý về nguyên tắc nối lại đàm phán ba bên; The Atlantic nói ông Trump có thể ép ký thỏa thuận tại G20.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/nga-phong-hon-20-ten-lua-gay-loat-vu-no-sang-ruc-bau-troi-kiev-5135597.html"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/ong-trump-muon-nga-va-ukraine-ky-thoa-thuan-hoa-binh-tai-thuong-dinh-g20-100261022092958988.htm"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "NBC: Mỹ âm thầm rút bớt quân khỏi các căn cứ Trung Đông; tiêm kích Israel bị nghi diễn tập sát biên giới Iran.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/my-am-tham-rut-luc-luong-khoi-loat-can-cu-trung-dong-5135544.html"
+        }
+      ]
+    },
+    {
+      "title": "Xung đột Houthi – Arab Saudi",
+      "update": "Tấn công sân bay King Fahd ở Dammam: 2 chết, 8 bị thương; Mỹ rút nhân viên không thiết yếu khỏi sứ quán.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-19",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/my-rut-bot-nhan-vien-tai-dai-su-quan-o-arab-saudi-5135371.html"
+        }
+      ]
+    },
+    {
+      "title": "Bạo loạn sau biểu tình vì giá cả ở Pháp",
+      "update": "Thái Lan, Malaysia ra khuyến cáo đi lại; “Ngày Việt Nam tại Pháp” bị hoãn tới thời điểm phù hợp.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-18",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/thai-lan-malaysia-keu-goi-cong-dan-khong-den-diem-nong-bieu-tinh-o-chau-au-5135575.html"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/ngay-viet-nam-tai-phap-se-duoc-to-chuc-vao-thoi-diem-phu-hop-100261022002131517.htm"
+        }
+      ]
+    },
+    {
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Đan Mạch, EU và Bỉ",
+      "update": "Gặp đại diện 1,5 triệu kiều bào châu Âu; bà Kaja Kallas hội kiến Đại tướng Phan Văn Giang.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-19",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-dai-dien-15-trieu-kieu-bao-chau-au-100261022120352095.htm"
+        }
+      ]
+    },
+    {
+      "title": "Siêu bão Champi",
+      "update": "Giảm cấp, dự kiến đổi hướng về Nhật Bản, không vào Biển Đông; sóng tới 6 m ở vùng biển đông bắc.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-19",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/sieu-bao-champi-giam-cap-nhung-van-gay-gio-manh-tren-bien-dong-5135594.html"
+        }
+      ]
+    },
+    {
+      "title": "Kỳ họp thứ hai Quốc hội khóa XVI",
+      "update": "Thảo luận sửa Luật Đất đai: Chủ tịch Quốc hội yêu cầu tránh bảng giá đất tăng đột biến; nhiều đại biểu muốn giữ công chứng bắt buộc.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chu-tich-quoc-hoi-tranh-de-bang-gia-dat-tang-dot-bien-5135614.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-22",
+      "time": "19:15",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 5 mở màn: Công an Hà Nội – Thanh Hóa",
+      "topic": "Bóng đá",
+      "note": "Vòng 5 kéo dài đến 25/10 (HAGL – SLNA 23/10, Đà Nẵng – Hà Nội 25/10).",
+      "sources": [
+        {
+          "name": "VietNamNet",
+          "url": "https://vietnamnet.vn/lich-thi-dau-vong-5-v-league-mua-giai-2026-27-moi-nhat-2565621.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "time": "dự kiến 21–22/10",
+      "timezone": "giờ Brussels",
+      "title": "Tô Lâm thăm chính thức EU: gặp António Costa và Ursula von der Leyen",
+      "topic": "Chính trị",
+      "note": "Sau khi rời Đan Mạch 21/10; giờ cụ thể từng cuộc gặp chưa công bố chính thức. Tiếp đó thăm chính thức Bỉ, hội đàm Thủ tướng Bart De Wever; chuyến công du kéo dài đến 24/10.",
+      "sources": [
+        {
+          "name": "Vietnam News",
+          "url": "https://vietnamnews.vn/politics-laws/1802101/top-leader-to-lam-to-visit-denmark-eu-belgium-next-week.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Siêu bão Champi đổi hướng về Nhật Bản; sóng cao tới 6 m ở đông bắc Biển Đông",
+      "topic": "Đời sống",
+      "note": "Bão giảm cấp, không vào Biển Đông nhưng hoàn lưu gây gió mạnh.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/sieu-bao-champi-giam-cap-nhung-van-gay-gio-manh-tren-bien-dong-5135594.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "time": "0h–12h (giờ Anh)",
+      "timezone": "giờ Anh (BST)",
+      "title": "Bão Austen đổ bộ nước Anh, cảnh báo vàng về gió",
+      "topic": "Đời sống",
+      "note": "Nam xứ Wales, tây nam nước Anh; có thể mất điện, gián đoạn giao thông. Tương ứng 6h–18h ngày 23/10 giờ VN.",
+      "sources": [
+        {
+          "name": "BBC Weather",
+          "url": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "time": "trong ngày",
+      "timezone": "giờ Brussels",
+      "title": "Nhà vua, Hoàng hậu Bỉ đón Tô Lâm và Phu nhân tại lâu đài Laeken",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Hoàng gia Bỉ",
+          "url": "https://www.monarchie.be/fr/agenda/leurs-majestes-le-roi-et-la-reine-recoivent-le-president-de-la-republique-socialiste-du"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "18:30",
+      "timezone": "giờ VN",
+      "title": "Aston Villa – Man City, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "Man City đang thắng cả 7 trận, dẫn đầu bảng.",
+      "sources": [
+        {
+          "name": "Football Web Pages",
+          "url": "https://www.footballwebpages.co.uk/premier-league/fixtures-results/october"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "21:00",
+      "timezone": "giờ VN",
+      "title": "Arsenal – Everton, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "15:00 giờ Anh (BST).",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.com/sport/football/scores-fixtures/2026-10-24"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "23:30",
+      "timezone": "giờ VN",
+      "title": "Derby London Chelsea – Tottenham, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "17:30 giờ Anh (BST).",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.com/sport/football/scores-fixtures/2026-10-24"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "24–30/10",
+      "timezone": "giờ Paris",
+      "title": "Tuần lễ Sân khấu Việt Nam tại Pháp – 50 năm quan hệ Việt Nam – UNESCO",
+      "topic": "Văn hoá",
+      "note": "Có lễ kỷ niệm, triển lãm 300 năm ngày sinh Lê Quý Đôn tại trụ sở UNESCO; bà Ngô Phương Ly dự kiến tham dự.",
+      "sources": [
+        {
+          "name": "Vietnam News",
+          "url": "https://vietnamnews.vn/politics-laws/1802101/top-leader-to-lam-to-visit-denmark-eu-belgium-next-week.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "trong ngày",
+      "timezone": "giờ Paris",
+      "title": "Pháp: “Acte II” biểu tình toàn quốc của Áo vàng",
+      "topic": "Chính trị",
+      "note": "Sau cuối tuần bạo loạn; chính phủ hứa triển khai an ninh “rất lớn”, các thành phố lớn đang giới nghiêm cục bộ. Một đợt huy động khác được nhắc tới cho ngày 5/11.",
+      "sources": [
+        {
+          "name": "franceinfo",
+          "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/mobilisation-du-17-octobre-une-coordination-de-gilets-jaunes-annonce-un-acte-ii-des-manifestations-pour-samedi-24-octobre_8243932.html"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/fr/france/20261019-acte-ii-le-24-octobre-mobilisation-le-5-novembre-%C3%A0-quoi-s-attendre-pour-la-suite-du-mouvement"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "21:00",
+      "timezone": "giờ Tây Ban Nha",
+      "title": "El Clásico Barcelona – Real Madrid, vòng 10 La Liga",
+      "topic": "Bóng đá",
+      "note": "Spotify Camp Nou. Châu Âu đã đổi về giờ mùa đông, tương đương khoảng 03:00 ngày 26/10 giờ VN.",
+      "sources": [
+        {
+          "name": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/matches/138374/fc-barcelona-real-madrid-la-liga-2026-2027"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "21:00",
+      "timezone": "giờ VN",
+      "title": "Man Utd – Bournemouth và Liverpool – Brighton, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "14:00 giờ Anh; nước Anh lùi đồng hồ về GMT rạng sáng 25/10.",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.com/sport/football/scores-fixtures/2026-10-25"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "hết ngày",
+      "timezone": "giờ VN",
+      "title": "Hết thời gian theo dõi 177 người tiếp xúc gần ca não mô cầu ở TP HCM",
+      "topic": "Đời sống",
+      "note": "Trạm Y tế xã Hiệp Phước theo dõi sức khỏe hằng ngày.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hon-2-000-hoc-sinh-giao-vien-truong-co-4-ca-nao-mo-cau-duoc-uong-khang-sinh-du-phong-5134183.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "time": "trong ngày",
+      "timezone": "giờ Israel",
+      "title": "Tổng tuyển cử Israel",
+      "topic": "Chính trị",
+      "note": "Thăm dò bế tắc: trung bình các hãng chính cho phe ông Gadi Eisenkot 52 ghế, phe ông Netanyahu 51, chưa bên nào gần mức đa số 61; ông Trump vừa công khai ủng hộ ông Netanyahu.",
+      "sources": [
+        {
+          "name": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/10/20/opinion-polls-suggest-stalemate-one-week-before-israeli-election/"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "time": "10:00",
+      "timezone": "giờ Alberta",
+      "title": "Công bố kết quả chính thức trưng cầu ý dân Alberta (10 câu hỏi, gồm câu về ly khai)",
+      "topic": "Chính trị",
+      "note": "Kết quả không chính thức được đếm trong 48 giờ sau khi đóng phiếu 19/10.",
+      "sources": [
+        {
+          "name": "Elections Alberta",
+          "url": "https://www.elections.ab.ca/current-election-information/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Bầu cử giữa kỳ Mỹ",
+      "topic": "Chính trị",
+      "note": "Quyết định quyền kiểm soát Quốc hội trong hai năm cuối nhiệm kỳ ông Trump.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bau-cu-giua-ky-co-y-nghia-gi-doi-voi-ong-trump-va-quoc-hoi-my-100261022155231309.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "time": "trong ngày",
+      "timezone": "giờ Kenya",
+      "title": "Tuyên án mục sư Paul Mackenzie và 28 bị cáo vụ Shakahola",
+      "topic": "Chính trị",
+      "note": "Đã bị kết tội giết 191 người; báo cáo quản chế nộp tòa ngày 30/10.",
+      "sources": [
+        {
+          "name": "Capital FM",
+          "url": "https://capitalfm.africa/court-convicts-all-29-shakahola-accused-of-murder-sets-sentencing-for-november-6/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "time": "18–19/11",
+      "timezone": "giờ Thâm Quyến",
+      "title": "Hội nghị các nhà lãnh đạo kinh tế APEC 2026 tại Thâm Quyến (Trung Quốc)",
+      "topic": "Chính trị",
+      "note": "Ông Trump nói sẵn sàng gặp ba bên với Tập Cận Bình và Putin bên lề; Điện Kremlin nói chưa bàn cụ thể, Trung Quốc nói không có thông tin.",
+      "sources": [
+        {
+          "name": "Chính phủ Trung Quốc",
+          "url": "https://english.www.gov.cn/news/202512/12/content_WS693c1432c6d00ca5f9a080e6.html"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/donald-trump-xi-jinping-vladimir-putin-meeting-apec-summit-6473396"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Luật Đất đai sửa đổi ở nghị trường, Tổng Bí thư gặp kiều bào châu Âu, EU và triển lãm quốc phòng.",
+      "items": [
+        {
+          "headline": "Chủ tịch Quốc hội: giá đất phải sát thị trường nhưng tránh để bảng giá tăng đột biến; không thể mặc nhiên coi người chưa có sổ đỏ là lấn chiếm",
+          "meta": "22/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Thảo luận dự án sửa Luật Đất đai, Chủ tịch Quốc hội Trần Thanh Mẫn đề nghị xác định giá đất sát thị trường nhưng phải có cơ chế ổn định, tránh bảng giá tăng đột biến gây thêm gánh nặng cho người dân, doanh nghiệp.",
+            "Theo Tuổi Trẻ, ông cũng nhấn mạnh phải bảo đảm mức giá thỏa thuận hợp lý và bảo vệ quyền lợi của những người còn lại khi Nhà nước thu hồi phần diện tích chưa đạt được thỏa thuận, và không thể mặc nhiên coi người chưa có sổ đỏ là lấn chiếm đất."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chu-tich-quoc-hoi-tranh-de-bang-gia-dat-tang-dot-bien-5135614.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/chu-tich-quoc-hoi-khong-the-mac-nhien-coi-nguoi-chua-co-so-do-la-lan-chiem-dat-100261022124418676.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Nhiều đại biểu muốn giữ công chứng bắt buộc khi giao dịch nhà đất, lo bỏ quy định sẽ tăng tranh chấp",
+          "meta": "22/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Dự thảo giao Chính phủ quy định giao dịch đất đai nào phải công chứng, chứng thực. Nhiều đại biểu lo cách làm này giảm an toàn pháp lý, gia tăng tranh chấp nếu thiếu cơ chế, và đề nghị giữ công chứng, chứng thực bắt buộc với các giao dịch nhà đất cần thiết để thống nhất hệ thống pháp luật."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dai-bieu-bo-quy-dinh-cong-chung-trong-luat-dat-dai-co-the-tang-tranh-chap-5135472.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/dai-bieu-quoc-hoi-de-nghi-giu-cong-chung-bat-buoc-khi-giao-dich-nha-dat-100261022150433412.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Trình Quốc hội: người bị thu hồi đất ở được hoán đổi sang phần đất còn lại hoặc thửa khác của mình trong cùng xã",
+          "meta": "22/10 · VnExpress",
+          "body": [
+            "Chính phủ đề xuất cơ chế hoán đổi đất ở khi thu hồi, đồng thời bổ sung chính sách hỗ trợ ổn định cuộc sống, bảo đảm sinh kế cho người có đất bị thu hồi."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/trinh-quoc-hoi-giai-phap-hoan-doi-dat-o-bao-dam-sinh-ke-khi-thu-hoi-dat-5135433.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp đại diện 1,5 triệu kiều bào châu Âu",
+          "meta": "22/10 · Tuổi Trẻ, VnExpress",
+          "body": [
+            "Ông Tô Lâm nêu rõ châu Âu, với khoảng 1,5 triệu người Việt, hiện là nơi duy nhất trên thế giới có tổ chức hội đoàn người Việt ở cấp độ khu vực, và đề nghị cộng đồng tiếp tục phát huy vai trò hạt nhân đoàn kết, cầu nối hữu nghị."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-dai-dien-15-trieu-kieu-bao-chau-au-100261022120352095.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-cong-dong-nguoi-viet-tai-chau-au-can-phat-huy-vai-tro-cau-noi-huu-nghi-5135401.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bà Kaja Kallas: nhiều tập đoàn quốc phòng EU đăng ký trưng bày tại Triển lãm Quốc phòng quốc tế Việt Nam",
+          "meta": "22/10 · Tuổi Trẻ",
+          "body": [
+            "Đại diện cấp cao về chính sách đối ngoại và an ninh, Phó chủ tịch Ủy ban châu Âu Kaja Kallas đưa ra thông tin tại cuộc hội kiến Đại tướng Phan Văn Giang, Bộ trưởng Quốc phòng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nhieu-tap-doan-quoc-phong-cac-nuoc-eu-dang-ky-trung-bay-tai-trien-lam-quoc-phong-quoc-te-viet-nam-100261022113945342.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Tàu HMS Spey do nữ trung tá Helen Taylor chỉ huy cập cảng Nhà Rồng",
+          "meta": "22/10 · Tuổi Trẻ",
+          "body": [
+            "Tàu Hải quân Hoàng gia Anh cập cảng TP.HCM sáng 22/10, bắt đầu chuyến thăm thúc đẩy hợp tác, giao lưu với Hải quân Việt Nam."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nu-si-quan-hai-quan-hoang-gia-anh-chi-huy-tau-hms-spey-cap-cang-nha-rong-100261022153310548.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Quảng Trị bố trí xong 100% chủ tịch xã không phải người địa phương",
+          "meta": "22/10 · Tuổi Trẻ",
+          "body": [
+            "Tỉnh đã sắp xếp chủ tịch của toàn bộ 78 xã, phường, đặc khu không phải là người địa phương."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/quang-tri-hoan-thanh-som-sap-xep-100-chu-tich-cap-xa-khong-la-nguoi-dia-phuong-100261022144946744.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Kiev bị tập kích, Trung Đông căng thẳng, Meta bị phạt kỷ lục và bầu cử Mỹ – Israel cận kề.",
+      "items": [
+        {
+          "headline": "Nga phóng hơn 20 tên lửa và hơn 200 UAV vào Kiev, ngay sau khi đồng ý về nguyên tắc nối lại đàm phán",
+          "meta": "21–22/10 · VnExpress, BBC, Tuổi Trẻ",
+          "body": [
+            "Đợt tập kích bằng tên lửa đạn đạo và UAV gây hàng loạt vụ nổ sáng rực bầu trời Kiev. BBC lưu ý đòn đánh diễn ra sau khi Moskva nói “sẵn sàng về nguyên tắc” nối lại đàm phán và ông Trump nói thế giới “gần nhất từ trước tới nay” với việc chấm dứt chiến tranh. Cùng đêm, Nga thông báo phát hiện hàng trăm drone hướng về Moskva.",
+            "Tình báo Ukraine nhận định Nga dành sẵn hàng nghìn tên lửa, trong đó hơn 100 tên lửa Iskander-M. Theo The Atlantic (Tuổi Trẻ dẫn), ông Trump có thể gia tăng sức ép để Nga – Ukraine ký thỏa thuận tại thượng đỉnh G20."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nga-phong-hon-20-ten-lua-gay-loat-vu-no-sang-ruc-bau-troi-kiev-5135597.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/mua-ten-lua-doi-xuong-thu-do-kiev-hang-loat-drone-cung-luc-ap-sat-matxcova-100261022103242636.htm"
+            },
+            {
+              "name": "VnExpress – tình báo Ukraine",
+              "url": "https://vnexpress.net/nga-chuan-bi-hang-nghin-ten-lua-de-tap-kich-ukraine-5135446.html"
+            }
+          ]
+        },
+        {
+          "headline": "NBC: Mỹ âm thầm rút bớt quân khỏi loạt căn cứ Trung Đông; tiêm kích Israel bị nghi áp sát Iran",
+          "meta": "22/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Mỹ giảm số quân nhân ở Trung Đông và yêu cầu nhân viên ngoại giao rời một số phái bộ, trong lúc ông Trump cân nhắc nối lại giao tranh với Iran. Hàng chục tiêm kích Israel được cho là diễn tập ban đêm gần biên giới Iran, khiến phòng không Iran khai hỏa. Ông Netanyahu nói chỉ có “một cách duy nhất” để loại bỏ mối đe dọa từ Iran."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/my-am-tham-rut-luc-luong-khoi-loat-can-cu-trung-dong-5135544.html"
+            },
+            {
+              "name": "VnExpress – Israel",
+              "url": "https://vnexpress.net/tiem-kich-israel-bi-nghi-ap-sat-iran-khieu-khich-phong-khong-khai-hoa-5135441.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ong-netanyahu-chi-co-mot-cach-duy-nhat-de-loai-bo-moi-de-doa-tu-iran-100261022115437258.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Houthi tấn công sân bay Dammam của Arab Saudi: 2 người chết, 8 bị thương; Mỹ rút bớt nhân viên sứ quán",
+          "meta": "22/10 · BBC, VnExpress",
+          "body": [
+            "Cơ quan Hàng không dân dụng Arab Saudi (GACA) cho biết vụ tấn công tối thứ Tư vào sân bay quốc tế King Fahd làm chết một công dân Saudi và một cư dân Ấn Độ. Mỹ yêu cầu nhân viên không thiết yếu tại sứ quán và thân nhân rời Arab Saudi khi Riyadh gia tăng xung đột với Houthi."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/my-rut-bot-nhan-vien-tai-dai-su-quan-o-arab-saudi-5135371.html"
+            }
+          ]
+        },
+        {
+          "headline": "Meta bị phạt 25 tỷ USD vì “dối trá” về quyền riêng tư dữ liệu người dùng",
+          "meta": "21–22/10 · BBC, Tuổi Trẻ",
+          "body": [
+            "Theo BBC, đây là khoản phạt lớn nhất từ trước tới nay với chủ sở hữu Facebook, lớn hơn thỏa thuận 18 tỷ USD với California. Thẩm phán ra phán quyết ngày 21/10 vì công ty gây hiểu lầm cho người dùng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/meta-bi-phat-25-ti-usd-vi-lua-doi-nguoi-dung-facebook-100261022132459196.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Đại sứ quán Mỹ cáo buộc Canada can thiệp bầu cử giữa kỳ; ông Trump chi hơn 277 triệu USD cứu phe Cộng hòa",
+          "meta": "22/10 · BBC, Tuổi Trẻ",
+          "body": [
+            "Thủ tướng Mark Carney bác bỏ cáo buộc, nhắc rằng chính Mỹ khơi mào các biện pháp thương mại nhằm vào Canada. Theo Tuổi Trẻ, ông Trump đẩy mạnh chi quảng cáo ở các cuộc đua then chốt trước bầu cử giữa kỳ ngày 3/11."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ong-trump-chi-hon-277-trieu-usd-cuu-nguy-dang-cong-hoa-truoc-bau-cu-100261022143311721.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bầu cử Israel 27/10: các đảng Ả Rập có thể nắm cán cân quyền lực",
+          "meta": "22/10 · BBC",
+          "body": [
+            "Sự bất mãn thường kéo tỷ lệ đi bầu của người Israel gốc Ả Rập xuống thấp, nhưng lần này có nỗ lực mạnh mẽ vận động đi bầu nhằm thay liên minh cầm quyền cánh hữu. BBC gọi đây là một trong những cuộc bầu cử then chốt nhất lịch sử Israel."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC – đảng Ả Rập",
+              "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o"
+            },
+            {
+              "name": "BBC – giải thích",
+              "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo"
+            }
+          ]
+        },
+        {
+          "headline": "El Salvador mở chiến dịch ở Haiti, tiến vào lãnh địa băng đảng để giải cứu 4 kỹ thuật viên hàng không",
+          "meta": "22/10 · VnExpress",
+          "body": [
+            "Tổng thống El Salvador tuyên bố mở chiến dịch nhằm giải cứu 4 kỹ thuật viên hàng không của nước này bị các băng đảng Haiti bắt cóc."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/el-salvador-mo-chien-dich-tai-haiti-tien-vao-lanh-dia-bang-dang-5135514.html"
+            }
+          ]
+        },
+        {
+          "headline": "Mexico truy tố cựu công tố viên tội phản quốc vì để đặc vụ Mỹ tham gia đột kích phòng chế ma túy",
+          "meta": "21/10 · BBC",
+          "body": [
+            "César Jáuregui Moreno bị cáo buộc cho phép đặc vụ Mỹ tham gia cuộc đột kích một phòng chế ma túy hồi tháng 4."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Hà Nội mở rộng, bão Champi, hạn mặn, giám định ADN liệt sĩ và cầu đi bộ sông Sài Gòn.",
+      "items": [
+        {
+          "headline": "Hà Nội lấy ý kiến dân về việc nhận thêm hơn 4.000 ha từ Phú Thọ, gồm hơn 2.500 ha vườn quốc gia Ba Vì",
+          "meta": "22/10 · VnExpress",
+          "body": [
+            "Phương án dự kiến chuyển hơn 4.000 ha từ Phú Thọ về Hà Nội, gồm hơn 2.529 ha vườn quốc gia Ba Vì và 1.477 ha đất khác; thành phố đang tổ chức lấy ý kiến người dân."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ha-noi-du-kien-mo-rong-them-hon-4-000-ha-5135511.html"
+            }
+          ]
+        },
+        {
+          "headline": "Siêu bão Champi giảm cấp, đổi hướng về Nhật Bản, không vào Biển Đông nhưng vẫn gây sóng cao 6 m",
+          "meta": "22/10 · VnExpress",
+          "body": [
+            "Hoàn lưu bão có thể gây gió mạnh, sóng cao tới 6 m ở vùng biển phía đông bắc Biển Đông; tàu thuyền hoạt động ở khu vực này cần đề phòng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/sieu-bao-champi-giam-cap-nhung-van-gay-gio-manh-tren-bien-dong-5135594.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đồng Tháp kích hoạt kịch bản ứng phó hạn mặn khốc liệt như mùa khô 2019–2020",
+          "meta": "22/10 · Tuổi Trẻ",
+          "body": [
+            "Theo nhận định của cơ quan chuyên môn, từ tháng 10 đến 12/2026, xác suất El Nino đạt cường độ rất mạnh lên tới 98% và có thể kéo dài sang đầu mùa hè 2027."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/dong-thap-kich-hoat-kich-ban-ung-pho-han-man-khoc-liet-nhu-mua-kho-2019-2020-100261022110906625.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Tàu AQUACHARM bị bắt giữ 30 ngày sau khi đâm hỏng cầu cảng Hòa Phát Dung Quất",
+          "meta": "22/10 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Tàu quốc tịch Marshall Islands bị bắt giữ theo quyết định của Tòa án nhân dân khu vực 2 – Quảng Ngãi để giải quyết tranh chấp; trong thời gian này tàu không được rời cảng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tau-nuoc-ngoai-bi-bat-giu-sau-khi-dam-hong-cau-cang-dung-quat-5135653.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tau-aquacharm-bi-bat-giu-theo-quyet-dinh-cua-toa-an-o-quang-ngai-100261022154731697.htm"
+            }
+          ]
+        },
+        {
+          "headline": "TP.HCM hoàn tất khai quật 9.842 mộ liệt sĩ chưa xác định danh tính để giám định ADN",
+          "meta": "22/10 · Tuổi Trẻ",
+          "body": [
+            "Thành phố đã lấy 7.083 mẫu hài cốt. Cùng ngày, Quảng Trị cho biết đã lấy mẫu sinh phẩm tại 130 nghĩa trang, hơn 22.000 mộ trong “Chiến dịch 500 ngày đêm”; Đà Nẵng đang tìm nhân chứng về khoảng 200 hài cốt trên đồi keo liên quan trận đánh năm 1968."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ – TP.HCM",
+              "url": "https://tuoitre.vn/tphcm-hoan-tat-khai-quat-hon-9800-mo-liet-si-de-lay-mau-giam-dinh-adn-100261022160505256.htm"
+            },
+            {
+              "name": "Tuổi Trẻ – Quảng Trị",
+              "url": "https://tuoitre.vn/quang-tri-so-ket-chien-dich-500-ngay-dem-da-lay-mau-hon-22000-mo-liet-si-100261022131104527.htm"
+            },
+            {
+              "name": "Tuổi Trẻ – Đà Nẵng",
+              "url": "https://tuoitre.vn/da-nang-tim-nhan-chung-vu-200-hai-cot-tren-doi-keo-lien-quan-tran-danh-nam-1968-100261022104546681.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Cầu đi bộ hình lá dừa qua sông Sài Gòn hợp long nhịp vòm 187 m, dự kiến vận hành dịp Tết",
+          "meta": "21–22/10 · Tuổi Trẻ, VnExpress",
+          "body": [
+            "Nhịp vòm thép dài 187 m, nặng khoảng 3.400 tấn hợp long chiều 21/10, nối bến Bạch Đằng với Thủ Thiêm; còn phải lắp lan can, kiểm tra kết cấu, thử tải trước khi hoàn thiện."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/sau-hop-long-khi-nao-cau-di-bo-qua-song-sai-gon-hoan-thien-100261022150218181.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dien-mao-cau-di-bo-bac-qua-song-sai-gon-sau-hop-long-5135414.html"
+            }
+          ]
+        },
+        {
+          "headline": "Chìm tàu cá gần giàn khoan Sư Tử Trắng, 4 ngư dân Mũi Né mất tích; lật phà tự chế, hai học sinh lớp 12 tử vong",
+          "meta": "21/10 · VnExpress",
+          "body": [
+            "Tàu cá bị chìm cách bờ khoảng 43 hải lý (80 km) chiều 21/10. Ở một vụ khác, tám học sinh lớp 12 lên chiếc phà ghép từ bốn thùng phuy nhựa để qua kênh Nông Dân; phà lật khiến hai em tử vong."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – chìm tàu",
+              "url": "https://vnexpress.net/chim-tau-4-ngu-dan-mat-tich-gan-gian-khoan-su-tu-trang-5135322.html"
+            },
+            {
+              "name": "VnExpress – lật phà",
+              "url": "https://vnexpress.net/lat-pha-tu-che-hai-hoc-sinh-lop-12-tu-vong-5135317.html"
+            }
+          ]
+        },
+        {
+          "headline": "Vượt 120–200 km đưa người quá cố đi hỏa táng",
+          "meta": "22/10 · VnExpress",
+          "body": [
+            "Muốn hỏa táng, nhiều gia đình phải đưa thi hài tới cơ sở ở Thanh Hóa hoặc Hà Tĩnh, đi hai chiều 120–200 km, tốn cả chi phí lẫn thời gian."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/vuot-hang-tram-km-dua-nguoi-qua-co-di-hoa-tang-5134778.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Starbucks Trung Quốc, luật mới của Airbnb, khuyến cáo du lịch châu Âu và những con tin được thả.",
+      "items": [
+        {
+          "headline": "Starbucks Trung Quốc: không gọi món thì không được ngồi, áp dụng ở cả 8.000 cửa hàng",
+          "meta": "22/10 · BBC",
+          "body": [
+            "Biển “mua để ngồi” xuất hiện khắp các cửa hàng từ thứ Năm. Hãng nói muốn cải thiện trải nghiệm tại quán trong cuộc cạnh tranh với các chuỗi cà phê nội địa."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo"
+            }
+          ]
+        },
+        {
+          "headline": "Airbnb cấm chủ nhà bắt khách lột ga giường, rửa bát",
+          "meta": "21/10 · BBC",
+          "body": [
+            "Quy định mới giới hạn những việc chủ nhà được yêu cầu khách làm, kể cả dọn dẹp; chủ nhà có thể đặt bảy nội quy tiêu chuẩn. Chính sách áp dụng cho các đặt phòng từ 20/11."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o"
+            }
+          ]
+        },
+        {
+          "headline": "Thái Lan, Malaysia khuyên công dân tránh các điểm nóng biểu tình ở châu Âu",
+          "meta": "22/10 · VnExpress",
+          "body": [
+            "Thái Lan khuyến cáo hoãn chuyến đi không thiết yếu tới các điểm nóng biểu tình, Malaysia cảnh báo người dân về việc đến Pháp."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thai-lan-malaysia-keu-goi-cong-dan-khong-den-diem-nong-bieu-tinh-o-chau-au-5135575.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hai phụ nữ châu Âu bị giam giữ hơn một năm ở Niger được thả tại Libya",
+          "meta": "22/10 · BBC",
+          "body": [
+            "Bà Eva Gretzmacher (Thụy Sĩ, 76 tuổi) và bà Claudia Abbt (Áo, 69 tuổi), đều là nhân viên cứu trợ, bị bắt cóc riêng rẽ ở thành phố Agadez, miền bắc Niger, và được bàn giao cho chính quyền ở Benghazi."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo"
+            }
+          ]
+        },
+        {
+          "headline": "Giáo hoàng không cần điều trị thêm sau phẫu thuật ung thư phổi",
+          "meta": "21/10 · BBC",
+          "body": [
+            "Kết quả xét nghiệm xác nhận chẩn đoán ung thư biểu mô tuyến phổi khu trú."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo"
+            }
+          ]
+        },
+        {
+          "headline": "Bệnh nhân Ebola đầu tiên của Nigeria từng đi nghỉ ở Uganda",
+          "meta": "21/10 · BBC",
+          "body": [
+            "Theo giới chức, đó là vợ một nhà ngoại giao làm việc ở Abuja, đã tới Kampala nghỉ dưỡng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vắn công nghệ",
+      "tags": [
+        "ai"
+      ],
+      "intro": "Một tin ngắn.",
+      "items": [
+        {
+          "headline": "AI phát hiện hai lỗ hổng nghiêm trọng trong PHP, nhiều website chính phủ phải ngừng hoạt động",
+          "meta": "22/10 · Tuổi Trẻ",
+          "body": [
+            "PHP là ngôn ngữ vận hành khoảng 70% website trên thế giới, theo Tuổi Trẻ."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/lo-hong-bao-mat-do-ai-phat-hien-khien-loat-website-chinh-phu-nhieu-nuoc-ngung-hoat-dong-100261022095015218.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Cá mập Bukangi, khoai tây chiên Bỉ, vali chocolate Lindt, bí thư livestream — cùng cú nhảy dù 1797, Khủng hoảng tên lửa Cuba và nhà hát Met.",
+      "items": [
+        {
+          "headline": "Cá mập “người nổi tiếng” Bukangi được dẫn ra khỏi kênh ở Busan… nhưng không chịu bơi ra biển",
+          "meta": "22/10 · BBC",
+          "body": [
+            "Con cá mập đen (dusky shark) gây sốt sau khi bị phát hiện bơi trong một con kênh ở Busan từ tháng trước. Lực lượng cứu hộ mất nhiều tuần mới dẫn được nó ra hôm thứ Tư, nhưng nó vẫn quanh quẩn gần cửa kênh."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo"
+            }
+          ]
+        },
+        {
+          "headline": "Đại chiến khoai tây chiên ở Bỉ: show truyền hình săn quán chiên mỡ bò ngon nhất",
+          "meta": "22/10 · VnExpress",
+          "body": [
+            "Từ độ giòn, nước xốt tới kỹ thuật chiên bằng mỡ bò, chương trình đang khiến người hâm mộ Bỉ tranh luận sôi nổi."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dai-chien-khoai-tay-chien-o-bi-5135420.html"
+            }
+          ]
+        },
+        {
+          "headline": "Vali chocolate Lindt: món quà họp cổ đông mà giới siêu giàu Thụy Sĩ ngầm khoe",
+          "meta": "22/10 · VnExpress",
+          "body": [
+            "Thay vì siêu xe, giới thượng lưu phô trương đẳng cấp bằng chiếc vali chocolate nhận được khi dự họp cổ đông của Lindt."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chiec-vali-chocolate-tiet-lo-dang-cap-gioi-sieu-giau-thuy-si-5135368.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bí thư phường livestream bán hàu, tôm, cua: 500 đơn trong 90 phút",
+          "meta": "22/10 · VnExpress",
+          "body": [
+            "Bí thư phường Bắc Gianh Đinh Thị Ngọc Lan cùng cán bộ Đoàn và các hộ kinh doanh livestream bán hải sản, mắm ruốc và nông sản giúp dân."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bi-thu-phuong-livestream-ban-tom-cua-hau-giup-dan-5135260.html"
+            }
+          ]
+        },
+        {
+          "headline": "Pháp lập “giải thưởng văn học đầu tiên” cho sách viết cùng AI",
+          "meta": "22/10 · Tuổi Trẻ",
+          "body": [
+            "Ba doanh nhân Pháp công bố giải thưởng ngày 21/10."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/phap-mo-giai-thuong-van-hoc-dau-tien-danh-cho-sach-viet-cung-ai-100261022153803918.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 22/10/1797 — André-Jacques Garnerin thực hiện cú nhảy dù đầu tiên được ghi nhận, từ độ cao khoảng 1.000 m trên Paris",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Ông nhảy từ khinh khí cầu, dùng chiếc dù không có khung cứng."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – André-Jacques Garnerin",
+              "url": "https://en.wikipedia.org/wiki/Andr%C3%A9-Jacques_Garnerin"
+            },
+            {
+              "name": "Wikipedia – 22 tháng 10",
+              "url": "https://en.wikipedia.org/wiki/October_22"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 22/10/1962 — Kennedy thông báo phát hiện vũ khí hạt nhân Liên Xô ở Cuba và lệnh “phong tỏa” hải quân",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Bài phát biểu trên truyền hình đưa Khủng hoảng tên lửa Cuba ra công chúng."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Khủng hoảng tên lửa Cuba",
+              "url": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"
+            },
+            {
+              "name": "Wikipedia – 22 tháng 10",
+              "url": "https://en.wikipedia.org/wiki/October_22"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 22/10/1883 — Nhà hát Metropolitan Opera ở New York khai trương với vở “Faust” của Gounod",
+          "meta": "Văn hóa · Wikipedia, Britannica",
+          "body": [
+            "Nhà hát đầu tiên của Met nằm trên phố 39 ở Manhattan."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Metropolitan_Opera_House_(39th_Street)"
+            },
+            {
+              "name": "Britannica",
+              "url": "https://www.britannica.com/topic/Metropolitan-Opera-Association"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 22/10/2026 (giờ VN). Không lặp tin số sáng (Putin đồng ý đàm phán, Macron và video AI, ngày nghỉ 24/11, bạn gái AI…), trừ cập nhật mới trong ngày. Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
