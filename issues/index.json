@@ -1,6 +1,6 @@
 {
   "masthead": "Daily News",
-  "latest": "2026-10-21",
+  "latest": "2026-10-22",
   "issues": [
     {
       "date": "2026-10-01",
@@ -199,6 +199,11 @@
       "date": "2026-10-21",
       "path": "2026-10-21/content.json",
       "article_count": 43
+    },
+    {
+      "date": "2026-10-22",
+      "path": "2026-10-22/content.json",
+      "article_count": 19
     }
   ]
 }
