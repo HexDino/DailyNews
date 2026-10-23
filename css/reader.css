@@ -9,7 +9,6 @@
   --chip-active-fg: #f4f0e6;
   --sheet-border: #d8d0c0;
   --mark-bg: #fff3a8;
-  --read-dim: 0.72;
   --calendar-teaser-bg: #ebe6d9;
   --calendar-teaser-hover: #e3dccf;
   --followup-ongoing-bg: #e8efe4;
@@ -45,7 +44,6 @@ html[data-theme="dark"] {
   --chip-active-fg: #1c1a17;
   --sheet-border: #35312c;
   --mark-bg: #4a4030;
-  --read-dim: 0.68;
   --calendar-teaser-bg: #2e2a24;
   --calendar-teaser-hover: #353028;
   --followup-ongoing-bg: #2a3328;
@@ -502,18 +500,6 @@ html[data-theme="dark"] .search-hit-headline {
   margin: 0;
 }
 
-.read-progress {
-  font-family: var(--sans);
-  font-size: 0.75rem;
-  color: var(--accent);
-  letter-spacing: 0.02em;
-}
-
-.read-clear-all {
-  margin-top: 0.65rem;
-  font-size: 0.75rem;
-}
-
 .toc-block ul {
   list-style: none;
   margin: 0;
@@ -613,37 +599,6 @@ html[data-theme="dark"] .article {
   border-bottom-color: #4a443c;
 }
 
-.article.is-read {
-  opacity: var(--read-dim);
-}
-
-.article-head {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 0.35rem 0.75rem;
-  margin-bottom: 0.15rem;
-}
-
-.article-head h3 {
-  flex: 1;
-  min-width: min(100%, 12rem);
-  margin: 0;
-}
-
-.read-toggle {
-  font-size: 0.7rem;
-  padding: 0.2rem 0.5rem;
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-
-.read-toggle.is-read {
-  border-color: var(--accent);
-  color: var(--accent);
-}
-
 .article:last-child {
   border-bottom: none;
 }
@@ -697,12 +652,6 @@ html[data-theme="dark"] .article {
 
 .article .sources-line {
   font-size: 0.82rem;
-}
-
-.article-end-marker {
-  height: 1px;
-  width: 100%;
-  pointer-events: none;
 }
 
 .footer-note {
@@ -993,11 +942,111 @@ html[data-theme="dark"] .search-panel-inner {
   padding: 0 0.1em;
 }
 
-.archive-read-progress {
+.archive-pagination {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem 0.75rem;
+  margin-top: 1.75rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
   font-family: var(--sans);
-  font-size: 0.72rem;
-  color: var(--accent);
+  font-size: 0.8125rem;
+}
+
+.archive-pagination[hidden] {
+  display: none !important;
+}
+
+.archive-page-nav {
+  text-decoration: none;
+  color: inherit;
+  padding: 0.35rem 0.65rem;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  background: var(--chip-bg);
   white-space: nowrap;
+}
+
+.archive-page-nav:hover:not(.is-disabled) {
+  background: var(--paper);
+}
+
+html:not([data-theme="dark"]) .archive-page-nav:hover:not(.is-disabled) {
+  background: #fff;
+}
+
+.archive-page-nav.is-disabled {
+  opacity: 0.45;
+  pointer-events: none;
+  cursor: default;
+}
+
+.archive-page-nums {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+}
+
+.archive-page-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2rem;
+  padding: 0.3rem 0.5rem;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  background: var(--chip-bg);
+}
+
+.archive-page-link:hover {
+  background: var(--paper);
+}
+
+html:not([data-theme="dark"]) .archive-page-link:hover {
+  background: #fff;
+}
+
+.archive-page-current {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2rem;
+  padding: 0.3rem 0.5rem;
+  font-weight: 700;
+  border: 1px solid var(--chip-active);
+  border-radius: 2px;
+  background: var(--chip-active);
+  color: var(--chip-active-fg);
+}
+
+.archive-page-ellipsis {
+  padding: 0 0.15rem;
+  color: var(--accent);
+  user-select: none;
+}
+
+@media (max-width: 640px) {
+  .archive-pagination {
+    gap: 0.45rem 0.5rem;
+    font-size: 0.78rem;
+  }
+
+  .archive-page-nav {
+    flex: 1 1 auto;
+    text-align: center;
+    min-width: min(42%, 8rem);
+  }
+
+  .archive-page-nums {
+    flex: 1 1 100%;
+    order: 3;
+  }
 }
 
 html[data-theme="dark"] .archive-list .badge {
@@ -1252,15 +1301,6 @@ html[data-theme="dark"] button.fav-on {
 
   .issue-pager {
     display: flex;
-  }
-
-  .article-head {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .read-toggle {
-    align-self: flex-start;
   }
 }
 

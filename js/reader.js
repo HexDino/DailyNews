@@ -3,18 +3,12 @@
 
   const MASTHEAD = "Daily News";
   const FAV_KEY = "dailynews-favorites";
-  const READ_KEY = "dailynews-read";
   const THEME_KEY = "dailynews-theme";
   const CALENDAR_OPEN_KEY = "dailynews-calendar-open";
+  const ARCHIVE_PAGE_SIZE = 20;
   /** @type {{ version: string, entries: object[] } | null} */
   let searchIndexCache = null;
   const SEARCH_INDEX_KEY = "dailynews-search-index-version";
-  /** @type {Set<string>} */
-  const sessionManualUnread = new Set();
-  /** @type {IntersectionObserver|null} */
-  let autoReadObserver = null;
-  /** @type {Map<string, { timer: number, endVisible: boolean }>} */
-  const autoReadState = new Map();
   const THU = [
     "Chủ Nhật",
     "Thứ Hai",
@@ -287,52 +281,6 @@
       return sec.subtitle ? `${sec.topic} · ${sec.subtitle}` : sec.topic;
     }
     return sec.title || "";
-  }
-
-  function getReadMap() {
-    try {
-      return JSON.parse(localStorage.getItem(READ_KEY) || "{}");
-    } catch {
-      return {};
-    }
-  }
-
-  function readStorageKey(issueId, articleId) {
-    return `${issueId}|${articleId}`;
-  }
-
-  function isArticleRead(issueId, articleId) {
-    return !!getReadMap()[readStorageKey(issueId, articleId)];
-  }
-
-  function setArticleRead(issueId, articleId, read) {
-    const map = getReadMap();
-    const k = readStorageKey(issueId, articleId);
-    if (read) map[k] = 1;
-    else delete map[k];
-    localStorage.setItem(READ_KEY, JSON.stringify(map));
-  }
-
-  function clearReadForIssue(issueId) {
-    const map = getReadMap();
-    const prefix = `${issueId}|`;
-    Object.keys(map).forEach((k) => {
-      if (k.startsWith(prefix)) delete map[k];
-    });
-    localStorage.setItem(READ_KEY, JSON.stringify(map));
-  }
-
-  function countReadProgress(issueId, data) {
-    let total = 0;
-    let read = 0;
-    (data.sections || []).forEach((sec) => {
-      (sec.items || []).forEach((it, idx) => {
-        total += 1;
-        const id = articleDomId(issueId, sec, idx);
-        if (isArticleRead(issueId, id)) read += 1;
-      });
-    });
-    return { read, total };
   }
 
   function effectiveTheme() {
@@ -1171,16 +1119,11 @@
     return (sec.items || [])
       .map((it, idx) => {
         const artId = articleDomId(issueId, sec, idx);
-        const read = isArticleRead(issueId, artId);
-        return `<article class="article${read ? " is-read" : ""}" id="${escapeHtml(artId)}" data-article-id="${escapeHtml(artId)}">
-          <div class="article-head">
-            <h3>${escapeHtml(it.headline)}</h3>
-            <button type="button" class="read-toggle${read ? " is-read" : ""}" data-article-id="${escapeHtml(artId)}" aria-pressed="${read ? "true" : "false"}">${read ? "Đã đọc" : "Đánh dấu đã đọc"}</button>
-          </div>
+        return `<article class="article" id="${escapeHtml(artId)}">
+          <h3>${escapeHtml(it.headline)}</h3>
           ${it.meta ? `<div class="meta">${escapeHtml(it.meta)}</div>` : ""}
           ${bodyHtml(it.body)}
           ${sourcesHtml(it.sources)}
-          <div class="article-end-marker" aria-hidden="true"></div>
         </article>`;
       })
       .join("");
@@ -1291,7 +1234,6 @@
     const sections = filterSections(data, tag);
     const dateIso = data.date;
     const showHighlights = tag === "all";
-    const progress = countReadProgress(issueId, data);
     const showExtras = tag === "all";
     const followups = showExtras ? data.followups || [] : [];
     const calendarEvents = showExtras
@@ -1303,21 +1245,14 @@
       sections.length ||
       (showExtras && (followups.length || calendarEvents.length))
     ) {
-      const progressHtml =
-        progress.total > 0
-          ? `<span class="read-progress" id="read-progress">${progress.read}/${progress.total} đã đọc</span>`
-          : "";
-      const clearBtn = `<button type="button" class="read-clear-all" id="read-clear-all"${progress.read > 0 ? "" : " hidden"}>Bỏ đánh dấu tất cả</button>`;
       toc = `<div class="toc-block" id="muc-luc">
         <div class="toc-block-head">
           <h2>Trong số này</h2>
-          ${progressHtml}
         </div>
         <ul>${tocEntries(sections, {
           followupCount: followups.length,
           calendarCount: calendarEvents.length,
         })}</ul>
-        ${clearBtn}
       </div>`;
     }
 
@@ -1423,124 +1358,6 @@
     });
   }
 
-  function readKey(issueId, articleId) {
-    return readStorageKey(issueId, articleId);
-  }
-
-  function updateArticleReadDom(articleEl, read) {
-    articleEl.classList.toggle("is-read", read);
-    const btn = articleEl.querySelector(".read-toggle");
-    if (btn) {
-      btn.classList.toggle("is-read", read);
-      btn.setAttribute("aria-pressed", read ? "true" : "false");
-      btn.textContent = read ? "Đã đọc" : "Đánh dấu đã đọc";
-    }
-  }
-
-  function refreshReadProgressUi(issueId, data) {
-    const prog = countReadProgress(issueId, data);
-    const el = document.getElementById("read-progress");
-    if (el) el.textContent = `${prog.read}/${prog.total} đã đọc`;
-    const clearBtn = document.getElementById("read-clear-all");
-    if (clearBtn) clearBtn.hidden = prog.read <= 0;
-    document.querySelectorAll(`.archive-read-progress[data-issue-id="${issueId}"]`).forEach((node) => {
-      node.textContent = `${prog.read}/${prog.total} đã đọc`;
-    });
-  }
-
-  function articleDwellMs(articleEl) {
-    const text = articleEl.innerText || "";
-    const words = text.split(/\s+/).filter(Boolean).length;
-    const ms = (words / 4.5) * 1000;
-    return Math.min(120000, Math.max(3500, ms));
-  }
-
-  function teardownAutoRead() {
-    autoReadState.forEach((st) => window.clearTimeout(st.timer));
-    autoReadState.clear();
-    autoReadObserver?.disconnect();
-    autoReadObserver = null;
-  }
-
-  function setupAutoRead(root, issueId, data, onProgress) {
-    teardownAutoRead();
-    const markers = root.querySelectorAll(".article-end-marker");
-    if (!markers.length) return;
-
-    autoReadObserver = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          const articleEl = entry.target.closest(".article");
-          if (!articleEl) return;
-          const artId = articleEl.dataset.articleId;
-          if (!artId) return;
-          const key = readKey(issueId, artId);
-          let st = autoReadState.get(key);
-          if (!st) {
-            st = { timer: 0, endVisible: false };
-            autoReadState.set(key, st);
-          }
-          if (entry.isIntersecting) {
-            if (isArticleRead(issueId, artId)) return;
-            if (sessionManualUnread.has(key)) return;
-            st.endVisible = true;
-            if (st.timer) return;
-            st.timer = window.setTimeout(() => {
-              st.timer = 0;
-              if (!st.endVisible) return;
-              if (sessionManualUnread.has(key)) return;
-              if (isArticleRead(issueId, artId)) return;
-              setArticleRead(issueId, artId, true);
-              updateArticleReadDom(articleEl, true);
-              onProgress();
-            }, articleDwellMs(articleEl));
-          } else {
-            st.endVisible = false;
-            if (st.timer) {
-              window.clearTimeout(st.timer);
-              st.timer = 0;
-            }
-          }
-        });
-      },
-      { root: null, rootMargin: "0px 0px -8% 0px", threshold: 0.05 }
-    );
-
-    markers.forEach((m) => autoReadObserver.observe(m));
-  }
-
-  function bindReadControls(root, issueId, data, onRerender, onProgress) {
-    root.querySelectorAll(".read-toggle").forEach((btn) => {
-      btn.addEventListener("click", () => {
-        const artId = btn.dataset.articleId;
-        if (!artId) return;
-        const key = readKey(issueId, artId);
-        const next = !isArticleRead(issueId, artId);
-        setArticleRead(issueId, artId, next);
-        if (!next) sessionManualUnread.add(key);
-        else sessionManualUnread.delete(key);
-        const st = autoReadState.get(key);
-        if (st?.timer) {
-          window.clearTimeout(st.timer);
-          st.timer = 0;
-        }
-        if (st) st.endVisible = false;
-        const articleEl = btn.closest(".article");
-        if (articleEl) updateArticleReadDom(articleEl, next);
-        onProgress();
-      });
-    });
-    root.querySelector("#read-clear-all")?.addEventListener("click", () => {
-      (data.sections || []).forEach((sec) => {
-        (sec.items || []).forEach((it, idx) => {
-          sessionManualUnread.add(readKey(issueId, articleDomId(issueId, sec, idx)));
-        });
-      });
-      clearReadForIssue(issueId);
-      onRerender();
-    });
-  }
-
   async function initReader() {
     const root = document.getElementById("paper-root");
     const status = document.getElementById("status");
@@ -1581,9 +1398,6 @@
         bindCalendarChrome(root);
         renderTags(tag, render);
         injectIssuePager(root, prev, next);
-        const onProgress = () => refreshReadProgressUi(date, data);
-        bindReadControls(root, date, data, () => render(tag, { keepSearch: true }), onProgress);
-        setupAutoRead(root, date, data, onProgress);
         if (options.scrollTo) {
           requestAnimationFrame(() => {
             if (options.scrollTo === "lich-su-kien") {
@@ -1659,6 +1473,71 @@
     }
   }
 
+  function parseArchivePageParam() {
+    const raw = parseInt(new URLSearchParams(location.search).get("page") || "1", 10);
+    return Number.isFinite(raw) && raw >= 1 ? raw : 1;
+  }
+
+  function archivePageHref(page) {
+    const q = new URLSearchParams(location.search);
+    if (page <= 1) q.delete("page");
+    else q.set("page", String(page));
+    const qs = q.toString();
+    return location.pathname + (qs ? "?" + qs : "");
+  }
+
+  function archivePageNumbers(current, total) {
+    if (total <= 7) {
+      return Array.from({ length: total }, (_, i) => i + 1);
+    }
+    const pages = new Set([1, total, current]);
+    for (let d = -1; d <= 1; d += 1) {
+      const p = current + d;
+      if (p >= 1 && p <= total) pages.add(p);
+    }
+    const sorted = [...pages].sort((a, b) => a - b);
+    const out = [];
+    for (let i = 0; i < sorted.length; i += 1) {
+      if (i > 0 && sorted[i] - sorted[i - 1] > 1) out.push(null);
+      out.push(sorted[i]);
+    }
+    return out;
+  }
+
+  function renderArchivePaginationNav(currentPage, totalPages) {
+    let nav = document.getElementById("archive-pagination");
+    if (!nav) {
+      nav = document.createElement("nav");
+      nav.id = "archive-pagination";
+      nav.className = "archive-pagination";
+      nav.setAttribute("aria-label", "Phân trang kho số cũ");
+    }
+    if (totalPages <= 1) {
+      nav.hidden = true;
+      nav.innerHTML = "";
+      return nav;
+    }
+    nav.hidden = false;
+    const prevDisabled = currentPage <= 1;
+    const nextDisabled = currentPage >= totalPages;
+    const nums = archivePageNumbers(currentPage, totalPages)
+      .map((p) => {
+        if (p === null) {
+          return `<span class="archive-page-ellipsis" aria-hidden="true">…</span>`;
+        }
+        if (p === currentPage) {
+          return `<span class="archive-page-current" aria-current="page">${p}</span>`;
+        }
+        return `<a class="archive-page-link" href="${escapeHtml(archivePageHref(p))}" data-archive-page="${p}">${p}</a>`;
+      })
+      .join("");
+    nav.innerHTML = `
+      <a class="archive-page-nav${prevDisabled ? " is-disabled" : ""}" href="${prevDisabled ? "#" : escapeHtml(archivePageHref(currentPage - 1))}" data-archive-page="${currentPage - 1}" aria-label="Trang trước"${prevDisabled ? ' aria-disabled="true" tabindex="-1"' : ""}>← Trước</a>
+      <div class="archive-page-nums" role="group" aria-label="Số trang">${nums}</div>
+      <a class="archive-page-nav${nextDisabled ? " is-disabled" : ""}" href="${nextDisabled ? "#" : escapeHtml(archivePageHref(currentPage + 1))}" data-archive-page="${currentPage + 1}" aria-label="Trang sau"${nextDisabled ? ' aria-disabled="true" tabindex="-1"' : ""}>Sau →</a>`;
+    return nav;
+  }
+
   async function initArchive() {
     const listEl = document.getElementById("archive-list");
     const favEl = document.getElementById("favorites-list");
@@ -1669,44 +1548,69 @@
     const index = await loadIndex();
     initSearch(index);
     const dates = index.issues.map((i) => i.date).sort().reverse();
+    const totalPages = Math.max(1, Math.ceil(dates.length / ARCHIVE_PAGE_SIZE));
 
-    listEl.innerHTML = dates
-      .map((d) => {
-        const latest = d === index.latest ? `<span class="badge">Mới nhất</span>` : "";
-        const meta = index.issues.find((i) => i.date === d);
-        const total = meta?.article_count ?? 0;
-        let read = 0;
-        if (total > 0) {
-          const map = getReadMap();
-          const prefix = `${d}|`;
-          Object.keys(map).forEach((k) => {
-            if (k.startsWith(prefix)) read += 1;
-          });
-        }
-        const prog = { read, total };
-        const progHtml =
-          prog.total > 0
-            ? `<span class="archive-read-progress" data-issue-id="${escapeHtml(d)}">${prog.read}/${prog.total} đã đọc</span>`
-            : "";
-        return `<li>${latest}<a class="issue-link" href="${asset(`index.html?date=${d}`)}">${escapeHtml(issueListLabel(d, index))}</a>
-          ${progHtml}
-          <button type="button" class="archive-fav" data-date="${d}" aria-label="Lưu số báo">☆</button></li>`;
-      })
-      .join("");
-
-    listEl.querySelectorAll(".archive-fav").forEach((btn) => {
-      const d = btn.dataset.date;
-      const refresh = () => {
-        btn.textContent = getFavorites().includes(d) ? "★" : "☆";
-        btn.classList.toggle("fav-on", getFavorites().includes(d));
-      };
-      refresh();
-      btn.addEventListener("click", () => {
-        toggleFavorite(d);
+    function bindArchiveFavButtons() {
+      listEl.querySelectorAll(".archive-fav").forEach((btn) => {
+        const d = btn.dataset.date;
+        const refresh = () => {
+          btn.textContent = getFavorites().includes(d) ? "★" : "☆";
+          btn.classList.toggle("fav-on", getFavorites().includes(d));
+        };
         refresh();
-        renderFavorites();
+        btn.addEventListener("click", () => {
+          toggleFavorite(d);
+          refresh();
+          renderFavorites();
+        });
       });
-    });
+    }
+
+    function renderArchiveListPage(page) {
+      const currentPage = Math.min(Math.max(1, page), totalPages);
+      if (currentPage !== page) {
+        history.replaceState(null, "", archivePageHref(currentPage));
+      }
+      const start = (currentPage - 1) * ARCHIVE_PAGE_SIZE;
+      const slice = dates.slice(start, start + ARCHIVE_PAGE_SIZE);
+
+      listEl.innerHTML = slice
+        .map((d) => {
+          const latest =
+            d === index.latest && currentPage === 1
+              ? `<span class="badge">Mới nhất</span>`
+              : "";
+          return `<li>${latest}<a class="issue-link" href="${asset(`index.html?date=${d}`)}">${escapeHtml(issueListLabel(d, index))}</a>
+          <button type="button" class="archive-fav" data-date="${d}" aria-label="Lưu số báo">☆</button></li>`;
+        })
+        .join("");
+
+      bindArchiveFavButtons();
+
+      const nav = renderArchivePaginationNav(currentPage, totalPages);
+      const existingNav = document.getElementById("archive-pagination");
+      if (existingNav) existingNav.replaceWith(nav);
+      else listEl.insertAdjacentElement("afterend", nav);
+    }
+
+    if (!document.body.dataset.archivePaginationBound) {
+      document.body.dataset.archivePaginationBound = "1";
+      document.body.addEventListener("click", (e) => {
+        const link = e.target.closest("#archive-pagination [data-archive-page]");
+        if (!link || link.classList.contains("is-disabled")) return;
+        e.preventDefault();
+        const page = parseInt(link.dataset.archivePage, 10);
+        if (!Number.isFinite(page) || page < 1) return;
+        history.pushState(null, "", archivePageHref(page));
+        renderArchiveListPage(page);
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+      window.addEventListener("popstate", () => {
+        renderArchiveListPage(parseArchivePageParam());
+      });
+    }
+
+    renderArchiveListPage(parseArchivePageParam());
 
     function renderFavorites() {
       if (!favEl) return;
@@ -1729,8 +1633,6 @@
   window.DailyNews = {
     asset,
     getFavorites,
-    getReadMap,
-    isArticleRead,
     vnDate,
     MASTHEAD,
     slugify,

@@ -109,6 +109,12 @@ def main() -> int:
                                 errors.append(f"{iid}: missing anchor #{aid}")
                     ctx.close()
 
+            archive_dates = sorted(issues, reverse=True)
+            archive_page_size = 20
+            archive_total_pages = max(
+                1, (len(archive_dates) + archive_page_size - 1) // archive_page_size
+            )
+
             ctx = browser.new_context(viewport={"width": 390, "height": 844})
             page = ctx.new_page()
             logs = []
@@ -118,8 +124,48 @@ def main() -> int:
             )
             page.goto(f"{BASE_URL}archive.html", wait_until="domcontentloaded", timeout=60000)
             page.wait_for_selector("#archive-list li", timeout=30000)
+            if page.locator(".archive-read-progress").count():
+                errors.append("archive: read progress UI should be removed")
+            if page.locator("#archive-list li").count() != min(
+                archive_page_size, len(archive_dates)
+            ):
+                errors.append("archive: page 1 should show at most 20 issues")
+            if archive_dates and page.locator(".archive-list .badge").count() != 1:
+                errors.append("archive: newest badge should appear once on page 1")
+            if archive_total_pages > 1:
+                if page.locator("#archive-pagination").count() == 0:
+                    errors.append("archive: missing pagination on page 1")
+                page.locator(
+                    '#archive-pagination a.archive-page-link[data-archive-page="2"]'
+                ).click()
+                page.wait_for_function(
+                    "() => new URLSearchParams(location.search).get('page') === '2'"
+                )
+                expected_p2 = len(archive_dates) - archive_page_size
+                if page.locator("#archive-list li").count() != expected_p2:
+                    errors.append(
+                        f"archive: page 2 expected {expected_p2} issues"
+                    )
+                if page.locator(".archive-list .badge").count():
+                    errors.append(
+                        "archive: newest badge should only be on page 1"
+                    )
             for line in logs:
                 errors.append(f"archive: console: {line}")
+            ctx.close()
+
+            ctx = browser.new_context(viewport={"width": 1280, "height": 800})
+            page = ctx.new_page()
+            page.goto(
+                f"{BASE_URL}index.html?date={archive_dates[0]}",
+                wait_until="domcontentloaded",
+                timeout=60000,
+            )
+            page.wait_for_selector("#paper-root .article", timeout=30000)
+            if page.locator(".read-toggle").count():
+                errors.append("reader: read toggle should be removed")
+            if page.locator("#read-progress").count():
+                errors.append("reader: read progress should be removed")
             ctx.close()
 
             ctx = browser.new_context(viewport={"width": 1280, "height": 800})
