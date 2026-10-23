@@ -1473,17 +1473,86 @@
     }
   }
 
+  const ARCHIVE_TYPE_CHIEU = "chieu";
+  const ARCHIVE_TYPE_SANG = "sang";
+  const ARCHIVE_TYPE_DOC_CHAM = "doc-cham";
+
+  function parseArchiveTypeParam() {
+    const t = new URLSearchParams(location.search).get("type");
+    if (
+      t === ARCHIVE_TYPE_SANG ||
+      t === ARCHIVE_TYPE_CHIEU ||
+      t === ARCHIVE_TYPE_DOC_CHAM
+    ) {
+      return t;
+    }
+    return null;
+  }
+
   function parseArchivePageParam() {
     const raw = parseInt(new URLSearchParams(location.search).get("page") || "1", 10);
     return Number.isFinite(raw) && raw >= 1 ? raw : 1;
   }
 
-  function archivePageHref(page) {
-    const q = new URLSearchParams(location.search);
-    if (page <= 1) q.delete("page");
-    else q.set("page", String(page));
-    const qs = q.toString();
+  function archiveQueryParams(page, type) {
+    const q = new URLSearchParams();
+    const archiveType = type !== undefined ? type : parseArchiveTypeParam();
+    if (archiveType) q.set("type", archiveType);
+    if (page > 1) q.set("page", String(page));
+    return q;
+  }
+
+  function archivePageHref(page, type) {
+    const qs = archiveQueryParams(page, type).toString();
     return location.pathname + (qs ? "?" + qs : "");
+  }
+
+  function archiveIssueMeta(index) {
+    const map = new Map();
+    for (const row of index.issues) {
+      map.set(row.date, row);
+    }
+    return map;
+  }
+
+  function archiveEditionOf(issueId, meta) {
+    const row = meta.get(issueId);
+    if (row && row.edition === ARCHIVE_TYPE_CHIEU) return ARCHIVE_TYPE_CHIEU;
+    if (issueId.endsWith(CHIEU_SUFFIX)) return ARCHIVE_TYPE_CHIEU;
+    return ARCHIVE_TYPE_SANG;
+  }
+
+  function filterArchiveIssueIds(index, type, meta) {
+    const ids = index.issues.map((i) => i.date);
+    if (!type) return ids.sort().reverse();
+    const filtered = ids.filter((id) => {
+      const row = meta.get(id) || {};
+      if (type === ARCHIVE_TYPE_CHIEU) {
+        return archiveEditionOf(id, meta) === ARCHIVE_TYPE_CHIEU;
+      }
+      if (type === ARCHIVE_TYPE_SANG) {
+        return archiveEditionOf(id, meta) === ARCHIVE_TYPE_SANG;
+      }
+      if (type === ARCHIVE_TYPE_DOC_CHAM) return Boolean(row.has_doc_cham);
+      return true;
+    });
+    return filtered.sort().reverse();
+  }
+
+  function archiveRowBadges(issueId, index, meta, currentPage) {
+    const parts = [];
+    if (issueId === index.latest && currentPage === 1) {
+      parts.push('<span class="badge">Mới nhất</span>');
+    }
+    const edition = archiveEditionOf(issueId, meta);
+    parts.push(
+      `<span class="badge badge-edition">${edition === ARCHIVE_TYPE_CHIEU ? "Chiều" : "Sáng"}</span>`
+    );
+    if (meta.get(issueId)?.has_doc_cham) {
+      parts.push('<span class="badge badge-doc-cham">Đọc chậm</span>');
+    }
+    if (!parts.length) return "";
+    return `<span class="archive-row-badges">${parts.join("")}</span>`;
   }
 
   function archivePageNumbers(current, total) {
@@ -1538,8 +1607,32 @@
     return nav;
   }
 
+  function renderArchiveTypeFilters(activeType, onSelect) {
+    const wrap = document.getElementById("archive-filters");
+    if (!wrap) return;
+    const chips = [
+      { id: null, label: "Tất cả" },
+      { id: ARCHIVE_TYPE_SANG, label: "Buổi sáng" },
+      { id: ARCHIVE_TYPE_CHIEU, label: "Buổi chiều" },
+      { id: ARCHIVE_TYPE_DOC_CHAM, label: "Đọc chậm" },
+    ];
+    wrap.innerHTML = `<div class="tag-chips-scroll"><div class="tag-chips archive-type-chips" role="list">${chips
+      .map(
+        ({ id, label }) =>
+          `<button type="button" role="listitem" class="${activeType === id ? "active" : ""}" data-archive-type="${id ?? ""}" aria-pressed="${activeType === id ? "true" : "false"}">${escapeHtml(label)}</button>`
+      )
+      .join("")}</div></div>`;
+    wrap.querySelectorAll("[data-archive-type]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const raw = btn.getAttribute("data-archive-type");
+        onSelect(raw === "" ? null : raw);
+      });
+    });
+  }
+
   async function initArchive() {
     const listEl = document.getElementById("archive-list");
+    const emptyEl = document.getElementById("archive-empty");
     const favEl = document.getElementById("favorites-list");
     if (!listEl) return;
 
@@ -1547,8 +1640,11 @@
     initMobileChrome();
     const index = await loadIndex();
     initSearch(index);
-    const dates = index.issues.map((i) => i.date).sort().reverse();
-    const totalPages = Math.max(1, Math.ceil(dates.length / ARCHIVE_PAGE_SIZE));
+    const meta = archiveIssueMeta(index);
+
+    function datesForType(type) {
+      return filterArchiveIssueIds(index, type, meta);
+    }
 
     function bindArchiveFavButtons() {
       listEl.querySelectorAll(".archive-fav").forEach((btn) => {
@@ -1566,26 +1662,48 @@
       });
     }
 
-    function renderArchiveListPage(page) {
+    function renderArchiveListPage(page, typeOverride) {
+      const archiveType =
+        typeOverride !== undefined ? typeOverride : parseArchiveTypeParam();
+      const dates = datesForType(archiveType);
+      const totalPages = Math.max(1, Math.ceil(dates.length / ARCHIVE_PAGE_SIZE));
       const currentPage = Math.min(Math.max(1, page), totalPages);
       if (currentPage !== page) {
-        history.replaceState(null, "", archivePageHref(currentPage));
+        history.replaceState(null, "", archivePageHref(currentPage, archiveType));
       }
-      const start = (currentPage - 1) * ARCHIVE_PAGE_SIZE;
-      const slice = dates.slice(start, start + ARCHIVE_PAGE_SIZE);
 
-      listEl.innerHTML = slice
-        .map((d) => {
-          const latest =
-            d === index.latest && currentPage === 1
-              ? `<span class="badge">Mới nhất</span>`
-              : "";
-          return `<li>${latest}<a class="issue-link" href="${asset(`index.html?date=${d}`)}">${escapeHtml(issueListLabel(d, index))}</a>
-          <button type="button" class="archive-fav" data-date="${d}" aria-label="Lưu số báo">☆</button></li>`;
-        })
-        .join("");
+      renderArchiveTypeFilters(archiveType, (nextType) => {
+        history.pushState(null, "", archivePageHref(1, nextType));
+        renderArchiveListPage(1, nextType);
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
 
-      bindArchiveFavButtons();
+      const docChamEmpty =
+        archiveType === ARCHIVE_TYPE_DOC_CHAM && dates.length === 0;
+      if (emptyEl) {
+        if (docChamEmpty) {
+          emptyEl.hidden = false;
+          emptyEl.textContent = "Chưa có số nào có mục Đọc chậm.";
+        } else {
+          emptyEl.hidden = true;
+          emptyEl.textContent = "";
+        }
+      }
+
+      if (docChamEmpty) {
+        listEl.innerHTML = "";
+      } else {
+        const start = (currentPage - 1) * ARCHIVE_PAGE_SIZE;
+        const slice = dates.slice(start, start + ARCHIVE_PAGE_SIZE);
+        listEl.innerHTML = slice
+          .map(
+            (d) =>
+              `<li>${archiveRowBadges(d, index, meta, currentPage)}<a class="issue-link" href="${asset(`index.html?date=${d}`)}">${escapeHtml(issueListLabel(d, index))}</a>
+          <button type="button" class="archive-fav" data-date="${d}" aria-label="Lưu số báo">☆</button></li>`
+          )
+          .join("");
+        bindArchiveFavButtons();
+      }
 
       const nav = renderArchivePaginationNav(currentPage, totalPages);
       const existingNav = document.getElementById("archive-pagination");

@@ -759,6 +759,31 @@ html[data-theme="dark"] .article {
   border-radius: 2px;
 }
 
+.archive-filters {
+  margin: 0 0 1.25rem;
+}
+
+.archive-filters .tag-chips-scroll {
+  margin: 0 -0.25rem;
+  padding: 0 0.25rem 0.15rem;
+}
+
+.archive-empty {
+  margin: 0 0 1rem;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-style: italic;
+  color: var(--accent);
+}
+
+.archive-row-badges {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem;
+  flex-shrink: 0;
+}
+
 .favorites-block {
   margin-top: 2rem;
   padding-top: 1rem;

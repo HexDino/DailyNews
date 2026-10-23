@@ -5,32 +5,38 @@
     {
       "date": "2026-10-01",
       "path": "2026-10-01/content.json",
-      "article_count": 28
+      "article_count": 28,
+      "edition": "sang"
     },
     {
       "date": "2026-10-02",
       "path": "2026-10-02/content.json",
-      "article_count": 20
+      "article_count": 20,
+      "edition": "sang"
     },
     {
       "date": "2026-10-03",
       "path": "2026-10-03/content.json",
-      "article_count": 19
+      "article_count": 19,
+      "edition": "sang"
     },
     {
       "date": "2026-10-04",
       "path": "2026-10-04/content.json",
-      "article_count": 17
+      "article_count": 17,
+      "edition": "sang"
     },
     {
       "date": "2026-10-05",
       "path": "2026-10-05/content.json",
-      "article_count": 23
+      "article_count": 23,
+      "edition": "sang"
     },
     {
       "date": "2026-10-06",
       "path": "2026-10-06/content.json",
-      "article_count": 30
+      "article_count": 30,
+      "edition": "sang"
     },
     {
       "date": "2026-10-06-chieu",
@@ -42,7 +48,8 @@
     {
       "date": "2026-10-07",
       "path": "2026-10-07/content.json",
-      "article_count": 32
+      "article_count": 32,
+      "edition": "sang"
     },
     {
       "date": "2026-10-07-chieu",
@@ -54,7 +61,8 @@
     {
       "date": "2026-10-08",
       "path": "2026-10-08/content.json",
-      "article_count": 33
+      "article_count": 33,
+      "edition": "sang"
     },
     {
       "date": "2026-10-08-chieu",
@@ -66,7 +74,8 @@
     {
       "date": "2026-10-09",
       "path": "2026-10-09/content.json",
-      "article_count": 28
+      "article_count": 28,
+      "edition": "sang"
     },
     {
       "date": "2026-10-09-chieu",
@@ -78,7 +87,8 @@
     {
       "date": "2026-10-10",
       "path": "2026-10-10/content.json",
-      "article_count": 27
+      "article_count": 27,
+      "edition": "sang"
     },
     {
       "date": "2026-10-10-chieu",
@@ -90,7 +100,8 @@
     {
       "date": "2026-10-11",
       "path": "2026-10-11/content.json",
-      "article_count": 31
+      "article_count": 31,
+      "edition": "sang"
     },
     {
       "date": "2026-10-11-chieu",
@@ -102,7 +113,8 @@
     {
       "date": "2026-10-12",
       "path": "2026-10-12/content.json",
-      "article_count": 34
+      "article_count": 34,
+      "edition": "sang"
     },
     {
       "date": "2026-10-12-chieu",
@@ -114,7 +126,8 @@
     {
       "date": "2026-10-13",
       "path": "2026-10-13/content.json",
-      "article_count": 31
+      "article_count": 31,
+      "edition": "sang"
     },
     {
       "date": "2026-10-13-chieu",
@@ -126,7 +139,8 @@
     {
       "date": "2026-10-15",
       "path": "2026-10-15/content.json",
-      "article_count": 42
+      "article_count": 42,
+      "edition": "sang"
     },
     {
       "date": "2026-10-15-chieu",
@@ -138,7 +152,8 @@
     {
       "date": "2026-10-16",
       "path": "2026-10-16/content.json",
-      "article_count": 33
+      "article_count": 33,
+      "edition": "sang"
     },
     {
       "date": "2026-10-16-chieu",
@@ -150,7 +165,8 @@
     {
       "date": "2026-10-17",
       "path": "2026-10-17/content.json",
-      "article_count": 43
+      "article_count": 43,
+      "edition": "sang"
     },
     {
       "date": "2026-10-17-chieu",
@@ -162,7 +178,8 @@
     {
       "date": "2026-10-18",
       "path": "2026-10-18/content.json",
-      "article_count": 49
+      "article_count": 49,
+      "edition": "sang"
     },
     {
       "date": "2026-10-18-chieu",
@@ -174,7 +191,8 @@
     {
       "date": "2026-10-19",
       "path": "2026-10-19/content.json",
-      "article_count": 41
+      "article_count": 41,
+      "edition": "sang"
     },
     {
       "date": "2026-10-19-chieu",
@@ -186,7 +204,8 @@
     {
       "date": "2026-10-20",
       "path": "2026-10-20/content.json",
-      "article_count": 42
+      "article_count": 42,
+      "edition": "sang"
     },
     {
       "date": "2026-10-20-chieu",
@@ -198,12 +217,14 @@
     {
       "date": "2026-10-21",
       "path": "2026-10-21/content.json",
-      "article_count": 43
+      "article_count": 43,
+      "edition": "sang"
     },
     {
       "date": "2026-10-22",
       "path": "2026-10-22/content.json",
-      "article_count": 19
+      "article_count": 19,
+      "edition": "sang"
     },
     {
       "date": "2026-10-22-chieu",
@@ -215,7 +236,8 @@
     {
       "date": "2026-10-23",
       "path": "2026-10-23/content.json",
-      "article_count": 32
+      "article_count": 32,
+      "edition": "sang"
     }
   ]
 }

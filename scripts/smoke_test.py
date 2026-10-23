@@ -60,15 +60,43 @@ def ensure_server() -> subprocess.Popen | None:
     raise RuntimeError("Could not start local HTTP server on 8765")
 
 
+def load_index():
+    return json.loads((ROOT / "issues/index.json").read_text(encoding="utf-8"))
+
+
 def load_issues():
-    idx = json.loads((ROOT / "issues/index.json").read_text(encoding="utf-8"))
-    return [i["date"] for i in idx["issues"]]
+    return [i["date"] for i in load_index()["issues"]]
+
+
+def archive_filter_dates(index: dict, type_param: str | None) -> list[str]:
+    issues = index["issues"]
+    meta = {row["date"]: row for row in issues}
+    ids = [row["date"] for row in issues]
+
+    def edition_of(issue_id: str) -> str:
+        row = meta.get(issue_id) or {}
+        if row.get("edition") == "chieu" or issue_id.endswith("-chieu"):
+            return "chieu"
+        return "sang"
+
+    if not type_param:
+        return sorted(ids, reverse=True)
+    if type_param == "chieu":
+        filtered = [i for i in ids if edition_of(i) == "chieu"]
+    elif type_param == "sang":
+        filtered = [i for i in ids if edition_of(i) == "sang"]
+    elif type_param == "doc-cham":
+        filtered = [i for i in ids if meta.get(i, {}).get("has_doc_cham")]
+    else:
+        filtered = ids
+    return sorted(filtered, reverse=True)
 
 
 def main() -> int:
     server = ensure_server()
     errors: list[str] = []
-    issues = load_issues()
+    index = load_index()
+    issues = [i["date"] for i in index["issues"]]
 
     try:
         with sync_playwright() as p:
@@ -109,7 +137,7 @@ def main() -> int:
                                 errors.append(f"{iid}: missing anchor #{aid}")
                     ctx.close()
 
-            archive_dates = sorted(issues, reverse=True)
+            archive_dates = archive_filter_dates(index, None)
             archive_page_size = 20
             archive_total_pages = max(
                 1, (len(archive_dates) + archive_page_size - 1) // archive_page_size
@@ -126,11 +154,19 @@ def main() -> int:
             page.wait_for_selector("#archive-list li", timeout=30000)
             if page.locator(".archive-read-progress").count():
                 errors.append("archive: read progress UI should be removed")
+            if page.locator(".archive-type-chips button").count() != 4:
+                errors.append("archive: expected four type filter chips")
+            if page.locator("#archive-list li .badge-edition").count() != page.locator(
+                "#archive-list li"
+            ).count():
+                errors.append("archive: each row should show an edition badge")
             if page.locator("#archive-list li").count() != min(
                 archive_page_size, len(archive_dates)
             ):
                 errors.append("archive: page 1 should show at most 20 issues")
-            if archive_dates and page.locator(".archive-list .badge").count() != 1:
+            if archive_dates and page.locator(".archive-list .badge").filter(
+                has_text="Mới nhất"
+            ).count() != 1:
                 errors.append("archive: newest badge should appear once on page 1")
             if archive_total_pages > 1:
                 if page.locator("#archive-pagination").count() == 0:
@@ -146,10 +182,65 @@ def main() -> int:
                     errors.append(
                         f"archive: page 2 expected {expected_p2} issues"
                     )
-                if page.locator(".archive-list .badge").count():
+                if page.locator(".archive-list .badge").filter(has_text="Mới nhất").count():
                     errors.append(
                         "archive: newest badge should only be on page 1"
                     )
+            chieu_dates = archive_filter_dates(index, "chieu")
+            page.locator('[data-archive-type="chieu"]').click()
+            page.wait_for_function(
+                "() => new URLSearchParams(location.search).get('type') === 'chieu'"
+                " && !new URLSearchParams(location.search).get('page')"
+            )
+            expected_chieu_p1 = min(archive_page_size, len(chieu_dates))
+            if page.locator("#archive-list li").count() != expected_chieu_p1:
+                errors.append(
+                    f"archive: chieu filter page 1 expected {expected_chieu_p1} issues"
+                )
+            if page.locator("#archive-list li .badge-edition").filter(
+                has_text="Chiều"
+            ).count() != expected_chieu_p1:
+                errors.append("archive: chieu filter should only list evening editions")
+            chieu_total_pages = max(
+                1, (len(chieu_dates) + archive_page_size - 1) // archive_page_size
+            )
+            if chieu_total_pages > 1:
+                page.locator(
+                    '#archive-pagination a.archive-page-link[data-archive-page="2"]'
+                ).click()
+                page.wait_for_function(
+                    "() => new URLSearchParams(location.search).get('type') === 'chieu'"
+                    " && new URLSearchParams(location.search).get('page') === '2'"
+                )
+                expected_chieu_p2 = len(chieu_dates) - archive_page_size
+                if page.locator("#archive-list li").count() != expected_chieu_p2:
+                    errors.append(
+                        f"archive: chieu page 2 expected {expected_chieu_p2} issues"
+                    )
+            page.locator('[data-archive-type="doc-cham"]').click()
+            page.wait_for_function(
+                "() => new URLSearchParams(location.search).get('type') === 'doc-cham'"
+            )
+            doc_cham_dates = archive_filter_dates(index, "doc-cham")
+            if not doc_cham_dates:
+                if page.locator("#archive-empty:not([hidden])").count() != 1:
+                    errors.append("archive: doc-cham empty state should be visible")
+                elif "Đọc chậm" not in page.locator("#archive-empty").inner_text():
+                    errors.append("archive: doc-cham empty message missing")
+            elif page.locator("#archive-list li").count() != min(
+                archive_page_size, len(doc_cham_dates)
+            ):
+                errors.append("archive: doc-cham filter page size mismatch")
+            page.goto(f"{BASE_URL}archive.html?type=sang&page=999", wait_until="domcontentloaded")
+            page.wait_for_selector("#archive-list li", timeout=30000)
+            sang_dates = archive_filter_dates(index, "sang")
+            sang_total_pages = max(
+                1, (len(sang_dates) + archive_page_size - 1) // archive_page_size
+            )
+            page.wait_for_function(
+                f"() => new URLSearchParams(location.search).get('page') === '{sang_total_pages}'"
+                " && new URLSearchParams(location.search).get('type') === 'sang'"
+            )
             for line in logs:
                 errors.append(f"archive: console: {line}")
             ctx.close()

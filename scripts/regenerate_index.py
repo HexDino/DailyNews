@@ -10,6 +10,7 @@ ISSUES = ROOT / "issues"
 SCRIPTS = ROOT / "scripts"
 
 CHIEU_SUFFIX = "-chieu"
+DOC_CHAM = "Đọc chậm"
 
 
 def issue_sort_key(folder_name: str) -> tuple[str, int]:
@@ -26,17 +27,39 @@ def count_articles(data: dict) -> int:
     return n
 
 
+def issue_edition(folder_name: str, data: dict) -> str:
+    if folder_name.endswith(CHIEU_SUFFIX) or data.get("edition") == "chieu":
+        return "chieu"
+    return "sang"
+
+
+def has_doc_cham_content(data: dict) -> bool:
+    if DOC_CHAM in (data.get("topics") or []):
+        return True
+    for sec in data.get("sections") or []:
+        if sec.get("topic") == DOC_CHAM:
+            return True
+        if DOC_CHAM in (sec.get("tags") or []):
+            return True
+        for item in sec.get("items") or []:
+            if DOC_CHAM in (item.get("tags") or []):
+                return True
+    return False
+
+
 def issue_entry(folder: Path) -> dict:
     data = json.loads((folder / "content.json").read_text(encoding="utf-8"))
+    edition = issue_edition(folder.name, data)
     entry: dict = {
         "date": folder.name,
         "path": f"{folder.name}/content.json",
         "article_count": count_articles(data),
+        "edition": edition,
     }
-    if data.get("edition"):
-        entry["edition"] = data["edition"]
-    if data.get("edition_label"):
-        entry["edition_label"] = data["edition_label"]
+    if edition == "chieu":
+        entry["edition_label"] = data.get("edition_label") or "Số buổi chiều"
+    if has_doc_cham_content(data):
+        entry["has_doc_cham"] = True
     return entry
 
 
