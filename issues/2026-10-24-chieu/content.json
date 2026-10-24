@@ -1,0 +1,1089 @@
+{
+  "date": "2026-10-24",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ bảy, ngày 24 tháng 10 năm 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 24/10/2026 · Thứ bảy · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Iran tuyên bố không để tàu quân sự Mỹ vào vùng Vịnh; hai siêu tàu dầu trúng thủy lôi ở Hormuz",
+    "Macron gọi vụ xả súng ngoại ô Paris là tấn công khủng bố phân biệt chủng tộc",
+    "Chính phủ muốn truy xuất nguồn gốc nguyên liệu thức ăn đường phố",
+    "Nhà văn Ryu Murakami qua đời ở tuổi 74",
+    "Fact: 24/10/1901, một cô giáo 63 tuổi vượt thác Niagara trong thùng gỗ"
+  ],
+  "followups": [
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Iran tuyên bố không để tàu quân sự Mỹ vào vùng Vịnh; hai siêu tàu dầu trúng thủy lôi; dầu tràn dạt vào bờ biển UAE; Mỹ xả kho dự trữ chiến lược.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/iran-tuyen-bo-khong-de-tau-quan-su-my-vao-vung-vinh-5136403.html"
+        },
+        {
+          "name": "VnExpress – cáp ngầm",
+          "url": "https://vnexpress.net/iran-lap-ke-hoach-pha-cap-mang-o-vinh-ba-tu-5136381.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o"
+        }
+      ]
+    },
+    {
+      "title": "Đàm phán hòa bình Nga – Ukraine",
+      "update": "Ông Zelensky bác tuyên bố của ông Trump rằng Starshield/Starlink đã được khôi phục; ba tàu dầu diesel Nga đầu tiên lên đường sang Mỹ theo thỏa thuận giữa hai nước.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17-chieu",
+      "sources": [
+        {
+          "name": "VnExpress – Starshield",
+          "url": "https://vnexpress.net/ong-zelensky-bac-tuyen-bo-starshield-duoc-khoi-phuc-cua-ong-trump-5136291.html"
+        },
+        {
+          "name": "VnExpress – diesel Nga",
+          "url": "https://vnexpress.net/3-tau-dau-tien-cho-dau-diesel-nga-len-duong-toi-my-5136263.html"
+        }
+      ]
+    },
+    {
+      "title": "Biểu tình vì giá cả ở Pháp",
+      "update": "Ngày biểu tình 24/10 diễn ra trong bối cảnh ông Macron gọi vụ xả súng ở ngoại ô Paris là tấn công khủng bố phân biệt chủng tộc; bạo loạn được cho là đang giúp phe cực hữu của bà Le Pen.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-18",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/bao-loan-thuc-day-da-troi-day-cua-phe-cuc-huu-o-phap-5135853.html"
+        }
+      ]
+    },
+    {
+      "title": "Bão Champi",
+      "update": "Không đổ bộ trực tiếp nhưng gió giật 227 km/h ảnh hưởng gần cả Đài Loan; một người chết, hàng trăm người bị thương.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-19",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/song-cao-quat-do-xe-cau-khi-bao-champi-hoanh-hanh-ngoai-khoi-dai-loan-5136398.html"
+        }
+      ]
+    },
+    {
+      "title": "Kỳ họp thứ hai Quốc hội khóa XVI",
+      "update": "Chính phủ trình quy định truy xuất nguồn gốc thức ăn đường phố, bỏ 18 thủ tục sở hữu trí tuệ, lộ trình vùng phát thải thấp; đề xuất thẻ văn hóa quốc gia.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chinh-phu-muon-truy-xuat-nguon-goc-nguyen-lieu-thuc-an-duong-pho-5136324.html"
+        },
+        {
+          "name": "VnExpress – thẻ văn hóa",
+          "url": "https://vnexpress.net/de-xuat-cap-the-phuc-loi-de-kich-cau-cong-nghiep-van-hoa-5136358.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-24",
+      "time": "18:30",
+      "timezone": "giờ VN",
+      "title": "Aston Villa – Man City, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "Man City đang thắng cả 7 trận, dẫn đầu bảng.",
+      "sources": [
+        {
+          "name": "Football Web Pages",
+          "url": "https://www.footballwebpages.co.uk/premier-league/fixtures-results/october"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "21:00",
+      "timezone": "giờ VN",
+      "title": "Arsenal – Everton, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "15:00 giờ Anh (BST).",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.com/sport/football/scores-fixtures/2026-10-24"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "23:30",
+      "timezone": "giờ VN",
+      "title": "Derby London Chelsea – Tottenham, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "17:30 giờ Anh (BST).",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.com/sport/football/scores-fixtures/2026-10-24"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "24–30/10",
+      "timezone": "giờ Paris",
+      "title": "Tuần lễ Sân khấu Việt Nam tại Pháp – 50 năm quan hệ Việt Nam – UNESCO",
+      "topic": "Văn hoá",
+      "note": "Có lễ kỷ niệm, triển lãm 300 năm ngày sinh Lê Quý Đôn tại trụ sở UNESCO; bà Ngô Phương Ly dự kiến tham dự.",
+      "sources": [
+        {
+          "name": "Vietnam News",
+          "url": "https://vietnamnews.vn/politics-laws/1802101/top-leader-to-lam-to-visit-denmark-eu-belgium-next-week.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "time": "trong ngày",
+      "timezone": "giờ Paris",
+      "title": "Pháp: “Acte II” biểu tình toàn quốc của Áo vàng",
+      "topic": "Chính trị",
+      "note": "70.000 cảnh sát, hiến binh; chỉ biểu tình do công đoàn tổ chức được phép; giới nghiêm một phần ở ít nhất 10 thành phố; nhiều bảo tàng lớn ở Paris đóng cửa. Một đợt huy động khác được nhắc tới cho ngày 5/11.",
+      "sources": [
+        {
+          "name": "France 24 (AFP)",
+          "url": "https://www.france24.com/fr/info-en-continu/20261023-mobilisation-du-24-octobre-ce-qui-est-pr%C3%A9vu"
+        },
+        {
+          "name": "France Inter",
+          "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/mobilisation-du-24-octobre-a-paris-le-cortege-autorise-entre-bastille-et-nation-l-armee-deployee-6259849"
+        },
+        {
+          "name": "franceinfo",
+          "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/mobilisation-du-17-octobre-une-coordination-de-gilets-jaunes-annonce-un-acte-ii-des-manifestations-pour-samedi-24-octobre_8243932.html"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/fr/france/20261019-acte-ii-le-24-octobre-mobilisation-le-5-novembre-%C3%A0-quoi-s-attendre-pour-la-suite-du-mouvement"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Bầu cử Serbia — phép thử 12 năm cầm quyền của ông Vučić",
+      "topic": "Chính trị",
+      "note": "Diễn ra sau hai năm biểu tình do sinh viên dẫn dắt.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "21:00",
+      "timezone": "giờ Tây Ban Nha",
+      "title": "El Clásico Barcelona – Real Madrid, vòng 10 La Liga",
+      "topic": "Bóng đá",
+      "note": "Spotify Camp Nou. Châu Âu đã đổi về giờ mùa đông, tương đương khoảng 03:00 ngày 26/10 giờ VN.",
+      "sources": [
+        {
+          "name": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/matches/138374/fc-barcelona-real-madrid-la-liga-2026-2027"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "21:00",
+      "timezone": "giờ VN",
+      "title": "Man Utd – Bournemouth, Liverpool – Brighton, Crystal Palace – Newcastle, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "14:00 giờ Anh (GMT); nước Anh lùi đồng hồ về GMT rạng sáng 25/10. 23:30 cùng ngày: Sunderland – Leeds.",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "hết ngày",
+      "timezone": "giờ VN",
+      "title": "Hết thời gian theo dõi 177 người tiếp xúc gần ca não mô cầu ở TP HCM",
+      "topic": "Đời sống",
+      "note": "Trạm Y tế xã Hiệp Phước theo dõi sức khỏe hằng ngày.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hon-2-000-hoc-sinh-giao-vien-truong-co-4-ca-nao-mo-cau-duoc-uong-khang-sinh-du-phong-5134183.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "time": "hết ngày",
+      "timezone": "giờ VN",
+      "title": "Hết hạn lấy ý kiến hộ gia đình về chuyển hơn 4.000 ha từ Phú Thọ về Hà Nội",
+      "topic": "Chính trị",
+      "note": "Hà Nội lấy ý kiến 22–25/10, Phú Thọ 22–24/10; cần ít nhất 50% hộ tán thành.",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/lay-y-kien-viec-sap-nhap-mot-phan-dien-tich-tinh-phu-tho-ve-ha-noi-185261022124140945.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Đỉnh triều cường sông Sài Gòn (26–28/10), TP.HCM dự báo ngập nhiều nơi",
+      "topic": "Đời sống",
+      "note": "Kéo dài đến 28/10.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/trieu-cuong-dang-len-nhanh-tu-ngay-26-den-28-10-tphcm-ngap-nhieu-noi-100261023112642423.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "time": "02:30",
+      "timezone": "giờ VN",
+      "title": "PSG – Lyon, vòng 8 Ligue 1 (lùi lịch vì biểu tình)",
+      "topic": "Bóng đá",
+      "note": "Ban đầu dự kiến tối Chủ nhật 25/10, được lùi sang 20:30 thứ Hai 26/10 giờ Paris theo yêu cầu của cảnh sát.",
+      "sources": [
+        {
+          "name": "France 24 (AFP)",
+          "url": "https://www.france24.com/fr/info-en-continu/20261023-mobilisation-du-24-octobre-ce-qui-est-pr%C3%A9vu"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "time": "trong ngày",
+      "timezone": "giờ Israel",
+      "title": "Tổng tuyển cử Israel",
+      "topic": "Chính trị",
+      "note": "Thăm dò bế tắc: trung bình các hãng chính cho phe ông Gadi Eisenkot 52 ghế, phe ông Netanyahu 51, chưa bên nào gần mức đa số 61; ông Trump vừa công khai ủng hộ ông Netanyahu.",
+      "sources": [
+        {
+          "name": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/10/20/opinion-polls-suggest-stalemate-one-week-before-israeli-election/"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Phà Cát Lái và Bình Khánh (TP HCM) áp giá vé mới",
+      "topic": "Đời sống",
+      "note": "Vé ôtô tăng 11–13%.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hai-ben-pha-lon-nhat-tp-hcm-tang-gia-ve-tu-28-10-5136370.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "time": "10:00",
+      "timezone": "giờ Alberta",
+      "title": "Công bố kết quả chính thức trưng cầu ý dân Alberta (10 câu hỏi, gồm câu về ly khai)",
+      "topic": "Chính trị",
+      "note": "Kết quả không chính thức được đếm trong 48 giờ sau khi đóng phiếu 19/10.",
+      "sources": [
+        {
+          "name": "Elections Alberta",
+          "url": "https://www.elections.ab.ca/current-election-information/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Mỹ bắt đầu nới một phần thuế 50% với hàng Canada",
+      "topic": "Chính trị",
+      "note": "Ván ép, giấy, máy móc, thiết bị làm lạnh được nới; thảm bị áp thuế.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "19:30",
+      "timezone": "giờ VN",
+      "title": "Chelsea – Man Utd; Man City – Brighton (22:00), Ngoại hạng Anh vòng 10",
+      "topic": "Bóng đá",
+      "note": "12:30 và 15:00 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "23:30",
+      "timezone": "giờ VN",
+      "title": "Đại chiến Liverpool – Arsenal tại Anfield, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "16:30 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "nửa đầu tháng 11 (chưa chốt ngày)",
+      "timezone": "giờ Abu Dhabi",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi",
+      "topic": "Chính trị",
+      "note": "Điện Kremlin và ông Zelensky ngày 23/10 cùng xác nhận vòng đàm phán cấp đoàn đàm phán diễn ra trong nửa đầu tháng 11.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
+        },
+        {
+          "name": "TASS",
+          "url": "https://tass.com/politics/2206847"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Bầu cử giữa kỳ Mỹ",
+      "topic": "Chính trị",
+      "note": "Quyết định quyền kiểm soát Quốc hội trong hai năm cuối nhiệm kỳ ông Trump.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bau-cu-giua-ky-co-y-nghia-gi-doi-voi-ong-trump-va-quoc-hoi-my-100261022155231309.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Hà Nội bắt đầu chi trả lương hưu tháng 11 qua tài khoản",
+      "topic": "Đời sống",
+      "note": "Lùi một ngày so với thông lệ mùng 2.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thay-doi-lich-chi-tra-luong-huu-thang-11-2026-100261023103231668.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Villarreal – PSG, Barcelona – Aston Villa",
+      "topic": "Bóng đá",
+      "note": "20:00 GMT ngày 3/11. PSG đang toàn thắng 3 trận, Barcelona 6 điểm.",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/live/c3dxwk1qrw9nt"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "time": "trong ngày",
+      "timezone": "giờ Kenya",
+      "title": "Tuyên án mục sư Paul Mackenzie và 28 bị cáo vụ Shakahola",
+      "topic": "Chính trị",
+      "note": "Đã bị kết tội giết 191 người; báo cáo quản chế nộp tòa ngày 30/10.",
+      "sources": [
+        {
+          "name": "Capital FM",
+          "url": "https://capitalfm.africa/court-convicts-all-29-shakahola-accused-of-murder-sets-sentencing-for-november-6/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Quốc hội chất vấn và trả lời chất vấn (kỳ họp thứ hai khóa XVI)",
+      "topic": "Chính trị",
+      "note": "Dự kiến hai bộ trưởng đăng đàn; kỳ họp dự kiến bế mạc 21/11 (dự phòng 23/11).",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hai-bo-truong-se-tra-loi-chat-van-tai-ky-hop-thu-2-quoc-hoi-khoa-16-5133319.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "time": "18–19/11",
+      "timezone": "giờ Thâm Quyến",
+      "title": "Hội nghị các nhà lãnh đạo kinh tế APEC 2026 tại Thâm Quyến (Trung Quốc)",
+      "topic": "Chính trị",
+      "note": "Ông Trump nói sẵn sàng gặp ba bên với Tập Cận Bình và Putin bên lề; Điện Kremlin nói chưa bàn cụ thể, Trung Quốc nói không có thông tin.",
+      "sources": [
+        {
+          "name": "Chính phủ Trung Quốc",
+          "url": "https://english.www.gov.cn/news/202512/12/content_WS693c1432c6d00ca5f9a080e6.html"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/donald-trump-xi-jinping-vladimir-putin-meeting-apec-summit-6473396"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Thức ăn đường phố, thủ tục sở hữu trí tuệ, vùng phát thải thấp, thẻ văn hóa và Thủ tướng Ba Lan ở Hội An.",
+      "items": [
+        {
+          "headline": "Chính phủ trình Quốc hội: người bán thức ăn đường phố phải lưu nguồn gốc nguyên liệu, báo địa điểm kinh doanh với xã",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Theo quy định Chính phủ trình Quốc hội, người bán thức ăn đường phố phải lưu nguồn gốc nguyên liệu, thông báo địa điểm kinh doanh và cam kết an toàn thực phẩm với chính quyền cấp xã."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chinh-phu-muon-truy-xuat-nguon-goc-nguyen-lieu-thuc-an-duong-pho-5136324.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đề xuất luật hóa việc bỏ 18 thủ tục hành chính về sở hữu trí tuệ, cắt 5 điều kiện kinh doanh",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Mục tiêu là đơn giản hóa việc chuyển nhượng quyền sở hữu công nghiệp và bảo hộ giống cây trồng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5136315.html"
+            }
+          ]
+        },
+        {
+          "headline": "Vùng phát thải thấp phải có lộ trình, tính đến sinh kế người dân",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Chính phủ đề xuất việc thiết lập vùng phát thải thấp phải có lộ trình phù hợp, hạn chế ảnh hưởng đến sản xuất, kinh doanh và đời sống người dân."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/lap-vung-phat-thai-thap-phai-tinh-den-sinh-ke-nguoi-dan-5136304.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đề xuất cấp thẻ văn hóa quốc gia cho học sinh, sinh viên, hộ nghèo, người khuyết tật; đại biểu muốn hỗ trợ đầu tư đặc biệt cho công nghiệp văn hóa",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Thẻ phúc lợi giúp các nhóm này sử dụng sản phẩm, dịch vụ văn hóa. Đại biểu Nguyễn Thị Mai Thoa đề xuất hỗ trợ đầu tư đặc biệt cho các dự án hạ tầng công nghiệp văn hóa lớn để lĩnh vực này đóng góp 7% GDP vào năm 2030."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – thẻ văn hóa",
+              "url": "https://vnexpress.net/de-xuat-cap-the-phuc-loi-de-kich-cau-cong-nghiep-van-hoa-5136358.html"
+            },
+            {
+              "name": "VnExpress – hỗ trợ đầu tư",
+              "url": "https://vnexpress.net/de-xuat-ho-tro-dau-tu-dac-biet-cho-cong-nghiep-van-hoa-5136361.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thủ tướng Ba Lan thăm phố cổ Hội An, đặt hoa tưởng niệm KTS Kazimierz Kwiatkowski",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Kiến trúc sư Kazimierz Kwiatkowski (Kazik) có nhiều đóng góp cho việc bảo tồn di sản Việt Nam."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thu-tuong-ba-lan-tham-quan-pho-co-hoi-an-5136416.html"
+            }
+          ]
+        },
+        {
+          "headline": "Giá thành điện năm 2025 gần 2.093 đồng/kWh, EVN lãi khoảng 111 đồng mỗi kWh",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Giá bán điện bình quân năm 2025 là 2.204,07 đồng/kWh."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/gia-thanh-dien-nam-2025-gan-2-093-dong-mot-kwh-5136347.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Iran – Mỹ ở vùng Vịnh, xả súng gần Paris, ông Kim sang Trung Quốc, Hebron, thuế Canada, Milei và Serbia.",
+      "items": [
+        {
+          "headline": "Iran tuyên bố không để tàu quân sự Mỹ vào vùng Vịnh; hai siêu tàu dầu chở 4,5 triệu thùng trúng thủy lôi ở Hormuz",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Tuyên bố đưa ra giữa lúc nhiều dấu hiệu cho thấy Washington sắp nối lại tấn công. Iran cho biết hai tàu trúng thủy lôi đã nổ, cháy và bị thủy thủ bỏ lại.",
+            "Mỹ cho xuất tối đa 400.000 thùng dầu thô từ kho dự trữ chiến lược để cứu nguồn cung cho một nhà máy lọc dầu ở Louisiana."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – vùng Vịnh",
+              "url": "https://vnexpress.net/iran-tuyen-bo-khong-de-tau-quan-su-my-vao-vung-vinh-5136403.html"
+            },
+            {
+              "name": "VnExpress – Hormuz",
+              "url": "https://vnexpress.net/hai-sieu-tau-dau-trung-thuy-loi-bi-bo-lai-o-hormuz-5136336.html"
+            },
+            {
+              "name": "VnExpress – kho dự trữ",
+              "url": "https://vnexpress.net/my-xa-khan-cap-kho-du-tru-chien-luoc-de-giai-cuu-nha-may-loc-dau-5136402.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Macron gọi vụ xả súng ở ngoại ô Paris là “tấn công khủng bố phân biệt chủng tộc”: 1 người chết, 5 bị thương",
+          "meta": "23–24/10 · BBC",
+          "body": [
+            "Nghi phạm đã bị bắt. Ông Macron gọi đây là “bước ngoặt trong đời sống nền Cộng hòa”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Kim Jong-un được cho là sang Trung Quốc qua cây cầu đường bộ mới khánh thành tới Đan Đông",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Thông tin cho thấy lãnh đạo Triều Tiên đi qua cầu mới nối sang thành phố Đan Đông."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-kim-jong-un-sang-trung-quoc-bang-cau-moi-khanh-thanh-5136390.html"
+            }
+          ]
+        },
+        {
+          "headline": "Israel bắt đầu phá dỡ nhà của người Palestine ở Hebron sau khi 2 binh sĩ bị bắn chết",
+          "meta": "23–24/10 · BBC",
+          "body": [
+            "Hai tay súng Palestine tấn công trạm kiểm soát ngoài thành phố; ông Netanyahu nói quân đội sẽ “phá hủy” khu phố của những kẻ tấn công."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko"
+            }
+          ]
+        },
+        {
+          "headline": "Nhà Trắng gỡ một phần thuế 50% với hàng Canada từ 30/10, hai tuần trước bầu cử giữa kỳ",
+          "meta": "24/10 · BBC",
+          "body": [
+            "Các mặt hàng được nới gồm ván ép, một số sản phẩm giấy, máy móc và thiết bị làm lạnh; một số mặt hàng khác như thảm lại bị áp thuế."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o"
+            }
+          ]
+        },
+        {
+          "headline": "Argentina hủy điều tra Tổng thống Milei và em gái trong bê bối tiền mã hóa",
+          "meta": "23–24/10 · BBC",
+          "body": [
+            "Thẩm phán liên bang Marcelo Martínez de Giorgi bác vụ án theo đề nghị của công tố viên. Ông Milei luôn phủ nhận gian lận."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo"
+            }
+          ]
+        },
+        {
+          "headline": "Serbia trước bầu cử Chủ nhật: “Danh sách Sinh viên” từ phong trào chống tham nhũng thành thách thức lớn nhất với ông Vučić",
+          "meta": "24/10 · BBC",
+          "body": [
+            "Phong trào nổi lên sau gần hai năm biểu tình chống tham nhũng; cuộc đua được mô tả là sát nút."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Du khách cứu người ở Đà Lạt, phà TP HCM tăng giá, nhà cổ Hội An dột nát, di dân ở Cà Mau.",
+      "items": [
+        {
+          "headline": "Du khách Mỹ bơi ra cứu người phụ nữ chới với dưới hồ Tuyền Lâm, Đà Lạt",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Ông Laszlo thấy nạn nhân gặp nạn liền bơi ra đưa vào bờ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/du-khach-my-cuu-nguoi-phu-nu-duoi-ho-tuyen-lam-5136400.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hai bến phà lớn nhất TP HCM (Cát Lái, Bình Khánh) tăng giá vé từ 28/10, vé ôtô tăng 11–13%",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Nguyên nhân là chi phí nhiên liệu tăng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hai-ben-pha-lon-nhat-tp-hcm-tang-gia-ve-tu-28-10-5136370.html"
+            }
+          ]
+        },
+        {
+          "headline": "Sống khổ trong nhà cổ Hội An: mùa mưa bão bưng thau hứng dột dưới những nếp nhà mục",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Nhiều gia đình ở di sản thế giới phải túc trực suốt mùa mưa."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/song-kho-trong-nha-co-hoi-an-5135231.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cà Mau cần 884 tỷ đồng di dời hơn 3.200 hộ khỏi vùng thiên tai giai đoạn 2026–2030",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Các hộ dân ở vùng thiên tai, rừng đặc dụng và rừng phòng hộ sẽ được bố trí lại, gắn với sinh kế lâu dài."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ca-mau-can-884-ty-dong-di-doi-hon-3-200-ho-dan-vung-thien-tai-5136173.html"
+            }
+          ]
+        },
+        {
+          "headline": "Rác tồn đọng 2–3 ngày trong khu dân cư ở Đà Nẵng vì thiếu nhân công, xe chuyên dụng cỡ nhỏ",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Rác sinh hoạt ở một số khu dân cư chưa được thu gom kịp."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/rac-ton-dong-2-3-ngay-trong-khu-dan-cu-o-da-nang-5136212.html"
+            }
+          ]
+        },
+        {
+          "headline": "Vietnam Airlines mở đường bay thẳng Đà Nẵng – Singapore từ 17/11, mỗi ngày một chuyến",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Hãng dùng tàu bay Airbus A321."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/vietnam-airlines-mo-duong-bay-thang-da-nang-singapore-5136203.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cháy nổ dữ dội tại xưởng băng keo ở Ninh Bình, người dân tháo chạy",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Vụ cháy xảy ra ở xóm Đồng Hóa, phường Lê Hồ, kèm nhiều tiếng nổ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chay-no-tai-xuong-bang-keo-o-ninh-binh-5136420.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Ryu Murakami qua đời, Ebola ở Kenya, dầu tràn UAE, bão Champi và nắng nóng châu Âu.",
+      "items": [
+        {
+          "headline": "Nhà văn Ryu Murakami qua đời ở tuổi 74",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Ông được xem là một trong hai trụ cột của văn học Nhật Bản đương đại, cùng Haruki Murakami."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nha-van-ryu-murakami-qua-doi-5136395.html"
+            }
+          ]
+        },
+        {
+          "headline": "Kenya ghi nhận ca tử vong thứ hai vì Ebola trong đợt bùng phát đầu tiên; 7 người mất tích sau vụ sập nhà cao tầng ở Nairobi",
+          "meta": "24/10 · BBC",
+          "body": [
+            "Nạn nhân Ebola là phụ nữ 65 tuổi, người thân của ca đầu tiên (một người đàn ông đến từ CHDC Congo). Ở Nairobi, tòa nhà khoảng 16–18 tầng đang xây thì đổ sập."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC – Ebola",
+              "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo"
+            },
+            {
+              "name": "BBC – sập nhà",
+              "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o"
+            }
+          ]
+        },
+        {
+          "headline": "Dầu tràn từ tàu chở dầu bị tấn công gần Hormuz dạt vào bờ biển UAE, một số bãi biển phải đóng cửa",
+          "meta": "23/10 · BBC Verify",
+          "body": [
+            "Ảnh vệ tinh cho thấy dầu loang hàng dặm dọc bờ biển, đe dọa sinh vật biển."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o"
+            }
+          ]
+        },
+        {
+          "headline": "Bão Champi không đổ bộ nhưng gió giật 227 km/h, sóng quật đổ xe cẩu ở Đài Loan",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Một người thiệt mạng, hàng trăm người bị thương."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/song-cao-quat-do-xe-cau-khi-bao-champi-hoanh-hanh-ngoai-khoi-dai-loan-5136398.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hơn 50.000 người ở châu Âu tử vong vì nắng nóng kỷ lục năm nay",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Mùa hè nóng chưa từng thấy khiến số ca tử vong do nhiệt tăng vọt ở nhiều nước."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hon-50-000-nguoi-o-chau-au-tu-vong-vi-nang-nong-ky-luc-nam-nay-5135997.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nghị sĩ Úc Helen Haines qua cơn nguy kịch sau vụ bị ôtô tông được cho là cố ý",
+          "meta": "24/10 · BBC",
+          "body": [
+            "Bà Haines, 65 tuổi, đã bị cắt cụt cả hai chân; hiện tình trạng nghiêm trọng nhưng ổn định."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vắn công nghệ",
+      "tags": [
+        "ai"
+      ],
+      "intro": "Một tin ngắn.",
+      "items": [
+        {
+          "headline": "Lỗ hổng PHP: giới bảo mật thức trắng 48 giờ vá lỗi; tổ chức hỗ trợ PHP thiếu người trầm trọng",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "PHP là nền tảng của khoảng 70% website toàn cầu."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – 48 giờ",
+              "url": "https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html"
+            },
+            {
+              "name": "VnExpress – tổ chức PHP",
+              "url": "https://vnexpress.net/tinh-canh-giam-doc-kiem-nhan-vien-tai-to-chuc-php-5136317.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Cháy “Tổ Đại bàng”, livestream cún con, máy gắp thú thời lạm phát — cùng Ngày Liên hợp quốc và cú vượt thác Niagara năm 1901.",
+      "items": [
+        {
+          "headline": "Cháy “Tổ Đại bàng” — nơi nghỉ trên núi của Hitler ở Bavaria; cảnh sát bắt một nghi phạm",
+          "meta": "24/10 · BBC",
+          "body": [
+            "Khoảng 200 lính cứu hỏa được huy động tới Kehlsteinhaus; báo cháy nhận lúc 21:15 tối thứ Sáu giờ địa phương."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo"
+            }
+          ]
+        },
+        {
+          "headline": "“Puppy Live”: truyền hình Phần Lan phát trực tiếp 24/7 một lứa cún mới sinh, không quảng cáo — và khán giả mê mẩn",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Người xem nói chương trình giúp họ giải tỏa căng thẳng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/livestream-cun-con-gay-sot-tren-truyen-hinh-phan-lan-5136320.html"
+            }
+          ]
+        },
+        {
+          "headline": "Máy gắp thú ở Nhật tăng gấp đôi trong 10 năm nhờ lạm phát — giờ người ta gắp cả nhu yếu phẩm",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Thị trường dịch chuyển từ gắp đồ chơi sang gắp hàng thiết yếu."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/kinh-doanh-may-gap-thu-no-ro-o-nhat-nho-lam-phat-5136089.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đám cưới “vàng, bạc” chung cho 12 anh chị em ruột ở Lạng Sơn",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Hơn 100 con cháu về nhà thờ tổ ở thôn Tân Na, xã Vân Nham mừng 30–60 năm ngày cưới cho 12 anh chị em ông Bùi Bá Ngọc."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dam-cuoi-vang-bac-cua-12-anh-em-ruot-o-lang-son-5136126.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đồn Rạch Cát hình cánh cung, 116 tuổi, từng được xem là pháo đài lớn nhất Đông Dương",
+          "meta": "24/10 · VnExpress",
+          "body": [
+            "Pháo đài rộng 15.000 m² do người Pháp xây, chưa mở cửa tham quan tự do."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/phao-dai-hinh-canh-cung-hon-100-tuoi-o-mien-tay-5135316.html"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 24/10/1945 — Hiến chương Liên hợp quốc có hiệu lực, nay là Ngày Liên hợp quốc",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Hiến chương có hiệu lực sau khi được 5 thành viên thường trực Hội đồng Bảo an và đa số các nước ký phê chuẩn."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – United Nations Day",
+              "url": "https://en.wikipedia.org/wiki/United_Nations_Day"
+            },
+            {
+              "name": "Wikipedia – 24 tháng 10",
+              "url": "https://en.wikipedia.org/wiki/October_24"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 24/10/1901 — Annie Edson Taylor thành người đầu tiên vượt thác Niagara trong một chiếc thùng gỗ và sống sót, đúng sinh nhật 63 tuổi",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Bà là một giáo viên, thực hiện cú mạo hiểm để kiếm tiền và danh tiếng."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Annie_Edson_Taylor"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 24/10/2026 (giờ VN). Không lặp tin số sáng (đàm phán Abu Dhabi, cảnh báo Mỹ đánh Iran cuối tuần, Pháp huy động 70.000 cảnh sát, xả súng ở Jordan…), trừ cập nhật mới trong ngày. Mọi con số, trích dẫn và fact lấy từ nguồn ghi kèm."
+}
