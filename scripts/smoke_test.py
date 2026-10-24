@@ -177,7 +177,10 @@ def main() -> int:
                 page.wait_for_function(
                     "() => new URLSearchParams(location.search).get('page') === '2'"
                 )
-                expected_p2 = len(archive_dates) - archive_page_size
+                expected_p2 = min(
+                    archive_page_size,
+                    len(archive_dates) - archive_page_size,
+                )
                 if page.locator("#archive-list li").count() != expected_p2:
                     errors.append(
                         f"archive: page 2 expected {expected_p2} issues"
@@ -212,7 +215,10 @@ def main() -> int:
                     "() => new URLSearchParams(location.search).get('type') === 'chieu'"
                     " && new URLSearchParams(location.search).get('page') === '2'"
                 )
-                expected_chieu_p2 = len(chieu_dates) - archive_page_size
+                expected_chieu_p2 = min(
+                    archive_page_size,
+                    len(chieu_dates) - archive_page_size,
+                )
                 if page.locator("#archive-list li").count() != expected_chieu_p2:
                     errors.append(
                         f"archive: chieu page 2 expected {expected_chieu_p2} issues"
