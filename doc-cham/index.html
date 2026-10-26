@@ -1,77 +1,23 @@
 <!DOCTYPE html>
-<html lang="vi" data-base="" data-asset-version="e002eee5fa">
+<html lang="vi">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Đọc chậm — thư viện bài dài về đời sống, Daily News">
-  <title>Đọc chậm — Daily News</title>
-  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="../css/reader.css?v=e002eee5fa">
+  <meta http-equiv="refresh" content="0;url=../slow-reads/">
+  <link rel="canonical" href="../slow-reads/">
+  <title>Redirecting to Slow Reads…</title>
   <script>
     (function () {
-      var t = localStorage.getItem("dailynews-theme");
-      if (t === "dark" || (t !== "light" && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
-        document.documentElement.dataset.theme = "dark";
-      }
+      var base = "../slow-reads/";
       var p = location.pathname;
       if (p.indexOf("/DailyNews") !== -1) {
-        document.documentElement.dataset.base = p.slice(0, p.indexOf("/DailyNews") + "/DailyNews".length + 1);
+        base = p.slice(0, p.indexOf("/DailyNews") + "/DailyNews".length) + "/slow-reads/";
       }
+      location.replace(base + location.search + location.hash);
     })();
   </script>
 </head>
-<body data-page="doc-cham">
-  <header class="site-bar">
-    <div class="site-bar-inner">
-      <div class="brand-cluster">
-        <a class="brand" href="../index.html">Daily News</a><span class="brand-sep" aria-hidden="true"> / </span><a class="brand-doc" href="./" aria-current="page">Đọc chậm</a>
-      </div>
-      <div class="site-bar-tools" aria-label="Công cụ">
-        <button type="button" id="btn-theme" class="theme-toggle" aria-label="Đổi giao diện sáng/tối" aria-pressed="false">
-          <svg class="theme-toggle-glyph theme-toggle-glyph--sun" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.75"/><path d="M12 4v2M12 18v2M4 12h2M18 12h2M6.3 6.3l1.4 1.4M16.3 16.3l1.4 1.4M6.3 17.7l1.4-1.4M16.3 7.7l1.4-1.4" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>
-          <svg class="theme-toggle-glyph theme-toggle-glyph--moon" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M18 14.8A6.8 6.8 0 0 1 9.2 5.2 7.2 7.2 0 1 0 18 14.8Z" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linejoin="round"/></svg>
-          <span class="theme-toggle-track" aria-hidden="true"><span class="theme-toggle-thumb"></span></span>
-        </button>
-        <button type="button" id="btn-more" class="icon-btn" aria-label="Menu thêm" aria-expanded="false" aria-controls="more-menu">
-          <svg class="toolbar-icon" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 7h14M5 12h14M5 17h14" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>
-        </button>
-      </div>
-      <nav class="site-nav-desktop" aria-label="Điều hướng">
-        <a href="../archive.html">Kho số cũ</a>
-        <a href="./" aria-current="page">Đọc chậm</a>
-      </nav>
-      <div id="more-menu" class="more-menu" hidden>
-        <div class="more-menu-backdrop" tabindex="-1" aria-hidden="true"></div>
-        <div class="more-menu-sheet" role="dialog" aria-label="Menu">
-          <a class="more-menu-archive" href="../index.html">Mở số mới nhất</a>
-          <a class="more-menu-archive" href="../archive.html">Kho số cũ</a>
-        </div>
-      </div>
-    </div>
-  </header>
-
-  <main class="paper-sheet doc-cham-page">
-    <header class="masthead">
-      <h1>Đọc chậm</h1>
-      <div class="date-line">Thư viện bài dài</div>
-      <div class="tagline">Bài viết dài về đời sống — độc lập với số báo hàng ngày.</div>
-    </header>
-
-    <form class="doc-cham-search-form" id="doc-cham-search-form" role="search">
-      <label class="visually-hidden" for="doc-cham-search">Tìm trong Đọc chậm</label>
-      <input type="search" id="doc-cham-search" name="q" placeholder="Tìm tiêu đề, tác giả, chủ đề…" autocomplete="off" enterkeyhint="search">
-      <button type="submit" class="search-submit" aria-label="Tìm">⌕</button>
-    </form>
-
-    <div id="doc-cham-filters" class="archive-filters"></div>
-    <p id="doc-cham-status" class="doc-cham-status" aria-live="polite"></p>
-    <p id="doc-cham-empty" class="archive-empty" hidden></p>
-    <div id="doc-cham-list" class="doc-cham-list" aria-label="Danh sách bài Đọc chậm"></div>
-  </main>
-
-  <script src="../js/doc-cham.js?v=e002eee5fa"></script>
+<body>
+  <p><a href="../slow-reads/">Slow Reads</a></p>
 </body>
 </html>

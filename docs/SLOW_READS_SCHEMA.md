@@ -1,20 +1,20 @@
-# Đọc chậm article schema
+# Slow Reads article schema
 
-Long-form life essays live under `doc-cham/`, independent of daily issues. The list page is `doc-cham/index.html`; a single article is `doc-cham/article.html?id=<slug>`.
+Long-form life essays live under `slow-reads/`, independent of daily issues. The list page is `slow-reads/index.html`; a single article is `slow-reads/article.html?id=<slug>`.
 
 ## Add an article (bot / human)
 
-1. Create `doc-cham/articles/<id>.json` (filename stem **must** equal the `id` field).
+1. Create `slow-reads/articles/<id>.json` (filename stem **must** equal the `id` field).
 2. Run:
    ```bash
-   python3 scripts/add_doc_cham.py
+   python3 scripts/add_slow_read.py
    ```
-   This rebuilds `doc-cham/articles/index.json` (list metadata only — full text stays in each article file).
-3. Commit `doc-cham/articles/<id>.json` and `doc-cham/articles/index.json`, then push `main`.
+   This rebuilds `slow-reads/articles/index.json` (list metadata only — full text stays in each article file).
+3. Commit `slow-reads/articles/<id>.json` and `slow-reads/articles/index.json`, then push `main`.
 
 Do **not** edit `index.json` by hand; the script is the source of truth for the list.
 
-## Article file (`doc-cham/articles/<id>.json`)
+## Article file (`slow-reads/articles/<id>.json`)
 
 | Field | Required | Description |
 | --- | --- | --- |
@@ -79,9 +79,9 @@ Default chip set on the list page (always offered for filtering):
 
 Any other string in an article’s `topics` is included in the filter chips as well (script appends extras after the canonical list). Prefer the defaults when they fit.
 
-## Index file (`doc-cham/articles/index.json`)
+## Index file (`slow-reads/articles/index.json`)
 
-Produced only by `scripts/add_doc_cham.py`:
+Produced only by `scripts/add_slow_read.py`:
 
 ```json
 {
@@ -109,4 +109,4 @@ Articles are sorted newest `added` first (then `id`). Full `body` is **not** cop
 
 ## Relation to daily issues
 
-Issue `content.json` may still contain a **Đọc chậm** section for that day’s paper. The library under `doc-cham/` is separate: migrating into the library does not require changing issue files.
+The Slow Reads library under `slow-reads/` is separate from daily issue `content.json` files. Legacy URLs under `/doc-cham/` redirect to `/slow-reads/`.

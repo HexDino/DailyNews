@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Rebuild doc-cham/articles/index.json from per-article JSON files.
+"""Rebuild slow-reads/articles/index.json from per-article JSON files.
 
-Drop a new article as doc-cham/articles/<id>.json (see docs/DOC_CHAM_SCHEMA.md),
+Drop a new article as slow-reads/articles/<id>.json (see docs/SLOW_READS_SCHEMA.md),
 then run:
 
-    python3 scripts/add_doc_cham.py
+    python3 scripts/add_slow_read.py
 """
 from __future__ import annotations
 
@@ -13,7 +13,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-ARTICLES_DIR = ROOT / "doc-cham" / "articles"
+ARTICLES_DIR = ROOT / "slow-reads" / "articles"
 INDEX_PATH = ARTICLES_DIR / "index.json"
 
 # Canonical topic order for chips; extras from files are appended alphabetically.

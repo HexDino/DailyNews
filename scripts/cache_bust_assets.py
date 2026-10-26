@@ -15,7 +15,7 @@ CSS_LINK = re.compile(
     re.I,
 )
 JS_SCRIPT = re.compile(
-    r'(<script\b[^>]*\bsrc="(?:\.\./)?js/(?:reader|doc-cham)\.js)(?:\?[^"]*)?(")',
+    r'(<script\b[^>]*\bsrc="(?:\.\./)?js/(?:reader|slow-reads)\.js)(?:\?[^"]*)?(")',
     re.I,
 )
 HTML_OPEN = re.compile(r"(<html\b)([^>]*)(>)", re.I)
@@ -36,7 +36,9 @@ def bust_html(path: Path) -> None:
 
 
 def main() -> int:
-    html_files = sorted(ROOT.glob("*.html")) + sorted((ROOT / "doc-cham").glob("*.html"))
+    html_files = sorted(ROOT.glob("*.html")) + sorted(
+        (ROOT / "slow-reads").glob("*.html")
+    )
     for path in html_files:
         bust_html(path)
     print(

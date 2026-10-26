@@ -1459,15 +1459,10 @@
 
   const ARCHIVE_TYPE_CHIEU = "chieu";
   const ARCHIVE_TYPE_SANG = "sang";
-  const ARCHIVE_TYPE_DOC_CHAM = "doc-cham";
 
   function parseArchiveTypeParam() {
     const t = new URLSearchParams(location.search).get("type");
-    if (
-      t === ARCHIVE_TYPE_SANG ||
-      t === ARCHIVE_TYPE_CHIEU ||
-      t === ARCHIVE_TYPE_DOC_CHAM
-    ) {
+    if (t === ARCHIVE_TYPE_SANG || t === ARCHIVE_TYPE_CHIEU) {
       return t;
     }
     return null;
@@ -1510,14 +1505,12 @@
     const ids = index.issues.map((i) => i.date);
     if (!type) return ids.sort().reverse();
     const filtered = ids.filter((id) => {
-      const row = meta.get(id) || {};
       if (type === ARCHIVE_TYPE_CHIEU) {
         return archiveEditionOf(id, meta) === ARCHIVE_TYPE_CHIEU;
       }
       if (type === ARCHIVE_TYPE_SANG) {
         return archiveEditionOf(id, meta) === ARCHIVE_TYPE_SANG;
       }
-      if (type === ARCHIVE_TYPE_DOC_CHAM) return Boolean(row.has_doc_cham);
       return true;
     });
     return filtered.sort().reverse();
@@ -1532,9 +1525,6 @@
     parts.push(
       `<span class="badge badge-edition">${edition === ARCHIVE_TYPE_CHIEU ? "Chiều" : "Sáng"}</span>`
     );
-    if (meta.get(issueId)?.has_doc_cham) {
-      parts.push('<span class="badge badge-doc-cham">Đọc chậm</span>');
-    }
     if (!parts.length) return "";
     return `<span class="archive-row-badges">${parts.join("")}</span>`;
   }
@@ -1598,7 +1588,6 @@
       { id: null, label: "Tất cả" },
       { id: ARCHIVE_TYPE_SANG, label: "Buổi sáng" },
       { id: ARCHIVE_TYPE_CHIEU, label: "Buổi chiều" },
-      { id: ARCHIVE_TYPE_DOC_CHAM, label: "Đọc chậm" },
     ];
     wrap.innerHTML = `<div class="tag-chips-scroll"><div class="tag-chips archive-type-chips" role="list">${chips
       .map(
@@ -1662,32 +1651,21 @@
         window.scrollTo({ top: 0, behavior: "smooth" });
       });
 
-      const docChamEmpty =
-        archiveType === ARCHIVE_TYPE_DOC_CHAM && dates.length === 0;
       if (emptyEl) {
-        if (docChamEmpty) {
-          emptyEl.hidden = false;
-          emptyEl.textContent = "Chưa có số nào có mục Đọc chậm.";
-        } else {
-          emptyEl.hidden = true;
-          emptyEl.textContent = "";
-        }
+        emptyEl.hidden = true;
+        emptyEl.textContent = "";
       }
 
-      if (docChamEmpty) {
-        listEl.innerHTML = "";
-      } else {
-        const start = (currentPage - 1) * ARCHIVE_PAGE_SIZE;
-        const slice = dates.slice(start, start + ARCHIVE_PAGE_SIZE);
-        listEl.innerHTML = slice
-          .map(
-            (d) =>
-              `<li>${archiveRowBadges(d, index, meta, currentPage)}<a class="issue-link" href="${asset(`index.html?date=${d}`)}">${escapeHtml(issueListLabel(d, index))}</a>
+      const start = (currentPage - 1) * ARCHIVE_PAGE_SIZE;
+      const slice = dates.slice(start, start + ARCHIVE_PAGE_SIZE);
+      listEl.innerHTML = slice
+        .map(
+          (d) =>
+            `<li>${archiveRowBadges(d, index, meta, currentPage)}<a class="issue-link" href="${asset(`index.html?date=${d}`)}">${escapeHtml(issueListLabel(d, index))}</a>
           <button type="button" class="archive-fav" data-date="${d}" aria-label="Lưu số báo">☆</button></li>`
-          )
-          .join("");
-        bindArchiveFavButtons();
-      }
+        )
+        .join("");
+      bindArchiveFavButtons();
 
       const nav = renderArchivePaginationNav(currentPage, totalPages);
       const existingNav = document.getElementById("archive-pagination");

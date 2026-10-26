@@ -119,44 +119,35 @@ a.source-link {
   max-width: 100%;
 }
 
-.site-bar .brand,
-.site-bar .brand-doc {
+.site-bar .brand {
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
   font-size: 0.8rem;
   text-decoration: none;
   color: inherit;
-}
-
-.site-bar .brand {
-  margin-right: 0;
+  white-space: nowrap;
+  margin: 0;
 }
 
 .site-bar .brand-sep {
-  font-weight: 400;
+  font-weight: 700;
   letter-spacing: 0;
   text-transform: none;
   font-size: 0.8rem;
-  opacity: 0.7;
+  opacity: 0.55;
   flex-shrink: 0;
+  padding: 0 0.55em;
+  user-select: none;
 }
 
-.site-bar .brand-doc {
-  font-weight: 600;
-  letter-spacing: 0.02em;
-  text-transform: none;
-  white-space: nowrap;
-}
-
-.site-bar .brand:hover,
-.site-bar .brand-doc:hover {
+.site-bar .brand:hover {
   text-decoration: underline;
 }
 
-.site-bar .brand-doc[aria-current="page"] {
-  border-bottom: 1px solid var(--ink);
-  text-decoration: none;
+.site-bar .brand[aria-current="page"] {
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
 }
 
 .site-bar nav,
@@ -395,13 +386,6 @@ button.fav-on {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
-  mask-image: linear-gradient(
-    to right,
-    transparent 0,
-    #000 12px,
-    #000 calc(100% - 12px),
-    transparent 100%
-  );
 }
 
 .tag-chips-scroll::-webkit-scrollbar {
@@ -438,6 +422,9 @@ button.fav-on {
   background: var(--chip-active);
   color: var(--chip-active-fg);
   border-color: var(--chip-active);
+  box-shadow: none;
+  filter: none;
+  opacity: 1;
 }
 
 .paper-sheet {
@@ -1203,16 +1190,17 @@ html[data-theme="dark"] button.fav-on {
   }
 
   .site-bar .brand,
-  .site-bar .brand-doc,
   .site-bar .brand-sep {
     font-size: 0.72rem;
   }
 
-  .site-bar .brand {
-    margin-right: 0;
+  .site-bar .brand-sep {
+    padding: 0 0.4em;
+  }
+
+  .brand-cluster .brand:first-child {
     overflow: hidden;
     text-overflow: ellipsis;
-    white-space: nowrap;
     min-width: 0;
   }
 
@@ -1851,7 +1839,7 @@ body.calendar-sheet-open {
   }
 }
 
-/* Đọc chậm library */
+/* Slow Reads library */
 .doc-cham-page {
   max-width: 44rem;
 }

@@ -28,7 +28,7 @@
     const p = path.replace(/^\//, "");
     let url = basePath + p;
     const v = assetVersion();
-    if (v && (p === "doc-cham/articles/index.json" || p.startsWith("doc-cham/articles/"))) {
+    if (v && (p === "slow-reads/articles/index.json" || p.startsWith("slow-reads/articles/"))) {
       url += (url.includes("?") ? "&" : "?") + "v=" + encodeURIComponent(v);
     }
     return url;
@@ -136,7 +136,7 @@
   }
 
   function articleHref(id) {
-    return asset(`doc-cham/article.html?id=${encodeURIComponent(id)}`);
+    return asset(`slow-reads/article.html?id=${encodeURIComponent(id)}`);
   }
 
   function filterArticles(articles, topic, q) {
@@ -188,7 +188,7 @@
       nav = document.createElement("nav");
       nav.id = "doc-cham-pagination";
       nav.className = "archive-pagination";
-      nav.setAttribute("aria-label", "Phân trang Đọc chậm");
+      nav.setAttribute("aria-label", "Phân trang Slow Reads");
     }
     if (totalPages <= 1) {
       nav.hidden = true;
@@ -241,8 +241,8 @@
     const searchInput = document.getElementById("doc-cham-search");
     if (!listEl) return;
 
-    const res = await fetch(asset("doc-cham/articles/index.json"), { cache: "no-cache" });
-    if (!res.ok) throw new Error("Không tải được danh mục Đọc chậm");
+    const res = await fetch(asset("slow-reads/articles/index.json"), { cache: "no-cache" });
+    if (!res.ok) throw new Error("Không tải được danh mục Slow Reads");
     const index = await res.json();
     const articles = index.articles || [];
     const topicSet = new Set([...(index.topics || []), ...DEFAULT_TOPICS]);
@@ -281,7 +281,7 @@
           ? ""
           : q || topic
             ? "Không có bài nào khớp bộ lọc hoặc tìm kiếm."
-            : "Thư viện Đọc chậm chưa có bài.";
+            : "Thư viện Slow Reads chưa có bài.";
       }
 
       const start = (page - 1) * PAGE_SIZE;
@@ -294,8 +294,8 @@
       else listEl.insertAdjacentElement("afterend", nav);
     }
 
-    if (!document.body.dataset.docChamBound) {
-      document.body.dataset.docChamBound = "1";
+    if (!document.body.dataset.slowReadsBound) {
+      document.body.dataset.slowReadsBound = "1";
       document.body.addEventListener("click", (e) => {
         const link = e.target.closest("#doc-cham-pagination [data-page]");
         if (!link || link.classList.contains("is-disabled")) return;
@@ -345,7 +345,7 @@
   async function initArticle() {
     initThemeToggle();
     initMobileChrome();
-    const root = document.getElementById("doc-cham-article");
+    const root = document.getElementById("slow-reads-article");
     const status = document.getElementById("status");
     if (!root) return;
     const id = new URLSearchParams(location.search).get("id") || "";
@@ -357,13 +357,13 @@
       return;
     }
     try {
-      const res = await fetch(asset(`doc-cham/articles/${encodeURIComponent(id)}.json`), {
+      const res = await fetch(asset(`slow-reads/articles/${encodeURIComponent(id)}.json`), {
         cache: "no-cache",
       });
       if (!res.ok) throw new Error("Không tìm thấy bài này.");
       const a = await res.json();
       if (status) status.hidden = true;
-      document.title = `${a.title} — Đọc chậm — Daily News`;
+      document.title = `${a.title} — Slow Reads — Daily News`;
       const translated = a.lang && a.lang !== "vi";
       const topics = (a.topics || [])
         .map((t) => `<span class="ui-chip ui-chip--plain">${escapeHtml(t)}</span>`)
@@ -372,7 +372,7 @@
         ? `<a class="source-link" href="${escapeHtml(a.source_url)}" rel="noopener noreferrer" target="_blank">${escapeHtml(a.source || a.source_url)}</a>`
         : escapeHtml(a.source || "");
       root.innerHTML = `
-        <p class="doc-cham-back"><a href="${escapeHtml(asset("doc-cham/"))}">← Thư viện Đọc chậm</a></p>
+        <p class="doc-cham-back"><a href="${escapeHtml(asset("slow-reads/"))}">← Thư viện Slow Reads</a></p>
         <header class="doc-cham-article-head">
           <h1>${escapeHtml(a.title)}</h1>
           ${a.title_original ? `<p class="doc-cham-title-original">${escapeHtml(a.title_original)}</p>` : ""}
@@ -381,7 +381,7 @@
           ${topics ? `<div class="doc-cham-card-topics">${topics}</div>` : ""}
         </header>
         <div class="doc-cham-prose">${renderBody(a.body)}</div>
-        <p class="doc-cham-back doc-cham-back-bottom"><a href="${escapeHtml(asset("doc-cham/"))}">← Thư viện Đọc chậm</a></p>
+        <p class="doc-cham-back doc-cham-back-bottom"><a href="${escapeHtml(asset("slow-reads/"))}">← Thư viện Slow Reads</a></p>
       `;
     } catch (e) {
       if (status) {
@@ -392,7 +392,7 @@
     }
   }
 
-  if (document.body.dataset.page === "doc-cham") {
+  if (document.body.dataset.page === "slow-reads") {
     initList().catch((e) => {
       const status = document.getElementById("doc-cham-status");
       if (status) {
@@ -401,7 +401,7 @@
       }
     });
   }
-  if (document.body.dataset.page === "doc-cham-article") {
+  if (document.body.dataset.page === "slow-reads-article") {
     initArticle();
   }
 })();

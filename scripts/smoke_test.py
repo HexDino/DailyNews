@@ -85,8 +85,6 @@ def archive_filter_dates(index: dict, type_param: str | None) -> list[str]:
         filtered = [i for i in ids if edition_of(i) == "chieu"]
     elif type_param == "sang":
         filtered = [i for i in ids if edition_of(i) == "sang"]
-    elif type_param == "doc-cham":
-        filtered = [i for i in ids if meta.get(i, {}).get("has_doc_cham")]
     else:
         filtered = ids
     return sorted(filtered, reverse=True)
@@ -154,8 +152,8 @@ def main() -> int:
             page.wait_for_selector("#archive-list li", timeout=30000)
             if page.locator(".archive-read-progress").count():
                 errors.append("archive: read progress UI should be removed")
-            if page.locator(".archive-type-chips button").count() != 4:
-                errors.append("archive: expected four type filter chips")
+            if page.locator(".archive-type-chips button").count() != 3:
+                errors.append("archive: expected three type filter chips")
             if page.locator("#archive-list li .badge-edition").count() != page.locator(
                 "#archive-list li"
             ).count():
@@ -223,20 +221,8 @@ def main() -> int:
                     errors.append(
                         f"archive: chieu page 2 expected {expected_chieu_p2} issues"
                     )
-            page.locator('[data-archive-type="doc-cham"]').click()
-            page.wait_for_function(
-                "() => new URLSearchParams(location.search).get('type') === 'doc-cham'"
-            )
-            doc_cham_dates = archive_filter_dates(index, "doc-cham")
-            if not doc_cham_dates:
-                if page.locator("#archive-empty:not([hidden])").count() != 1:
-                    errors.append("archive: doc-cham empty state should be visible")
-                elif "Đọc chậm" not in page.locator("#archive-empty").inner_text():
-                    errors.append("archive: doc-cham empty message missing")
-            elif page.locator("#archive-list li").count() != min(
-                archive_page_size, len(doc_cham_dates)
-            ):
-                errors.append("archive: doc-cham filter page size mismatch")
+            if page.locator('[data-archive-type="doc-cham"]').count():
+                errors.append("archive: Đọc chậm filter chip should be removed")
             page.goto(f"{BASE_URL}archive.html?type=sang&page=999", wait_until="domcontentloaded")
             page.wait_for_selector("#archive-list li", timeout=30000)
             sang_dates = archive_filter_dates(index, "sang")
@@ -305,9 +291,20 @@ def main() -> int:
                         errors.append(
                             f"smoke {w}px {theme}: header #btn-calendar should be removed"
                         )
-                    if page.locator(".brand-doc").count() == 0:
+                    brand_links = page.locator(".brand-cluster a.brand")
+                    if brand_links.count() < 2:
                         errors.append(
-                            f"smoke {w}px {theme}: missing Đọc chậm brand link"
+                            f"smoke {w}px {theme}: missing Daily News / Slow Reads brand links"
+                        )
+                    elif "slow reads" not in (
+                        brand_links.nth(1).text_content() or ""
+                    ).lower():
+                        errors.append(
+                            f"smoke {w}px {theme}: second brand link should be Slow Reads"
+                        )
+                    if page.locator('.site-nav-desktop a[href*="slow-reads"]').count():
+                        errors.append(
+                            f"smoke {w}px {theme}: Slow Reads should not duplicate in right nav"
                         )
                     errors.extend(
                         exercise_calendar_with_retry(page, w, theme, "smoke")
@@ -360,9 +357,9 @@ def main() -> int:
                             )
                         ctx.close()
 
-            # Đọc chậm library
+            # Slow Reads library
             doc_index = json.loads(
-                (ROOT / "doc-cham/articles/index.json").read_text(encoding="utf-8")
+                (ROOT / "slow-reads/articles/index.json").read_text(encoding="utf-8")
             )
             doc_articles = doc_index.get("articles") or []
             ctx = browser.new_context(viewport={"width": 390, "height": 844})
@@ -372,42 +369,72 @@ def main() -> int:
                 "console",
                 lambda msg: logs.append(msg.text) if msg.type == "error" else None,
             )
-            page.goto(f"{BASE_URL}doc-cham/", wait_until="domcontentloaded", timeout=60000)
+            page.goto(f"{BASE_URL}slow-reads/", wait_until="domcontentloaded", timeout=60000)
             page.wait_for_selector("#doc-cham-list .doc-cham-card", timeout=30000)
             if page.locator("#btn-calendar").count():
-                errors.append("doc-cham: header calendar button should not exist")
-            if page.locator(".brand-doc").count() == 0:
-                errors.append("doc-cham: missing brand Đọc chậm link")
+                errors.append("slow-reads: header calendar button should not exist")
+            brand_links = page.locator(".brand-cluster a.brand")
+            if brand_links.count() < 2 or "slow reads" not in (
+                brand_links.nth(1).text_content() or ""
+            ).lower():
+                errors.append("slow-reads: missing Slow Reads brand link")
+            if page.locator('.site-nav-desktop a[href="./"]').count():
+                errors.append("slow-reads: Slow Reads should not duplicate in right nav")
+            if "Slow Reads" not in page.title():
+                errors.append("slow-reads: page title should include Slow Reads")
+            if page.locator("main h1").inner_text().strip() != "Slow Reads":
+                errors.append("slow-reads: h1 should be Slow Reads")
             expected_cards = min(20, len(doc_articles))
             if page.locator("#doc-cham-list .doc-cham-card").count() != expected_cards:
                 errors.append(
-                    f"doc-cham: expected {expected_cards} cards, got "
+                    f"slow-reads: expected {expected_cards} cards, got "
                     f"{page.locator('#doc-cham-list .doc-cham-card').count()}"
                 )
             if page.locator("#doc-cham-filters .tag-chips button").count() < 9:
-                errors.append("doc-cham: expected topic filter chips (Tất cả + topics)")
+                errors.append("slow-reads: expected topic filter chips (Tất cả + topics)")
+            # Active chip should be a flat solid fill (no edge mask smear).
+            smear = page.evaluate(
+                """() => {
+                  const scroll = document.querySelector('#doc-cham-filters .tag-chips-scroll');
+                  if (!scroll) return 'missing scroll';
+                  const style = getComputedStyle(scroll);
+                  const mask = style.maskImage || style.webkitMaskImage || 'none';
+                  if (mask && mask !== 'none') return 'mask-image still set: ' + mask;
+                  return '';
+                }"""
+            )
+            if smear:
+                errors.append(f"slow-reads: chip smear fix failed: {smear}")
             if doc_articles:
                 first_id = doc_articles[0]["id"]
                 page.goto(
-                    f"{BASE_URL}doc-cham/article.html?id={first_id}",
+                    f"{BASE_URL}slow-reads/article.html?id={first_id}",
                     wait_until="domcontentloaded",
                     timeout=60000,
                 )
                 page.wait_for_selector(".doc-cham-prose", timeout=30000)
-                if page.locator(".doc-cham-back a").count() == 0:
-                    errors.append("doc-cham article: missing back link")
+                back = page.locator(".doc-cham-back a").first
+                if back.count() == 0:
+                    errors.append("slow-reads article: missing back link")
+                elif "Slow Reads" not in back.inner_text():
+                    errors.append("slow-reads article: back link should say Slow Reads")
                 art = json.loads(
-                    (ROOT / f"doc-cham/articles/{first_id}.json").read_text(
+                    (ROOT / f"slow-reads/articles/{first_id}.json").read_text(
                         encoding="utf-8"
                     )
                 )
                 if art.get("lang") and art["lang"] != "vi":
                     if page.locator(".doc-cham-translated").count() == 0:
                         errors.append(
-                            "doc-cham article: missing Bản dịch tiếng Việt note"
+                            "slow-reads article: missing Bản dịch tiếng Việt note"
                         )
+            # Legacy /doc-cham/ redirect
+            page.goto(f"{BASE_URL}doc-cham/", wait_until="domcontentloaded", timeout=60000)
+            page.wait_for_url("**/slow-reads/**", timeout=15000)
+            if "/slow-reads" not in page.url:
+                errors.append("doc-cham redirect: should land on /slow-reads/")
             for line in logs:
-                errors.append(f"doc-cham: console: {line}")
+                errors.append(f"slow-reads: console: {line}")
             ctx.close()
 
             capture_calendar_teaser_screenshots(browser, BASE_URL)
