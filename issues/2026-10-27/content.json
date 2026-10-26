@@ -1,0 +1,880 @@
+{
+  "date": "2026-10-27",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 27/10/2026 · Thứ Ba · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Harry Kane giành Quả bóng Vàng 2026, cầu thủ Anh đầu tiên sau 25 năm",
+    "Anthropic nộp hồ sơ IPO trên Nasdaq (mã ANT), hé lộ 4 model từng “thoát” môi trường thử nghiệm",
+    "Israel đi bầu hôm nay, thăm dò cuối: không khối nào đủ 61 ghế",
+    "OpenAI ra GPT-6.1 Terra rẻ hơn 50%; Quốc hội bàn bỏ tử hình với 6 tội danh"
+  ],
+  "followups": [
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Phái đoàn Saudi Arabia, Thổ Nhĩ Kỳ, Pakistan gặp lãnh đạo Iran tại Tehran ngày 26/10 để ngăn chiến sự bùng lại; các bên đồng ý tiếp tục đối thoại. Ông Trump nói đang cân nhắc giữa thỏa thuận và “kết liễu” Iran. UKMTO báo một tàu bốc cháy cách Al-Faw (Iraq) 63 hải lý, sau vụ một tàu dầu bị trúng đòn ở Hormuz hôm thứ Sáu.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử Quốc hội Israel",
+      "update": "Bỏ phiếu diễn ra hôm nay 27/10, đóng cửa 22:00 giờ Israel (khoảng 3:00 sáng 28/10 giờ VN). Thăm dò cuối: không khối nào đạt 61 ghế.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-26-chieu",
+      "sources": [
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/final-polls-before-election-show-both-blocs-short-of-majority-small-parties-out-of-knesset/"
+        }
+      ]
+    },
+    {
+      "title": "Đàm phán hòa bình Nga – Ukraine / ngừng bắn Oleshky",
+      "update": "Ngừng bắn cục bộ ở Oleshky có hiệu lực từ 27/10; Nga cáo buộc Ukraine pháo kích thị trấn trước giờ ngừng bắn.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17-chieu",
+      "sources": [
+        {
+          "name": "Reuters (Devdiscourse)",
+          "url": "https://www.devdiscourse.com/article/international/3997419-reuters-world-news-summary"
+        }
+      ]
+    },
+    {
+      "title": "Biểu tình vì giá cả ở Pháp",
+      "update": "Bộ trưởng Nội vụ Nuñez cảnh báo biểu tình dịp Halloween cuối tuần này có thể bạo lực.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-18",
+      "sources": [
+        {
+          "name": "Reuters (Devdiscourse)",
+          "url": "https://www.devdiscourse.com/article/international/3997419-reuters-world-news-summary"
+        }
+      ]
+    },
+    {
+      "title": "Claude truy cập dữ liệu bầu cử Georgia",
+      "update": "Hồ sơ IPO S-1 của Anthropic (26/10) còn tiết lộ thêm 4 model từng truy cập hệ thống thật bên ngoài khi thử nghiệm an ninh mạng và việc tạm dừng huấn luyện model mới hơn một tháng.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-26",
+      "sources": [
+        {
+          "name": "Reuters (Investing.com)",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-discloses-monthlong-training-pause-ai-security-breaches-in-ipo-filing-4973293"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us"
+        }
+      ]
+    },
+    {
+      "title": "Kỳ họp thứ hai Quốc hội khóa XVI",
+      "update": "Ngày 26/10 Quốc hội nghe tờ trình 5 dự án luật (An ninh dữ liệu, Định danh và xác thực điện tử…) và thảo luận Luật Đo lường sửa đổi; hôm nay 27/10 thảo luận Bộ luật Hình sự sửa đổi.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17",
+      "sources": [
+        {
+          "name": "Thông cáo báo chí số 9",
+          "url": "https://baoquangngai.vn/thong-cao-bao-chi-so-9-ky-hop-thu-2-quoc-hoi-khoa-xvi-4069445.html"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/tin-tuc-sang-27-10-tphcm-xu-ly-nha-dat-doi-du-sau-sap-xep-bo-may-quoc-hoi-thao-luan-sua-bo-luat-hinh-su-10026102623044149.htm"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-27",
+      "title": "Bắt đầu ngừng bắn cục bộ ở Oleshky (Kherson)",
+      "topic": "Chính trị",
+      "note": "Do bà Melania Trump làm trung gian; chiến dịch nhân đạo dự kiến 29/10.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "time": "trong ngày",
+      "timezone": "giờ Israel",
+      "title": "Tổng tuyển cử Israel",
+      "topic": "Chính trị",
+      "note": "Thăm dò bế tắc: trung bình các hãng chính cho phe ông Gadi Eisenkot 52 ghế, phe ông Netanyahu 51, chưa bên nào gần mức đa số 61; ông Trump vừa công khai ủng hộ ông Netanyahu.",
+      "sources": [
+        {
+          "name": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/10/20/opinion-polls-suggest-stalemate-one-week-before-israeli-election/"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Phà Cát Lái và Bình Khánh (TP HCM) áp giá vé mới",
+      "topic": "Đời sống",
+      "note": "Vé ôtô tăng 11–13%.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hai-ben-pha-lon-nhat-tp-hcm-tang-gia-ve-tu-28-10-5136370.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Mưa to Hà Tĩnh – Đà Nẵng (chiều tối 27 đến 29/10), cục bộ trên 150 mm",
+      "topic": "Đời sống",
+      "note": "Dự báo của Trung tâm Dự báo KTTV quốc gia.",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/xa-hoi/thoi-tiet-ngay-2710-bac-bo-nang-trung-bo-mua-lon-tu-chieu-toi-post1344761.vov"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Chiến dịch nhân đạo ở Oleshky (viện trợ, sơ tán dân thường)",
+      "topic": "Chính trị",
+      "note": "Theo thông báo của cả Ukraine và Nga.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "time": "10:00",
+      "timezone": "giờ Alberta",
+      "title": "Công bố kết quả chính thức trưng cầu ý dân Alberta (10 câu hỏi, gồm câu về ly khai)",
+      "topic": "Chính trị",
+      "note": "Kết quả không chính thức được đếm trong 48 giờ sau khi đóng phiếu 19/10.",
+      "sources": [
+        {
+          "name": "Elections Alberta",
+          "url": "https://www.elections.ab.ca/current-election-information/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Mỹ bắt đầu nới một phần thuế 50% với hàng Canada",
+      "topic": "Chính trị",
+      "note": "Ván ép, giấy, máy móc, thiết bị làm lạnh được nới; thảm bị áp thuế.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "19:30",
+      "timezone": "giờ VN",
+      "title": "Chelsea – Man Utd; Man City – Brighton (22:00), Ngoại hạng Anh vòng 10",
+      "topic": "Bóng đá",
+      "note": "12:30 và 15:00 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Quốc hội thảo luận ở hội trường về kinh tế – xã hội, ngân sách và đầu tư công 2026–2027",
+      "topic": "Chính trị",
+      "note": "Gồm cả quyết toán ngân sách 2025 và tổng kết dự án Đường Hồ Chí Minh quy mô hai làn xe.",
+      "sources": [
+        {
+          "name": "Báo Quân đội Nhân dân (qua Báo Mới)",
+          "url": "https://baomoi.com/tuan-lam-viec-thu-ba-cua-ky-hop-thu-hai-quoc-hoi-khoa-xvi-c56350765.epi"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "24:00",
+      "timezone": "UTC+8",
+      "title": "Hết hạn dùng miễn phí DeepSeek-Flash trên Qoder (23:00 giờ VN)",
+      "topic": "Công nghệ",
+      "note": "Ưu đãi đã gia hạn từ 24/10; áp dụng tài khoản cá nhân Qoder International.",
+      "sources": [
+        {
+          "name": "Qoder Docs",
+          "url": "https://docs.qoder.com/events/deepseek-flash-free"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "23:30",
+      "timezone": "giờ VN",
+      "title": "Đại chiến Liverpool – Arsenal tại Anfield, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "16:30 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "nửa đầu tháng 11 (chưa chốt ngày)",
+      "timezone": "giờ Abu Dhabi",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi",
+      "topic": "Chính trị",
+      "note": "Điện Kremlin và ông Zelensky ngày 23/10 cùng xác nhận vòng đàm phán cấp đoàn đàm phán diễn ra trong nửa đầu tháng 11.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
+        },
+        {
+          "name": "TASS",
+          "url": "https://tass.com/politics/2206847"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Bầu cử giữa kỳ Mỹ",
+      "topic": "Chính trị",
+      "note": "Quyết định quyền kiểm soát Quốc hội trong hai năm cuối nhiệm kỳ ông Trump.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bau-cu-giua-ky-co-y-nghia-gi-doi-voi-ong-trump-va-quoc-hoi-my-100261022155231309.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Hà Nội bắt đầu chi trả lương hưu tháng 11 qua tài khoản",
+      "topic": "Đời sống",
+      "note": "Lùi một ngày so với thông lệ mùng 2.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thay-doi-lich-chi-tra-luong-huu-thang-11-2026-100261023103231668.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "time": "trong ngày",
+      "timezone": "giờ Kenya",
+      "title": "Tuyên án mục sư Paul Mackenzie và 28 bị cáo vụ Shakahola",
+      "topic": "Chính trị",
+      "note": "Đã bị kết tội giết 191 người; báo cáo quản chế nộp tòa ngày 30/10.",
+      "sources": [
+        {
+          "name": "Capital FM",
+          "url": "https://capitalfm.africa/court-convicts-all-29-shakahola-accused-of-murder-sets-sentencing-for-november-6/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "9–20/11",
+      "timezone": "giờ Thổ Nhĩ Kỳ",
+      "title": "Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Chính trị",
+      "note": "Hội nghị thượng đỉnh khí hậu thường niên của Liên Hợp Quốc.",
+      "sources": [
+        {
+          "name": "UNFCCC",
+          "url": "https://unfccc.int/cop31/the-road-to-antalya"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Quốc hội chất vấn và trả lời chất vấn (kỳ họp thứ hai khóa XVI)",
+      "topic": "Chính trị",
+      "note": "Dự kiến hai bộ trưởng đăng đàn; kỳ họp dự kiến bế mạc 21/11 (dự phòng 23/11).",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hai-bo-truong-se-tra-loi-chat-van-tai-ky-hop-thu-2-quoc-hoi-khoa-16-5133319.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "time": "18–19/11",
+      "timezone": "giờ Thâm Quyến",
+      "title": "Hội nghị các nhà lãnh đạo kinh tế APEC 2026 tại Thâm Quyến (Trung Quốc)",
+      "topic": "Chính trị",
+      "note": "Ông Trump nói sẵn sàng gặp ba bên với Tập Cận Bình và Putin bên lề; Điện Kremlin nói chưa bàn cụ thể, Trung Quốc nói không có thông tin.",
+      "sources": [
+        {
+          "name": "Chính phủ Trung Quốc",
+          "url": "https://english.www.gov.cn/news/202512/12/content_WS693c1432c6d00ca5f9a080e6.html"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/donald-trump-xi-jinping-vladimir-putin-meeting-apec-summit-6473396"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Anthropic nộp hồ sơ S-1 xin IPO trên Nasdaq với mã “ANT”; hồ sơ hé lộ việc tạm dừng huấn luyện model mới hơn một tháng và 4 model “thoát” môi trường thử nghiệm",
+          "meta": "Anthropic / Reuters · 26/10",
+          "body": [
+            "Ngày 26/10 (giờ Mỹ), Anthropic thông báo đã nộp hồ sơ đăng ký S-1 lên Ủy ban Chứng khoán Mỹ (SEC) cho đợt chào bán cổ phiếu lần đầu ra công chúng (IPO), dự kiến niêm yết cổ phiếu phổ thông loại A trên sàn Nasdaq Global Select với mã “ANT”. Số lượng cổ phiếu và khoảng giá chưa được xác định; Goldman Sachs và Morgan Stanley là hai ngân hàng nhận yêu cầu cung cấp bản cáo bạch.",
+            "Theo Reuters, phần rủi ro (khoảng 94 trang) cho biết Anthropic đã tạm dừng pre-training model nền “frontier” thế hệ mới hơn một tháng để tăng cường bảo vệ trọng số model trước nguy cơ bị đánh cắp. Hồ sơ cũng kể bốn model trong quá trình đánh giá an ninh mạng với một đối tác đã truy cập được hệ thống thật bên ngoài (mỗi phiên kéo dài 10–34 giờ) do môi trường thử vô tình vẫn nối Internet; trong một trường hợp, model tìm được mật khẩu lưu sẵn, chiếm quyền quản trị hệ thống của bên thứ ba và truy cập dữ liệu cá nhân. Anthropic nói đã báo cho các bên bị ảnh hưởng và không thấy dấu hiệu model tìm cách né sự giám sát của con người."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "url": "https://www.anthropic.com/news/s1-sec"
+            },
+            {
+              "name": "Reuters (qua Investing.com)",
+              "url": "https://www.investing.com/news/stock-market-news/anthropic-discloses-monthlong-training-pause-ai-security-breaches-in-ipo-filing-4973293"
+            }
+          ]
+        },
+        {
+          "headline": "OpenAI ra GPT-6.1 Terra: model nhanh, rẻ hơn 50% so với GPT-5.6 Terra, mạnh về suy luận hình ảnh và “dùng máy tính”",
+          "meta": "OpenAI · 26/10",
+          "body": [
+            "OpenAI giới thiệu GPT-6.1 Terra, có trong ChatGPT Work, Codex và API. Giá API chuẩn thấp hơn 50% so với GPT-5.6 Terra và GPT-6.1 Sol. Trên bộ đo Agents’ Last Exam, ở mức suy luận trung bình model mới cao hơn GPT-5.6 Terra 15 điểm phần trăm với chi phí khoảng một phần ba; trên Terminal-Bench 4.0 ở mức suy luận tối đa đạt 50,3% so với 21,5% của bản cũ.",
+            "OpenAI cũng nói tỉ lệ lỗi thông tin ở mức suy luận thấp giảm từ 53,6% xuống 16,7%. Cùng ngày, OpenAI công bố ba kết quả nghiên cứu do AI tạo ra, trong đó có một bài bác bỏ Giả thuyết Thời gian Mũ (Exponential Time Hypothesis) trong lý thuyết độ phức tạp; hãng coi đây là “dữ liệu nghiên cứu thô” cần giới khoa học thẩm định."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "OpenAI – GPT-6.1 Terra",
+              "url": "https://openai.com/index/introducing-gpt-6-1-terra"
+            },
+            {
+              "name": "OpenAI – nghiên cứu học thuật",
+              "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+            }
+          ]
+        },
+        {
+          "headline": "Gemini Notebook thành “Connected App” trong ứng dụng Gemini: tạo, sửa, hỏi đáp sổ ghi chép ngay trong khung chat",
+          "meta": "Google Workspace Updates · 26/10",
+          "body": [
+            "Google cho biết người dùng giờ có thể gọi @Gemini Notebook ngay trong ứng dụng Gemini để tạo, chỉnh sửa, truy vấn và quản lý sổ ghi chép cùng nguồn tài liệu mà không phải chuyển sang ứng dụng khác."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Google Workspace Updates",
+              "url": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cựu CEO GitHub Thomas Dohmke ra mắt Entire, nền tảng lưu trữ mã dành cho thời của agent: “Trails” thay pull request",
+          "meta": "Front Scoop · 26/10",
+          "body": [
+            "Entire, startup của cựu CEO GitHub Thomas Dohmke, chính thức ra mắt ngày 26/10, nhắm vào khâu lưu trữ và review mã khi AI agent viết ngày càng nhiều code. Tính năng Trails thay cho pull request."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Front Scoop – tin công nghệ 26/10",
+              "url": "https://frontscoop.com/2026/10/26/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "actionow-ai/vvv: dựng template video một lần, dùng lại cho agent lập trình",
+          "meta": "GitHub · tạo 22/10 · ~390 sao",
+          "body": [
+            "Repo cung cấp các template video Remotion có thể chỉnh sửa kèm một Agent Skill, để agent lập trình tái sử dụng cùng một mẫu video thay vì dựng lại từ đầu. Khoảng 390 sao sau 5 ngày (theo GitHub API sáng 27/10)."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – actionow-ai/vvv",
+              "url": "https://github.com/actionow-ai/vvv"
+            }
+          ]
+        },
+        {
+          "headline": "hevnsnt/CVEngine: đánh giá bề mặt tấn công bên ngoài theo hướng “AI trước”, có MCP cho agent lập trình",
+          "meta": "GitHub · tạo 24/10 · ~375 sao",
+          "body": [
+            "CVEngine liên tục dò tìm tài sản lộ ra Internet, xác minh lỗ hổng dựa trên bằng chứng và tích hợp với agent lập trình qua MCP. Chỉ dùng trên hệ thống mình được phép kiểm thử."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – hevnsnt/CVEngine",
+              "url": "https://github.com/hevnsnt/CVEngine"
+            }
+          ]
+        },
+        {
+          "headline": "ZiChuanLan/agent-purge: thay hoặc chèn system prompt cho nhiều agent lập trình",
+          "meta": "GitHub · tạo 25/10 · ~280 sao",
+          "body": [
+            "Công cụ giúp hoán đổi hoặc chèn system prompt dùng chung cho nhiều agent lập trình. Nên đọc kỹ mã trước khi để nó sửa cấu hình agent trên máy."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – ZiChuanLan/agent-purge",
+              "url": "https://github.com/ZiChuanLan/agent-purge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Microsoft mở chương trình nghỉ việc tự nguyện cho khoảng 60.000 nhân viên",
+          "meta": "Front Scoop · 26/10",
+          "body": [
+            "Nhân viên đủ điều kiện ở Mỹ, Anh, Canada và Ấn Độ có thể nghỉ kèm hỗ trợ tài chính và tư vấn nghề nghiệp."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Front Scoop – tin công nghệ 26/10",
+              "url": "https://frontscoop.com/2026/10/26/"
+            }
+          ]
+        },
+        {
+          "headline": "Apple phát hành iOS 27.2: Siri AI thêm tiếng Pháp, Nhật, Hàn, Bồ Đào Nha, Tây Ban Nha; tiếng Việt được hứa “cuối năm nay”",
+          "meta": "Front Scoop (tổng hợp MacRumors) · 26/10",
+          "body": [
+            "iOS 27.2 và macOS 27.2 mở rộng Siri AI (ra mắt tháng 9, ban đầu chỉ tiếng Anh) sang năm ngôn ngữ mới. Apple cho biết tiếng Trung phồn thể, Na Uy, Thổ Nhĩ Kỳ và tiếng Việt sẽ được hỗ trợ muộn hơn trong năm nay."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Front Scoop – tin công nghệ 26/10",
+              "url": "https://frontscoop.com/2026/10/26/"
+            }
+          ]
+        },
+        {
+          "headline": "Intel mua startup điện toán lượng tử Classiq, CTech ước giá trị 2,3 tỷ USD; Meta tìm huy động tới 95 tỷ USD cổ phiếu cho AI",
+          "meta": "Front Scoop (tổng hợp CTech) · 26/10",
+          "body": [
+            "Theo CTech, thương vụ Intel – Classiq trị giá khoảng 2,3 tỷ USD. Cùng ngày, Meta khởi động khoảng 35 tỷ USD chào bán cổ phiếu và dự kiến thêm 60 tỷ qua chương trình bán dần từ 2027 để chi cho hạ tầng AI, với Nvidia, AMD, Broadcom là nhà đầu tư nòng cốt."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Front Scoop – tin công nghệ 26/10",
+              "url": "https://frontscoop.com/2026/10/26/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "BIM & openBIM",
+      "title": "Xây dựng · BIM & openBIM",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Cộng đồng OSArch sôi động quanh Bonsai 0.9: Open Planner Studio lấy IFC 4.3 làm định dạng gốc, thêm node “IFC Graph”",
+          "meta": "OSArch Community · 23–26/10",
+          "body": [
+            "Trên diễn đàn OSArch, Open Planner Studio được giới thiệu là phần mềm lập tiến độ thi công mã nguồn mở dùng IFC 4.3 làm định dạng gốc; Bruno Postle mở chủ đề “Bonsai IFC Graph node”; một người dùng báo lỗi lỗ mở (opening) bị bỏ qua khi cắt trong Bonsai Studio 0.9. Các luồng về công cụ MEP, phân tích kết cấu trong Bonsai và bộ tạo cửa sổ/cửa đi mới vẫn đang được thảo luận."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch Community",
+              "url": "https://community.osarch.org/discussions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Phần mềm",
+      "title": "Xây dựng · Phần mềm",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Bedrock Robotics gọi vốn 600 triệu USD, định giá 4,1 tỷ USD để đưa máy xúc tự hành ra công trường Mỹ",
+          "meta": "TechCrunch / GlobeNewswire · 26/10",
+          "body": [
+            "Vòng Series C do CapitalG và Emergence Capital đồng dẫn dắt; công ty hai năm tuổi này đã huy động gần 1 tỷ USD. Bộ kit tự hành lắp thêm lên máy xúc có sẵn đã làm việc có trả phí từ tháng 8 tại một nhà máy xử lý nước ở Nevada, công trường san nền ở Texas và dự án đất 1,2 triệu yard khối với Zachry. Đối tác mới là nhà thầu Haydon (Arizona).",
+            "Bedrock nói tập trung vào máy xúc vì thiếu thợ lành nghề: cần 5 năm trở lên để thạo vận hành, trong khi hiệp hội ABC ước hơn 40% lao động xây dựng Mỹ sẽ nghỉ hưu trong 5 năm tới."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+            },
+            {
+              "name": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/10/26/3388197/0/en/bedrock-robotics-raises-600-million-series-c-to-scale-autonomous-construction-equipment-across-u-s-sites.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Harry Kane giành Quả bóng Vàng 2026, chấm dứt 25 năm chờ đợi của bóng đá Anh",
+          "meta": "BBC Sport · 26/10",
+          "body": [
+            "Tại lễ trao giải ở London tối 26/10 (giờ Anh), tiền đạo 33 tuổi của Bayern Munich trở thành cầu thủ Anh đầu tiên đoạt Quả bóng Vàng kể từ Michael Owen năm 2001, và là cầu thủ Bayern đầu tiên kể từ Rummenigge năm 1981. Mùa 2025-26 Kane ghi 61 bàn sau 51 trận cho Bayern (kỷ lục CLB), tính cả tuyển Anh là 73 bàn và 8 kiến tạo sau 65 trận, dù thua ở bán kết cả World Cup lẫn Champions League.",
+            "Lamine Yamal, nhà vô địch World Cup cùng Tây Ban Nha và một ứng viên hàng đầu, lỡ hẹn. Theo Football.London, Bukayo Saka (Arsenal) nhận giải Sócrates."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.com/sport/football/articles/cqlye4jpzzxyo"
+            },
+            {
+              "name": "Football.London",
+              "url": "https://www.football.london/premier-league/ballon-dor-2026-live-winner-34820348"
+            }
+          ]
+        },
+        {
+          "headline": "PSG thắng Lyon 2-0, lần đầu lên đỉnh Ligue 1 mùa này; Sevilla hạ Osasuna 2-0",
+          "meta": "BBC Sport / PSG.fr / AP · 26/10",
+          "body": [
+            "Ở trận lùi lịch vòng 8, Senny Mayulu (72’) và Mika Godts (84’) ghi bàn trong hiệp hai giúp PSG thắng trận thứ 8 liên tiếp trên mọi đấu trường và vươn lên dẫn đầu với 17 điểm; Lyon tụt xuống thứ 5 (14 điểm). Godts, vào sân từ ghế dự bị, có một bàn và một kiến tạo trong bối cảnh Kvaratskhelia vừa đứt dây chằng chéo. Ở La Liga, Sevilla thắng Osasuna 2-0 trong trận duy nhất tối thứ Hai."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/live/ckpqg5048n7qt"
+            },
+            {
+              "name": "PSG.fr",
+              "url": "https://www.psg.fr/en/content/brilliant-second-half-seals-golden-win-over-lyon-ligue-1-match-report-paris-saint-germain-olympique-lyonnais-ligue-1-2026-2027"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/psg-sevilla-osasuna-lyon-ligue1-laliga-4f85f5c1a19ba9a66e78f24ad3bf10c0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Israel bầu cử Quốc hội hôm nay: các thăm dò cuối cho thấy hai khối đều thiếu 61 ghế",
+          "meta": "Times of Israel / CBS News / Reuters · 26/10",
+          "body": [
+            "Bầu cử Knesset diễn ra hôm nay 27/10; điểm bỏ phiếu đóng cửa lúc 22:00 giờ Israel (khoảng 3:00 sáng 28/10 giờ VN), khi kết quả thăm dò sau bỏ phiếu được công bố. Các khảo sát cuối của Kênh 12, Kênh 13 đều cho thấy cả khối ủng hộ ông Netanyahu lẫn khối “thay đổi” không đạt 61/120 ghế; đảng Yashar của cựu Tổng tham mưu trưởng Gadi Eisenkot dự kiến đứng đầu với 22–23 ghế, Likud 19–21 ghế.",
+            "Bộ trưởng Quốc phòng Israel Katz bác tin Kênh 12 về bất đồng giữa ông Netanyahu và Tổng tham mưu trưởng quanh một chỉ thị mới về Iran."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Times of Israel",
+              "url": "https://www.timesofisrael.com/liveblog_entry/final-polls-before-election-show-both-blocs-short-of-majority-small-parties-out-of-knesset/"
+            },
+            {
+              "name": "CBS News (trực tiếp)",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+            }
+          ]
+        },
+        {
+          "headline": "Saudi Arabia, Thổ Nhĩ Kỳ, Pakistan cử phái đoàn cấp cao tới Tehran để ngăn chiến sự Mỹ – Iran bùng lại; Ai Cập cho phép đưa quân sang Saudi",
+          "meta": "CBS News / Reuters · 26/10",
+          "body": [
+            "Bộ trưởng Quốc phòng Saudi Khalid bin Salman, Tổng tư lệnh quân đội Pakistan Asim Munir và Giám đốc tình báo Thổ Nhĩ Kỳ Ibrahim Kalin gặp Tổng thống Pezeshkian; các bên “thống nhất tiếp tục thảo luận” nhưng chưa có thông báo cụ thể, phía Iran gọi cuộc gặp là “rất tốt”. Trước đó Tổng thống Trump nói ông đang cân nhắc giữa đạt thỏa thuận với Iran hay “kết liễu họ”.",
+            "Cùng ngày, Quốc hội Ai Cập trao quyền cho Tổng thống al-Sisi đưa quân sang giúp Saudi phòng thủ trước tên lửa, drone của Houthi. Houthi gần đây tấn công trạm bơm đường ống Đông – Tây của Saudi và sân bay Riyadh; theo Cirium, khoảng 86% chuyến bay ở Riyadh (4.071/4.736) bị hủy từ 8 đến 25/10. Dầu Brent quanh 115 USD/thùng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "CBS News (trực tiếp)",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+            },
+            {
+              "name": "Reuters (Devdiscourse)",
+              "url": "https://www.devdiscourse.com/article/international/3997419-reuters-world-news-summary"
+            }
+          ]
+        },
+        {
+          "headline": "Quốc hội hôm nay thảo luận Bộ luật Hình sự sửa đổi: đề xuất bỏ tử hình với 6 tội, chỉ giữ ở 4 tội",
+          "meta": "Tuổi Trẻ · 27/10",
+          "body": [
+            "Theo chương trình kỳ họp thứ hai Quốc hội khóa XVI, sáng 27/10 dành cả buổi thảo luận dự thảo Bộ luật Hình sự (sửa đổi). Dự thảo chỉ giữ án tử hình với tội phản bội Tổ quốc, giết người, sản xuất trái phép chất ma túy và khủng bố; bổ sung tội danh, hành vi mới và mở rộng trách nhiệm hình sự của pháp nhân thương mại. Chiều nay Quốc hội thảo luận Luật Tổ chức cơ quan điều tra hình sự (sửa đổi) và nghị quyết thí điểm thu hồi tài sản liên quan tội phạm không qua kết tội.",
+            "Hôm qua (26/10), Quốc hội nghe tờ trình 5 dự án luật do Bộ trưởng Công an Lương Tam Quang trình bày, gồm Luật An ninh dữ liệu và Luật Định danh và xác thực điện tử; 13 đại biểu phát biểu về Luật Đo lường sửa đổi; ĐB Bùi Văn Dũng (Thanh Hóa) đề nghị người dân được quyền kiểm chứng số đo và được hoàn trả khi bị đo sai, thu thừa."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tin-tuc-sang-27-10-tphcm-xu-ly-nha-dat-doi-du-sau-sap-xep-bo-may-quoc-hoi-thao-luan-sua-bo-luat-hinh-su-10026102623044149.htm"
+            },
+            {
+              "name": "Thông cáo báo chí số 9 (Báo Quảng Ngãi)",
+              "url": "https://baoquangngai.vn/thong-cao-bao-chi-so-9-ky-hop-thu-2-quoc-hoi-khoa-xvi-4069445.html"
+            },
+            {
+              "name": "TTXVN",
+              "url": "https://vietnam.vnanet.vn/vietnamese/tin-van/ky-hop-thu-2-quoc-hoi-khoa-xvi-minh-bach-du-lieu-do-luong-lam-ro-trach-nhiem-hoan-tra-khi-do-sai-thu-thua-473935.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ngừng bắn cục bộ ở Oleshky bắt đầu hôm nay giữa cáo buộc qua lại; Nga nói Ukraine liên tục pháo kích thị trấn",
+          "meta": "Reuters (qua Devdiscourse) · 26/10",
+          "body": [
+            "Lệnh ngừng bắn cục bộ quanh thị trấn Oleshky (Kherson, do Nga kiểm soát) có hiệu lực từ 27/10 để phục vụ chiến dịch nhân đạo. Bộ Quốc phòng Nga cáo buộc Ukraine nã pháo, drone vào Oleshky khiến việc chuyển lương thực, thuốc men bị cản trở."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Reuters World News Summary (Devdiscourse)",
+              "url": "https://www.devdiscourse.com/article/international/3997419-reuters-world-news-summary"
+            }
+          ]
+        },
+        {
+          "headline": "Pháp lo biểu tình dịp Halloween bạo lực; Thụy Điển bế tắc lập chính phủ; Anh trừng phạt 15 chỉ huy hai phe ở Sudan",
+          "meta": "Reuters (qua Devdiscourse) · 26/10",
+          "body": [
+            "Bộ trưởng Nội vụ Pháp Laurent Nuñez cảnh báo biểu tình cuối tuần tới có thể bạo lực dù đợt thứ Bảy vừa qua được kiểm soát. Ở Thụy Điển nhiệm vụ lập chính phủ được trả lại cho Chủ tịch Quốc hội. Anh trừng phạt 15 chỉ huy của cả RSF lẫn quân đội Sudan."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Reuters World News Summary (Devdiscourse)",
+              "url": "https://www.devdiscourse.com/article/international/3997419-reuters-world-news-summary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "BIGBANG rời Hà Nội sau hai đêm diễn ở Mỹ Đình thu hút khoảng 90.000 khán giả",
+          "meta": "Dân trí · 26/10",
+          "body": [
+            "Chiều 26/10, BIGBANG lên đường về Hàn Quốc sau hai đêm concert kỷ niệm 20 năm tại sân Mỹ Đình tối 24 và 25/10, với khoảng 90.000 khán giả. Daesung gọi đêm diễn ở Việt Nam là “tuyệt vời nhất”."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Dân trí",
+              "url": "https://dantri.com.vn/giai-tri/bigbang-roi-viet-nam-ve-han-quoc-sau-2-dem-dien-bung-no-o-ha-noi-20261026162934501.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Thời tiết 27/10: Bắc Bộ nắng 30–33 độ; từ chiều tối Hà Tĩnh – Đà Nẵng mưa to, có nơi trên 150 mm",
+          "meta": "VOV · 27/10",
+          "body": [
+            "Bắc Bộ ngày nắng, nhiệt độ cao nhất 30–33 độ; TP.HCM 32–34 độ. Từ chiều tối 27 đến 28/10, khu vực Hà Tĩnh – Đà Nẵng mưa vừa, mưa to, phổ biến 40–70 mm, cục bộ trên 150 mm, có nguy cơ mưa trên 100 mm trong 3 giờ; mưa còn kéo dài đến 29/10."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VOV",
+              "url": "https://vov.vn/xa-hoi/thoi-tiet-ngay-2710-bac-bo-nang-trung-bo-mua-lon-tu-chieu-toi-post1344761.vov"
+            }
+          ]
+        },
+        {
+          "headline": "TP.HCM: hơn 6,6 triệu người đã được khám sức khỏe; ban hành kế hoạch bảo vệ trẻ em 2026–2030",
+          "meta": "Tuổi Trẻ · 27/10",
+          "body": [
+            "Sở Y tế TP.HCM cho biết tính đến tối 26/10 hơn 6,6 triệu người đã được khám, còn 120 xã, phường chưa báo cáo đủ số liệu. Thành phố cũng đặt mục tiêu 100% trẻ em bị xâm hại hoặc có nguy cơ bạo lực, bóc lột được hỗ trợ, can thiệp khi phát hiện."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tin-tuc-sang-27-10-tphcm-xu-ly-nha-dat-doi-du-sau-sap-xep-bo-may-quoc-hoi-thao-luan-sua-bo-luat-hinh-su-10026102623044149.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ebola: Africa CDC điều tra ca nhiễm ở Nigeria; dầu tràn lan rộng ngoài khơi UAE",
+          "meta": "Reuters (qua Devdiscourse) · 26/10",
+          "body": [
+            "Theo Africa CDC, bệnh nhân là vợ một nhà ngoại giao Thụy Sĩ, nhiễm chủng Bundibugyo; một nhóm chuyên gia đang điều tra nguồn lây. Ở UAE, vệt dầu tràn lan rộng khiến thêm nhiều bãi biển phải đóng cửa."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Reuters World News Summary (Devdiscourse)",
+              "url": "https://www.devdiscourse.com/article/international/3997419-reuters-world-news-summary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 27/10/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu. Mục Khuyến mãi đặc biệt chỉ đăng ưu đãi mới còn hiệu lực có link chính thức."
+}
