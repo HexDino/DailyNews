@@ -66,6 +66,21 @@ def close_calendar_ui(page: Page) -> None:
     wait_calendar_closed(page)
 
 
+def calendar_open_selector(is_mobile: bool) -> str:
+    """Header calendar button removed; open via TOC (mobile) or strip (desktop)."""
+    if is_mobile:
+        return 'a.toc-link[href="#lich-su-kien"]'
+    return ".calendar-strip-toggle"
+
+
+def wait_calendar_ready(page: Page, timeout: int = 30000) -> None:
+    # Mobile host stays [hidden] until the modal opens — do not require visibility.
+    page.wait_for_function(
+        "() => !!document.querySelector('#lich-su-kien')",
+        timeout=timeout,
+    )
+
+
 def _calendar_state(page: Page) -> dict:
     panel_expr = _panel_js()
     return page.evaluate(
@@ -91,6 +106,7 @@ def _calendar_state(page: Page) -> dict:
         viewportH: window.innerHeight,
         sourceCount: panel ? panel.querySelectorAll('.source-link').length : 0,
         ariaExpanded: toggle?.getAttribute('aria-expanded') ?? null,
+        hasHeaderBtn: !!document.querySelector('#btn-calendar'),
       }};
     }}"""
     )
@@ -139,13 +155,18 @@ def _reset_calendar_dom(page: Page) -> None:
 
 
 def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[str]:
-    """Open/close calendar via real mouse coords, header, Esc; verify state."""
+    """Open/close calendar via strip (desktop) or TOC (mobile); verify state."""
     errors: list[str] = []
-    if not page.locator("#btn-calendar:not([hidden])").count():
+    if not page.locator("#lich-su-kien").count():
         return errors
 
     _reset_calendar_dom(page)
     is_mobile = width <= 640
+    open_sel = calendar_open_selector(is_mobile)
+
+    st = _calendar_state(page)
+    if st.get("hasHeaderBtn"):
+        errors.append(f"{label} {width}px {theme}: header #btn-calendar should be removed")
 
     def assert_state(want_open: bool, ctx: str) -> None:
         st = _calendar_state(page)
@@ -192,22 +213,36 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
         toc = page.locator('a.toc-link[href="#lich-su-kien"]')
         if not toc.count():
             errors.append(f"{label} {width}px {theme}: missing toc calendar link")
-        else:
-            toc.scroll_into_view_if_needed()
-        try:
-            mouse_click_locator(page, 'a.toc-link[href="#lich-su-kien"]')
-        except RuntimeError as e:
-            errors.append(f"{label} {width}px {theme}: toc calendar mouse: {e}")
-        else:
-            wait_calendar_open(page)
-            assert_state(True, "toc open")
-            try:
-                close_calendar_ui(page)
-            except PlaywrightTimeout as e:
-                errors.append(f"{label} {width}px {theme}: toc close: {e}")
-            else:
-                assert_state(False, "toc close")
+            return errors
+        toc.scroll_into_view_if_needed()
 
+    try:
+        mouse_click_locator(page, open_sel)
+    except RuntimeError as e:
+        errors.append(f"{label} {width}px {theme}: open calendar mouse: {e}")
+        return errors
+    wait_calendar_open(page)
+    assert_state(True, "open")
+    errors.extend(_assert_sources(page, label, width, theme))
+
+    try:
+        close_calendar_ui(page)
+    except PlaywrightTimeout as e:
+        errors.append(f"{label} {width}px {theme}: close: {e}")
+        return errors
+    assert_state(False, "close button")
+
+    st = _calendar_state(page)
+    if st["backdropVisible"] or st["bodyLocked"]:
+        errors.append(f"{label} {width}px {theme}: backdrop/body stuck after close")
+
+    mouse_click_locator(page, open_sel)
+    wait_calendar_open(page)
+    page.keyboard.press("Escape")
+    wait_calendar_closed(page)
+    assert_state(False, "escape close")
+
+    if is_mobile:
         page.evaluate(
             """() => {
           localStorage.setItem('dailynews-calendar-open', '1');
@@ -217,7 +252,7 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
         }"""
         )
         page.reload(wait_until="domcontentloaded")
-        page.wait_for_selector("#btn-calendar:not([hidden])", timeout=30000)
+        wait_calendar_ready(page)
         st = _calendar_state(page)
         if st["panelOpen"]:
             errors.append(
@@ -225,50 +260,7 @@ def exercise_calendar(page: Page, width: int, theme: str, label: str) -> list[st
             )
         _reset_calendar_dom(page)
 
-    if not is_mobile:
-        try:
-            mouse_click_locator(page, ".calendar-strip-toggle")
-        except RuntimeError as e:
-            errors.append(f"{label} {width}px {theme}: strip toggle mouse: {e}")
-            return errors
-        wait_calendar_open(page)
-        assert_state(True, "strip open")
-        errors.extend(_assert_sources(page, label, width, theme))
-        try:
-            close_calendar_ui(page)
-        except PlaywrightTimeout as e:
-            errors.append(f"{label} {width}px {theme}: strip close: {e}")
-            return errors
-        assert_state(False, "close button")
-
-    try:
-        mouse_click_locator(page, "#btn-calendar")
-    except RuntimeError as e:
-        errors.append(f"{label} {width}px {theme}: header calendar mouse: {e}")
-        return errors
-    wait_calendar_open(page)
-    assert_state(True, "header open")
-    errors.extend(_assert_sources(page, label, width, theme))
-
-    try:
-        close_calendar_ui(page)
-    except PlaywrightTimeout as e:
-        errors.append(f"{label} {width}px {theme}: header close: {e}")
-        return errors
-    assert_state(False, "close button")
-
-    st = _calendar_state(page)
-    if st["backdropVisible"] or st["bodyLocked"]:
-        errors.append(f"{label} {width}px {theme}: backdrop/body stuck after close")
-
-    mouse_click_locator(page, "#btn-calendar")
-    wait_calendar_open(page)
-    page.keyboard.press("Escape")
-    wait_calendar_closed(page)
-    assert_state(False, "escape close")
-
-    if is_mobile:
-        mouse_click_locator(page, "#btn-calendar")
+        mouse_click_locator(page, open_sel)
         wait_calendar_open(page)
         page.locator('button[data-tag-id="tech"]').click(force=True)
         page.wait_for_timeout(600)

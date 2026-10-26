@@ -297,7 +297,18 @@ def main() -> int:
                         wait_until="domcontentloaded",
                         timeout=60000,
                     )
-                    page.wait_for_selector("#btn-calendar:not([hidden])", timeout=30000)
+                    page.wait_for_function(
+                        "() => !!document.querySelector('#lich-su-kien')",
+                        timeout=30000,
+                    )
+                    if page.locator("#btn-calendar").count():
+                        errors.append(
+                            f"smoke {w}px {theme}: header #btn-calendar should be removed"
+                        )
+                    if page.locator(".brand-doc").count() == 0:
+                        errors.append(
+                            f"smoke {w}px {theme}: missing Đọc chậm brand link"
+                        )
                     errors.extend(
                         exercise_calendar_with_retry(page, w, theme, "smoke")
                     )
@@ -341,13 +352,63 @@ def main() -> int:
                             wait_until="domcontentloaded",
                             timeout=60000,
                         )
-                        if page.locator("#btn-calendar:not([hidden])").count():
+                        if page.locator("#lich-su-kien").count():
                             errors.extend(
                                 exercise_calendar_with_retry(
                                     page, w, theme, f"archive-{archive_id}"
                                 )
                             )
                         ctx.close()
+
+            # Đọc chậm library
+            doc_index = json.loads(
+                (ROOT / "doc-cham/articles/index.json").read_text(encoding="utf-8")
+            )
+            doc_articles = doc_index.get("articles") or []
+            ctx = browser.new_context(viewport={"width": 390, "height": 844})
+            page = ctx.new_page()
+            logs = []
+            page.on(
+                "console",
+                lambda msg: logs.append(msg.text) if msg.type == "error" else None,
+            )
+            page.goto(f"{BASE_URL}doc-cham/", wait_until="domcontentloaded", timeout=60000)
+            page.wait_for_selector("#doc-cham-list .doc-cham-card", timeout=30000)
+            if page.locator("#btn-calendar").count():
+                errors.append("doc-cham: header calendar button should not exist")
+            if page.locator(".brand-doc").count() == 0:
+                errors.append("doc-cham: missing brand Đọc chậm link")
+            expected_cards = min(20, len(doc_articles))
+            if page.locator("#doc-cham-list .doc-cham-card").count() != expected_cards:
+                errors.append(
+                    f"doc-cham: expected {expected_cards} cards, got "
+                    f"{page.locator('#doc-cham-list .doc-cham-card').count()}"
+                )
+            if page.locator("#doc-cham-filters .tag-chips button").count() < 9:
+                errors.append("doc-cham: expected topic filter chips (Tất cả + topics)")
+            if doc_articles:
+                first_id = doc_articles[0]["id"]
+                page.goto(
+                    f"{BASE_URL}doc-cham/article.html?id={first_id}",
+                    wait_until="domcontentloaded",
+                    timeout=60000,
+                )
+                page.wait_for_selector(".doc-cham-prose", timeout=30000)
+                if page.locator(".doc-cham-back a").count() == 0:
+                    errors.append("doc-cham article: missing back link")
+                art = json.loads(
+                    (ROOT / f"doc-cham/articles/{first_id}.json").read_text(
+                        encoding="utf-8"
+                    )
+                )
+                if art.get("lang") and art["lang"] != "vi":
+                    if page.locator(".doc-cham-translated").count() == 0:
+                        errors.append(
+                            "doc-cham article: missing Bản dịch tiếng Việt note"
+                        )
+            for line in logs:
+                errors.append(f"doc-cham: console: {line}")
+            ctx.close()
 
             capture_calendar_teaser_screenshots(browser, BASE_URL)
             capture_calendar_panel_screenshots(browser, BASE_URL)

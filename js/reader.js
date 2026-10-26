@@ -1058,14 +1058,11 @@
   function bindCalendarChrome(root) {
     ensureCalendarInteractionHandlers();
     const wrap = root.querySelector("#lich-su-kien");
-    const headerBtn = document.getElementById("btn-calendar");
     if (!wrap) {
-      headerBtn?.setAttribute("hidden", "");
       document.body.classList.remove("calendar-sheet-open");
       document.querySelector(".calendar-backdrop")?.setAttribute("hidden", "");
       return;
     }
-    headerBtn?.removeAttribute("hidden");
 
     let initiallyOpen = false;
     if (useCalendarModal()) {
@@ -1083,19 +1080,6 @@
     }
     setCalendarOpen(initiallyOpen, root);
 
-    if (headerBtn && !headerBtn.dataset.calendarBound) {
-      headerBtn.dataset.calendarBound = "1";
-      headerBtn.addEventListener("click", () => {
-        const paper = document.getElementById("paper-root");
-        if (!paper) return;
-        const panel = getCalendarPanel();
-        const opening = !!panel?.hidden;
-        setCalendarOpen(opening, paper);
-        if (opening && !useCalendarModal()) {
-          paper.querySelector("#lich-su-kien")?.scrollIntoView({ behavior: "smooth", block: "start" });
-        }
-      });
-    }
     if (!document.documentElement.dataset.calendarEscBound) {
       document.documentElement.dataset.calendarEscBound = "1";
       document.addEventListener(

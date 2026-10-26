@@ -109,18 +109,54 @@ a.source-link {
   gap: 0.75rem 1rem;
 }
 
-.site-bar .brand {
+.brand-cluster {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: nowrap;
+  gap: 0;
+  margin-right: auto;
+  min-width: 0;
+  max-width: 100%;
+}
+
+.site-bar .brand,
+.site-bar .brand-doc {
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
   font-size: 0.8rem;
-  margin-right: auto;
   text-decoration: none;
   color: inherit;
 }
 
-.site-bar .brand:hover {
+.site-bar .brand {
+  margin-right: 0;
+}
+
+.site-bar .brand-sep {
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  font-size: 0.8rem;
+  opacity: 0.7;
+  flex-shrink: 0;
+}
+
+.site-bar .brand-doc {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: none;
+  white-space: nowrap;
+}
+
+.site-bar .brand:hover,
+.site-bar .brand-doc:hover {
   text-decoration: underline;
+}
+
+.site-bar .brand-doc[aria-current="page"] {
+  border-bottom: 1px solid var(--ink);
+  text-decoration: none;
 }
 
 .site-bar nav,
@@ -1129,9 +1165,13 @@ html[data-theme="dark"] button.fav-on {
     flex: 1 1 8rem;
   }
 
-  .site-bar .brand {
+  .brand-cluster {
     order: 1;
     margin-right: auto;
+  }
+
+  .site-bar .brand {
+    margin-right: 0;
   }
 
   .site-bar-tools {
@@ -1155,21 +1195,31 @@ html[data-theme="dark"] button.fav-on {
     min-height: var(--site-bar-height);
   }
 
-  .site-bar .brand {
-    margin-right: 0;
+  .brand-cluster {
     flex: 1 1 auto;
     min-width: 0;
-    max-width: calc(100% - 13rem);
-    font-size: 0.78rem;
+    max-width: calc(100% - 10.5rem);
+    margin-right: 0;
+  }
+
+  .site-bar .brand,
+  .site-bar .brand-doc,
+  .site-bar .brand-sep {
+    font-size: 0.72rem;
+  }
+
+  .site-bar .brand {
+    margin-right: 0;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    min-width: 0;
   }
 
   .site-bar-tools {
     flex-shrink: 0;
     margin-left: 0;
-    max-width: 13rem;
+    max-width: 10.5rem;
   }
 
   .site-nav-desktop {
@@ -1798,5 +1848,191 @@ body.calendar-sheet-open {
     .calendar-panel.calendar-panel--open {
       animation: none;
     }
+  }
+}
+
+/* Đọc chậm library */
+.doc-cham-page {
+  max-width: 44rem;
+}
+
+.doc-cham-search-form {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0 0 1rem;
+  font-family: var(--sans);
+}
+
+.doc-cham-search-form input[type="search"] {
+  flex: 1;
+  min-width: 0;
+  font: inherit;
+  font-size: 0.95rem;
+  padding: 0.45rem 0.65rem;
+  border: 1px solid var(--rule);
+  border-radius: var(--ui-chip-radius);
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.doc-cham-status {
+  margin: 0 0 0.75rem;
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--accent);
+}
+
+.doc-cham-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.doc-cham-card {
+  padding: 1.1rem 0;
+  border-bottom: 1px dotted #999;
+}
+
+html[data-theme="dark"] .doc-cham-card {
+  border-bottom-color: var(--rule);
+}
+
+.doc-cham-card-title {
+  margin: 0 0 0.35rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.doc-cham-card-title a {
+  text-decoration: none;
+}
+
+.doc-cham-card-title a:hover {
+  text-decoration: underline;
+}
+
+.doc-cham-card-summary {
+  margin: 0 0 0.45rem;
+  font-size: 0.98rem;
+  line-height: 1.5;
+}
+
+.doc-cham-card-byline {
+  margin: 0 0 0.5rem;
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  color: var(--accent);
+}
+
+.doc-cham-card-mins {
+  white-space: nowrap;
+}
+
+.doc-cham-card-topics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--ui-chip-gap);
+}
+
+.doc-cham-article-page {
+  max-width: 38rem;
+}
+
+.doc-cham-back {
+  margin: 0 0 1.25rem;
+  font-family: var(--sans);
+  font-size: 0.9rem;
+}
+
+.doc-cham-back a {
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.doc-cham-back a:hover {
+  border-bottom-color: var(--ink);
+}
+
+.doc-cham-back-bottom {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+}
+
+.doc-cham-article-head h1 {
+  margin: 0 0 0.35rem;
+  font-size: clamp(1.45rem, 4vw, 1.85rem);
+  line-height: 1.25;
+}
+
+.doc-cham-title-original {
+  margin: 0 0 0.5rem;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-style: italic;
+  color: var(--accent);
+}
+
+.doc-cham-article-byline {
+  margin: 0 0 0.75rem;
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  color: var(--accent);
+}
+
+.doc-cham-translated {
+  display: inline-flex;
+  margin: 0 0 0.75rem;
+}
+
+.doc-cham-prose {
+  font-size: 1.08rem;
+  line-height: 1.7;
+}
+
+.doc-cham-prose p {
+  margin: 0 0 1em;
+}
+
+.doc-cham-prose h2 {
+  margin: 1.6em 0 0.6em;
+  font-size: 1.2rem;
+}
+
+.doc-cham-prose h3 {
+  margin: 1.3em 0 0.45em;
+  font-size: 1.08rem;
+}
+
+.doc-cham-quote {
+  margin: 1.25em 0;
+  padding: 0.65rem 0 0.65rem 1rem;
+  border-left: 2px solid var(--rule);
+  font-style: italic;
+}
+
+.doc-cham-quote p {
+  margin: 0;
+}
+
+.doc-cham-quote-cite {
+  margin-top: 0.45rem;
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  font-style: normal;
+  color: var(--accent);
+}
+
+@media (max-width: 640px) {
+  .doc-cham-article-page,
+  .doc-cham-page {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .doc-cham-prose {
+    font-size: 1.02rem;
   }
 }

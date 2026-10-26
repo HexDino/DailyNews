@@ -11,11 +11,11 @@ FULL_SHA = sys.argv[1] if len(sys.argv) > 1 else "dev"
 SHORT = FULL_SHA.replace('"', "")[:10]
 
 CSS_LINK = re.compile(
-    r'(<link\b[^>]*\bhref="css/reader\.css)(?:\?[^"]*)?(")',
+    r'(<link\b[^>]*\bhref="(?:\.\./)?css/reader\.css)(?:\?[^"]*)?(")',
     re.I,
 )
 JS_SCRIPT = re.compile(
-    r'(<script\b[^>]*\bsrc="js/reader\.js)(?:\?[^"]*)?(")',
+    r'(<script\b[^>]*\bsrc="(?:\.\./)?js/(?:reader|doc-cham)\.js)(?:\?[^"]*)?(")',
     re.I,
 )
 HTML_OPEN = re.compile(r"(<html\b)([^>]*)(>)", re.I)
@@ -36,10 +36,13 @@ def bust_html(path: Path) -> None:
 
 
 def main() -> int:
-    html_files = sorted(ROOT.glob("*.html"))
+    html_files = sorted(ROOT.glob("*.html")) + sorted((ROOT / "doc-cham").glob("*.html"))
     for path in html_files:
         bust_html(path)
-    print(f"Cache-bust applied (v={SHORT}) to: {', '.join(p.name for p in html_files)}")
+    print(
+        f"Cache-bust applied (v={SHORT}) to: "
+        f"{', '.join(str(p.relative_to(ROOT)) for p in html_files)}"
+    )
     return 0
 
 

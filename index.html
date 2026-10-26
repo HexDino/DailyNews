@@ -26,13 +26,12 @@
 <body data-page="reader">
   <header class="site-bar">
     <div class="site-bar-inner">
-      <a class="brand" href="index.html">Daily News</a>
+      <div class="brand-cluster">
+        <a class="brand" href="index.html">Daily News</a><span class="brand-sep" aria-hidden="true"> / </span><a class="brand-doc" href="doc-cham/">Đọc chậm</a>
+      </div>
       <div class="site-bar-tools" aria-label="Công cụ">
         <button type="button" id="btn-search-open" class="icon-btn" aria-label="Tìm kiếm" aria-expanded="false" aria-controls="search-wrap">
           <svg class="toolbar-icon" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6.25" fill="none" stroke="currentColor" stroke-width="1.75"/><path d="M15.2 15.2 20 20" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>
-        </button>
-        <button type="button" id="btn-calendar" class="icon-btn btn-calendar" hidden aria-label="Lịch sự kiện" title="Lịch sự kiện">
-          <svg class="toolbar-icon" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="5.5" width="16" height="14" rx="1.25" fill="none" stroke="currentColor" stroke-width="1.75"/><path d="M4 9.5h16M8 3.5v4M16 3.5v4" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>
         </button>
         <button type="button" id="btn-theme" class="theme-toggle" aria-label="Đổi giao diện sáng/tối" aria-pressed="false">
           <svg class="theme-toggle-glyph theme-toggle-glyph--sun" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.75"/><path d="M12 4v2M12 18v2M4 12h2M18 12h2M6.3 6.3l1.4 1.4M16.3 16.3l1.4 1.4M6.3 17.7l1.4-1.4M16.3 7.7l1.4-1.4" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/></svg>
@@ -45,6 +44,7 @@
       </div>
       <nav class="site-nav-desktop" aria-label="Điều hướng">
         <a href="archive.html">Kho số cũ</a>
+        <a href="doc-cham/">Đọc chậm</a>
       </nav>
       <div class="search-wrap" id="search-wrap">
         <form class="search-form" id="search-form" role="search">
@@ -70,6 +70,7 @@
         <div class="more-menu-backdrop" tabindex="-1" aria-hidden="true"></div>
         <div class="more-menu-sheet" role="dialog" aria-label="Menu">
           <a class="more-menu-archive" href="archive.html">Kho số cũ</a>
+          <a class="more-menu-archive" href="doc-cham/">Đọc chậm</a>
           <div class="actions">
             <a class="btn" id="nav-prev" href="#" hidden>← Số trước</a>
             <a class="btn" id="nav-next" href="#" hidden>Số sau →</a>

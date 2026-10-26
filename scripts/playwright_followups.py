@@ -192,8 +192,11 @@ def capture_mobile_page_top_screenshots(browser, base_url: str) -> None:
         )
         shot_page.wait_for_selector("#paper-root .masthead", timeout=30000)
         if suffix == "modal":
-            shot_page.wait_for_selector("#btn-calendar:not([hidden])", timeout=30000)
-            mouse_click_locator(shot_page, "#btn-calendar")
+            shot_page.wait_for_function(
+                "() => !!document.querySelector('#lich-su-kien')",
+                timeout=30000,
+            )
+            mouse_click_locator(shot_page, 'a.toc-link[href="#lich-su-kien"]')
             shot_page.wait_for_function(
                 """() => {
               const p = document.querySelector('body > #calendar-panel-full')
@@ -237,9 +240,12 @@ def capture_calendar_panel_screenshots(browser, base_url: str) -> None:
             wait_until="domcontentloaded",
             timeout=60000,
         )
-        shot_page.wait_for_selector("#btn-calendar:not([hidden])", timeout=30000)
+        shot_page.wait_for_function(
+            "() => !!document.querySelector('#lich-su-kien')",
+            timeout=30000,
+        )
         if width <= 640:
-            mouse_click_locator(shot_page, "#btn-calendar")
+            mouse_click_locator(shot_page, 'a.toc-link[href="#lich-su-kien"]')
         else:
             mouse_click_locator(shot_page, ".calendar-strip-toggle")
         shot_page.wait_for_function(

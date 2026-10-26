@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "topics": [
+    "Con người",
+    "Tình yêu",
+    "Sự nghiệp",
+    "Đối nhân xử thế",
+    "Tiền bạc",
+    "Tâm lý",
+    "Tư duy & khoa học",
+    "Stoicism"
+  ],
+  "articles": [
+    {
+      "id": "toi-day-me-yeu-xa",
+      "title": "Tôi dạy mẹ yêu xa",
+      "title_original": "",
+      "author": "Thùy Minh",
+      "source": "Vietcetera",
+      "source_url": "https://vietcetera.com/vn/toi-day-me-yeu-xa",
+      "lang": "vi",
+      "topics": [
+        "Con người",
+        "Tình yêu"
+      ],
+      "summary": "Tôi bảo: Mẹ ơi, chỉ 2 tiếng đồng hồ đi xe buýt là con đã có mặt ở nhà rồi. Sau này “2 tiếng đồng hồ\" trở thành định mức để mẹ tôi phân biệt chuyện xa-gần. Sau Đại học, tôi chuyển vào thành phố Hồ Chí Minh làm việc. Mẹ…",
+      "added": "2026-10-26",
+      "reading_minutes": 1
+    },
+    {
+      "id": "tien-mat-vi-dau-tu-do-thoi-gian-mat-vi-lam-viec-gia",
+      "title": "Tiền mất vì đầu tư dở, thời gian mất vì làm việc giả",
+      "title_original": "How to Lose Time and Money",
+      "author": "Paul Graham",
+      "source": "paulgraham.com",
+      "source_url": "https://paulgraham.com/selfindulgence.html",
+      "lang": "en",
+      "topics": [
+        "Tiền bạc",
+        "Sự nghiệp"
+      ],
+      "summary": "Năm 1998, công ty khởi nghiệp của tác giả được bán đi, và bỗng dưng ông có rất nhiều tiền. Từ đó ông phải nghĩ đến một chuyện chưa từng nghĩ: làm sao để không mất số tiền ấy. Ông biết người ta có thể từ giàu thành…",
+      "added": "2026-10-26",
+      "reading_minutes": 4
+    },
+    {
+      "id": "tho-chay-nhanh-hon-cao",
+      "title": "Thỏ chạy nhanh hơn cáo, vì thỏ chạy để giữ mạng",
+      "title_original": "The Distorting Power of Incentives",
+      "author": "Shane Parrish",
+      "source": "Farnam Street",
+      "source_url": "https://fs.blog/distorting-power-of-incentives/",
+      "lang": "en",
+      "topics": [
+        "Tư duy & khoa học",
+        "Sự nghiệp"
+      ],
+      "summary": "Dawkins có một câu thế này: con thỏ chạy nhanh hơn con cáo, vì thỏ chạy để giữ mạng còn cáo chỉ chạy để kiếm bữa tối. Nói gọn lại thì động lực quan trọng lắm. Rất nhiều chuyện ta gặp hằng ngày bắt nguồn từ động lực, vậy…",
+      "added": "2026-10-26",
+      "reading_minutes": 4
+    },
+    {
+      "id": "nguoi-tre-tiet-kiem",
+      "title": "Người trẻ tiết kiệm: đồ si, thuê váy đi cưới và cơm mang đi làm",
+      "title_original": "",
+      "author": "Quỳnh Nguyễn",
+      "source": "VnExpress Đời sống",
+      "source_url": "https://vnexpress.net/nguoi-tre-tiet-kiem-4528416.html",
+      "lang": "vi",
+      "topics": [
+        "Tiền bạc"
+      ],
+      "summary": "Phương Anh, 26 tuổi, ở quận Hoàn Kiếm, Hà Nội mấy tháng gần đây đã từ bỏ sở thích shopping, thay vào đó là đi thuê quần áo mỗi khi cần \"lên đồ sang chảnh\" ví dụ như đi ăn cưới hoặc dự tiệc. \"Từ ngày biết dịch vụ cho…",
+      "added": "2026-10-26",
+      "reading_minutes": 2
+    },
+    {
+      "id": "kinh-te-hoc-hanh-vi-o-danh-dau-mac-dinh",
+      "title": "Kinh tế học hành vi: vì sao một ô đánh dấu mặc định có thể cứu nhiều người hơn cả lời kêu gọi",
+      "title_original": "",
+      "author": "Phạm Khánh Nam",
+      "source": "Tia Sáng",
+      "source_url": "https://tiasang.com.vn/kinh-te-hoc-hanh-vi-hai-giai-nobel-va-hanh-trinh-tu-thap-nga-di-vao-thuc-tien-4975043.html",
+      "lang": "vi",
+      "topics": [
+        "Tư duy & khoa học",
+        "Tâm lý"
+      ],
+      "summary": "Việt Nam có hàng trăm ngàn người bệnh chờ được ghép tạng. Bệnh viện Chợ Rẫy thông báo chỉ có 2.900 người tình nguyện đăng ký hiến các bộ phận cơ thể của mình sau khi mất đi. Trung tâm điều phối quốc gia về ghép Bộ phận…",
+      "added": "2026-10-26",
+      "reading_minutes": 2
+    },
+    {
+      "id": "doi-ngan-lam-dung-phi-vao-chuyen-nham-nhi",
+      "title": "Đời ngắn lắm, đừng phí vào chuyện nhảm nhí",
+      "title_original": "Life is Short",
+      "author": "Paul Graham",
+      "source": "paulgraham.com",
+      "source_url": "https://paulgraham.com/vb.html",
+      "lang": "en",
+      "topics": [
+        "Con người",
+        "Tư duy & khoa học"
+      ],
+      "summary": "Ai cũng biết đời người ngắn. Hồi nhỏ mình hay thắc mắc, không biết đời có thật sự ngắn không, hay ta chỉ than vì nó có hạn. Giả sử sống lâu gấp 10 lần, liệu ta có thôi than đời ngắn không? Hồi đó mình chẳng nghĩ ra cách…",
+      "added": "2026-10-26",
+      "reading_minutes": 8
+    },
+    {
+      "id": "chang-cuoi-cua-nhung-nguoi-minh-thuong",
+      "title": "Chặng cuối của những người mình thương",
+      "title_original": "The Tail End",
+      "author": "Tim Urban",
+      "source": "Wait But Why",
+      "source_url": "https://waitbutwhy.com/2015/12/the-tail-end.html",
+      "lang": "en",
+      "topics": [
+        "Con người",
+        "Tình yêu"
+      ],
+      "summary": "Năm ngoái mình có vẽ đời người thành các ô vuông, theo năm, theo tháng và theo tuần. Hồi đó mình còn làm cả biểu đồ theo ngày, nhưng thấy hơi quá nên bỏ ra. Giờ thì kệ, đưa lên luôn. Biểu đồ ngày làm mình choáng không…",
+      "added": "2026-10-26",
+      "reading_minutes": 5
+    },
+    {
+      "id": "triet-hoc-khong-hua-dieu-gi-ben-ngoai",
+      "title": "Triết học không hứa cho ta điều gì bên ngoài: Epictetus, người anh đang giận và quả sung chưa chín",
+      "title_original": "What philosophy promises",
+      "author": "Massimo Pigliucci",
+      "source": "Figs in Winter",
+      "source_url": "https://figsinwintertime.substack.com/p/what-philosophy-promises",
+      "lang": "en",
+      "topics": [
+        "Stoicism",
+        "Đối nhân xử thế"
+      ],
+      "summary": "Người tập triết học hay mong sai thứ. Ta nghe mãi những lời kiểu “học Khắc kỷ để thành người chiến thắng”, “để giàu”, “để nổi tiếng”, như thể đó là mục tiêu của triết học này. Ngay cả những điều khiêm tốn hơn, như giữ…",
+      "added": "2026-10-25",
+      "reading_minutes": 6
+    },
+    {
+      "id": "biet-du-khong-phai-la-cam-chiu",
+      "title": "Biết đủ không phải là cam chịu: Epictetus và nghệ thuật gọi tên lại hoàn cảnh",
+      "title_original": "On contentment",
+      "author": "Massimo Pigliucci",
+      "source": "Figs in Winter",
+      "source_url": "https://figsinwintertime.substack.com/p/on-contentment",
+      "lang": "en",
+      "topics": [
+        "Stoicism",
+        "Tư duy & khoa học"
+      ],
+      "summary": "Biết đủ nghe như một mục tiêu khá khiêm tốn. Văn hóa của chúng ta thì dạy ngược lại. Ta sống giữa cạnh tranh gay gắt, mua sắm không ngừng và cơn mê người nổi tiếng, nên ai biết đủ là kẻ thua cuộc. Phải đè bẹp đối thủ…",
+      "added": "2026-10-25",
+      "reading_minutes": 6
+    }
+  ]
+}
