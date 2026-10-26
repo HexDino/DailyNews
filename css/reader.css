@@ -1839,9 +1839,10 @@ body.calendar-sheet-open {
   }
 }
 
-/* Slow Reads library */
-.doc-cham-page {
-  max-width: 44rem;
+/* Slow Reads library — wide reading sheet (list + article) */
+.doc-cham-page,
+.doc-cham-article-page {
+  max-width: min(1100px, 90vw);
 }
 
 .doc-cham-search-form {
@@ -1924,10 +1925,6 @@ html[data-theme="dark"] .doc-cham-card {
   gap: var(--ui-chip-gap);
 }
 
-.doc-cham-article-page {
-  max-width: 38rem;
-}
-
 .doc-cham-back {
   margin: 0 0 1.25rem;
   font-family: var(--sans);
@@ -1976,8 +1973,17 @@ html[data-theme="dark"] .doc-cham-card {
 }
 
 .doc-cham-prose {
+  max-width: 92ch;
   font-size: 1.08rem;
   line-height: 1.7;
+}
+
+@media (min-width: 900px) {
+  .doc-cham-page,
+  .doc-cham-article-page {
+    padding-left: 3.25rem;
+    padding-right: 3.25rem;
+  }
 }
 
 .doc-cham-prose p {
