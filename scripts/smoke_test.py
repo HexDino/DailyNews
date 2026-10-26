@@ -428,6 +428,13 @@ def main() -> int:
                         errors.append(
                             "slow-reads article: missing Bản dịch tiếng Việt note"
                         )
+                has_star = any(
+                    "*" in (b.get("text") or "") for b in (art.get("body") or [])
+                )
+                if has_star and page.locator(".doc-cham-prose em").count() == 0:
+                    errors.append(
+                        "slow-reads article: *...* markup should render as <em>"
+                    )
             # Legacy /doc-cham/ redirect
             page.goto(f"{BASE_URL}doc-cham/", wait_until="domcontentloaded", timeout=60000)
             page.wait_for_url("**/slow-reads/**", timeout=15000)

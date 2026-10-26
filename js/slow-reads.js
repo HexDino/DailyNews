@@ -324,6 +324,13 @@
     render();
   }
 
+  function formatRichText(text) {
+    // Escape first, then *...* → <em> and newlines → <br> for paragraphs/quotes.
+    return escapeHtml(text)
+      .replace(/\*([^*]+)\*/g, "<em>$1</em>")
+      .replace(/\n/g, "<br>");
+  }
+
   function renderBody(blocks) {
     return (blocks || [])
       .map((b) => {
@@ -335,9 +342,9 @@
           const cite = b.cite
             ? `<footer class="doc-cham-quote-cite">— ${escapeHtml(b.cite)}</footer>`
             : "";
-          return `<blockquote class="doc-cham-quote"><p>${escapeHtml(text)}</p>${cite}</blockquote>`;
+          return `<blockquote class="doc-cham-quote"><p>${formatRichText(text)}</p>${cite}</blockquote>`;
         }
-        return `<p>${escapeHtml(text)}</p>`;
+        return `<p>${formatRichText(text)}</p>`;
       })
       .join("");
   }
