@@ -1925,6 +1925,10 @@ html[data-theme="dark"] .doc-cham-card {
   gap: var(--ui-chip-gap);
 }
 
+.doc-cham-article-head .doc-cham-card-topics {
+  margin: 0 0 1.75rem;
+}
+
 .doc-cham-back {
   margin: 0 0 1.25rem;
   font-family: var(--sans);
