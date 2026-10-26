@@ -276,8 +276,9 @@
     {
       "date": "2026-10-26",
       "path": "2026-10-26/content.json",
-      "article_count": 39,
-      "edition": "sang"
+      "article_count": 44,
+      "edition": "sang",
+      "has_doc_cham": true
     }
   ]
 }
