@@ -1973,7 +1973,6 @@ html[data-theme="dark"] .doc-cham-card {
 }
 
 .doc-cham-prose {
-  max-width: 92ch;
   font-size: 1.08rem;
   line-height: 1.7;
 }

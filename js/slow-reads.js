@@ -378,6 +378,11 @@
       const sourceLink = a.source_url
         ? `<a class="source-link" href="${escapeHtml(a.source_url)}" rel="noopener noreferrer" target="_blank">${escapeHtml(a.source || a.source_url)}</a>`
         : escapeHtml(a.source || "");
+      const sourceLabel = a.source || "nguồn";
+      const fullRead =
+        a.source_url
+          ? `<h2>Đọc toàn bài</h2><p><a class="doc-cham-full-read-link" href="${escapeHtml(a.source_url)}" rel="noopener noreferrer" target="_blank">Đọc toàn bài tại ${escapeHtml(sourceLabel)}</a></p>`
+          : "";
       root.innerHTML = `
         <p class="doc-cham-back"><a href="${escapeHtml(asset("slow-reads/"))}">← Thư viện Slow Reads</a></p>
         <header class="doc-cham-article-head">
@@ -387,7 +392,7 @@
           ${translated ? `<p class="doc-cham-translated ui-chip ui-chip--accent">Bản dịch tiếng Việt</p>` : ""}
           ${topics ? `<div class="doc-cham-card-topics">${topics}</div>` : ""}
         </header>
-        <div class="doc-cham-prose">${renderBody(a.body)}</div>
+        <div class="doc-cham-prose">${renderBody(a.body)}${fullRead}</div>
         <p class="doc-cham-back doc-cham-back-bottom"><a href="${escapeHtml(asset("slow-reads/"))}">← Thư viện Slow Reads</a></p>
       `;
     } catch (e) {
