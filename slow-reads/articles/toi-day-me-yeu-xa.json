@@ -12,10 +12,10 @@
   ],
   "summary": "Thùy Minh kể chuyện mình và mẹ học cách thương nhau từ xa: từ “định mức 2 tiếng đồng hồ” khi con đi học, đi làm xa, đến lúc chính mẹ sang châu Phi làm việc 6 năm. Cuối cùng, khi khoảng cách không còn là vấn đề, điều tác giả lo nhất lại là thời gian ở bên bố mẹ.",
   "added": "2026-10-26",
-  "reading_minutes": 3,
+  "reading_minutes": 7,
   "source_stats": {
     "url": "https://vietcetera.com/vn/toi-day-me-yeu-xa",
-    "coverage": "condensed",
+    "coverage": "full",
     "word_count": 1184,
     "char_count": 4018,
     "paragraph_count": 26,
@@ -26,23 +26,107 @@
   "body": [
     {
       "type": "p",
-      "text": "Năm 17 tuổi, tôi cũng như bao đứa trẻ khác, chỉ mong được rời nhà. Mẹ thì muốn tôi học gần, ngay ở Hải Phòng. Để mẹ yên lòng, tôi nghĩ ra một mẹo: lên Hà Nội học thì đi xe buýt cũng chỉ hai tiếng là về tới nhà. Từ đó, “hai tiếng đồng hồ” thành thước đo xa gần của mẹ. Ra trường, tôi vào Sài Gòn làm việc, rồi sang Thái Lan sống và làm cho một công ty nước ngoài. Lần nào tôi cũng dỗ mẹ bằng đúng con số ấy, chỉ khác là xe buýt đổi thành máy bay."
+      "text": "Giống mọi đứa trẻ muốn được sổ lồng khi đủ tuổi, năm 17 tuổi tôi đã treo một khẩu hiệu thật to ở trong phòng, bằng tiếng Anh để mẹ không thể đọc được. Khẩu hiệu viết: “Tự do- 2 năm nữa!”"
     },
     {
       "type": "p",
-      "text": "Nhưng mẹ lo xa thì tôi phải học cách trấn an mẹ. Có lần tôi đi nước ngoài mà quên báo, mẹ gọi mấy ngày không được nên giận lắm. Từ đó tôi rút ra bài học đầu tiên trong chuyện “dạy mẹ”: cứ kể cho mẹ nghe về những chuyến đi, và lúc nào mẹ gọi cũng phải nghe máy. Nhiều bạn tôi lại làm ngược. Có người cố tình không nghe máy khi đang đi chơi, có cậu còn lưu mẹ trong danh bạ bằng cái tên “Lan” cho đỡ bị bạn trêu."
+      "text": "Tôi không đợi được đến ngày mình sẽ vào Đại học và được sống xa gia đình. Thế mà mẹ thỉnh thoảng vẫn chẹp miệng: Hay là con học ở Hải Phòng đi. Lên Hà Nội xa quá!"
+    },
+    {
+      "type": "h2",
+      "text": "2 Tiếng đồng hồ"
     },
     {
       "type": "p",
-      "text": "Rồi công nghệ làm cả nhà gần nhau theo một cách khác. Thời Skype trên máy tính, tôi thuyết phục bố mẹ lắp Internet ở nhà dù ông bà bảo không cần. Gặp nhau qua webcam, bố mẹ thấy được con đang ở đâu, làm gì. Mỗi năm tôi chỉ về dịp Tết, nên những cuộc gọi ấy dần thay cho những lần về thăm. Đến khi dạy được mẹ dùng iPad, mẹ gọi lúc nào cũng được, và chẳng ai còn nhắc đến mốc hai tiếng nữa."
+      "text": "Tôi bảo: Mẹ ơi, chỉ 2 tiếng đồng hồ đi xe buýt là con đã có mặt ở nhà rồi. Sau này “2 tiếng đồng hồ\" trở thành định mức để mẹ tôi phân biệt chuyện xa-gần."
     },
     {
       "type": "p",
-      "text": "Sau đó mới đến chuyện bất ngờ. Mẹ, người cả đời chỉ lo con đi xa, lại sang Angola làm bác sĩ chuyên gia cho Tổ chức Y tế Thế giới. Đường bay mất 32 tiếng, phải đổi máy bay ba lần, và mẹ ở đó hơn 6 năm. Cả nhà theo dõi một ngày của mẹ qua Messenger: nửa ngày làm ở bệnh viện, thời gian còn lại thì trồng rau, đi chợ mua gà, cuối tuần ra biển. Mỗi lần gọi, câu đầu tiên bao giờ cũng là hỏi bên đó đang mấy giờ."
+      "text": "Sau Đại học, tôi chuyển vào thành phố Hồ Chí Minh làm việc. Mẹ té ngửa thêm lần thứ 2. Tôi lại an ủi: Mẹ ơi, con bay máy bay cũng cũng chỉ... 2 tiếng đồng hồ thôi!"
     },
     {
       "type": "p",
-      "text": "Bài này nằm trong chuỗi “Cứ để con!” của Vietcetera, làm cùng dự án Học Yêu By Prudential. Khi mẹ về lại Hải Phòng, tôi nhẩm tính: nếu mỗi năm chỉ về nhà dịp Tết thì có khi tôi chỉ còn gặp bố mẹ 10 hay 20 lần nữa. Từ đó tôi vẫn gọi cho mẹ mỗi ngày, nhưng cố về nhà nhiều hơn và rủ bố mẹ vào Sài Gòn chơi thường hơn."
+      "text": "Một lần nọ, mẹ gọi điện cho tôi ò í e không được mất mấy ngày. Tôi 21 tuổi, quên béng là phải báo cáo mẹ về chuyến đi nước ngoài đầu tiên. Lúc quay lại từ Thái Lan, tôi gọi điện lại thấy mẹ bực mình lắm. Nhưng vẫn không là gì so với chuyện bực mình khi mà mẹ biết là sau đấy, tôi quyết định... chuyển sang Thái Lan sống đến hơn tháng và làm việc tại một công ty nước ngoài."
+    },
+    {
+      "type": "p",
+      "text": "Định luật lại được bảo toàn, vì “2 tiếng đồng hồ” vẫn không hề thay đổi, dù khoảng cách thực tế đã từ 100 cây số thành vài ngàn ki lô mét. Sử dụng đơn vị đường chim bay khiến mẹ tôi bắt đầu quen hơn với việc, ừ thì con mình sẽ chấp chới bay đi đâu đấy mất hút, nhưng chỉ cần hai tiếng đồng hồ là sẽ vẫn có mặt ở nhà."
+    },
+    {
+      "type": "p",
+      "text": "Vào lúc biết mình là một người thích tự do, bay nhảy, bước đầu tôi-dạy-mẹ, là không ngại giấu mẹ những chuyến đi của mình. Hầu hết những đứa con cho rằng bố mẹ không hiểu mình, việc mình thì mình cứ lẳng lặng mà làm thôi."
+    },
+    {
+      "type": "p",
+      "text": "Nhưng làm sao để bố mẹ yên tâm, lúc ấy tôi lờ mờ hiểu rằng: mình hãy chia sẻ nhiệt thành. Và luôn-luôn-nhấc-máy điện thoại. Vâng, hồi đó, người ta chỉ dùng điện thoại để gọi nhau thay vì Skype, rồi Facetime, Messenger như thời hiện tại."
+    },
+    {
+      "type": "h2",
+      "text": "Sự tiến hoá của điện thoại"
+    },
+    {
+      "type": "p",
+      "text": "Rất nhiều bạn bè tôi chọn cách không nhấc máy điện thoại bố mẹ mỗi lần đi chơi nhóm. Nhất là hội con trai hay xấu hổ vì sợ bị trêu là bị mẹ gọi về nhà. Có đứa còn đổi tên mẹ là Lan, giả vờ như một cô Lan nào đó gọi cho mình để đỡ bị chọc ghẹo."
+    },
+    {
+      "type": "p",
+      "text": "Nhưng kể cả chăm chỉ nhấc máy điện thoại, việc… “bịa\" là mình ở đâu làm gì cũng khá dễ dàng. Cho đến lúc Skype ra đời- trên máy tính- những năm 2000. Lúc này di động thông minh chưa xuất hiện, việc phải ngồi trước máy tính với cài đặt webcam, hơi lằng nhằng nhưng khiến bố mẹ- được cung cấp đường hình, thông tin việc ở đâu làm gì dễ dàng được kiểm chứng. Tôi thuyết phục mẹ mắc bằng được Internet ở nhà những năm này, dù ông bà vẫn hay gạt đi, bảo có cần gì đâu."
+    },
+    {
+      "type": "p",
+      "text": "Tôi cũng lờ mờ cảm nhận việc này đang thay thế dần cho mình những chuyến về thăm nhà của mình. Tôi về nhà ít đi, mỗi năm chỉ trở lại vào dịp Tết. Thay thế vào đó, tôi gặp mẹ trên màn hình máy tính thường xuyên hơn. Một cách nào đó, tôi vẫn ở đó, trong sự yên tâm của mẹ."
+    },
+    {
+      "type": "p",
+      "text": "Đến thời điểm lịch sử khi iPad được cập bến và tôi thành công trong việc dạy mẹ việc sử dụng máy tính bảng, việc yêu xa của nhà tôi đã trở thành một dấu mốc lịch sử. Giờ thì ở bất cứ đâu, mẹ tôi cũng có thể gọi và biết đích xác tôi đang làm gì. Chả ai còn quan tâm đến định mức 2 tiếng đồng hồ được giao kèo ở đầu câu chuyện, khi chỉ 2 giây người ta đã kết nối được với nhau."
+    },
+    {
+      "type": "p",
+      "text": "Tuy nhiên, mọi đoạn cuối của câu chuyện luôn cần một cú twist."
+    },
+    {
+      "type": "h2",
+      "text": "Mẹ chuyển đến... Châu Phi!"
+    },
+    {
+      "type": "p",
+      "text": "Chính xác là 32 tiếng chim bay và 3 lần đổi máy bay! Mẹ chuyển đến thành phố hẻo lánh nào đó ở Angola thuộc miền trung Châu Phi, theo chế độ bác sĩ chuyên gia của Tổ chức Y tế Thế giới."
+    },
+    {
+      "type": "p",
+      "text": "Mẹ tôi, từ một người suốt 50 năm nay chẳng đi đâu và chỉ lo đám con cái ở quá xa mình, một ngày đẹp trời xa tầm tay với của tất cả gia đình. Mẹ không đi Thái Lan một tháng giống tôi. Mẹ ở Châu Phi hơn 6 năm."
+    },
+    {
+      "type": "p",
+      "text": "Chúng tôi được trang bị mọi phương tiện để yêu xa. Chỉ có điều câu hỏi đầu tiên qua Messenger sẽ luôn là “Đang mấy giờ thế mẹ nhỉ?” vì chênh lệch múi giờ."
+    },
+    {
+      "type": "p",
+      "text": "Mỗi ngày chúng tôi đều nắm chặt lịch của mẹ làm gì. Mẹ đi làm ở bệnh viện nửa ngày, thời gian còn lại mẹ trồng rau sau vườn và đi chợ mua thịt gà."
+    },
+    {
+      "type": "p",
+      "text": "Mẹ kể người dân Angola hồn nhiên đến mức, mẹ luôn mua nguyên một con gà vì thi thoảng trên đường đi về bị ai đấy nhìn thấy, họ bèn xin mất một nửa! Cuối tuần mẹ sẽ ra biển chơi. Biển ở đấy không có hàng quán gì, chỉ có cát và sóng…"
+    },
+    {
+      "type": "h2",
+      "text": "Yêu xa vs. yêu gần"
+    },
+    {
+      "type": "p",
+      "text": "Sau 6 năm, mẹ trở lại thành phố Hải Phòng, gia đình tôi lẫn em gái lại cách mẹ 2 tiếng đường chim bay. Nhưng nếu mỗi năm chỉ về nhà vào dịp Tết, chúng tôi tính nhẩm một sự thật phũ phàng: mình có khi sẽ chỉ gặp được bố mẹ 10 hay 20 lần nữa. Như một tiếng sét nổ ngang tai, chưa bao giờ tôi thấy mình cần ở gần với bố mẹ đến như vậy!"
+    },
+    {
+      "type": "p",
+      "text": "Hiện tại chúng tôi vẫn yêu xa mỗi ngày, mẹ vẫn cười ngặt nghẽo mỗi lúc thằng cháu ngoại thử một kiểu face-filter mới. Nhưng tôi tìm cách để yêu-gần đều đặn hơn, bằng việc chịu khó về thăm nhà nhiều hơn, rủ bố mẹ đi chơi hoặc vào thành phố Hồ Chí Minh năng nổ hơn."
+    },
+    {
+      "type": "p",
+      "text": "Khi khoảng cách không còn là trở ngại, thời gian là thứ duy nhất tôi đau đáu nghĩ về và mong muốn mình có nhiều hơn cùng bố mẹ!"
+    },
+    {
+      "type": "p",
+      "text": "“Cứ để con!” là chuỗi nội dung của Vietcetera, song hành cùng dự án Học Yêu By Prudential, với thông điệp: Trong gia đình, tình yêu chảy xuôi, và cũng chảy ngược; hãy học yêu để trở thành điểm tựa của nhau."
     }
   ]
 }
