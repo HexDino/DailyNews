@@ -13,6 +13,16 @@
   "summary": "Paul Graham kể rằng sau khi bán công ty, ông nhận ra người ta mất tiền chủ yếu vì đầu tư dở chứ không phải vì tiêu xài. Thời gian cũng vậy: thứ ngốn nhiều nhất không phải giải trí mà là việc giả như xử lý email, vì nó không làm ta thấy áy náy.",
   "added": "2026-10-26",
   "reading_minutes": 2,
+  "source_stats": {
+    "url": "https://paulgraham.com/selfindulgence.html",
+    "coverage": "condensed",
+    "word_count": 680,
+    "char_count": 3047,
+    "paragraph_count": 10,
+    "sentence_count": 39,
+    "heading_count": 0,
+    "sha256": "f8cb0fd5f52da7a9c745816e3443c5f55302929b7f7d97a17238ce3c77e48f0d"
+  },
   "body": [
     {
       "type": "p",

@@ -13,6 +13,16 @@
   "summary": "Tác giả nhận ra đời thật sự ngắn khi đếm những cuối tuần và những mùa Giáng sinh còn lại bên con. Từ đó ông rút ra cách sống: tránh việc nhảm nhí, tìm việc có ý nghĩa, đừng chờ đợi và biết nhấm nháp thời gian.",
   "added": "2026-10-26",
   "reading_minutes": 6,
+  "source_stats": {
+    "url": "https://paulgraham.com/vb.html",
+    "coverage": "full",
+    "word_count": 1691,
+    "char_count": 7524,
+    "paragraph_count": 27,
+    "sentence_count": 113,
+    "heading_count": 0,
+    "sha256": "cdd2f7e1708b7f40708ed73e1edea7d558b943911d9a135ec776ab5664e44ac1"
+  },
   "body": [
     {
       "type": "p",

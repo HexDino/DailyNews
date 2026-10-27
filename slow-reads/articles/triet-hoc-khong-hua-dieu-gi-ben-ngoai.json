@@ -13,6 +13,16 @@
   "summary": "Một bài trong loạt về Discourses của Epictetus. Từ chuyện người đi hỏi cách làm anh trai hết giận, bài giải thích việc nào trong tầm tay ta, việc nào không. Tác giả nối khái niệm prohairesis với thần kinh học về vỏ não trước trán, rồi kết bằng hình ảnh quả sung cần thời gian để chín.",
   "added": "2026-10-25",
   "reading_minutes": 5,
+  "source_stats": {
+    "url": "https://figsinwintertime.substack.com/p/what-philosophy-promises",
+    "coverage": "full",
+    "word_count": 1168,
+    "char_count": 5905,
+    "paragraph_count": 25,
+    "sentence_count": 32,
+    "heading_count": 0,
+    "sha256": "67c0c0c53a793354a1f6296a978d2b0d7e3441110e8ea03d9626ae164c712b48"
+  },
   "body": [
     {
       "type": "p",

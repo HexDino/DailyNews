@@ -13,6 +13,16 @@
   "summary": "Thùy Minh kể chuyện mình và mẹ học cách thương nhau từ xa: từ “định mức 2 tiếng đồng hồ” khi con đi học, đi làm xa, đến lúc chính mẹ sang châu Phi làm việc 6 năm. Cuối cùng, khi khoảng cách không còn là vấn đề, điều tác giả lo nhất lại là thời gian ở bên bố mẹ.",
   "added": "2026-10-26",
   "reading_minutes": 3,
+  "source_stats": {
+    "url": "https://vietcetera.com/vn/toi-day-me-yeu-xa",
+    "coverage": "condensed",
+    "word_count": 1184,
+    "char_count": 4018,
+    "paragraph_count": 26,
+    "sentence_count": 59,
+    "heading_count": 4,
+    "sha256": "0e54df976287fd09c3314fd9804d499562c856fdc3e2683fdcc060346a7c6163"
+  },
   "body": [
     {
       "type": "p",

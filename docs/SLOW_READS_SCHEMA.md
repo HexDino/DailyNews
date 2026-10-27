@@ -6,13 +6,23 @@ For the fetch → translate → publish workflow (and the bot prompts), see [SLO
 
 ## Add an article (bot / human)
 
-1. Create `slow-reads/articles/<id>.json` (filename stem **must** equal the `id` field).
-2. Run:
+1. Fetch the source (cache only, never committed):
+   ```bash
+   python3 scripts/fetch_source.py "<url>" --id <id>
+   ```
+2. Create `slow-reads/articles/<id>.json` (filename stem **must** equal the `id` field) and translate the full text.
+3. Attach coverage measurements:
+   ```bash
+   python3 scripts/attach_source_stats.py <id>
+   ```
+   Add `--coverage condensed` only for an intentionally abridged legacy post.
+4. Run:
    ```bash
    python3 scripts/add_slow_read.py
+   python3 scripts/validate_slow_read.py --strict
    ```
-   This rebuilds `slow-reads/articles/index.json` (list metadata only — full text stays in each article file).
-3. Commit `slow-reads/articles/<id>.json` and `slow-reads/articles/index.json`, then push `main`.
+   `add_slow_read.py` rebuilds `slow-reads/articles/index.json` (list metadata only — full text stays in each article file).
+5. Commit `slow-reads/articles/<id>.json` and `slow-reads/articles/index.json`, then push `main`.
 
 Do **not** edit `index.json` by hand; the script is the source of truth for the list.
 
@@ -32,6 +42,7 @@ Do **not** edit `index.json` by hand; the script is the source of truth for the 
 | `added` | yes | Date the piece entered the library (`YYYY-MM-DD`). |
 | `reading_minutes` | yes | Estimated minutes (integer ≥ 1). |
 | `body` | yes | Non-empty array of content blocks (full readable text). |
+| `source_stats` | yes | Source measurements for coverage checks. See below. |
 
 ### `body[]` blocks
 
@@ -65,6 +76,43 @@ Example:
   ]
 }
 ```
+
+## Source stats (`source_stats`)
+
+Produced by `scripts/attach_source_stats.py` from `.cache/slow-reads/<id>/source.txt`. It stores numbers only — never the source text.
+
+| Field | Required | Description |
+| --- | --- | --- |
+| `url` | yes | Source URL from `meta.json`. |
+| `coverage` | yes | `full` (default) or `condensed` for an intentionally abridged legacy post. |
+| `word_count` | yes | Whitespace-separated words in the normalized source. |
+| `char_count` | yes | Source characters excluding whitespace. |
+| `paragraph_count` | yes | Non-empty source blocks. |
+| `sentence_count` | yes | Sentences (≥3 words) in the normalized source. |
+| `heading_count` | yes | Section headings (`##`–`######`); the `#` title is excluded. |
+| `sha256` | yes | SHA-256 of the normalized source text; matches the cached source. |
+
+Example:
+
+```json
+"source_stats": {
+  "url": "https://paulgraham.com/vb.html",
+  "coverage": "full",
+  "word_count": 1691,
+  "char_count": 7524,
+  "paragraph_count": 27,
+  "sentence_count": 113,
+  "heading_count": 0,
+  "sha256": "cdd2f7e1…"
+}
+```
+
+Validation rules:
+
+- Missing `source_stats` is a warning, fatal in CI (`--strict`).
+- `coverage: "full"`: fatal when the translation is under 45% of source characters or 50% of source sentences.
+- Block and heading counts are informational (paragraph merging and sentence splitting vary by language).
+- `coverage: "condensed"`: all coverage metrics are informational; schema checks still apply.
 
 ## Topics
 

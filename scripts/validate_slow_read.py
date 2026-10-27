@@ -6,9 +6,9 @@ Usage:
   python scripts/validate_slow_read.py path/to/id.json    # check selected files
   python scripts/validate_slow_read.py --strict           # warnings are fatal (CI)
 
-Checks schema (docs/SLOW_READS_SCHEMA.md), body blocks, index consistency and,
-when a fetched source exists under .cache/slow-reads/ (matched by id or
-source_url), translation coverage.
+Checks schema (docs/SLOW_READS_SCHEMA.md), body blocks, index consistency and
+translation coverage against the embedded source_stats (or the cached source
+under .cache/slow-reads/ when available).
 
 Exit codes: 0 ok, 1 validation failure.
 """
@@ -20,6 +20,8 @@ import re
 import sys
 from datetime import date, datetime, timedelta
 from pathlib import Path
+
+from source_stats import STATS_INT_FIELDS, compute_stats, count_sentences, find_source
 
 ROOT = Path(__file__).resolve().parent.parent
 ARTICLES_DIR = ROOT / "slow-reads" / "articles"
@@ -42,7 +44,7 @@ REQUIRED_FIELDS = (
     "reading_minutes",
     "body",
 )
-OPTIONAL_FIELDS = {"title_original", "source_url"}
+OPTIONAL_FIELDS = {"title_original", "source_url", "source_stats"}
 BLOCK_FIELDS = {
     "p": {"type", "text"},
     "h2": {"type", "text"},
@@ -55,6 +57,7 @@ EN_STOPWORDS = {
     "are", "were", "has", "have", "had", "not", "but", "they", "you",
 }
 WORDS_PER_MINUTE = 180
+SHA_RE = re.compile(r"^[0-9a-f]{64}$")
 
 
 def block_text(block: dict) -> str:
@@ -109,57 +112,78 @@ def english_residue(text: str) -> tuple[int, float]:
     return hits, hits / len(tokens)
 
 
-def find_source(
-    aid: str, source_url: str | None, cache_dir: Path
-) -> tuple[Path | None, Path | None]:
-    source_path = cache_dir / aid / "source.txt"
-    meta_path = cache_dir / aid / "meta.json"
-    if source_path.is_file():
-        return source_path, meta_path if meta_path.is_file() else None
-    if not source_url:
-        return None, None
-    target = source_url.rstrip("/")
-    for candidate in sorted(cache_dir.glob("*/meta.json")):
-        try:
-            meta = json.loads(candidate.read_text(encoding="utf-8"))
-        except (OSError, json.JSONDecodeError):
-            continue
-        if str(meta.get("url") or "").rstrip("/") == target:
-            sibling = candidate.with_name("source.txt")
-            if sibling.is_file():
-                return sibling, candidate
-    return None, None
+def check_source_stats(
+    stats: object, errors: list[str], warnings: list[str]
+) -> dict | None:
+    if not isinstance(stats, dict):
+        errors.append("source_stats must be an object")
+        return None
+    for field in STATS_INT_FIELDS:
+        value = stats.get(field)
+        if isinstance(value, bool) or not isinstance(value, int) or value < 0:
+            errors.append(f"source_stats.{field} must be a non-negative integer")
+    url = stats.get("url")
+    if url is not None and (
+        not isinstance(url, str) or not url.startswith(("http://", "https://"))
+    ):
+        warnings.append("source_stats.url should be an http(s) URL")
+    sha = stats.get("sha256")
+    if not isinstance(sha, str) or not SHA_RE.match(sha):
+        errors.append("source_stats.sha256 must be 64 lowercase hex chars")
+    coverage = stats.get("coverage")
+    if coverage is not None and coverage not in ("full", "condensed"):
+        errors.append("source_stats.coverage must be 'full' or 'condensed'")
+    word_count = stats.get("word_count")
+    if (
+        isinstance(word_count, int)
+        and not isinstance(word_count, bool)
+        and word_count < 50
+    ):
+        warnings.append("source_stats.word_count is very small; check the fetched source")
+    return stats
 
 
-def coverage_messages(source_path: Path, blocks: list[dict]) -> list[str]:
-    if not source_path.is_file():
-        return []
-    source = source_path.read_text(encoding="utf-8", errors="replace")
-    src_chars = compact_len(source)
-    if src_chars < 200:
-        return []
-    out_chars = compact_len(body_text(blocks))
-    ratio = out_chars / src_chars
-    messages: list[str] = []
-    if ratio < 0.45:
-        messages.append(
-            f"translation is {ratio:.0%} of source length; check for skipped sections"
+def coverage_messages(
+    stats: dict, blocks: list[dict], warnings: list[str], notes: list[str]
+) -> None:
+    strict = (stats.get("coverage") or "full") == "full"
+    src_chars = stats.get("char_count") or 0
+    if not isinstance(src_chars, int) or src_chars < 200:
+        return
+    text = body_text(blocks)
+    char_ratio = compact_len(text) / src_chars
+    if char_ratio < 0.45:
+        message = (
+            f"translation is {char_ratio:.0%} of source length; check for skipped sections"
         )
-    elif ratio > 3.0:
-        messages.append(
-            f"translation is {ratio:.1f}x source length; check for added content"
+        (warnings if strict else notes).append(message)
+    elif char_ratio > 3.0:
+        message = (
+            f"translation is {char_ratio:.1f}x source length; check for added content"
         )
-    src_paras = [
-        p for p in re.split(r"\n\s*\n|\n", source) if len(p.strip()) > 40
-    ]
-    out_paras = [
-        b for b in blocks if b.get("type") == "p" and len(block_text(b)) > 40
-    ]
-    if src_paras and len(out_paras) / len(src_paras) < 0.5:
-        messages.append(
-            f"only {len(out_paras)} paragraphs vs {len(src_paras)} in source"
-        )
-    return messages
+        (warnings if strict else notes).append(message)
+
+    src_paragraphs = stats.get("paragraph_count") or 0
+    block_ratio = len(blocks) / src_paragraphs if src_paragraphs else 1.0
+    if src_paragraphs and block_ratio < 0.5:
+        notes.append(f"only {len(blocks)} blocks vs {src_paragraphs} source paragraphs")
+
+    src_sentences = stats.get("sentence_count") or 0
+    body_sentences = count_sentences(text)
+    sentence_ratio = body_sentences / src_sentences if src_sentences else 1.0
+    if src_sentences and sentence_ratio < 0.5:
+        message = f"only {body_sentences} sentences vs {src_sentences} in source"
+        (warnings if strict else notes).append(message)
+
+    src_headings = stats.get("heading_count") or 0
+    body_headings = sum(1 for b in blocks if b.get("type") in ("h2", "h3"))
+    if src_headings and body_headings < src_headings:
+        notes.append(f"only {body_headings} headings vs {src_headings} in source")
+
+    notes.append(
+        f"coverage: chars {char_ratio:.0%}, blocks {block_ratio:.0%}, "
+        f"sentences {sentence_ratio:.0%}"
+    )
 
 
 def validate_article(
@@ -269,13 +293,30 @@ def validate_article(
         if abs(minutes - expected) > max(2, round(expected * 0.4)):
             notes.append(f"reading_minutes={minutes} but body is ~{expected} min")
 
+    embedded_stats: dict | None = None
+    if data.get("source_stats") is None:
+        warnings.append(
+            f"missing source_stats; run scripts/attach_source_stats.py {aid or path.stem}"
+        )
+    else:
+        embedded_stats = check_source_stats(data["source_stats"], errors, warnings)
+
+    stats_for_coverage = embedded_stats
     if aid and cache_dir is not None and cache_dir.is_dir():
         src_path, meta_path = find_source(
             aid, source_url if is_nonempty_str(source_url) else None, cache_dir
         )
         if src_path is not None:
-            for msg in coverage_messages(src_path, blocks):
-                warnings.append(msg)
+            live_stats = compute_stats(
+                src_path.read_text(encoding="utf-8", errors="replace")
+            )
+            if embedded_stats:
+                live_stats["coverage"] = embedded_stats.get("coverage") or "full"
+                if embedded_stats.get("sha256") != live_stats["sha256"]:
+                    warnings.append(
+                        "source_stats.sha256 does not match cached source; rerun attach"
+                    )
+            stats_for_coverage = live_stats
         meta: object = None
         if meta_path is not None:
             try:
@@ -289,6 +330,18 @@ def validate_article(
             meta_lang = str(meta.get("language") or "")[:2].lower()
             if meta_lang and is_nonempty_str(lang) and meta_lang != lang[:2].lower():
                 notes.append(f"lang={lang} but source metadata says {meta_lang}")
+
+    if isinstance(embedded_stats, dict):
+        embedded_url = str(embedded_stats.get("url") or "").rstrip("/")
+        if (
+            is_nonempty_str(source_url)
+            and embedded_url
+            and embedded_url != source_url.rstrip("/")
+        ):
+            warnings.append("source_stats.url differs from source_url")
+
+    if isinstance(stats_for_coverage, dict):
+        coverage_messages(stats_for_coverage, blocks, warnings, notes)
 
     return aid
 

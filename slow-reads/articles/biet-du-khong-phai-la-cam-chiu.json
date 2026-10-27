@@ -13,6 +13,16 @@
   "summary": "Đọc chương 12, quyển 1 của Epictetus: vì sao bằng lòng không phải là cam chịu mà là một kỹ năng. Bài cho thấy cách đặt lại tên cho hoàn cảnh, ví dụ cô đơn thành bình yên, đám đông thành lễ hội, và chuyện Socrates tự nguyện ở tù. Bài chốt lại rằng việc của ta chỉ là dùng đúng các ấn tượng.",
   "added": "2026-10-25",
   "reading_minutes": 5,
+  "source_stats": {
+    "url": "https://figsinwintertime.substack.com/p/on-contentment",
+    "coverage": "full",
+    "word_count": 1326,
+    "char_count": 6340,
+    "paragraph_count": 18,
+    "sentence_count": 54,
+    "heading_count": 0,
+    "sha256": "4596dc56ad3f30b98a35411b8a3a772dd4518e308b5685861bde470a6843653d"
+  },
   "body": [
     {
       "type": "p",

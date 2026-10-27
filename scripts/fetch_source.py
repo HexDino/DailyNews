@@ -30,6 +30,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
 
+from source_stats import compute_stats
+
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_CACHE = ROOT / ".cache" / "slow-reads"
 USER_AGENT = (
@@ -220,7 +222,7 @@ def main() -> int:
     if args.keep_html:
         (out_dir / "source.html").write_text(html, encoding="utf-8")
 
-    paragraphs = [p for p in text.split("\n\n") if p.strip()]
+    stats = compute_stats(text)
     info = {
         "id": aid,
         "url": args.url,
@@ -230,16 +232,14 @@ def main() -> int:
         "date": meta_value(meta, "date"),
         "sitename": meta_value(meta, "sitename"),
         "language": args.lang or meta_value(meta, "language"),
-        "word_count": len(text.split()),
-        "char_count": len(text),
-        "paragraph_count": len(paragraphs),
+        **stats,
         "extractor": f"trafilatura {version}",
     }
     (out_dir / "meta.json").write_text(
         json.dumps(info, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
 
-    print(f"Wrote {source_path} ({info['word_count']:,} words, {len(paragraphs)} paragraphs)")
+    print(f"Wrote {source_path} ({info['word_count']:,} words, {info['paragraph_count']} paragraphs)")
     print(f"Wrote {out_dir / 'meta.json'}")
     print(f"Source: {info['title'] or '(no title)'} — {info['sitename'] or args.url}")
     print("Next: translate source.txt into slow-reads/articles/<id>.json, then validate.")

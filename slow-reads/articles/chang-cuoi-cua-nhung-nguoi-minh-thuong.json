@@ -13,6 +13,16 @@
   "summary": "Tim Urban đếm đời mình bằng số lần làm một việc, rồi nhận ra các mối quan hệ không rải đều theo năm tháng. Với bố mẹ, chị em và bạn cũ, phần lớn thời gian bên nhau đã qua, và ông rút ra ba điều nên làm.",
   "added": "2026-10-26",
   "reading_minutes": 4,
+  "source_stats": {
+    "url": "https://waitbutwhy.com/2015/12/the-tail-end.html",
+    "coverage": "full",
+    "word_count": 1148,
+    "char_count": 4897,
+    "paragraph_count": 39,
+    "sentence_count": 50,
+    "heading_count": 0,
+    "sha256": "8c21efd312763743a3c4ae2dcc908c620f863c3370edcc4a9a3e3be3d495521a"
+  },
   "body": [
     {
       "type": "p",
