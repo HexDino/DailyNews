@@ -1,0 +1,1224 @@
+{
+  "date": "2026-10-28",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 28/10/2026 · Thứ Tư · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Anthropic công bố Claude tự viết chuỗi khai thác cho Chrome, Safari, Android, Windows và Linux",
+    "Israel: thăm dò sau bỏ phiếu cho phe đối lập 52 – 50 ghế, không khối nào đủ 61; cử tri đi bầu cao nhất 25 năm",
+    "Iran tuyên bố “đóng” eo Hormuz với tàu không phối hợp sau vụ tàu dầu trúng thủy lôi; Mỹ rút nhân viên khỏi Saudi",
+    "Địa chấn Carabao Cup: Fleetwood (hạng 18 League Two) loại Arsenal trên chấm luân lưu"
+  ],
+  "followups": [
+    {
+      "title": "Bầu cử Quốc hội Israel",
+      "update": "Thăm dò sau bỏ phiếu (3:00 sáng 28/10 giờ VN) cho khối muốn thay ông Netanyahu 52 ghế, khối của ông 50, các đảng Ả Rập 18; không khối nào đủ 61. Likud 24–25 ghế, Yashar! 22–23. Tỷ lệ đi bầu 77,7%, cao nhất 25 năm. Ông Eisenkot cam kết lập chính phủ thay thế. Kết quả sơ bộ dự kiến có trong hôm nay; kết quả chính thức trong vòng 8 ngày.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-26-chieu",
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynetnews.com/article/bknat9r3ge"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/israel-election-netanyahu-eisenkot-3b5a0fd078208155337ee9a0b9fbfde2"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Iran nói một tàu dầu trúng thủy lôi bốc cháy ở phía đông Hormuz, eo biển “đóng” với tàu không phối hợp; tàu của hãng Sinokor bị “xử lý pháp lý” từ 1/11. Houthi bắn tên lửa vào nhà máy lọc dầu Ras Tanura; Mỹ rút nhân viên không thiết yếu khỏi Saudi. IAEA không xác minh được 440 kg uranium làm giàu cao của Iran.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "Anadolu",
+          "url": "https://www.aa.com.tr/en/middle-east/iran-says-oil-tanker-catches-fire-after-hitting-naval-mine-east-of-strait-of-hormuz/4102560"
+        },
+        {
+          "name": "Fox News",
+          "url": "https://www.foxnews.com/live-news/us-iran-war-peace-talks-donald-trump-strait-hormuz-october-27"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử tổng thống Brazil vòng hai: Lula – Flávio Bolsonaro",
+      "update": "Flávio Bolsonaro rút yêu cầu hủy kết quả bầu cử chưa đầy 24 giờ sau khi đưa ra, tuyên bố sẽ làm lãnh đạo phe đối lập; đảng PL công nhận kết quả. Ông chuyển sang kiện đòi tước tư cách liên danh Lula – Alckmin vì “lạm dụng quyền lực kinh tế”. Theo TSE, hai giờ kéo dài bỏ phiếu chỉ thêm 34.000 phiếu, trong khi ông Lula thắng cách biệt gần 4,5 triệu phiếu. Kết quả bầu cử coi như đã ngã ngũ.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-25-chieu",
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://english.elpais.com/international/2026-10-27/bolsonaro-backtracks-and-says-he-will-serve-as-lulas-opposition.html"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump"
+        }
+      ]
+    },
+    {
+      "title": "Đàm phán hòa bình Nga – Ukraine / ngừng bắn Oleshky",
+      "update": "Ngừng bắn được mở rộng ra toàn vùng Kherson, chưa ghi nhận vi phạm, kéo dài đến 22:59 giờ Kyiv ngày 1/11. Viện trợ có thể vào Oleshky thứ Năm 29/10, sơ tán dự kiến thứ Sáu 30/10. Lãnh đạo Phần Lan và Na Uy điện đàm với ông Putin về các cuộc gặp ở Abu Dhabi.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6lye1w9p2l8o"
+        },
+        {
+          "name": "Reuters (Devdiscourse)",
+          "url": "https://www.devdiscourse.com/article/international/3998083-reuters-world-news-summary"
+        }
+      ]
+    },
+    {
+      "title": "Biểu tình ở Pháp",
+      "update": "Giáo viên Pháp nói gói biện pháp giáo dục chính phủ công bố hôm 26/10 (giới hạn một số lớp ở 28 học sinh, hàng tỷ euro cho vay để cải tạo trường, cải tổ tuyển sinh đại học) là chưa đủ để xoa dịu sinh viên.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-18",
+      "sources": [
+        {
+          "name": "Reuters (Devdiscourse)",
+          "url": "https://www.devdiscourse.com/article/international/3998083-reuters-world-news-summary"
+        }
+      ]
+    },
+    {
+      "title": "Kỳ họp thứ hai Quốc hội khóa XVI",
+      "update": "Ngày 27/10, Quốc hội thảo luận Bộ luật Hình sự sửa đổi (12 đại biểu), Luật Tổ chức cơ quan điều tra hình sự, Bộ luật Tố tụng hình sự sửa đổi (21 đại biểu) và nghị quyết thí điểm thu hồi tài sản không qua kết tội. Hôm nay 28/10 bàn Luật Chứng khoán, nhóm 4 luật thương mại và Luật Nhà ở sửa đổi.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17",
+      "sources": [
+        {
+          "name": "Vietnam+ (Thông cáo số 10)",
+          "url": "https://www.vietnamplus.vn/thong-cao-bao-chi-so-10-ky-hop-thu-2-quoc-hoi-khoa-xvi-post1144625.vnp"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-28",
+      "title": "Phà Cát Lái và Bình Khánh (TP HCM) áp giá vé mới",
+      "topic": "Đời sống",
+      "note": "Vé ôtô tăng 11–13%.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hai-ben-pha-lon-nhat-tp-hcm-tang-gia-ve-tu-28-10-5136370.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Mưa to đến rất to Hà Tĩnh – Đà Nẵng (đến hết 29/10), có nơi trên 250 mm",
+      "topic": "Đời sống",
+      "note": "Cảnh báo nguy cơ mưa trên 100 mm/3 giờ, lũ quét, sạt lở (Trung tâm Dự báo KTTV quốc gia).",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thoi-tiet-hom-nay-28-10-nam-bo-mua-chieu-trung-bo-mua-rat-to-100261027191713172.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Bão Arnab “rất mạnh” dự kiến đổ bộ Andhra Pradesh (Ấn Độ) trước trưa 28/10",
+      "topic": "Đời sống",
+      "note": "Khoảng 400.000 người cần sơ tán.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/cyclone-arnab-schools-shut-trains-cancelled-andhra-pradesh-odisha-brace-for-landfall/article71630334.ece"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "title": "HĐND Hà Nội họp chuyên đề: dự án tái thiết Hồ Gươm 22.230 tỷ và nhà ở xã hội không bốc thăm cho hộ phố cổ",
+      "topic": "Chính trị",
+      "note": "Hai tờ trình của UBND TP Hà Nội dự kiến được xem xét, thông qua.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ha-noi-du-kien-chi-22-230-ty-tai-thiet-khu-vuc-ho-guom-va-phu-can-5137624.html"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hon-900-ho-dan-pho-co-ha-noi-du-kien-duoc-uu-tien-mua-nha-o-xa-hoi-5137635.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Quốc hội thảo luận Luật Chứng khoán, nhóm 4 luật thương mại (sáng) và Luật Nhà ở sửa đổi (chiều)",
+      "topic": "Chính trị",
+      "note": "Kỳ họp thứ hai, Quốc hội khóa XVI.",
+      "sources": [
+        {
+          "name": "Vietnam+",
+          "url": "https://www.vietnamplus.vn/thong-cao-bao-chi-so-10-ky-hop-thu-2-quoc-hoi-khoa-xvi-post1144625.vnp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Oleshky: viện trợ có thể vào thị trấn (29/10), sơ tán dân thường dự kiến thứ Sáu 30/10",
+      "topic": "Chính trị",
+      "note": "Ngừng bắn đã mở rộng ra toàn vùng Kherson, kéo dài đến 22:59 giờ Kyiv ngày 1/11.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6lye1w9p2l8o"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "time": "10:00",
+      "timezone": "giờ Alberta",
+      "title": "Công bố kết quả chính thức trưng cầu ý dân Alberta (10 câu hỏi, gồm câu về ly khai)",
+      "topic": "Chính trị",
+      "note": "Kết quả không chính thức được đếm trong 48 giờ sau khi đóng phiếu 19/10.",
+      "sources": [
+        {
+          "name": "Elections Alberta",
+          "url": "https://www.elections.ab.ca/current-election-information/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Carabao Cup vòng 1/8: Liverpool – Chelsea (cùng đêm: Man City – Brighton 2:30; Bournemouth – Aston Villa, Fulham – Crystal Palace, Sunderland – Brentford 2:45)",
+      "topic": "Bóng đá",
+      "note": "Bốc thăm tứ kết ngay sau trận Liverpool – Chelsea.",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/fixtures/_/league/eng.league_cup"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "time": "02:45",
+      "timezone": "giờ VN",
+      "title": "DFB-Pokal vòng 2: Bayern – Magdeburg, Leverkusen – Nuremberg",
+      "topic": "Bóng đá",
+      "note": "20:45 CET ngày 28/10.",
+      "sources": [
+        {
+          "name": "Bundesliga.com",
+          "url": "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Mỹ bắt đầu nới một phần thuế 50% với hàng Canada",
+      "topic": "Chính trị",
+      "note": "Ván ép, giấy, máy móc, thiết bị làm lạnh được nới; thảm bị áp thuế.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "time": "19:15",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 6: Hà Nội FC – Ninh Bình (Hàng Đẫy)",
+      "topic": "Bóng đá",
+      "note": "Vòng 6 diễn ra 30/10–1/11. Ngày 31/10 lúc 18:00 có SLNA – CAHN và Nam Định – Thể Công Viettel.",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/the-thao/lich-thi-dau-vong-6-v-league-20262027-kich-hay-o-phia-truoc-post1344605.vov"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "19:30",
+      "timezone": "giờ VN",
+      "title": "Chelsea – Man Utd; Man City – Brighton (22:00), Ngoại hạng Anh vòng 10",
+      "topic": "Bóng đá",
+      "note": "12:30 và 15:00 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Quốc hội thảo luận ở hội trường về kinh tế – xã hội, ngân sách và đầu tư công 2026–2027",
+      "topic": "Chính trị",
+      "note": "Gồm cả quyết toán ngân sách 2025 và tổng kết dự án Đường Hồ Chí Minh quy mô hai làn xe.",
+      "sources": [
+        {
+          "name": "Báo Quân đội Nhân dân (qua Báo Mới)",
+          "url": "https://baomoi.com/tuan-lam-viec-thu-ba-cua-ky-hop-thu-hai-quoc-hoi-khoa-xvi-c56350765.epi"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "19:30",
+      "timezone": "giờ VN",
+      "title": "Premier League: Chelsea – Man Utd",
+      "topic": "Bóng đá",
+      "note": "12:30 GMT. Cùng ngày: Man City – Brighton 22:00, Spurs – Crystal Palace 0:30 ngày 1/11, Aston Villa – Fulham 3:00 ngày 1/11 (giờ VN).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Chung kết Đường lên đỉnh Olympia 2026 (sáng 1/11)",
+      "topic": "Đời sống",
+      "note": "Bốn nam sinh trường chuyên tranh ngôi vô địch.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/4-nam-sinh-truong-chuyen-tranh-tai-chung-ket-duong-len-dinh-olympia-2026-co-gi-dac-biet-5137089.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "23:30",
+      "timezone": "giờ VN",
+      "title": "Đại chiến Liverpool – Arsenal tại Anfield, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "16:30 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "nửa đầu tháng 11 (chưa chốt ngày)",
+      "timezone": "giờ Abu Dhabi",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi",
+      "topic": "Chính trị",
+      "note": "Điện Kremlin và ông Zelensky ngày 23/10 cùng xác nhận vòng đàm phán cấp đoàn đàm phán diễn ra trong nửa đầu tháng 11.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
+        },
+        {
+          "name": "TASS",
+          "url": "https://tass.com/politics/2206847"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Iran bắt đầu “xử lý pháp lý” mọi tàu của hãng Sinokor (Hàn Quốc) qua eo Hormuz",
+      "topic": "Chính trị",
+      "note": "Theo Cơ quan quản lý eo biển vịnh Ba Tư của Iran.",
+      "sources": [
+        {
+          "name": "Reuters (Devdiscourse)",
+          "url": "https://www.devdiscourse.com/article/international/3998083-reuters-world-news-summary"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "23:30",
+      "timezone": "giờ VN",
+      "title": "Premier League: Liverpool – Arsenal",
+      "topic": "Bóng đá",
+      "note": "16:30 GMT tại Anfield.",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "time": "03:59",
+      "timezone": "UTC+7",
+      "title": "Hết hạn ngừng bắn ở Oleshky và vùng Kherson (22:59 giờ Kyiv ngày 1/11)",
+      "topic": "Chính trị",
+      "note": "Theo ông David Arakhamia; có thể được gia hạn.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6lye1w9p2l8o"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "time": "13:00",
+      "timezone": "giờ Pittsburgh (EST)",
+      "title": "buildingSMART USA: openBIM Roads and Bridges Transportation Summit 2026 (Pittsburgh, 2–3/11)",
+      "topic": "Xây dựng",
+      "note": "Tương ứng 1:00 sáng 3/11 giờ VN. Hội nghị về BIM cho đường bộ và cầu, phối hợp với AASHTO, FHWA và các nhóm pooled fund của các sở giao thông bang. Chương trình có phần cập nhật từ buildingSMART International, thẩm định và chứng nhận IFC, và tọa đàm openBIM trong thi công.",
+      "sources": [
+        {
+          "name": "buildingSMART USA",
+          "url": "https://www.buildingsmart.us/november-2026"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Bầu cử giữa kỳ Mỹ",
+      "topic": "Chính trị",
+      "note": "Quyết định quyền kiểm soát Quốc hội trong hai năm cuối nhiệm kỳ ông Trump.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bau-cu-giua-ky-co-y-nghia-gi-doi-voi-ong-trump-va-quoc-hoi-my-100261022155231309.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Hà Nội bắt đầu chi trả lương hưu tháng 11 qua tài khoản",
+      "topic": "Đời sống",
+      "note": "Lùi một ngày so với thông lệ mùng 2.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thay-doi-lich-chi-tra-luong-huu-thang-11-2026-100261023103231668.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Hạn công bố kết quả chính thức bầu cử Quốc hội Israel (trong vòng 8 ngày sau bầu cử)",
+      "topic": "Chính trị",
+      "note": "Kết quả sơ bộ dự kiến có trong ngày 28/10; sau đó Tổng thống tham vấn các đảng để giao quyền lập chính phủ.",
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/israel-election-netanyahu-eisenkot-3b5a0fd078208155337ee9a0b9fbfde2"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Atlético – Bayern, Barcelona – Aston Villa, Man Utd – Roma, Villarreal – PSG",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 3/11.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Leipzig – Man City, Dortmund – Betis, Slavia Praha – Arsenal (Fenerbahçe – Liverpool, AEK – Real Madrid lúc 0:45)",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 4/11; hai trận sớm 18:45 CET.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "time": "trong ngày",
+      "timezone": "giờ Kenya",
+      "title": "Tuyên án mục sư Paul Mackenzie và 28 bị cáo vụ Shakahola",
+      "topic": "Chính trị",
+      "note": "Đã bị kết tội giết 191 người; báo cáo quản chế nộp tòa ngày 30/10.",
+      "sources": [
+        {
+          "name": "Capital FM",
+          "url": "https://capitalfm.africa/court-convicts-all-29-shakahola-accused-of-murder-sets-sentencing-for-november-6/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "9–20/11",
+      "timezone": "giờ Thổ Nhĩ Kỳ",
+      "title": "Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Chính trị",
+      "note": "Hội nghị thượng đỉnh khí hậu thường niên của Liên Hợp Quốc.",
+      "sources": [
+        {
+          "name": "UNFCCC",
+          "url": "https://unfccc.int/cop31/the-road-to-antalya"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Anthropic công bố Claude tự viết chuỗi khai thác cho Chrome, Safari, Android, Windows và Linux; riêng Chrome đã có 62 CVE được vá",
+          "meta": "Anthropic · 27/10",
+          "body": [
+            "Đội Frontier Red Team của Anthropic cho biết vài tháng qua đã dùng một model nghiên cứu nội bộ chưa phát hành để tìm lỗ hổng nghiêm trọng trong phần mềm phổ biến nhất thế giới, và công bố năm chuỗi tấn công. Với Chrome, Claude ghép bốn lỗi (hỏng bộ nhớ trong V8, vượt sandbox bộ nhớ của V8, race condition ở CacheStorage và use-after-free trong FedCM) thành một exploit chạy mã tùy ý ngoài sandbox chỉ sau một cú nhấp; Google đã được báo và tính đến Chrome 156 đã cấp, vá 62 CVE, đều ở mức nghiêm trọng hoặc cao. Chuỗi trên Safari cho phép trang web độc hại vượt chính sách cùng nguồn gốc để đọc lịch sử, cookie; Apple đã vá.",
+            "Các trường hợp còn lại gồm: rút ảnh và dữ liệu cá nhân từ điện thoại Android bị khóa (thử trên Pixel 9, Google đã xử lý); làm sập từ xa máy Windows phục vụ HTTP/3 qua lỗi đọc ngoài vùng nhớ trong QUIC của nhân Windows (CVE-2026-33096, ước tính vài triệu máy chủ bị ảnh hưởng); và chạy lệnh với quyền root không cần xác thực trên máy chủ Linux có bật multipath TCP (CVE-2026-98432, mất khoảng 53 phút trong bản thử nghiệm, đã vá và backport). Anthropic khuyên các đội phòng thủ quét mã ngay ở khâu pull request và đã công khai một plugin Claude Code về bảo mật."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Anthropic – Frontier Red Team",
+              "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude"
+            }
+          ]
+        },
+        {
+          "headline": "Anthropic giảm 40% giá Claude cho mọi cấp chính quyền Mỹ, ước tiết kiệm 1 tỷ USD; ra mắt Claude for Financial Advisors",
+          "meta": "Anthropic · 27/10",
+          "body": [
+            "Thỏa thuận mới với Cục Quản lý Dịch vụ Tổng hợp Mỹ (GSA) giảm 40% cho Claude Enterprise, Claude for Government và Claude API, lần đầu áp dụng trên mọi kênh mua (trực tiếp, và qua nhà cung cấp đám mây trong vài tháng tới), mở rộng cho cả chính quyền bang, địa phương, bộ lạc và vùng lãnh thổ. Không có mức chi tối thiểu. Anthropic cho biết khoảng 500 cơ quan chính quyền Mỹ đang dùng Claude, số người dùng Claude for Government hằng tuần tăng khoảng 8 lần từ tháng 2.",
+            "Cùng ngày, hãng ra Claude for Financial Advisors, kết nối Claude với hệ thống lưu ký, nền tảng danh mục đầu tư, CRM và công cụ lập kế hoạch tài chính; Invesco, CAIS, Conquest và FINNY đã đưa connector của mình vào. Anthropic cũng công bố hợp tác nghiên cứu thuốc với sáu tổ chức, trong đó có Bristol Myers Squibb và Generate Biomedicines."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Anthropic – GSA",
+              "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
+            },
+            {
+              "name": "Claude – Product announcements",
+              "url": "https://claude.com/resources/product-announcements"
+            },
+            {
+              "name": "Anthropic – phát triển thuốc",
+              "url": "https://www.anthropic.com/research/early-progress-drug-development"
+            }
+          ]
+        },
+        {
+          "headline": "Codex CLI 0.165 thêm GPT-6.1 Terra và nhà cung cấp Google Cloud Vertex AI; Oracle đưa ứng dụng doanh nghiệp vào ChatGPT",
+          "meta": "GitHub openai/codex / OpenAI · 27/10",
+          "body": [
+            "Bản Codex CLI 0.165.0 (27/10) đưa GPT-6.1 Terra vào danh mục model, thêm nhà cung cấp Google Cloud Vertex AI dựng sẵn (model_provider = \"gcp\"), cho đổi mức suy luận giữa chừng hội thoại và bật “memory v2” mặc định cho hồ sơ mới, kèm khả năng nhập bộ nhớ từ agent khác. Theo trang giá Codex (PlanYield tổng hợp), Terra cho khoảng 35–285 tin nhắn mỗi 5 giờ ở gói Plus, so với 15–160 của GPT-6.1 Sol; Terra không có ở gói Free và Go.",
+            "Cũng ngày 27/10, OpenAI và Oracle mở rộng hợp tác: dữ liệu và ứng dụng Oracle được đưa vào ChatGPT, Oracle ra AI Security Mesh dùng model an ninh mạng của OpenAI để tìm và vá lỗ hổng, gói AI SMB Bundle (ChatGPT Business + Codex + credit Oracle Cloud) cho doanh nghiệp nhỏ. Oracle cho biết nội bộ có 130.000 người dùng ChatGPT và hơn 95.000 người dùng Codex."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – openai/codex releases",
+              "url": "https://github.com/openai/codex/releases"
+            },
+            {
+              "name": "PlanYield",
+              "url": "https://planyield.dev/changes/2026-10-27-codex-gpt-61-terra/"
+            },
+            {
+              "name": "OpenAI – Oracle",
+              "url": "https://openai.com/index/oracle-apps-in-chatgpt/"
+            }
+          ]
+        },
+        {
+          "headline": "Google DeepMind ra Genie 4: mô hình thế giới tạo môi trường tương tác thời gian thực, có âm thanh, điều khiển bằng lời",
+          "meta": "Google DeepMind · 27/10",
+          "body": [
+            "Genie 4 cho phép đặt một tình huống rồi điều khiển cảnh theo thời gian thực bằng ngôn ngữ tự nhiên (đổi góc máy, thời tiết, thêm nhân vật), đồng thời tự sinh âm thanh: tiếng nền, nhạc và hội thoại. Model dựa trên Gemini Omni để bám sát hình ảnh, hành vi thực tế. Hiện mới mở cho nhóm thử nghiệm tin cậy; sắp tới đến lượt thuê bao Google AI Ultra trong Project Genie và đối tác truy cập sớm qua Gemini API, AI Studio. DeepMind thừa nhận chi tiết và tính nhất quán của vật thể vẫn có thể “trôi” khi mô phỏng kéo dài.",
+            "Cùng ngày, Google Cloud đưa Gemini Robotics ER 2, model “bộ não” suy luận không gian cho robot, ra bản xem trước công khai trên nền tảng Gemini (Model Garden), cho phép doanh nghiệp khai báo model điều khiển cấp thấp hay API di chuyển như công cụ để robot lập kế hoạch nhiều bước."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Google DeepMind – Genie 4",
+              "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+            },
+            {
+              "name": "Google Cloud – Gemini Robotics ER 2",
+              "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud"
+            }
+          ]
+        },
+        {
+          "headline": "Opera đề xuất chuẩn WebAI: website và tiện ích chạy model AI ngay trên máy người dùng, không cần gửi dữ liệu lên đám mây",
+          "meta": "TechCrunch / Opera · 27/10",
+          "body": [
+            "WebAI là chuẩn web do Opera đề xuất, cho phép trang web và tiện ích gọi model AI chạy cục bộ thông qua các API Prompt (sinh văn bản), Decision (phân loại) và Semantic Embeddings, không cần API đám mây hay thuê bao. Bản xem trước sớm, phải tự bật trong Settings → Opera AI, có trên Opera One cho Windows 64-bit và Mac chip Apple; người dùng Mac có thể dùng foundation model của Apple. Opera GX và Opera Neon sẽ có sau."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+            },
+            {
+              "name": "Opera Blog",
+              "url": "https://blogs.opera.com/news/2026/10/webai-local-ai-for-the-web-now-in-opera/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "0xS4N4TG/kinetograph: engine dựng video bằng code dành cho agent, chạy được dự án Remotion có sẵn",
+          "meta": "GitHub · tạo 23/10 · ~170 sao",
+          "body": [
+            "Agent (hoặc người) viết video bằng TypeScript với API của Remotion, CSS, SVG, Canvas 2D, shader WebGL và Web Audio; Node chạy mã, còn một bộ ghép hình bằng Rust chạy GPU vẽ từng khung. Dự án Remotion hiện có render được nguyên trạng. Theo README, phim giới thiệu 1.184 khung hình 1080p có tiếng được render trong 26 giây trên laptop. Repo kèm sẵn Agent Skill để agent lập trình dùng. Khoảng 170 sao (GitHub API sáng 28/10)."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – 0xS4N4TG/kinetograph",
+              "url": "https://github.com/0xS4N4TG/kinetograph"
+            }
+          ]
+        },
+        {
+          "headline": "smhanov/agentloop: thư viện Go lo phần “vòng lặp agent” kèm ngân sách, hook, skill và tracing",
+          "meta": "GitHub · tạo 25/10 · ~120 sao",
+          "body": [
+            "agentloop xử lý vòng lặp mà agent nào cũng cần: gửi prompt, chạy các lệnh gọi công cụ model yêu cầu, trả kết quả lại và lặp đến khi có câu trả lời, cùng giới hạn ngân sách, hook, skill và tracing cho mọi bước. Thư viện dùng llmhub để cắm vào OpenAI, Anthropic, Gemini, Ollama, xAI, OpenRouter, Z.AI… và kèm hai agent mẫu: agent tìm kiếm web có trích dẫn và agent chạy lệnh shell kế thừa giao thức của mini-swe-agent. Giấy phép MIT, khoảng 120 sao."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – smhanov/agentloop",
+              "url": "https://github.com/smhanov/agentloop"
+            }
+          ]
+        },
+        {
+          "headline": "blakeandersonw/ai-app-playbook: “sổ tay” để agent lập trình dựng ứng dụng AI có thu phí từ con số 0",
+          "meta": "GitHub · tạo 26/10 · ~400 sao",
+          "body": [
+            "Chỉ cần bảo Claude Code hoặc OpenCode clone repo và đọc AGENTS.md trong một thư mục trống; playbook dẫn qua 15 giai đoạn từ chọn ngách (thử nhu cầu bằng 10 video và danh sách chờ) tới backend, xác thực, thanh toán, analytics, ra mắt và tăng trưởng. Stack đề xuất dựa trên Cloudflare Workers, D1, R2 và Better Auth. Tác giả nói đã đưa 5 ứng dụng lên doanh thu định kỳ trên 100.000 USD/tháng; đây là kinh nghiệm cá nhân, chưa được kiểm chứng độc lập. Khoảng 400 sao sau 2 ngày."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub – blakeandersonw/ai-app-playbook",
+              "url": "https://github.com/blakeandersonw/ai-app-playbook"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Apple ra iMac 24 inch chip M6, Wi-Fi 7, giá từ 1.499 USD; đặt trước từ 28/10, bán từ 6/11",
+          "meta": "Apple / MacRumors · 27/10",
+          "body": [
+            "iMac mới giữ thiết kế cũ, dùng chip M6 và chip không dây N1 hỗ trợ Wi-Fi 7, Bluetooth 6, SSD nhanh hơn. Bản CPU/GPU 10 nhân giá 1.499 USD, bản 12 nhân 1.699 USD, cả hai có 16 GB RAM, 256 GB SSD; bản cao hơn có bốn cổng Thunderbolt 4 và Ethernet 2,5 Gb tiêu chuẩn. Đủ bảy màu như trước. Đặt trước từ 28/10, có hàng từ 6/11 (tại Mỹ)."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Apple Newsroom",
+              "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/"
+            },
+            {
+              "name": "MacRumors",
+              "url": "https://www.macrumors.com/2026/10/27/apple-announces-new-imac-with-m6-chip-and-more/"
+            }
+          ]
+        },
+        {
+          "headline": "TSMC được cho là tính tăng giá đóng gói CoWoS tới 20% vì chip AI quá tải; thời gian chờ thiết bị kéo dài 8 tháng",
+          "meta": "Tom's Hardware / TrendForce · 27/10",
+          "body": [
+            "Nhu cầu từ GPU Blackwell, Rubin của Nvidia và chip tùy biến đang làm căng năng lực đóng gói tiên tiến CoWoS của TSMC. Theo Tom's Hardware, hãng cân nhắc tăng giá CoWoS tới 20%, giá wafer năm 2027 cũng có thể tăng 5–10%, khiến tổng chi phí một số khách hàng tăng tới 25%; thời gian giao thiết bị đã lên 6–8 tháng. TSMC chưa xác nhận."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months"
+            },
+            {
+              "name": "TrendForce",
+              "url": "https://www.trendforce.com/news/2026/10/27/news-tsmc-reportedly-eyes-20-cowos-price-hike-skips-equipment-price-renegotiations-amid-ai-demand-surge/"
+            }
+          ]
+        },
+        {
+          "headline": "Anduril và Qualcomm lập liên doanh BlueChip làm laptop siêu bền “sản xuất hoàn toàn tại Mỹ” cho quân đội, chính phủ",
+          "meta": "TechCrunch / The Verge · 27/10",
+          "body": [
+            "Laptop dùng chip Snapdragon X của Qualcomm, nhắm quân đội, chính phủ, lực lượng cứu hộ và an ninh công cộng, dự kiến nhận đặt hàng năm 2027. Phiên bản đầu được cho là có khoảng 90% linh kiện từ Mỹ hoặc nước đồng minh, lắp ráp tại nhà máy Arsenal-1 của Anduril ở Ohio; mục tiêu xa hơn là sản xuất trong nước cả những linh kiện hiện chỉ làm ở Trung Quốc. Đây không phải laptop cho người tiêu dùng: độ bền quân sự khiến máy nặng hơn và pin hạn chế hơn."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/"
+            },
+            {
+              "name": "Anduril",
+              "url": "https://www.anduril.com/news/anduril-and-qualcomm-unveil-bluechip-to-rebuild-american-computer-manufacturing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "BIM & openBIM",
+      "title": "Xây dựng · BIM & openBIM",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Giáo viên dạy nghề ở Đức đưa Bonsai 0.9 ra bản vẽ đúng chuẩn DIN 1356-1, đề nghị đưa quy ước bản vẽ quốc gia vào chính Bonsai",
+          "meta": "OSArch Community · 26/10",
+          "body": [
+            "Trên diễn đàn OSArch, một giáo viên đào tạo kỹ thuật viên vẽ xây dựng (Bautechnische Konstrukteure) ở Đức cho biết học viên của ông thi tốt nghiệp PAL bằng Bonsai và IfcLite, và bài thi chấm theo quy ước bản vẽ DIN 1356-1. Ông đã dùng CSS, mẫu hatch và script hậu xử lý riêng để Bonsai 0.9 xuất bản vẽ đạt chuẩn, rồi đăng kèm một tài liệu PDF mô tả độ dày nét theo lớp, hatch theo IfcMaterial.Category, cách ghi kích thước kiểu Đức, ký hiệu cao độ, quy tắc khung tên, cùng bảng so sánh phần nào Bonsai đã làm sẵn và phần nào phải xử lý thêm.",
+            "Hai mẹo được chia sẻ: đặt EPset_Drawing.Metadata thành material.Category để cột, dầm một vật liệu tự nhận class theo nhóm vật liệu, nhờ đó hatch theo nhóm mà không cần thêm code (thử trên Bonsai 0.9.1); và mẫu tô SVG bị vỡ khi driver máy in raster hóa PDF, còn hatch vẽ bằng đường cắt (clipped line path) thì in sạch. Ông hỏi các nhà phát triển nên để quy ước quốc gia trong mặc định của Bonsai, trong một template “DIN” đi kèm, hay đưa một phần vào chính file IFC qua IfcFillAreaStyleHatching. Một thành viên khác cho biết mình gán hatch theo tên vật liệu thay vì theo nhóm, và hai bên đang so sánh hai cách làm."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch Community",
+              "url": "https://community.osarch.org/discussion/3750/german-drawing-conventions-din-1356-1-for-bonsais-2d-output-a-reference-from-vocational-training"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Phần mềm",
+      "title": "Xây dựng · Phần mềm",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Autodesk Platform Services điểm tin tháng 10: Forma Naming Standards API và AEC Data Model cho Plant 3D chính thức phát hành, thêm cơ chế “passthrough billing”",
+          "meta": "Autodesk Platform Services · 28/10",
+          "body": [
+            "Bản tổng hợp tháng 10 của Autodesk Platform Services (APS) cho biết Forma Naming Standards API đã hết giai đoạn beta công khai và dùng được cho môi trường production; AEC Data Model API giờ chính thức hỗ trợ dự án Plant 3D Collaboration, truy vấn riêng dữ liệu P&ID và đường ống 3D. Forma Issues API có thêm webhook cho bình luận và tệp đính kèm, còn BuildingConnected API có thêm endpoint lấy và ký NDA. Autodesk cũng giới thiệu “passthrough billing”, cho phép lượng gọi API phát sinh từ ứng dụng được trừ vào dung lượng sẵn có của khách hàng. Cơ chế này triển khai hai giai đoạn và phải chủ động đăng ký (opt-in).",
+            "Nhà phát triển cần lưu ý: các endpoint v1 Get Forms, Get Values và Put Form Values sẽ ngừng hoạt động ngày 30/6/2027. Autodesk tổ chức APS Developer Accelerator ở Paris từ 1–4/12/2026, và DevCon 2027 diễn ra tại Barcelona ngày 14–15/4/2027."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Autodesk Platform Services",
+              "url": "https://aps.autodesk.com/blog/october-news-recap-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Địa chấn Carabao Cup: Fleetwood, đội đứng thứ 18 League Two, loại Arsenal ở loạt luân lưu 5-3",
+          "meta": "The Guardian / ESPN / BBC Sport · 27/10",
+          "body": [
+            "Ở vòng 1/8 Cúp Liên đoàn Anh tối 27/10 (giờ Anh), Fleetwood Town dẫn trước nhờ bàn của Loupalo-Bi phút 20. Viktor Gyökeres gỡ hòa 1-1 cho Arsenal ngay đầu hiệp hai. Arsenal ép sân và tạo nhiều cơ hội nhưng thủ môn Jay Lynch liên tục cứu thua. Phút 85, cầu thủ trẻ Max Dowman nhận thẻ đỏ sau một pha xô xát. Trận đấu không có hiệp phụ. Ở loạt luân lưu, Lynch cản quả sút của Bruno Guimarães, rồi trung vệ Conor Haughey sút tung góc lưới ấn định chiến thắng 5-3 cho đội chủ nhà. Trận đấu từng phải tạm dừng một lúc vì có drone bay trên sân Highbury.",
+            "HLV Mikel Arteta nói “đó là một ngày rất buồn” vì đội đã tạo đủ cơ hội để thắng. Cùng tối, Bradford City (League One) thắng Peterborough 2-0. Fleetwood và Bradford sẽ là hai đội duy nhất ngoài Premier League trong lễ bốc thăm tứ kết, diễn ra sau trận Liverpool – Chelsea đêm nay. Các trận tứ kết được tổ chức trong tuần bắt đầu từ 14/12."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live"
+            },
+            {
+              "name": "ESPN",
+              "url": "https://www.espn.com/soccer/scoreboard/_/league/eng.league_cup"
+            },
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/scores-fixtures/2026-10-27"
+            }
+          ]
+        },
+        {
+          "headline": "Lazio thắng đậm Sassuolo 6-2, tạm dẫn đầu Serie A hơn Inter 3 điểm; Roma và Como cùng thắng nhờ các bàn cuối trận",
+          "meta": "Reuters (qua CNA) / Sky Sports · 27/10",
+          "body": [
+            "Lazio của HLV Gennaro Gattuso có 8 trận thắng sau 9 vòng, chưa thua trận nào và có 25 điểm, hơn Inter 3 điểm. Inter sẽ làm khách trên sân đội cuối bảng Venezia tối nay. Kenneth Taylor mở tỷ số từ phút 2. Isaksen, Floriani Mussolini và Zaccagni ghi bàn sau đó, còn Noslin lập cú đúp bằng hai cú sút xa. Sassuolo phải chơi thiếu người từ khoảng phút 30 khi Thorstvedt nhận thẻ đỏ. Thủ môn Turati của Sassuolo cản được hai quả phạt đền, của Zaccagni và Frattesi.",
+            "Roma đứng thứ ba, kém Lazio 4 điểm, sau khi thắng Cagliari 4-2. Đội chủ nhà bị Daniel Maldini gỡ hòa 2-2 ở phút 81 rồi mới thắng nhờ hai bàn của Rodrigo Mora và Donyell Malen trong năm phút cuối. Como bị Torino dẫn trước nhưng ghi ba bàn trong 10 phút cuối, qua Jacobo Ramón, Nico Paz và Martin Baturina, để thắng 3-1 trên sân khách."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "CNA (Reuters)",
+              "url": "https://www.channelnewsasia.com/sport/lazio-crush-sassuolo-go-top-roma-and-como-win-late-6497786"
+            },
+            {
+              "name": "Sky Sports",
+              "url": "https://www.skysports.com/serie-a-scores-fixtures"
+            }
+          ]
+        },
+        {
+          "headline": "Cúp Quốc gia Đức: Sabitzer sút phạt phút 90+3 giúp Dortmund thắng Bremen 3-2; Köln thắng Union 5-0, Frankfurt và Leipzig đi tiếp",
+          "meta": "Bundesliga.com / AP / Sportschau · 27/10",
+          "body": [
+            "Ở vòng hai DFB-Pokal, Dortmund dẫn 2-0 sau 17 phút nhờ Guirassy và Chukwuemeka. Niclas Füllkrug gỡ lại cả hai bàn cho Werder Bremen, một quả phạt đền phút 65 và một cú sút xa phút 69. Đến phút 93, Marcel Sabitzer sút phạt thành bàn, đưa Dortmund vào vòng 1/8. Köln thắng Union Berlin 5-0 với cú đúp của Saïd El Mala. Eintracht Frankfurt thắng Hamburg 3-1 trên sân khách nhờ các bàn của Koch, Burkardt và Ebnoutalib.",
+            "RB Leipzig thắng Rot-Weiss Essen 2-1, Gladbach thắng Karlsruhe 2-0, Darmstadt thắng Elversberg 2-0 trên sân khách, còn Augsburg thắng Sonnenhof Großaspach 4-2. Theo AP, Mainz bị Bochum loại. Tối nay có trận Bayern – Magdeburg và Leverkusen – Nuremberg."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Bundesliga.com – Dortmund 3-2 Bremen",
+              "url": "https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-3-2-werder-bremen-dfb-cup-match-report-39755"
+            },
+            {
+              "name": "Bundesliga.com – Hamburg 1-3 Frankfurt",
+              "url": "https://www.bundesliga.com/en/bundesliga/news/hamburg-eintracht-frankfurt-match-report-dfb-cup-pokal-hsv-burkardt-39752"
+            },
+            {
+              "name": "Sportschau",
+              "url": "https://www.sportschau.de/fussball/dfbpokal/koeln-zaubert-sich-gegen-union-ins-achtelfinale,spielbericht-dfb-pokal-koeln-union-100.html"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/lazio-roma-dortmund-mainz-b7a694748153c0dacf7bd5f2adbc3955"
+            }
+          ]
+        },
+        {
+          "headline": "AFC giữ nguyên lịch Asian Cup 2027 tại Saudi Arabia; Đồng Nai giữ HLV Nguyễn Việt Thắng dù đứng cuối bảng V-League",
+          "meta": "Thể thao & Văn hóa · 27/10",
+          "body": [
+            "Tối 26/10, lãnh đạo VFF xác nhận AFC giữ nguyên kế hoạch tổ chức Asian Cup 2027 tại Saudi Arabia từ 7/1 đến 5/2/2027, dù trước đó có lo ngại về an ninh sau các vụ tấn công của lực lượng Houthi nhằm vào thủ đô Saudi Arabia. Tuyển Việt Nam nằm ở bảng E cùng Hàn Quốc, UAE và Yemen. Để chuẩn bị, đội của HLV Kim Sang-sik sẽ đá giao hữu với Đài Loan (Trung Quốc) và Kyrgyzstan trong tháng 11, và VFF đã thu xếp thêm một trận giao hữu với Nhật Bản tại Osaka.",
+            "Ở V-League, CLB TP. Đồng Nai đứng cuối bảng sau 5 vòng, thua 4 trận và chưa ghi được bàn nào. Dù vậy, chủ tịch CLB (bầu Sơn) không chấp nhận để HLV Nguyễn Việt Thắng từ chức. Ở FIFA U15 World Cup & Festival tại Azerbaijan, U15 Việt Nam thắng Guyana 2-1 ở lượt cuối, xếp thứ ba bảng R và sẽ thi đấu ở nhóm Tier C."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Thể thao & Văn hóa",
+              "url": "https://thethaovanhoa.vn/print-20261027052636964.htm"
+            },
+            {
+              "name": "Tiền Phong",
+              "url": "https://tienphong.vn/nong-asian-cup-2027-van-khoi-tranh-dung-hen-tai-saudi-arabia-post1888828.tpo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Israel: thăm dò sau bỏ phiếu cho phe muốn thay ông Netanyahu 52 ghế, phe ông 50 ghế; không khối nào đủ 61, cử tri đi bầu cao nhất 25 năm",
+          "meta": "ynet / Fox News / AP · 28/10",
+          "body": [
+            "Điểm bỏ phiếu đóng cửa lúc 22:00 giờ Israel (3:00 sáng nay giờ VN). Bản cập nhật thăm dò sau bỏ phiếu của cả ba đài Kan 11, Kênh 12 và Kênh 13 đều cho khối “thay đổi” 52 ghế, khối ủng hộ Thủ tướng Netanyahu 50 ghế, các đảng Ả Rập (Danh sách Chung và Ra'am) 18 ghế trong Knesset 120 ghế. Như vậy phe đối lập còn thiếu 9 ghế, phe ông Netanyahu thiếu 11 ghế để đạt đa số 61.",
+            "Likud vẫn là đảng lớn nhất với 24–25 ghế, theo sau là đảng Yashar! của cựu Tổng tham mưu trưởng Gadi Eisenkot với 22–23 ghế, rồi Beyahad của ông Naftali Bennett 12–13 ghế (Kênh 13). Ủy ban Bầu cử Trung ương cho biết đến 22:00 đã có 5.695.682 người bỏ phiếu, tức 77,7%, mức cao nhất tính đến giờ đóng cửa kể từ năm 2001 và cao hơn khoảng 7,1 điểm phần trăm so với năm 2022. Kết quả cuối cùng còn chờ kiểm các phiếu “phong bì kép” của binh sĩ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "ynet",
+              "url": "https://www.ynetnews.com/article/bknat9r3ge"
+            },
+            {
+              "name": "Fox News (trực tiếp)",
+              "url": "https://www.foxnews.com/live-news/us-iran-war-peace-talks-donald-trump-strait-hormuz-october-27"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/israel-election-netanyahu-eisenkot-3b5a0fd078208155337ee9a0b9fbfde2"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Eisenkot tuyên bố sẽ “hành động ngay” để thay thế ông Netanyahu; ông Netanyahu chưa lên tiếng sau thăm dò",
+          "meta": "Times of Israel / ynet / Fox News / VnExpress · 28/10",
+          "body": [
+            "Sau khi thăm dò được công bố, ông Gadi Eisenkot nói kết quả cho thấy cử tri “hoàn toàn mất niềm tin” vào ông Netanyahu và cam kết lập một chính phủ theo đường lối Zionist, áp dụng nghĩa vụ quân sự cho mọi người. Theo AP, hai giờ sau khi có kết quả thăm dò, ông Netanyahu vẫn chưa phát biểu công khai. Dù 70 ghế của phe đối lập cộng với các đảng Ả Rập vượt xa đa số, các đảng này chưa chắc chịu liên minh với nhau.",
+            "Trong ngày bỏ phiếu, ông Netanyahu đăng bài cho rằng “những người ủng hộ Anh em Hồi giáo” đang “đánh cắp cuộc bầu cử”. Ở Tel Aviv, lực lượng an ninh bắt một người đàn ông giấu dao khi tiếp cận lãnh đạo đảng Dân chủ Yair Golan lúc ông gặp cử tri."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Times of Israel",
+              "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-vows-to-replace-netanyahu-as-exit-polls-give-opposition-bloc-edge/"
+            },
+            {
+              "name": "ynet",
+              "url": "https://www.ynetnews.com/article/ryu6afrnzg"
+            },
+            {
+              "name": "Fox News",
+              "url": "https://www.foxnews.com/live-news/us-iran-war-peace-talks-donald-trump-strait-hormuz-october-27"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nguoi-dan-ong-bi-bat-khi-giau-dao-tiep-can-thu-linh-canh-ta-israel-5137610.html"
+            }
+          ]
+        },
+        {
+          "headline": "Iran nói một tàu dầu trúng thủy lôi bốc cháy ở phía đông eo Hormuz và eo biển “đóng” với tàu không phối hợp; Mỹ rút nhân viên không thiết yếu khỏi Saudi Arabia",
+          "meta": "Anadolu / Fox News / Reuters · 27/10",
+          "body": [
+            "Hải quân Iran cho biết một tàu dầu đã tắt hệ thống định vị, đi vào vùng “hạn chế và không an toàn” thì trúng thủy lôi và bốc cháy, nhưng không nêu tên tàu, quốc tịch hay thương vong. Tehran tuyên bố eo Hormuz “không an toàn và đóng” với tàu không phối hợp với lực lượng vũ trang Iran. Cơ quan quản lý eo biển của Iran còn nói mọi tàu của hãng vận tải Hàn Quốc Sinokor sẽ bị “xử lý pháp lý” từ ngày 1/11. CENTCOM bác tin Mỹ đã rút tàu khỏi eo biển.",
+            "Houthi nói đã bắn tên lửa đạn đạo trúng nhà máy lọc dầu Ras Tanura, nhà máy lớn nhất Saudi Arabia, gây cháy. Bộ Ngoại giao Mỹ lệnh cho nhân viên chính phủ không thiết yếu và gia đình rời Saudi. Tại cuộc mít tinh ở Texas, ông Trump nói chiến tranh với Iran “sẽ sớm kết thúc” và gọi việc tấn công Iran là “một trong những điều tuyệt vời nhất” ông từng làm. Trước Hội đồng Bảo an, Tổng giám đốc IAEA Rafael Grossi cảnh báo cơ quan này không thể xác minh 440 kg uranium làm giàu cao của Iran có bị chuyển đi hay không. Qatar nói Iran cần thể hiện thiện chí và mở eo Hormuz."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Anadolu",
+              "url": "https://www.aa.com.tr/en/middle-east/iran-says-oil-tanker-catches-fire-after-hitting-naval-mine-east-of-strait-of-hormuz/4102560"
+            },
+            {
+              "name": "Fox News (trực tiếp)",
+              "url": "https://www.foxnews.com/live-news/us-iran-war-peace-talks-donald-trump-strait-hormuz-october-27"
+            },
+            {
+              "name": "Reuters (Devdiscourse)",
+              "url": "https://www.devdiscourse.com/article/international/3998083-reuters-world-news-summary"
+            }
+          ]
+        },
+        {
+          "headline": "Quốc hội hôm nay bàn sửa Luật Chứng khoán, nhóm 4 luật thương mại – cạnh tranh – tiêu dùng và Luật Nhà ở sửa đổi",
+          "meta": "Thông cáo báo chí số 10 (Vietnam+) · 27/10",
+          "body": [
+            "Sáng 28/10, Quốc hội thảo luận ở hội trường dự án Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán và dự án luật sửa đổi cùng lúc Luật Thương mại, Luật Cạnh tranh, Luật Quản lý ngoại thương, Luật Bảo vệ quyền lợi người tiêu dùng. Buổi chiều thảo luận dự án Luật Nhà ở (sửa đổi).",
+            "Hôm qua (27/10), 12 đại biểu phát biểu về Bộ luật Hình sự sửa đổi, góp ý cả tội lừa đảo, tội vi phạm quy định về tài sản mã hóa và việc thu hẹp án tử hình; Bộ trưởng Công an Lương Tam Quang giải trình. Buổi chiều có 21 đại biểu phát biểu về Bộ luật Tố tụng hình sự sửa đổi (phiên tòa trực tuyến, dữ liệu điện tử, cam kết tự nguyện nhận tội) và nghị quyết thí điểm thu hồi tài sản liên quan tội phạm không qua kết tội; Viện trưởng VKSND tối cao Nguyễn Huy Tiến giải trình."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Vietnam+ (Thông cáo số 10)",
+              "url": "https://www.vietnamplus.vn/thong-cao-bao-chi-so-10-ky-hop-thu-2-quoc-hoi-khoa-xvi-post1144625.vnp"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội trình HĐND dự án tái thiết khu vực Hồ Gươm gần 22.230 tỷ đồng, có trung tâm thương mại ngầm và trụ sở UBND thành phố mới",
+          "meta": "VnExpress · 27/10",
+          "body": [
+            "Dự án theo hình thức PPP, hợp đồng BT, nghiên cứu quy hoạch 66,82 ha ở phường Hoàn Kiếm và Cửa Nam, dự kiến xong năm 2029. Dự án chia ba phần: giải phóng mặt bằng hơn 9.900 tỷ đồng từ ngân sách; trung tâm thương mại ngầm 4 tầng hầm, khoảng 82.600 m² sàn phía Đông và Bắc Hồ Gươm (4.611 tỷ); và các công trình cảnh quan, gồm trụ sở UBND thành phố mới khoảng 3.518 tỷ (tổng 7.694 tỷ). Nhà đầu tư phần 2 và 3 là Công ty CP Bất động sản Mặt Trời Thủ Đô, được thanh toán một phần bằng khoảng 7,31 ha đất.",
+            "HĐND thành phố dự kiến xem xét, thông qua nghị quyết tại kỳ họp chuyên đề hôm nay 28/10. UBND thành phố đề nghị Kiểm toán nhà nước vào cuộc ngay từ giai đoạn triển khai."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ha-noi-du-kien-chi-22-230-ty-tai-thiet-khu-vuc-ho-guom-va-phu-can-5137624.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ngừng bắn được mở rộng ra toàn vùng Kherson, chưa ghi nhận vi phạm; viện trợ có thể vào Oleshky thứ Năm, sơ tán dự kiến thứ Sáu",
+          "meta": "BBC / Reuters · 27/10",
+          "body": [
+            "Bà Melania Trump, người cùng Giáo hoàng Leo XIV làm trung gian, cho biết vùng ngừng bắn đã được mở rộng ra ngoài Oleshky để đoàn xe nhân đạo đi qua an toàn. Ông David Arakhamia (đảng của ông Zelensky) nói lệnh ngừng bắn kéo dài đến 22:59 giờ Kyiv ngày 1/11 và gọi đây là “đợt xuống thang lớn nhất từ năm 2022”. Điện Kremlin nói mọi việc đang “theo kế hoạch”.",
+            "Còn khoảng 1.700–2.000 người ở Oleshky; khoảng 500 người đã bày tỏ muốn rời đi. Ông Zelensky lo người sơ tán theo các tuyến do Nga rà phá mìn sẽ bị đưa sang Nga. Cũng hôm qua, Tổng thống Phần Lan Stubb và Thủ tướng Na Uy Støre lần lượt điện đàm với ông Putin và ông Zelensky về các cuộc gặp sắp tới ở Abu Dhabi; tại Singapore, Thủ tướng Đức Merz nói Mỹ và Nga không thể giải quyết chiến tranh mà không có Ukraine và châu Âu."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c6lye1w9p2l8o"
+            },
+            {
+              "name": "Reuters (Devdiscourse)",
+              "url": "https://www.devdiscourse.com/article/international/3998083-reuters-world-news-summary"
+            }
+          ]
+        },
+        {
+          "headline": "Ai Cập đóng cửa trang tin độc lập Mada Masr; Iraq tuyên án chung thân 6 người Pháp vì theo IS; EU muốn nâng lực lượng Frontex lên 30.000 người",
+          "meta": "Reuters (qua Devdiscourse) · 27/10",
+          "body": [
+            "Một tòa án Ai Cập ra lệnh đóng cửa Mada Masr sau khi Tổng biên tập Lina Attalah bị kết tội điều hành trang tin không giấy phép, bị tạm giữ chờ bảo lãnh và bị phạt 3 triệu bảng Ai Cập (khoảng 53.400 USD). Ở Baghdad, 6 công dân Pháp lĩnh án chung thân, một người 15 năm tù vì là thành viên IS; họ thuộc nhóm 47 nghi phạm được chuyển từ Syria sang Iraq năm ngoái.",
+            "Ủy ban châu Âu đề xuất mở rộng dần lực lượng thường trực Frontex lên 30.000 người, có đơn vị phản ứng nhanh và quyền chuyển người di cư giữa các nước ngoài EU. Ở biên giới liên Triều, khách tham quan một đài quan sát của Hàn Quốc lo ngại khi thấy pháo của Triều Tiên chĩa nòng về phía nam."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Reuters World News Summary (Devdiscourse)",
+              "url": "https://www.devdiscourse.com/article/international/3998083-reuters-world-news-summary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Họa sĩ Tetsuya Chiba, tác giả “Siêu quậy Teppei” và “Thiết quyền lãng tử”, qua đời ở tuổi 87",
+          "meta": "VnExpress (theo AP, Japan Times) · 27/10",
+          "body": [
+            "Nhà xuất bản Kodansha thông báo ông Chiba mất hôm 22/10 tại một bệnh viện ở Tokyo. Ông vào nghề năm 1956; bộ Ashita no Joe (Thiết quyền lãng tử, 1968, cùng Asao Takamori) bán hơn 20 triệu bản, độc giả từng làm tang lễ ngoài đời cho nhân vật Rikiishi. Năm 2024 ông là họa sĩ manga đầu tiên được trao Huân chương Văn hóa Nhật Bản.",
+            "Ở Việt Nam, “Siêu quậy Teppei” gắn với tuổi thơ thế hệ 8X, 9X qua bản của NXB Trẻ những năm 1990, và được NXB Kim Đồng phát hành lại từ năm 2018."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tac-gia-sieu-quay-teppei-tetsuya-chiba-qua-doi-5137617.html"
+            }
+          ]
+        },
+        {
+          "headline": "Lần đầu Việt Nam có ứng viên giải Hans Christian Andersen: nhà văn Nguyễn Hữu Quỳnh Hương và họa sĩ Tạ Huy Long",
+          "meta": "Tuổi Trẻ · 27/10",
+          "body": [
+            "Chi hội Việt Nam của IBBY chọn tác giả Nguyễn Hữu Quỳnh Hương (Hũ, sinh 1997; “Chạy mưa chạy nắng”, “Thư gửi Thần Chết”) ở hạng mục Tác giả và họa sĩ Tạ Huy Long (minh họa “Dế Mèn phiêu lưu ký”, “Lĩnh Nam chích quái”, tiểu thuyết tranh “Yersin – Khúc hát Cá Ông”) ở hạng mục Họa sĩ minh họa cho giải năm 2028. Người thắng giải được công bố vào tháng 4/2028 tại Hội chợ Sách thiếu nhi Bologna (Ý).",
+            "Giải do IBBY lập năm 1953, trao hai năm một lần cho toàn bộ sự nghiệp sáng tác cho trẻ em. Tuổi Trẻ lưu ý đây là lần đầu chủ yếu vì chi hội Việt Nam mới được lập vài năm nay."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/lan-dau-tien-viet-nam-co-hai-tac-gia-duoc-de-cu-giai-thuong-hans-christian-andersen-100261027084235084.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội phát miễn phí hơn 38.000 vé concert mừng Ngày Văn hóa Việt Nam 24/11 tại sân Mỹ Đình",
+          "meta": "Tuổi Trẻ · 27/10",
+          "body": [
+            "Theo kế hoạch của UBND TP Hà Nội, 10.500 vé dành cho người dân các phường quanh sân Mỹ Đình (mỗi phường 500 giấy mời, riêng Từ Liêm 1.000) và 7.000 vé phát qua các nền tảng trực tuyến. Concert dài 120 phút, bắt đầu lúc 20:00 ngày 24/11, dự kiến đón 50.000 người, có 15 phút pháo hoa và được VTV truyền hình trực tiếp.",
+            "Năm 2026 là năm đầu tiên tổ chức Ngày Văn hóa Việt Nam 24/11; chuỗi Tuần Văn hóa – Đại đoàn kết toàn dân tộc diễn ra trên cả nước từ 18 đến 24/11."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/phat-mien-phi-hon-38000-ve-concert-mung-ngay-van-hoa-viet-nam-o-san-my-dinh-100261027190301545.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Thời tiết 28/10: Hà Tĩnh – Đà Nẵng mưa to đến rất to, có nơi trên 250 mm; Hà Nội nắng 31–33 độ, TP.HCM mưa chiều tối",
+          "meta": "Tuổi Trẻ · 28/10",
+          "body": [
+            "Theo Trung tâm Dự báo KTTV quốc gia, từ chiều tối qua đến hết ngày mai 29/10, khu vực Hà Tĩnh – TP Đà Nẵng mưa vừa, mưa to và dông, tổng lượng 60–130 mm, có nơi trên 250 mm, nguy cơ mưa trên 100 mm trong 3 giờ; cần đề phòng ngập úng, lũ quét, sạt lở. Thanh Hóa, Nghệ An và phía đông Quảng Ngãi – Khánh Hòa có mưa dông rải rác,.",
+            "Hà Nội nắng, cao nhất 31–33 độ. TP.HCM cao nhất 32–34 độ, có mưa rào và dông vài nơi. Trên biển có dông gió, tàu thuyền có nguy cơ chịu gió mạnh và sóng lớn."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thoi-tiet-hom-nay-28-10-nam-bo-mua-chieu-trung-bo-mua-rat-to-100261027191713172.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Triều cường vượt báo động III làm ngập nhiều đường ở quận 7, quận 2 cũ (TP.HCM); hôm nay triều giảm nhưng vẫn ở mức cao",
+          "meta": "VnExpress · 27/10",
+          "body": [
+            "Chiều 27/10, đỉnh triều tại trạm Nhà Bè đạt 1,75 m lúc 17:00, Phú An 1,71 m và Thủ Dầu Một 1,86 m, đều vượt báo động III. Các giao lộ Nguyễn Hữu Thọ – Nguyễn Thị Thập, Nguyễn Thị Thập – Lê Văn Lương, đường Bùi Văn Ba và Trần Não ngập đến nửa bánh xe, nhiều xe chết máy, nước tràn vào nhà dân.",
+            "Theo Đài KTTV Nam Bộ, từ hôm nay 28/10 triều có xu hướng giảm nhưng vẫn trên báo động III, nên người đi đường vào giờ tan tầm chiều tối cần tránh các điểm trũng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/trieu-cuong-nhan-chim-nhieu-tuyen-duong-o-tp-hcm-5137591.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hơn 900 hộ ở phố cổ Hà Nội sống dưới 5 m²/người dự kiến được mua nhà ở xã hội không qua bốc thăm",
+          "meta": "VnExpress · 28/10",
+          "body": [
+            "UBND TP Hà Nội đề xuất HĐND thông qua nghị quyết hôm nay 28/10, trước mắt áp dụng ở phường Hoàn Kiếm: hộ thường trú và đang sống ở phố cổ, phố cũ, diện tích bình quân dưới 5 m² sàn/người, được mua hoặc thuê mua nhà ở xã hội mà không phải bốc thăm. Rà soát cho thấy có khoảng 902 hộ (3.621 nhân khẩu) thuộc diện này.",
+            "Thành phố bố trí tối đa 902 căn, mỗi dự án không quá 20% số căn mở bán; riêng năm 2026 dự kiến có 552 căn ở 9 dự án như Vĩnh Hưng, Đại Mỗ, Mê Linh, Thạch Thất. Hộ chuyển đi phải đưa toàn bộ nhân khẩu ra khỏi chỗ ở cũ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hon-900-ho-dan-pho-co-ha-noi-du-kien-duoc-uu-tien-mua-nha-o-xa-hoi-5137635.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bão Arnab “rất mạnh” dự kiến đổ bộ bang Andhra Pradesh (Ấn Độ) sáng nay; 53 chuyến tàu hỏa bị hủy, trường học đóng cửa",
+          "meta": "The Hindu / IMD · 27/10",
+          "body": [
+            "Cơ quan Khí tượng Ấn Độ (IMD) dự báo bão vào bờ biển Andhra Pradesh và Yanam, giữa Bapatla và Visakhapatnam, vào trước trưa 28/10, sức gió 115–125 km/h, giật 140 km/h. Andhra Pradesh triển khai 15 đội cứu hộ NDRF, chuẩn bị 1.763 nơi trú bão và đưa toàn bộ 30.043 tàu cá vào bờ; Odisha đóng cửa trường học ở 6 huyện phía nam trong hai ngày 28 và 29/10.",
+            "Đường sắt South Coast hủy 53 chuyến tàu, dừng tàu thuyền du lịch trên hồ Chilika đến 29/10."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "The Hindu",
+              "url": "https://www.thehindu.com/news/national/cyclone-arnab-schools-shut-trains-cancelled-andhra-pradesh-odisha-brace-for-landfall/article71630334.ece"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 28/10/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu. Mục Khuyến mãi đặc biệt chỉ đăng ưu đãi mới còn hiệu lực có link chính thức."
+}
