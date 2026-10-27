@@ -12,6 +12,108 @@
   ],
   "articles": [
     {
+      "id": "vong-xoay-ai-boc-lot-nguoi",
+      "title": "Vòng xoáy AI “bóc lột” người",
+      "title_original": "",
+      "author": "Tia sáng",
+      "source": "tiasang.com.vn",
+      "source_url": "https://tiasang.com.vn/vong-xoay-ai-boc-lot-nguoi-5058699.html",
+      "lang": "vi",
+      "topics": [
+        "Con người",
+        "Tâm lý",
+        "Sự nghiệp"
+      ],
+      "summary": "AI giúp ta làm nhanh hơn, nhưng dùng quá đà có thể khiến não “cháy” vì quá tải và cuốn ta vào một guồng quay không có điểm dừng. Bài viết gợi ý ba câu hỏi để dừng lại, và nhắc rằng AI nhanh là để con người được chậm lại.",
+      "added": "2026-10-27",
+      "reading_minutes": 6
+    },
+    {
+      "id": "tai-ket-noi-voi-the-he-lon-len-cung-man-hinh",
+      "title": "Tái kết nối với thế hệ lớn lên cùng màn hình",
+      "title_original": "",
+      "author": "Tia sáng",
+      "source": "tiasang.com.vn",
+      "source_url": "https://tiasang.com.vn/tai-ket-noi-voi-the-he-lon-len-cung-man-hinh-5046023.html",
+      "lang": "vi",
+      "topics": [
+        "Con người",
+        "Tâm lý",
+        "Tư duy & khoa học"
+      ],
+      "summary": "Một nhà tham vấn kể về cậu học sinh nhắn tin rất lưu loát nhưng đơ người khi gặp trực tiếp, để lý giải vì sao năng lực cảm xúc - xã hội của trẻ cần được nuôi bằng sự hiện diện thật của người lớn mà không màn hình hay AI nào thay được.",
+      "added": "2026-10-27",
+      "reading_minutes": 8
+    },
+    {
+      "id": "nguoi-ta-giau-len-the-nao-ngay-nay",
+      "title": "Người ta giàu lên thế nào ngày nay",
+      "title_original": "How People Get Rich Now",
+      "author": "Paul Graham",
+      "source": "paulgraham.com",
+      "source_url": "https://paulgraham.com/richnow.html",
+      "lang": "en",
+      "topics": [
+        "Tiền bạc",
+        "Sự nghiệp",
+        "Tư duy & khoa học"
+      ],
+      "summary": "So sánh danh sách người Mỹ giàu nhất năm 1982 với năm 2020 để thấy của cải nay đến từ lập công ty công nghệ chứ không còn từ thừa kế, dầu mỏ hay bất động sản. Nhìn xa hơn thì chính giai đoạn giữa thế kỷ 20 mới là ngoại lệ.",
+      "added": "2026-10-27",
+      "reading_minutes": 12
+    },
+    {
+      "id": "lam-viec-cham-chi-the-nao",
+      "title": "Làm việc chăm chỉ thế nào",
+      "title_original": "How to Work Hard",
+      "author": "Paul Graham",
+      "source": "paulgraham.com",
+      "source_url": "https://paulgraham.com/hwh.html",
+      "lang": "en",
+      "topics": [
+        "Sự nghiệp",
+        "Tâm lý",
+        "Tư duy & khoa học"
+      ],
+      "summary": "Muốn làm được điều lớn lao thì phải làm việc rất chăm, nhưng chăm chỉ không phải cái nút vặn lên hết cỡ. Đó là một hệ thống tinh vi, và chỉ trung thực với chính mình mới chỉnh nó cho đúng.",
+      "added": "2026-10-27",
+      "reading_minutes": 14
+    },
+    {
+      "id": "chuyen-co-con",
+      "title": "Chuyện có con",
+      "title_original": "Having Kids",
+      "author": "Paul Graham",
+      "source": "paulgraham.com",
+      "source_url": "https://paulgraham.com/kids.html",
+      "lang": "en",
+      "topics": [
+        "Con người",
+        "Tâm lý",
+        "Sự nghiệp"
+      ],
+      "summary": "Trước khi làm cha, tác giả sợ có con. Giờ ông kể vì sao nỗi sợ ấy phần lớn là sai, và phần nào thì đúng: con cái làm ta bớt năng suất, có thể bớt tham vọng, nhưng cho ta nhiều khoảnh khắc bình yên hơn hẳn.",
+      "added": "2026-10-27",
+      "reading_minutes": 7
+    },
+    {
+      "id": "chuan-bi-cho-tuoi-gia-tu-nguong-40",
+      "title": "Chuẩn bị cho tuổi già từ ngưỡng 40: Đừng bỏ quên trí não",
+      "title_original": "",
+      "author": "Tia Sáng (phỏng vấn TS Hảo Quang)",
+      "source": "tiasang.com.vn",
+      "source_url": "https://tiasang.com.vn/chuan-bi-cho-tuoi-gia-tu-nguong-40-dung-bo-quen-tri-nao-5108920.html",
+      "lang": "vi",
+      "topics": [
+        "Con người",
+        "Tâm lý",
+        "Tư duy & khoa học"
+      ],
+      "summary": "Người Việt sống trung bình 74 năm nhưng chỉ khoảng 65 năm khỏe mạnh. Theo một nhà tâm lý học thần kinh, thứ quyết định ta có tự chủ được lúc về già hay không là trí nhớ và khả năng quyết định, và việc bảo vệ chúng cần bắt đầu từ tuổi 40.",
+      "added": "2026-10-27",
+      "reading_minutes": 8
+    },
+    {
       "id": "toi-day-me-yeu-xa",
       "title": "Tôi dạy mẹ yêu xa",
       "title_original": "",

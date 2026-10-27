@@ -1,0 +1,137 @@
+{
+  "id": "chuyen-co-con",
+  "title": "Chuyện có con",
+  "title_original": "Having Kids",
+  "author": "Paul Graham",
+  "source": "paulgraham.com",
+  "source_url": "https://paulgraham.com/kids.html",
+  "lang": "en",
+  "topics": [
+    "Con người",
+    "Tâm lý",
+    "Sự nghiệp"
+  ],
+  "summary": "Trước khi làm cha, tác giả sợ có con. Giờ ông kể vì sao nỗi sợ ấy phần lớn là sai, và phần nào thì đúng: con cái làm ta bớt năng suất, có thể bớt tham vọng, nhưng cho ta nhiều khoảnh khắc bình yên hơn hẳn.",
+  "added": "2026-10-27",
+  "reading_minutes": 7,
+  "source_stats": {
+    "url": "https://paulgraham.com/kids.html",
+    "coverage": "full",
+    "word_count": 1547,
+    "char_count": 6673,
+    "paragraph_count": 27,
+    "sentence_count": 109,
+    "heading_count": 0,
+    "sha256": "46eb124d67649546f08ef0c68b0b6a88195af8ddc9851930cba7886fea2749b0"
+  },
+  "body": [
+    {
+      "type": "p",
+      "text": "Trước khi có con, tôi sợ chuyện có con. Cho đến lúc đó, tôi nghĩ về trẻ con giống như thánh Augustine thời trẻ nghĩ về chuyện sống đạo đức: muốn lắm, nhưng chưa phải bây giờ. Nghĩ rằng mình sẽ chẳng bao giờ có con thì tôi buồn. Còn muốn có ngay bây giờ ư? Không."
+    },
+    {
+      "type": "p",
+      "text": "Có con nghĩa là trở thành cha mẹ. Mà cha mẹ thì, từ hồi nhỏ tôi đã biết, là những người không “ngầu”. Họ nhàm chán, nặng trách nhiệm và chẳng có gì vui. Trẻ con nghĩ thế thì không lạ. Nhưng thú thật, lớn lên rồi tôi cũng chẳng thấy gì để đổi ý. Hễ để ý đến một cặp cha mẹ dắt con, tôi lại thấy lũ trẻ như những đứa quậy phá, còn cha mẹ là những sinh vật tội nghiệp, luôn cuống cuồng, kể cả khi họ dẹp yên được con."
+    },
+    {
+      "type": "p",
+      "text": "Mỗi khi ai đó sinh em bé, tôi nhiệt tình chúc mừng, vì người ta vẫn làm thế. Nhưng trong lòng tôi chẳng thấy gì cả. Tôi chỉ nghĩ: “Thôi, bạn chịu thay tôi nhé.”"
+    },
+    {
+      "type": "p",
+      "text": "Bây giờ, mỗi khi ai đó sinh em bé, tôi vẫn nhiệt tình chúc mừng, nhưng là chúc thật lòng. Nhất là với đứa đầu lòng. Tôi thấy như họ vừa nhận được món quà tuyệt vời nhất trên đời."
+    },
+    {
+      "type": "p",
+      "text": "Điều thay đổi, tất nhiên, là tôi đã có con. Thứ tôi từng khiếp sợ hóa ra lại tuyệt vời."
+    },
+    {
+      "type": "p",
+      "text": "Một phần, và tôi không chối, là do những thay đổi hóa học dữ dội gần như xảy ra tức thì khi đứa con đầu lòng của chúng tôi chào đời. Cứ như có ai bật một công tắc. Bỗng dưng tôi thấy muốn bảo vệ không chỉ con mình mà tất cả trẻ con. Khi lái xe đưa vợ và con trai mới sinh từ bệnh viện về, tôi đến một vạch qua đường đông người đi bộ. Tôi chợt nghĩ: “Mình phải thật cẩn thận với những người này. Ai trong số họ cũng là con của ai đó!”"
+    },
+    {
+      "type": "p",
+      "text": "Vì vậy, ở một mức nào đó, bạn không nên hoàn toàn tin tôi khi tôi nói có con là tuyệt. Tôi hơi giống một tín đồ giáo phái bảo bạn rằng vào giáo phái thì bạn cũng sẽ hạnh phúc. Có điều, bạn sẽ hạnh phúc chỉ vì việc gia nhập đã làm đầu óc bạn thay đổi, khiến bạn vui với tư cách thành viên."
+    },
+    {
+      "type": "p",
+      "text": "Nhưng không hoàn toàn như vậy. Có những điều về chuyện có con mà trước đây tôi nghĩ sai rõ ràng."
+    },
+    {
+      "type": "p",
+      "text": "Chẳng hạn, những gì tôi quan sát được về cha mẹ và con cái bị thiên lệch rất nặng do chọn lọc. Có thể một số bậc cha mẹ đã để ý câu tôi viết ở trên: “Hễ để ý đến một cặp cha mẹ dắt con.” Dĩ nhiên, tôi chỉ để ý đến trẻ con khi có chuyện không ổn. Tôi chỉ chú ý khi chúng ồn ào. Mà lúc ấy tôi đang ở đâu? Bình thường tôi không đến những nơi có trẻ con. Nên chỗ duy nhất tôi gặp chúng là những điểm nút chung như trên máy bay. Đó đâu phải một mẫu đại diện. Đi máy bay với một đứa bé tập đi là chuyện rất ít bậc cha mẹ thấy dễ chịu."
+    },
+    {
+      "type": "p",
+      "text": "Thứ tôi không để ý, vì chúng thường yên ắng hơn nhiều, là tất cả những khoảnh khắc tuyệt vời của cha mẹ bên con. Người ta ít kể về chúng. Điều kỳ diệu ấy khó nói thành lời, mà các bậc cha mẹ khác cũng đã biết cả rồi. Nhưng một trong những điều hay nhất của việc có con là có rất nhiều lúc bạn thấy chẳng nơi nào bạn muốn ở hơn, chẳng việc gì bạn muốn làm hơn. Bạn không cần làm gì đặc biệt. Có thể chỉ là cùng nhau đi đâu đó, dỗ con ngủ, hay đẩy con chơi xích đu ở công viên. Nhưng bạn sẽ không đổi những khoảnh khắc ấy lấy bất cứ thứ gì. Người ta thường không gắn trẻ con với sự bình yên, vậy mà đó chính là điều bạn cảm thấy. Bạn không cần tìm đâu xa hơn chỗ mình đang ở."
+    },
+    {
+      "type": "p",
+      "text": "Trước khi có con, tôi cũng có những lúc bình yên như vậy, nhưng hiếm hơn. Có con rồi, điều đó có thể xảy ra vài lần mỗi ngày."
+    },
+    {
+      "type": "p",
+      "text": "Nguồn dữ liệu còn lại của tôi về trẻ con là tuổi thơ của chính mình, và nó cũng đánh lừa tôi như thế. Tôi khá hư, lúc nào cũng dính vào chuyện gì đó. Nên với tôi, làm cha mẹ về cơ bản là làm công việc thực thi kỷ luật. Tôi không hiểu rằng còn có những lúc vui nữa."
+    },
+    {
+      "type": "p",
+      "text": "Tôi nhớ có lần, khi tôi khoảng 30 tuổi, mẹ nói với tôi rằng bà rất thích có tôi và chị gái. Trời ơi, tôi nghĩ, bà này đúng là một vị thánh. Bà không chỉ chịu đựng mọi nỗi khổ chúng tôi gây ra, mà còn thấy vui nữa sao? Giờ tôi hiểu bà chỉ đang nói sự thật."
+    },
+    {
+      "type": "p",
+      "text": "Mẹ bảo một lý do bà thích có con là vì chúng tôi nói chuyện rất thú vị. Điều đó làm tôi ngạc nhiên khi tôi có con. Bạn không chỉ yêu chúng. Chúng còn trở thành bạn của bạn. Chúng thật sự rất thú vị. Tôi thừa nhận trẻ nhỏ mê lặp đi lặp lại đến mức tai hại (việc gì đáng làm một lần thì đáng làm năm mươi lần). Nhưng chơi với chúng thường vui thật. Điều này cũng khiến tôi ngạc nhiên. Chơi với đứa 2 tuổi thì vui khi tôi 2 tuổi, và chắc chắn không vui khi tôi 6 tuổi. Sao về sau nó lại vui trở lại? Vậy mà đúng thế.[1]"
+    },
+    {
+      "type": "p",
+      "text": "Dĩ nhiên cũng có những lúc chỉ toàn là việc nhọc nhằn. Hoặc tệ hơn, là nỗi kinh hoàng. Có con là một trong những trải nghiệm mãnh liệt mà nếu chưa trải qua thì khó mà hình dung. Nhưng nó không đơn thuần là chuyện DNA của bạn chạy ra xuồng cứu sinh, như tôi từng ngầm tin trước khi có con."
+    },
+    {
+      "type": "p",
+      "text": "Tuy nhiên, một số nỗi lo của tôi về chuyện có con là đúng. Con cái chắc chắn khiến bạn làm việc kém năng suất hơn. Tôi biết có người có con rồi thì bỗng nghiêm chỉnh hẳn lên. Nhưng nếu bạn vốn đã nghiêm chỉnh, bạn sẽ chỉ có ít thời gian hơn để làm việc. Cụ thể, bạn phải làm việc theo lịch. Trẻ con có lịch của chúng. Tôi không rõ do bản chất trẻ con như thế, hay vì đó là cách duy nhất để ghép cuộc sống của chúng với người lớn. Nhưng một khi có con, bạn thường phải làm việc theo lịch của chúng."
+    },
+    {
+      "type": "p",
+      "text": "Bạn vẫn có những khoảng thời gian để làm việc. Nhưng bạn không thể để công việc tràn lan khắp cuộc sống như tôi từng làm trước khi có con. Bạn phải làm vào cùng một giờ mỗi ngày, dù cảm hứng có dâng hay không. Và sẽ có lúc bạn phải dừng, kể cả khi cảm hứng đang dâng."
+    },
+    {
+      "type": "p",
+      "text": "Tôi đã thích nghi được với cách làm việc này. Công việc, cũng như tình yêu, luôn tìm ra đường đi. Nếu chỉ có vài khung giờ nhất định để làm, thì nó sẽ diễn ra vào những giờ ấy. Nên tuy làm được ít hơn trước khi có con, tôi vẫn làm đủ."
+    },
+    {
+      "type": "p",
+      "text": "Tôi không muốn nói điều này, vì có tham vọng vốn luôn là một phần bản sắc của tôi. Nhưng có con có thể khiến người ta bớt tham vọng. Thấy câu này viết ra giấy tôi thấy đau. Tôi cựa quậy muốn né nó. Nhưng nếu không có gì thật ở đó, sao tôi phải cựa quậy? Sự thật là một khi có con, bạn nhiều khả năng sẽ quan tâm đến chúng hơn cả chính mình. Mà sự chú ý là một trò chơi có tổng bằng không. Mỗi lúc chỉ một ý nghĩ có thể đứng đầu trong tâm trí bạn. Có con rồi, ý nghĩ đó thường sẽ là về con. Nghĩa là nó sẽ ít khi là về dự án bạn đang làm."
+    },
+    {
+      "type": "p",
+      "text": "Tôi có vài mẹo để căng buồm sát ngọn gió này. Chẳng hạn, khi viết bài, tôi nghĩ xem mình muốn các con biết điều gì. Điều đó thúc tôi cố viết cho đúng. Và khi viết Bel (một ngôn ngữ lập trình tôi tự thiết kế), tôi nói với các con rằng xong rồi tôi sẽ đưa chúng đi châu Phi. Nói câu đó với một đứa trẻ nhỏ thì chúng coi như lời hứa. Tức là tôi phải làm xong, nếu không sẽ lấy mất chuyến đi châu Phi của chúng. Nếu thật may mắn, những mẹo như vậy có thể giúp tôi lãi ròng. Nhưng ngọn gió ấy vẫn có đó, không nghi ngờ gì."
+    },
+    {
+      "type": "p",
+      "text": "Mặt khác, tham vọng gì mà yếu ớt đến mức không sống nổi qua chuyện có con? Bạn dành dụm được ít ỏi đến thế sao?"
+    },
+    {
+      "type": "p",
+      "text": "Dù có con có thể đang bóp méo phán đoán hiện tại của tôi, nó không xóa mất ký ức của tôi. Tôi vẫn nhớ rất rõ cuộc sống trước đây thế nào. Đủ rõ để nhớ một số điều da diết, như việc có thể xách ba lô đi nước khác bất cứ lúc nào. Điều đó tuyệt quá. Sao hồi ấy tôi không làm thế nhỉ?"
+    },
+    {
+      "type": "p",
+      "text": "Thấy tôi vừa làm gì chưa? Sự thật là phần lớn tự do tôi có trước khi có con, tôi chưa từng dùng đến. Tôi trả giá cho nó bằng nỗi cô đơn, mà rốt cuộc vẫn không dùng."
+    },
+    {
+      "type": "p",
+      "text": "Trước khi có con, tôi có rất nhiều lúc hạnh phúc. Nhưng nếu đếm số khoảnh khắc hạnh phúc, không phải niềm hạnh phúc tiềm năng mà là những khoảnh khắc thật sự, thì sau khi có con nhiều hơn trước. Giờ hầu như tôi có nó sẵn như vòi nước, gần như mỗi giờ đi ngủ của con."
+    },
+    {
+      "type": "p",
+      "text": "Trải nghiệm làm cha mẹ của mỗi người khác nhau nhiều, và tôi biết mình đã may mắn. Nhưng tôi nghĩ những nỗi lo tôi từng có trước khi có con hẳn rất phổ biến. Và nhìn nét mặt của các bậc cha mẹ khác khi họ ngắm con, tôi nghĩ niềm hạnh phúc mà con cái mang lại cũng vậy."
+    },
+    {
+      "type": "p",
+      "text": "Chú thích [1]: Người lớn đủ tinh tế để thấy những đứa bé 2 tuổi là những nhân vật phức tạp đến mê hoặc. Còn với đa số trẻ 6 tuổi, trẻ 2 tuổi chỉ là những đứa 6 tuổi bị lỗi."
+    },
+    {
+      "type": "p",
+      "text": "Cảm ơn Trevor Blackwell, Jessica Livingston và Robert Morris đã đọc bản nháp bài này."
+    }
+  ]
+}

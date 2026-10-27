@@ -1,0 +1,165 @@
+{
+  "id": "nguoi-ta-giau-len-the-nao-ngay-nay",
+  "title": "Người ta giàu lên thế nào ngày nay",
+  "title_original": "How People Get Rich Now",
+  "author": "Paul Graham",
+  "source": "paulgraham.com",
+  "source_url": "https://paulgraham.com/richnow.html",
+  "lang": "en",
+  "topics": [
+    "Tiền bạc",
+    "Sự nghiệp",
+    "Tư duy & khoa học"
+  ],
+  "summary": "So sánh danh sách người Mỹ giàu nhất năm 1982 với năm 2020 để thấy của cải nay đến từ lập công ty công nghệ chứ không còn từ thừa kế, dầu mỏ hay bất động sản. Nhìn xa hơn thì chính giai đoạn giữa thế kỷ 20 mới là ngoại lệ.",
+  "added": "2026-10-27",
+  "reading_minutes": 12,
+  "source_stats": {
+    "url": "https://paulgraham.com/richnow.html",
+    "coverage": "full",
+    "word_count": 2585,
+    "char_count": 12085,
+    "paragraph_count": 1,
+    "sentence_count": 143,
+    "heading_count": 0,
+    "sha256": "dbab2467ce3e321308b7014fab443821a44c9ce0ab26375b6e2d6bba57bffd7d"
+  },
+  "body": [
+    {
+      "type": "p",
+      "text": "Từ năm 1982, năm nào tạp chí Forbes cũng công bố danh sách những người Mỹ giàu nhất. Thử đặt 100 người giàu nhất năm 1982 cạnh 100 người giàu nhất năm 2020, ta thấy ngay vài khác biệt lớn. Năm 1982, nguồn của cải phổ biến nhất là thừa kế. Trong 100 người giàu nhất, có 60 người thừa kế từ tổ tiên. Riêng dòng họ du Pont đã có tới 10 người. Đến năm 2020, số người thừa kế giảm đi một nửa, chỉ còn 27 trong 100 khối tài sản lớn nhất."
+    },
+    {
+      "type": "p",
+      "text": "Vì sao tỉ lệ người thừa kế lại giảm? Không phải do thuế thừa kế tăng. Thực tế, thuế này đã giảm mạnh trong giai đoạn đó. Tỉ lệ người thừa kế giảm không phải vì ít người được thừa kế gia tài lớn hơn, mà vì có nhiều người tự làm ra gia tài hơn."
+    },
+    {
+      "type": "p",
+      "text": "Vậy họ làm ra bằng cách nào? Khoảng ba phần tư nhờ lập công ty, một phần tư nhờ đầu tư. Trong 73 khối tài sản mới của năm 2020, có 56 khối đến từ cổ phần của người sáng lập hoặc nhân viên đầu tiên (52 nhà sáng lập, 2 nhân viên đầu tiên và 2 người vợ của nhà sáng lập). Còn 17 khối đến từ việc quản lý quỹ đầu tư. Năm 1982, trong top 100 chưa có nhà quản lý quỹ nào. Quỹ phòng hộ (hedge fund) và quỹ đầu tư cổ phần tư nhân (private equity) khi ấy đã có, nhưng người sáng lập chúng chưa đủ giàu để lọt vào danh sách. Từ đó đến nay có hai thay đổi. Một là các nhà quản lý quỹ tìm ra cách mới để sinh lợi nhuận cao. Hai là nhiều nhà đầu tư sẵn lòng giao tiền cho họ hơn. [1]"
+    },
+    {
+      "type": "p",
+      "text": "Tuy vậy, nguồn chính của các khối tài sản mới bây giờ vẫn là lập công ty, và nhìn vào số liệu, ta thấy ở đây cũng có những thay đổi lớn. Ngày nay lập công ty giúp người ta giàu hơn hồi 1982, vì các công ty ấy làm những việc khác."
+    },
+    {
+      "type": "p",
+      "text": "Năm 1982 có hai nguồn của cải mới chiếm ưu thế: dầu mỏ và bất động sản. Trong 40 khối tài sản mới của năm đó, ít nhất 24 khối chủ yếu nhờ dầu mỏ hoặc bất động sản. Nay chỉ còn lác đác vài trường hợp. Trong 73 khối tài sản mới của năm 2020, 4 khối nhờ bất động sản và đúng 2 khối nhờ dầu mỏ. Đến năm 2020, nguồn của cải mới lớn nhất là những công ty mà người ta hay gọi là công ty “công nghệ” (tech). Trong 73 khối tài sản mới, khoảng 30 khối đến từ các công ty loại này. Chúng đặc biệt phổ biến ở nhóm giàu nhất: 8 trong 10 khối tài sản lớn nhất năm 2020 là tài sản mới thuộc loại ấy."
+    },
+    {
+      "type": "p",
+      "text": "Có thể nói xếp “công nghệ” thành một nhóm riêng là hơi khiên cưỡng. Amazon thực ra chẳng phải nhà bán lẻ sao, Tesla chẳng phải hãng xe sao? Vừa đúng vừa không. Có lẽ 50 năm nữa, khi những thứ ta gọi là công nghệ đã thành chuyện bình thường, xếp hai doanh nghiệp này chung một nhóm sẽ thấy không còn hợp. Nhưng ít nhất lúc này, chúng chắc chắn có một điểm chung khiến chúng khác với phần còn lại. Nhà bán lẻ nào lại lập ra AWS (dịch vụ điện toán đám mây của Amazon)? Hãng xe nào lại do một người điều hành, người đó đồng thời có cả một công ty tên lửa?"
+    },
+    {
+      "type": "p",
+      "text": "Các công ty công nghệ đứng sau top 100 cũng tạo thành một nhóm tách biệt rõ rệt, theo nghĩa này: đó đều là những công ty mà các nhà đầu tư mạo hiểm (venture capitalist, người chuyên rót vốn vào công ty non trẻ có tiềm năng lớn) sẵn sàng đầu tư, còn các công ty khác thì phần lớn là không. Lý do cũng dễ hiểu. Phần lớn họ thắng nhờ công nghệ tốt hơn, chứ không chỉ nhờ một vị CEO cực kỳ quyết liệt và giỏi chốt thương vụ. Ở mức độ đó, sự trỗi dậy của các công ty công nghệ là một thay đổi về chất. Những ông trùm dầu mỏ và bất động sản trong danh sách Forbes 400 năm 1982 không thắng nhờ công nghệ tốt hơn. Họ thắng nhờ quyết liệt và giỏi chốt thương vụ. [2]"
+    },
+    {
+      "type": "p",
+      "text": "Thật ra, cách làm giàu ấy cổ đến mức có từ trước cả Cách mạng Công nghiệp. Những cận thần giàu lên nhờ danh nghĩa phục vụ các hoàng gia châu Âu hồi thế kỷ 16 và 17 nhìn chung cũng là người quyết liệt và giỏi chốt thương vụ."
+    },
+    {
+      "type": "p",
+      "text": "Ai chỉ nhìn đến hệ số Gini (thước đo mức bất bình đẳng về thu nhập) thì sẽ coi thế giới năm 1982 là thời hoàng kim, vì những người giàu lên hồi đó không giàu bằng bây giờ. Nhưng nếu đào sâu xem họ giàu bằng cách nào, thời xưa ấy chẳng đẹp đẽ gì mấy. Năm 1982, 84% trong 100 người giàu nhất có được của cải nhờ thừa kế, khai thác tài nguyên thiên nhiên hoặc làm ăn bất động sản. Thế giới ấy có thực sự tốt hơn một thế giới nơi người giàu nhất làm giàu bằng cách lập công ty công nghệ không?"
+    },
+    {
+      "type": "p",
+      "text": "Vậy tại sao người ta lập nhiều công ty mới hơn trước, và tại sao họ giàu lên nhiều đến thế nhờ việc đó? Với câu hỏi thứ nhất, câu trả lời, nói ra cũng lạ, là câu hỏi này đặt sai. Ta không nên hỏi vì sao người ta lập công ty, mà phải hỏi vì sao họ lại lập công ty trở lại. [3]"
+    },
+    {
+      "type": "p",
+      "text": "Năm 1892, tờ New York Herald Tribune lập danh sách tất cả triệu phú ở Mỹ và tìm được 4.047 người. Khi ấy có bao nhiêu người thừa kế? Chỉ khoảng 20%, thấp hơn tỉ lệ người thừa kế ngày nay. Còn nếu xét nguồn gốc các gia tài mới, năm 1892 lại càng giống hôm nay. Hugh Rockoff nhận thấy rằng “nhiều người trong nhóm giàu nhất ... có được lợi thế ban đầu nhờ công nghệ sản xuất hàng loạt mới”. [4] Như vậy, bất thường ở đây không phải năm 2020 mà là năm 1982. Câu hỏi thật sự là: vì sao năm 1982 có quá ít người làm giàu nhờ lập công ty?"
+    },
+    {
+      "type": "p",
+      "text": "Câu trả lời là ngay trong lúc danh sách của Herald Tribune được lập, một làn sóng hợp nhất đang quét qua nền kinh tế Mỹ. Vào cuối thế kỷ 19 và đầu thế kỷ 20, các nhà tài phiệt như J. P. Morgan gom hàng nghìn công ty nhỏ thành vài trăm công ty khổng lồ, với lợi thế quy mô áp đảo. Đến cuối Thế chiến II, như Michael Lind viết, “các ngành chủ chốt của nền kinh tế hoặc được tổ chức thành những cartel (liên minh độc quyền) có chính phủ chống lưng, hoặc bị một vài tập đoàn độc quyền nhóm (oligopoly) thống trị”. [5]"
+    },
+    {
+      "type": "p",
+      "text": "Năm 1960, phần lớn những người ngày nay lập startup sẽ đi làm cho một trong các tập đoàn đó. Bạn có thể làm giàu nhờ tự lập công ty vào năm 1890 và năm 2020, nhưng năm 1960 thì đó thực sự không phải lựa chọn khả thi. Bạn không thể xuyên thủng các tập đoàn độc quyền để tiếp cận thị trường. Vì thế, con đường được trọng vọng năm 1960 không phải là tự lập công ty, mà là từng bước leo lên nấc thang chức vụ trong một công ty có sẵn. [6]"
+    },
+    {
+      "type": "p",
+      "text": "Biến ai cũng thành nhân viên công ty thì làm giảm bất bình đẳng kinh tế (và mọi kiểu chênh lệch khác). Nhưng nếu bạn lấy giữa thế kỷ 20 làm chuẩn mực của sự bình thường, thì bạn đang có một mô hình rất sai lệch. Nền kinh tế của J. P. Morgan hóa ra chỉ là một giai đoạn, và từ thập niên 1970 nó bắt đầu tan rã."
+    },
+    {
+      "type": "p",
+      "text": "Vì sao nó tan rã? Một phần do già cỗi. Các công ty lớn từng có vẻ là hình mẫu về quy mô và hiệu quả hồi 1930, đến 1970 đã trở nên chậm chạp và phình to. Lúc ấy, cơ cấu cứng nhắc của nền kinh tế đầy những tổ ấm êm ái mà đủ loại nhóm lợi ích đã dựng lên để tự che chắn khỏi sức ép của thị trường. Dưới thời chính quyền Carter, chính phủ liên bang nhận ra có điều gì đó không ổn. Họ bắt đầu gỡ bỏ các chính sách từng chống lưng cho các tập đoàn độc quyền, trong một quá trình mà họ gọi là “bãi bỏ quy định” (deregulation)."
+    },
+    {
+      "type": "p",
+      "text": "Nhưng không phải chỉ có mục ruỗng từ bên trong mới làm tan rã nền kinh tế của J. P. Morgan. Còn có sức ép từ bên ngoài, đến từ công nghệ mới, nhất là vi điện tử. Cách dễ hình dung nhất là tưởng tượng một cái ao phủ lớp băng. Lúc đầu, đường duy nhất từ đáy ao lên mặt là đi vòng theo mép ao. Nhưng khi lớp băng yếu dần, bạn bắt đầu có thể đục thẳng qua giữa. Mép ao là công nghệ thuần túy: những công ty tự nhận mình làm điện tử hoặc phần mềm. Năm 1990, nói đến “startup” là người ta muốn nói đến loại công ty này. Còn bây giờ, các startup đang đục thẳng qua giữa lớp băng và lật đổ những ông lớn đương thời như nhà bán lẻ, đài truyền hình, hãng xe. [7]"
+    },
+    {
+      "type": "p",
+      "text": "Tuy nhiên, sự tan rã của nền kinh tế J. P. Morgan tuy tạo ra một thế giới mới về mặt công nghệ, nhưng về mặt xã hội thì đó là sự trở lại với trạng thái bình thường. Nếu chỉ nhìn lui đến giữa thế kỷ 20, ta sẽ tưởng làm giàu nhờ tự lập công ty là chuyện mới xảy ra gần đây. Nhìn xa hơn, ta sẽ thấy đó mới là mặc định. Vậy nên trong tương lai, ta nên chờ đợi nhiều điều tương tự. Thậm chí cả số lượng lẫn mức giàu có của các nhà sáng lập sẽ còn tăng, vì mỗi thập kỷ trôi qua, lập startup lại dễ thêm một chút."
+    },
+    {
+      "type": "p",
+      "text": "Một phần lý do khiến việc lập startup dễ hơn là ở xã hội. Xã hội đang (tái) tiếp nhận khái niệm này. Bây giờ nếu bạn lập startup, bố mẹ sẽ không hốt hoảng như họ từng hốt hoảng cách đây một thế hệ, và kiến thức về cách làm cũng phổ biến hơn nhiều. Nhưng lý do chính là chi phí rẻ hơn. Công nghệ đã kéo giảm chi phí cả khi xây dựng sản phẩm lẫn khi tìm khách hàng."
+    },
+    {
+      "type": "p",
+      "text": "Chi phí khởi nghiệp giảm đã làm đổi cán cân quyền lực giữa nhà sáng lập và nhà đầu tư. Hồi lập startup còn đồng nghĩa với xây nhà máy, bạn phải được nhà đầu tư cho phép thì mới làm nổi. Giờ thì nhà đầu tư cần nhà sáng lập hơn là ngược lại. Cộng thêm lượng vốn đầu tư mạo hiểm ngày một nhiều, điều đó đã đẩy định giá công ty lên cao. [8]"
+    },
+    {
+      "type": "p",
+      "text": "Như vậy, chi phí khởi nghiệp giảm làm tăng số người giàu theo hai cách: nhiều người lập startup hơn, và những người đã lập thì gọi vốn được với điều kiện tốt hơn. Nhưng còn một yếu tố thứ ba nữa: bản thân các công ty ngày nay đáng giá hơn, vì công ty mới thành lập lớn nhanh hơn trước. Công nghệ không chỉ làm cho việc xây dựng và phân phối sản phẩm rẻ hơn, mà còn nhanh hơn."
+    },
+    {
+      "type": "p",
+      "text": "Xu hướng này đã chạy từ lâu. IBM, thành lập năm 1896, mất 45 năm mới đạt doanh thu một tỉ đô la (tính theo giá trị đô la năm 2020). Hewlett-Packard, thành lập năm 1939, mất 25 năm. Microsoft, thành lập năm 1975, mất 13 năm. Bây giờ, với các công ty tăng trưởng nhanh, mức thường thấy là 7 hoặc 8 năm. [9]"
+    },
+    {
+      "type": "p",
+      "text": "Tăng trưởng nhanh tác động kép lên giá trị cổ phần của nhà sáng lập. Giá trị của một công ty phụ thuộc vào doanh thu và tốc độ tăng trưởng. Vì thế, nếu công ty lớn nhanh hơn, bạn không chỉ chạm mốc doanh thu một tỉ đô sớm hơn, mà đến lúc chạm mốc ấy, công ty còn đáng giá hơn so với khi nó lớn chậm. Đó là lý do nhà sáng lập đôi khi giàu sớm đến thế. Chi phí khởi đầu thấp cho phép họ bắt đầu từ lúc còn trẻ. Tăng trưởng nhanh của các công ty hôm nay lại có nghĩa là nếu thành công, chỉ vài năm sau họ có thể giàu đến bất ngờ."
+    },
+    {
+      "type": "p",
+      "text": "Chưa bao giờ việc lập và phát triển một công ty lại dễ như bây giờ. Điều đó kéo theo nhiều người lập công ty hơn, người lập có được điều kiện tốt hơn từ nhà đầu tư, và các công ty tạo ra đáng giá hơn. Một khi hiểu cơ chế này, và hiểu rằng startup đã bị kìm hãm suốt phần lớn thế kỷ 20, bạn không cần phải viện đến một cú “rẽ phải” mơ hồ của nước Mỹ dưới thời Reagan để giải thích vì sao hệ số Gini của Mỹ đang tăng. Dĩ nhiên là Gini tăng. Nhiều người lập nhiều công ty đáng giá hơn, làm sao có thể khác được?"
+    },
+    {
+      "type": "h2",
+      "text": "Ghi chú"
+    },
+    {
+      "type": "p",
+      "text": "[1] Các công ty đầu tư tăng trưởng nhanh sau khi Bộ Lao động Mỹ thay đổi quy định năm 1978, cho phép các quỹ hưu trí đầu tư vào họ. Tuy nhiên, hiệu ứng của sự tăng trưởng này năm 1982 chưa lộ ra trong top 100 khối tài sản."
+    },
+    {
+      "type": "p",
+      "text": "[2] George Mitchell đáng được nhắc đến như một ngoại lệ. Dù cũng là người quyết liệt và giỏi chốt thương vụ, ông còn là người đầu tiên nghĩ ra cách dùng kỹ thuật nứt vỡ thủy lực (fracking) để lấy khí tự nhiên từ đá phiến."
+    },
+    {
+      "type": "p",
+      "text": "[3] Khi tôi nói người ta đang lập nhiều công ty hơn, ý tôi là loại công ty được thiết kế để lớn rất nhanh. Thực ra, trong vài thập kỷ qua, tổng số công ty mới thành lập đã giảm. Nhưng phần lớn công ty là các cửa hàng bán lẻ và doanh nghiệp dịch vụ nhỏ. Cho nên các thống kê về số doanh nghiệp mới giảm thật ra chỉ nói rằng người ta mở ít tiệm giày và tiệm cắt tóc hơn. Người ta đôi khi bối rối khi thấy một biểu đồ gắn nhãn “startup” đi xuống, vì chữ “startup” có hai nghĩa: (1) việc thành lập một công ty, và (2) một loại công ty đặc biệt được thiết kế để lớn nhanh. Các thống kê kia nói về nghĩa (1), không phải nghĩa (2)."
+    },
+    {
+      "type": "p",
+      "text": "[4] Rockoff, Hugh. “Great Fortunes of the Gilded Age.” NBER Working Paper 14555, 2008."
+    },
+    {
+      "type": "p",
+      "text": "[5] Lind, Michael. Land of Promise. HarperCollins, 2012. Cũng có khả năng là mức thuế cao hồi giữa thế kỷ 20 đã cản người ta tự lập công ty. Tự lập công ty là việc nhiều rủi ro, và khi rủi ro không được đền đáp, người ta chọn sự an toàn. Nhưng đây không đơn giản là quan hệ nhân quả một chiều. Các tập đoàn độc quyền và mức thuế cao của giữa thế kỷ 20 là một thể thống nhất. Thuế thấp không chỉ là nguyên nhân của tinh thần khởi nghiệp mà còn là kết quả của nó: những người làm giàu hồi giữa thế kỷ 20 nhờ bất động sản và thăm dò dầu mỏ đã vận động hành lang và giành được những kẽ hở thuế khổng lồ, khiến thuế suất thực tế của họ thấp hơn nhiều. Có lẽ nếu việc phát triển công ty lớn bằng công nghệ mới khi ấy phổ biến hơn, những người làm việc đó cũng sẽ vận động để giành kẽ hở thuế cho mình."
+    },
+    {
+      "type": "p",
+      "text": "[6] Vì thế mà những người làm giàu được hồi giữa thế kỷ 20 thường làm giàu nhờ thăm dò dầu mỏ hoặc bất động sản. Đó là hai mảng lớn của nền kinh tế không dễ bị hợp nhất."
+    },
+    {
+      "type": "p",
+      "text": "[7] Các công ty công nghệ thuần túy từng được gọi là startup “công nghệ cao” (high technology). Nhưng giờ startup đã đục thẳng qua giữa lớp băng, ta không cần một cái tên riêng cho phần mép ao nữa, và cụm “công nghệ cao” nghe đã đậm màu hoài cổ."
+    },
+    {
+      "type": "p",
+      "text": "[8] Định giá cao hơn nghĩa là bạn bán ít cổ phiếu hơn để có một số tiền nhất định, hoặc nhận được nhiều tiền hơn cho một lượng cổ phiếu nhất định. Startup thông thường làm cả hai ở mức nào đó. Rõ ràng giữ lại nhiều cổ phiếu hơn thì bạn giàu hơn. Nhưng gọi được nhiều tiền hơn cũng nên làm bạn giàu hơn, vì (a) điều đó đáng lẽ giúp công ty thành công hơn, và (b) bạn đáng lẽ cầm cự được lâu hơn trước vòng gọi vốn kế tiếp, hoặc thậm chí không cần đến nó. Hãy để ý mấy chữ “đáng lẽ” ấy. Trên thực tế, nhiều tiền đã lọt qua kẽ hở của chúng. Có thể thấy các vòng gọi vốn khổng lồ của startup ngày nay như mâu thuẫn với lập luận rằng lập startup đã rẻ hơn. Nhưng không có mâu thuẫn nào ở đây. Những startup gọi được nhiều tiền nhất là những công ty chủ động làm vậy để lớn nhanh hơn, chứ không phải những công ty cần tiền để sống sót. Chẳng có gì khiến người ta chìa tiền cho bạn bằng việc bạn không cần tiền. Lẽ ra, sau gần hai thế kỷ đứng về phía lao động trong cuộc đấu tranh với tư bản, phe cực tả phải vui khi lao động cuối cùng đã thắng thế. Nhưng chẳng ai trong số họ có vẻ vui. Gần như nghe được họ nói: “Không, không, không phải kiểu *này*.”"
+    },
+    {
+      "type": "p",
+      "text": "[9] IBM được lập năm 1911 do sáp nhập ba công ty, trong đó quan trọng nhất là Tabulating Machine Company của Herman Hollerith, thành lập năm 1896. Năm 1941, doanh thu của IBM là 60 triệu đô la. Doanh thu của Hewlett-Packard năm 1964 là 125 triệu đô la. Doanh thu của Microsoft năm 1988 là 590 triệu đô la."
+    },
+    {
+      "type": "p",
+      "text": "Cảm ơn Trevor Blackwell, Jessica Livingston, Bob Lesko, Robert Morris, Russ Roberts và Alex Tabarrok đã đọc bản nháp bài này, và cảm ơn Jon Erlichman đã cung cấp số liệu tăng trưởng."
+    }
+  ]
+}
