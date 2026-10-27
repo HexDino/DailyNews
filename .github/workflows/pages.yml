@@ -53,6 +53,11 @@ jobs:
       - name: Rebuild issue and search indexes
         run: python3 scripts/regenerate_index.py
 
+      - name: Rebuild Slow Reads index and validate
+        run: |
+          python3 scripts/add_slow_read.py
+          python3 scripts/validate_slow_read.py --strict
+
       - name: Install Playwright and run smoke test
         run: |
           pip install playwright

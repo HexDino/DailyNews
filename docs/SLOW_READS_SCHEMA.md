@@ -2,6 +2,8 @@
 
 Long-form life essays live under `slow-reads/`, independent of daily issues. The list page is `slow-reads/index.html`; a single article is `slow-reads/article.html?id=<slug>`.
 
+For the fetch → translate → publish workflow (and the bot prompts), see [SLOW_READS_PIPELINE.md](SLOW_READS_PIPELINE.md).
+
 ## Add an article (bot / human)
 
 1. Create `slow-reads/articles/<id>.json` (filename stem **must** equal the `id` field).
