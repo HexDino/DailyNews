@@ -1,5 +1,81 @@
 {
   "version": 1,
   "rights_policy": "user-accepted",
-  "items": []
+  "items": [
+    {
+      "source_id": "guardian-long-read",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection",
+      "title": "Would you pay to have the ‘best baby’? Liberal eugenics and the troubling quest for human perfection",
+      "author": "Jan Grue",
+      "source": "The Guardian Long Read",
+      "lang": "en",
+      "topics_guess": [
+        "Con người",
+        "Đối nhân xử thế"
+      ],
+      "quality_score": 92,
+      "quality_reason": "Giữ mức nền 92 của registry vì đây là bài long read về đạo đức và con người, không phải tin vắn.",
+      "est_words": 0,
+      "fetch": "rss+static",
+      "status": "candidate",
+      "rights_note": "user-accepted",
+      "added_at": "2026-10-27"
+    },
+    {
+      "source_id": "psyche",
+      "url": "https://psyche.co/ideas/everyone-says-they-have-anxiety-clinical-anxiety-is-different",
+      "title": "Everyone says they have anxiety. Clinical anxiety is different",
+      "author": "India Sturgis",
+      "source": "Psyche",
+      "lang": "en",
+      "topics_guess": [
+        "Tâm lý",
+        "Con người"
+      ],
+      "quality_score": 88,
+      "quality_reason": "Giữ mức nền 88 vì là bài ideas dạng tiểu luận trải nghiệm cá nhân về tâm lý, đúng chủ đề.",
+      "est_words": 0,
+      "fetch": "rss+static",
+      "status": "candidate",
+      "rights_note": "user-accepted",
+      "added_at": "2026-10-27"
+    },
+    {
+      "source_id": "quanta",
+      "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+      "title": "How Voting Is Like a Klein Bottle",
+      "author": "Alex Stone",
+      "source": "Quanta Magazine",
+      "lang": "en",
+      "topics_guess": [
+        "Tư duy & khoa học"
+      ],
+      "quality_score": 88,
+      "quality_reason": "Hạ nhẹ từ 90 xuống 88 vì nội dung toán học khá chuyên sâu, nhưng vẫn là bài giải thích khoa học dài.",
+      "est_words": 0,
+      "fetch": "rss+static",
+      "status": "candidate",
+      "rights_note": "user-accepted",
+      "added_at": "2026-10-27"
+    },
+    {
+      "source_id": "of-dollars-and-data",
+      "url": "https://ofdollarsanddata.com/playing-the-wrong-game/",
+      "title": "Playing the Wrong Game",
+      "author": "Nick Maggiulli",
+      "source": "Of Dollars and Data",
+      "lang": "en",
+      "topics_guess": [
+        "Tiền bạc",
+        "Sự nghiệp"
+      ],
+      "quality_score": 82,
+      "quality_reason": "Giữ mức nền 82 vì là tiểu luận suy ngẫm về tiền bạc và lựa chọn sống, hợp tinh thần đọc chậm hơn bài phân tích số liệu.",
+      "est_words": 0,
+      "fetch": "rss+static",
+      "status": "candidate",
+      "rights_note": "user-accepted",
+      "added_at": "2026-10-27"
+    }
+  ]
 }
