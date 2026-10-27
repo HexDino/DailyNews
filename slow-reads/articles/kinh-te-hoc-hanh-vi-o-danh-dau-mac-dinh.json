@@ -12,10 +12,10 @@
   ],
   "summary": "TS Phạm Khánh Nam giải thích kinh tế học hành vi bằng những chuyện cụ thể: chỉ cần đổi cách trình bày lựa chọn mặc định là tỷ lệ đăng ký hiến tạng tăng vọt, hay một lá thư so sánh khiến bác sĩ kê ít kháng sinh hơn. Ông cũng kể về thí nghiệm góp tiền xây cầu ở Bến Tre và tình hình nghiên cứu ngành này ở Việt Nam.",
   "added": "2026-10-26",
-  "reading_minutes": 6,
+  "reading_minutes": 15,
   "source_stats": {
     "url": "https://tiasang.com.vn/kinh-te-hoc-hanh-vi-hai-giai-nobel-va-hanh-trinh-tu-thap-nga-di-vao-thuc-tien-4975043.html",
-    "coverage": "condensed",
+    "coverage": "full",
     "word_count": 2649,
     "char_count": 9775,
     "paragraph_count": 27,
@@ -25,44 +25,112 @@
   },
   "body": [
     {
-      "type": "p",
-      "text": "Ở Việt Nam, hàng trăm ngàn người bệnh đang chờ ghép tạng, trong khi số người đăng ký hiến chỉ tính bằng nghìn. Bệnh viện Chợ Rẫy ghi nhận khoảng 2.900 người tình nguyện. Trung tâm điều phối ghép bộ phận cơ thể người quốc gia, đặt tại Bệnh viện Việt Đức, có chừng 3.900 người. Cách làm quen thuộc của ta là kêu gọi đăng ký, kể chuyện cảm động và hy vọng truyền thông, giáo dục sẽ lay chuyển quan niệm \"chết toàn thây\". Tôi muốn dùng bài toán này để giới thiệu kinh tế học hành vi, một ngành nhìn vấn đề theo lối khác."
+      "type": "h2",
+      "text": "Kinh tế học hành vi là gì?"
     },
     {
       "type": "p",
-      "text": "Kinh tế học truyền thống sẽ khuyên cho phép mua bán nội tạng. Giá đủ cao thì nguồn cung tăng, và người sắp qua đời còn có thể để lại một khoản tiền cho gia đình. Nhưng cách này vướng quá nhiều rào cản văn hóa, đạo đức và thể chế. Chưa có nước nào trên thế giới hợp pháp hóa việc bán tạng người."
+      "text": "Việt Nam có hàng trăm ngàn người bệnh chờ được ghép tạng. Bệnh viện Chợ Rẫy thông báo chỉ có 2.900 người tình nguyện đăng ký hiến các bộ phận cơ thể của mình sau khi mất đi. Trung tâm điều phối quốc gia về ghép Bộ phận cơ thể người đặt tại Bệnh viện Việt Đức có khoảng 3.900 người đăng ký hiến tạng [1]. Nhu cầu ghép tạng và lượng hiến tạng ở một khoảng cách rất xa. Làm thế nào để thu hẹp khoảng trống này? Chính sách chung ở Việt Nam là kêu gọi đăng ký tình nguyện hiến tạng, đồng thời sử dụng các câu chuyện cảm động để kêu gọi lòng nhân ái. Các nhà quản lý kỳ vọng dùng giáo dục, truyền thông để thay đổi quan niệm \"chết toàn thây\" của người Việt."
     },
     {
       "type": "p",
-      "text": "Kinh tế học hành vi đi từ một nhận xét khác. Con người không phải lúc nào cũng cân nhắc đủ thiệt hơn. Ngay cả quyết định hệ trọng như trao một phần cơ thể mình cho người xa lạ, kết quả vẫn có thể đổi hẳn chỉ vì tờ đăng ký được trình bày khác đi. Năm 2003, Johnson và Goldstein của Đại học Columbia đăng trên tạp chí Science một công trình so sánh các nước châu Âu. Nơi người dân phải chủ động đăng ký, tỷ lệ hiến tạng thấp: Đan Mạch chỉ 4,2%, Hà Lan cao nhất cũng mới 27,5%. Nơi mặc định ai cũng là người hiến, ai không muốn thì làm đơn xin rút, tỷ lệ vọt lên rất cao. Thụy Điển đạt 85,9%, còn Áo, Pháp, Hungary, Ba Lan và Bồ Đào Nha đều trên 99%. Giá cả, đạo đức, văn hóa hay giáo dục đều không giải thích nổi mức chênh này. Điều quyết định là thói quen bám lấy trạng thái mặc định. Pháp đã đưa phát hiện ấy vào luật từ năm 2017: công dân còn sống được coi là đồng ý hiến tạng khi chết, ai không đồng ý thì nộp đơn từ chối."
+      "text": "Các nhà kinh tế học truyền thống có thể đề nghị giải pháp khác: tạo lập thị trường bằng cách cho phép mua bán nội tạng. Họ lý luận rằng nếu mức giá đủ lớn, lượng cung sẽ tăng. Những người sẽ chết có thể muốn có thu nhập tăng thêm, có thể để lại cho người thân trong gia đình. Tuy nhiên giải pháp này không khả thi vì có quá nhiều vấn đề văn hóa, đạo đức và thể chế ràng buộc nguồn cung. Không một quốc gia nào trên thế giới hợp pháp hóa việc mua bán tạng người."
     },
     {
       "type": "p",
-      "text": "Nói gọn, ngành này là sự gặp nhau của tâm lý học và kinh tế học. Trường phái truyền thống giả định con người duy lý, sở thích rõ ràng, ổn định và luôn tìm cách tối đa hóa lợi ích riêng. Các nhà kinh tế học hành vi đưa ra bằng chứng rằng con người đầy thiên kiến, nhiều khi chưa biết mình muốn gì, và còn quan tâm đến lợi ích của người khác. Theo họ, yếu tố tâm lý phải vào mô hình dự báo. Hành vi cũng đổi hướng được nếu bối cảnh ra quyết định được thiết kế hợp với quy luật tâm lý."
+      "text": "*GS. Richard Thaler, người đặt nền móng và xây dựng, phát triển kinh tế học hành vi, được trao giải Nobel năm 2017. Nguồn ảnh: (Reuters/Kamil Krzaczynski)*"
     },
     {
       "type": "p",
-      "text": "Vị thế của ngành được khẳng định qua hai giải Nobel: Daniel Kahneman năm 2002, chia với Vernon Smith bên mảng kinh tế học thực nghiệm, và Richard Thaler năm 2017. Cuốn \"Suy nghĩ, nhanh và chậm\" của Kahneman giải thích vì sao nhận thức của ta bị lệch. Não tạo ra suy nghĩ từ hai hệ thống: hệ thống 1 nhanh và cảm tính, hệ thống 2 chậm và logic. Cuốn \"Cú huých\" của Thaler, viết chung với Cass Sunstein năm 2008, ít thuật ngữ hơn và chú trọng cách áp dụng vào đời sống, nhất là chính sách của chính phủ. Tôi cho rằng giải thứ hai đánh dấu lúc ngành rời tháp ngà để bước vào thực tiễn."
+      "text": "Kinh tế học hành vi có giải pháp cho vấn đề hóc búa này. Khi ra quyết định, con người không phải lúc nào cũng duy lý, tính toán đầy đủ thiệt hơn và xem xét mọi khía cạnh của vấn đề. Ngay cả với những quyết định quan trọng như trao cho người lạ mặt nào đó một phần cơ thể của mình sau khi mất đi, con người có thể sẽ quyết định rất khác, đơn giản chỉ là nếu bản đăng ký hiến nội tạng được trình bày theo một cách khác. Trong một nghiên cứu nổi tiếng đăng trên tạp chí Science năm 2003 [2], Johnson và Goldstein, ở Đại học Columbia, phân tích kết quả đăng ký hiến tạng ở châu Âu cho thấy nếu để người dân chủ động đăng ký, tỷ lệ đăng ký hiến tạng sẽ thấp (thấp nhất là 4.2% ở Đan Mạch và cao nhất là 27.5% ở Hà Lan). Trong khi nếu quy định mặc nhiên là mọi người sẽ tình nguyện hiến tạng, nếu ai không muốn thì làm đơn xin rút lui, thì tỷ lệ đăng ký hiến tạng ở mức rất cao (85.9% ở Thụy điển và trên 99% ở các nước Áo, Pháp, Hungary, Ba Lan hay Bồ Đào Nha). Ở đây cơ chế tâm lý con người có xu hướng bám víu vào tình trạng mặc định giúp giải thích sự khác biệt lớn trong lựa chọn quan trọng này. Xu hướng chọn trạng thái mặc định chứ không phải yếu tố giá cả, đạo đức, văn hóa, hay giáo dục là yếu tố quyết định giải thích con người có sẵn sàng hiến nội tạng của mình cho người khác hay không. Ứng dụng tâm lý học này đã chính thức đi vào chính sách ở Pháp: Quốc hội Pháp đã thông qua luật định từ năm 2017 công dân Pháp còn sống mặc định được coi là sẽ tình nguyện hiến tạng khi chết [3], ai không đồng ý có thể làm đơn không hiến tạng."
     },
     {
       "type": "p",
-      "text": "Điểm cốt lõi của Thaler rất đơn giản: thay đổi rất nhỏ trong bối cảnh ra quyết định cũng đủ tác động đến hành vi. Người dân vẫn giữ quyền lựa chọn, nhưng chính sách có lồng ghép hiểu biết về hành vi sẽ hiệu quả hơn nhiều. Năm 2010, Thaler giúp lập Nhóm kiến thức hành vi của Anh, gọi tắt là UKBIT. Chẳng bao lâu sau, nhiều nhóm tương tự xuất hiện ở châu Âu, Hoa Kỳ, Canada, Đức, Úc, Singapore, Liên Hiệp Quốc, Ngân hàng Thế giới và OECD. Theo thống kê của OECD năm 2014, ngành đã góp mặt trong hơn 60 chính sách ở nhiều nước, từ y tế, môi trường, giáo dục đến thuế và tiêu dùng."
+      "text": "Kinh tế học hành vi là sự phối hợp giữa tâm lý học và kinh tế học. Kinh tế học truyền thống luôn giả định con người là duy lý, có sở thích rõ ràng và ổn định, luôn tối đa hóa lợi ích bản thân khi thực hiện một lựa chọn nào đó và dựa vào đó để xây dựng các mô hình dự báo cá nhân, công ty và xã hội tương tác và ra quyết định như thế nào. Còn các nhà kinh tế học hành vi đưa ra bằng chứng khoa học cho thấy con người đầy thiên kiến, nhiều trường hợp không biết mình muốn gì và có mối quan tâm đến lợi ích của người khác. Họ cho rằng các yếu tố tâm lý phải được đưa vào các mô hình dự báo hành vi, và hành vi của con người có thể thay đổi nếu bối cảnh ra quyết định được thiết kế phù hợp với các quy luật tâm lý."
+    },
+    {
+      "type": "h2",
+      "text": "Giúp tăng hiệu quả chính sách"
     },
     {
       "type": "p",
-      "text": "Chuyện kháng sinh ở Anh là một minh họa. Bác sĩ kê thuốc quá tay làm vi khuẩn kháng thuốc, gây hiểm họa cho y tế cộng đồng. Nhà nước kiểm tra hay để thị trường tự điều chỉnh đều không hiệu quả. Năm 2015, Bộ Y tế Anh cùng UKBIT thử công cụ \"quy tắc xã hội\", dựa trên nhận xét rằng con người chịu ảnh hưởng của người xung quanh, gần với tâm lý bầy đàn. Một nhóm bác sĩ được gửi thông tin về những đồng nghiệp kê ít kháng sinh hơn. Nhóm này giảm lượng kháng sinh kê toa 3,3% so với nhóm không nhận thông tin. Bộ Y tế sau đó xây dựng quy trình gửi thư nhắc và so sánh, tạo cú huých tâm lý để bác sĩ bớt kê thuốc không cần thiết."
+      "text": "Giải Nobel Kinh tế 2017 được trao cho Richard Thaler được xem như là một chiến thắng, một sự lên ngôi của Kinh tế học hành vi. Thực ra Kinh tế học hành vi đã chính thức lên ngôi cách đây 15 năm với giải Nobel của Daniel Kahneman (chia sẻ với Vernon Smith cho kinh tế học thí nghiệm). Có phải hai giải Nobel cho cùng một lĩnh vực đặc biệt của kinh tế học là sự khẳng định tính không-còn-ngoài-lề của kinh tế học hành vi hay đánh dấu bước tiến vượt bậc của chuyên ngành này? Hai cuốn sách tiêu biểu nhất của Kahneman và Thaler có thể giúp trả lời câu hỏi này [4]. \"Suy nghĩ, nhanh và chậm\" của Kahneman giải thích nhận thức của con người bị thiên lệch ra sao, bằng cách phân tích cơ chế não bộ hình thành suy nghĩ từ hai hệ thống, hệ thống 1 cho suy nghĩ nhanh, cảm tính và chứa cảm xúc trong khi hệ thống 2 dành cho suy nghĩ chậm và logic. \"Cú huých\" của Thaler ít thuật ngữ học thuật hơn, ít tập trung vào nguyên lý tâm lý mà chủ yếu hướng đến các ứng dụng tâm lý học vào các lĩnh vực khác nhau của cuộc sống, đặc biệt là chính sách của chính phủ."
     },
     {
       "type": "p",
-      "text": "Ở Việt Nam, nghiên cứu hành vi bắt đầu từ năm 2004, khi một nhóm thuộc Đại học Washington đo mức ưa thích thời gian của người Việt. Đến năm 2010, lĩnh vực mới thật sự nở rộ, với các đề tài như lòng tin, thái độ trước rủi ro, lòng nhân ái và khả năng hợp tác."
+      "text": "Giải Nobel lần 2 đánh dấu bước tiến của Kinh tế học hành vi từ tháp ngà học thuật đi vào thực tiễn cuộc sống sinh động. \"Cú huých\" của Thaler, đồng tác giả với Cass Sunstein, xuất bản năm 2008, thực sự đã gợi ý cho giới quản lý nhà nước một hướng tiếp cận chính sách mới. Vẫn đảm bảo quyền lựa chọn của người dân, nhưng chính sách có lồng ghép các kiến thức về hành vi sẽ hiệu quả hơn rất nhiều. Năm 2010, Thaler đã giúp hình thành Nhóm kiến thức hành vi ở Anh (UK’s Behavioral Insights Team - UKBIT) có nhiệm vụ giúp tăng tính hiệu quả của quá trình ra chính sách của Chính phủ Anh. Thời gian ngắn sau đó, các nhóm tư vấn tương tự được thành lập ở Hội đồng châu Âu, Hoa Kỳ, Canada, Đức, Úc, Singapore và các tổ chức quốc tế như Liên Hợp Quốc, Ngân hàng thế giới, Tổ chức Hợp tác Kinh tế và Phát triển. Báo cáo Phát triển thế giới thường niên của Ngân hàng Thế giới năm 2015 có chủ đề là \"Tâm trí, Xã hội và Hành vi\", tập trung thảo luận làm thế nào để dùng kiến thức kinh tế hành vi để thúc đẩy thay đổi xã hội và phát triển."
     },
     {
       "type": "p",
-      "text": "Riêng hợp tác, tôi đã làm thí nghiệm thực địa ở đồng bằng sông Cửu Long: nông dân cùng tự nguyện góp tiền xây cầu bắc qua một con sông nhỏ ở Bến Tre. Cầu là hàng hóa công, ai cũng dùng được mà không phải trả phí. Vì thế kinh tế học truyền thống dự đoán tiền góp sẽ rất thấp hoặc bằng không. Thực tế ngược lại. Mức hợp tác của nông dân khá cao, hơn mức trung bình thế giới. Chỉ cần cho biết người khác đã góp bao nhiêu, mức đóng góp của mỗi người đã đổi tới 20%. Mô hình nhà nước và nhân dân cùng làm cũng thành công khi đóng góp mang tính tự nguyện, vì người có tinh thần hợp tác cao sẽ bù cho người góp ít."
+      "text": "Cảm hứng Thaler đến từ nguyên lý rất đơn giản: hành vi của con người có thể bị tác động từ những thay đổi rất nhỏ trong bối cảnh mà họ ra quyết định."
     },
     {
       "type": "p",
-      "text": "Các trường đại học lớn ở Hà Nội, TP.HCM và Cần Thơ nay đã có những nhóm nghiên cứu năng động. Tuy vậy, khoảng cách từ nghiên cứu đến chính sách thực tế ở ta vẫn còn xa. Câu hỏi then chốt là nước đang phát triển nên dùng cơ chế nào để đưa kết quả nghiên cứu vào thực thi chính sách. Khởi đầu còn ngập ngừng, nhưng đầy quyết tâm. Tôi hy vọng ngành sẽ giúp chính sách hiệu quả hơn, từ tầm vĩ mô đến từng tổ chức."
+      "text": "Kinh tế học hành vi không còn là một nhánh \"thuần túy\" của kinh tế học mà đã vươn bước chân ứng dụng của nó ra rất nhiều lĩnh vực khác nhau như y tế, môi trường, giáo dục, năng lượng, lao động, tài chính, thuế và tiêu dùng. Báo cáo của tổ chức Hợp tác Kinh tế và Phát triển (OECD) năm 2014 thống kê kinh tế học hành vi đã tham gia vào hơn 60 chính sách của các nước khác nhau [5]. Ứng dụng kinh tế học hành vi để giảm tình trạng bác sĩ kê toa thuốc kháng sinh quá mức ở Anh có thể minh họa cho xu hướng này. Trước tình trạng sử dụng kháng sinh quá mức dẫn đến hiện tượng kháng kháng sinh, gây ra các vấn đề y tế cộng đồng nghiêm trọng như không kiểm soát được bệnh dịch trong tương lai nhưng các biện pháp như nhà nước kiểm tra hay thả nổi cho thị trường y tế kiểm soát không có tác dụng, năm 2015 bộ Y tế Anh kết hợp với nhóm tư vấn kiến thức hành vi (UKBIT) thử nghiệm một công cụ hành vi đơn giản là \"Quy tắc xã hội\" để giảm việc kê toa kháng sinh quá mức. Công cụ này được đưa ra dựa trên nguyên lý con người là con người hành động không dựa trên tính toán duy lý mà thường bị tác động bởi những người xung quanh - một dạng như tâm lý bầy đàn. Nhóm các bác sĩ được gửi thông tin toa kê ít kháng sinh hơn của những bác sĩ khác có xu hướng sẽ kê toa giảm 3.3% lượng kháng sinh so với nhóm không nhận được thông tin. Từ đó bộ Y tế Anh đưa ra quy trình gửi thông tin nhắc nhở và so sánh hoạt động kê toa, tạo một \"cú huých\" tâm lý hướng bác sĩ giảm lượng kháng sinh không cần thiết cho bệnh nhân [6]."
+    },
+    {
+      "type": "p",
+      "text": "*TS Phạm Khánh Nam đã thiết kế thí nghiệm để người dân tự nguyện đóng góp xây dựng cầu ở ĐBSCL. Kết quả cho thấy mức độ hợp tác của nông dân Việt Nam rất cao và thay đổi khá lớn nếu dự án được thiết kế dựa trên cơ chế hợp tác: cung cấp thông tin về mức độ hợp tác của người khác. Ảnh: Cây cầu do người dân tự thiết kế, xây dựng tại Sóc Trăng. Nguồn: Tiền phong.*"
+    },
+    {
+      "type": "h2",
+      "text": "Tình hình nghiên cứu và ứng dụng ở Việt Nam"
+    },
+    {
+      "type": "p",
+      "text": "Việt Nam đã bắt đầu biết tới nghiên cứu về kinh tế học hành vi vào năm 2004, với nghiên cứu đầu tiên do một nhóm nhà nghiên cứu thuộc Đại học Washington thực hiện, đo lường sự ưa thích thời gian, hay suất chiết khấu xã hội của người Việt [7]. Tuy nhiên phải tới năm 2010, nghiên cứu kinh tế học hành vi mới thực sự bắt đầu phát triển với khá nhiều chủ đề đa dạng như đo lường lòng tin, sự ưa thích vị thế xã hội, thái độ đối với rủi ro, khả năng hợp tác, cơ chế hợp tác, lòng nhân ái và phân tích các yếu tố này tác động như thế nào đến hành vi sản xuất, tiêu dùng của người Việt."
+    },
+    {
+      "type": "p",
+      "text": "Đo lường khả năng hợp tác của người dân và tìm hiểu cơ chế tác động thúc đẩy hợp tác luôn là chủ đề quan trọng trong kinh tế học hành vi, vì tiềm năng đóng góp của nó cho việc vận hành các dự án công, quản lý tài nguyên môi trường, hay quản trị tổ chức. Tác giả bài viết này đã thực hiện thí nghiệm tự nhiên tại ĐBSCL về khả năng hợp tác của nông dân [8]. Chúng tôi thiết kế thí nghiệm để người dân cùng tự nguyện đóng góp xây dựng cây cầu bắc qua một sông nhỏ ở tỉnh Bến Tre. Vì cây cầu là hàng hóa công, ai cũng có thể sử dụng mà không cần bỏ ra chi phí nên kinh tế học truyền thống sẽ dự đoán dự án xây cầu thất bại, nghĩa là mức đóng góp sẽ rất thấp hoặc bằng không. Tuy nhiên kết quả nghiên cứu cho thấy mức độ hợp tác (đo lường bằng mức đóng góp) của nông dân Việt Nam thực sự khá cao, cao hơn mức trung bình trên thế giới, và quan trọng hơn, sự hợp tác có thể thay đổi khá lớn nếu có thay đổi nhỏ trong thiết kế cơ chế hợp tác: cung cấp thông tin về mức độ hợp tác của người khác làm thay đổi mức độ hợp tác của cá nhân đến 20%. Tác giả cũng thực nghiệm hình thức đóng góp kết hợp, mô phỏng cơ chế tài chính nhà nước và nhân dân cùng làm trong xây dựng các công trình công cộng ở nông thôn. Kết quả thực nghiệm cho thấy cơ chế đóng góp nhà nước và nhân dân cùng làm sẽ thành công nếu thiết kế ở chế độ đóng góp tự nguyện, lúc này nhóm người có tinh thần hợp tác cao sẽ bù đắp cho nhóm có mức độ hợp tác thấp."
+    },
+    {
+      "type": "p",
+      "text": "Hiện nay các trường đại học lớn ở Hà Nội, TP. HCM và Cần Thơ đang hình thành những nhóm nghiên cứu kinh tế học hành vi rất năng động.Trường Đại học Kinh tế Tp. HCM đã thiết lập hai phòng thí nghiệm kinh tế học hành vi, với phần mềm Z-tree được Việt hóa, là một trong những đầu tư hạ tầng nghiên cứu kinh tế học hành vi đầu tiên ở Việt Nam. Năm 2016 quỹ NAFOSTED đã tài trợ cho một số dự án nghiên cứu đo lường sự ưa thích rủi ro của người Việt Nam hay phân tích tác động của sản xuất đến hạnh phúc của nông dân."
+    },
+    {
+      "type": "p",
+      "text": "Khoảng cách từ nghiên cứu đến ứng dụng kinh tế hành vi vào thực tiễn chính sách ở Việt Nam có vẻ còn khá lớn. Điểm quan trọng là với bối cảnh của những nước đang phát triển, cơ chế nào là phù hợp để tích hợp kết quả nghiên cứu vào quá trình thực hiện chính sách. Hiện tại Sáng kiến Môi trường cho Phát triển (EfD Initiative) và Đại học Gothenburg đang thiết lập nhóm nghiên cứu và thử nghiệm cơ chế này cho các nước đang phát triển. Sự tham gia của các nhà nghiên cứu và cơ quan quản lý Việt Nam vào những chương trình như thế này sẽ giúp đẩy nhanh quá trình tiếp cận các \"công nghệ\" quản lý hiện đại của thế giới."
+    },
+    {
+      "type": "p",
+      "text": "Với sự khởi đầu còn ngập ngừng nhưng đầy quyết tâm, nghiên cứu kinh tế học hành vi ở Việt Nam sẽ có những bước tiến chắc chắn trong tương lai, hy vọng đóng góp gia tăng hiệu quả của quá trình thực thi chính sách, cả ở mức độ vĩ mô xã hội và mức độ vi mô trong các tổ chức."
+    },
+    {
+      "type": "h2",
+      "text": "Tài liệu tham khảo"
+    },
+    {
+      "type": "p",
+      "text": "[1] Số liệu từ bài viết \"Hơn 6,800 người đăng ký hiến tạng\" trên báo Nhân dân điện tử, ngày 08/02/2017, http://www.nhandan.com.vn/suckhoe/item/32010602-hon-6-800-nguoi-dang-ky-hien-tang.html"
+    },
+    {
+      "type": "p",
+      "text": "[2] Johnson, E. & Goldstein, D. 2003. Do defaults save life? Science Vol. 302, Issue 5649, pp. 1338-1339."
+    },
+    {
+      "type": "p",
+      "text": "[3] Thông tin đăng trên báo the Guardian ngày 2/1/2017 với tiêu đề \"France introduces opt-out policy on organ donation\", được nhiều cơ quan báo chí quốc tế khác dẫn lại, https://www.theguardian.com/society/2017/jan/02/france-organ-donation-law"
+    },
+    {
+      "type": "p",
+      "text": "[4] Kahneman, D. 2011. Thinking, Fast and Slow. Farrar, Straus and Giroux. New York và Sunstein, C. & Thaler, R. 2008. Nudges. Yale University Press."
+    },
+    {
+      "type": "p",
+      "text": "[5] OECD. 2014. Behavioral Economics and Regulatory Policy. OECD Publishing, Paris."
+    },
+    {
+      "type": "p",
+      "text": "[6] OECD (2017), Behavioural Insights and Public Policy: Lessons from Around the World, OECD Publishing, Paris."
+    },
+    {
+      "type": "p",
+      "text": "[7] Anderson, C., Dietz, M., Gordon, A., Klawitter, M. 2004 Discount rates in Vietnam. Economic Development and Cultural Change, Vol. 52, No. 4, pp. 873-887."
+    },
+    {
+      "type": "p",
+      "text": "[8] Carlsson, F., Johansson-Stenman, O & Nam, P.K. 2015. Funding a new bridge in Vietnam: A field experiment on conditional cooperation and default contribution. Oxford Economic Papers, Vol. 67 (4): 987-1014."
     }
   ]
 }

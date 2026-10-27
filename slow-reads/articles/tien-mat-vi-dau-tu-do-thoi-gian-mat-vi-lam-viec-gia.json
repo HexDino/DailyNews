@@ -12,10 +12,10 @@
   ],
   "summary": "Paul Graham kể rằng sau khi bán công ty, ông nhận ra người ta mất tiền chủ yếu vì đầu tư dở chứ không phải vì tiêu xài. Thời gian cũng vậy: thứ ngốn nhiều nhất không phải giải trí mà là việc giả như xử lý email, vì nó không làm ta thấy áy náy.",
   "added": "2026-10-26",
-  "reading_minutes": 2,
+  "reading_minutes": 4,
   "source_stats": {
     "url": "https://paulgraham.com/selfindulgence.html",
-    "coverage": "condensed",
+    "coverage": "full",
     "word_count": 680,
     "char_count": 3047,
     "paragraph_count": 10,
@@ -26,23 +26,39 @@
   "body": [
     {
       "type": "p",
-      "text": "Năm 1998, công ty khởi nghiệp của chúng tôi được bán và tôi bỗng có một khoản tiền lớn. Lần đầu tiên tôi phải nghĩ đến chuyện giữ tiền chứ không chỉ kiếm tiền. Đường từ nghèo lên giàu tôi nghiên cứu nhiều năm, còn đường từ giàu xuống nghèo thì mù tịt. Muốn tránh nó, tôi phải biết nó nằm đâu, nên bắt đầu để ý người ta mất của cải bằng cách nào."
+      "text": "Khi chúng tôi bán công ty khởi nghiệp năm 1998, tôi bỗng có rất nhiều tiền. Tôi phải nghĩ đến một điều trước đây chưa từng phải nghĩ: làm sao để không mất số tiền đó. Tôi biết có thể đi từ giàu sang nghèo, cũng như có thể đi từ nghèo sang giàu. Nhưng trong khi nhiều năm qua tôi dành khá nhiều thời gian nghiên cứu con đường từ nghèo sang giàu, tôi gần như không biết gì về con đường từ giàu sang nghèo. Giờ đây, để tránh chúng, tôi phải học xem chúng nằm ở đâu."
     },
     {
       "type": "p",
-      "text": "Hồi nhỏ, tôi tưởng người giàu sa sút vì tiêu hết tiền, như trong sách và phim. Thực tế, phần lớn gia sản tan biến vì đầu tư dở. Nhưng chỉ cần giao dịch sản phẩm phái sinh (hợp đồng đặt cược vào giá của tài sản khác), bạn có thể mất cả triệu đô trong chớp mắt."
+      "text": "Thế là tôi bắt đầu để ý cách các gia sản bị mất đi. Nếu hỏi tôi hồi nhỏ vì sao người giàu trở nên nghèo, tôi sẽ nói: vì tiêu hết tiền. Trong sách và phim, mọi chuyện diễn ra như vậy, vì đó là cách kể đầy màu sắc. Nhưng trên thực tế, phần lớn gia sản không mất vì chi tiêu quá độ, mà vì đầu tư dở."
     },
     {
       "type": "p",
-      "text": "Lý do là chuông báo động trong đầu ta rung khi mua đồ xa xỉ nhưng im lặng khi đầu tư. Xa xỉ gợi cảm giác chiều chuộng bản thân, mà ta đã được dạy rằng thói ấy sinh họa. Đầu tư thì lọt qua chuông, vì ta không tiêu tiền, chỉ chuyển nó sang tài sản khác. Thế nên người bán hàng đắt đỏ hay bảo \"đây là khoản đầu tư\". Cách chữa là cài thêm chuông mới. Chuông chống tiêu hoang gần như có sẵn trong gen, còn chuông chống đầu tư tồi phải học."
+      "text": "Thật khó tiêu hết một gia sản mà không nhận ra. Một người có sở thích bình thường sẽ thấy khó đốt hơn vài chục nghìn đô mà không nghĩ “chà, mình đang tiêu nhiều tiền thật”. Trong khi đó, nếu bắt đầu giao dịch chứng khoán phái sinh, bạn có thể mất một triệu đô (thực ra là bao nhiêu cũng được) trong nháy mắt."
     },
     {
       "type": "p",
-      "text": "Mấy hôm trước tôi chợt nhận ra thời gian cũng y như tiền. Cách phí thời gian nguy hiểm nhất không phải là vui chơi mà là làm việc giả. Cả ngày nằm xem tivi thì tôi thấy sai ngay. Thế mà có những ngày tôi cũng chẳng làm được gì, nhưng cảm giác tệ nhẹ hơn nhiều. Chuông không kêu vì tôi bận những việc trông giống công việc thật, chẳng hạn xử lý email: ngồi bàn, chẳng vui, vậy hẳn là làm việc."
+      "text": "Trong tâm trí phần lớn người ta, tiêu tiền vào đồ xa xỉ bật lên báo động, còn đầu tư thì không. Đồ xa xỉ trông có vẻ là buông thả bản thân. Và trừ khi bạn có tiền nhờ thừa kế hay trúng số, bạn đã được rèn kỹ rằng buông thả bản thân dẫn đến rắc rối. Đầu tư lách qua những báo động đó. Bạn không tiêu tiền; bạn chỉ chuyển nó từ tài sản này sang tài sản khác. Đó là lý do những người muốn bán cho bạn thứ đắt tiền nói “đó là một khoản đầu tư”."
     },
     {
       "type": "p",
-      "text": "Né lạc thú không còn đủ để tự vệ. Ngày xưa có lẽ đủ, nhưng thế giới đã phức tạp hơn. Những cái bẫy nguy hiểm nhất hôm nay là các thói quen mới, giả dạng việc đứng đắn để qua mặt chuông báo động. Tệ nhất là chúng còn chẳng vui."
+      "text": "Giải pháp là tạo ra những báo động mới. Việc này có thể khó, vì những báo động ngăn ta tiêu quá tay cơ bản đến mức có thể đã nằm trong DNA, còn những báo động ngăn ta đầu tư dở thì phải học, và đôi khi khá phản trực giác."
+    },
+    {
+      "type": "p",
+      "text": "Vài ngày trước, tôi nhận ra một điều đáng ngạc nhiên: chuyện thời gian cũng giống hệt chuyện tiền bạc. Cách mất thời gian nguy hiểm nhất không phải là dùng nó để vui chơi, mà là dùng nó để làm việc giả. Khi dùng thời gian để vui chơi, bạn biết mình đang buông thả. Báo động bắt đầu kêu khá nhanh. Nếu một sáng tôi thức dậy, ngồi xuống sofa và xem TV cả ngày, tôi sẽ thấy có gì đó rất sai. Chỉ nghĩ đến thôi tôi đã nhăn mặt. Ngồi sofa xem TV hai tiếng tôi đã thấy khó chịu, huống chi cả ngày."
+    },
+    {
+      "type": "p",
+      "text": "Vậy mà tôi chắc chắn đã có những ngày tôi ngồi trước TV cả ngày cũng chẳng khác gì — những ngày mà đến cuối ngày, nếu tự hỏi mình đã làm được gì, câu trả lời sẽ là: cơ bản là không gì cả. Sau những ngày đó tôi cũng thấy tệ, nhưng không tệ bằng cảm giác khi dành cả ngày ngồi sofa xem TV. Nếu xem TV cả ngày, tôi sẽ thấy như mình đang lún vào địa ngục. Nhưng những báo động đó không kêu vào những ngày tôi chẳng làm được gì, vì tôi đang làm những việc bề ngoài trông giống công việc thật. Ví dụ, xử lý email. Bạn làm việc đó khi ngồi ở bàn. Nó không vui. Vậy thì nó phải là công việc."
+    },
+    {
+      "type": "p",
+      "text": "Với thời gian, cũng như với tiền bạc, tránh lạc thú không còn đủ để bảo vệ bạn. Điều đó có lẽ đủ để bảo vệ người săn bắt hái lượm, và có lẽ cả mọi xã hội tiền công nghiệp. Vậy nên tự nhiên và giáo dục kết hợp để khiến ta tránh buông thả. Nhưng thế giới đã phức tạp hơn: những cái bẫy nguy hiểm nhất giờ là những hành vi mới, lách qua báo động về buông thả bằng cách giả dạng những thứ đạo đức hơn. Và điều tệ nhất là chúng thậm chí chẳng vui."
+    },
+    {
+      "type": "p",
+      "text": "Cảm ơn Sam Altman, Trevor Blackwell, Patrick Collison, Jessica Livingston và Robert Morris đã đọc bản nháp của bài này."
     }
   ]
 }
