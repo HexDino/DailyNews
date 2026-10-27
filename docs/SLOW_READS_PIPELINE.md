@@ -23,6 +23,48 @@ URL + metadata   ──►    source.txt + meta.json   ──►   articles/<id>
 
 Không sửa tay `source_stats`; chạy lại `attach_source_stats.py` sau khi đổi bản dịch hoặc nguồn.
 
+## Nguồn & discovery
+
+Registry: `slow-reads/sources.json` (commit). Mỗi nguồn có `id`, `name`, `domain`, `topics`, `lang`, `rss`, `fetch` (`rss+static` / `static` / `js`), `quality` (0–100), `max_per_week`, `notes`. Top-level có `rights_policy` và `title_blocklist` để lọc reading list/roundup/podcast.
+
+Queue: `slow-reads/queue.json` (commit) là ledger discovery/publish:
+
+```json
+{
+  "version": 1,
+  "rights_policy": "user-accepted",
+  "items": [
+    {
+      "url": "https://...",
+      "id": "slug-tam-thoi",
+      "title": "...",
+      "source_id": "aeon",
+      "quality": 92,
+      "rights_note": "user-accepted",
+      "status": "candidate|rights_approved|translating|ready|published|blocked|rejected",
+      "note": "",
+      "created_at": "YYYY-MM-DD",
+      "updated_at": "YYYY-MM-DD"
+    }
+  ]
+}
+```
+
+Discovery từ RSS (không tải body, chỉ title/link/ngày/excerpt ≤280 ký tự):
+
+```bash
+python3 scripts/discover_rss.py --limit 20 --days 60 --per-source 3 \
+  --out .cache/candidates.json --pretty
+```
+
+- `--sources aeon,psyche`: chỉ chạy một số nguồn.
+- `--min-quality 75`: bỏ nguồn dưới ngưỡng (mặc định 75; dùng `0` để lấy tất cả).
+- `--no-diversify`: xếp theo quality/ngày thay vì xen kẽ nguồn.
+- `--no-blocklist`: giữ cả tiêu đề khớp `title_blocklist`.
+- `--allow-undated`, `--no-cache`, `--cache-ttl`.
+
+Output có `source_id, source, url, title, author, published, summary, topics, lang, quality, fetch, feed_mode`. Feed được cache trong `.cache/rss/` (gitignored); nếu feed lỗi, script dùng cache cũ và cảnh báo. Nguồn `rss: null` (Tia Sáng, Vietcetera, Works in Progress…) phải thêm thủ công vào queue sau khi người dùng duyệt URL.
+
 ## Chạy tay
 
 ```bash
@@ -52,32 +94,43 @@ python3 scripts/validate_slow_read.py --strict
 
 ## Prompt cho bot
 
-Ba khối dưới đây copy nguyên văn vào bot. Chỗ `<...>` là biến cần điền.
+Các khối dưới đây copy nguyên văn vào bot. Chỗ `<...>` là biến cần điền.
 
 ### 1. Grok — discovery
 
 ```text
 VAI TRÒ: DISCOVERY cho thư viện Slow Reads của Daily News.
-Bạn KHÔNG dịch, KHÔNG tóm tắt, KHÔNG trích nguyên văn nội dung bài. Bạn chỉ trả URL và metadata.
+Bạn KHÔNG dịch, KHÔNG tóm tắt, KHÔNG trích nguyên văn nội dung bài.
 
-Đầu vào: <số bài cần / chủ đề ưu tiên / ngày>
+Nguồn: chạy
+python3 scripts/discover_rss.py --limit 30 --days 60 --out .cache/candidates.json
+Chỉ chọn từ file này. Với nguồn rss:null trong slow-reads/sources.json, chỉ đề xuất
+khi người dùng đã duyệt URL cụ thể. Không tự tìm web tự do; nguồn mới phải được
+người dùng duyệt rồi thêm vào sources.json.
+
 Đầu ra: CHỈ một JSON array, không markdown, không giải thích:
 [
   {
+    "source_id": "aeon",
     "url": "https://...",
     "title": "tiêu đề gốc",
     "author": "tên tác giả hoặc \"\"",
     "source": "tên trang",
     "lang": "en",
     "topics_guess": ["Tư duy & khoa học"],
-    "reason": "một câu vì sao đáng dịch"
+    "quality_score": 0,
+    "quality_reason": "một câu",
+    "est_words": 0,
+    "fetch": "rss+static|static|js"
   }
 ]
 
 Quy tắc:
-- Bài dài (từ 700 từ), công khai, không paywall, không cần đăng nhập.
+- Tối đa <N> bài/lượt; ít nhất 3 chủ đề khác nhau; tối đa 1 bài/nguồn, 1 bài/tác giả.
+- Chỉ nhận quality_score >= 75; ưu tiên rss+static.
+- Dedupe với slow-reads/articles/index.json và slow-reads/queue.json.
 - topics_guess chọn từ: Con người, Tình yêu, Sự nghiệp, Đối nhân xử thế, Tiền bạc, Tâm lý, Tư duy & khoa học, Stoicism.
-- Không bịa title/author. Không rõ thì để "".
+- Không bịa title/author; không rõ thì để "".
 - Không trả về nội dung bài, không trích quá một câu.
 ```
 
@@ -141,9 +194,44 @@ Sau khi push, xác minh:
 Báo cáo cuối: commit SHA, tổng số bài trong index, URL live của thư viện, lỗi còn tồn (nếu có).
 ```
 
+### 4. Grok — orchestration (tự gọi Claude)
+
+Khi queue có item `rights_approved`, Grok tự chạy fetch và mở Claude session; không chờ người dùng giao file.
+
+```text
+C. ORCHESTRATION — Grok chủ động gọi Claude
+
+Sau khi một bài trong queue có trạng thái rights_approved, xử lý tuần tự
+(tối đa 2 bài song song nếu hệ thống cho phép; gặp 429/rate limit thì giảm về 1):
+
+1. Xác nhận đúng repo: pwd là repo root và git remote -v là HexDino/DailyNews.
+2. Tải nguồn bằng script, không đọc/in nội dung:
+   python3 scripts/fetch_source.py "<url>" --id <id> --force
+   - Nếu thiếu dependency/network: chuyển URL cho Claude session để Claude tự fetch.
+   - Nếu fetch fail: queue "blocked", ghi lỗi, sang bài kế tiếp.
+3. Mở một Claude session mới trong đúng repo đó, gửi prompt TRANSLATE (khối 2)
+   với <id>, <url>, <repo root>. Không dán source.txt/body vào chat hay prompt;
+   chỉ truyền đường dẫn.
+   - Chờ Claude kết thúc (timeout <T> phút). Fail/timeout: retry 1 lần, sau đó "blocked".
+   - Không có công cụ tạo session Claude hoặc thiếu quyền: dừng cả lô, báo người dùng.
+4. Khi Claude báo xong:
+   - slow-reads/articles/<id>.json tồn tại; id == tên file.
+   - source_stats.coverage == "full" và sha256 hợp lệ.
+   - python3 scripts/validate_slow_read.py --strict slow-reads/articles/<id>.json
+   Nếu fail: gửi nguyên văn lỗi lại cho chính Claude session đó, tối đa một vòng sửa;
+   không tự sửa file.
+5. Publish theo khối 3 (add_slow_read → validate --strict → commit → push → xác minh).
+6. Queue: "published" + SHA + URL live, hoặc "blocked"/"rejected" + lý do.
+
+Không: tự dịch/tóm tắt thay Claude; dán body vào chat; sửa article JSON/source_stats;
+publish bài chưa qua validate --strict; đặt coverage "condensed" cho bài mới.
+```
+
 ## Lưu ý
 
 - **Không commit nội dung nguồn**: `.cache/` đã nằm trong `.gitignore`. Chỉ bản dịch lên repo.
+- **Registry**: thêm nguồn mới vào `slow-reads/sources.json` sau khi người dùng duyệt; chạy `discover_rss.py` để lấy candidates. Nguồn `rss: null` thêm tay vào queue.
+- **Rights policy**: registry/queue đang `user-accepted` — người dùng chấp nhận trách nhiệm; bot không được tự gán "public-domain"/"CC"/"written-permission" khi không có căn cứ.
 - **Bản quyền**: dịch toàn văn và đăng công khai là tác phẩm phái sinh. Chỉ làm với nguồn cho phép hoặc chấp nhận rủi ro; ghi rõ tác giả/nguồn và link gốc.
 - **CI** chạy `add_slow_read.py` + `validate_slow_read.py --strict` trước khi deploy. Validator kiểm độ phủ từ `source_stats` nhúng nên không cần commit nguồn, và index không thể lệch.
 - **Giới hạn**: ngưỡng độ phủ chỉ bắt thiếu thô (cả đoạn/cả mục). Vẫn nên đọc đối chiếu 2-3 đoạn mỗi bài trước khi publish.
