@@ -1,5 +1,7 @@
 pdf-build/.venv/
+.venv/
 __pycache__/
 *.pyc
 .DS_Store
 .cache/
+.workbuddy-ai/

@@ -86,6 +86,52 @@ def collapse_ws(text: str) -> str:
     return re.sub(r"\s+", " ", text or "").strip()
 
 
+PG_START_RE = re.compile(
+    r"\*\*\*\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK.*?\*\*\*", re.I | re.S
+)
+PG_END_RE = re.compile(
+    r"\*\*\*\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK.*?\*\*\*", re.I | re.S
+)
+
+
+def strip_pg_boilerplate(text: str) -> str:
+    """Cut the Project Gutenberg licence header and catalogue metadata block.
+
+    Gutenberg HTML carries "*** START OF THE PROJECT GUTENBERG EBOOK ... ***"
+    and a matching END marker. When those survive extraction, everything outside
+    them is licence text. When they do not (trafilatura often drops the marker
+    line but keeps the block), the page still opens with a "**Title**: /
+    **Author**: / **Release date**: / **Credits**:" header that would otherwise
+    be translated into the article body. Pages without either pass through.
+    """
+    start = PG_START_RE.search(text)
+    if start:
+        text = text[start.end() :]
+    end = PG_END_RE.search(text)
+    if end:
+        text = text[: end.start()]
+
+    head = text[:2000]
+    if "**Title**:" in head and (
+        "**Credits**:" in head or "**Release date**:" in head
+    ):
+        cut = 0
+        for marker in (
+            "**Credits**:",
+            "**Other information and formats**:",
+            "**Language**:",
+            "**Release date**:",
+        ):
+            index = head.find(marker)
+            if index == -1:
+                continue
+            line_end = head.find("\n", index)
+            cut = max(cut, line_end if line_end != -1 else len(head))
+        if cut:
+            text = text[cut:]
+    return text.strip()
+
+
 def paragraphize_if_needed(text: str, html: str) -> str:
     """Recover paragraphs on pages that separate them with <br><br>.
 
@@ -176,6 +222,8 @@ def main() -> int:
     parser.add_argument("--html", type=Path, help="extract from a saved HTML file instead of downloading")
     parser.add_argument("--cache-dir", type=Path, default=DEFAULT_CACHE)
     parser.add_argument("--lang", help="override detected source language code")
+    parser.add_argument("--title", help="override the detected title (public-domain catalogues)")
+    parser.add_argument("--author", help="override the detected author")
     parser.add_argument("--keep-html", action="store_true", help="also save the raw HTML")
     parser.add_argument("--favor-recall", action="store_true", help="keep more text (may include boilerplate)")
     parser.add_argument("--force", action="store_true", help="overwrite an existing cached source")
@@ -209,7 +257,7 @@ def main() -> int:
         print(f"Downloaded {len(html):,} chars from {args.url}")
 
     text, meta, version = extract(html, args.url, args.favor_recall)
-    text = paragraphize_if_needed(normalize_text(text), html)
+    text = strip_pg_boilerplate(paragraphize_if_needed(normalize_text(text), html))
     if len(text) < 500:
         hint = "Save the page manually (browser: Save as HTML) and rerun with --html FILE."
         if not args.favor_recall:
@@ -227,8 +275,8 @@ def main() -> int:
         "id": aid,
         "url": args.url,
         "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "title": meta_value(meta, "title"),
-        "author": meta_value(meta, "author"),
+        "title": args.title or meta_value(meta, "title"),
+        "author": args.author or meta_value(meta, "author"),
         "date": meta_value(meta, "date"),
         "sitename": meta_value(meta, "sitename"),
         "language": args.lang or meta_value(meta, "language"),

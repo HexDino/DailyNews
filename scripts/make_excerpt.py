@@ -2,13 +2,18 @@
 """Convert Slow Reads articles to short excerpts according to allowlist mode.
 
 Reads slow-reads/rights_allowlist.json. Articles whose source domain has
-mode "excerpt" keep only the first 2-3 paragraphs plus a link note; full-text
-sources (mode "full") are untouched. The original JSON is backed up under
-.cache/full-backup/ before conversion.
+mode "excerpt" keep only the first 2-3 substantive paragraphs plus a link note;
+full-text sources (mode "full") are untouched. The original JSON is backed up
+under .cache/full-backup/ before conversion.
+
+Author bios, publication notes and subscribe nags are skipped so the excerpt
+budget goes to real prose. `--from-backup` re-cuts an existing excerpt from the
+full text in .cache/full-backup/ without translating again.
 
 Usage:
   python scripts/make_excerpt.py --all-excerpt --dry-run
   python scripts/make_excerpt.py --all-excerpt
+  python scripts/make_excerpt.py --all-excerpt --from-backup
   python scripts/make_excerpt.py some-id other-id
 """
 from __future__ import annotations
@@ -26,6 +31,44 @@ ALLOWLIST = ROOT / "slow-reads" / "rights_allowlist.json"
 BACKUP = ROOT / ".cache" / "full-backup"
 MAX_PARAGRAPHS = 3
 MAX_CHARS = 1400
+# Validator rejects excerpts above 1800 characters; never cross it to reach a
+# second paragraph.
+HARD_MAX_CHARS = 1800
+MIN_PARA_CHARS = 120
+
+# Openers that carry no content: author bios, publication notes, subscribe nags.
+# Keeping them wastes the whole excerpt budget on boilerplate.
+BOILERPLATE_MARKERS = (
+    "là tổng biên tập",
+    "là biên tập viên",
+    "là cây bút",
+    "đồng sáng lập",
+    "là nhà báo",
+    "là tác giả của cuốn",
+    "bài viết này",
+    "bài luận này",
+    "bản dịch",
+    "lược dịch",
+    "đọc toàn bài",
+    "trích đoạn",
+    "đăng ký nhận",
+    "nhận bản tin",
+    "ảnh:",
+    "nguồn:",
+    "được đăng trên",
+    "is the editor",
+    "is a contributing",
+    "is the author of",
+    "this essay",
+    "this article",
+    "subscribe",
+    "newsletter",
+)
+
+
+def is_boilerplate(text: str) -> bool:
+    lowered = text.lower()
+    return any(marker in lowered for marker in BOILERPLATE_MARKERS)
 
 
 def domain_of(url: str) -> str:
@@ -42,8 +85,12 @@ def load_modes() -> dict[str, dict]:
     }
 
 
-def build_excerpt(
-    blocks: list[dict], source_name: str, max_paragraphs: int, max_chars: int
+def _collect(
+    blocks: list[dict],
+    max_paragraphs: int,
+    max_chars: int,
+    min_chars: int,
+    drop_boilerplate: bool,
 ) -> tuple[list[dict], int, int]:
     out: list[dict] = []
     paragraphs = 0
@@ -57,13 +104,20 @@ def build_excerpt(
         if not text:
             continue
         if btype in ("h2", "h3"):
-            if started:
-                break
-            out.append({"type": btype, "text": text})
+            # A leading heading is a useful opener; a heading further in means the
+            # first section ended — skip it rather than stopping the excerpt there.
+            if not started:
+                out.append({"type": btype, "text": text})
             continue
         if paragraphs >= max_paragraphs:
             break
-        if started and chars + len(text) > max_chars:
+        # Skip content-free openers so the budget goes to real prose.
+        if drop_boilerplate and (len(text) < min_chars or is_boilerplate(text)):
+            continue
+        # Always try for two paragraphs, but never past the validator's hard cap.
+        if paragraphs >= 2 and chars + len(text) > max_chars:
+            break
+        if chars + len(text) > HARD_MAX_CHARS:
             break
         item = {"type": "quote" if btype == "quote" else "p", "text": text}
         if btype == "quote" and block.get("cite"):
@@ -72,28 +126,56 @@ def build_excerpt(
         paragraphs += 1
         chars += len(text)
         started = True
-    note = f"*Trích đoạn — đọc toàn bài tại {source_name}.*"
+    return out, paragraphs, chars
+
+
+def build_excerpt(
+    blocks: list[dict], source_name: str, max_paragraphs: int, max_chars: int
+) -> tuple[list[dict], int, int]:
+    """Pick the opening prose, skipping bios and subscribe nags.
+
+    Falls back to the raw first paragraphs when filtering leaves less than two,
+    so a short or unusually formatted article still produces an excerpt.
+    """
+    out, paragraphs, chars = _collect(
+        blocks, max_paragraphs, max_chars, MIN_PARA_CHARS, drop_boilerplate=True
+    )
+    if paragraphs < 2:
+        out, paragraphs, chars = _collect(
+            blocks, max_paragraphs, max_chars, 0, drop_boilerplate=False
+        )
+    if paragraphs == 0:
+        return out, paragraphs, chars
+    note = f"*Trích đoạn đầu bài — đọc toàn bài tại {source_name}.*"
     out.append({"type": "p", "text": note})
     return out, paragraphs, chars
 
 
 def convert(path: Path, args: argparse.Namespace) -> tuple[str, str]:
     data = json.loads(path.read_text(encoding="utf-8"))
-    aid = data.get("id") or path.stem
     stats = data.get("source_stats")
     if not isinstance(stats, dict):
         raise ValueError("missing source_stats; run attach_source_stats.py first")
-    if stats.get("coverage") == "excerpt":
-        return "skip", "already excerpt"
+    already_excerpt = stats.get("coverage") == "excerpt"
+    if already_excerpt and not args.from_backup:
+        return "skip", "already excerpt (use --from-backup to re-cut it)"
+
+    body = data.get("body") or []
+    if args.from_backup:
+        backup = BACKUP / path.name
+        if not backup.is_file():
+            raise ValueError(f"no full backup at {backup}")
+        body = json.loads(backup.read_text(encoding="utf-8")).get("body") or []
 
     source_name = data.get("source") or domain_of(data.get("source_url") or "")
     excerpt, paragraphs, chars = build_excerpt(
-        data.get("body") or [], source_name, args.max_paragraphs, args.max_chars
+        body, source_name, args.max_paragraphs, args.max_chars
     )
     if paragraphs == 0:
         raise ValueError("no paragraphs found")
 
-    if not args.dry_run and not args.no_backup:
+    # Never back up an excerpt over the full text — the backup is the only copy.
+    if not args.dry_run and not args.no_backup and not already_excerpt:
         BACKUP.mkdir(parents=True, exist_ok=True)
         backup = BACKUP / path.name
         if not backup.exists():
@@ -122,6 +204,11 @@ def main() -> int:
     parser.add_argument("--max-chars", type=int, default=MAX_CHARS)
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--no-backup", action="store_true")
+    parser.add_argument(
+        "--from-backup",
+        action="store_true",
+        help="re-cut an existing excerpt from .cache/full-backup/<id>.json",
+    )
     args = parser.parse_args()
 
     if args.ids and args.all_excerpt:

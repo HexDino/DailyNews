@@ -58,6 +58,12 @@ jobs:
           python3 scripts/add_slow_read.py
           python3 scripts/validate_slow_read.py --strict
 
+      # Blocks any article whose coverage needs a licence we do not hold.
+      # Runs before deploy so a full translation of a protected source can
+      # never reach hexdino.github.io, whatever the prompt or queue says.
+      - name: Enforce Slow Reads licence policy
+        run: python3 scripts/rights_gate.py
+
       - name: Install Playwright and run smoke test
         run: |
           pip install playwright

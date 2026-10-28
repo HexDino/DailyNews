@@ -25,11 +25,6 @@
   },
   "body": [
     {
-      "type": "quote",
-      "text": "Thỏ chạy nhanh hơn cáo, vì thỏ chạy để giữ mạng còn cáo chỉ chạy vì bữa tối.",
-      "cite": "R. Dawkins"
-    },
-    {
       "type": "p",
       "text": "Nói đơn giản, động cơ thúc đẩy có sức nặng rất lớn. Động cơ nằm ở gốc rễ của nhiều tình huống chúng ta gặp, vậy mà ta thường không tính đến chúng. Chúng có sức mạnh bóp méo hành vi của ta và làm ta mù tịt trước thực tế."
     },
@@ -39,7 +34,11 @@
     },
     {
       "type": "p",
-      "text": "*Trích đoạn — đọc toàn bài tại Farnam Street.*"
+      "text": "Ta chỉ có thể nhìn một tình huống thật rõ ràng khi dành thời gian cân nhắc kỹ những lợi ích đang hiện diện. Và ta hiểu nó còn rõ hơn khi xét xem tình huống sẽ khác thế nào nếu những lợi ích bên dưới khác đi."
+    },
+    {
+      "type": "p",
+      "text": "*Trích đoạn đầu bài — đọc toàn bài tại Farnam Street.*"
     }
   ]
 }

@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "updated_at": "2026-10-28",
+  "note": "Curated public-domain works for Slow Reads. Every gutenberg_id was resolved through the Gutendex API (gutendex.com) and is the canonical Project Gutenberg ebook number. Public domain in the United States; check your own jurisdiction before republishing. est_words is an estimate used to filter works that are too long to translate in one pass.",
+  "url_template": "https://www.gutenberg.org/cache/epub/{id}/pg{id}-images.html",
+  "works": [
+    {
+      "id": "suy-tuong-marcus-aurelius",
+      "title_original": "Meditations",
+      "author": "Marcus Aurelius",
+      "gutenberg_id": 2680,
+      "topics": ["Stoicism", "Con người"],
+      "lang": "en",
+      "est_words": 77000,
+      "note": "Nền tảng của Stoicism; nhật ký tự vấn, đọc rời từng đoạn được."
+    },
+    {
+      "id": "cam-nang-epictetus",
+      "title_original": "The Enchiridion",
+      "author": "Epictetus",
+      "gutenberg_id": 45109,
+      "topics": ["Stoicism"],
+      "lang": "en",
+      "est_words": 15000,
+      "note": "Ngắn nhất trong bộ ba Stoicism, phù hợp để mở đầu thư viện."
+    },
+    {
+      "id": "luan-thuyet-epictetus",
+      "title_original": "A Selection from the Discourses of Epictetus with the Encheiridion",
+      "author": "Epictetus",
+      "gutenberg_id": 10661,
+      "topics": ["Stoicism", "Đối nhân xử thế"],
+      "lang": "en",
+      "est_words": 45000,
+      "note": "Bản chọn lọc Discourses, dài hơn Enchiridion nhưng vẫn vừa một lượt dịch."
+    },
+    {
+      "id": "seneca-doi-song-hanh-phuc",
+      "title_original": "Seneca's Morals of a Happy Life, Benefits, Anger and Clemency",
+      "author": "Seneca",
+      "gutenberg_id": 56075,
+      "topics": ["Stoicism", "Con người"],
+      "lang": "en",
+      "est_words": 60000,
+      "note": "Bốn tiểu luận gộp: đời sống hạnh phúc, ân huệ, giận dữ, khoan dung."
+    },
+    {
+      "id": "seneca-ve-an-hue",
+      "title_original": "L. Annaeus Seneca on Benefits",
+      "author": "Seneca",
+      "gutenberg_id": 3794,
+      "topics": ["Stoicism", "Đối nhân xử thế"],
+      "lang": "en",
+      "est_words": 50000,
+      "note": "Về cho và nhận — chủ đề ơn nghĩa, rất hợp mục Đối nhân xử thế."
+    },
+    {
+      "id": "seneca-doi-thoai-nho",
+      "title_original": "Minor Dialogues, Together With the Dialogue on Clemency",
+      "author": "Seneca",
+      "gutenberg_id": 64576,
+      "topics": ["Stoicism"],
+      "lang": "en",
+      "est_words": 40000,
+      "note": "Các đối thoại ngắn, nhịp nhanh hơn tiểu luận dài."
+    },
+    {
+      "id": "montaigne-tieu-luan",
+      "title_original": "Essays of Michel de Montaigne — Complete",
+      "author": "Michel de Montaigne",
+      "gutenberg_id": 3600,
+      "topics": ["Con người", "Đối nhân xử thế"],
+      "lang": "en",
+      "est_words": 500000,
+      "note": "Rất dài — chỉ dịch khi chọn từng tiểu luận riêng, đừng dịch cả tập trong một lượt."
+    },
+    {
+      "id": "cicero-tinh-ban-va-tuoi-gia",
+      "title_original": "Treatises on Friendship and Old Age",
+      "author": "Cicero",
+      "gutenberg_id": 2808,
+      "topics": ["Đối nhân xử thế", "Con người"],
+      "lang": "en",
+      "est_words": 25000,
+      "note": "Hai chuyên luận ngắn về tình bạn và tuổi già; đúng tinh thần đọc chậm."
+    },
+    {
+      "id": "cicero-ve-bon-phan",
+      "title_original": "De Officiis",
+      "author": "Cicero",
+      "gutenberg_id": 47001,
+      "topics": ["Đối nhân xử thế", "Sự nghiệp"],
+      "lang": "en",
+      "est_words": 50000,
+      "note": "Về bổn phận — nền tảng đạo đức nghề nghiệp, hợp mục Sự nghiệp."
+    },
+    {
+      "id": "cicero-luan-dam-dao-tusculum",
+      "title_original": "Cicero's Tusculan Disputations",
+      "author": "Cicero",
+      "gutenberg_id": 14988,
+      "topics": ["Tâm lý", "Con người"],
+      "lang": "en",
+      "est_words": 90000,
+      "note": "Bàn về đau khổ, sợ hãi, hạnh phúc — liệu pháp tâm lý cổ điển."
+    },
+    {
+      "id": "la-rochefoucauld-ngon-ngu",
+      "title_original": "Reflections; or Sentences and Moral Maxims",
+      "author": "François de La Rochefoucauld",
+      "gutenberg_id": 9105,
+      "topics": ["Đối nhân xử thế", "Con người"],
+      "lang": "en",
+      "est_words": 20000,
+      "note": "Cách ngôn ngắn, đọc nhặt từng câu; bản dịch tiếng Việt rất dễ đọc."
+    },
+    {
+      "id": "plato-yen-tiec",
+      "title_original": "Symposium",
+      "author": "Plato",
+      "gutenberg_id": 1600,
+      "topics": ["Tình yêu", "Con người"],
+      "lang": "en",
+      "est_words": 30000,
+      "note": "Nguồn gốc khái niệm tình yêu phương Tây; mục Tình yêu hiện chưa có bài nào."
+    },
+    {
+      "id": "plato-phaedrus",
+      "title_original": "Phaedrus",
+      "author": "Plato",
+      "gutenberg_id": 1636,
+      "topics": ["Tình yêu", "Con người"],
+      "lang": "en",
+      "est_words": 20000,
+      "note": "Đối thoại về tình yêu, hùng biện và linh hồn; ngắn hơn Symposium."
+    },
+    {
+      "id": "ovid-nghe-thuat-yeu",
+      "title_original": "Ars Amatoria; or, The Art Of Love",
+      "author": "Ovid",
+      "gutenberg_id": 47677,
+      "topics": ["Tình yêu", "Đối nhân xử thế"],
+      "lang": "en",
+      "est_words": 25000,
+      "note": "Cẩm nang tán tỉnh La Mã, giọng dí dỏm — đối trọng nhẹ nhàng cho mục Tình yêu."
+    },
+    {
+      "id": "descartes-phuong-phap-luan",
+      "title_original": "Discourse on the Method of Rightly Conducting One's Reason",
+      "author": "René Descartes",
+      "gutenberg_id": 59,
+      "topics": ["Tư duy & khoa học"],
+      "lang": "en",
+      "est_words": 20000,
+      "note": "Ngắn, rõ, là mốc của tư duy khoa học hiện đại."
+    },
+    {
+      "id": "darwin-hanh-trinh-tau-beagle",
+      "title_original": "The Voyage of the Beagle",
+      "author": "Charles Darwin",
+      "gutenberg_id": 944,
+      "topics": ["Tư duy & khoa học"],
+      "lang": "en",
+      "est_words": 150000,
+      "note": "Du ký khoa học; dài, nên chọn chương thay vì dịch trọn."
+    },
+    {
+      "id": "william-james-thuyet-thuc-dung",
+      "title_original": "Pragmatism: A New Name for Some Old Ways of Thinking",
+      "author": "William James",
+      "gutenberg_id": 5116,
+      "topics": ["Tư duy & khoa học"],
+      "lang": "en",
+      "est_words": 45000,
+      "note": "Giọng giảng bài, dễ đọc; nhập môn triết học thực dụng."
+    },
+    {
+      "id": "freud-tam-ly-giac-mo",
+      "title_original": "Dream Psychology: Psychoanalysis for Beginners",
+      "author": "Sigmund Freud",
+      "gutenberg_id": 15489,
+      "topics": ["Tâm lý"],
+      "lang": "en",
+      "est_words": 50000,
+      "note": "Bản nhập môn Freud tự viết, dễ hơn The Interpretation of Dreams."
+    },
+    {
+      "id": "freud-dien-giai-giac-mo",
+      "title_original": "The Interpretation of Dreams",
+      "author": "Sigmund Freud",
+      "gutenberg_id": 66048,
+      "topics": ["Tâm lý"],
+      "lang": "en",
+      "est_words": 200000,
+      "note": "Kinh điển nhưng rất dài — chỉ dịch khi chọn chương."
+    },
+    {
+      "id": "schopenhauer-khon-ngoan-cuoc-song",
+      "title_original": "The Essays of Arthur Schopenhauer: the Wisdom of Life",
+      "author": "Arthur Schopenhauer",
+      "gutenberg_id": 10741,
+      "topics": ["Con người", "Đối nhân xử thế"],
+      "lang": "en",
+      "est_words": 30000,
+      "note": "Về danh dự, sở hữu, cách sống — đối trọng lạnh lùng với Stoicism."
+    },
+    {
+      "id": "schopenhauer-loi-khuyen-va-cach-ngon",
+      "title_original": "The Essays of Arthur Schopenhauer; Counsels and Maxims",
+      "author": "Arthur Schopenhauer",
+      "gutenberg_id": 10715,
+      "topics": ["Đối nhân xử thế"],
+      "lang": "en",
+      "est_words": 25000,
+      "note": "Cách ngôn về cách hành xử với người đời."
+    },
+    {
+      "id": "schopenhauer-nghien-cuu-biet-quan",
+      "title_original": "The Essays of Arthur Schopenhauer; Studies in Pessimism",
+      "author": "Arthur Schopenhauer",
+      "gutenberg_id": 10732,
+      "topics": ["Con người", "Tâm lý"],
+      "lang": "en",
+      "est_words": 30000,
+      "note": "Bi quan luận — bổ sung góc nhìn cho mục Tâm lý."
+    },
+    {
+      "id": "emerson-tieu-luan",
+      "title_original": "Essays by Ralph Waldo Emerson",
+      "author": "Ralph Waldo Emerson",
+      "gutenberg_id": 16643,
+      "topics": ["Con người", "Tư duy & khoa học"],
+      "lang": "en",
+      "est_words": 60000,
+      "note": "Tuyển tập gộp hai series; chọn bài Self-Reliance, Circles nếu dịch lẻ."
+    },
+    {
+      "id": "emerson-tieu-luan-tap-1",
+      "title_original": "Essays — First Series",
+      "author": "Ralph Waldo Emerson",
+      "gutenberg_id": 2944,
+      "topics": ["Con người"],
+      "lang": "en",
+      "est_words": 45000,
+      "note": "Gồm History, Self-Reliance, Compensation, Spiritual Laws."
+    },
+    {
+      "id": "emerson-tieu-luan-tap-2",
+      "title_original": "Essays — Second Series",
+      "author": "Ralph Waldo Emerson",
+      "gutenberg_id": 2945,
+      "topics": ["Con người"],
+      "lang": "en",
+      "est_words": 45000,
+      "note": "Gồm The Poet, Experience, Character, Nominalist and Realist."
+    },
+    {
+      "id": "adam-smith-cua-cai-cac-quoc-gia",
+      "title_original": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+      "author": "Adam Smith",
+      "gutenberg_id": 3300,
+      "topics": ["Tiền bạc", "Tư duy & khoa học"],
+      "lang": "en",
+      "est_words": 370000,
+      "note": "Rất dài — dịch chương I hoặc chương về phân công lao động."
+    },
+    {
+      "id": "bastiat-phap-luat",
+      "title_original": "The Law",
+      "author": "Frédéric Bastiat",
+      "gutenberg_id": 44800,
+      "topics": ["Tiền bạc", "Con người"],
+      "lang": "en",
+      "est_words": 10000,
+      "note": "Tiểu luận ngắn, sắc — nhập môn tốt nhất cho mục Tiền bạc."
+    },
+    {
+      "id": "bastiat-tieu-luan-kinh-te",
+      "title_original": "Essays on Political Economy",
+      "author": "Frédéric Bastiat",
+      "gutenberg_id": 15962,
+      "topics": ["Tiền bạc", "Tư duy & khoa học"],
+      "lang": "en",
+      "est_words": 40000,
+      "note": "Gồm 'What Is Seen and What Is Not Seen' — bài về chi phí cơ hội kinh điển."
+    },
+    {
+      "id": "franklin-con-duong-den-su-giau-co",
+      "title_original": "Franklin's Way to Wealth; or, \"Poor Richard Improved\"",
+      "author": "Benjamin Franklin",
+      "gutenberg_id": 43855,
+      "topics": ["Tiền bạc", "Sự nghiệp"],
+      "lang": "en",
+      "est_words": 6000,
+      "note": "Rất ngắn, đọc trong một lần; bản gốc của văn hoá 'lời khuyên làm giàu'."
+    },
+    {
+      "id": "samuel-smiles-tu-luc",
+      "title_original": "Self Help; with Illustrations of Conduct and Perseverance",
+      "author": "Samuel Smiles",
+      "gutenberg_id": 935,
+      "topics": ["Sự nghiệp", "Con người"],
+      "lang": "en",
+      "est_words": 120000,
+      "note": "Sách gốc của thể loại self-help; nhiều chương đọc độc lập được."
+    },
+    {
+      "id": "franklin-tu-truyen",
+      "title_original": "Autobiography of Benjamin Franklin",
+      "author": "Benjamin Franklin",
+      "gutenberg_id": 20203,
+      "topics": ["Sự nghiệp", "Con người"],
+      "lang": "en",
+      "est_words": 70000,
+      "note": "Tự truyện nghề nghiệp kinh điển; chương về 13 đức hạnh đọc riêng được."
+    },
+    {
+      "id": "thoreau-song-noi-hoang-da",
+      "title_original": "Walden, and On The Duty Of Civil Disobedience",
+      "author": "Henry David Thoreau",
+      "gutenberg_id": 205,
+      "topics": ["Con người"],
+      "lang": "en",
+      "est_words": 110000,
+      "note": "Gộp Walden và Civil Disobedience; Walden chia chương rõ."
+    },
+    {
+      "id": "plutarch-anh-hung-truyen",
+      "title_original": "Plutarch: Lives of the noble Grecians and Romans",
+      "author": "Plutarch",
+      "gutenberg_id": 674,
+      "topics": ["Con người", "Sự nghiệp"],
+      "lang": "en",
+      "est_words": 500000,
+      "note": "Rất dài — mỗi thiên là một nhân vật, dịch lẻ từng thiên."
+    }
+  ]
+}

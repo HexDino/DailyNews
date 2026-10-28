@@ -89,9 +89,21 @@ js/reader.js
 issues/index.json
 issues/YYYY-MM-DD/content.json
 issues/YYYY-MM-DD/paper.pdf
+slow-reads/         # thư viện bài dài (xem docs/SLOW_READS_PIPELINE.md)
 pdf-build/          # pipeline PDF (WeasyPrint)
-scripts/            # import & regenerate index
+scripts/            # import, index, Slow Reads fetch/validate/licence gate
 .github/workflows/pages.yml
+```
+
+## Slow Reads
+
+Thư viện bài dài nằm ở `slow-reads/`, độc lập với số báo ngày. Quy trình nguồn → dịch → publish, chính sách giấy phép, và catalogue public domain: [`docs/SLOW_READS_PIPELINE.md`](docs/SLOW_READS_PIPELINE.md).
+
+```bash
+python -m venv .venv
+.venv/Scripts/python.exe -m pip install -r scripts/requirements.txt   # Windows
+python scripts/discover_pd.py --table        # tác phẩm public domain dịch toàn văn được
+python scripts/rights_gate.py                # chặn bản dịch không có giấy phép
 ```
 
 ## Phát triển cục bộ

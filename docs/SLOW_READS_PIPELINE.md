@@ -1,12 +1,14 @@
 # Slow Reads pipeline — nguồn, dịch, xuất bản
 
-Pipeline tách việc lấy nguồn, dịch và đăng bài thành ba chặng độc lập. Mục tiêu: bot tìm nguồn (Grok) **không phải tái tạo nguyên văn** nội dung có bản quyền, nên không bị giới hạn "chỉ trích dẫn ngắn"; bản dịch do Claude thực hiện từ file nguồn; Grok chỉ chạy lệnh kiểm tra và publish.
+Pipeline tách việc lấy nguồn, dịch và đăng bài thành ba chặng độc lập. Mục tiêu: bước tìm nguồn **không phải tái tạo nguyên văn** nội dung có bản quyền, nên không bị giới hạn "chỉ trích dẫn ngắn"; bản dịch do Claude thực hiện từ file nguồn; bước publish chỉ chạy lệnh kiểm tra rồi commit.
 
 ```
-Grok (discovery)        scripts/fetch_source.py        Claude (translate)         Grok (publish)
-URL + metadata   ──►    source.txt + meta.json   ──►   articles/<id>.json   ──►    validate + commit + push
-(không body)            (.cache, không commit)        + source_stats (số đo)      (không đọc body)
+discovery (Grok/người)   scripts/fetch_source.py        Claude (translate)         run-batch.ps1 (publish)
+URL + metadata    ──►    source.txt + meta.json   ──►   articles/<id>.json   ──►   validate + gate + commit
+(không body)             (.cache, không commit)         + source_stats (số đo)     (không đọc body)
 ```
+
+Grok Bot là app chat trên desktop — nó **không** chạy được script, không có scheduled task, không đọc repo. Nó chỉ soạn prompt và script; mọi bước thực thi là chạy tay hoặc do `run-batch.ps1` làm.
 
 `source_stats` là các con số đo nguồn (số từ/ký tự/đoạn/câu/heading + sha256), do `scripts/attach_source_stats.py` sinh ra. Nó cho phép CI kiểm độ phủ bản dịch mà **không cần** đưa nội dung nguồn lên repo.
 
@@ -36,19 +38,30 @@ Queue: `slow-reads/queue.json` (commit) là ledger discovery/publish:
   "items": [
     {
       "url": "https://...",
-      "id": "slug-tam-thoi",
       "title": "...",
+      "author": "...",
+      "source": "...",
       "source_id": "aeon",
-      "quality": 92,
+      "lang": "en",
+      "topics_guess": ["Con người"],
+      "quality_score": 92,
+      "quality_reason": "một câu",
+      "est_words": 0,
+      "fetch": "rss+static",
       "rights_note": "user-accepted",
-      "status": "candidate|rights_approved|translating|ready|published|blocked|skipped|rejected",
+      "status": "candidate",
       "note": "",
-      "created_at": "YYYY-MM-DD",
-      "updated_at": "YYYY-MM-DD"
+      "added_at": "YYYY-MM-DD"
     }
   ]
 }
 ```
+
+Khi publish, thêm `id`, `published_at`, `published_url`, `published_sha`.
+
+Status thực dùng: `candidate` → `published`. Các trạng thái `rights_approved` / `translating` / `ready` / `blocked` / `skipped` / `rejected` có trong thiết kế nhưng chưa dùng — thêm vào đây khi có script ghi queue.
+
+`rights_note` **không phải giấy phép**. Nó chỉ ghi rằng người dùng tự chấp nhận rủi ro. Quyền publish do `rights_allowlist.json` quyết định và do `scripts/rights_gate.py` cưỡng chế.
 
 Allowlist: `slow-reads/rights_allowlist.json` (commit). `default: "skip"`; Grok chỉ xử lý URL khớp `match` (`domain:`, `url:` hoặc `path:`). Không khớp thì bỏ qua im lặng, ghi `skipped`, không hỏi người dùng.
 
@@ -75,11 +88,35 @@ Allowlist: `slow-reads/rights_allowlist.json` (commit). `default: "skip"`; Grok 
 }
 ```
 
-- `mode: "full"`: chỉ dùng cho `public-domain`, `user-confirmed-permission`, hoặc `CC-...` cho phép tác phẩm phái sinh.
+- `mode: "full"`: chỉ dùng cho `public-domain`, `user-confirmed-permission` **có kèm `evidence`**, hoặc `CC-...` cho phép tác phẩm phái sinh.
 - `mode: "excerpt"`: chỉ đăng 2–3 đoạn + link; **không** dịch toàn bộ.
 - `basis`: `public-domain`, `user-confirmed-permission`, `CC-...`, hoặc `excerpt-only`. Không tự gán license.
-- Hiện allowlist phủ 32 domain: 4 domain full (Paul Graham, Tia Sáng, Gutenberg, Standard Ebooks) và 28 domain excerpt. Paul Graham/Tia Sáng chỉ full nếu bạn thực sự có phép; nếu chỉ tự chấp nhận, đổi sang `mode: "excerpt"` và chạy `make_excerpt.py`.
-- Nguồn ngoài allowlist bị `skipped` ở bước publish, không hỏi.
+- `evidence` (tuỳ chọn): đường dẫn hoặc URL tới văn bản cho phép bằng văn bản. Không có `evidence` thì `user-confirmed-permission` chỉ là lời khai — `rights_gate.py` sẽ cảnh báo to.
+- Hiện allowlist phủ 32 domain: 4 domain full (Paul Graham, Tia Sáng, Gutenberg, Standard Ebooks) và 28 domain excerpt. Paul Graham/Tia Sáng đang ở dạng "người dùng khai có phép" **không kèm văn bản** — gate cảnh báo từng bài mỗi lần chạy. Nếu không có văn bản thật, đổi sang `mode: "excerpt"` và chạy `make_excerpt.py`.
+- Nguồn ngoài allowlist bị chặn ở bước publish, không hỏi.
+
+## Cổng giấy phép (`scripts/rights_gate.py`)
+
+Bản dịch là **tác phẩm phái sinh**. Đăng công khai bản dịch toàn văn cần giấy phép cho phép phái sinh, và không có câu prompt nào thay đổi được điều đó — nên quy tắc này được cưỡng chế bằng code, không bằng lời dặn.
+
+```bash
+python3 scripts/rights_gate.py                       # kiểm mọi bài
+python3 scripts/rights_gate.py slow-reads/articles/x.json
+python3 scripts/rights_gate.py --mode <id>           # in ra full|excerpt|skip
+```
+
+| `basis` | `coverage: full` / `condensed` |
+| --- | --- |
+| `public-domain` | cho phép |
+| `CC-BY`, `CC-BY-SA`, `CC-BY-4.0`… | cho phép (ghi công; SA kèm share-alike) |
+| `CC-BY-ND`, `CC-BY-NC`, `CC-BY-NC-ND` | **chặn** — ND/NC cấm bản phái sinh |
+| `user-confirmed-permission` + `evidence` | cho phép |
+| `user-confirmed-permission` không `evidence` | cảnh báo, không chặn CI |
+| `excerpt-only` | **chặn** |
+
+`coverage: "excerpt"` chỉ cần một entry bất kỳ và phải giữ `source_url`. CI chạy gate trước bước deploy, nên bản dịch toàn văn của nguồn không có phép không lên được `hexdino.github.io`.
+
+`--mode <id>` tự dò URL theo thứ tự: file bài viết → `.cache/slow-reads/<id>/meta.json` → `queue.json` (khớp `id`). Runner dùng lệnh này để chọn chế độ, nên prompt luôn khớp giấy phép.
 
 Chuyển bài đang full sang excerpt theo allowlist:
 
@@ -105,14 +142,50 @@ python3 scripts/discover_rss.py --limit 20 --days 60 --per-source 3 \
 
 Output có `source_id, source, url, title, author, published, summary, topics, lang, quality, fetch, feed_mode`. Feed được cache trong `.cache/rss/` (gitignored); nếu feed lỗi, script dùng cache cũ và cảnh báo. Nguồn `rss: null` (Tia Sáng, Vietcetera, Works in Progress…) phải thêm thủ công vào queue sau khi người dùng duyệt URL.
 
+## Public domain — nguồn duy nhất dịch toàn văn được
+
+Báo đương đại gần như đều `all rights reserved`. Public domain thì không: dịch, đăng, bán đều được. Đây là nơi thư viện nên dày lên.
+
+**Catalogue**: `slow-reads/public-domain.json` — 28 tác phẩm, trải 8 chủ đề. Mỗi entry có `gutenberg_id` **đã đối chiếu qua Gutendex API**, `topics`, `est_words`, và `note` giải thích vì sao hợp chủ đề. Không dùng RSS của Gutenberg làm nguồn chính: feed đó chỉ liệt kê sách tải lên hôm nay, không liên quan gì tới chủ đề.
+
+```bash
+# Xem ứng viên, ngắn trước, xen kẽ chủ đề
+python3 scripts/discover_pd.py --table
+python3 scripts/discover_pd.py --topics Stoicism --max-words 40000
+python3 scripts/discover_pd.py --limit 5 --out .cache/pd-candidates.json --pretty
+```
+
+`--max-words` mặc định 80.000 để không ai vô tình bắt đầu dịch Montaigne (500k từ) trong một lượt. `0` = không giới hạn. Output cùng schema với `discover_rss.py`, thêm `gutenberg_id`, `est_words`, `title_original`, `suggested_id`.
+
+**Tải nguồn**: `fetch_source.py` tự cắt header/footer Project Gutenberg (`*** START OF… ***`, khối `**Title**: / **Credits**:`) và cắt luôn phần licence. Metadata Gutenberg hay sai tên tác giả, nên truyền đè:
+
+```bash
+python3 scripts/fetch_source.py "https://www.gutenberg.org/cache/epub/2680/pg2680-images.html" \
+  --id suy-tuong-marcus-aurelius --title "Meditations" --author "Marcus Aurelius"
+```
+
+**Chất lượng bản in khác nhau giữa các edition.** Ví dụ #45109 (Enchiridion) là bản in 1948 kèm trang bìa và catalogue nhà xuất bản ở cuối. Prompt dịch đã dặn bỏ front matter/back matter, nhưng vẫn nên mở `source.txt` xem 200 ký tự đầu và cuối trước khi dịch — rẻ hơn nhiều so với sửa một bài đã đăng.
+
+**Môi trường**: `fetch_source.py` cần `trafilatura`.
+
+```bash
+python -m venv .venv
+.venv/Scripts/python.exe -m pip install -r scripts/requirements.txt   # Windows
+# hoặc .venv/bin/python -m pip install -r scripts/requirements.txt    # macOS/Linux
+```
+
+`standardebooks.org` cũng là public domain và bản in sạch hơn Gutenberg; feed `new-releases` đã bật trong `sources.json`, feed đầy đủ cần auth.
+
 ## Chạy tay
 
 ```bash
 pip install -r scripts/requirements.txt      # Windows: python -m pip ...
 python3 scripts/fetch_source.py "https://example.com/essay" --id ten-bai   # Windows: python
-# Claude ghi slow-reads/articles/ten-bai.json từ source.txt
+python3 scripts/rights_gate.py --mode ten-bai          # full | excerpt | skip
+# Claude ghi slow-reads/articles/ten-bai.json theo đúng mode vừa in ra
 python3 scripts/attach_source_stats.py ten-bai
 python3 scripts/validate_slow_read.py slow-reads/articles/ten-bai.json
+python3 scripts/rights_gate.py slow-reads/articles/ten-bai.json
 python3 scripts/add_slow_read.py
 python3 scripts/validate_slow_read.py --strict
 ```
@@ -125,6 +198,7 @@ python3 scripts/validate_slow_read.py --strict
 - `attach_source_stats.py --coverage condensed <id>`: chỉ dùng cho bài lược dịch cũ.
 - `attach_source_stats.py --coverage excerpt <id>`: cho bài trích đoạn.
 - `make_excerpt.py --all-excerpt`: chuyển các bài thuộc domain `mode: "excerpt"` sang trích đoạn.
+- `make_excerpt.py --all-excerpt --from-backup`: cắt lại excerpt đã có từ `.cache/full-backup/` (không cần dịch lại). Bỏ đoạn bio/subscribe ở đầu và luôn nhắm 2–3 đoạn, tối đa 1800 ký tự.
 
 ## Chính sách độ phủ
 
@@ -137,14 +211,14 @@ python3 scripts/validate_slow_read.py --strict
 
 ## Chế độ public (B) — hiện tại
 
-- `mode: "full"`: 9 bài từ nguồn có căn cứ (Paul Graham/Tia Sáng theo xác nhận của bạn; Gutenberg/Standard Ebooks public domain).
-- `mode: "excerpt"`: 10 bài còn lại, chỉ giữ 2–3 đoạn + link nguồn.
-- Bài từ nguồn excerpt **không được** dịch toàn bộ. Nếu sau này có phép, đổi `mode` sang `full`, khôi phục bản full từ `.cache/full-backup/` (local) hoặc dịch lại, rồi attach `--coverage full`.
+- `mode: "full"`: 9 bài. 4 domain: Gutenberg + Standard Ebooks (`public-domain`, không rủi ro) và Paul Graham + Tia Sáng (`user-confirmed-permission` **không có `evidence`** — gate cảnh báo 9/19 bài mỗi lần chạy).
+- `mode: "excerpt"`: 10 bài còn lại, 2–3 đoạn + link nguồn.
+- Bài từ nguồn excerpt **không được** dịch toàn bộ. Có văn bản cho phép thì thêm `evidence` vào allowlist, đổi `mode` sang `full`, khôi phục bản full từ `.cache/full-backup/` (local) hoặc dịch lại, rồi attach `--coverage full`.
 - Chuyển file hiện tại sang excerpt **không xóa full text khỏi git history** của các commit cũ. Nếu cần xóa lịch sử, phải rewrite history hoặc tạo repo mới — việc này cần xác nhận riêng.
 
 ## Prompt cho bot
 
-Các khối dưới đây copy nguyên văn vào bot. Chỗ `<...>` là biến cần điền.
+Các khối dưới đây là hợp đồng giữa các bước. Grok soạn prompt, người dùng chạy. Chỗ `<...>` là biến cần điền.
 
 ### 1. Grok — discovery
 
@@ -221,10 +295,12 @@ Quy tắc nội dung:
 Gắn số đo nguồn và kiểm tra trước khi báo xong:
 python3 scripts/attach_source_stats.py --coverage <full|excerpt> <id>
 python3 scripts/validate_slow_read.py slow-reads/articles/<id>.json
+python3 scripts/rights_gate.py slow-reads/articles/<id>.json
 Sửa đến khi 0 error. Với full, warning dưới 45% ký tự hoặc 50% số câu nghĩa là đã bỏ sót — phải dịch bù.
 Với excerpt, warning nếu vượt 8 block / 1800 ký tự / 50% độ dài nguồn — cắt bớt.
 Không đặt condensed để né cảnh báo.
-Báo cáo: đường dẫn file, mode, số block, số từ, coverage, kết quả validate.
+Nếu `rights_gate.py` chặn: dừng, báo lại mode và basis. Không đổi coverage, không sửa allowlist, không tìm cách lách — chuyển sang excerpt.
+Báo cáo: đường dẫn file, mode, số block, số từ, coverage, kết quả validate + gate.
 ```
 
 ### 3. Grok — publish
@@ -239,13 +315,14 @@ Bạn KHÔNG đọc/in nội dung body, KHÔNG sửa bản dịch, KHÔNG dịch
 
 Chạy tuần tự, dừng ngay nếu một lệnh thất bại:
 1. python3 scripts/validate_slow_read.py slow-reads/articles/<id>.json
-2. python3 scripts/add_slow_read.py
-3. python3 scripts/validate_slow_read.py --strict
-4. git add slow-reads/articles/<id>.json slow-reads/articles/index.json
-5. git commit -m "Add Slow Reads article <id>"
-6. git push origin main
+2. python3 scripts/rights_gate.py slow-reads/articles/<id>.json
+3. python3 scripts/add_slow_read.py
+4. python3 scripts/validate_slow_read.py --strict
+5. git add slow-reads/articles/<id>.json slow-reads/articles/index.json
+6. git commit -m "Add Slow Reads article <id>"
+7. git push origin main
 
-Nếu bước 1-3 báo lỗi: dừng, gửi nguyên văn lỗi cho người dịch. Không tự sửa nội dung, không tự thêm/sửa source_stats, không đặt coverage "condensed" để né cảnh báo.
+Nếu bước 1-4 báo lỗi: dừng, gửi nguyên văn lỗi cho người dịch. Không tự sửa nội dung, không tự thêm/sửa source_stats, không đặt coverage "condensed" để né cảnh báo, không sửa allowlist để qua gate.
 
 Sau khi push, xác minh:
 - git rev-parse HEAD và git rev-parse origin/main giống nhau.
@@ -255,41 +332,37 @@ Sau khi push, xác minh:
 Báo cáo cuối: commit SHA, tổng số bài trong index, URL live của thư viện, lỗi còn tồn (nếu có).
 ```
 
-### 4. Grok — orchestration (tự gọi Claude)
+### 4. Runner — `run-batch.ps1` (không phải Grok)
 
-Khi queue có item `rights_approved` và URL khớp allowlist, Grok tự chạy fetch và mở Claude session; không chờ người dùng giao file.
+**Grok không gọi Claude.** Grok Bot là app chat trên desktop; nó không có quyền chạy script, không có scheduled task, không đọc repo. Việc orchestration do `C:\Users\hung1\dailynews-dich\run-batch.ps1` làm, chạy tay.
 
-```text
-C. ORCHESTRATION — Grok chủ động gọi Claude
+```powershell
+cd C:\Users\hung1\dailynews-dich
 
-Sau khi một bài trong queue có trạng thái rights_approved, xử lý tuần tự
-(tối đa 2 bài song song nếu hệ thống cho phép; gặp 429/rate limit thì giảm về 1):
+# Xem trước prompt, không gọi Claude, không tốn tiền
+.\run-batch.ps1 -Ids chuyen-co-con,tinh-yeu-khong-noi-de-ve -DryRun
 
-0. Đọc slow-reads/rights_allowlist.json. URL không khớp → queue "skipped",
-   báo số lượng, KHÔNG hỏi người dùng và không chuyển sang dịch.
-   entry.mode quyết định "full" hay "excerpt"; chuyển mode này cho Claude.
-1. Xác nhận đúng repo: pwd là repo root và git remote -v là HexDino/DailyNews.
-2. Tải nguồn bằng script, không đọc/in nội dung:
-   python3 scripts/fetch_source.py "<url>" --id <id> --force
-   - Nếu thiếu dependency/network: chuyển URL cho Claude session để Claude tự fetch.
-   - Nếu fetch fail: queue "blocked", ghi lỗi, sang bài kế tiếp.
-3. Mở một Claude session mới trong đúng repo đó, gửi prompt TRANSLATE (khối 2)
-   với <id>, <url>, <mode>, <repo root>. Không dán source.txt/body vào chat hay prompt;
-   chỉ truyền đường dẫn.
-   - Chờ Claude kết thúc (timeout <T> phút). Fail/timeout: retry 1 lần, sau đó "blocked".
-   - Không có công cụ tạo session Claude hoặc thiếu quyền: dừng cả lô, báo người dùng.
-4. Khi Claude báo xong:
-   - slow-reads/articles/<id>.json tồn tại; id == tên file.
-   - source_stats.coverage == mode trong allowlist (full hoặc excerpt).
-   - python3 scripts/validate_slow_read.py --strict slow-reads/articles/<id>.json
-   Nếu fail: gửi nguyên văn lỗi lại cho chính Claude session đó, tối đa một vòng sửa;
-   không tự sửa file.
-5. Publish theo khối 3 (add_slow_read → validate --strict → commit → push → xác minh).
-6. Queue: "published" + SHA + URL live, hoặc "blocked"/"rejected" + lý do.
+# Chạy thật
+.\run-batch.ps1 -Ids chuyen-co-con,lam-viec-cham-chi-the-nao
 
-Không: tự dịch/tóm tắt thay Claude; dán body vào chat; sửa article JSON/source_stats;
-publish bài chưa qua validate --strict; đặt coverage "condensed" cho bài mới.
+# Bài mới, cache chưa có nguồn
+.\run-batch.ps1 -Ids bai-moi -Urls @{ 'bai-moi' = 'https://gutenberg.org/ebooks/1234' }
 ```
+
+Runner làm theo thứ tự:
+
+1. `rights_gate.py --mode <id>` → lấy `full` / `excerpt` / `skip` từ allowlist. `skip` thì dừng, không hỏi.
+2. Cache nguồn thiếu → tự chạy `fetch_source.py`.
+3. Sinh prompt theo đúng mode rồi chạy `claude -p --dangerously-skip-permissions`, tối đa `-MaxTries` lần, timeout `-TimeoutMin`.
+4. `validate_slow_read.py` **không** `--strict` — chỉ lỗi thật mới tính là fail. Warning "missing from index.json" là bình thường ở bước này.
+5. `rights_gate.py <file>` — gate không xanh thì không báo thành công.
+6. Tất cả xanh → `add_slow_read.py` + `validate_slow_read.py --strict` một lần ở cuối.
+
+Tham số: `-Repo` (mặc định `D:\Workspace\DailyNews`), `-MaxTries 2`, `-TimeoutMin 45`, `-MaxParallel 2` (số phiên `claude -p` song song), `-Claude` (đường dẫn CLI).
+
+Ghi log vào `C:\Users\hung1\dailynews-dich\batch-<timestamp>-status.txt` và `claude-<id>-<try>.log`.
+
+**Đừng** dùng lại `run-1028-b-runner.ps1` hay `runs/run1.ps1`: bản cũ validate `--strict` trước khi rebuild index nên bài nào cũng báo FAIL, hardcode "FULL translation" bất kể allowlist, và không có gate.
 
 ## Lưu ý
 

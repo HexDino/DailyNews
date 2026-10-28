@@ -18,10 +18,11 @@ For the fetch → translate → publish workflow (and the bot prompts), see [SLO
    Add `--coverage condensed` only for an intentionally abridged legacy post.
 4. Run:
    ```bash
+   python3 scripts/rights_gate.py slow-reads/articles/<id>.json
    python3 scripts/add_slow_read.py
    python3 scripts/validate_slow_read.py --strict
    ```
-   `add_slow_read.py` rebuilds `slow-reads/articles/index.json` (list metadata only — full text stays in each article file).
+   `rights_gate.py` checks the allowlist: `coverage: full` needs a `basis` that permits derivative works (`public-domain`, `CC-BY*` without ND/NC, or `user-confirmed-permission` with `evidence`). `add_slow_read.py` rebuilds `slow-reads/articles/index.json` (list metadata only — full text stays in each article file).
 5. Commit `slow-reads/articles/<id>.json` and `slow-reads/articles/index.json`, then push `main`.
 
 Do **not** edit `index.json` by hand; the script is the source of truth for the list.
@@ -114,6 +115,23 @@ Validation rules:
 - `coverage: "excerpt"`: fatal when the body exceeds 8 blocks, 1800 characters, or 50% of source length; must keep `source_url`.
 - Block and heading counts are informational (paragraph merging and sentence splitting vary by language).
 - `coverage: "condensed"`: all coverage metrics are informational; schema checks still apply.
+
+## Licence gate (`scripts/rights_gate.py`)
+
+Schema validity is not permission to publish. A translation is a derivative work, so `coverage: "full"` and `"condensed"` additionally require an allowlist entry that permits derivatives:
+
+| `basis` | full / condensed |
+| --- | --- |
+| `public-domain` | allowed |
+| `CC-BY`, `CC-BY-SA`, `CC-BY-4.0`… | allowed (attribution; SA also share-alike) |
+| `CC-BY-ND`, `CC-BY-NC`, `CC-BY-NC-ND` | **blocked** — ND/NC forbid the derivative |
+| `user-confirmed-permission` + `evidence` | allowed |
+| `user-confirmed-permission`, no `evidence` | warning only, CI passes |
+| `excerpt-only` | **blocked** |
+
+`coverage: "excerpt"` needs any allowlist entry and must keep `source_url`. The gate also rejects an article whose `source_stats.url` host differs from `source_url`, and any entry past its `expires_at`. CI runs it before deploy, so a full translation of a protected source cannot reach the live site.
+
+`python3 scripts/rights_gate.py --mode <id>` prints the resolved `full` / `excerpt` / `skip` for an article id — the runner uses it to pick the right prompt.
 
 ## Topics
 

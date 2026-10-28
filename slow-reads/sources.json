@@ -452,11 +452,11 @@
         "Tư duy & khoa học"
       ],
       "lang": "en",
-      "rss": null,
+      "rss": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
       "fetch": "static",
       "quality": 95,
-      "max_per_week": 1,
-      "notes": "Public-domain books; separate queue, cap length."
+      "max_per_week": 2,
+      "notes": "Public domain: full translation allowed. RSS lists only today's uploads, so the curated catalogue in slow-reads/public-domain.json is the real discovery path — run scripts/discover_pd.py."
     },
     {
       "id": "standard-ebooks",
@@ -466,11 +466,11 @@
         "Tư duy & khoa học"
       ],
       "lang": "en",
-      "rss": null,
+      "rss": "https://standardebooks.org/feeds/atom/new-releases",
       "fetch": "static",
       "quality": 95,
-      "max_per_week": 1,
-      "notes": "Public-domain ebooks; separate queue, cap length."
+      "max_per_week": 2,
+      "notes": "Public domain: full translation allowed. Atom feed carries the 15 newest releases; the full feed needs auth, so use the catalogue for backlist."
     },
     {
       "id": "farnam-street",
