@@ -21,7 +21,9 @@ Grok Bot là app chat trên desktop — nó **không** chạy được script, k
 
 Prompt cấu hình vai trò Grok: [`GROK_ROLE.md`](GROK_ROLE.md). Prompt này thay cho hai khối "Grok — discovery" và "Grok — publish" bên dưới, vốn giả định Grok chạy được lệnh.
 
-**Automation đang chạy**: mỗi Chủ nhật 07:00, WorkBuddy chọn tác phẩm public domain ngắn nhất chưa dịch (≤25.000 từ), dịch, chạy `validate --strict` + `rights_gate`, rồi commit và push. Một lượt = một tác phẩm. Đổi tần suất trong phần Automations của WorkBuddy.
+**Automation đang chạy**: mỗi ngày 07:00, WorkBuddy chọn tác phẩm public domain ngắn nhất chưa dịch (≤25.000 từ, nới lên ≤50.000 nếu bậc đầu rỗng), dịch, chạy `validate --strict` + `rights_gate`, rồi commit và push. Một lượt = một tác phẩm. Đổi tần suất trong phần Automations của WorkBuddy.
+
+Nhịp ngày cần catalogue đủ dày: hiện có 9 tác phẩm ≤25.000 từ và 16 tác phẩm ≤50.000 từ, tức khoảng 16 ngày rồi cạn. Muốn chạy dài hạn thì bổ sung `slow-reads/public-domain.json` trước — mỗi entry cần một `gutenberg_id` đã đối chiếu Gutendex.
 
 `source_stats` là các con số đo nguồn (số từ/ký tự/đoạn/câu/heading + sha256), do `scripts/attach_source_stats.py` sinh ra. Nó cho phép CI kiểm độ phủ bản dịch mà **không cần** đưa nội dung nguồn lên repo.
 
