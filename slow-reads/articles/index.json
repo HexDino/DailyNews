@@ -47,6 +47,23 @@
       "coverage": "excerpt"
     },
     {
+      "id": "oxford-street-cho-nguoi-di-bo",
+      "title": "Oxford Street: 50 năm để trả lại một con phố cho người đi bộ",
+      "title_original": "Everyone hates Oxford Street. Will pedestrianisation save it?",
+      "author": "Dan Hancox",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/news/2026/oct/22/everyone-hates-oxford-street-will-pedestrianisation-save-it",
+      "lang": "en",
+      "topics": [
+        "Con người",
+        "Tư duy & khoa học"
+      ],
+      "summary": "Con phố mua sắm đông nhất châu Âu vừa cấm xe. Nhưng câu hỏi thật không phải là chặn ô tô, mà là làm sao để người ta chịu dừng lại ở một nơi ai cũng ghét.",
+      "added": "2026-10-28",
+      "reading_minutes": 3,
+      "coverage": "summary"
+    },
+    {
       "id": "marcus-aurelius-may-man-trong-van-rui",
       "title": "Marcus Aurelius và chuyện may mắn nằm trong vận rủi",
       "title_original": "Marcus Aurelius on the Good Luck of Your Bad Luck",

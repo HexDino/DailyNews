@@ -1,0 +1,39 @@
+{
+  "id": "oxford-street-cho-nguoi-di-bo",
+  "title": "Oxford Street: 50 năm để trả lại một con phố cho người đi bộ",
+  "title_original": "Everyone hates Oxford Street. Will pedestrianisation save it?",
+  "author": "Dan Hancox",
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/news/2026/oct/22/everyone-hates-oxford-street-will-pedestrianisation-save-it",
+  "lang": "en",
+  "topics": ["Con người", "Tư duy & khoa học"],
+  "summary": "Con phố mua sắm đông nhất châu Âu vừa cấm xe. Nhưng câu hỏi thật không phải là chặn ô tô, mà là làm sao để người ta chịu dừng lại ở một nơi ai cũng ghét.",
+  "added": "2026-10-28",
+  "reading_minutes": 3,
+  "body": [
+    { "type": "p", "text": "Ngày 26/10, nửa con phố Oxford Street dài 1,2 dặm đóng cửa với mọi loại xe: ô tô, taxi, buýt, xe đạp, scooter. Chỉ người đi bộ và xe cứu thương được vào. Đây là thay đổi lớn nhất của trung tâm London kể từ khi Quảng trường Trafalgar được cải tạo năm 2003, và là dấu ấn chính trong nhiệm kỳ thị trưởng Sadiq Khan." },
+    { "type": "p", "text": "Nhưng bài báo đặt câu hỏi khó hơn: chặn ô tô là việc dễ, biến con phố thành nơi người ta muốn ở lại là việc khác." },
+    { "type": "h2", "text": "Nghịch lý của con phố nổi tiếng nhất" },
+    { "type": "p", "text": "Oxford Street tiếp hơn 500.000 lượt khách mỗi ngày và tạo khoảng 5% sản lượng kinh tế thủ đô. Vậy mà suốt thời gian viết bài, tác giả không gặp ai dám nhận mình thích nó. Ai cũng đến, mua, rồi rút, vì đám đông, tiếng ồn và tội phạm." },
+    { "type": "p", "text": "Sự xuống cấp có số liệu: năm 2014, đây là nơi có nồng độ nitrogen dioxide cao nhất thế giới. Mặt bằng bỏ trống tăng từ 4,5% năm 2019 lên 16,9% đầu 2023, được lấp bằng cửa hàng kẹo Mỹ và quầy lưu niệm nghi trốn thuế. Năm 2024, chính Khan gọi tình trạng này là \"suy tàn được quản lý\"." },
+    { "type": "h2", "text": "Nửa thế kỷ mắc kẹt" },
+    { "type": "p", "text": "Ý tưởng cấm xe có từ lâu: năm 1971, 22 người bị bắt khi biểu tình đòi cấm ô tô, và năm sau chính quyền bắt đầu hạn chế xe tư nhân. Năm 2003, kiến trúc sư Jan Gehl khuyến nghị biến toàn tuyến thành phố đi bộ, nhưng phần cấp tiến bị gọt trước bầu cử và báo cáo đầy đủ bị giữ kín. Phải 22 năm sau mới thành hiện thực." },
+    { "type": "p", "text": "Trở ngại là chính trị. Năm 2018, một chiến dịch phản đối thắng hơn 1.000 phiếu, hội đồng Westminster rút lui, kế hoạch sụp đổ, 8 triệu bảng bị mất. Bước ngoặt đến khi quyền quy hoạch chuyển sang một tổ chức do thị trưởng lập — phe phản đối gọi đó là \"trơ trẽn đến sững sờ\"." },
+    { "type": "h2", "text": "Thiết kế chỗ để dừng chân" },
+    { "type": "p", "text": "Nhóm kiến trúc sư East lấy cảm hứng từ bài báo năm 1932 của Virginia Woolf, nơi bà ví con phố như dòng sông. Họ đưa vào cây non trong chậu, ghế ngồi, cột chắn bằng gang dẻo đặt cách nhau đúng 1,2 mét theo chuẩn chống xe tấn công. Ghế picnic gắn cảm biến đếm người ngồi và thời lượng ngồi; thử nghiệm kéo dài đến mùa xuân 2027." },
+    { "type": "p", "text": "Không phải ai cũng đồng ý. Hiệp hội tài xế taxi và nhóm bảo vệ quyền tiếp cận lo người già, người khuyết tật bị bỏ lại; cư dân Soho và Mayfair sợ xe bị dồn sang khu bảo tồn của họ. Dự án đáp rằng trạm buýt chỉ cách khoảng 200 mét." },
+    { "type": "p", "text": "Rủi ro lớn nhất là thành công nửa vời: một bẫy du khách như La Rambla ở Barcelona, nơi cư dân đã bỏ đi. Có cả nỗi lo an ninh rất cụ thể — đất trong chậu cây từng bị dùng giấu dao." },
+    { "type": "p", "text": "Kết luận của bài không phải lời hứa. Thành công là khách quay lại lần hai, là Soho và Marylebone cùng hưởng lợi. Với tác giả, thước đo giản dị hơn: lần tới Giáng sinh, người ta có thể ngẩng lên nhìn đèn mà không sợ bị xe cán." },
+    { "type": "p", "text": "*Bản tóm tắt — đọc toàn bài tại The Guardian.*" }
+  ],
+  "source_stats": {
+    "url": "https://www.theguardian.com/news/2026/oct/22/everyone-hates-oxford-street-will-pedestrianisation-save-it",
+    "coverage": "summary",
+    "word_count": 4337,
+    "char_count": 21845,
+    "paragraph_count": 42,
+    "sentence_count": 182,
+    "heading_count": 0,
+    "sha256": "07f968c90a5910f50b24b8fd3abdda7963585ebc9f3ca5e4311b7a359e4b01b1"
+  }
+}

@@ -182,6 +182,28 @@
       "published_at": "2026-10-28",
       "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=day-robot-hoc-viec",
       "published_sha": "10d2f4968abe12a7393b3a3c2e6a4637a3e94bd6"
+    },
+    {
+      "source_id": "guardian-long-read",
+      "url": "https://www.theguardian.com/news/2026/oct/22/everyone-hates-oxford-street-will-pedestrianisation-save-it",
+      "title": "Everyone hates Oxford Street. Will pedestrianisation save it?",
+      "author": "Dan Hancox",
+      "source": "The Guardian",
+      "lang": "en",
+      "topics_guess": [
+        "Con người",
+        "Tư duy & khoa học"
+      ],
+      "quality_score": 92,
+      "quality_reason": "Long read của Guardian, chủ đề đô thị và đời sống công cộng; nguồn trong allowlist.",
+      "est_words": 0,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-10-28",
+      "id": "oxford-street-cho-nguoi-di-bo",
+      "published_at": "2026-10-28",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=oxford-street-cho-nguoi-di-bo"
     }
   ]
 }
