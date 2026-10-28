@@ -1,0 +1,43 @@
+{
+  "id": "bau-cu-giong-chai-klein",
+  "title": "Bỏ phiếu giống chai Klein ở điểm nào",
+  "title_original": "How Voting Is Like a Klein Bottle",
+  "author": "Alex Stone",
+  "source": "Quanta Magazine",
+  "source_url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+  "lang": "en",
+  "topics": [
+    "Tư duy & khoa học"
+  ],
+  "summary": "Nghịch lý Condorcet từ năm 1785 cho thấy đa số có thể tự bỏ phiếu để rơi vào vòng luẩn quẩn. Ba nhà nghiên cứu vừa chỉ ra nghịch lý này có hình dạng hình học: một chai Klein.",
+  "added": "2026-10-28",
+  "reading_minutes": 1,
+  "source_stats": {
+    "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+    "coverage": "excerpt",
+    "word_count": 1650,
+    "char_count": 8492,
+    "paragraph_count": 49,
+    "sentence_count": 93,
+    "heading_count": 2,
+    "sha256": "5c566978c42291953308d020312abece1f2ec320924ed8760cbf55f4e0e38ee1"
+  },
+  "body": [
+    {
+      "type": "p",
+      "text": "Nói theo toán học, dân chủ gần như là điều bất khả."
+    },
+    {
+      "type": "p",
+      "text": "Nghe như tiền đề của một tập podcast dài sáu tiếng do một tỷ phú Thung lũng Silicon dẫn, nhưng thực ra đây là phát biểu về một bài toán cứng đầu đến lạ lùng: làm thế nào biến những ưu tiên của từng cá nhân trong một nhóm thành một lựa chọn chung duy nhất?"
+    },
+    {
+      "type": "p",
+      "text": "Năm 1785, nhà toán học kiêm triết gia người Pháp Nicolas de Condorcet phát hiện rằng đôi khi đa số có thể tự bỏ phiếu để rơi vào một vòng luẩn quẩn logic. Trong các cuộc bầu cử có từ ba ứng viên trở lên, mỗi cử tri có thể xếp hạng các ứng viên một cách hoàn toàn rõ ràng và nhất quán — vậy mà khi kiểm phiếu xong, ứng viên nào cũng thua một đối thủ nào đó trong cuộc đối đầu trực tiếp. Đổi luật chơi cũng chỉ đi được đến một mức: như nhà kinh tế học Kenneth Arrow sau này chứng minh, mọi phương pháp gộp các bảng xếp hạng cá nhân thành một thứ tự tập thể đều buộc phải hy sinh ít nhất một yêu cầu dân chủ tưởng chừng hợp lý."
+    },
+    {
+      "type": "p",
+      "text": "*Trích đoạn – đọc toàn bài tại [Quanta Magazine](https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/).*"
+    }
+  ]
+}

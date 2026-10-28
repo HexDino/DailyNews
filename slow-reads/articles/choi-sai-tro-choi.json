@@ -1,0 +1,44 @@
+{
+  "id": "choi-sai-tro-choi",
+  "title": "Chơi sai trò chơi",
+  "title_original": "Playing the Wrong Game",
+  "author": "Nick Maggiulli",
+  "source": "Of Dollars And Data",
+  "source_url": "https://ofdollarsanddata.com/playing-the-wrong-game/",
+  "lang": "en",
+  "topics": [
+    "Con người",
+    "Tâm lý"
+  ],
+  "summary": "Từ những cuộc thi nguy hiểm không có phần thưởng như Giải vô địch xông hơi, tác giả đặt câu hỏi về những cuộc chơi địa vị mà cái giá phải trả chỉ lộ ra muộn. Ông nhìn lại 10 năm theo đuổi nội dung và lượng người theo dõi sau khi làm cha.",
+  "added": "2026-10-28",
+  "reading_minutes": 1,
+  "source_stats": {
+    "url": "https://ofdollarsanddata.com/playing-the-wrong-game/",
+    "coverage": "excerpt",
+    "word_count": 1143,
+    "char_count": 5402,
+    "paragraph_count": 29,
+    "sentence_count": 77,
+    "heading_count": 0,
+    "sha256": "cfd42018c84a5a7a0c6879f81bb746e2260dac134c073875bf7d3be4d291ed87"
+  },
+  "body": [
+    {
+      "type": "p",
+      "text": "Vài tháng trước, tôi thấy một dòng tweet về Giải vô địch xông hơi thế giới, kể rằng đàn ông có thể tự đẩy mình đến sát bờ vực cái chết chỉ để giành chiến thắng, dù chẳng có phần thưởng hữu hình nào. Như tác giả dòng tweet nhận xét:"
+    },
+    {
+      "type": "quote",
+      "text": "Điều này thú vị với tôi vì nó là thêm một bằng chứng cho thấy: hễ bạn đặt ra một bộ luật chơi… dù nó vô lý đến đâu, dù nhóm người tham gia nhỏ đến mức nào, dù nguy cơ tử vong cực lớn và hoàn toàn không có giải thưởng, thì vẫn luôn có những người đàn ông sẵn sàng thi đấu đến mức tự giết mình…"
+    },
+    {
+      "type": "quote",
+      "text": "Nó giống như việc bộ não tiến hóa bị chiếm quyền điều khiển: chẳng có động cơ nào hợp lý, nhưng chuyện vẫn xảy ra. Bạn có thể tìm thấy cả triệu ví dụ như vậy cho mọi thú vui của đàn ông trên hành tinh này. Chỉ riêng việc bước chân vào một con đường đã trao cho nó ý nghĩa trong mắt người đó; và càng bị vây quanh bởi những người đàn ông cùng quan tâm đến điều ấy, càng học hỏi và cạnh tranh, họ càng bị cuốn vào, cho đến khi bản sắc của họ bị nuốt trọn và những chuyện như các ca tử vong trong phòng xông hơi xảy ra."
+    },
+    {
+      "type": "p",
+      "text": "*Trích đoạn – đọc toàn bài tại ofdollarsanddata.com.*"
+    }
+  ]
+}

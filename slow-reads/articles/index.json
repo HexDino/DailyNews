@@ -12,6 +12,22 @@
   ],
   "articles": [
     {
+      "id": "tra-tien-cho-dua-tre-tot-nhat",
+      "title": "Trả tiền cho đứa trẻ tốt nhất?",
+      "title_original": "Would you pay to have the ‘best baby’? Liberal eugenics and the troubling quest for human perfection",
+      "author": "Jan Grue",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection",
+      "lang": "en",
+      "topics": [
+        "Con người",
+        "Tư duy & khoa học"
+      ],
+      "summary": "Một người sống với chứng teo cơ tuỷ sống kể về giấc mơ được “chữa khỏi” và câu hỏi đáng lo về việc chọn lọc phôi để có “đứa trẻ tốt nhất”.",
+      "added": "2026-10-28",
+      "reading_minutes": 1
+    },
+    {
       "id": "tinh-yeu-khong-noi-de-ve",
       "title": "Tình yêu không nơi để về",
       "title_original": "We need a language to name the grief that comes without death",
@@ -45,6 +61,22 @@
       "reading_minutes": 2
     },
     {
+      "id": "lo-au-lam-sang-khac-biet",
+      "title": "Ai cũng nói mình lo âu, nhưng lo âu lâm sàng là chuyện khác",
+      "title_original": "Everyone says they have anxiety. Clinical anxiety is different",
+      "author": "India Sturgis",
+      "source": "Psyche_The_Mag",
+      "source_url": "https://psyche.co/ideas/everyone-says-they-have-anxiety-clinical-anxiety-is-different",
+      "lang": "en",
+      "topics": [
+        "Tâm lý",
+        "Con người"
+      ],
+      "summary": "Những từ như “lo âu”, “ám ảnh” hay “sang chấn” đang bị dùng tràn lan cho cả những khó chịu thường ngày, khiến ta dễ xem nhẹ mức độ suy nhược của các rối loạn lo âu thật sự.",
+      "added": "2026-10-28",
+      "reading_minutes": 1
+    },
+    {
       "id": "khi-hien-tai-an-mon-tuong-lai",
       "title": "Khi hiện tại ăn mòn tương lai",
       "title_original": "When The Present Eats The Future",
@@ -75,6 +107,37 @@
       "summary": "AI ngôn ngữ lớn lên nhờ kho chữ khổng lồ trên mạng, còn robot thì chẳng có kho dữ liệu nào tương tự. Bài viết điểm qua các cách thu dữ liệu cho robot, so sánh quy mô với AI ngôn ngữ và ước tính cái giá phải trả.",
       "added": "2026-10-28",
       "reading_minutes": 2
+    },
+    {
+      "id": "choi-sai-tro-choi",
+      "title": "Chơi sai trò chơi",
+      "title_original": "Playing the Wrong Game",
+      "author": "Nick Maggiulli",
+      "source": "Of Dollars And Data",
+      "source_url": "https://ofdollarsanddata.com/playing-the-wrong-game/",
+      "lang": "en",
+      "topics": [
+        "Con người",
+        "Tâm lý"
+      ],
+      "summary": "Từ những cuộc thi nguy hiểm không có phần thưởng như Giải vô địch xông hơi, tác giả đặt câu hỏi về những cuộc chơi địa vị mà cái giá phải trả chỉ lộ ra muộn. Ông nhìn lại 10 năm theo đuổi nội dung và lượng người theo dõi sau khi làm cha.",
+      "added": "2026-10-28",
+      "reading_minutes": 1
+    },
+    {
+      "id": "bau-cu-giong-chai-klein",
+      "title": "Bỏ phiếu giống chai Klein ở điểm nào",
+      "title_original": "How Voting Is Like a Klein Bottle",
+      "author": "Alex Stone",
+      "source": "Quanta Magazine",
+      "source_url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+      "lang": "en",
+      "topics": [
+        "Tư duy & khoa học"
+      ],
+      "summary": "Nghịch lý Condorcet từ năm 1785 cho thấy đa số có thể tự bỏ phiếu để rơi vào vòng luẩn quẩn. Ba nhà nghiên cứu vừa chỉ ra nghịch lý này có hình dạng hình học: một chai Klein.",
+      "added": "2026-10-28",
+      "reading_minutes": 1
     },
     {
       "id": "vong-xoay-ai-boc-lot-nguoi",
