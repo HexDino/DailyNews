@@ -17,6 +17,32 @@ Phần Slow Reads giờ đã có hai automation của WorkBuddy tự chạy — 
 
 Vì tác phẩm public domain đã do catalogue tự động xử lý, **đừng đề xuất sách Gutenberg hay Standard Ebooks** — chúng không cần Grok tìm.
 
+## Đường đi của đề xuất — chỗ này dễ đứt
+
+Grok chạy trong sandbox riêng. Đường dẫn nó ghi (`/workspace/newspaper/slow-reads-proposals/<ngày>.json`) **không tồn tại trên máy này**, nên automation không đọc được. Đã kiểm tra: không có `/workspace`, không có thư mục `newspaper`.
+
+Nên chuỗi phải có một bước bắc cầu:
+
+```
+Grok (sandbox)                    máy này                              automation
+proposals/<ngày>.json   ──►   .cache/proposals/<ngày>.json   ──►   import_proposals.py
+(bạn copy ra)                  (bạn lưu file)                        ──► queue.json
+                                                                     ──► tóm tắt + publish
+```
+
+**Việc bạn cần làm:** copy JSON Grok trả về, lưu thành một file bất kỳ trong `D:\Workspace\DailyNews\.cache\proposals\`. Tên file không quan trọng, chỉ cần đuôi `.json`.
+
+Hoặc nếu lười mở file:
+
+```powershell
+# dán JSON vào clipboard rồi chạy
+Get-Clipboard | .venv\Scripts\python.exe scripts/import_proposals.py -
+```
+
+Automation tóm tắt (19:00 thứ Hai/Tư/Sáu) tự chạy `import_proposals.py --dir .cache/proposals` ở bước đầu, nên bạn chỉ cần lưu file là xong. Sau khi import, file vẫn nằm đó — script dedupe nên chạy lại không sinh trùng. Thỉnh thoảng dọn thư mục là được.
+
+`import_proposals.py` **không tin Grok**. Nó kiểm lại: domain phải có trong allowlist, URL/title không được trùng thư viện hay queue, `quality_score` phải ≥75, tối đa 1 bài/nguồn và 1 bài/tác giả mỗi lượt. Đề xuất sai bị loại im lặng kèm lý do.
+
 ---
 
 ## LUẬT
@@ -87,7 +113,8 @@ nội dung bài.
 Bạn được đọc: tiêu đề, tác giả, ngày đăng, mô tả ngắn của feed (≤280 ký tự).
 Bạn KHÔNG được: tải toàn văn, tóm tắt nội dung, trích quá một câu, dịch bất cứ thứ gì.
 
-Đầu ra: JSON array thuần, không markdown, không giải thích:
+Đầu ra: MỘT khối JSON array duy nhất, không markdown bao ngoài, không giải thích
+trước hay sau — để người dùng copy được nguyên khối vào một file .json:
 [
   { "source_id": "aeon", "url": "https://...", "title": "tiêu đề gốc",
     "author": "tên tác giả hoặc \"\"", "source": "tên trang", "lang": "en",

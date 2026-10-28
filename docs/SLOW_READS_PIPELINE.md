@@ -26,7 +26,11 @@ Prompt cấu hình vai trò Grok: [`GROK_ROLE.md`](GROK_ROLE.md). Prompt này th
 | Lịch | Việc | Tần suất |
 | --- | --- | --- |
 | 07:00 | Dịch **toàn văn** một tác phẩm public domain (≤25.000 từ, nới ≤50.000 nếu bậc đầu rỗng) | hằng ngày |
-| 19:00 | Viết **tóm tắt** 250–600 từ cho một bài đương đại lấy từ queue hoặc RSS | thứ Hai, Tư, Sáu |
+| 19:00 | Viết **tóm tắt** 250–600 từ cho một bài đương đại | thứ Hai, Tư, Sáu |
+
+Automation tóm tắt chạy `scripts/import_proposals.py --dir .cache/proposals` trước khi chọn bài, nên đề xuất link của Grok được nạp vào queue tự động — với điều kiện bạn đã lưu JSON của Grok thành file trong thư mục đó (Grok ghi vào sandbox riêng, máy này không đọc được). Xem [`GROK_ROLE.md`](GROK_ROLE.md).
+
+`import_proposals.py` kiểm lại mọi thứ: domain phải có trong allowlist, không trùng thư viện/queue, `quality_score` ≥75, tối đa 1 bài/nguồn và 1 bài/tác giả mỗi lượt. Không có file nào thì nó thoát 0 và automation đi tiếp bằng `discover_rss.py`.
 
 Cả hai đều dừng nếu `validate --strict` hoặc `rights_gate` báo lỗi. Đổi tần suất trong phần Automations của WorkBuddy.
 
