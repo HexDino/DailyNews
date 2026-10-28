@@ -3,7 +3,7 @@
 Pipeline tách việc lấy nguồn, dịch và đăng bài thành ba chặng độc lập. Mục tiêu: bước tìm nguồn **không phải tái tạo nguyên văn** nội dung có bản quyền, nên không bị giới hạn "chỉ trích dẫn ngắn"; bản dịch do Claude thực hiện từ file nguồn; bước publish chỉ chạy lệnh kiểm tra rồi commit.
 
 ```
-discovery (Grok/người)   scripts/fetch_source.py        Claude (translate)         run-batch.ps1 (publish)
+discovery (RSS/người)     scripts/fetch_source.py        Claude (translate)         run-batch.ps1 (publish)
 URL + metadata    ──►    source.txt + meta.json   ──►   articles/<id>.json   ──►   validate + gate + commit
 (không body)             (.cache, không commit)         + source_stats (số đo)     (không đọc body)
 ```
@@ -20,7 +20,7 @@ Grok Bot là app chat trên desktop — nó **không** chạy được script, k
 | Tìm bài cho Slow Reads (RSS) | WorkBuddy, tự động |
 | Build PDF, rebuild index, deploy | WorkBuddy (hoặc người dùng) |
 
-Prompt cấu hình vai trò Grok: [`GROK_ROLE.md`](GROK_ROLE.md). Prompt này thay cho hai khối "Grok — discovery" và "Grok — publish" bên dưới, vốn giả định Grok chạy được lệnh.
+Prompt cấu hình vai trò Grok (chỉ soạn số báo và gửi link): [`GROK_ROLE.md`](GROK_ROLE.md). Grok **không** nằm trong pipeline Slow Reads.
 
 **Automation đang chạy**: hai lịch, cả hai đều tự commit và push.
 
@@ -90,7 +90,7 @@ Status thực dùng: `candidate` → `published`. Các trạng thái `rights_app
 
 `rights_note` **không phải giấy phép**. Nó chỉ ghi rằng người dùng tự chấp nhận rủi ro. Quyền publish do `rights_allowlist.json` quyết định và do `scripts/rights_gate.py` cưỡng chế.
 
-Allowlist: `slow-reads/rights_allowlist.json` (commit). `default: "skip"`; Grok chỉ xử lý URL khớp `match` (`domain:`, `url:` hoặc `path:`). Không khớp thì bỏ qua im lặng, ghi `skipped`, không hỏi người dùng.
+Allowlist: `slow-reads/rights_allowlist.json` (commit). `default: "skip"`; chỉ xử lý URL khớp `match` (`domain:`, `url:` hoặc `path:`). Không khớp thì bỏ qua im lặng, ghi `skipped`, không hỏi người dùng.
 
 ```json
 {
@@ -252,48 +252,9 @@ python3 scripts/validate_slow_read.py --strict
 
 ## Prompt cho bot
 
-Các khối dưới đây là hợp đồng giữa các bước. Grok soạn prompt, người dùng chạy. Chỗ `<...>` là biến cần điền.
+Hai khối dưới là hợp đồng cho lượt chạy tay. Automation của WorkBuddy dùng cùng quy tắc; xem mục "Phân chia nhiệm vụ" ở đầu file. Chỗ `<...>` là biến cần điền.
 
-### 1. Grok — discovery
-
-```text
-VAI TRÒ: DISCOVERY cho thư viện Slow Reads của Daily News.
-Bạn KHÔNG dịch, KHÔNG tóm tắt, KHÔNG trích nguyên văn nội dung bài.
-
-Nguồn: chạy
-python3 scripts/discover_rss.py --limit 30 --days 60 --out .cache/candidates.json
-Chỉ chọn từ file này. Với nguồn rss:null trong slow-reads/sources.json, chỉ đề xuất
-khi người dùng đã duyệt URL cụ thể. Không tự tìm web tự do; nguồn mới phải được
-người dùng duyệt rồi thêm vào sources.json. Publish chỉ khi URL khớp
-slow-reads/rights_allowlist.json; không khớp → skipped, không hỏi.
-
-Đầu ra: CHỈ một JSON array, không markdown, không giải thích:
-[
-  {
-    "source_id": "aeon",
-    "url": "https://...",
-    "title": "tiêu đề gốc",
-    "author": "tên tác giả hoặc \"\"",
-    "source": "tên trang",
-    "lang": "en",
-    "topics_guess": ["Tư duy & khoa học"],
-    "quality_score": 0,
-    "quality_reason": "một câu",
-    "est_words": 0,
-    "fetch": "rss+static|static|js"
-  }
-]
-
-Quy tắc:
-- Tối đa <N> bài/lượt; ít nhất 3 chủ đề khác nhau; tối đa 1 bài/nguồn, 1 bài/tác giả.
-- Chỉ nhận quality_score >= 75; ưu tiên rss+static.
-- Dedupe với slow-reads/articles/index.json và slow-reads/queue.json.
-- topics_guess chọn từ: Con người, Tình yêu, Sự nghiệp, Đối nhân xử thế, Tiền bạc, Tâm lý, Tư duy & khoa học, Stoicism.
-- Không bịa title/author; không rõ thì để "".
-- Không trả về nội dung bài, không trích quá một câu.
-```
-
-### 2. Claude — translate
+### 1. Translate — hợp đồng nội dung
 
 ```text
 VAI TRÒ: TRANSLATE cho thư viện Slow Reads của Daily News.
@@ -337,38 +298,9 @@ Nếu `rights_gate.py` chặn: dừng, báo lại mode và basis. Không đổi 
 Báo cáo: đường dẫn file, mode, số block, số từ, coverage, kết quả validate + gate.
 ```
 
-### 3. Grok — publish
+### 2. Runner — `run-batch.ps1`
 
-```text
-VAI TRÒ: PUBLISH cho thư viện Slow Reads của Daily News.
-Bạn nhận một file slow-reads/articles/<id>.json đã dịch và validate xong.
-Bạn KHÔNG đọc/in nội dung body, KHÔNG sửa bản dịch, KHÔNG dịch lại.
-
-Đọc allowlist: mode của domain phải khớp source_stats.coverage
-(full ↔ full, excerpt ↔ excerpt). Lệch → dừng, báo lỗi; không tự sửa.
-
-Chạy tuần tự, dừng ngay nếu một lệnh thất bại:
-1. python3 scripts/validate_slow_read.py slow-reads/articles/<id>.json
-2. python3 scripts/rights_gate.py slow-reads/articles/<id>.json
-3. python3 scripts/add_slow_read.py
-4. python3 scripts/validate_slow_read.py --strict
-5. git add slow-reads/articles/<id>.json slow-reads/articles/index.json
-6. git commit -m "Add Slow Reads article <id>"
-7. git push origin main
-
-Nếu bước 1-4 báo lỗi: dừng, gửi nguyên văn lỗi cho người dịch. Không tự sửa nội dung, không tự thêm/sửa source_stats, không đặt coverage "condensed" để né cảnh báo, không sửa allowlist để qua gate.
-
-Sau khi push, xác minh:
-- git rev-parse HEAD và git rev-parse origin/main giống nhau.
-- Workflow "Deploy GitHub Pages" chạy xanh (chờ 1-2 phút nếu cần).
-- Mở https://hexdino.github.io/DailyNews/slow-reads/articles/index.json và xác nhận có "id": "<id>".
-
-Báo cáo cuối: commit SHA, tổng số bài trong index, URL live của thư viện, lỗi còn tồn (nếu có).
-```
-
-### 4. Runner — `run-batch.ps1` (không phải Grok)
-
-**Grok không gọi Claude.** Grok Bot là app chat trên desktop; nó không có quyền chạy script, không có scheduled task, không đọc repo. Việc orchestration do `C:\Users\hung1\dailynews-dich\run-batch.ps1` làm, chạy tay.
+**Không có con bot nào tự chạy việc này.** Việc orchestration do `C:\Users\hung1\dailynews-dich\run-batch.ps1` làm, chạy tay.
 
 ```powershell
 cd C:\Users\hung1\dailynews-dich
