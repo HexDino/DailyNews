@@ -76,6 +76,95 @@
       "status": "candidate",
       "rights_note": "user-accepted",
       "added_at": "2026-10-27"
+    },
+    {
+      "source_id": "aeon",
+      "url": "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death",
+      "title": "Love with nowhere to go",
+      "author": "Derek van Zoonen",
+      "source": "Aeon",
+      "lang": "en",
+      "topics_guess": [
+        "Con người",
+        "Tâm lý",
+        "Tình yêu"
+      ],
+      "quality_score": 92,
+      "quality_reason": "Giữ mức nền của registry; bài tiểu luận dài, đúng chủ đề.",
+      "est_words": 0,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-10-28",
+      "id": "tinh-yeu-khong-noi-de-ve",
+      "published_at": "2026-10-28",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=tinh-yeu-khong-noi-de-ve"
+    },
+    {
+      "source_id": "marginalian",
+      "url": "https://www.themarginalian.org/2026/10/27/marcus-aurelius-luck/",
+      "title": "Marcus Aurelius on the Good Luck of Your Bad Luck",
+      "author": "Maria Popova",
+      "source": "The Marginalian",
+      "lang": "en",
+      "topics_guess": [
+        "Stoicism",
+        "Con người"
+      ],
+      "quality_score": 90,
+      "quality_reason": "Giữ mức nền của registry; bài tiểu luận dài, đúng chủ đề.",
+      "est_words": 0,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-10-28",
+      "id": "marcus-aurelius-may-man-trong-van-rui",
+      "published_at": "2026-10-28",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=marcus-aurelius-may-man-trong-van-rui"
+    },
+    {
+      "source_id": "noema",
+      "url": "https://www.noemamag.com/when-the-present-eats-the-future",
+      "title": "When The Present Eats The Future",
+      "author": "Nathan Gardels",
+      "source": "Noema",
+      "lang": "en",
+      "topics_guess": [
+        "Tư duy & khoa học",
+        "Đối nhân xử thế"
+      ],
+      "quality_score": 88,
+      "quality_reason": "Giữ mức nền của registry; bài tiểu luận dài, đúng chủ đề.",
+      "est_words": 0,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-10-28",
+      "id": "khi-hien-tai-an-mon-tuong-lai",
+      "published_at": "2026-10-28",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=khi-hien-tai-an-mon-tuong-lai"
+    },
+    {
+      "source_id": "construction-physics",
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "title": "How to Train Your Robot",
+      "author": "Brian Potter",
+      "source": "Construction Physics",
+      "lang": "en",
+      "topics_guess": [
+        "Tư duy & khoa học",
+        "Sự nghiệp"
+      ],
+      "quality_score": 88,
+      "quality_reason": "Giữ mức nền của registry; bài tiểu luận dài, đúng chủ đề.",
+      "est_words": 0,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-10-28",
+      "id": "day-robot-hoc-viec",
+      "published_at": "2026-10-28",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=day-robot-hoc-viec"
     }
   ]
 }

@@ -12,6 +12,71 @@
   ],
   "articles": [
     {
+      "id": "tinh-yeu-khong-noi-de-ve",
+      "title": "Tình yêu không nơi để về",
+      "title_original": "We need a language to name the grief that comes without death",
+      "author": "Derek van Zoonen",
+      "source": "Aeon",
+      "source_url": "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death",
+      "lang": "en",
+      "topics": [
+        "Con người",
+        "Tâm lý",
+        "Tình yêu"
+      ],
+      "summary": "Nỗi đau mất mát không chỉ đến khi có người qua đời. Từ chuyện mẹ, cha và một mối tình đã mất, triết gia Derek van Zoonen cho rằng ta cần một ngôn ngữ để gọi tên thứ đau buồn không có đám tang.",
+      "added": "2026-10-28",
+      "reading_minutes": 20
+    },
+    {
+      "id": "marcus-aurelius-may-man-trong-van-rui",
+      "title": "Marcus Aurelius và chuyện may mắn nằm trong vận rủi",
+      "title_original": "Marcus Aurelius on the Good Luck of Your Bad Luck",
+      "author": "Maria Popova",
+      "source": "The Marginalian",
+      "source_url": "https://www.themarginalian.org/2026/10/27/marcus-aurelius-luck/",
+      "lang": "en",
+      "topics": [
+        "Stoicism",
+        "Con người"
+      ],
+      "summary": "Giữa thời người ta đem nỗi đau ra thi với nhau, Marcus Aurelius nhắc rằng điều đáng trân trọng không phải chuyện xui đã xảy đến, mà là việc ta vẫn giữ được mình trước nó.",
+      "added": "2026-10-28",
+      "reading_minutes": 4
+    },
+    {
+      "id": "khi-hien-tai-an-mon-tuong-lai",
+      "title": "Khi hiện tại ăn mòn tương lai",
+      "title_original": "When The Present Eats The Future",
+      "author": "Nathan Gardels",
+      "source": "NOEMA",
+      "source_url": "https://www.noemamag.com/when-the-present-eats-the-future",
+      "lang": "en",
+      "topics": [
+        "Tư duy & khoa học",
+        "Đối nhân xử thế"
+      ],
+      "summary": "Các nền dân chủ tiêu dùng thiếu hẳn một “khu vực bầu cử” cho tương lai, trong khi Trung Quốc vừa lo cho hiện tại vừa nắm trọn các ngành của tương lai. Nathan Gardels hỏi: phương Tây có thể học được gì mà không đánh đổi tự do?",
+      "added": "2026-10-28",
+      "reading_minutes": 7
+    },
+    {
+      "id": "day-robot-hoc-viec",
+      "title": "Dạy robot học việc: dữ liệu huấn luyện lấy từ đâu ra?",
+      "title_original": "How to Train Your Robot",
+      "author": "Brian Potter",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "lang": "en",
+      "topics": [
+        "Tư duy & khoa học",
+        "Sự nghiệp"
+      ],
+      "summary": "AI ngôn ngữ lớn lên nhờ kho chữ khổng lồ trên mạng, còn robot thì chẳng có kho dữ liệu nào tương tự. Bài viết điểm qua các cách thu dữ liệu cho robot, so sánh quy mô với AI ngôn ngữ và ước tính cái giá phải trả.",
+      "added": "2026-10-28",
+      "reading_minutes": 15
+    },
+    {
       "id": "vong-xoay-ai-boc-lot-nguoi",
       "title": "Vòng xoáy AI “bóc lột” người",
       "title_original": "",

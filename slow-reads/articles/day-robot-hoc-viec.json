@@ -1,0 +1,191 @@
+{
+  "id": "day-robot-hoc-viec",
+  "title": "Dạy robot học việc: dữ liệu huấn luyện lấy từ đâu ra?",
+  "title_original": "How to Train Your Robot",
+  "author": "Brian Potter",
+  "source": "Construction Physics",
+  "source_url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+  "lang": "en",
+  "topics": [
+    "Tư duy & khoa học",
+    "Sự nghiệp"
+  ],
+  "summary": "AI ngôn ngữ lớn lên nhờ kho chữ khổng lồ trên mạng, còn robot thì chẳng có kho dữ liệu nào tương tự. Bài viết điểm qua các cách thu dữ liệu cho robot, so sánh quy mô với AI ngôn ngữ và ước tính cái giá phải trả.",
+  "added": "2026-10-28",
+  "reading_minutes": 15,
+  "source_stats": {
+    "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+    "coverage": "full",
+    "word_count": 3597,
+    "char_count": 18138,
+    "paragraph_count": 40,
+    "sentence_count": 118,
+    "heading_count": 3,
+    "sha256": "9ccd9fb71861a8d12c5d15f1528a686652b58c27646ffbf2a5325d2f977652cd"
+  },
+  "body": [
+    {
+      "type": "p",
+      "text": "Những bước tiến vượt bậc của AI trong vài năm qua phần lớn nhờ có lượng dữ liệu huấn luyện khổng lồ. Bài luận có sức ảnh hưởng của Gwern năm 2020, “The Scaling Hypothesis” (Giả thuyết về quy mô), viết ngay sau khi GPT-3 ra mắt, cho rằng AI tiến bộ là nhờ quy mô: mô hình lớn hơn, bộ dữ liệu lớn hơn, và nhiều sức tính toán hơn dành cho việc huấn luyện. Gwern viết:"
+    },
+    {
+      "type": "quote",
+      "text": "Giả thuyết về quy mô coi những lợi ích của quy mô là bí quyết dẫn tới AGI: trí tuệ “chỉ” là các đơn vị nơ-ron đơn giản và các thuật toán học, được áp dụng lên những trải nghiệm đa dạng ở một quy mô mà hiện nay ta chưa với tới được. Khi sức tính toán ngày càng tăng cho phép chạy các thuật toán ấy ở quy mô cần thiết, mạng nơ-ron sẽ ngày càng thông minh hơn.",
+      "cite": "Gwern"
+    },
+    {
+      "type": "p",
+      "text": "Nhà nghiên cứu AI dùng bút danh Nostalgebraist cũng viết năm 2024 rằng “toàn bộ bức tranh hiện nay bắt nguồn từ nhận ra rằng các mô hình học máy cải thiện đều đặn và có thể dự đoán được khi ta huấn luyện chúng trên nhiều dữ liệu hơn. Và mọi thứ kể từ đó chỉ là huấn luyện mô hình lớn hơn trên bộ dữ liệu lớn hơn, nhờ phần cứng cải thiện nhanh trong nhiều năm.” Epoch AI ghi nhận rằng từ đầu thập niên 2010, kích thước bộ dữ liệu huấn luyện của các mô hình ngôn ngữ cứ khoảng sáu tháng lại tăng gấp đôi. Những mô hình AI lớn nhất hiện nay được huấn luyện trên hàng chục nghìn tỷ token."
+    },
+    {
+      "type": "p",
+      "text": "Khi ngày càng nhiều công sức được dồn vào việc đưa AI hiện đại vào robot, có một câu hỏi quan trọng: dữ liệu huấn luyện sẽ đến từ đâu? Mô hình ngôn ngữ có thể học từ những kho văn bản khổng lồ đã có sẵn. Chẳng hạn GPT-3 được huấn luyện trên lượng dữ liệu tương đương khoảng 300 tỷ token cào từ internet. Năm 2024, Epoch AI ước tính tổng kho văn bản chất lượng và có thể truy cập vào khoảng 300 nghìn tỷ token. Nhưng với robot thì không có kho dữ liệu huấn luyện tốt và công khai nào như vậy. Tìm ra dữ liệu cho robotics sẽ đến từ đâu và cần bao nhiêu đã trở thành vấn đề then chốt của lĩnh vực này."
+    },
+    {
+      "type": "h2",
+      "text": "Dữ liệu huấn luyện robot là gì?"
+    },
+    {
+      "type": "p",
+      "text": "Về bản chất, huấn luyện một mô hình AI, dù là LLM hay mô hình điều khiển robot, đòi hỏi rất nhiều ví dụ về một việc được làm đúng (hoặc đủ hiểu biết về thế nào là hành động đúng để có thể chấm điểm một lần thử). Ta đưa vào mô hình một số đầu vào, so sánh đầu ra của mô hình với đầu ra đúng thực tế, rồi dùng chênh lệch giữa hai bên để chỉnh các tham số của mô hình sao cho chênh lệch ấy giảm đi, bằng một biến thể nào đó của phương pháp hạ gradient. (Chúng tôi đã đi khá sâu vào quy trình này hồi đầu tháng.)"
+    },
+    {
+      "type": "p",
+      "text": "Với văn bản, một ví dụ huấn luyện có thể chỉ là một đoạn văn có sẵn: ta lấy đoạn đó, đưa một phần cho mô hình rồi bắt nó đoán phần tiếp theo. Như vậy một đoạn văn có thể sinh ra nhiều ví dụ huấn luyện, bằng cách đưa cho mô hình những phần khác nhau của nó."
+    },
+    {
+      "type": "p",
+      "text": "Để huấn luyện robot, một ví dụ thường là bản ghi lại một nhiệm vụ đã hoàn thành hoặc đã được thử làm. Có nhiều phương pháp khác nhau để tạo các bản ghi này và biến chúng thành dữ liệu huấn luyện."
+    },
+    {
+      "type": "p",
+      "text": "Từ trước đến nay, một trong những cách phổ biến nhất là “điều khiển từ xa” (teleoperation). Một người thao tác các bộ điều khiển nối trực tiếp với robot và dùng chúng để đưa robot đi qua một nhiệm vụ cụ thể, như gấp áo, nhặt và dời đồ vật. Hình dưới đây, chẳng hạn, cho thấy một người đang điều khiển từ xa cặp tay robot để rót nước từ bình vào ly."
+    },
+    {
+      "type": "p",
+      "text": "Trong lúc người đó làm nhiệm vụ, dữ liệu về trạng thái của robot được ghi lại cùng hình ảnh từ các camera quay công việc (thường gắn ngay trên robot), rồi gộp lại thành một ví dụ huấn luyện. Một ví dụ có thể là đưa cho mô hình dữ liệu về trạng thái robot và những gì camera nhìn thấy tại một thời điểm nào đó trong chuỗi thao tác. Mô hình sẽ cố đoán các hành động tiếp theo của robot (dưới dạng như góc khớp), rồi so với hành động thực tế. Cách huấn luyện này, dùng ví dụ do một chuyên gia (con người) tạo ra rồi dạy mô hình bắt chước, gọi là nhân bản hành vi (behavioral cloning), và nằm trong nhóm lớn hơn là “học bắt chước” (imitation learning)."
+    },
+    {
+      "type": "p",
+      "text": "Lợi thế lớn nhất của cách này là dữ liệu sinh ra khớp rất sát với khả năng chuyển động thực tế của robot, vì nó được tạo ra từ chính con robot mà bạn muốn huấn luyện. Cách này đến nay vẫn được dùng rộng rãi. Đôi khi ta thấy video hay ảnh chụp những “nhà máy thu dữ liệu” khổng lồ, nơi mọi người chẳng làm gì ngoài điều khiển robot hoàn thành các nhiệm vụ. Đôi khi ta cũng thấy tai nạn khi người điều khiển quên mất mình đang điều khiển robot và bất chợt cử động theo kiểu robot không xử lý nổi."
+    },
+    {
+      "type": "p",
+      "text": "Nhưng điều khiển từ xa có nhược điểm. Lớn nhất có lẽ là chi phí: để có dữ liệu, bạn cần một con robot thật và một người ngồi đó thao tác, nên rất khó mở rộng cách này để sản xuất lượng dữ liệu thật lớn. Nhược điểm khác là điều khiển robot kiểu này khá vụng về. Người điều khiển thường không cảm nhận được xúc giác từ vật đang cầm để định hướng cử động, nên cách này chưa chắc cho ra dữ liệu thật tốt về thao tác khéo léo. Sự vụng về ấy cũng khiến khó thu được dữ liệu điều khiển từ xa tốt, và theo tôi hiểu thì chỉ một phần trong tổng số dữ liệu thu về là hữu ích cho việc huấn luyện."
+    },
+    {
+      "type": "p",
+      "text": "Cũng có thể tạo dữ liệu huấn luyện từ một robot sẵn có, bằng cách để nó tự di chuyển, ghi lại hành động của nó, rồi dùng một hệ thống nào đó phân loại các chuỗi hành vi này là thành công hay thất bại. Chiến lược này, khi robot tự vận động còn ta chấm điểm hành động của nó theo một cách nào đó, gọi là “học tăng cường” (reinforcement learning). Khoảng năm 2016, Google từng làm kiểu này với một “trại tay máy” (arm farm): một dãy tay robot tự động vận hành, thành công được chấm bằng việc tay máy có nhấc hoặc nắm được vật hay không."
+    },
+    {
+      "type": "p",
+      "text": "Kiểu trại tay máy này hiện có vẻ không còn được dùng rộng rãi, nhưng robot được triển khai ngoài đời thực nhiều khả năng cuối cùng sẽ là nguồn dữ liệu huấn luyện lớn nhất. Giới robotics hay nói về nhu cầu có một “bánh đà dữ liệu” (data flywheel): robot được triển khai ngoài thực tế, ta dùng dữ liệu từ chúng để huấn luyện mô hình tốt hơn, nhờ đó có thêm robot được triển khai, rồi mô hình lại tốt hơn nữa, cứ thế tiếp diễn."
+    },
+    {
+      "type": "p",
+      "text": "Chẳng hạn, công ty AI robot Physical Intelligence đang thử nghiệm kiểu bánh đà sơ khai này, tức “cho robot làm việc thật rồi dùng nó thu dữ liệu để cải thiện mô hình”, tại một nhà máy sô-cô-la gần văn phòng của họ. Nhưng dù về sau cách này có thể hiệu quả, hiện nay số robot do AI điều khiển mà làm được việc gì đó giống việc thật là rất ít. Dữ liệu ngoài đời cũng thường cực kỳ lặp đi lặp lại, robot làm đi làm lại cùng một việc trong những điều kiện rất giống nhau, nên ít giá trị hơn nhiều cho việc huấn luyện. Vì thế, hiện tại phần lớn dữ liệu phải đến từ các nguồn khác."
+    },
+    {
+      "type": "p",
+      "text": "Một chiến lược rất phổ biến khác để tạo dữ liệu huấn luyện robot là mô phỏng: thay vì chạy robot thật trong thế giới thật, ta chạy một robot số trong thế giới mô phỏng. Cách này cũng thường dùng học tăng cường, tức cho robot thử di chuyển trong một không gian mô phỏng rồi chấm điểm xem nó làm tốt đến đâu. Một biến thể khác là mô hình thầy/trò: “thầy” là mô hình được tiếp cận toàn bộ dữ liệu trong môi trường mô phỏng, còn “trò” chỉ thấy những gì robot thật sẽ thấy (hình ảnh từ camera và trạng thái nội tại của chính nó), và ta cố làm cho trò bắt chước thầy."
+    },
+    {
+      "type": "p",
+      "text": "Lợi ích của mô phỏng là mô phỏng một robot rẻ và nhanh hơn nhiều so với triển khai một robot ngoài đời, và ta có thể thu lượng dữ liệu rất lớn bằng cách mô phỏng hành vi của hàng nghìn robot. Figure AI dạy robot hình người của họ biết đi bằng học tăng cường trên hàng nghìn robot mô phỏng. OpenAI dạy một bàn tay robot giải khối Rubik bằng lượng trải nghiệm mô phỏng tương đương 13.000 năm. Đến năm 2019, Waymo đã chạy 10 triệu dặm trong đời thực, nhưng chạy tới 10 tỷ dặm trong mô phỏng."
+    },
+    {
+      "type": "p",
+      "text": "Nhưng mô phỏng cũng có nhược điểm. Lớn nhất là chất lượng dữ liệu nó tạo ra phụ thuộc vào độ chính xác của mô phỏng. Với một số việc, như di chuyển (cho robot đi qua một không gian vật lý), mô phỏng khá chính xác, vì hành vi này phần lớn đã được hiểu đủ rõ để ta biểu diễn bằng số. Vì vậy ta có thể huấn luyện robot bốn chân đi qua một địa hình, robot hai chân nhảy múa, hay máy bay không người lái bay theo một lộ trình trong mô phỏng, và môi trường mô phỏng sẽ xấp xỉ thế giới thật khá tốt. Nhưng với những việc như thao tác đồ vật (nhất là vật mềm hoặc dễ biến dạng), xây dựng một mô phỏng mô tả đúng hành vi ngoài đời khó hơn nhiều, và dùng nó làm nguồn dữ liệu huấn luyện cũng khó hơn nhiều. Khoảng cách này thường được gọi là “khoảng cách giữa mô phỏng và thực tế” (sim-to-real gap)."
+    },
+    {
+      "type": "p",
+      "text": "Vì mô phỏng không chính xác, một kỹ thuật mô phỏng phổ biến là “ngẫu nhiên hóa miền” (domain randomization). Do không biết các tham số như ma sát ngoài đời sẽ là bao nhiêu, ta cho các tham số thay đổi ngẫu nhiên khi chạy mô phỏng, với hy vọng tạo ra một dải huấn luyện bao trùm các tham số sẽ gặp ngoài thực tế. Chẳng hạn, khi OpenAI huấn luyện bàn tay robot giải khối Rubik, họ liên tục mở rộng dải tham số được thử, buộc mô hình học cách giải khối trong những môi trường ngày càng khó, với hy vọng trang bị cho nó năng lực áp dụng được vào thế giới thật. Nhóm robotics ở đó dùng chiến lược này chính vì mô hình hóa vật lý một cách chính xác là quá khó:"
+    },
+    {
+      "type": "quote",
+      "text": "Thách thức lớn nhất chúng tôi gặp là tạo ra các môi trường mô phỏng đủ đa dạng để nắm bắt vật lý của thế giới thật. Những yếu tố như ma sát, độ đàn hồi và động lực học cực kỳ khó đo lường và mô hình hóa với những vật phức tạp như khối Rubik hay bàn tay robot, và chúng tôi nhận ra rằng chỉ riêng ngẫu nhiên hóa miền là chưa đủ.",
+      "cite": "OpenAI"
+    },
+    {
+      "type": "quote",
+      "text": "Để vượt qua điều đó, chúng tôi phát triển một phương pháp mới gọi là Ngẫu nhiên hóa miền tự động (ADR), liên tục tạo ra các môi trường mô phỏng ngày càng khó hơn. Nhờ vậy ta không còn cần một mô hình chính xác của thế giới thật, mà vẫn có thể đưa các mạng nơ-ron học được trong mô phỏng ra áp dụng ngoài đời.",
+      "cite": "OpenAI"
+    },
+    {
+      "type": "p",
+      "text": "Nhưng dù có kỹ thuật này và thực sự là rất nhiều mô phỏng (13.000 năm mô phỏng), kết quả cũng chỉ ở mức tạm được: với những cách sắp xếp ban đầu khó nhất, tỷ lệ thành công chỉ 20%. Có lẽ đó là lý do kỹ thuật này hiện không được dùng rộng rãi để huấn luyện thao tác. Tuy vậy, ngẫu nhiên hóa tham số môi trường có vẻ khá chuẩn mực trong huấn luyện di chuyển, chẳng hạn dùng để thay đổi ngẫu nhiên hệ số ma sát của bề mặt mà robot đi qua."
+    },
+    {
+      "type": "p",
+      "text": "Một cách khác để dùng mô phỏng là tạo dữ liệu huấn luyện tổng hợp: lấy dữ liệu huấn luyện thật làm đầu vào và dùng nó để sinh ra nhiều ví dụ tương tự. Chẳng hạn, Nvidia có một trang chỉ cách dùng nền tảng mô phỏng robot Isaac GR00T của họ để tạo dữ liệu huấn luyện robot tổng hợp, với dữ liệu điều khiển từ xa làm đầu vào. Việc tạo dữ liệu tổng hợp cũng có vẻ được dùng rộng rãi để huấn luyện xe tự lái."
+    },
+    {
+      "type": "p",
+      "text": "Ta cũng có thể tạo dữ liệu huấn luyện robot bằng cách ghi lại người thực hiện nhiệm vụ rồi lập một phép ánh xạ nào đó từ dữ liệu ghi được sang robot. Việc này có thể đơn giản như cho một người đeo camera trên đầu (tạo ra thứ gọi là “video góc nhìn thứ nhất”, egocentric video) và dùng nó ghi lại người đó làm các việc bằng tay. Video sau đó được xử lý để các cử động của người được diễn giải thành cử động của robot, rồi dùng để tạo ví dụ huấn luyện. (Đây là một lý do khiến dáng hình người được ưa chuộng trong robotics: con người làm việc sẽ là nguồn dữ liệu huấn luyện khá tốt.) Chẳng hạn, Figure AI mới công bố Index, chương trình thu dữ liệu huấn luyện bằng cách gửi camera đội đầu cho mọi người để họ tự quay lúc làm các việc khác nhau (hoặc Figure cũng sẽ cử một nhóm trang bị các camera này đến nhà hay cơ sở của bạn để làm việc nhà giúp bạn). Những công ty như Shift cũng làm vậy, gửi người đội camera gắn trên mũ đến nhà dân để quay cảnh họ làm việc nhà."
+    },
+    {
+      "type": "p",
+      "text": "Ta cũng có thể gắn thêm cảm biến để thu dữ liệu công việc của con người chi tiết hơn. Startup Eidon AI, nay đã ngừng hoạt động, từng gắn cảm biến lên cánh tay mọi người để thu dữ liệu vị trí các khớp nhằm huấn luyện tay robot. Neocambrian AI mới công bố “Mitts”, mà họ mô tả là “găng tay xúc giác hiện đại nhất, ghi lại dữ liệu xúc giác độ chính xác cao cho robot”."
+    },
+    {
+      "type": "p",
+      "text": "Một biến thể khác của chiến lược này là dùng thứ gọi là Giao diện thao tác đa năng (Universal Manipulation Interface, UMI). Với UMI, một người cầm một cặp tay gắp được thiết kế riêng, thường có đầu kẹp đơn giản kiểu gọng cua (dù có loại nhiều ngón). Người đó làm các việc khác nhau bằng những tay gắp này, trên đó có gắn camera ghi lại chính xác tay gắp đang làm gì. Video này sau đó được dùng để tạo ví dụ huấn luyện cho các robot có tay gắp tương tự. Chẳng hạn, hai startup mô hình robot là Generalist AI và Sunday Robotics có vẻ chủ yếu dùng chiến lược này để thu dữ liệu huấn luyện."
+    },
+    {
+      "type": "p",
+      "text": "Lợi ích của dữ liệu do con người thu thập là rẻ hơn nhiều so với dữ liệu điều khiển từ xa: bạn chỉ cần một chiếc camera, hoặc những tay gắp có gắn camera, thay vì cả một con robot. Và có lẽ cũng dễ thu được nhiều loại nhiệm vụ khác nhau hơn, chỉ cần để một người đi lại và làm đủ thứ, thay vì phải liên tục xếp lại robot để nó làm từng việc. Vì dữ liệu được thu ngoài đời thực, từ người thao tác vật thật, nên nó chính xác hơn mô phỏng. Nhược điểm là vì dữ liệu này đến từ con người chứ không phải robot nên nó sẽ không khớp hoàn hảo với năng lực của robot. Ngay cả UMI, vốn giảm tối đa khác biệt giữa người và robot bằng cách để người làm việc qua một dạng tay gắp kiểu robot, cũng chưa chắc khớp hoàn hảo, dù độ lệch nhỏ và nhiều màn trình diễn robot ấn tượng nhất ta từng thấy (chẳng hạn của Generalist AI) đã được huấn luyện bằng dữ liệu UMI."
+    },
+    {
+      "type": "p",
+      "text": "Một mô hình robot cũng có thể kết hợp nhiều chiến lược huấn luyện. Chẳng hạn, robot Digit của Agility Robotics đi bằng một mạng nơ-ron nhỏ chỉ 1 triệu tham số, được huấn luyện trong mô phỏng bằng học tăng cường, còn thao tác đồ vật thì có vẻ được huấn luyện bằng nhân bản hành vi. Dyna Robotics cũng có vẻ đã kết hợp học tăng cường trong mô phỏng với video người làm việc làm dữ liệu huấn luyện."
+    },
+    {
+      "type": "p",
+      "text": "Việc huấn luyện mô hình robot bằng dữ liệu không phải dữ liệu hoàn thành nhiệm vụ cũng thường hữu ích. Như đã nói trước đây, các mô hình Thị giác-Ngôn ngữ-Hành động (Vision-Language-Action) được xây từ các mô hình Thị giác-Ngôn ngữ vốn đã huấn luyện trên văn bản và hình ảnh. Và vì video đại trà trên YouTube hay TikTok có ở khắp nơi, nên người ta rất quan tâm đến việc tìm cách dùng video tổng quát trên mạng làm nguồn dữ liệu huấn luyện. Chẳng hạn, Cosmos của Nvidia là một mô hình nền tảng huấn luyện trên dữ liệu video, có thể dùng làm xương sống cho một mô hình chính sách điều khiển robot."
+    },
+    {
+      "type": "h2",
+      "text": "Quy mô các bộ dữ liệu robot"
+    },
+    {
+      "type": "p",
+      "text": "Vậy đến nay ta đã thu được bao nhiêu dữ liệu huấn luyện liên quan đến hành động này, và cần bao nhiêu?"
+    },
+    {
+      "type": "p",
+      "text": "Cũng như các mô hình AI nói chung, các bộ dữ liệu huấn luyện robot có vẻ đang lớn dần. Một bộ dữ liệu thời đầu từng được coi là lớn là Open X-Embodiment (OXE), do Google DeepMind tạo năm 2023 bằng cách ghép hàng chục bộ dữ liệu có sẵn. OXE gồm hơn 1 triệu quỹ đạo hành động của robot, trải trên hơn 160.000 nhiệm vụ khác nhau, tổng cộng khoảng 4.000 giờ dữ liệu nhiệm vụ. Mô hình Pi 0 của Physical Intelligence, ra mắt tháng 10 năm 2024, được huấn luyện trên 10.000 giờ dữ liệu nhiệm vụ robot. Mô hình GEN 1 của Generalist AI, công bố hồi đầu năm nay, được huấn luyện trên khoảng 500.000 giờ dữ liệu UMI. Thông báo về Index của Figure AI nói họ đang thu 30 phút dữ liệu video mỗi giây, tức 43.000 giờ mỗi ngày. Dyna Robotics và Nature Will đều tuyên bố mô hình mới nhất của họ được huấn luyện trên hơn 1 triệu giờ dữ liệu video góc nhìn thứ nhất của con người. Tôi từng thấy một ước tính cho rằng ngành thu dữ liệu robot hiện cùng nhau tạo ra khoảng 500.000 giờ dữ liệu huấn luyện mỗi tháng."
+    },
+    {
+      "type": "p",
+      "text": "So các bộ dữ liệu này với bộ dữ liệu văn bản dùng để huấn luyện LLM không phải chuyện dễ dàng. Thứ nhất, các bộ dữ liệu huấn luyện robot có mức chất lượng khác nhau: dữ liệu điều khiển từ xa hay UMI có lẽ chất lượng huấn luyện cao hơn video góc nhìn thứ nhất thuần túy của con người, và một bộ dữ liệu biến đổi nhiều với đủ loại nhiệm vụ hữu ích hơn nhiều so với một bộ cực kỳ lặp lại. Dữ liệu video để huấn luyện robot cũng khác dữ liệu văn bản về lượng thông tin: video thường có tương quan rất cao, trong những khoảng thời gian ngắn thì khung hình này khá giống khung hình kia. Vì thế, dù bản ghi video chứa rất nhiều dữ liệu, chúng có lẽ kém đậm đặc thông tin hơn văn bản khi dùng để huấn luyện. Như nhà nghiên cứu robotics Chris Paxton nhận xét: “học máy hoạt động tốt nhất khi bộ dữ liệu càng gần độc lập và cùng phân phối (iid); cả dữ liệu web lẫn dữ liệu robot đều không iid, nhưng dữ liệu robot kém iid hơn nhiều so với dữ liệu web.”"
+    },
+    {
+      "type": "p",
+      "text": "Dù vậy ta vẫn có thể thử so sánh. Một cách rất thô, được nhà nghiên cứu Kevin Black của Physical Intelligence dùng trong bài thuyết trình này và giáo sư robotics Ken Goldberg dùng trong bài thuyết trình này, là ước tính một người sẽ đọc hết một bộ dữ liệu token văn bản trong bao lâu, rồi đem so với số giờ dữ liệu huấn luyện robot ta có. Theo thước đo này, GPT-2 được huấn luyện trên lượng dữ liệu tương đương khoảng 475.000 giờ, GPT-3 là 26 triệu giờ, và GPT-4 là 685 triệu giờ. Theo thước đo (có phần đáng ngờ) này, ngay cả những mô hình AI đã vài năm tuổi cũng được huấn luyện trên lượng dữ liệu cỡ gấp 1.000 lần dữ liệu của các mô hình robot hiện nay. Goldberg gọi đó là “khoảng cách dữ liệu 100.000 năm”."
+    },
+    {
+      "type": "p",
+      "text": "Trên blog Substack “It Can Think!” của mình, Paxton ước tính từ hướng ngược lại, đổi số giờ dữ liệu robot ra token, và ra kết quả khá tương tự. Ông đoán rằng với video chạy 10 khung hình mỗi giây, mỗi khung chứa lượng thông tin tương đương một token huấn luyện hữu ích. Như vậy mỗi giờ video có khoảng 10 × 60 × 60 = 36.000 token huấn luyện. Ông chia tiếp cho 10, với giả định rằng không thể trông đợi mọi giây video đều hữu ích, ra khoảng 3.600 token huấn luyện mỗi giờ video. Theo đó, 1 triệu giờ huấn luyện của Dyna Robotics tương đương khoảng 3,6 tỷ token, nhỏ hơn cỡ 5.000 lần so với các bộ dữ liệu dùng để huấn luyện những mô hình AI gần đây."
+    },
+    {
+      "type": "p",
+      "text": "Giả sử ta cần lượng dữ liệu huấn luyện robot thực tế gấp khoảng 1.000 lần so với hiện có, tức cỡ 1 tỷ giờ dữ liệu, thì tạo ra nó tốn bao nhiêu? Eidon AI cho biết giá dữ liệu robot là 60 đến 100 đô-la mỗi giờ. Pantheon cũng cho biết chi phí dữ liệu UMI từ 60 đến 150 đô-la mỗi giờ, nhưng các kỹ sư của họ đã phát triển được một quy trình tạo dữ liệu với giá 10 đô-la mỗi giờ. Shift tuyên bố bạn có thể kiếm tới 20 đô-la mỗi giờ khi quay video góc nhìn thứ nhất rồi bán cho họ. Vì vậy, một ước tính ngây thơ cho thấy để có đủ dữ liệu đưa các mô hình robot lên mức năng lực tương đương các mô hình AI gần đây, có thể tốn cỡ 10 tỷ đến 100 tỷ đô-la."
+    },
+    {
+      "type": "p",
+      "text": "Tuy nhiên, thực sự cần bao nhiêu dữ liệu thì dường như vẫn là một câu hỏi bỏ ngỏ. Nếu ta không quan tâm đến khả năng khái quát hóa và chỉ muốn huấn luyện mô hình robot làm vài nhiệm vụ cụ thể, nhu cầu dữ liệu có thể ít hơn đáng kể. Hoặc cũng có thể hóa ra các mô hình AI tổng quát tiên phong như Fable hay Astra lại là những bộ điều khiển robot cực kỳ giỏi sau khi được nạp một lượng dữ liệu huấn luyện robot tương đối nhỏ. Một số người đã dự đoán rằng các mô hình AI robot chuyên dụng có thể bị thay bằng các mô hình AI tổng quát hơn. Tương tự, ta có thể tìm ra những kiến trúc mô hình AI robot tiết kiệm mẫu hơn nhiều, tức học được nhiều hơn từ mỗi ví dụ huấn luyện so với các mô hình hiện nay."
+    },
+    {
+      "type": "p",
+      "text": "Mặt khác, cũng có thể việc di chuyển và thao tác đồ vật trong thế giới thật về cơ bản là nhiệm vụ khó hơn việc xử lý văn bản trên máy tính, và các mô hình cần được huấn luyện nhiều hơn hẳn mới thạo hành vi ngoài đời này. Chẳng hạn, lỗi nhỏ trong văn bản sinh ra, như sai chính tả hay chọn từ hơi lệch, không nhất thiết làm hỏng cả văn bản. Nhưng khi thao tác đồ vật, chỉ một sai lệch nhỏ xíu về vị trí cũng có thể là ranh giới giữa thành công và thất bại hoàn toàn. Ken Goldberg cũng lập luận rằng chuyển động của robot là một bài toán có số chiều cao hơn nhiều so với sinh văn bản (dù tôi không chắc mình thuyết phục bởi cách ông trình bày lập luận đó trong bài thuyết trình ấy, nhưng tôi đã thấy quan điểm này được các nhà nghiên cứu robotics khác lặp lại)."
+    },
+    {
+      "type": "h2",
+      "text": "Kết luận"
+    },
+    {
+      "type": "p",
+      "text": "LLM đã cho thấy lợi ích của quy mô khi huấn luyện mô hình AI: mô hình lớn hơn, nhiều dữ liệu hơn, huấn luyện bằng nhiều sức tính toán hơn hẳn. Giờ đây ta đang chứng kiến quy mô này phát huy tác dụng đến đâu với robotics, và các nhà nghiên cứu robotics đang nỗ lực thu thập lượng khổng lồ dữ liệu huấn luyện nhiệm vụ cho robot, với hy vọng thấy ở năng lực robot những xu hướng giống như ta đã thấy ở AI nói chung."
+    }
+  ]
+}
