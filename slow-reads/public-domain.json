@@ -333,6 +333,66 @@
       "lang": "en",
       "est_words": 500000,
       "note": "Rất dài — mỗi thiên là một nhân vật, dịch lẻ từng thiên."
+    },
+    {
+      "id": "hazlitt-ban-chuyen-nguoi",
+      "title_original": "Table Talk: Essays on Men and Manners",
+      "author": "William Hazlitt",
+      "gutenberg_id": 3020,
+      "topics": ["Con người", "Đối nhân xử thế"],
+      "lang": "en",
+      "est_words": 60000,
+      "note": "Tiểu luận về tính người và cách ăn ở; giọng sắc, nhiều bài đọc lẻ được."
+    },
+    {
+      "id": "chesterton-chinh-thong",
+      "title_original": "Orthodoxy",
+      "author": "G. K. Chesterton",
+      "gutenberg_id": 130,
+      "topics": ["Tư duy & khoa học", "Con người"],
+      "lang": "en",
+      "est_words": 55000,
+      "note": "Lập luận nghịch lý, vui; bản tự thuật về cách hình thành niềm tin."
+    },
+    {
+      "id": "chesterfield-cach-ngon",
+      "title_original": "Letters, sentences and maxims",
+      "author": "Philip Dormer Stanhope Chesterfield",
+      "gutenberg_id": 69855,
+      "topics": ["Đối nhân xử thế"],
+      "lang": "en",
+      "est_words": 25000,
+      "note": "Bản tuyển gọn của Letters to His Son — cùng nội dung, dễ dịch hơn bản đầy đủ."
+    },
+    {
+      "id": "chesterfield-thu-gui-con-trai",
+      "title_original": "Letters to His Son, Complete",
+      "author": "Philip Dormer Stanhope Chesterfield",
+      "gutenberg_id": 3361,
+      "topics": ["Đối nhân xử thế", "Sự nghiệp"],
+      "lang": "en",
+      "est_words": 200000,
+      "note": "Rất dài; chỉ dịch khi chọn từng bức thư. Bản tuyển gọn ở id chesterfield-cach-ngon."
+    },
+    {
+      "id": "khong-tu-luan-ngu",
+      "title_original": "The Analects of Confucius",
+      "author": "Confucius",
+      "gutenberg_id": 3330,
+      "topics": ["Đối nhân xử thế", "Con người"],
+      "lang": "en",
+      "est_words": 25000,
+      "note": "Đối trọng phương Đông cho Stoicism và Cicero; câu ngắn, dịch gọn."
+    },
+    {
+      "id": "ruskin-kinh-te-va-dao-duc",
+      "title_original": "Unto This Last, and Other Essays on Political Economy",
+      "author": "John Ruskin",
+      "gutenberg_id": 36541,
+      "topics": ["Tiền bạc", "Con người"],
+      "lang": "en",
+      "est_words": 60000,
+      "note": "Bốn tiểu luận phản bác kinh tế học cổ điển; bổ sung góc đạo đức cho mục Tiền bạc."
     }
   ]
 }
