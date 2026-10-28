@@ -41,7 +41,7 @@ Queue: `slow-reads/queue.json` (commit) là ledger discovery/publish:
       "source_id": "aeon",
       "quality": 92,
       "rights_note": "user-accepted",
-      "status": "candidate|rights_approved|translating|ready|published|blocked|rejected",
+      "status": "candidate|rights_approved|translating|ready|published|blocked|skipped|rejected",
       "note": "",
       "created_at": "YYYY-MM-DD",
       "updated_at": "YYYY-MM-DD"
@@ -49,6 +49,34 @@ Queue: `slow-reads/queue.json` (commit) là ledger discovery/publish:
   ]
 }
 ```
+
+Allowlist: `slow-reads/rights_allowlist.json` (commit). `default: "skip"`; Grok chỉ xử lý URL khớp `match` (`domain:`, `url:` hoặc `path:`). Không khớp thì bỏ qua im lặng, ghi `skipped`, không hỏi người dùng.
+
+```json
+{
+  "version": 1,
+  "updated_at": "YYYY-MM-DD",
+  "default": "skip",
+  "allowed_domains": ["aeon.co", "..."],
+  "entries": [
+    {
+      "match": "domain:aeon.co",
+      "domain": "aeon.co",
+      "scope": "domain",
+      "basis": "user-accepted",
+      "license": null,
+      "approved_by": "user",
+      "approved_at": "YYYY-MM-DD",
+      "expires_at": null,
+      "note": "User accepted responsibility; no license verified."
+    }
+  ]
+}
+```
+
+- `basis`: `user-accepted` (người dùng chấp nhận trách nhiệm), `public-domain`, hoặc `CC-...` **chỉ khi đã kiểm license**. Không tự gán license.
+- Hiện allowlist phủ 30 domain trong registry, gồm Paul Graham, Wait But Why, Project Gutenberg và Standard Ebooks; thêm/xóa bằng cách sửa file rồi commit.
+- Nguồn ngoài allowlist vẫn có thể nằm trong candidates nhưng sẽ bị `skipped` ở bước publish.
 
 Discovery từ RSS (không tải body, chỉ title/link/ngày/excerpt ≤280 ký tự):
 
@@ -106,7 +134,8 @@ Nguồn: chạy
 python3 scripts/discover_rss.py --limit 30 --days 60 --out .cache/candidates.json
 Chỉ chọn từ file này. Với nguồn rss:null trong slow-reads/sources.json, chỉ đề xuất
 khi người dùng đã duyệt URL cụ thể. Không tự tìm web tự do; nguồn mới phải được
-người dùng duyệt rồi thêm vào sources.json.
+người dùng duyệt rồi thêm vào sources.json. Publish chỉ khi URL khớp
+slow-reads/rights_allowlist.json; không khớp → skipped, không hỏi.
 
 Đầu ra: CHỈ một JSON array, không markdown, không giải thích:
 [
@@ -196,7 +225,7 @@ Báo cáo cuối: commit SHA, tổng số bài trong index, URL live của thư 
 
 ### 4. Grok — orchestration (tự gọi Claude)
 
-Khi queue có item `rights_approved`, Grok tự chạy fetch và mở Claude session; không chờ người dùng giao file.
+Khi queue có item `rights_approved` và URL khớp allowlist, Grok tự chạy fetch và mở Claude session; không chờ người dùng giao file.
 
 ```text
 C. ORCHESTRATION — Grok chủ động gọi Claude
@@ -204,6 +233,8 @@ C. ORCHESTRATION — Grok chủ động gọi Claude
 Sau khi một bài trong queue có trạng thái rights_approved, xử lý tuần tự
 (tối đa 2 bài song song nếu hệ thống cho phép; gặp 429/rate limit thì giảm về 1):
 
+0. Đọc slow-reads/rights_allowlist.json. URL không khớp → queue "skipped",
+   báo số lượng, KHÔNG hỏi người dùng và không chuyển sang dịch.
 1. Xác nhận đúng repo: pwd là repo root và git remote -v là HexDino/DailyNews.
 2. Tải nguồn bằng script, không đọc/in nội dung:
    python3 scripts/fetch_source.py "<url>" --id <id> --force
@@ -232,6 +263,7 @@ publish bài chưa qua validate --strict; đặt coverage "condensed" cho bài m
 - **Không commit nội dung nguồn**: `.cache/` đã nằm trong `.gitignore`. Chỉ bản dịch lên repo.
 - **Registry**: thêm nguồn mới vào `slow-reads/sources.json` sau khi người dùng duyệt; chạy `discover_rss.py` để lấy candidates. Nguồn `rss: null` thêm tay vào queue.
 - **Rights policy**: registry/queue đang `user-accepted` — người dùng chấp nhận trách nhiệm; bot không được tự gán "public-domain"/"CC"/"written-permission" khi không có căn cứ.
+- **Allowlist**: `slow-reads/rights_allowlist.json` quyết định nguồn nào được xử lý; mặc định `skip`. Không khớp thì bỏ qua im lặng, không hỏi.
 - **Bản quyền**: dịch toàn văn và đăng công khai là tác phẩm phái sinh. Chỉ làm với nguồn cho phép hoặc chấp nhận rủi ro; ghi rõ tác giả/nguồn và link gốc.
 - **CI** chạy `add_slow_read.py` + `validate_slow_read.py --strict` trước khi deploy. Validator kiểm độ phủ từ `source_stats` nhúng nên không cần commit nguồn, và index không thể lệch.
 - **Giới hạn**: ngưỡng độ phủ chỉ bắt thiếu thô (cả đoạn/cả mục). Vẫn nên đọc đối chiếu 2-3 đoạn mỗi bài trước khi publish.
