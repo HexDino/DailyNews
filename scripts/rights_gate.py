@@ -50,6 +50,11 @@ ALLOWLIST_PATH = ROOT / "slow-reads" / "rights_allowlist.json"
 
 DERIVATIVE_MODES = ("full", "condensed")
 
+# Mirrors validate_slow_read.py: a summary must stay a summary.
+SUMMARY_MIN_WORDS = 250
+SUMMARY_MAX_WORDS = 600
+SUMMARY_MAX_RATIO = 0.40
+
 # Bases that permit a published derivative work without further evidence.
 PERMISSIVE_BASES = {"public-domain"}
 # Bases that need a document on file before they count as permission.
@@ -61,6 +66,16 @@ def domain_of(url: str) -> str:
     if host.startswith("www."):
         host = host[4:]
     return host
+
+
+def _body_size(data: dict) -> tuple[int, int]:
+    """Return (words, characters) of an article body."""
+    text = " ".join(
+        str(block.get("text") or "")
+        for block in data.get("body") or []
+        if isinstance(block, dict)
+    )
+    return len(text.split()), len(text)
 
 
 def entry_matches(entry: dict, url: str, domain: str) -> bool:
@@ -192,6 +207,25 @@ def check_article(path: Path, allowlist: dict) -> tuple[list[str], list[str]]:
     elif coverage == "excerpt":
         if not data.get("source_url"):
             errors.append("excerpt must keep source_url so readers reach the original")
+    elif coverage == "summary":
+        # Allowed for any allowlisted source: a summary carries ideas and facts
+        # in the writer's own words, not the original's expression. The caps
+        # stop it from drifting into an abridged translation, which would need
+        # the same licence as a full one.
+        words, chars = _body_size(data)
+        if not SUMMARY_MIN_WORDS <= words <= SUMMARY_MAX_WORDS:
+            errors.append(
+                f"summary must be {SUMMARY_MIN_WORDS}-{SUMMARY_MAX_WORDS} words, got {words}"
+            )
+        if not data.get("source_url"):
+            errors.append("summary must keep source_url so readers reach the original")
+        src_chars = stats.get("char_count") if isinstance(stats, dict) else 0
+        if isinstance(src_chars, int) and src_chars >= 200:
+            if chars / src_chars > SUMMARY_MAX_RATIO:
+                errors.append(
+                    f"summary is {chars / src_chars:.0%} of source length; must stay "
+                    f"under {SUMMARY_MAX_RATIO:.0%} or it becomes an abridged translation"
+                )
     else:
         errors.append(f"unknown coverage {coverage!r}")
 

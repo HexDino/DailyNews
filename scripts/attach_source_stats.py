@@ -109,7 +109,7 @@ def main() -> int:
     parser.add_argument("--cache-dir", type=Path, default=DEFAULT_CACHE)
     parser.add_argument(
         "--coverage",
-        choices=("full", "condensed", "excerpt"),
+        choices=("full", "condensed", "excerpt", "summary"),
         help="coverage policy to store (default: keep existing, else full)",
     )
     args = parser.parse_args()

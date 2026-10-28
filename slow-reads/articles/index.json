@@ -13,7 +13,7 @@
   "articles": [
     {
       "id": "tra-tien-cho-dua-tre-tot-nhat",
-      "title": "Trả tiền cho đứa trẻ tốt nhất?",
+      "title": "Trả tiền để có đứa con “tốt nhất”?",
       "title_original": "Would you pay to have the ‘best baby’? Liberal eugenics and the troubling quest for human perfection",
       "author": "Jan Grue",
       "source": "The Guardian",
@@ -21,11 +21,12 @@
       "lang": "en",
       "topics": [
         "Con người",
-        "Tư duy & khoa học"
+        "Đối nhân xử thế"
       ],
-      "summary": "Một người sống với chứng teo cơ tuỷ sống kể về giấc mơ được “chữa khỏi” và câu hỏi đáng lo về việc chọn lọc phôi để có “đứa trẻ tốt nhất”.",
+      "summary": "Một công ty bán dịch vụ sàng lọc phôi để có đứa con “tốt nhất”. Tác giả, người sống với bệnh cơ từ nhỏ, chỉ ra rằng đằng sau chữ “tốt nhất” là một ý niệm rất hẹp về con người — và nó không mới.",
       "added": "2026-10-28",
-      "reading_minutes": 1
+      "reading_minutes": 3,
+      "coverage": "summary"
     },
     {
       "id": "tinh-yeu-khong-noi-de-ve",
@@ -42,7 +43,8 @@
       ],
       "summary": "Nỗi đau mất mát không chỉ đến khi có người qua đời. Từ chuyện mẹ, cha và một mối tình đã mất, triết gia Derek van Zoonen cho rằng ta cần một ngôn ngữ để gọi tên thứ đau buồn không có đám tang.",
       "added": "2026-10-28",
-      "reading_minutes": 1
+      "reading_minutes": 1,
+      "coverage": "excerpt"
     },
     {
       "id": "marcus-aurelius-may-man-trong-van-rui",
@@ -58,7 +60,8 @@
       ],
       "summary": "Giữa thời người ta đem nỗi đau ra thi với nhau, Marcus Aurelius nhắc rằng điều đáng trân trọng không phải chuyện xui đã xảy đến, mà là việc ta vẫn giữ được mình trước nó.",
       "added": "2026-10-28",
-      "reading_minutes": 2
+      "reading_minutes": 2,
+      "coverage": "excerpt"
     },
     {
       "id": "lo-au-lam-sang-khac-biet",
@@ -74,7 +77,8 @@
       ],
       "summary": "Những từ như “lo âu”, “ám ảnh” hay “sang chấn” đang bị dùng tràn lan cho cả những khó chịu thường ngày, khiến ta dễ xem nhẹ mức độ suy nhược của các rối loạn lo âu thật sự.",
       "added": "2026-10-28",
-      "reading_minutes": 1
+      "reading_minutes": 1,
+      "coverage": "excerpt"
     },
     {
       "id": "khi-hien-tai-an-mon-tuong-lai",
@@ -90,7 +94,8 @@
       ],
       "summary": "Các nền dân chủ tiêu dùng thiếu hẳn một “khu vực bầu cử” cho tương lai, trong khi Trung Quốc vừa lo cho hiện tại vừa nắm trọn các ngành của tương lai. Nathan Gardels hỏi: phương Tây có thể học được gì mà không đánh đổi tự do?",
       "added": "2026-10-28",
-      "reading_minutes": 1
+      "reading_minutes": 1,
+      "coverage": "excerpt"
     },
     {
       "id": "day-robot-hoc-viec",
@@ -106,7 +111,8 @@
       ],
       "summary": "AI ngôn ngữ lớn lên nhờ kho chữ khổng lồ trên mạng, còn robot thì chẳng có kho dữ liệu nào tương tự. Bài viết điểm qua các cách thu dữ liệu cho robot, so sánh quy mô với AI ngôn ngữ và ước tính cái giá phải trả.",
       "added": "2026-10-28",
-      "reading_minutes": 2
+      "reading_minutes": 2,
+      "coverage": "excerpt"
     },
     {
       "id": "choi-sai-tro-choi",
@@ -122,7 +128,8 @@
       ],
       "summary": "Từ những cuộc thi nguy hiểm không có phần thưởng như Giải vô địch xông hơi, tác giả đặt câu hỏi về những cuộc chơi địa vị mà cái giá phải trả chỉ lộ ra muộn. Ông nhìn lại 10 năm theo đuổi nội dung và lượng người theo dõi sau khi làm cha.",
       "added": "2026-10-28",
-      "reading_minutes": 1
+      "reading_minutes": 1,
+      "coverage": "excerpt"
     },
     {
       "id": "bau-cu-giong-chai-klein",
@@ -137,7 +144,8 @@
       ],
       "summary": "Nghịch lý Condorcet từ năm 1785 cho thấy đa số có thể tự bỏ phiếu để rơi vào vòng luẩn quẩn. Ba nhà nghiên cứu vừa chỉ ra nghịch lý này có hình dạng hình học: một chai Klein.",
       "added": "2026-10-28",
-      "reading_minutes": 1
+      "reading_minutes": 1,
+      "coverage": "excerpt"
     },
     {
       "id": "vong-xoay-ai-boc-lot-nguoi",
@@ -154,7 +162,8 @@
       ],
       "summary": "AI giúp ta làm nhanh hơn, nhưng dùng quá đà có thể khiến não “cháy” vì quá tải và cuốn ta vào một guồng quay không có điểm dừng. Bài viết gợi ý ba câu hỏi để dừng lại, và nhắc rằng AI nhanh là để con người được chậm lại.",
       "added": "2026-10-27",
-      "reading_minutes": 6
+      "reading_minutes": 6,
+      "coverage": "full"
     },
     {
       "id": "tai-ket-noi-voi-the-he-lon-len-cung-man-hinh",
@@ -171,7 +180,8 @@
       ],
       "summary": "Một nhà tham vấn kể về cậu học sinh nhắn tin rất lưu loát nhưng đơ người khi gặp trực tiếp, để lý giải vì sao năng lực cảm xúc - xã hội của trẻ cần được nuôi bằng sự hiện diện thật của người lớn mà không màn hình hay AI nào thay được.",
       "added": "2026-10-27",
-      "reading_minutes": 8
+      "reading_minutes": 8,
+      "coverage": "full"
     },
     {
       "id": "nguoi-ta-giau-len-the-nao-ngay-nay",
@@ -188,7 +198,8 @@
       ],
       "summary": "So sánh danh sách người Mỹ giàu nhất năm 1982 với năm 2020 để thấy của cải nay đến từ lập công ty công nghệ chứ không còn từ thừa kế, dầu mỏ hay bất động sản. Nhìn xa hơn thì chính giai đoạn giữa thế kỷ 20 mới là ngoại lệ.",
       "added": "2026-10-27",
-      "reading_minutes": 12
+      "reading_minutes": 12,
+      "coverage": "full"
     },
     {
       "id": "lam-viec-cham-chi-the-nao",
@@ -205,7 +216,8 @@
       ],
       "summary": "Muốn làm được điều lớn lao thì phải làm việc rất chăm, nhưng chăm chỉ không phải cái nút vặn lên hết cỡ. Đó là một hệ thống tinh vi, và chỉ trung thực với chính mình mới chỉnh nó cho đúng.",
       "added": "2026-10-27",
-      "reading_minutes": 14
+      "reading_minutes": 14,
+      "coverage": "full"
     },
     {
       "id": "chuyen-co-con",
@@ -222,7 +234,8 @@
       ],
       "summary": "Trước khi làm cha, tác giả sợ có con. Giờ ông kể vì sao nỗi sợ ấy phần lớn là sai, và phần nào thì đúng: con cái làm ta bớt năng suất, có thể bớt tham vọng, nhưng cho ta nhiều khoảnh khắc bình yên hơn hẳn.",
       "added": "2026-10-27",
-      "reading_minutes": 7
+      "reading_minutes": 7,
+      "coverage": "full"
     },
     {
       "id": "chuan-bi-cho-tuoi-gia-tu-nguong-40",
@@ -239,7 +252,8 @@
       ],
       "summary": "Người Việt sống trung bình 74 năm nhưng chỉ khoảng 65 năm khỏe mạnh. Theo một nhà tâm lý học thần kinh, thứ quyết định ta có tự chủ được lúc về già hay không là trí nhớ và khả năng quyết định, và việc bảo vệ chúng cần bắt đầu từ tuổi 40.",
       "added": "2026-10-27",
-      "reading_minutes": 8
+      "reading_minutes": 8,
+      "coverage": "full"
     },
     {
       "id": "toi-day-me-yeu-xa",
@@ -255,7 +269,8 @@
       ],
       "summary": "Thùy Minh kể chuyện mình và mẹ học cách thương nhau từ xa: từ “định mức 2 tiếng đồng hồ” khi con đi học, đi làm xa, đến lúc chính mẹ sang châu Phi làm việc 6 năm. Cuối cùng, khi khoảng cách không còn là vấn đề, điều tác giả lo nhất lại là thời gian ở bên bố mẹ.",
       "added": "2026-10-26",
-      "reading_minutes": 1
+      "reading_minutes": 1,
+      "coverage": "excerpt"
     },
     {
       "id": "tien-mat-vi-dau-tu-do-thoi-gian-mat-vi-lam-viec-gia",
@@ -271,7 +286,8 @@
       ],
       "summary": "Paul Graham kể rằng sau khi bán công ty, ông nhận ra người ta mất tiền chủ yếu vì đầu tư dở chứ không phải vì tiêu xài. Thời gian cũng vậy: thứ ngốn nhiều nhất không phải giải trí mà là việc giả như xử lý email, vì nó không làm ta thấy áy náy.",
       "added": "2026-10-26",
-      "reading_minutes": 4
+      "reading_minutes": 4,
+      "coverage": "full"
     },
     {
       "id": "tho-chay-nhanh-hon-cao",
@@ -287,7 +303,8 @@
       ],
       "summary": "Động cơ thúc đẩy ảnh hưởng đến hành vi mạnh hơn ta tưởng, nhưng nhìn quá hẹp vào nó cũng dễ gây phản tác dụng, như vụ thưởng diệt chuột hay hoa hồng làm lệch phán đoán nhân viên duyệt vay. Bài khuyên nghĩ tới hệ quả bậc hai, bậc ba và nhớ rằng động cơ tốt không chỉ là tiền.",
       "added": "2026-10-26",
-      "reading_minutes": 1
+      "reading_minutes": 1,
+      "coverage": "excerpt"
     },
     {
       "id": "nguoi-tre-tiet-kiem",
@@ -302,7 +319,8 @@
       ],
       "summary": "Phóng sự VnExpress (10/2022) về chuyện người trẻ sau hai năm dịch chuyển sang mua đồ si, thuê váy đi tiệc, tự nấu cơm mang đi làm. Bài có khảo sát nhanh 120 người, ý kiến chuyên gia, và cả những người thấy tiết kiệm kiểu này không hợp với mình.",
       "added": "2026-10-26",
-      "reading_minutes": 2
+      "reading_minutes": 2,
+      "coverage": "excerpt"
     },
     {
       "id": "kinh-te-hoc-hanh-vi-o-danh-dau-mac-dinh",
@@ -318,7 +336,8 @@
       ],
       "summary": "TS Phạm Khánh Nam giải thích kinh tế học hành vi bằng những chuyện cụ thể: chỉ cần đổi cách trình bày lựa chọn mặc định là tỷ lệ đăng ký hiến tạng tăng vọt, hay một lá thư so sánh khiến bác sĩ kê ít kháng sinh hơn. Ông cũng kể về thí nghiệm góp tiền xây cầu ở Bến Tre và tình hình nghiên cứu ngành này ở Việt Nam.",
       "added": "2026-10-26",
-      "reading_minutes": 15
+      "reading_minutes": 15,
+      "coverage": "full"
     },
     {
       "id": "doi-ngan-lam-dung-phi-vao-chuyen-nham-nhi",
@@ -334,7 +353,8 @@
       ],
       "summary": "Tác giả nhận ra đời thật sự ngắn khi đếm những cuối tuần và những mùa Giáng sinh còn lại bên con. Từ đó ông rút ra cách sống: tránh việc nhảm nhí, tìm việc có ý nghĩa, đừng chờ đợi và biết nhấm nháp thời gian.",
       "added": "2026-10-26",
-      "reading_minutes": 6
+      "reading_minutes": 6,
+      "coverage": "full"
     },
     {
       "id": "chang-cuoi-cua-nhung-nguoi-minh-thuong",
@@ -350,7 +370,8 @@
       ],
       "summary": "Tim Urban đếm đời mình bằng số lần làm một việc, rồi nhận ra các mối quan hệ không rải đều theo năm tháng. Với bố mẹ, chị em và bạn cũ, phần lớn thời gian bên nhau đã qua, và ông rút ra ba điều nên làm.",
       "added": "2026-10-26",
-      "reading_minutes": 2
+      "reading_minutes": 2,
+      "coverage": "excerpt"
     },
     {
       "id": "triet-hoc-khong-hua-dieu-gi-ben-ngoai",
@@ -366,7 +387,8 @@
       ],
       "summary": "Một bài trong loạt về Discourses của Epictetus. Từ chuyện người đi hỏi cách làm anh trai hết giận, bài giải thích việc nào trong tầm tay ta, việc nào không. Tác giả nối khái niệm prohairesis với thần kinh học về vỏ não trước trán, rồi kết bằng hình ảnh quả sung cần thời gian để chín.",
       "added": "2026-10-25",
-      "reading_minutes": 2
+      "reading_minutes": 2,
+      "coverage": "excerpt"
     },
     {
       "id": "biet-du-khong-phai-la-cam-chiu",
@@ -382,7 +404,8 @@
       ],
       "summary": "Đọc chương 12, quyển 1 của Epictetus: vì sao bằng lòng không phải là cam chịu mà là một kỹ năng. Bài cho thấy cách đặt lại tên cho hoàn cảnh, ví dụ cô đơn thành bình yên, đám đông thành lễ hội, và chuyện Socrates tự nguyện ở tù. Bài chốt lại rằng việc của ta chỉ là dùng đúng các ấn tượng.",
       "added": "2026-10-25",
-      "reading_minutes": 2
+      "reading_minutes": 2,
+      "coverage": "excerpt"
     }
   ]
 }

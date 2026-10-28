@@ -129,6 +129,10 @@ python3 scripts/rights_gate.py --mode <id>           # in ra full|excerpt|skip
 | `user-confirmed-permission` không `evidence` | cảnh báo, không chặn CI |
 | `excerpt-only` | **chặn** |
 
+`coverage: "summary"` là ngoại lệ có kiểm soát: cho phép với **mọi** nguồn trong allowlist, kể cả `excerpt-only`, vì nó truyền đạt ý và sự kiện bằng lời người viết chứ không lấy cách diễn đạt của tác giả. Hai trần được cưỡng chế cứng: **250–600 từ** và **≤40% độ dài nguồn**. Vượt trần là thành bản dịch rút gọn, và gate chặn — đó chính là điểm khác biệt giữa "tóm tắt" và "dịch bớt".
+
+Cách làm: `python3 scripts/attach_source_stats.py --coverage summary <id>`, rồi validate và gate như thường. Body nên kết bằng `*Bản tóm tắt — đọc toàn bài tại <nguồn>.*` để người đọc biết đây không phải bản dịch.
+
 `coverage: "excerpt"` chỉ cần một entry bất kỳ và phải giữ `source_url`. CI chạy gate trước bước deploy, nên bản dịch toàn văn của nguồn không có phép không lên được `hexdino.github.io`.
 
 `--mode <id>` tự dò URL theo thứ tự: file bài viết → `.cache/slow-reads/<id>/meta.json` → `queue.json` (khớp `id`). Runner dùng lệnh này để chọn chế độ, nên prompt luôn khớp giấy phép.
@@ -220,6 +224,7 @@ python3 scripts/validate_slow_read.py --strict
 - `full` (mặc định cho bài mới): CI fail nếu bản dịch dưới **45% ký tự** hoặc **50% số câu** của nguồn.
 - `condensed`: cho bài lược dịch cũ/được chủ ý rút gọn; các chỉ số chỉ ghi chú, schema vẫn bắt buộc.
 - `excerpt`: chỉ 2–3 đoạn + link; CI fail nếu vượt **8 block**, **1800 ký tự** hoặc **50% độ dài nguồn**.
+- `summary`: 250–600 từ, ≤40% độ dài nguồn, bắt buộc `source_url`; CI fail nếu ra ngoài khoảng đó.
 - Chỉ số blocks/headings chỉ ghi chú vì việc gộp đoạn và tách câu khác nhau theo ngôn ngữ.
 - Khi có cache, validator còn đối chiếu `sha256`; trên CI chỉ dùng `source_stats` nhúng, không cần nguồn.
 - Giới hạn: ngưỡng chỉ bắt thiếu thô (cả đoạn/cả mục). Không thay thế việc đọc đối chiếu thủ công.

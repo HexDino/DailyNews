@@ -85,7 +85,7 @@ Produced by `scripts/attach_source_stats.py` from `.cache/slow-reads/<id>/source
 | Field | Required | Description |
 | --- | --- | --- |
 | `url` | yes | Source URL from `meta.json`. |
-| `coverage` | yes | `full` (default), `excerpt` for a 2–3 paragraph preview, or `condensed` for an intentionally abridged legacy post. |
+| `coverage` | yes | `full` (default), `excerpt` for a 2–3 paragraph preview, `summary` for a 250–600 word rewrite of the ideas, or `condensed` for an intentionally abridged legacy post. |
 | `word_count` | yes | Whitespace-separated words in the normalized source. |
 | `char_count` | yes | Source characters excluding whitespace. |
 | `paragraph_count` | yes | Non-empty source blocks. |
@@ -115,6 +115,7 @@ Validation rules:
 - `coverage: "excerpt"`: fatal when the body exceeds 8 blocks, 1800 characters, or 50% of source length; must keep `source_url`.
 - Block and heading counts are informational (paragraph merging and sentence splitting vary by language).
 - `coverage: "condensed"`: all coverage metrics are informational; schema checks still apply.
+- `coverage: "summary"`: fatal when the body is outside **250–600 words**, when it exceeds **40%** of source characters, or when `source_url` is missing. A summary states ideas and facts in the writer's own words with attribution — it must not become an abridged translation, which needs the same licence as a full one. Short quotations are fine; keep them to one or two sentences.
 
 ## Licence gate (`scripts/rights_gate.py`)
 
@@ -129,7 +130,7 @@ Schema validity is not permission to publish. A translation is a derivative work
 | `user-confirmed-permission`, no `evidence` | warning only, CI passes |
 | `excerpt-only` | **blocked** |
 
-`coverage: "excerpt"` needs any allowlist entry and must keep `source_url`. The gate also rejects an article whose `source_stats.url` host differs from `source_url`, and any entry past its `expires_at`. CI runs it before deploy, so a full translation of a protected source cannot reach the live site.
+`coverage: "excerpt"` needs any allowlist entry and must keep `source_url`. `coverage: "summary"` is allowed for **any** allowlisted source — it carries ideas, not expression — but the word cap (250–600) and the 40% length cap are enforced, so it cannot drift back into an abridged translation. The gate also rejects an article whose `source_stats.url` host differs from `source_url`, and any entry past its `expires_at`. CI runs it before deploy, so a full translation of a protected source cannot reach the live site.
 
 `python3 scripts/rights_gate.py --mode <id>` prints the resolved `full` / `excerpt` / `skip` for an article id — the runner uses it to pick the right prompt.
 

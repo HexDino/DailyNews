@@ -59,6 +59,14 @@ EN_STOPWORDS = {
 WORDS_PER_MINUTE = 180
 SHA_RE = re.compile(r"^[0-9a-f]{64}$")
 
+# `coverage: "summary"` is the only form allowed for sources we cannot
+# translate. The caps are deliberately tight: past them a summary stops being a
+# summary and becomes an abridged translation, which needs the same licence as
+# a full one.
+SUMMARY_MIN_WORDS = 250
+SUMMARY_MAX_WORDS = 600
+SUMMARY_MAX_RATIO = 0.40
+
 
 def block_text(block: dict) -> str:
     return str(block.get("text") or "")
@@ -131,9 +139,14 @@ def check_source_stats(
     if not isinstance(sha, str) or not SHA_RE.match(sha):
         errors.append("source_stats.sha256 must be 64 lowercase hex chars")
     coverage = stats.get("coverage")
-    if coverage is not None and coverage not in ("full", "condensed", "excerpt"):
+    if coverage is not None and coverage not in (
+        "full",
+        "condensed",
+        "excerpt",
+        "summary",
+    ):
         errors.append(
-            "source_stats.coverage must be 'full', 'condensed' or 'excerpt'"
+            "source_stats.coverage must be 'full', 'condensed', 'excerpt' or 'summary'"
         )
     word_count = stats.get("word_count")
     if (
@@ -146,13 +159,39 @@ def check_source_stats(
 
 
 def coverage_messages(
-    stats: dict, blocks: list[dict], warnings: list[str], notes: list[str]
+    stats: dict,
+    blocks: list[dict],
+    errors: list[str],
+    warnings: list[str],
+    notes: list[str],
 ) -> None:
     policy = stats.get("coverage") or "full"
     src_chars = stats.get("char_count") or 0
+    text = body_text(blocks)
+
+    # A summary is the one form allowed for sources we cannot translate: ideas
+    # and facts in the writer's own words. The word cap is what stops it from
+    # drifting back into an abridged translation.
+    if policy == "summary":
+        words = len(text.split())
+        if not SUMMARY_MIN_WORDS <= words <= SUMMARY_MAX_WORDS:
+            errors.append(
+                f"summary must be {SUMMARY_MIN_WORDS}-{SUMMARY_MAX_WORDS} words, got {words}"
+            )
+        if isinstance(src_chars, int) and src_chars >= 200:
+            ratio = compact_len(text) / src_chars
+            if ratio > SUMMARY_MAX_RATIO:
+                errors.append(
+                    f"summary is {ratio:.0%} of source length; must stay under "
+                    f"{SUMMARY_MAX_RATIO:.0%} or it becomes an abridged translation"
+                )
+            notes.append(f"summary: {words} words, chars {ratio:.0%}")
+        else:
+            notes.append(f"summary: {words} words")
+        return
+
     if not isinstance(src_chars, int) or src_chars < 200:
         return
-    text = body_text(blocks)
     char_ratio = compact_len(text) / src_chars
 
     if policy == "excerpt":
@@ -363,7 +402,7 @@ def validate_article(
             warnings.append("source_stats.url differs from source_url")
 
     if isinstance(stats_for_coverage, dict):
-        coverage_messages(stats_for_coverage, blocks, warnings, notes)
+        coverage_messages(stats_for_coverage, blocks, errors, warnings, notes)
 
     return aid
 

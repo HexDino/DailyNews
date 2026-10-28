@@ -224,11 +224,18 @@
     const mins = a.reading_minutes
       ? `<span class="doc-cham-card-mins">${escapeHtml(String(a.reading_minutes))} phút đọc</span>`
       : "";
+    // A summary is not a translation: say so on the card so nobody expects the
+    // full piece.
+    const kind = a.coverage === "summary"
+      ? `<span class="ui-chip ui-chip--accent">Tóm tắt</span>`
+      : a.coverage === "excerpt"
+        ? `<span class="ui-chip">Trích đoạn</span>`
+        : "";
     return `<article class="doc-cham-card">
       <h2 class="doc-cham-card-title"><a href="${escapeHtml(articleHref(a.id))}">${escapeHtml(a.title)}</a></h2>
       ${a.summary ? `<p class="doc-cham-card-summary">${escapeHtml(a.summary)}</p>` : ""}
       <p class="doc-cham-card-byline">${escapeHtml(byline)}${mins ? " · " + mins : ""}</p>
-      ${topics ? `<div class="doc-cham-card-topics">${topics}</div>` : ""}
+      ${kind || topics ? `<div class="doc-cham-card-topics">${kind}${topics}</div>` : ""}
     </article>`;
   }
 
@@ -372,6 +379,15 @@
       if (status) status.hidden = true;
       document.title = `${a.title} — Slow Reads — Daily News`;
       const translated = a.lang && a.lang !== "vi";
+      const coverage = a.source_stats && a.source_stats.coverage;
+      const kindChip =
+        coverage === "summary"
+          ? `<p class="doc-cham-translated ui-chip ui-chip--accent">Bản tóm tắt tiếng Việt</p>`
+          : coverage === "excerpt"
+            ? `<p class="doc-cham-translated ui-chip">Trích đoạn — bản dịch rút gọn</p>`
+            : translated
+              ? `<p class="doc-cham-translated ui-chip ui-chip--accent">Bản dịch tiếng Việt</p>`
+              : "";
       const topics = (a.topics || [])
         .map((t) => `<span class="ui-chip ui-chip--plain">${escapeHtml(t)}</span>`)
         .join("");
@@ -389,7 +405,7 @@
           <h1>${escapeHtml(a.title)}</h1>
           ${a.title_original ? `<p class="doc-cham-title-original">${escapeHtml(a.title_original)}</p>` : ""}
           <p class="doc-cham-article-byline">${escapeHtml(a.author || "")}${a.author && a.source ? " · " : ""}${sourceLink}${a.reading_minutes ? ` · ${escapeHtml(String(a.reading_minutes))} phút đọc` : ""}</p>
-          ${translated ? `<p class="doc-cham-translated ui-chip ui-chip--accent">Bản dịch tiếng Việt</p>` : ""}
+          ${kindChip}
           ${topics ? `<div class="doc-cham-card-topics">${topics}</div>` : ""}
         </header>
         <div class="doc-cham-prose">${renderBody(a.body)}${fullRead}</div>

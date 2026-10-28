@@ -1,6 +1,6 @@
 {
   "id": "tra-tien-cho-dua-tre-tot-nhat",
-  "title": "Trả tiền cho đứa trẻ tốt nhất?",
+  "title": "Trả tiền để có đứa con “tốt nhất”?",
   "title_original": "Would you pay to have the ‘best baby’? Liberal eugenics and the troubling quest for human perfection",
   "author": "Jan Grue",
   "source": "The Guardian",
@@ -8,14 +8,14 @@
   "lang": "en",
   "topics": [
     "Con người",
-    "Tư duy & khoa học"
+    "Đối nhân xử thế"
   ],
-  "summary": "Một người sống với chứng teo cơ tuỷ sống kể về giấc mơ được “chữa khỏi” và câu hỏi đáng lo về việc chọn lọc phôi để có “đứa trẻ tốt nhất”.",
+  "summary": "Một công ty bán dịch vụ sàng lọc phôi để có đứa con “tốt nhất”. Tác giả, người sống với bệnh cơ từ nhỏ, chỉ ra rằng đằng sau chữ “tốt nhất” là một ý niệm rất hẹp về con người — và nó không mới.",
   "added": "2026-10-28",
-  "reading_minutes": 1,
+  "reading_minutes": 3,
   "source_stats": {
     "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection",
-    "coverage": "excerpt",
+    "coverage": "summary",
     "word_count": 3586,
     "char_count": 18067,
     "paragraph_count": 40,
@@ -26,15 +26,35 @@
   "body": [
     {
       "type": "p",
-      "text": "Suốt một thời gian rất dài, tôi mơ được chữa khỏi bệnh. Tôi sinh năm 1981. Tôi biết đi khá sớm, nhưng vấp ngã dễ hơn những đứa trẻ khác. Bố mẹ bắt đầu lo có điều gì không ổn, rằng cơ của tôi yếu hơn bình thường. Đến năm ba tuổi, tôi được chẩn đoán mắc một dạng teo cơ tuỷ sống (SMA). Thập niên 1980, cơ chế chính xác của bệnh chưa được hiểu rõ, nhưng người ta biết đây là bệnh di truyền, có lẽ liên quan đến một gen lặn, và bệnh tiến triển dần. Càng lớn, cơ của tôi càng không theo kịp. Năm tám tuổi, tôi bắt đầu dùng xe lăn cho những quãng đường dài. Đến năm 18 tuổi, tôi hầu như không còn đi bộ ngoài trời."
+      "text": "Jan Grue sinh năm 1981. Ba tuổi, ông được chẩn đoán teo cơ tuỷ sống — một bệnh di truyền, tiến triển, không chữa được. Ông lớn lên với một ý nghĩ ám ảnh: một “bản sao” của chính mình, cùng một con người, chỉ trừ đi đúng một lỗi gen."
     },
     {
       "type": "p",
-      "text": "Thật khó khi còn trẻ mà biết rằng mình đang yếu đi chứ không mạnh lên. Tôi cũng có những khát vọng như bạn bè không khuyết tật, nhưng tôi sống trong nỗi sợ tương lai mà họ không có. Tôi dành nhiều thời gian nghĩ xem cuộc đời mình sẽ ra sao nếu không mắc SMA. Hình ảnh trong đầu tôi giống như một bản sao: chính tôi, chỉ là không còn khiếm khuyết duy nhất ấy, thứ được mã hoá đâu đó trong cơ thể."
+      "text": "Hình ảnh đó quay lại vào năm ngoái, qua loạt quảng cáo của Nucleus Genomics dán khắp tàu điện ngầm New York. Công ty hứa hẹn đứa con “tốt nhất”: sàng lọc tới 20 phôi, không chỉ để loại bệnh di truyền mà cả màu mắt, màu tóc, chiều cao, tuổi thọ, cho đến chứng mất ngủ và hói đầu."
     },
     {
       "type": "p",
-      "text": "*Trích đoạn — đọc toàn bài tại [The Guardian](https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection).*"
+      "text": "Grue gọi đó là eugenics — nhưng là bản “tự do”. Không còn nhà nước đứng sau quyết định ai được sinh ra; giờ là cha mẹ tự chọn, và một công ty bán dịch vụ đó như một gói bảo hiểm. Ông truy nguồn gốc: Francis Galton, anh họ của Darwin, đặt ra từ này năm 1883 với niềm tin rằng chọn lọc tự nhiên có thể được con người “quản lý một cách sáng suốt, nhanh chóng và nhân từ”."
+    },
+    {
+      "type": "p",
+      "text": "Điểm ông nhấn mạnh: cái “tốt nhất” chưa bao giờ trung tính. Với Galton, nó là thiên tài di truyền gắn với tầng lớp trên, còn nghèo đói và tội phạm bị coi là nguyên nhân thay vì hậu quả. Với bản eugenics thương mại hôm nay, cái tốt quy về năng suất và lợi thế cạnh tranh — con người lý tưởng gần như trùng khít với người lao động lý tưởng: thông minh, hiệu quả, và không bao giờ nghỉ ốm."
+    },
+    {
+      "type": "p",
+      "text": "Và không thể chọn điều này mà không loại điều kia. Nhà sinh học Adam Rutherford: eugenics dương tính và âm tính là hai mặt của một đồng xu; không có ý niệm về cái không mong muốn thì cũng không có cái đáng mong. Đứng đối diện giấc mơ hoàn hảo, luôn là những cuộc đời khuyết tật và bệnh mạn tính."
+    },
+    {
+      "type": "p",
+      "text": "Phần riêng tư nhất của bài nằm ở cuối. Xét nghiệm gen về sau cho thấy Grue không mắc SMA như chẩn đoán ban đầu, mà một bệnh hiếm hơn nhiều và ít được tài trợ nghiên cứu. Mất cả chẩn đoán lẫn hy vọng điều trị, ông lại thấy nhẹ hơn: cuộc đời này là của chính mình, không phải bản nháp của một ai khác."
+    },
+    {
+      "type": "p",
+      "text": "Kết luận của ông không phải là phản đối việc tìm cách chữa bệnh, mà phản đối ý nghĩ rằng chỉ có chữa khỏi mới làm nên một đời đáng sống. Mục tiêu nên là một xã hội tốt hơn, không phải những con người tốt hơn. Ông mượn khái niệm “natality” của Hannah Arendt: mỗi sinh linh mang vào thế giới một thứ chưa từng tồn tại, và thế giới được làm mới."
+    },
+    {
+      "type": "p",
+      "text": "*Bản tóm tắt — đọc toàn bài tại The Guardian.*"
     }
   ]
 }

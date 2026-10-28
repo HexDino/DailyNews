@@ -70,6 +70,12 @@ def load_article(path: Path) -> dict:
     entry["added"] = data.get("added") or ""
     mins = data.get("reading_minutes")
     entry["reading_minutes"] = int(mins) if mins is not None else 1
+    # Surfaced so the list and article pages can label a summary differently
+    # from a translation.
+    stats = data.get("source_stats")
+    entry["coverage"] = (
+        str(stats.get("coverage") or "full") if isinstance(stats, dict) else "full"
+    )
     return entry
 
 
