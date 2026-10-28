@@ -19,7 +19,11 @@
       "fetch": "rss+static",
       "status": "published",
       "rights_note": "user-accepted",
-      "added_at": "2026-10-27"
+      "added_at": "2026-10-27",
+      "id": "tra-tien-cho-dua-tre-tot-nhat",
+      "published_at": "2026-10-28",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=tra-tien-cho-dua-tre-tot-nhat",
+      "note": "Published as a 490-word summary (coverage: summary), not a translation."
     },
     {
       "source_id": "psyche",

@@ -21,9 +21,16 @@ Grok Bot là app chat trên desktop — nó **không** chạy được script, k
 
 Prompt cấu hình vai trò Grok: [`GROK_ROLE.md`](GROK_ROLE.md). Prompt này thay cho hai khối "Grok — discovery" và "Grok — publish" bên dưới, vốn giả định Grok chạy được lệnh.
 
-**Automation đang chạy**: mỗi ngày 07:00, WorkBuddy chọn tác phẩm public domain ngắn nhất chưa dịch (≤25.000 từ, nới lên ≤50.000 nếu bậc đầu rỗng), dịch, chạy `validate --strict` + `rights_gate`, rồi commit và push. Một lượt = một tác phẩm. Đổi tần suất trong phần Automations của WorkBuddy.
+**Automation đang chạy**: hai lịch, cả hai đều tự commit và push.
 
-Nhịp ngày cần catalogue đủ dày: hiện có 11 tác phẩm ≤25.000 từ và 23 tác phẩm ≤50.000 từ, tức khoảng 23 ngày rồi cạn. Muốn chạy dài hạn thì bổ sung `slow-reads/public-domain.json` trước — mỗi entry cần một `gutenberg_id` đã đối chiếu Gutendex.
+| Lịch | Việc | Tần suất |
+| --- | --- | --- |
+| 07:00 | Dịch **toàn văn** một tác phẩm public domain (≤25.000 từ, nới ≤50.000 nếu bậc đầu rỗng) | hằng ngày |
+| 19:00 | Viết **tóm tắt** 250–600 từ cho một bài đương đại lấy từ queue hoặc RSS | thứ Hai, Tư, Sáu |
+
+Cả hai đều dừng nếu `validate --strict` hoặc `rights_gate` báo lỗi. Đổi tần suất trong phần Automations của WorkBuddy.
+
+Runway hiện tại: **16 tác phẩm ≤25.000 từ** và **40 tác phẩm ≤50.000 từ** — khoảng 40 ngày ở nhịp ngày. Muốn chạy dài hơn thì bổ sung catalogue; tra ID bằng `pg_catalog.csv` như trên.
 
 `source_stats` là các con số đo nguồn (số từ/ký tự/đoạn/câu/heading + sha256), do `scripts/attach_source_stats.py` sinh ra. Nó cho phép CI kiểm độ phủ bản dịch mà **không cần** đưa nội dung nguồn lên repo.
 
@@ -165,7 +172,9 @@ Output có `source_id, source, url, title, author, published, summary, topics, l
 
 Báo đương đại gần như đều `all rights reserved`. Public domain thì không: dịch, đăng, bán đều được. Đây là nơi thư viện nên dày lên.
 
-**Catalogue**: `slow-reads/public-domain.json` — 28 tác phẩm, trải 8 chủ đề. Mỗi entry có `gutenberg_id` **đã đối chiếu qua Gutendex API**, `topics`, `est_words`, và `note` giải thích vì sao hợp chủ đề. Không dùng RSS của Gutenberg làm nguồn chính: feed đó chỉ liệt kê sách tải lên hôm nay, không liên quan gì tới chủ đề.
+**Catalogue**: `slow-reads/public-domain.json` — 73 tác phẩm, trải 8 chủ đề. Mỗi entry có `gutenberg_id` **đã đối chiếu**, `topics`, `est_words`, và `note` giải thích vì sao hợp chủ đề. Không dùng RSS của Gutenberg làm nguồn chính: feed đó chỉ liệt kê sách tải lên hôm nay, không liên quan gì tới chủ đề.
+
+Nguồn tra ID: **`https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv`** (~21 MB, 90k dòng, có cột Authors/Subjects/Bookshelves). Tải một lần rồi grep local — nhanh và không bị rate limit. Gutendex (`gutendex.com`) cũng dùng được nhưng hay trả 503; chỉ nên dùng khi cần metadata bổ sung.
 
 ```bash
 # Xem ứng viên, ngắn trước, xen kẽ chủ đề
