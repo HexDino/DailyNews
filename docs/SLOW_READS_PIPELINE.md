@@ -10,6 +10,19 @@ URL + metadata    ──►    source.txt + meta.json   ──►   articles/<id
 
 Grok Bot là app chat trên desktop — nó **không** chạy được script, không có scheduled task, không đọc repo. Nó chỉ soạn prompt và script; mọi bước thực thi là chạy tay hoặc do `run-batch.ps1` làm.
 
+## Phân chia nhiệm vụ
+
+| Việc | Ai làm |
+| --- | --- |
+| Soạn số báo hằng ngày (`issues/<id>/content.json`) | Grok |
+| Tìm link + metadata cho Slow Reads (không đọc body) | Grok |
+| Dịch Slow Reads, validate, gate, commit, push | WorkBuddy |
+| Build PDF, rebuild index, deploy | WorkBuddy |
+
+Prompt cấu hình vai trò Grok: [`GROK_ROLE.md`](GROK_ROLE.md). Prompt này thay cho hai khối "Grok — discovery" và "Grok — publish" bên dưới, vốn giả định Grok chạy được lệnh.
+
+**Automation đang chạy**: mỗi Chủ nhật 07:00, WorkBuddy chọn tác phẩm public domain ngắn nhất chưa dịch (≤25.000 từ), dịch, chạy `validate --strict` + `rights_gate`, rồi commit và push. Một lượt = một tác phẩm. Đổi tần suất trong phần Automations của WorkBuddy.
+
 `source_stats` là các con số đo nguồn (số từ/ký tự/đoạn/câu/heading + sha256), do `scripts/attach_source_stats.py` sinh ra. Nó cho phép CI kiểm độ phủ bản dịch mà **không cần** đưa nội dung nguồn lên repo.
 
 ## Hợp đồng file
