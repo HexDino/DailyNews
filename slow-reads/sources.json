@@ -471,6 +471,36 @@
       "quality": 95,
       "max_per_week": 1,
       "notes": "Public-domain ebooks; separate queue, cap length."
+    },
+    {
+      "id": "farnam-street",
+      "name": "Farnam Street",
+      "domain": "fs.blog",
+      "topics": [
+        "Tư duy & khoa học",
+        "Sự nghiệp"
+      ],
+      "lang": "en",
+      "rss": "https://fs.blog/feed/",
+      "fetch": "rss+static",
+      "quality": 88,
+      "max_per_week": 1,
+      "notes": "Mental models and decision-making essays."
+    },
+    {
+      "id": "figs-in-wintertime",
+      "name": "Figs in Wintertime",
+      "domain": "figsinwintertime.substack.com",
+      "topics": [
+        "Tư duy & khoa học",
+        "Con người"
+      ],
+      "lang": "en",
+      "rss": "https://figsinwintertime.substack.com/feed",
+      "fetch": "rss+static",
+      "quality": 82,
+      "max_per_week": 1,
+      "notes": "Philosophy and practical living essays."
     }
   ]
 }

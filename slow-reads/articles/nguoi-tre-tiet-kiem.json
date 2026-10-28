@@ -11,10 +11,10 @@
   ],
   "summary": "Phóng sự VnExpress (10/2022) về chuyện người trẻ sau hai năm dịch chuyển sang mua đồ si, thuê váy đi tiệc, tự nấu cơm mang đi làm. Bài có khảo sát nhanh 120 người, ý kiến chuyên gia, và cả những người thấy tiết kiệm kiểu này không hợp với mình.",
   "added": "2026-10-26",
-  "reading_minutes": 6,
+  "reading_minutes": 2,
   "source_stats": {
     "url": "https://vnexpress.net/nguoi-tre-tiet-kiem-4528416.html",
-    "coverage": "full",
+    "coverage": "excerpt",
     "word_count": 1713,
     "char_count": 6079,
     "paragraph_count": 28,
@@ -37,39 +37,7 @@
     },
     {
       "type": "p",
-      "text": "PGS.TS Đỗ Minh Cương, nguyên giảng viên Đại học Kinh tế, Đại học Quốc gia Hà Nội, cho rằng lối sống này phổ biến không phải tình cờ. Đó là hiệu ứng dây chuyền: người ta thấy cái lợi thì chủ động theo, rồi càng thúc đẩy nó lan rộng. Theo ông, tận dụng đồ cũ là cách xoay xở thông minh, hợp thời, nhất là khi cả nước còn gần 17 triệu lao động bị dịch làm giảm thu nhập. Ngoài dịch bệnh và lạm phát, ông nêu thêm ba lý do khiến người trẻ đổi cách tiêu tiền: Internet đưa nhiều người đến với lối sống mới, kinh tế chia sẻ phổ biến hơn nên đồ cũ được để ý nhiều hơn, và tiêu dùng xanh được khuyến khích."
-    },
-    {
-      "type": "p",
-      "text": "Chuyện ăn uống cũng đổi. Anh Đình Trường, 30 tuổi, ở quận Bình Thạnh, TP HCM, gần một năm nay tự nấu và mang cơm đi làm. Giá leo thang, phí ship ngang tiền đồ ăn, thu nhập lại sụt sau dịch. Anh đi chợ đầu mối hoặc chờ siêu thị khuyến mại, nên mỗi bữa chỉ tốn 15.000 đến 20.000 đồng. Đi chơi với bạn, anh giảm từ vài lần một tuần xuống một, hai lần mỗi tháng, và đổi thẻ gym lấy những buổi chạy bộ ngoài công viên. Anh nói mình không keo kiệt, chỉ sắp xếp lại chi tiêu sau hai năm túng thiếu vì thất nghiệp và không có tiền dự trữ."
-    },
-    {
-      "type": "p",
-      "text": "Quỳnh, Phương Anh và Trường nằm trong hơn 120 người từ 18 đến 35 tuổi trả lời khảo sát nhanh của phóng viên VnExpress hôm 23/10. Gần 70% cho biết họ tiết kiệm hơn sau hai năm dịch. Trong số đó, 40,4% giảm mua quần áo và đồ dùng cá nhân, 29,3% không đi du lịch hoặc chọn tour giá rẻ, 16,2% hạn chế ăn ngoài và 14,1% bớt giải trí."
-    },
-    {
-      "type": "p",
-      "text": "Bích Hân, 29 tuổi, ở Bắc Ninh, trước dịch sống sang chảnh, không ngại chi tiền triệu cho đồ hiệu hay những chuyến du lịch tốn kém. Dịch làm thu nhập giảm, cô xem nhiều video về lối sống tiết kiệm. Thấy mọi người bắt đầu chi tiêu khoa học còn mình chưa hết tháng đã hết tiền, phải vay mượn, cô tự thấy có lỗi. Lần đầu mua đồ si, cô ngại vì nghĩ chẳng may đó là đồ của người đã khuất, người ta bỏ đi, lại nhàu nát và lỗi mốt. Thực tế khác hẳn: cô tìm được món đẹp, có món còn nguyên tem mác thương hiệu nổi tiếng thế giới, giá vài trăm nghìn đồng. Chỉ cần kiên nhẫn lục trong các \"núi\" quần áo, phối khéo còn thành phong cách."
-    },
-    {
-      "type": "p",
-      "text": "Dịch vụ cho thuê trang phục cũng nở ra. Chị Nguyễn Thị Huyền, 25 tuổi, chủ một cửa hàng cho thuê quần áo ở quận Nam Từ Liêm, Hà Nội, mở tiệm từ giữa năm 2022 với hơn 60 bộ váy. Khách hầu hết từ 18 đến 35 tuổi, thuê để đi du lịch, dự sinh nhật, đám cưới hoặc chụp ảnh sống ảo. Mỗi ngày có 4 đến 5 người ghé thuê, chưa kể khách đặt trực tuyến, giá từ 50.000 đến 400.000 đồng một ngày tùy bộ đồ. Nhiều tiệm còn cho thuê cả giày, trang sức."
-    },
-    {
-      "type": "p",
-      "text": "Xu hướng này có thể là một trong những lý do khiến tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng 9 tháng năm 2022 ước chỉ đạt 84% so với lúc chưa có Covid-19. Đó là nhận định của các chuyên gia, dựa trên báo cáo của Bộ trưởng Kế hoạch và Đầu tư Nguyễn Chí Dũng tại phiên họp Ủy ban Kinh tế. Thứ trưởng Trần Duy Đông nói thêm rằng sức mua đã phục hồi nhưng chủ yếu dồn vào hàng thiết yếu, còn hàng không thiết yếu tăng thấp."
-    },
-    {
-      "type": "p",
-      "text": "Du lịch cũng chung chiều hướng. Ông Lê Công Năng, tổng giám đốc công ty du lịch Wondertour, cho biết lượng khách tìm tour giá rẻ tăng khoảng 30% so với trước. Khách phần lớn là người trẻ, đa số nữ từ 24 đến 40 tuổi, chuộng tour chụp ảnh, dã ngoại gia đình hay tour ngủ đêm trên vịnh Hạ Long, với chi phí bằng 80% tour tiêu chuẩn. Ông cho rằng du lịch giá rẻ sẽ còn phát triển mạnh, các hãng lữ hành buộc phải thay đổi theo."
-    },
-    {
-      "type": "p",
-      "text": "Nhưng không phải ai cũng đủ kiên trì. Trang, 31 tuổi, ở quận 3, TP HCM, từng học bạn mua đồ cũ, nấu ăn ở nhà và bớt đi chơi, song không như kỳ vọng. Cô không kìm được thói quen mua sắm mỗi khi thấy mẫu mới, lại từ chối bạn bè rủ đi chơi vì thấy như đang ngược đãi bản thân. Quay về lối cũ, lương 15 triệu đồng mỗi tháng của cô không đủ tiêu, cô thường xuyên phải vay mượn. Nhưng cô cho là xứng đáng, vì không nên chắt chiu từng đồng mà không hưởng thụ. Cô muốn dùng tiền để mua sự tự do và hạnh phúc."
-    },
-    {
-      "type": "p",
-      "text": "Ở chiều ngược lại, Phương Anh nói mình thoải mái với cách sống hiện tại vì biết tiêu tiền thông minh: vẫn được mặc đồ đẹp mà vẫn tích được khoản kha khá phòng thân."
+      "text": "*Trích đoạn — đọc toàn bài tại VnExpress Đời sống.*"
     }
   ]
 }

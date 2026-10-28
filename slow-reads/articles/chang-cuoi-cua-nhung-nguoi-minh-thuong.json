@@ -12,10 +12,10 @@
   ],
   "summary": "Tim Urban đếm đời mình bằng số lần làm một việc, rồi nhận ra các mối quan hệ không rải đều theo năm tháng. Với bố mẹ, chị em và bạn cũ, phần lớn thời gian bên nhau đã qua, và ông rút ra ba điều nên làm.",
   "added": "2026-10-26",
-  "reading_minutes": 4,
+  "reading_minutes": 2,
   "source_stats": {
     "url": "https://waitbutwhy.com/2015/12/the-tail-end.html",
-    "coverage": "full",
+    "coverage": "excerpt",
     "word_count": 1148,
     "char_count": 4897,
     "paragraph_count": 39,
@@ -38,39 +38,7 @@
     },
     {
       "type": "p",
-      "text": "Có điều, mấy thứ này năm nào cũng lặp lại với nhịp gần như nhau. Đi được một phần ba đời thì tôi cũng dùng hết chừng một phần ba số lần. Nhưng có một thứ rất quan trọng không chạy đều như thế: các mối quan hệ. Phần đã trôi qua và phần còn lại của chúng lệch hẳn so với quãng đời tôi đã đi."
-    },
-    {
-      "type": "p",
-      "text": "Bố mẹ tôi đang ở tuổi giữa 60. Trong 18 năm đầu đời, ít nhất 90% số ngày tôi đều có mặt bên họ một lúc nào đó. Từ khi lên đại học rồi rời Boston, mỗi năm tôi gặp mỗi người trung bình năm lần, mỗi lần chừng hai ngày. Tính ra là 10 ngày một năm, chỉ khoảng 3% so với thời thơ ấu. Cứ lạc quan nốt và giả sử cả hai còn khỏe thêm 30 năm. Thế là tôi còn 300 ngày bên bố mẹ, ít hơn bất kỳ năm nào trong 18 năm tuổi thơ. Hóa ra lúc tốt nghiệp cấp ba, tôi đã dùng hết 93% thời gian gặp mặt trực tiếp với bố mẹ. Giờ tôi đang sống trong 5% cuối cùng. Chúng tôi đang ở chặng cuối."
-    },
-    {
-      "type": "p",
-      "text": "Nghĩa là ta chưa tới cuối đời, nhưng có thể đã gần hết thời gian bên những người quan trọng nhất."
-    },
-    {
-      "type": "p",
-      "text": "Hai chị em gái cũng vậy. Tôi ở chung nhà với họ lần lượt 10 và 13 năm, giờ sống cách nhau nửa nước Mỹ, mỗi năm gặp chừng 15 ngày. Hy vọng còn khoảng 15% thời gian bên nhau. Bạn cũ cũng thế. Hồi cấp ba, tôi chơi bài cơ (hearts) với bốn đứa bạn khoảng năm buổi một tuần, bốn năm cộng lại chừng 700 buổi. Giờ cả năm đứa mỗi người một nơi, mỗi thập kỷ mới đủ mặt cả nhóm chừng 10 ngày. Nhóm ấy chỉ còn khoảng 7%."
-    },
-    {
-      "type": "p",
-      "text": "Vậy ta làm gì với những con số này? Gác niềm hy vọng thầm kín là công nghệ giúp tôi sống tới 700 tuổi, tôi rút ra ba điều."
-    },
-    {
-      "type": "p",
-      "text": "Một, sống cùng nơi với người mình thương rất quan trọng. Thời gian còn lại với người ở cùng thành phố gấp chừng mười lần so với người ở xa."
-    },
-    {
-      "type": "p",
-      "text": "Hai, ưu tiên quan trọng. Thời gian gặp ai phụ thuộc phần lớn vào chỗ người đó trong danh sách ưu tiên của đời mình. Hãy chắc rằng danh sách ấy do bạn đặt, đừng để quán tính đặt thay."
-    },
-    {
-      "type": "p",
-      "text": "Ba, chất lượng quan trọng. Nếu đang ở 10% cuối với người mình thương, hãy nhớ điều đó khi ở bên họ và coi quãng thời gian ấy là quý giá."
-    },
-    {
-      "type": "p",
-      "text": "Cuối cùng, để khỏi rước xui vào thân, xin bạn đọc mọi con số về tuổi thọ ở trên kèm câu \"nếu tôi thật sự may mắn\"."
+      "text": "*Trích đoạn — đọc toàn bài tại Wait But Why.*"
     }
   ]
 }

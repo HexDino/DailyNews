@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated_at": "2026-10-27",
+  "version": 2,
+  "updated_at": "2026-10-28",
   "default": "skip",
   "allowed_domains": [
     "aeon.co",
@@ -32,321 +32,352 @@
     "paulgraham.com",
     "waitbutwhy.com",
     "gutenberg.org",
-    "standardebooks.org"
+    "standardebooks.org",
+    "fs.blog",
+    "figsinwintertime.substack.com"
   ],
   "entries": [
     {
       "match": "domain:aeon.co",
       "domain": "aeon.co",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:nautil.us",
       "domain": "nautil.us",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:quantamagazine.org",
       "domain": "quantamagazine.org",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:worksinprogress.co",
       "domain": "worksinprogress.co",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:asimov.press",
       "domain": "asimov.press",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:psyche.co",
       "domain": "psyche.co",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:themarginalian.org",
       "domain": "themarginalian.org",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:dailystoic.com",
       "domain": "dailystoic.com",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:modernstoicism.com",
       "domain": "modernstoicism.com",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:philosophynow.org",
       "domain": "philosophynow.org",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:noemamag.com",
       "domain": "noemamag.com",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:hedgehogreview.com",
       "domain": "hedgehogreview.com",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:behavioralscientist.org",
       "domain": "behavioralscientist.org",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:nesslabs.com",
       "domain": "nesslabs.com",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:greatergood.berkeley.edu",
       "domain": "greatergood.berkeley.edu",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:collabfund.com",
       "domain": "collabfund.com",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:ofdollarsanddata.com",
       "domain": "ofdollarsanddata.com",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:construction-physics.com",
       "domain": "construction-physics.com",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:rootsofprogress.org",
       "domain": "rootsofprogress.org",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:theguardian.com",
       "domain": "theguardian.com",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:annehelen.substack.com",
       "domain": "annehelen.substack.com",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:densediscovery.com",
       "domain": "densediscovery.com",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:vnexpress.net",
       "domain": "vnexpress.net",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:tiasang.com.vn",
       "domain": "tiasang.com.vn",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "full",
+      "basis": "user-confirmed-permission",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "User states permission; no document on file."
     },
     {
       "match": "domain:vietcetera.com",
       "domain": "vietcetera.com",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:khoahocphattrien.vn",
       "domain": "khoahocphattrien.vn",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:paulgraham.com",
       "domain": "paulgraham.com",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "full",
+      "basis": "user-confirmed-permission",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "User states permission; no document on file."
     },
     {
       "match": "domain:waitbutwhy.com",
       "domain": "waitbutwhy.com",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     },
     {
       "match": "domain:gutenberg.org",
       "domain": "gutenberg.org",
       "scope": "domain",
+      "mode": "full",
       "basis": "public-domain",
       "license": null,
       "approved_by": "user",
@@ -358,12 +389,37 @@
       "match": "domain:standardebooks.org",
       "domain": "standardebooks.org",
       "scope": "domain",
+      "mode": "full",
       "basis": "public-domain",
       "license": null,
       "approved_by": "user",
       "approved_at": "2026-10-27",
       "expires_at": null,
       "note": "Public domain; verify jurisdiction before publishing."
+    },
+    {
+      "match": "domain:fs.blog",
+      "domain": "fs.blog",
+      "scope": "domain",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
+      "license": null,
+      "approved_by": "user",
+      "approved_at": "2026-10-27",
+      "expires_at": null,
+      "note": "Excerpt and link only; no full translation."
+    },
+    {
+      "match": "domain:figsinwintertime.substack.com",
+      "domain": "figsinwintertime.substack.com",
+      "scope": "domain",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
+      "license": null,
+      "approved_by": "user",
+      "approved_at": "2026-10-27",
+      "expires_at": null,
+      "note": "Excerpt and link only; no full translation."
     }
   ]
 }

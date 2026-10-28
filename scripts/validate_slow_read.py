@@ -131,8 +131,10 @@ def check_source_stats(
     if not isinstance(sha, str) or not SHA_RE.match(sha):
         errors.append("source_stats.sha256 must be 64 lowercase hex chars")
     coverage = stats.get("coverage")
-    if coverage is not None and coverage not in ("full", "condensed"):
-        errors.append("source_stats.coverage must be 'full' or 'condensed'")
+    if coverage is not None and coverage not in ("full", "condensed", "excerpt"):
+        errors.append(
+            "source_stats.coverage must be 'full', 'condensed' or 'excerpt'"
+        )
     word_count = stats.get("word_count")
     if (
         isinstance(word_count, int)
@@ -146,12 +148,25 @@ def check_source_stats(
 def coverage_messages(
     stats: dict, blocks: list[dict], warnings: list[str], notes: list[str]
 ) -> None:
-    strict = (stats.get("coverage") or "full") == "full"
+    policy = stats.get("coverage") or "full"
     src_chars = stats.get("char_count") or 0
     if not isinstance(src_chars, int) or src_chars < 200:
         return
     text = body_text(blocks)
     char_ratio = compact_len(text) / src_chars
+
+    if policy == "excerpt":
+        if len(blocks) > 8 or compact_len(text) > 1800 or char_ratio > 0.5:
+            warnings.append(
+                "excerpt is too long; keep 2-3 paragraphs plus a source link"
+            )
+        notes.append(
+            f"excerpt: chars {char_ratio:.0%}, blocks {len(blocks)}, "
+            f"sentences {count_sentences(text)}"
+        )
+        return
+
+    strict = policy == "full"
     if char_ratio < 0.45:
         message = (
             f"translation is {char_ratio:.0%} of source length; check for skipped sections"
@@ -300,6 +315,13 @@ def validate_article(
         )
     else:
         embedded_stats = check_source_stats(data["source_stats"], errors, warnings)
+
+    if (
+        isinstance(embedded_stats, dict)
+        and embedded_stats.get("coverage") == "excerpt"
+        and not is_nonempty_str(source_url)
+    ):
+        warnings.append("excerpt article should keep source_url")
 
     stats_for_coverage = embedded_stats
     if aid and cache_dir is not None and cache_dir.is_dir():

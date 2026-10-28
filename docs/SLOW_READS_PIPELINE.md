@@ -54,7 +54,7 @@ Allowlist: `slow-reads/rights_allowlist.json` (commit). `default: "skip"`; Grok 
 
 ```json
 {
-  "version": 1,
+  "version": 2,
   "updated_at": "YYYY-MM-DD",
   "default": "skip",
   "allowed_domains": ["aeon.co", "..."],
@@ -63,20 +63,32 @@ Allowlist: `slow-reads/rights_allowlist.json` (commit). `default: "skip"`; Grok 
       "match": "domain:aeon.co",
       "domain": "aeon.co",
       "scope": "domain",
-      "basis": "user-accepted",
+      "mode": "excerpt",
+      "basis": "excerpt-only",
       "license": null,
       "approved_by": "user",
       "approved_at": "YYYY-MM-DD",
       "expires_at": null,
-      "note": "User accepted responsibility; no license verified."
+      "note": "Excerpt and link only; no full translation."
     }
   ]
 }
 ```
 
-- `basis`: `user-accepted` (người dùng chấp nhận trách nhiệm), `public-domain`, hoặc `CC-...` **chỉ khi đã kiểm license**. Không tự gán license.
-- Hiện allowlist phủ 30 domain trong registry, gồm Paul Graham, Wait But Why, Project Gutenberg và Standard Ebooks; thêm/xóa bằng cách sửa file rồi commit.
-- Nguồn ngoài allowlist vẫn có thể nằm trong candidates nhưng sẽ bị `skipped` ở bước publish.
+- `mode: "full"`: chỉ dùng cho `public-domain`, `user-confirmed-permission`, hoặc `CC-...` cho phép tác phẩm phái sinh.
+- `mode: "excerpt"`: chỉ đăng 2–3 đoạn + link; **không** dịch toàn bộ.
+- `basis`: `public-domain`, `user-confirmed-permission`, `CC-...`, hoặc `excerpt-only`. Không tự gán license.
+- Hiện allowlist phủ 32 domain: 4 domain full (Paul Graham, Tia Sáng, Gutenberg, Standard Ebooks) và 28 domain excerpt. Paul Graham/Tia Sáng chỉ full nếu bạn thực sự có phép; nếu chỉ tự chấp nhận, đổi sang `mode: "excerpt"` và chạy `make_excerpt.py`.
+- Nguồn ngoài allowlist bị `skipped` ở bước publish, không hỏi.
+
+Chuyển bài đang full sang excerpt theo allowlist:
+
+```bash
+python3 scripts/make_excerpt.py --all-excerpt --dry-run
+python3 scripts/make_excerpt.py --all-excerpt
+```
+
+Script giữ 2–3 đoạn đầu (tối đa ~1400 ký tự), thêm dòng “Trích đoạn — đọc toàn bài tại …”, đặt `source_stats.coverage = "excerpt"` và backup bản full vào `.cache/full-backup/` (local). Validator fail nếu excerpt vượt 8 block / 1800 ký tự / 50% độ dài nguồn.
 
 Discovery từ RSS (không tải body, chỉ title/link/ngày/excerpt ≤280 ký tự):
 
@@ -110,15 +122,25 @@ python3 scripts/validate_slow_read.py --strict
 - `--force`: ghi đè cache nguồn đã có.
 - `--no-cache`: bỏ qua đối chiếu cache, dùng `source_stats` nhúng (giống CI).
 - `--strict`: warning thành lỗi; CI dùng cờ này.
-- `attach_source_stats.py --coverage condensed <id>`: chỉ dùng cho bài lược dịch cũ; mặc định `full`.
+- `attach_source_stats.py --coverage condensed <id>`: chỉ dùng cho bài lược dịch cũ.
+- `attach_source_stats.py --coverage excerpt <id>`: cho bài trích đoạn.
+- `make_excerpt.py --all-excerpt`: chuyển các bài thuộc domain `mode: "excerpt"` sang trích đoạn.
 
 ## Chính sách độ phủ
 
 - `full` (mặc định cho bài mới): CI fail nếu bản dịch dưới **45% ký tự** hoặc **50% số câu** của nguồn.
 - `condensed`: cho bài lược dịch cũ/được chủ ý rút gọn; các chỉ số chỉ ghi chú, schema vẫn bắt buộc.
+- `excerpt`: chỉ 2–3 đoạn + link; CI fail nếu vượt **8 block**, **1800 ký tự** hoặc **50% độ dài nguồn**.
 - Chỉ số blocks/headings chỉ ghi chú vì việc gộp đoạn và tách câu khác nhau theo ngôn ngữ.
 - Khi có cache, validator còn đối chiếu `sha256`; trên CI chỉ dùng `source_stats` nhúng, không cần nguồn.
 - Giới hạn: ngưỡng chỉ bắt thiếu thô (cả đoạn/cả mục). Không thay thế việc đọc đối chiếu thủ công.
+
+## Chế độ public (B) — hiện tại
+
+- `mode: "full"`: 9 bài từ nguồn có căn cứ (Paul Graham/Tia Sáng theo xác nhận của bạn; Gutenberg/Standard Ebooks public domain).
+- `mode: "excerpt"`: 10 bài còn lại, chỉ giữ 2–3 đoạn + link nguồn.
+- Bài từ nguồn excerpt **không được** dịch toàn bộ. Nếu sau này có phép, đổi `mode` sang `full`, khôi phục bản full từ `.cache/full-backup/` (local) hoặc dịch lại, rồi attach `--coverage full`.
+- Chuyển file hiện tại sang excerpt **không xóa full text khỏi git history** của các commit cũ. Nếu cần xóa lịch sử, phải rewrite history hoặc tạo repo mới — việc này cần xác nhận riêng.
 
 ## Prompt cho bot
 
@@ -174,11 +196,17 @@ Schema bắt buộc: docs/SLOW_READS_SCHEMA.md.
 - .cache/slow-reads/<cache-id>/meta.json   (url, title, author, sitename, language)
 Nếu chưa có, chạy: python3 scripts/fetch_source.py "<url>" --id <cache-id>
 
-Nhiệm vụ: dịch TOÀN BỘ sang tiếng Việt và ghi đúng một file
-slow-reads/articles/<id>.json. Không in toàn bộ body ra chat; dùng công cụ ghi file.
+Đọc slow-reads/rights_allowlist.json để biết mode của domain:
+- mode "full": dịch TOÀN BỘ sang tiếng Việt.
+- mode "excerpt": chỉ dịch 2-3 đoạn đầu (tối đa ~1400 ký tự), thêm block
+  {"type":"p","text":"*Trích đoạn — đọc toàn bài tại <source>.*"};
+  KHÔNG dịch phần còn lại.
+
+Ghi đúng một file slow-reads/articles/<id>.json. Không in body ra chat; dùng công cụ ghi file.
 
 Quy tắc nội dung:
-- Dịch đủ 100%, không lược đoạn, không thêm bình luận, không thay bằng tóm tắt.
+- Với mode full: dịch đủ 100%, không lược đoạn, không thêm bình luận, không thay bằng tóm tắt.
+- Với mode excerpt: giữ 2-3 đoạn đầu, không cắt giữa câu; tổng body ≤ ~1500 ký tự.
 - Đoạn văn -> {"type":"p","text":"..."}
 - Dòng "# " là tiêu đề bài (đã có ở title), KHÔNG tạo block.
 - "##" -> {"type":"h2"}; "###" -> {"type":"h3"}
@@ -191,11 +219,12 @@ Quy tắc nội dung:
 - added = ngày hôm nay, dạng YYYY-MM-DD.
 
 Gắn số đo nguồn và kiểm tra trước khi báo xong:
-python3 scripts/attach_source_stats.py <id>
+python3 scripts/attach_source_stats.py --coverage <full|excerpt> <id>
 python3 scripts/validate_slow_read.py slow-reads/articles/<id>.json
-Sửa đến khi 0 error. Với coverage mặc định "full", warning dưới 45% ký tự hoặc 50% số câu nghĩa là đã bỏ sót — phải dịch bù.
-Không đặt --coverage condensed để né cảnh báo; chỉ dùng khi bài đã được chủ ý lược dịch.
-Báo cáo: đường dẫn file, số block, số từ, coverage chars/blocks/sentences, kết quả validate.
+Sửa đến khi 0 error. Với full, warning dưới 45% ký tự hoặc 50% số câu nghĩa là đã bỏ sót — phải dịch bù.
+Với excerpt, warning nếu vượt 8 block / 1800 ký tự / 50% độ dài nguồn — cắt bớt.
+Không đặt condensed để né cảnh báo.
+Báo cáo: đường dẫn file, mode, số block, số từ, coverage, kết quả validate.
 ```
 
 ### 3. Grok — publish
@@ -204,6 +233,9 @@ Báo cáo: đường dẫn file, số block, số từ, coverage chars/blocks/se
 VAI TRÒ: PUBLISH cho thư viện Slow Reads của Daily News.
 Bạn nhận một file slow-reads/articles/<id>.json đã dịch và validate xong.
 Bạn KHÔNG đọc/in nội dung body, KHÔNG sửa bản dịch, KHÔNG dịch lại.
+
+Đọc allowlist: mode của domain phải khớp source_stats.coverage
+(full ↔ full, excerpt ↔ excerpt). Lệch → dừng, báo lỗi; không tự sửa.
 
 Chạy tuần tự, dừng ngay nếu một lệnh thất bại:
 1. python3 scripts/validate_slow_read.py slow-reads/articles/<id>.json
@@ -235,19 +267,20 @@ Sau khi một bài trong queue có trạng thái rights_approved, xử lý tuầ
 
 0. Đọc slow-reads/rights_allowlist.json. URL không khớp → queue "skipped",
    báo số lượng, KHÔNG hỏi người dùng và không chuyển sang dịch.
+   entry.mode quyết định "full" hay "excerpt"; chuyển mode này cho Claude.
 1. Xác nhận đúng repo: pwd là repo root và git remote -v là HexDino/DailyNews.
 2. Tải nguồn bằng script, không đọc/in nội dung:
    python3 scripts/fetch_source.py "<url>" --id <id> --force
    - Nếu thiếu dependency/network: chuyển URL cho Claude session để Claude tự fetch.
    - Nếu fetch fail: queue "blocked", ghi lỗi, sang bài kế tiếp.
 3. Mở một Claude session mới trong đúng repo đó, gửi prompt TRANSLATE (khối 2)
-   với <id>, <url>, <repo root>. Không dán source.txt/body vào chat hay prompt;
+   với <id>, <url>, <mode>, <repo root>. Không dán source.txt/body vào chat hay prompt;
    chỉ truyền đường dẫn.
    - Chờ Claude kết thúc (timeout <T> phút). Fail/timeout: retry 1 lần, sau đó "blocked".
    - Không có công cụ tạo session Claude hoặc thiếu quyền: dừng cả lô, báo người dùng.
 4. Khi Claude báo xong:
    - slow-reads/articles/<id>.json tồn tại; id == tên file.
-   - source_stats.coverage == "full" và sha256 hợp lệ.
+   - source_stats.coverage == mode trong allowlist (full hoặc excerpt).
    - python3 scripts/validate_slow_read.py --strict slow-reads/articles/<id>.json
    Nếu fail: gửi nguyên văn lỗi lại cho chính Claude session đó, tối đa một vòng sửa;
    không tự sửa file.

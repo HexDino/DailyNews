@@ -10,10 +10,10 @@ For the fetch → translate → publish workflow (and the bot prompts), see [SLO
    ```bash
    python3 scripts/fetch_source.py "<url>" --id <id>
    ```
-2. Create `slow-reads/articles/<id>.json` (filename stem **must** equal the `id` field) and translate the full text.
+2. Create `slow-reads/articles/<id>.json` (filename stem **must** equal the `id` field) following the allowlist mode: `full` = translate everything, `excerpt` = 2–3 paragraphs + source link.
 3. Attach coverage measurements:
    ```bash
-   python3 scripts/attach_source_stats.py <id>
+   python3 scripts/attach_source_stats.py --coverage <full|excerpt> <id>
    ```
    Add `--coverage condensed` only for an intentionally abridged legacy post.
 4. Run:
@@ -84,7 +84,7 @@ Produced by `scripts/attach_source_stats.py` from `.cache/slow-reads/<id>/source
 | Field | Required | Description |
 | --- | --- | --- |
 | `url` | yes | Source URL from `meta.json`. |
-| `coverage` | yes | `full` (default) or `condensed` for an intentionally abridged legacy post. |
+| `coverage` | yes | `full` (default), `excerpt` for a 2–3 paragraph preview, or `condensed` for an intentionally abridged legacy post. |
 | `word_count` | yes | Whitespace-separated words in the normalized source. |
 | `char_count` | yes | Source characters excluding whitespace. |
 | `paragraph_count` | yes | Non-empty source blocks. |
@@ -111,6 +111,7 @@ Validation rules:
 
 - Missing `source_stats` is a warning, fatal in CI (`--strict`).
 - `coverage: "full"`: fatal when the translation is under 45% of source characters or 50% of source sentences.
+- `coverage: "excerpt"`: fatal when the body exceeds 8 blocks, 1800 characters, or 50% of source length; must keep `source_url`.
 - Block and heading counts are informational (paragraph merging and sentence splitting vary by language).
 - `coverage: "condensed"`: all coverage metrics are informational; schema checks still apply.
 
