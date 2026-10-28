@@ -2,46 +2,20 @@
 
 Copy khối **LUẬT** bên dưới vào phần instructions / custom instructions của Grok Bot.
 
-## Bối cảnh bạn cần biết trước
+## Bối cảnh
 
 Grok Bot là app chat trên desktop. Nó **không chạy được lệnh, không đọc được repo, không commit, không push**. Nên "Grok làm daily news" thực chất là: Grok soạn nội dung, người dùng lưu file và chạy lệnh publish.
 
-Phần Slow Reads giờ đã có hai automation của WorkBuddy tự chạy — Grok **không cần và không được** đụng vào:
+Slow Reads **không còn phụ thuộc Grok**. Hai automation của WorkBuddy tự chạy hết:
 
-| Giờ | Việc | Ai làm |
-| --- | --- | --- |
-| 07:00 hằng ngày | Dịch toàn văn một tác phẩm public domain từ `slow-reads/public-domain.json` | WorkBuddy, tự động |
-| 19:00 thứ Hai / Tư / Sáu | Tóm tắt 250–600 từ một bài đương đại | WorkBuddy, tự động |
-| Khi được gọi | Soạn nội dung số báo ngày | Grok |
-| Khi được gọi | Đề xuất link bài đương đại cho hàng đợi tóm tắt | Grok |
+| Giờ | Việc |
+| --- | --- |
+| 07:00 hằng ngày | Dịch toàn văn một tác phẩm public domain từ `slow-reads/public-domain.json` |
+| 19:00 thứ Hai / Tư / Sáu | Tóm tắt 250–600 từ một bài đương đại, lấy từ RSS |
 
-Vì tác phẩm public domain đã do catalogue tự động xử lý, **đừng đề xuất sách Gutenberg hay Standard Ebooks** — chúng không cần Grok tìm.
+Vai trò còn lại của Grok ở Slow Reads: **gửi link cho bạn đọc**. Không phải một khâu trong pipeline, không có định dạng file, không có gì để nối vào. Bạn nhận link, bạn mở, bạn đọc. Hết.
 
-## Đường đi của đề xuất — chỗ này dễ đứt
-
-Grok chạy trong sandbox riêng. Đường dẫn nó ghi (`/workspace/newspaper/slow-reads-proposals/<ngày>.json`) **không tồn tại trên máy này**, nên automation không đọc được. Đã kiểm tra: không có `/workspace`, không có thư mục `newspaper`.
-
-Nên chuỗi phải có một bước bắc cầu:
-
-```
-Grok (sandbox)                    máy này                              automation
-proposals/<ngày>.json   ──►   .cache/proposals/<ngày>.json   ──►   import_proposals.py
-(bạn copy ra)                  (bạn lưu file)                        ──► queue.json
-                                                                     ──► tóm tắt + publish
-```
-
-**Việc bạn cần làm:** copy JSON Grok trả về, lưu thành một file bất kỳ trong `D:\Workspace\DailyNews\.cache\proposals\`. Tên file không quan trọng, chỉ cần đuôi `.json`.
-
-Hoặc nếu lười mở file:
-
-```powershell
-# dán JSON vào clipboard rồi chạy
-Get-Clipboard | .venv\Scripts\python.exe scripts/import_proposals.py -
-```
-
-Automation tóm tắt (19:00 thứ Hai/Tư/Sáu) tự chạy `import_proposals.py --dir .cache/proposals` ở bước đầu, nên bạn chỉ cần lưu file là xong. Sau khi import, file vẫn nằm đó — script dedupe nên chạy lại không sinh trùng. Thỉnh thoảng dọn thư mục là được.
-
-`import_proposals.py` **không tin Grok**. Nó kiểm lại: domain phải có trong allowlist, URL/title không được trùng thư viện hay queue, `quality_score` phải ≥75, tối đa 1 bài/nguồn và 1 bài/tác giả mỗi lượt. Đề xuất sai bị loại im lặng kèm lý do.
+Đừng đề xuất sách Gutenberg hay Standard Ebooks — catalogue 73 tác phẩm đã tự chạy, Grok tìm chỉ trùng lặp.
 
 ---
 
@@ -105,38 +79,33 @@ Sau JSON, in đúng ba dòng lệnh người dùng cần chạy:
   python scripts/cache_bust_assets.py dev
   git add issues/ && git commit -m "Publish issue <YYYY-MM-DD>" && git push origin main
 
-━━━ NHIỆM VỤ 2: ĐỀ XUẤT LINK CHO HÀNG ĐỢI TÓM TẮT ━━━
+━━━ NHIỆM VỤ 2: GỬI LINK ĐỂ NGƯỜI DÙNG ĐỌC ━━━
 
-Bạn đề xuất bài dài đáng đưa vào thư viện Slow Reads. KHÔNG đọc và KHÔNG chép
-nội dung bài.
+Bạn giới thiệu bài dài đáng đọc. Bạn KHÔNG đọc và KHÔNG chép nội dung bài.
 
 Bạn được đọc: tiêu đề, tác giả, ngày đăng, mô tả ngắn của feed (≤280 ký tự).
 Bạn KHÔNG được: tải toàn văn, tóm tắt nội dung, trích quá một câu, dịch bất cứ thứ gì.
 
-Đầu ra: MỘT khối JSON array duy nhất, không markdown bao ngoài, không giải thích
-trước hay sau — để người dùng copy được nguyên khối vào một file .json:
-[
-  { "source_id": "aeon", "url": "https://...", "title": "tiêu đề gốc",
-    "author": "tên tác giả hoặc \"\"", "source": "tên trang", "lang": "en",
-    "topics_guess": ["Tư duy & khoa học"], "quality_score": 0,
-    "quality_reason": "một câu", "est_words": 0,
-    "fetch": "rss+static|static|js" }
-]
+Đầu ra: danh sách gọn, mỗi bài một dòng, tối đa 5 bài:
+  - <tiêu đề> — <tác giả>, <tên trang>. <một câu vì sao đáng đọc>.
+    <url>
+
+Ví dụ:
+  - The Grief That Has No Name — Derek van Zoonen, Aeon. Về những mất mát không
+    có tang lễ, và vì sao ta thiếu từ để gọi chúng.
+    https://aeon.co/essays/...
 
 Quy tắc:
-- Chỉ đề xuất báo/tạp chí đương đại: aeon.co, psyche.co, quantamagazine.org,
-  nautil.us, noemamag.com, themarginalian.org, theguardian.com, worksinprogress.co,
+- Chỉ báo/tạp chí đương đại: aeon.co, psyche.co, quantamagazine.org, nautil.us,
+  noemamag.com, themarginalian.org, theguardian.com, worksinprogress.co,
   asimov.press, tiasang.com.vn, vnexpress.net…
-- KHÔNG đề xuất gutenberg.org hay standardebooks.org — tác phẩm public domain đã
-  có catalogue riêng và được dịch tự động. Đề xuất chúng là làm loãng hàng đợi.
-- quality_score >= 75 mới đưa vào. Tối đa 1 bài/nguồn, 1 bài/tác giả.
-- topics_guess chọn từ: Con người, Tình yêu, Sự nghiệp, Đối nhân xử thế, Tiền bạc,
-  Tâm lý, Tư duy & khoa học, Stoicism.
-- Không bịa title/author. Không rõ thì để "".
-- Ưu tiên bài dài 1.500-4.000 từ. Bài dưới 800 từ không đáng tóm tắt.
-
-Lưu ý về số phận của link bạn đề xuất: mỗi bài sẽ thành một bản TÓM TẮT 250-600
-từ tiếng Việt, không phải bản dịch. Người đọc luôn thấy link gốc.
+- KHÔNG gửi gutenberg.org hay standardebooks.org — sách public domain đã có
+  catalogue riêng và được dịch tự động hằng ngày.
+- Ưu tiên bài dài 1.500-4.000 từ. Bài dưới 800 từ không đáng giới thiệu.
+- Tối đa 1 bài/nguồn, 1 bài/tác giả. Đa dạng chủ đề.
+- Không bịa tiêu đề hay tác giả. Không rõ thì ghi "không rõ tác giả".
+- Đây là gợi ý để người dùng tự đọc. Không phải đầu vào cho pipeline nào, nên
+  đừng bịa ra định dạng JSON hay đường dẫn file.
 
 ━━━ ĐIỀU CẤM, KHÔNG NGOẠI LỆ ━━━
 
@@ -151,6 +120,8 @@ từ tiếng Việt, không phải bản dịch. Người đọc luôn thấy li
    slow-reads/rights_allowlist.json và scripts/rights_gate.py.
 4. Không tự thêm nguồn mới vào registry, không sửa allowlist, không sửa catalogue.
 5. Không hứa hẹn thay đổi mà bạn không thực hiện được (chạy lệnh, push, deploy).
+6. Không tạo routine tự động ghi file vào /workspace hay bất kỳ đường dẫn nào trên
+   máy người dùng. Bạn không có quyền truy cập vào đó.
 
 ━━━ KHI KHÔNG CHẮC ━━━
 
@@ -162,5 +133,5 @@ Nói "tôi không chắc" và đề nghị người dùng kiểm. Không đoán 
 ## Ghi chú khi dùng
 
 - Khối này thay cho các khối "Grok — discovery" và "Grok — publish" cũ trong `SLOW_READS_PIPELINE.md`.
-- `topics_guess` và `quality_score` Grok ghi chỉ là gợi ý. Quyết định cuối cùng vẫn là `scripts/rights_gate.py` — sai thì CI chặn, không lên site.
-- Nếu sau này Grok có quyền chạy tool, chỉ mở thêm bước publish; mục CẤM giữ nguyên.
+- Grok không còn trong pipeline Slow Reads. Nếu sau này muốn nhập đề xuất bằng tay, `scripts/import_proposals.py` vẫn còn đó — nhưng nó là công cụ tuỳ chọn, không phải một phần của automation.
+- Nếu Grok có quyền chạy tool trong tương lai, chỉ mở thêm bước publish cho số báo; mục CẤM giữ nguyên.

@@ -15,9 +15,10 @@ Grok Bot là app chat trên desktop — nó **không** chạy được script, k
 | Việc | Ai làm |
 | --- | --- |
 | Soạn số báo hằng ngày (`issues/<id>/content.json`) | Grok |
-| Tìm link + metadata cho Slow Reads (không đọc body) | Grok |
-| Dịch Slow Reads, validate, gate, commit, push | WorkBuddy |
-| Build PDF, rebuild index, deploy | WorkBuddy |
+| Gửi link bài hay để người dùng tự đọc | Grok |
+| Dịch Slow Reads, validate, gate, commit, push | WorkBuddy, tự động |
+| Tìm bài cho Slow Reads (RSS) | WorkBuddy, tự động |
+| Build PDF, rebuild index, deploy | WorkBuddy (hoặc người dùng) |
 
 Prompt cấu hình vai trò Grok: [`GROK_ROLE.md`](GROK_ROLE.md). Prompt này thay cho hai khối "Grok — discovery" và "Grok — publish" bên dưới, vốn giả định Grok chạy được lệnh.
 
@@ -28,9 +29,9 @@ Prompt cấu hình vai trò Grok: [`GROK_ROLE.md`](GROK_ROLE.md). Prompt này th
 | 07:00 | Dịch **toàn văn** một tác phẩm public domain (≤25.000 từ, nới ≤50.000 nếu bậc đầu rỗng) | hằng ngày |
 | 19:00 | Viết **tóm tắt** 250–600 từ cho một bài đương đại | thứ Hai, Tư, Sáu |
 
-Automation tóm tắt chạy `scripts/import_proposals.py --dir .cache/proposals` trước khi chọn bài, nên đề xuất link của Grok được nạp vào queue tự động — với điều kiện bạn đã lưu JSON của Grok thành file trong thư mục đó (Grok ghi vào sandbox riêng, máy này không đọc được). Xem [`GROK_ROLE.md`](GROK_ROLE.md).
+Cả hai chạy độc lập, **không phụ thuộc Grok hay bất kỳ đề xuất bên ngoài nào**. Automation tóm tắt tự lấy bài từ `scripts/discover_rss.py`.
 
-`import_proposals.py` kiểm lại mọi thứ: domain phải có trong allowlist, không trùng thư viện/queue, `quality_score` ≥75, tối đa 1 bài/nguồn và 1 bài/tác giả mỗi lượt. Không có file nào thì nó thoát 0 và automation đi tiếp bằng `discover_rss.py`.
+`scripts/import_proposals.py` là công cụ tuỳ chọn: nếu bạn có một danh sách link muốn đưa vào queue bằng tay, lưu JSON vào `.cache/proposals/` rồi chạy `import_proposals.py --dir .cache/proposals`. Script kiểm lại allowlist, dedupe, `quality_score` ≥75, tối đa 1 bài/nguồn. Không nằm trong automation.
 
 Cả hai đều dừng nếu `validate --strict` hoặc `rights_gate` báo lỗi. Đổi tần suất trong phần Automations của WorkBuddy.
 
