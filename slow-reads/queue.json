@@ -42,7 +42,10 @@
       "fetch": "rss+static",
       "status": "published",
       "rights_note": "user-accepted",
-      "added_at": "2026-10-27"
+      "added_at": "2026-10-27",
+      "id": "lo-au-lam-sang-khac-biet",
+      "published_at": "2026-10-28",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=lo-au-lam-sang-khac-biet"
     },
     {
       "source_id": "quanta",
@@ -60,7 +63,10 @@
       "fetch": "rss+static",
       "status": "published",
       "rights_note": "user-accepted",
-      "added_at": "2026-10-27"
+      "added_at": "2026-10-27",
+      "id": "bau-cu-giong-chai-klein",
+      "published_at": "2026-10-28",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=bau-cu-giong-chai-klein"
     },
     {
       "source_id": "of-dollars-and-data",
@@ -79,7 +85,10 @@
       "fetch": "rss+static",
       "status": "published",
       "rights_note": "user-accepted",
-      "added_at": "2026-10-27"
+      "added_at": "2026-10-27",
+      "id": "choi-sai-tro-choi",
+      "published_at": "2026-10-28",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=choi-sai-tro-choi"
     },
     {
       "source_id": "aeon",
