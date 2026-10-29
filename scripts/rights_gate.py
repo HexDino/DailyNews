@@ -20,6 +20,11 @@ permits derivative works:
 `coverage: "excerpt"` only needs an allowlist entry (any mode); the article must
 keep `source_url` so readers can reach the original.
 
+`coverage: "summary"` is allowed for any allowlisted source, including
+excerpt-only, because it carries ideas and facts in the writer's own words. Two
+caps keep it from drifting into an abridged translation: 250-900 words, and at
+most 30% of the source's length.
+
 Severity
 --------
 error  hard violation — CI must fail (no entry, expired entry, basis forbids
@@ -52,8 +57,8 @@ DERIVATIVE_MODES = ("full", "condensed")
 
 # Mirrors validate_slow_read.py: a summary must stay a summary.
 SUMMARY_MIN_WORDS = 250
-SUMMARY_MAX_WORDS = 600
-SUMMARY_MAX_RATIO = 0.40
+SUMMARY_MAX_WORDS = 900
+SUMMARY_MAX_RATIO = 0.30
 
 # Bases that permit a published derivative work without further evidence.
 PERMISSIVE_BASES = {"public-domain"}

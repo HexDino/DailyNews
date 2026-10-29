@@ -27,7 +27,7 @@ Prompt cấu hình vai trò Grok (chỉ soạn số báo và gửi link): [`GROK
 | Lịch | Việc | Tần suất |
 | --- | --- | --- |
 | 07:00 | Dịch **toàn văn** một tác phẩm public domain (≤25.000 từ, nới ≤50.000 nếu bậc đầu rỗng) | hằng ngày |
-| 19:00 | Viết **tóm tắt** 250–600 từ cho một bài đương đại | thứ Hai, Tư, Sáu |
+| 19:00 | Viết **tóm tắt** 250–900 từ cho một bài đương đại | thứ Hai, Tư, Sáu |
 
 Cả hai chạy độc lập, **không phụ thuộc Grok hay bất kỳ đề xuất bên ngoài nào**. Automation tóm tắt tự lấy bài từ `scripts/discover_rss.py`.
 
@@ -141,7 +141,7 @@ python3 scripts/rights_gate.py --mode <id>           # in ra full|excerpt|skip
 | `user-confirmed-permission` không `evidence` | cảnh báo, không chặn CI |
 | `excerpt-only` | **chặn** |
 
-`coverage: "summary"` là ngoại lệ có kiểm soát: cho phép với **mọi** nguồn trong allowlist, kể cả `excerpt-only`, vì nó truyền đạt ý và sự kiện bằng lời người viết chứ không lấy cách diễn đạt của tác giả. Hai trần được cưỡng chế cứng: **250–600 từ** và **≤40% độ dài nguồn**. Vượt trần là thành bản dịch rút gọn, và gate chặn — đó chính là điểm khác biệt giữa "tóm tắt" và "dịch bớt".
+`coverage: "summary"` là ngoại lệ có kiểm soát: cho phép với **mọi** nguồn trong allowlist, kể cả `excerpt-only`, vì nó truyền đạt ý và sự kiện bằng lời người viết chứ không lấy cách diễn đạt của tác giả. Hai trần được cưỡng chế cứng: **250–900 từ** và **≤30% độ dài nguồn**. Vượt trần là thành bản dịch rút gọn, và gate chặn — đó chính là điểm khác biệt giữa "tóm tắt" và "dịch bớt".
 
 Cách làm: `python3 scripts/attach_source_stats.py --coverage summary <id>`, rồi validate và gate như thường. Body nên kết bằng `*Bản tóm tắt — đọc toàn bài tại <nguồn>.*` để người đọc biết đây không phải bản dịch.
 
@@ -238,7 +238,7 @@ python3 scripts/validate_slow_read.py --strict
 - `full` (mặc định cho bài mới): CI fail nếu bản dịch dưới **45% ký tự** hoặc **50% số câu** của nguồn.
 - `condensed`: cho bài lược dịch cũ/được chủ ý rút gọn; các chỉ số chỉ ghi chú, schema vẫn bắt buộc.
 - `excerpt`: chỉ 2–3 đoạn + link; CI fail nếu vượt **8 block**, **1800 ký tự** hoặc **50% độ dài nguồn**.
-- `summary`: 250–600 từ, ≤40% độ dài nguồn, bắt buộc `source_url`; CI fail nếu ra ngoài khoảng đó.
+- `summary`: 250–900 từ, ≤30% độ dài nguồn, bắt buộc `source_url`; CI fail nếu ra ngoài khoảng đó. Bài gốc ≥3.000 từ nên viết 700–900 từ.
 - Chỉ số blocks/headings chỉ ghi chú vì việc gộp đoạn và tách câu khác nhau theo ngôn ngữ.
 - Khi có cache, validator còn đối chiếu `sha256`; trên CI chỉ dùng `source_stats` nhúng, không cần nguồn.
 - Giới hạn: ngưỡng chỉ bắt thiếu thô (cả đoạn/cả mục). Không thay thế việc đọc đối chiếu thủ công.

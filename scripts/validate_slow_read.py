@@ -64,8 +64,8 @@ SHA_RE = re.compile(r"^[0-9a-f]{64}$")
 # summary and becomes an abridged translation, which needs the same licence as
 # a full one.
 SUMMARY_MIN_WORDS = 250
-SUMMARY_MAX_WORDS = 600
-SUMMARY_MAX_RATIO = 0.40
+SUMMARY_MAX_WORDS = 900
+SUMMARY_MAX_RATIO = 0.30
 
 
 def block_text(block: dict) -> str:
