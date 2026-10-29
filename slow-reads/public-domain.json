@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28",
+  "updated_at": "2026-10-29",
   "note": "Curated public-domain works for Slow Reads. Every gutenberg_id was resolved through the Gutendex API (gutendex.com) and is the canonical Project Gutenberg ebook number. Public domain in the United States; check your own jurisdiction before republishing. est_words is an estimate used to filter works that are too long to translate in one pass.",
   "url_template": "https://www.gutenberg.org/cache/epub/{id}/pg{id}-images.html",
   "works": [
@@ -935,6 +935,267 @@
       "lang": "en",
       "est_words": 35000,
       "note": "Quyển 3, phần chín nhất của Montaigne."
+    },
+    {
+      "id": "plato-tuyet-nhan-su",
+      "title_original": "Apology",
+      "author": "Plato",
+      "gutenberg_id": 1656,
+      "topics": [
+        "Triết học",
+        "Tư duy & khoa học"
+      ],
+      "lang": "en",
+      "est_words": 10000,
+      "note": "Bản tự bào chữa của Socrates — văn bản nền của triết học phương Tây, ngắn và đọc được trọn vẹn."
+    },
+    {
+      "id": "kant-nguyen-ly-dao-duc",
+      "title_original": "Fundamental Principles of the Metaphysic of Morals",
+      "author": "Immanuel Kant",
+      "gutenberg_id": 5682,
+      "topics": [
+        "Triết học",
+        "Đối nhân xử thế"
+      ],
+      "lang": "en",
+      "est_words": 30000,
+      "note": "Nền tảng của đạo đức học nghĩa vụ; nguồn gốc của quy tắc vàng hiện đại."
+    },
+    {
+      "id": "nietzsche-thus-spake-zarathustra",
+      "title_original": "Thus Spake Zarathustra: A Book for All and None",
+      "author": "Friedrich Nietzsche",
+      "gutenberg_id": 1998,
+      "topics": [
+        "Triết học",
+        "Con người"
+      ],
+      "lang": "en",
+      "est_words": 90000,
+      "note": "Sách thơ triết học nổi tiếng nhất của Nietzsche; khó dịch nhưng là đỉnh."
+    },
+    {
+      "id": "hume-kham-pha-tri-tue",
+      "title_original": "An Enquiry Concerning Human Understanding",
+      "author": "David Hume",
+      "gutenberg_id": 9662,
+      "topics": [
+        "Triết học",
+        "Tư duy & khoa học"
+      ],
+      "lang": "en",
+      "est_words": 50000,
+      "note": "Chủ nghĩa hoài nghi kinh nghiệm; chương về phép màu vẫn được trích đến nay."
+    },
+    {
+      "id": "russell-nhung-van-de-cua-triet-hoc",
+      "title_original": "The Problems of Philosophy",
+      "author": "Bertrand Russell",
+      "gutenberg_id": 5827,
+      "topics": [
+        "Triết học",
+        "Tư duy & khoa học"
+      ],
+      "lang": "en",
+      "est_words": 50000,
+      "note": "Nhập môn triết học phân tích rõ nhất từng viết; giọng bình dân, dễ đọc."
+    },
+    {
+      "id": "mach sollen-qua-quyen",
+      "title_original": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "gutenberg_id": 1232,
+      "topics": [
+        "Lịch sử",
+        "Đối nhân xử thế",
+        "Sự nghiệp"
+      ],
+      "lang": "en",
+      "est_words": 30000,
+      "note": "Quyển sách chính trị nổi tiếng nhất mọi thời; ngắn, mỗi chương một bài học."
+    },
+    {
+      "id": "ton-tu-binh-phap",
+      "title_original": "The Art of War",
+      "author": "Sun Tzu",
+      "gutenberg_id": 132,
+      "topics": [
+        "Lịch sử",
+        "Sự nghiệp",
+        "Đối nhân xử thế"
+      ],
+      "lang": "en",
+      "est_words": 7000,
+      "note": "Ngắn nhất và nổi tiếng nhất; bản Giles dịch, công cộng hoàn toàn."
+    },
+    {
+      "id": "douglass-ke-ke-no-le",
+      "title_original": "Narrative of the Life of Frederick Douglass, an American Slave",
+      "author": "Frederick Douglass",
+      "gutenberg_id": 23,
+      "topics": [
+        "Lịch sử",
+        "Con người"
+      ],
+      "lang": "en",
+      "est_words": 35000,
+      "note": "Tự truyện từ nô lệ thành nhà tư tưởng; một trong những văn bản Mỹ quan trọng nhất."
+    },
+    {
+      "id": "tolstoy-nghe-thuat-la-gi",
+      "title_original": "What Is Art?",
+      "author": "Leo Tolstoy",
+      "gutenberg_id": 64908,
+      "topics": [
+        "Nghệ thuật",
+        "Tư duy & khoa học"
+      ],
+      "lang": "en",
+      "est_words": 60000,
+      "note": "Tolstoy phủ nhận chính sự nghiệp văn chương của mình; tranh luận vẫn chưa dứt."
+    },
+    {
+      "id": "kandinsky-nghe-thuat-tinh-than",
+      "title_original": "Concerning the Spiritual in Art",
+      "author": "Wassily Kandinsky",
+      "gutenberg_id": 5321,
+      "topics": [
+        "Nghệ thuật",
+        "Tâm lý"
+      ],
+      "lang": "en",
+      "est_words": 25000,
+      "note": "Tuyên ngôn của hội họa trừu tượng, viết bởi chính người mở đường."
+    },
+    {
+      "id": "eliot-go-la-thi-pham",
+      "title_original": "The Sacred Wood: Essays on Poetry and Criticism",
+      "author": "T. S. Eliot",
+      "gutenberg_id": 57795,
+      "topics": [
+        "Văn hoá",
+        "Nghệ thuật"
+      ],
+      "lang": "en",
+      "est_words": 45000,
+      "note": "Gồm 'Tradition and the Individual Talent' — tiểu luận phê bình quan trọng nhất thế kỷ 20."
+    },
+    {
+      "id": "spectator-tap-1",
+      "title_original": "The Spectator, Volume 1",
+      "author": "Joseph Addison & Richard Steele",
+      "gutenberg_id": 9334,
+      "topics": [
+        "Văn hoá",
+        "Con người"
+      ],
+      "lang": "en",
+      "est_words": 90000,
+      "note": "Mẫu mực của tiểu luận kỳ báo; mỗi số ngắn, đọc xen kẽ được."
+    },
+    {
+      "id": "hubbert-don-cho-garcia",
+      "title_original": "A Message to Garcia",
+      "author": "Elbert Hubbard",
+      "gutenberg_id": 17195,
+      "topics": [
+        "Phát triển bản thân",
+        "Sự nghiệp"
+      ],
+      "lang": "en",
+      "est_words": 3500,
+      "note": "Tiểu luận 1.300 từ bán chạy nhất lịch sử ngành in; tuy ngắn, đã định hình văn hoá doanh nghiệp."
+    },
+    {
+      "id": "allen-nhung-suy-nghi-lam-nen-con-nguoi",
+      "title_original": "As a Man Thinketh",
+      "author": "James Allen",
+      "gutenberg_id": 4507,
+      "topics": [
+        "Phát triển bản thân",
+        "Triết học"
+      ],
+      "lang": "en",
+      "est_words": 7000,
+      "note": "Kinh điển của thể loại; nguồn của cả nghìn sách self-help sau này."
+    },
+    {
+      "id": "wattles-khoa-hoc-lam-giau",
+      "title_original": "The Science of Getting Rich",
+      "author": "Wallace D. Wattles",
+      "gutenberg_id": 59844,
+      "topics": [
+        "Phát triển bản thân",
+        "Tiền bạc"
+      ],
+      "lang": "en",
+      "est_words": 30000,
+      "note": "Gốc của 'The Secret' và cả dòng làm giàu hiện đại; đọc để hiểu nguồn gốc."
+    },
+    {
+      "id": "marden-vun-dap-ve-truoc",
+      "title_original": "Pushing to the Front",
+      "author": "Orison Swett Marden",
+      "gutenberg_id": 21291,
+      "topics": [
+        "Phát triển bản thân",
+        "Sự nghiệp"
+      ],
+      "lang": "en",
+      "est_words": 120000,
+      "note": "Sách dày nhất trong mục này; mỗi chương độc lập."
+    },
+    {
+      "id": "gibran-nha-tien-tri",
+      "title_original": "The Prophet",
+      "author": "Kahlil Gibran",
+      "gutenberg_id": 58585,
+      "topics": [
+        "Tình yêu",
+        "Nghệ thuật"
+      ],
+      "lang": "en",
+      "est_words": 20000,
+      "note": "Bán chạy nhất nhì thế kỷ 20 sau Kinh Thánh; thơ văn xuôi về tình yêu, hôn nhân, tự do."
+    },
+    {
+      "id": "goethe-noi-dau-cua-thieu-nien-werther",
+      "title_original": "The Sorrows of Young Werther",
+      "author": "Johann Wolfgang von Goethe",
+      "gutenberg_id": 2527,
+      "topics": [
+        "Tình yêu",
+        "Con người"
+      ],
+      "lang": "en",
+      "est_words": 60000,
+      "note": "Tiểu thuyết thư từ làm Goethe nổi tiếng toàn châu Âu năm 25 tuổi."
+    },
+    {
+      "id": "jung-tam-ly-vo-thuc",
+      "title_original": "Psychology of the Unconscious",
+      "author": "C. G. Jung",
+      "gutenberg_id": 65903,
+      "topics": [
+        "Tâm lý",
+        "Triết học"
+      ],
+      "lang": "en",
+      "est_words": 150000,
+      "note": "Bước tách của Jung khỏi Freud; dài, chọn chương."
+    },
+    {
+      "id": "freud-tam-ly-hoc-cuoc-song-thuong-ngay",
+      "title_original": "Psychopathology of Everyday Life",
+      "author": "Sigmund Freud",
+      "gutenberg_id": 67332,
+      "topics": [
+        "Tâm lý"
+      ],
+      "lang": "en",
+      "est_words": 60000,
+      "note": "Nguồn của khái niệm 'sự cố Freud' — đã thành tiếng Việt không cần dịch."
     }
   ]
 }

@@ -8,7 +8,9 @@
     "Tiền bạc",
     "Tâm lý",
     "Tư duy & khoa học",
-    "Stoicism"
+    "Stoicism",
+    "Lịch sử",
+    "Phát triển bản thân"
   ],
   "articles": [
     {
@@ -27,6 +29,24 @@
       "summary": "Năm trăm lẻ bốn câu châm ngôn cùng bảy tiểu luận về chân thành, trí tuệ, khẩu vị, giao tiếp và sự giả dối — bản dịch trọn vẹn của Công tước La Rochefoucauld, người đã nhìn con người bằng con mắt không chút ve vuốt.",
       "added": "2026-10-29",
       "reading_minutes": 173,
+      "coverage": "full"
+    },
+    {
+      "id": "don-cho-garcia",
+      "title": "Một lời nhắn gửi Garcia",
+      "title_original": "A Message to Garcia",
+      "author": "Elbert Hubbard",
+      "source": "Project Gutenberg",
+      "source_url": "https://www.gutenberg.org/cache/epub/17195/pg17195-images.html",
+      "lang": "en",
+      "topics": [
+        "Phát triển bản thân",
+        "Sự nghiệp",
+        "Lịch sử"
+      ],
+      "summary": "Tiểu luận 1.300 từ viết trong một giờ, bán hơn bốn mươi triệu bản và được phát cho từng người lính Nga ra mặt trận. Phía sau câu chuyện về người đưa thư không hỏi câu nào là một lời trách móc chưa hề cũ: tại sao không ai chịu làm việc cho xong.",
+      "added": "2026-10-29",
+      "reading_minutes": 16,
       "coverage": "full"
     },
     {

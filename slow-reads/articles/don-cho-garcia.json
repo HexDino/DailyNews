@@ -1,0 +1,230 @@
+{
+  "id": "don-cho-garcia",
+  "title": "Một lời nhắn gửi Garcia",
+  "title_original": "A Message to Garcia",
+  "author": "Elbert Hubbard",
+  "source": "Project Gutenberg",
+  "source_url": "https://www.gutenberg.org/cache/epub/17195/pg17195-images.html",
+  "lang": "en",
+  "topics": [
+    "Phát triển bản thân",
+    "Sự nghiệp",
+    "Lịch sử"
+  ],
+  "summary": "Tiểu luận 1.300 từ viết trong một giờ, bán hơn bốn mươi triệu bản và được phát cho từng người lính Nga ra mặt trận. Phía sau câu chuyện về người đưa thư không hỏi câu nào là một lời trách móc chưa hề cũ: tại sao không ai chịu làm việc cho xong.",
+  "added": "2026-10-29",
+  "reading_minutes": 16,
+  "source_stats": {
+    "url": "https://www.gutenberg.org/cache/epub/17195/pg17195-images.html",
+    "coverage": "full",
+    "word_count": 2724,
+    "char_count": 11836,
+    "paragraph_count": 56,
+    "sentence_count": 112,
+    "heading_count": 0,
+    "sha256": "ee3be5d4496b193b177cc084e7e8b9de3ce9f3204e8ac2aafac3dffd9e011276"
+  },
+  "body": [
+    {
+      "type": "p",
+      "text": "Nếu anh làm cho một người, thì nhân danh Trời, hãy làm hết mình cho người đó. Nếu anh ta trả lương đủ cho anh có cơm ăn áo mặc, hãy làm cho anh ta, nói tốt về anh ta, nghĩ tốt về anh ta, đứng về phía anh ta và đứng về phía tổ chức mà anh ta đại diện. Tôi nghĩ nếu tôi làm thuê cho một người, tôi sẽ làm trọn cho người đó. Không phải làm cho người ta một phần thời gian, mà là toàn bộ thời gian. Tôi sẽ phụng sự trọn vẹn, hoặc không làm gì cả. Bị dồn vào đường cùng, một chút lòng trung thành đáng giá hơn một tấn thông minh. Nếu anh nhất định phải bôi nhọ, chê bai và chích móc mãi mãi, vậy thì xin anh từ chức, và khi đã ra ngoài, anh muốn nguyền rủa đến đâu cũng tùy. Nhưng tôi cầu xin anh: chừng nào còn là một phần của tổ chức, chừng đó đừng chê bai nó. Không phải vì anh làm tổ chức bị tổn hại — không phải thế — mà vì khi dìm tổ chức mà mình là một phần của nó, anh đang dìm chính mình. Và đừng quên — trong làm ăn, kiểu \"tôi quên mất\" không ai chấp nhận."
+    },
+    {
+      "type": "h2",
+      "text": "Bài viết được làm ra thế nào"
+    },
+    {
+      "type": "p",
+      "text": "Món đồ chơi văn chương mang tên \"A Message to Garcia\" được viết vào một buổi tối sau bữa cơm, chỉ trong một giờ. Hôm ấy là hai mươi hai tháng Hai năm một nghìn chín trăm chín mươi chín, ngày sinh của Washington, và chúng tôi vừa chuẩn bị đưa số tháng Ba của tạp chí \"Philistine\" lên máy in. Câu văn phừng phừng bật ra từ trái tim tôi, viết sau một ngày vất vả, khi tôi đã cố huấn luyện mấy gã dân làng hất hải tỉnh dậy khỏi trạng thái ngủ đông mà sống động hẳn lên."
+    },
+    {
+      "type": "p",
+      "text": "Còn ý tưởng trực tiếp thì đến từ một cuộc cãi vã nhỏ bên chén trà, khi thằng con trai Bert của tôi cho rằng Rowan mới là người hùng thật sự của cuộc chiến Cuba. Rowan đã đi một mình và làm xong việc — mang bức thư đến cho Garcia."
+    },
+    {
+      "type": "p",
+      "text": "Ý nghĩ ấy lóe lên như chớp! Đúng rồi, thằng bé nói đúng, người hùng là kẻ làm trọn việc của mình — kẻ mang lời nhắn đến cho Garcia. Tôi đứng dậy khỏi bàn, viết \"A Message to Garcia\". Tôi coi nhẹ bài viết đến mức cho in trên tạp chí mà không kèm tiêu đề. Số báo phát hành ra, và chẳng bao lâu các đơn đặt bản riêng lẻ bắt đầu đổ về cho số tháng Ba \"Philistine\": chục bản, năm mươi, một trăm; và đến khi Công ty American News đặt một nghìn bản, tôi hỏi một trợ thủ xem bài nào đã khuấy động cả vũ trụ lên thế."
+    },
+    {
+      "type": "p",
+      "text": "\"Bài chuyện Garcia đấy,\" gã trả lời."
+    },
+    {
+      "type": "p",
+      "text": "Ngày hôm sau, một bức điện từ George H. Daniels thuộc Đường sắt New York Central đến với nội dung: \"Báo giá một trăm nghìn bản bài Rowan dạng sách mỏng — mặt sau để quảng cáo tàu Empire State Express — và cho biết bao lâu thì giao hàng.\""
+    },
+    {
+      "type": "p",
+      "text": "Tôi trả lời kèm báo giá và nói rằng chúng tôi có thể cung cấp trong hai năm. Cơ sở của chúng tôi nhỏ bé, và một trăm nghìn cuốn sách mỏng trông như một công trình khủng khiếp."
+    },
+    {
+      "type": "p",
+      "text": "Kết cục là tôi cho ông Daniels phép in lại bài viết theo cách của ông. Ông phát hành dạng sách mỏng, mỗi đợt nửa triệu bản. Hai, ba đợt nửa triệu ấy được ông Daniels phát đi, và ngoài ra bài viết còn được in lại trên hơn hai trăm tạp chí và báo. Nó đã được dịch ra mọi thứ tiếng có chữ viết."
+    },
+    {
+      "type": "p",
+      "text": "Trong thời gian ông Daniels phát hành \"Message to Garcia\", Hoàng thân Hilakoff, Giám đốc Đường sắt Nga, đang có mặt tại nước này. Ông là khách của New York Central, và đi thăm cả nước dưới sự hướng dẫn trực tiếp của ông Daniels. Hoàng thân nhìn thấy cuốn sách nhỏ và quan tâm tới nó, có lẽ phần nhiều vì ông Daniels đang phát nó với số lượng quá lớn."
+    },
+    {
+      "type": "p",
+      "text": "Dù thế nào, khi về nước, ông cho dịch nó ra tiếng Nga, và phát cho mỗi nhân viên đường sắt ở Nga một cuốn."
+    },
+    {
+      "type": "p",
+      "text": "Các nước khác cũng lần lượt làm theo, và từ Nga, cuốn sách lan sang Đức, Pháp, Tây Ban Nha, Thổ Nhĩ Kỳ, Ấn Độ và Trung Quốc. Trong chiến tranh Nga–Nhật, mỗi người lính Nga ra mặt trận đều được phát một cuốn \"Message to Garcia\"."
+    },
+    {
+      "type": "p",
+      "text": "Người Nhật, thấy các tù binh Nga ai cũng mang cuốn sách, kết luận rằng hẳn nó là thứ tốt, và dịch ra tiếng Nhật."
+    },
+    {
+      "type": "p",
+      "text": "Và theo lệnh của Thiên hoàng, mỗi người trong biên chế chính phủ Nhật, lính hay dân, đều được phát một cuốn. Hơn bốn mươi triệu bản \"A Message to Garcia\" đã được in."
+    },
+    {
+      "type": "p",
+      "text": "Người ta nói đó là số phát hành lớn hơn bất kỳ một cuộc phiêu lưu văn chương nào từng đạt được trong đời tác giả, trong toàn bộ lịch sử — nhờ một chuỗi ngẫu nhiên may mắn! — E.H."
+    },
+    {
+      "type": "quote",
+      "text": "Như tuyết lạnh giữa mùa gặt, vậy là sứ thần trung tín đối với kẻ sai phái mình: vì nó làm tươi mát linh hồn các chủ nhân.",
+      "cite": "Châm ngôn xxv, 13"
+    },
+    {
+      "type": "h2",
+      "text": "Một lời nhắn gửi Garcia"
+    },
+    {
+      "type": "p",
+      "text": "Trong toàn bộ chuyện Cuba này, có một người nổi bật trên đường chân trời ký ức tôi như sao Hỏa lúc đến cận điểm."
+    },
+    {
+      "type": "p",
+      "text": "Khi chiến tranh bùng nổ giữa Tây Ban Nha và Hoa Kỳ, việc liên lạc nhanh với thủ lĩnh phe nổi dậy trở nên vô cùng cấp thiết. Garcia đang đâu đó trong những thành trì núi rừng của Cuba — không ai biết chỗ. Thư từ hay điện tín không thể với tới ông. Tổng thống phải giành được sự cộng tác của ông, và phải nhanh. Phải làm gì đây!"
+    },
+    {
+      "type": "p",
+      "text": "Có người nói với Tổng thống: \"Có một gã tên Rowan sẽ tìm được Garcia cho ngài, nếu trên đời còn ai tìm được.\""
+    },
+    {
+      "type": "p",
+      "text": "Rowan được triệu đến và được giao một bức thư phải chuyển tận tay Garcia. Cái gã \"tên Rowan\" ấy đã nhận thư, gói nó vào túi da dầu, buộc chéo ngực, bốn ngày sau cập bờ biển Cuba trong đêm bằng một chiếc thuyền mo, biến mất vào rừng rậm, và ba tuần sau ló mặt ở đầu bên kia hòn đảo, đi bộ xuyên qua vùng đất thù địch để trao tận tay Garcia — những chuyện ấy tôi chẳng có ý kể lại từng chút một. Điều tôi muốn nói là: McKinley trao cho Rowan một bức thư gửi Garcia; Rowan nhận thư mà không hỏi \"ông ấy đang ở đâu?\". Trời đất ứng nghiệm! Đó là kiểu người mà hình hài nên được đúc bằng đồng bất tử, và tượng đặt ở mọi trường đại học trong nước. Giới trẻ không cần thứ tri thức từ sách vở, cũng không cần chỉ bảo chuyện này chuyện kia, mà cần một cột sống được làm cứng lên để họ trung thành với điều được giao, hành động lập tức, dồn hết sức lực: làm việc — \"Mang lời nhắn đến cho Garcia.\""
+    },
+    {
+      "type": "p",
+      "text": "Tướng Garcia giờ đã chết, nhưng còn những Garcia khác."
+    },
+    {
+      "type": "p",
+      "text": "Chưa có ai từng cố gắng thực hiện một việc cần nhiều bàn tay mà đôi lúc không kinh hoàng vì sự đần độn của người bình thường — sự bất khả hoặc bất ngờ tập trung vào một việc và làm cho xong."
+    },
+    {
+      "type": "p",
+      "text": "Trợ lý cẩu thả, sự thiếu chú ý ngu ngốc, thái độ bơ xờ và công việc nửa vời tưởng như là chuẩn mực; và chẳng ai thành công, nếu không bằng mọi cách, bằng đe dọa hay mua chuộc ép người khác giúp mình; hoặc may ra, Chúa nhân từ làm một phép lạ, phái xuống một Thiên thần ánh sáng làm trợ thủ. Còn anh, bạn đọc, cứ thử nghiệm chuyện này: anh đang ngồi trong phòng làm việc — sáu nhân viên trong tầm gọi. Gọi một người bất kỳ và đưa yêu cầu: \"Làm ơn tra bách khoa toàn thư và ghi cho tôi vài dòng ngắn về cuộc đời Correggio.\""
+    },
+    {
+      "type": "p",
+      "text": "Liệu anh nhân viên có nhẹ nhàng đáp \"Vâng, thưa ngài\" rồi đi làm việc không?"
+    },
+    {
+      "type": "p",
+      "text": "Có chết cũng không. Gã sẽ nhìn anh bằng ánh mắt cá ươn và hỏi một hay vài câu sau:"
+    },
+    {
+      "type": "p",
+      "text": "Ông ấy là ai? Quyển bách khoa nào? Bách khoa để ở đâu? Tôi có được thuê để làm việc đó không? Ý ngài là Bismarck chứ? Sao để Charlie làm? Ông ấy chết chưa? Có gấp lắm không? Tôi mang sách đến cho ngài tự tra có tiện hơn không? Ngài cần biết để làm gì?"
+    },
+    {
+      "type": "p",
+      "text": "Và tôi cá một mười rằng sau khi anh đã trả lời hết câu hỏi, giải thích cách tra và vì sao cần nó, gã nhân viên sẽ đi gọi một thằng khác phụ tìm Garcia — rồi quay lại báo là chẳng có ai tên thế. Tất nhiên tôi có thể thua cược, nhưng theo định luật trung bình thì không."
+    },
+    {
+      "type": "p",
+      "text": "Bây giờ, nếu anh khôn, anh sẽ chẳng buồn giải thích cho \"trợ lý\" rằng Correggio được xếp ở chữ C chứ không phải chữ K, mà sẽ cười thật dễ thương rồi nói \"Thôi khỏi\", và tự đi tra."
+    },
+    {
+      "type": "p",
+      "text": "Và chính sự bất khả hành động độc lập, sự đần độn về đạo đức, sự yếu ớt của ý chí, sự ngại ngùng không chịu vui vẻ buông tay ra kéo — đó là những thứ đẩy chủ nghĩa xã hội thuần khiết ngày càng xa về tương lai. Nếu người ta không chịu tự hành động cho mình, thì khi lợi ích của công sức thuộc về tất cả, họ sẽ làm gì? Một tay trưởng phó cầm gậy cuộn có vẻ là điều cần thiết; và nỗi sợ tối thứ Bảy bị \"đá khỏi chỗ\" níu nhiều người lao động giữ nguyên vị trí."
+    },
+    {
+      "type": "p",
+      "text": "Đăng tin tuyển người đánh máy, mười người ứng tuyển thì chín người chính tả lẫn dấu câu đều sai — và không thấy cần phải sửa."
+    },
+    {
+      "type": "p",
+      "text": "Kiểu đó có viết nổi một bức thư gửi Garcia không?"
+    },
+    {
+      "type": "p",
+      "text": "\"Anh thấy thằng kế toán ấy chứ,\" một quản đốc nói với tôi trong một nhà máy lớn."
+    },
+    {
+      "type": "p",
+      "text": "\"Thấy; có gì đâu?\""
+    },
+    {
+      "type": "p",
+      "text": "\"À, nó là dân sổ sách giỏi, nhưng nếu tôi sai nó chạy lên phố giao chuyện, nó có thể làm xong chuyện đàng hoàng, và cũng có thể ghé bốn quán rượu trên đường, đến phố Main thì quên mất mình được sai đi làm gì.\""
+    },
+    {
+      "type": "p",
+      "text": "Kiểu người đó có thể giao phó một lời nhắn gửi Garcia không?"
+    },
+    {
+      "type": "p",
+      "text": "Mấy hôm nay người ta hay nghe những tiếng thương hại sến súa dành cho \"kẻ bị đè nén trong xưởng mồ hôi nước mắt\" và \"kẻ lang thang vô gia cư kiếm một việc chân chính\", và theo đó thường là những lời nặng nề dành cho những người cầm quyền."
+    },
+    {
+      "type": "p",
+      "text": "Chẳng ai nói đến người sử dụng lao động già trước tuổi vì mải miết cố biến mấy gã lôi thôi vô dụng làm việc tử tế; cũng chẳng ai nhắc đến những năm tháng kiên nhẫn dài đằng đẳng của ông với đám \"trợ lý\" mà cứ lúc ông quay đi là chỉ biết chây lười. Trong mọi cửa hàng, mọi nhà máy, một quá trình loại bỏ liên tục đang diễn ra. Ông chủ cứ liên tục sa thải những \"trợ lý\" đã bộc lộ bất tài, và tuyển người khác vào."
+    },
+    {
+      "type": "p",
+      "text": "Thời tốt thế nào đi nữa, việc sàng lọc vẫn tiếp diễn: chỉ khi thời khó, việc khan hiếm thì sàng kỹ hơn — nhưng kẻ bất tài và bất xứng ra đi và ra đi mãi mãi. Đó là quy luật sinh tồn. Lợi ích riêng khiến mọi ông chủ giữ lại người tốt nhất — những kẻ có thể mang lời nhắn đến cho Garcia."
+    },
+    {
+      "type": "p",
+      "text": "Tôi biết một người tài năng rực rỡ thật sự nhưng không có khả năng tự quản một doanh nghiệp, và đồng thời vô dụng tuyệt đối với bất kỳ ai khác, bởi gã luôn mang theo mối nghi ngờ điên rồ rằng ông chủ đang áp bức hay định áp bức mình. Gã không ra lệnh được cho ai; và cũng không chịu nhận lệnh từ ai. Ai đó giao gã một lời nhắn gửi Garcia thì câu trả lời khả dĩ là \"Tự ông đi mà mang!\""
+    },
+    {
+      "type": "p",
+      "text": "Tối nay gã đó lang thang phố phường kiếm việc, gió rít xuyên qua chiếc áo rách toạc. Không ai quen gã dám thuê, vì gã là đúng nghĩa một ngòi nổ bất mãn. Gã bất khả xâm phạm trước lý lẽ, và thứ duy nhất ấn tượng nổi với gã là mũi giày số chín đế dày."
+    },
+    {
+      "type": "p",
+      "text": "Tôi đương nhiên biết kẻ bị méo mó về đạo đức cũng đáng thương không kém người tàn tật về thể xác; nhưng trong lúc thương hại, xin hãy dành một giọt nước mắt cho những người đang cố gắng duy trì một sự nghiệp lớn, giờ làm việc của họ không bị tiếng còi giới hạn, và tóc đang bạc nhanh vì cuộc chiến giữ lại đám bơ xờ bất cần, đần độn cẩu thả, và lòng vô ơn tàn nhẫn — nếu không nhờ doanh nghiệp của họ, đám đó đã vừa đói vừa vô gia cư."
+    },
+    {
+      "type": "p",
+      "text": "Tôi có nói nặng quá chăng? Có lẽ vậy; nhưng khi cả thế giới đang đổ xô đi thăm xóm nghèo, tôi muốn dành một lời cảm thông cho người thành đạt — kẻ ngược mọi ngọn gió đã chỉ đạo công sức của người khác, và thành công rồi thì nhận ra chẳng có gì trong đó: chỉ cơm áo thôi. Tôi đã từng xách cặp cơm đi làm công nhật, cũng từng là người thuê lao động, và tôi biết có chuyện để nói về cả hai phía. Nghèo không tự thân là điều đáng khâm phục; rách rưới không phải thư giới thiệu; và không phải ông chủ nào cũng tham tàn hà hiếp, cũng như không phải người nghèo nào cũng đức độ."
+    },
+    {
+      "type": "p",
+      "text": "Trái tim tôi hướng về người làm trọn việc của mình khi \"ông chủ\" vắng nhà, cũng như khi ông ta có mặt. Và người mà, khi được trao một bức thư gửi Garcia, lặng lẽ nhận lấy, không hỏi một câu ngớ ngẩn nào, không ẩn giấu ý định ném nó xuống cống gần nhất, cũng không làm gì khác ngoài trao tận tay — người đó không bao giờ bị \"sa thải\", cũng chẳng phải đình công đòi tăng lương. Văn minh là một cuộc tìm kiếm dài dằng dặc, khắc khoải, đúng những cá nhân kiểu đó. Hễ kiểu người đó xin gì thì được xin vậy. Loại đó hiếm đến nỗi không ông chủ nào dám để tuột. Mọi thành phố, thị trấn và làng xã đều cần — mọi phòng làm việc, xưởng, cửa hàng và nhà máy đều cần."
+    },
+    {
+      "type": "p",
+      "text": "Cả thế giới khao khát người như thế: cần, và rất cần — người có thể mang MỘT LỜI NHẮN GỬI GARCIA."
+    },
+    {
+      "type": "quote",
+      "text": "Hành động trong tự do tuyệt đối, và đồng thời biết rằng trách nhiệm là cái giá của tự do — ấy là cứu rỗi."
+    },
+    {
+      "type": "p",
+      "text": "*Thế là hết bài giảng A MESSAGE TO GARCIA, do Fra Elbertus chấp bút và Roycrofters đóng thành sách tại xưởng của họ, ở East Aurora, New York.*"
+    },
+    {
+      "type": "p",
+      "text": "Lời cầu nguyện cao quý nhất trong tim tôi không phải là để có học vấn hay để \"người tử tế\", mà là để Tỏa sáng."
+    },
+    {
+      "type": "p",
+      "text": "Tôi mong tỏa ra sức khỏe, sự phơi phới, chân thành, lòng can đảm điềm tĩnh và thiện chí. Tôi muốn sống giản dị, trung thực, tự nhiên, thẳng thắn, trong sạch cả tâm lẫn thân, không gò ép — sẵn sàng nói \"tôi không biết\" nếu quả thật vậy, để gặp gỡ mọi người trong một sự bình đẳng tuyệt đối — đối diện mọi trở ngại và đón từng khó khăn không sợ hãi, không xấu hổ."
+    },
+    {
+      "type": "p",
+      "text": "Tôi cũng mong người khác sống cuộc đời của họ tới mức cao nhất, đầy đủ nhất và tốt nhất. Vì thế tôi cầu mong mình đừng bao giờ xen vào, ra lệnh, can thiệp, khuyên điều người ta không cần, hay giúp đỡ khi dịch vụ của tôi không cần thiết. Nếu tôi có thể giúp người, tôi sẽ làm bằng cách trao cho họ cơ hội tự giúp mình; và nếu tôi có thể nâng ai lên hay truyền cảm hứng, xin để đó là qua tấm gương, qua ám dụ và gợi mở, chứ không qua mệnh lệnh và áp đặt. Nói cách khác, tôi mong được Tỏa sáng — Tỏa Ra Sự Sống."
+    }
+  ]
+}

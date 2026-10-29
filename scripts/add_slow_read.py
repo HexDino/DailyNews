@@ -26,6 +26,11 @@ CANONICAL_TOPICS = [
     "Tâm lý",
     "Tư duy & khoa học",
     "Stoicism",
+    "Triết học",
+    "Lịch sử",
+    "Nghệ thuật",
+    "Văn hoá",
+    "Phát triển bản thân",
 ]
 
 INDEX_FIELDS = (
