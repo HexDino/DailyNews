@@ -1,0 +1,1092 @@
+{
+  "date": "2026-10-29",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Năm, ngày 29 tháng 10 năm 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 29/10/2026 · Thứ Năm · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Quốc hội bàn Luật Đất đai: Bộ trưởng cam kết không lạm dụng thu hồi đất",
+    "Iran đưa kế hoạch 7 ngày chấm dứt chiến sự, mở lại Hormuz",
+    "Giá xăng dầu tăng 220–690 đồng từ 15h",
+    "Triều Tiên phóng tên lửa giữa tranh cãi vụ nổ mìn",
+    "Fact: 29/10/1969, thông điệp đầu tiên của ARPANET chỉ gửi được “lo”"
+  ],
+  "followups": [
+    {
+      "title": "Bầu cử Quốc hội Israel",
+      "update": "Với hơn 90% phiếu được kiểm, BBC nhận định mọi dấu hiệu cho thấy bế tắc và kịch bản khả dĩ nhất có thể là bầu cử lại.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-26-chieu",
+      "sources": [
+        {
+          "name": "BBC – bốn kịch bản",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Iran thảo luận với các bên trung gian một kế hoạch 7 ngày nhằm chấm dứt chiến sự và mở lại eo Hormuz.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/iran-thuc-day-ke-hoach-7-ngay-cham-dut-chien-su-5138101.html"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử tổng thống Brazil vòng hai: Lula – Flávio Bolsonaro",
+      "update": "Tới Miami, Flávio Bolsonaro phủ nhận việc bỏ trốn, tự nhận là “lãnh đạo Brazil” và nói mình là nạn nhân của đảo chính, lặp lại cáo buộc gian lận chưa được chứng minh.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-25-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dong-minh-ong-trump-tu-nhan-la-lanh-dao-brazil-sau-khi-sang-my-5138215.html"
+        }
+      ]
+    },
+    {
+      "title": "Tai nạn hai tàu cao tốc ở Tây Ban Nha",
+      "update": "Ghi âm cho thấy một tàu được phép chạy tiếp dù tàu phía trước đã dừng; lái tàu Iryo từng cảnh báo. Thủ tướng Sánchez cam kết điều tra tới cùng.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-29",
+      "sources": [
+        {
+          "name": "BBC – ghi âm",
+          "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o"
+        },
+        {
+          "name": "VnExpress – cảnh báo bị bỏ lỡ",
+          "url": "https://vnexpress.net/canh-bao-bi-bo-lo-trong-vu-hai-tau-cao-toc-dam-nhau-khien-68-nguoi-chet-5138148.html"
+        },
+        {
+          "name": "VnExpress – Sánchez",
+          "url": "https://vnexpress.net/thu-tuong-tay-ban-nha-cam-ket-dieu-tra-toi-cung-vu-dam-tau-5138190.html"
+        }
+      ]
+    },
+    {
+      "title": "Kỳ họp thứ hai Quốc hội khóa XVI",
+      "update": "Ngày 29/10 Quốc hội thảo luận Luật Đất đai sửa đổi; Bộ trưởng Trịnh Việt Hùng nói không lạm dụng thu hồi đất, đại biểu đề nghị bồi thường tối thiểu và rà soát hệ số K hằng năm.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/bo-truong-trinh-viet-hung-khong-lam-dung-thu-hoi-dat-5138298.html"
+        }
+      ]
+    },
+    {
+      "title": "Phiên xử đường dây lừa đảo Mr Pips",
+      "update": "Phó Đức Nam (Mr Pips) đề nghị tòa làm rõ để bộ phận chăm sóc khách hàng “cùng chịu tội” và cùng khắc phục hậu quả.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-28-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/mr-pips-de-nghi-them-nhom-nhan-vien-cham-soc-khach-hang-phai-cung-chiu-toi-5138406.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-29",
+      "title": "Oleshky: viện trợ có thể vào thị trấn (29/10), sơ tán dân thường dự kiến thứ Sáu 30/10",
+      "topic": "Chính trị",
+      "note": "Ngừng bắn đã mở rộng ra toàn vùng Kherson, kéo dài đến 22:59 giờ Kyiv ngày 1/11.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6lye1w9p2l8o"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Quốc hội thảo luận Luật Đất đai sửa đổi (sáng) và Luật Phát triển doanh nghiệp nhỏ và vừa (chiều)",
+      "topic": "Chính trị",
+      "note": "Kỳ họp thứ hai, Quốc hội khóa XVI.",
+      "sources": [
+        {
+          "name": "Báo Tin tức",
+          "url": "https://baotintuc.vn/ngay-2910-quoc-hoi-thao-luan-ve-du-an-luat-dat-dai-sua-doi-post1398108.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Carabao Cup vòng 1/8: Everton – Newcastle (đội thắng gặp Fleetwood ở tứ kết)",
+      "topic": "Bóng đá",
+      "note": "Tối thứ Năm 29/10 giờ Anh, tức rạng sáng 30/10 giờ VN.",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "time": "10:00",
+      "timezone": "giờ Alberta",
+      "title": "Công bố kết quả chính thức trưng cầu ý dân Alberta (10 câu hỏi, gồm câu về ly khai)",
+      "topic": "Chính trị",
+      "note": "Kết quả không chính thức được đếm trong 48 giờ sau khi đóng phiếu 19/10.",
+      "sources": [
+        {
+          "name": "Elections Alberta",
+          "url": "https://www.elections.ab.ca/current-election-information/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Mỹ bắt đầu nới một phần thuế 50% với hàng Canada",
+      "topic": "Chính trị",
+      "note": "Ván ép, giấy, máy móc, thiết bị làm lạnh được nới; thảm bị áp thuế.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "title": "TP HCM điều chỉnh giao thông loạt đường quanh Tân Sơn Nhất",
+      "topic": "Đời sống",
+      "note": "Cấm ôtô một chiều đoạn Lê Văn Sỹ, cho rẽ trái từ Cộng Hòa vào C12.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dieu-chinh-giao-thong-loat-duong-quanh-tan-son-nhat-tu-30-10-5137968.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "time": "19:15",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 6: Hà Nội FC – Ninh Bình (Hàng Đẫy)",
+      "topic": "Bóng đá",
+      "note": "Vòng 6 diễn ra 30/10–1/11. Ngày 31/10 lúc 18:00 có SLNA – CAHN và Nam Định – Thể Công Viettel.",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/the-thao/lich-thi-dau-vong-6-v-league-20262027-kich-hay-o-phia-truoc-post1344605.vov"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Serie A: derby Milan, Milan – Inter",
+      "topic": "Bóng đá",
+      "note": "Inter và Lazio cùng 25 điểm đầu bảng; giờ đá chưa kiểm tra.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/28/european-football-two-late-own-goals-return-inter-top-serie-a-venezia"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "19:30",
+      "timezone": "giờ VN",
+      "title": "Chelsea – Man Utd; Man City – Brighton (22:00), Ngoại hạng Anh vòng 10",
+      "topic": "Bóng đá",
+      "note": "12:30 và 15:00 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Quốc hội thảo luận ở hội trường về kinh tế – xã hội, ngân sách và đầu tư công 2026–2027",
+      "topic": "Chính trị",
+      "note": "Gồm cả quyết toán ngân sách 2025 và tổng kết dự án Đường Hồ Chí Minh quy mô hai làn xe.",
+      "sources": [
+        {
+          "name": "Báo Quân đội Nhân dân (qua Báo Mới)",
+          "url": "https://baomoi.com/tuan-lam-viec-thu-ba-cua-ky-hop-thu-hai-quoc-hoi-khoa-xvi-c56350765.epi"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Chung kết Đường lên đỉnh Olympia 2026 (sáng 1/11)",
+      "topic": "Đời sống",
+      "note": "Bốn nam sinh trường chuyên tranh ngôi vô địch.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/4-nam-sinh-truong-chuyen-tranh-tai-chung-ket-duong-len-dinh-olympia-2026-co-gi-dac-biet-5137089.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Iran bắt đầu “xử lý pháp lý” mọi tàu của hãng Sinokor (Hàn Quốc) qua eo Hormuz",
+      "topic": "Chính trị",
+      "note": "Theo Cơ quan quản lý eo biển vịnh Ba Tư của Iran.",
+      "sources": [
+        {
+          "name": "Reuters (Devdiscourse)",
+          "url": "https://www.devdiscourse.com/article/international/3998083-reuters-world-news-summary"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Tàu NA2 Vinh – Hà Nội bắt đầu dừng ga Phủ Lý cho người đi khám bệnh",
+      "topic": "Đời sống",
+      "note": "Phục vụ người bệnh tới Bạch Mai, Việt Đức cơ sở 2.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tau-khach-se-dung-o-ga-phu-ly-de-benh-nhan-den-benh-vien-bach-mai-5138315.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "23:30",
+      "timezone": "giờ VN",
+      "title": "Đại chiến Liverpool – Arsenal tại Anfield, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "16:30 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "nửa đầu tháng 11 (chưa chốt ngày)",
+      "timezone": "giờ Abu Dhabi",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi",
+      "topic": "Chính trị",
+      "note": "Điện Kremlin và ông Zelensky ngày 23/10 cùng xác nhận vòng đàm phán cấp đoàn đàm phán diễn ra trong nửa đầu tháng 11.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
+        },
+        {
+          "name": "TASS",
+          "url": "https://tass.com/politics/2206847"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "time": "03:59",
+      "timezone": "UTC+7",
+      "title": "Hết hạn ngừng bắn ở Oleshky và vùng Kherson (22:59 giờ Kyiv ngày 1/11)",
+      "topic": "Chính trị",
+      "note": "Theo ông David Arakhamia; có thể được gia hạn.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6lye1w9p2l8o"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Bầu cử giữa kỳ Mỹ",
+      "topic": "Chính trị",
+      "note": "Quyết định quyền kiểm soát Quốc hội trong hai năm cuối nhiệm kỳ ông Trump.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bau-cu-giua-ky-co-y-nghia-gi-doi-voi-ong-trump-va-quoc-hoi-my-100261022155231309.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Hà Nội bắt đầu chi trả lương hưu tháng 11 qua tài khoản",
+      "topic": "Đời sống",
+      "note": "Lùi một ngày so với thông lệ mùng 2.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thay-doi-lich-chi-tra-luong-huu-thang-11-2026-100261023103231668.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Hạn công bố kết quả chính thức bầu cử Quốc hội Israel (trong vòng 8 ngày sau bầu cử)",
+      "topic": "Chính trị",
+      "note": "Kết quả sơ bộ dự kiến có trong ngày 28/10; sau đó Tổng thống tham vấn các đảng để giao quyền lập chính phủ.",
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/israel-election-netanyahu-eisenkot-3b5a0fd078208155337ee9a0b9fbfde2"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Atlético – Bayern, Barcelona – Aston Villa, Man Utd – Roma, Villarreal – PSG",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 3/11.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Leipzig – Man City, Dortmund – Betis, Slavia Praha – Arsenal (Fenerbahçe – Liverpool, AEK – Real Madrid lúc 0:45)",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 4/11; hai trận sớm 18:45 CET.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại UAE (6–10/11)",
+      "topic": "Chính trị",
+      "note": "Theo ông Zelensky; Điện Kremlin nói châu Âu không tham gia.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "time": "trong ngày",
+      "timezone": "giờ Kenya",
+      "title": "Tuyên án mục sư Paul Mackenzie và 28 bị cáo vụ Shakahola",
+      "topic": "Chính trị",
+      "note": "Đã bị kết tội giết 191 người; báo cáo quản chế nộp tòa ngày 30/10.",
+      "sources": [
+        {
+          "name": "Capital FM",
+          "url": "https://capitalfm.africa/court-convicts-all-29-shakahola-accused-of-murder-sets-sentencing-for-november-6/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "9–20/11",
+      "timezone": "giờ Thổ Nhĩ Kỳ",
+      "title": "Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Chính trị",
+      "note": "Hội nghị thượng đỉnh khí hậu thường niên của Liên Hợp Quốc.",
+      "sources": [
+        {
+          "name": "UNFCCC",
+          "url": "https://unfccc.int/cop31/the-road-to-antalya"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Luật Đất đai, đề xuất trộn thí sinh thi tốt nghiệp, hỗ trợ khám tiền hôn nhân ở Hà Nội, giảm phạt thuế, kỷ luật cán bộ.",
+      "items": [
+        {
+          "headline": "Quốc hội thảo luận Luật Đất đai sửa đổi: Bộ trưởng Trịnh Việt Hùng cam kết “không lạm dụng thu hồi đất”",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Bộ trưởng Nông nghiệp và Môi trường khẳng định dự thảo quy định chặt chẽ các trường hợp thu hồi đất, tránh lạm dụng nhưng không gây khó cho việc triển khai dự án.",
+            "Đại biểu Nguyễn Bình Tân đề nghị bổ sung nguyên tắc bồi thường tối thiểu, tương xứng giá trị thực của đất bị thu hồi; đại biểu Lê Văn Thế đề nghị rà soát hệ số điều chỉnh giá đất (hệ số K) ít nhất mỗi năm một lần."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – Bộ trưởng",
+              "url": "https://vnexpress.net/bo-truong-trinh-viet-hung-khong-lam-dung-thu-hoi-dat-5138298.html"
+            },
+            {
+              "name": "VnExpress – bồi thường tối thiểu",
+              "url": "https://vnexpress.net/de-xuat-bo-sung-nguyen-tac-boi-thuong-toi-thieu-khi-thu-hoi-dat-5138166.html"
+            },
+            {
+              "name": "VnExpress – hệ số K",
+              "url": "https://vnexpress.net/dai-bieu-quoc-hoi-can-ra-soat-he-so-dieu-chinh-gia-dat-hang-nam-5138144.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ Công an kiến nghị “trộn” thí sinh nhiều trường ở kỳ thi tốt nghiệp THPT sau điểm thi cao bất thường ở một số trường chuyên",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Đề xuất nhằm hạn chế học sinh cùng một trường ngồi thi chung một điểm thi."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/de-xuat-tron-thi-sinh-nhieu-truong-o-ky-thi-tot-nghiep-thpt-5138321.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội hỗ trợ 1 triệu đồng cho cặp đôi khám sức khỏe trước kết hôn, 4 triệu cho phụ nữ sinh đủ hai con trước 35 tuổi",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Chính sách áp dụng với người cư trú tại Thủ đô, từ ngày 1/1/2027."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cap-doi-kham-suc-khoe-truoc-ket-hon-duoc-ho-tro-mot-trieu-dong-5138289.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ Tài chính đề xuất giảm 30–70% tiền phạt chậm nộp tờ khai thuế cho doanh nghiệp đã ngừng hoạt động, chưa hoãn xuất cảnh người bị mạo danh lập công ty",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Mức giảm áp dụng cho doanh nghiệp đã ngừng hoạt động nhưng chưa đóng mã số thuế.",
+            "Với cá nhân bị giả mạo thông tin để thành lập doanh nghiệp, hộ kinh doanh, Bộ đề xuất chưa áp dụng biện pháp tạm hoãn xuất cảnh."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – giảm phạt",
+              "url": "https://vnexpress.net/de-xuat-giam-toi-70-phat-cham-nop-to-khai-thue-cho-doanh-nghiep-ngung-hoat-dong-5138089.html"
+            },
+            {
+              "name": "VnExpress – xuất cảnh",
+              "url": "https://vnexpress.net/de-xuat-chua-hoan-xuat-canh-nguoi-bi-mao-danh-lap-cong-ty-5138325.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nguyên Phó chủ tịch UBND tỉnh Cao Bằng Trịnh Trường Huy và nguyên Giám đốc Sở GD&ĐT bị đề nghị kỷ luật",
+          "meta": "28/10 · VnExpress",
+          "body": [
+            "Hai cán bộ bị xác định vi phạm, gây hậu quả rất nghiêm trọng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nguyen-pho-chu-tich-tinh-cao-bang-bi-de-nghi-ky-luat-5138027.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cựu Phó chủ tịch Thanh Hóa Lê Đức Giang bị xác định nhận 180 triệu đồng, tạo điều kiện doanh nghiệp khai thác cát gấp 4 lần giấy phép",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Vụ khai thác cát lậu được xác định gây thiệt hại 76 tỷ đồng; ông Giang đã khắc phục 1,8 tỷ đồng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tu-qua-bieu-180-trieu-dong-pho-chu-tich-thanh-hoa-den-vu-khai-thac-cat-lau-76-ty-5138185.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Kế hoạch 7 ngày của Iran, Triều Tiên phóng tên lửa, nước rút bầu cử giữa kỳ Mỹ, Lầu Năm Góc, EU – Canada, Ethiopia, Haiti, vàng Venezuela.",
+      "items": [
+        {
+          "headline": "Iran thảo luận với các bên trung gian kế hoạch 7 ngày chấm dứt chiến sự và mở lại eo biển Hormuz",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Kế hoạch đang được Tehran thúc đẩy qua các kênh trung gian."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/iran-thuc-day-ke-hoach-7-ngay-cham-dut-chien-su-5138101.html"
+            }
+          ]
+        },
+        {
+          "headline": "Triều Tiên phóng tên lửa khi tranh cãi về vụ nổ mìn làm bị thương ba lính Hàn Quốc leo thang",
+          "meta": "29/10 · Al Jazeera, VnExpress",
+          "body": [
+            "Seoul cáo buộc Bình Nhưỡng gây ra vụ nổ mìn, phía Triều Tiên bác bỏ.",
+            "VnExpress phân tích đường ranh giới vạch bằng bút chì năm 1953 vẫn là ngòi nổ vì hai bên tự xác định theo cách riêng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies"
+            },
+            {
+              "name": "VnExpress – ranh giới",
+              "url": "https://vnexpress.net/duong-ranh-gioi-vach-bang-but-chi-thanh-ngoi-no-cang-thang-han-trieu-5137676.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bầu cử giữa kỳ Mỹ còn 5 ngày: ông Obama và ông Trump đấu khẩu ở Georgia, Ohio; ông Trump dọa truy tố ứng viên Dân chủ ở Alaska",
+          "meta": "29/10 · Al Jazeera, VnExpress",
+          "body": [
+            "Hai bên công kích nhau về chiến tranh Iran, thuế quan và phòng khiêu vũ Nhà Trắng.",
+            "Ông Trump cáo buộc ứng viên Dân chủ và một ứng viên độc lập tranh ghế Thượng viện ở Alaska “gian lận bầu cử” và đe dọa truy tố họ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera – Obama, Trump",
+              "url": "https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways"
+            },
+            {
+              "name": "Al Jazeera – thăm dò",
+              "url": "https://www.aljazeera.com/news/2026/10/29/us-midterms-five-days-to-go-what-the-polls-say-as-trump-harris-campaign"
+            },
+            {
+              "name": "VnExpress – Alaska",
+              "url": "https://vnexpress.net/ong-trump-doa-truy-to-ung-vien-thuong-nghi-si-dan-chu-o-alaska-5138128.html"
+            }
+          ]
+        },
+        {
+          "headline": "Truyền thông Mỹ: chiến lược gia quân sự hàng đầu Lầu Năm Góc, Tướng Brett Sylvia, có thể đã bị Bộ trưởng Hegseth cách chức",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Ông là sĩ quan mới nhất bị cách chức dưới thời Bộ trưởng Hegseth."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chien-luoc-gia-hang-dau-lau-nam-goc-co-the-da-bi-sa-thai-5138206.html"
+            }
+          ]
+        },
+        {
+          "headline": "EU rút lại ý tưởng cho Canada làm “thành viên liên kết” khỏi dự thảo tuyên bố",
+          "meta": "29/10 · Al Jazeera",
+          "body": [
+            "Theo Al Jazeera, Thủ tướng Đức Merz và một số lãnh đạo EU muốn bỏ các điều khoản này."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/29/european-union-backtracks-on-canada-becoming-associate-2"
+            }
+          ]
+        },
+        {
+          "headline": "Ethiopia nhận 12 tiêm kích Su-35S của Nga, ký mua 4 hệ thống S-400 giữa giao tranh ở Tigray",
+          "meta": "29/10 · BBC, VnExpress",
+          "body": [
+            "Giao tranh ở vùng Tigray phía bắc nổ ra từ tháng trước."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/them-quoc-gia-so-huu-tiem-kich-su-35s-cua-nga-5138276.html"
+            }
+          ]
+        },
+        {
+          "headline": "El Salvador điều hơn 2.000 binh sĩ tới Haiti tìm 4 quân nhân mất tích sau phục kích; Haiti hoãn bầu cử",
+          "meta": "29/10 · BBC, Al Jazeera",
+          "body": [
+            "Bốn quân nhân thuộc lực lượng được LHQ hậu thuẫn mất tích ở ngoại ô Port-au-Prince."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections"
+            }
+          ]
+        },
+        {
+          "headline": "Venezuela yêu cầu Ngân hàng Anh trả lại khoảng 1,9 tỷ USD vàng thỏi bị đóng băng nhiều năm",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Yêu cầu do Tổng thống lâm thời Venezuela đưa ra."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/venezuela-yeu-cau-anh-hoan-tra-1-9-ty-usd-vang-thoi-5138111.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Giá xăng, tàu dừng ga Phủ Lý, đường băng Phú Quốc, đường phía tây TP HCM, rửa tiền 700 tỷ, lá ngón, đèo Prenn.",
+      "items": [
+        {
+          "headline": "Giá xăng, dầu cùng tăng 220–690 đồng mỗi lít, kg từ 15h chiều nay",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Điều chỉnh theo đà biến động giá thế giới."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/gia-xang-dau-cung-tang-5138351.html"
+            }
+          ]
+        },
+        {
+          "headline": "Từ 1/11, tàu NA2 Vinh – Hà Nội dừng ga Phủ Lý để người bệnh tới Bạch Mai, Việt Đức cơ sở 2",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Thuận tiện cho người miền Trung ra khám chữa bệnh."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tau-khach-se-dung-o-ga-phu-ly-de-benh-nhan-den-benh-vien-bach-mai-5138315.html"
+            }
+          ]
+        },
+        {
+          "headline": "Sân bay Phú Quốc khai thác thương mại đường băng số 2 dài 3.300 m sau 8 tháng thi công",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Đường cất hạ cánh mới đi vào khai thác từ sáng 29/10."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khai-thac-thuong-mai-duong-bang-so-2-san-bay-phu-quoc-5138045.html"
+            }
+          ]
+        },
+        {
+          "headline": "TP HCM đề xuất hơn 10.800 tỷ đồng mở rộng đường Tân Kỳ Tân Quý và trục Phan Anh – An Dương Vương",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Dự án gồm cả cải tạo hệ thống thoát nước. Cùng ngày, quy hoạch TP HCM tầm nhìn 100 năm xác định 5 khu vực phát triển chủ lực."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – mở rộng đường",
+              "url": "https://vnexpress.net/de-xuat-hon-10-800-ty-dong-mo-rong-hai-duong-phia-tay-tp-hcm-5138407.html"
+            },
+            {
+              "name": "VnExpress – quy hoạch 100 năm",
+              "url": "https://vnexpress.net/5-khu-vuc-phat-trien-chu-luc-cua-tp-hcm-trong-quy-hoach-100-nam-5138186.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đà Nẵng phá đường dây chuyển khoảng 700 tỷ đồng tiền lừa đảo sang tiền số cho nhóm tội phạm ở Campuchia",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Cơ quan chức năng khởi tố thêm 3 bị can."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/da-nang-pha-duong-day-rua-tien-700-ty-dong-cho-nhom-lua-dao-o-campuchia-5138354.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nữ sinh lớp 8 ở xã biên giới Hùng Sơn tử vong vì ăn nhầm lá ngón mọc gần điểm trường",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Một bạn cùng lớp đang được cấp cứu."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nu-sinh-lop-8-tu-vong-do-an-nham-la-ngon-5138124.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đèo Prenn: bọc lưới thép, đinh neo dài 6 m đoạn taluy 8 lần sạt lở, kinh phí khoảng 16 tỷ đồng",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Đèo Prenn là cửa ngõ vào Đà Lạt."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/gia-co-taluy-deo-prenn-chong-sat-lo-5138282.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Cháy cơ sở hạt nhân Mỹ, rò rỉ dữ liệu DHS, nguy cơ Himalaya, khoảng cách giàu nghèo theo tuổi ở châu Âu, lao động Triều Tiên ở Nga.",
+      "items": [
+        {
+          "headline": "Cháy tại tổ hợp hạt nhân Savannah River (Nam Carolina), giới chức Mỹ phát cảnh báo nguy cơ phát tán phóng xạ",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Nhà chức trách triển khai loạt biện pháp đề phòng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chay-tai-co-so-hat-nhan-my-phat-canh-bao-phat-tan-phong-xa-5138165.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tin tặc công bố thông tin hơn 41.000 nhân viên Bộ An ninh Nội địa Mỹ, gồm nhiều đặc vụ di trú",
+          "meta": "29/10 · BBC",
+          "body": [
+            "Nhóm tự xưng “Department of Peace” đứng sau vụ rò rỉ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo"
+            }
+          ]
+        },
+        {
+          "headline": "Bùng nổ xây dựng đặt khoảng 300.000 người ở Nepal và Uttarakhand (Ấn Độ) trên đường đi của các thảm họa Himalaya",
+          "meta": "29/10 · BBC",
+          "body": [
+            "Cơ sở du lịch, nhà ở và hạ tầng mọc lên nhanh ở vùng núi có nguy cơ lũ, sạt lở."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo"
+            }
+          ]
+        },
+        {
+          "headline": "Châu Âu: hộ gia đình lớn tuổi giàu gấp 8 lần hộ trẻ, người dưới 35 tuổi chỉ nắm 2,8% tài sản hộ gia đình",
+          "meta": "29/10 · Al Jazeera, BBC",
+          "body": [
+            "Số liệu được nêu khi làn sóng biểu tình của người trẻ về chi phí sinh hoạt lan khắp châu Âu trong tháng qua."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/29/europes-wealth-gap-older-households-eight-times-richer-than-young-ones"
+            },
+            {
+              "name": "BBC – giới trẻ xuống đường",
+              "url": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o"
+            }
+          ]
+        },
+        {
+          "headline": "Báo cáo: lao động Triều Tiên được tuyển sang Nga làm việc cưỡng bức qua visa du học",
+          "meta": "29/10 · Al Jazeera",
+          "body": [
+            "Theo tổ chức Global Rights Compliance, một mạng lưới môi giới Nga đứng sau việc tuyển dụng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/10/29/north-koreans-being-recruited-into-forced-labour-in-russia-report-says"
+            }
+          ]
+        },
+        {
+          "headline": "Bé gái 8 tuổi bị thương nặng khi bị sói tấn công trong chuồng ở một công viên động vật hoang dã tại Đức",
+          "meta": "29/10 · BBC",
+          "body": [
+            "Em đang ở trong chuồng cùng các trẻ khác và một nhân viên."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vắn công nghệ",
+      "tags": [
+        "ai"
+      ],
+      "intro": "Một tin ngắn.",
+      "items": [
+        {
+          "headline": "Ông Putin gọi Elon Musk là “thiên tài thực sự” sau trao đổi về vệ tinh; Nga mới ở bước đầu làm hệ thống Internet vệ tinh thay Starlink",
+          "meta": "29/10 · BBC, VnExpress",
+          "body": [
+            "Ông Putin nói hai bên giữ liên lạc “chặt chẽ”."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-putin-elon-musk-la-thien-tai-thuc-su-5138100.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Cá “check-in” ổi chín, vòi xịt ở công sở Mỹ, nhà có ma giá rẻ, Hello Kitty xin lỗi — cùng ARPANET và Thứ Ba đen tối.",
+      "items": [
+        {
+          "headline": "Đàn cá thay nhau “check-in” chùm ổi chín lủng lẳng sát mặt nước",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Clip ghi cảnh đàn cá bơi sát mép nước, liên tục đớp vào những quả ổi trên cành."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dan-ca-treo-len-cay-check-in-chum-oi-chin-5137078.html"
+            }
+          ]
+        },
+        {
+          "headline": "Vòi xịt vệ sinh thành “phúc lợi” được săn đón ở nhiều công sở Mỹ",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Có nhân viên coi đây là yếu tố khi chọn nơi làm việc."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/voi-xit-ve-sinh-duoc-san-don-tai-nhieu-cong-so-my-5138316.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nhà “có ma” hút người săn giá rẻ: bất động sản nơi từng có người chết bất thường được giảm giá mạnh",
+          "meta": "29/10 · BBC",
+          "body": [
+            "“Tôi sống chung với một hồn ma”, một người mua kể với BBC."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo"
+            }
+          ]
+        },
+        {
+          "headline": "Sanrio, hãng làm Hello Kitty, xin lỗi và cắt hợp tác với phim gián điệp Nhật “Vivant” sau phản ứng ở Trung Quốc",
+          "meta": "29/10 · BBC",
+          "body": [
+            "Dòng sản phẩm hợp tác với bộ phim bị chỉ trích."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Obama tung micro cho trợ lý sau bài phát biểu ở Michigan, khoảnh khắc gây sốt mạng xã hội",
+          "meta": "29/10 · VnExpress",
+          "body": [
+            "Bài phát biểu công kích ông Trump trước bầu cử giữa kỳ."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khoanh-khac-ong-obama-tung-micro-gay-sot-mang-xa-hoi-5138172.html"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 29/10/1969 — thông điệp đầu tiên qua ARPANET, tiền thân của Internet, được gửi từ UCLA tới Viện Nghiên cứu Stanford",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Hệ thống bị sập sau hai ký tự đầu “lo” của từ “login”."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – ARPANET",
+              "url": "https://en.wikipedia.org/wiki/ARPANET"
+            },
+            {
+              "name": "Wikipedia – October 29",
+              "url": "https://en.wikipedia.org/wiki/October_29"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 29/10/1929 — “Thứ Ba đen tối”, ngày tồi tệ nhất của cuộc sụp đổ thị trường chứng khoán Phố Wall, mở đầu Đại khủng hoảng",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Cũng ngày này năm 1923, Thổ Nhĩ Kỳ tuyên bố thành lập nước Cộng hòa; 29/10 là ngày Cộng hòa của nước này."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Wall Street crash of 1929",
+              "url": "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929"
+            },
+            {
+              "name": "Wikipedia – Republic Day (Turkey)",
+              "url": "https://en.wikipedia.org/wiki/Republic_Day_(Turkey)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 29/10/2026 (giờ VN). Không lặp tin số sáng (tai nạn tàu Tây Ban Nha và bầu cử Israel chỉ cập nhật ở mục Theo dõi tin cũ)."
+}
