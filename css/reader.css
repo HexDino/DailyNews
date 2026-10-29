@@ -1915,10 +1915,6 @@ html[data-theme="dark"] .doc-cham-card {
   color: var(--accent);
 }
 
-.doc-cham-card-mins {
-  white-space: nowrap;
-}
-
 .doc-cham-card-topics {
   display: flex;
   flex-wrap: wrap;

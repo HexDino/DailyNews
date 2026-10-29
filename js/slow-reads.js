@@ -221,9 +221,6 @@
       .map((t) => `<span class="ui-chip ui-chip--plain">${escapeHtml(t)}</span>`)
       .join("");
     const byline = [a.author, a.source].filter(Boolean).join(" · ");
-    const mins = a.reading_minutes
-      ? `<span class="doc-cham-card-mins">${escapeHtml(String(a.reading_minutes))} phút đọc</span>`
-      : "";
     // A summary is not a translation: say so on the card so nobody expects the
     // full piece.
     const kind = a.coverage === "summary"
@@ -234,7 +231,7 @@
     return `<article class="doc-cham-card">
       <h2 class="doc-cham-card-title"><a href="${escapeHtml(articleHref(a.id))}">${escapeHtml(a.title)}</a></h2>
       ${a.summary ? `<p class="doc-cham-card-summary">${escapeHtml(a.summary)}</p>` : ""}
-      <p class="doc-cham-card-byline">${escapeHtml(byline)}${mins ? " · " + mins : ""}</p>
+      <p class="doc-cham-card-byline">${escapeHtml(byline)}</p>
       ${kind || topics ? `<div class="doc-cham-card-topics">${kind}${topics}</div>` : ""}
     </article>`;
   }
@@ -404,7 +401,7 @@
         <header class="doc-cham-article-head">
           <h1>${escapeHtml(a.title)}</h1>
           ${a.title_original ? `<p class="doc-cham-title-original">${escapeHtml(a.title_original)}</p>` : ""}
-          <p class="doc-cham-article-byline">${escapeHtml(a.author || "")}${a.author && a.source ? " · " : ""}${sourceLink}${a.reading_minutes ? ` · ${escapeHtml(String(a.reading_minutes))} phút đọc` : ""}</p>
+          <p class="doc-cham-article-byline">${escapeHtml(a.author || "")}${a.author && a.source ? " · " : ""}${sourceLink}</p>
           ${kindChip}
           ${topics ? `<div class="doc-cham-card-topics">${topics}</div>` : ""}
         </header>
