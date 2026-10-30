@@ -1,0 +1,928 @@
+{
+  "date": "2026-10-31",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 31/10/2026 · Thứ Bảy · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Iran nói 3 tàu dầu nổ, cháy ở Hormuz; Oman cứu 25 thuyền viên",
+    "Cổ phiếu Intel giảm ~28%, phần vốn chính phủ Mỹ mất 12 tỷ USD",
+    "Hà Nội FC thắng ngược Ninh Bình 2-1 nhờ siêu phẩm phút bù",
+    "Anthropic đổi tên gói Claude thành Max và Ultra, giá giữ nguyên"
+  ],
+  "followups": [
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "IRGC nói 3 tàu chở dầu nổ, cháy khi đi “tuyến cấm”; Oman cứu 25 thuyền viên tàu RITI; tàu Louise 1 trúng mìn từ tính nhưng tiếp tục hành trình. Ông Trump nói chiến sự “sẽ sớm khép lại”.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/mideast-news-october-30-2026-7f7f34ceb62f294a450e48ace0bd56e0"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/iran-noi-3-tau-cho-dau-boc-chay-o-eo-bien-hormuz-5138951.html"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử Quốc hội Israel",
+      "update": "Kiểm phiếu cuối: Netanyahu 53, Eisenkot 48, đảng Ả Rập 19. Kết quả chính thức trình Tổng thống Herzog ngày 4/11; ông kêu gọi tránh bầu cử lại.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-26-chieu",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/10/30/final-vote-count-confirms-uncertainty-after-israeli-election/"
+        },
+        {
+          "name": "Ynet",
+          "url": "https://www.ynetnews.com/article/hygrg6jafe"
+        }
+      ]
+    },
+    {
+      "title": "Kỳ họp thứ hai Quốc hội khóa XVI",
+      "update": "Phiên thảo luận kinh tế – xã hội chiều 30/10: Bộ trưởng Xây dựng nói đường sắt đô thị Hà Nội – Thái Nguyên do hai địa phương quyết. Hôm nay tiếp tục thảo luận.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/bo-truong-xay-dung-bo-khong-quyet-dau-tu-duong-sat-ha-noi-thai-nguyen-5138846.html"
+        }
+      ]
+    },
+    {
+      "title": "Ngừng bắn sơ tán Oleshky (Kherson)",
+      "update": "Quan chức Nga và Ukraine cùng giám sát việc phát viện trợ và sơ tán dân ngày 30/10; thỏa thuận hết hạn ngày 2/11.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/nga-ukraine-phoi-hop-so-tan-dan-khoi-thanh-pho-oleshky-5138928.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-31",
+      "title": "60 năm khánh thành Dinh Độc Lập — trưng bày bản vẽ, ảnh tư liệu",
+      "topic": "Văn hoá",
+      "note": "Khoảng 100 hiện vật tư liệu.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/bon-nam-xay-dung-dinh-doc-lap-qua-anh-tu-lieu-5138776.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Serie A: derby Milan, Milan – Inter",
+      "topic": "Bóng đá",
+      "note": "Inter và Lazio cùng 25 điểm đầu bảng; giờ đá chưa kiểm tra.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/28/european-football-two-late-own-goals-return-inter-top-serie-a-venezia"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "18:00",
+      "timezone": "UTC+7",
+      "title": "V-League vòng 6: SLNA – CAHN, Nam Định – Thể Công",
+      "topic": "Bóng đá",
+      "note": "",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/sieu-pham-cua-viet-kieu-giup-ha-noi-fc-thang-nguoc-ninh-binh-5138979.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "19:30",
+      "timezone": "giờ VN",
+      "title": "Chelsea – Man Utd; Man City – Brighton (22:00), Ngoại hạng Anh vòng 10",
+      "topic": "Bóng đá",
+      "note": "12:30 và 15:00 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Quốc hội thảo luận ở hội trường về kinh tế – xã hội, ngân sách và đầu tư công 2026–2027",
+      "topic": "Chính trị",
+      "note": "Gồm cả quyết toán ngân sách 2025 và tổng kết dự án Đường Hồ Chí Minh quy mô hai làn xe.",
+      "sources": [
+        {
+          "name": "Báo Quân đội Nhân dân (qua Báo Mới)",
+          "url": "https://baomoi.com/tuan-lam-viec-thu-ba-cua-ky-hop-thu-hai-quoc-hoi-khoa-xvi-c56350765.epi"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Chung kết Đường lên đỉnh Olympia 2026 (sáng 1/11)",
+      "topic": "Đời sống",
+      "note": "Bốn nam sinh trường chuyên tranh ngôi vô địch.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/4-nam-sinh-truong-chuyen-tranh-tai-chung-ket-duong-len-dinh-olympia-2026-co-gi-dac-biet-5137089.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Iran bắt đầu “xử lý pháp lý” mọi tàu của hãng Sinokor (Hàn Quốc) qua eo Hormuz",
+      "topic": "Chính trị",
+      "note": "Theo Cơ quan quản lý eo biển vịnh Ba Tư của Iran.",
+      "sources": [
+        {
+          "name": "Reuters (Devdiscourse)",
+          "url": "https://www.devdiscourse.com/article/international/3998083-reuters-world-news-summary"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Tàu NA2 Vinh – Hà Nội bắt đầu dừng ga Phủ Lý cho người đi khám bệnh",
+      "topic": "Đời sống",
+      "note": "Phục vụ người bệnh tới Bạch Mai, Việt Đức cơ sở 2.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tau-khach-se-dung-o-ga-phu-ly-de-benh-nhan-den-benh-vien-bach-mai-5138315.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "23:30",
+      "timezone": "giờ VN",
+      "title": "Đại chiến Liverpool – Arsenal tại Anfield, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "16:30 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "nửa đầu tháng 11 (chưa chốt ngày)",
+      "timezone": "giờ Abu Dhabi",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi",
+      "topic": "Chính trị",
+      "note": "Điện Kremlin và ông Zelensky ngày 23/10 cùng xác nhận vòng đàm phán cấp đoàn đàm phán diễn ra trong nửa đầu tháng 11.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
+        },
+        {
+          "name": "TASS",
+          "url": "https://tass.com/politics/2206847"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "time": "03:59",
+      "timezone": "UTC+7",
+      "title": "Hết hạn ngừng bắn ở Oleshky và vùng Kherson (22:59 giờ Kyiv ngày 1/11)",
+      "topic": "Chính trị",
+      "note": "Theo ông David Arakhamia; có thể được gia hạn.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6lye1w9p2l8o"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Bầu cử giữa kỳ Mỹ",
+      "topic": "Chính trị",
+      "note": "Quyết định quyền kiểm soát Quốc hội trong hai năm cuối nhiệm kỳ ông Trump.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bau-cu-giua-ky-co-y-nghia-gi-doi-voi-ong-trump-va-quoc-hoi-my-100261022155231309.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Hà Nội bắt đầu chi trả lương hưu tháng 11 qua tài khoản",
+      "topic": "Đời sống",
+      "note": "Lùi một ngày so với thông lệ mùng 2.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thay-doi-lich-chi-tra-luong-huu-thang-11-2026-100261023103231668.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Hạn công bố kết quả chính thức bầu cử Quốc hội Israel (trong vòng 8 ngày sau bầu cử)",
+      "topic": "Chính trị",
+      "note": "Kết quả sơ bộ dự kiến có trong ngày 28/10; sau đó Tổng thống tham vấn các đảng để giao quyền lập chính phủ.",
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/israel-election-netanyahu-eisenkot-3b5a0fd078208155337ee9a0b9fbfde2"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Atlético – Bayern, Barcelona – Aston Villa, Man Utd – Roma, Villarreal – PSG",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 3/11.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Leipzig – Man City, Dortmund – Betis, Slavia Praha – Arsenal (Fenerbahçe – Liverpool, AEK – Real Madrid lúc 0:45)",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 4/11; hai trận sớm 18:45 CET.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại UAE (6–10/11)",
+      "topic": "Chính trị",
+      "note": "Theo ông Zelensky; Điện Kremlin nói châu Âu không tham gia.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "time": "trong ngày",
+      "timezone": "giờ Kenya",
+      "title": "Tuyên án mục sư Paul Mackenzie và 28 bị cáo vụ Shakahola",
+      "topic": "Chính trị",
+      "note": "Đã bị kết tội giết 191 người; báo cáo quản chế nộp tòa ngày 30/10.",
+      "sources": [
+        {
+          "name": "Capital FM",
+          "url": "https://capitalfm.africa/court-convicts-all-29-shakahola-accused-of-murder-sets-sentencing-for-november-6/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "9–20/11",
+      "timezone": "giờ Thổ Nhĩ Kỳ",
+      "title": "Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Chính trị",
+      "note": "Hội nghị thượng đỉnh khí hậu thường niên của Liên Hợp Quốc.",
+      "sources": [
+        {
+          "name": "UNFCCC",
+          "url": "https://unfccc.int/cop31/the-road-to-antalya"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Hết hạn khuyến mãi hạn mức Gemini tạo nhiều slide (ít nhất đến ngày này)",
+      "topic": "Công nghệ",
+      "note": "Áp dụng cho gói Workspace/Google AI đủ điều kiện.",
+      "sources": [
+        {
+          "name": "Google Workspace Updates",
+          "url": "https://workspaceupdates.googleblog.com/2026/10/edit-entire-presentations-with-gemini-in-Google-Slides.html"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Anthropic đổi tên gói Claude: Max 5x thành “Max” 100 USD/tháng, Max 20x thành “Ultra” 200 USD/tháng; giá giữ nguyên",
+          "meta": "The Verge · 30/10",
+          "body": [
+            "Anthropic đổi tên hai gói trả phí cao của Claude: gói Max 5x nay gọi là Max (100 USD/tháng), còn Max 20x đổi thành Ultra (200 USD/tháng). Theo The Verge, mức giá của hai gói không thay đổi."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1023576/max-ultra-claude"
+            }
+          ]
+        },
+        {
+          "headline": "OpenAI tăng gấp đôi hạn mức Work và Codex cho ChatGPT Pro, hủy kế hoạch cắt giảm sau phản ứng của người dùng",
+          "meta": "OpenAI · BleepingComputer · 29/10",
+          "body": [
+            "OpenAI tăng gấp đôi hạn mức sử dụng Work và Codex cho các gói Pro 100 và Pro 500, đồng thời hủy kế hoạch cắt giảm hạn mức với Pro 200; người dùng Pro 200 đang ở hạn mức thấp cũng được nhân đôi. Gói Plus không đổi.",
+            "BleepingComputer cho biết quyết định đến sau phản ứng của người dùng trước kế hoạch cắt khoảng 50% hạn mức đã công bố trước đó."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "OpenAI Release Notes",
+              "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes"
+            },
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/"
+            }
+          ]
+        },
+        {
+          "headline": "OpenAI sẽ tôn trọng tín hiệu robots.txt chung để website chọn không cho dùng nội dung huấn luyện AI",
+          "meta": "OpenAI · The Verge · 30/10",
+          "body": [
+            "OpenAI cho biết sẽ hỗ trợ một tín hiệu chung trong robots.txt giúp website bày tỏ mong muốn về việc dùng nội dung để huấn luyện AI, dựa trên công việc của nhóm AI Preferences thuộc IETF. Hãng dự kiến triển khai “trong những tháng tới”.",
+            "The Verge đưa tin Google và Microsoft cũng tham gia hướng tiêu chuẩn chung này cho việc chọn không cho thu thập dữ liệu (opt-out)."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+            }
+          ]
+        },
+        {
+          "headline": "Anthropic chỉnh Claude Code để tránh dựng lại nguyên một trò chơi điện tử có sẵn",
+          "meta": "Game Developer · 30/10",
+          "body": [
+            "Theo Game Developer, Anthropic đã cập nhật để Claude Code (với Opus 5.5) được hướng tránh tái tạo một trò chơi điện tử cụ thể đang tồn tại. Addy Osmani được dẫn lời: “We added two sentences to Claude Code's prompt…” (chúng tôi thêm hai câu vào prompt của Claude Code)."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Game Developer",
+              "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games"
+            }
+          ]
+        },
+        {
+          "headline": "Claude Enterprise ra mắt chính thức Smart Reports, khảo sát trong ứng dụng và ngân sách nhóm dùng chung",
+          "meta": "Channel Insider · 30/10",
+          "body": [
+            "Các công cụ quản lý chi tiêu AI cho Claude Enterprise gồm Smart Reports, khảo sát trong ứng dụng và ngân sách gộp theo nhóm đã ra mắt chính thức (GA). Quản trị viên nhận cảnh báo khi mức dùng đạt 50%, 75%, 95% và 100% ngân sách."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Channel Insider",
+              "url": "https://www.channelinsider.com/ai/news-anthropic-claude-enterprise-ai-spending-tools/"
+            }
+          ]
+        },
+        {
+          "headline": "Gemini cho mọi người dùng tạo, xem trước và chỉnh sửa tệp ngay trong chat; Gemini API đưa Computer Use lên GA",
+          "meta": "Gadgets360 · Google AI for Developers · 27–30/10",
+          "body": [
+            "Ứng dụng Gemini nay cho mọi người dùng tạo, xem trước và chỉnh sửa tài liệu ngay trong cuộc trò chuyện; PDF dùng được trên web và di động, các định dạng khác hiện chỉ trên web. Gemini Notebook cũng bổ sung sách giáo khoa miễn phí.",
+            "Với lập trình viên, changelog Gemini API ghi nhận tính năng Computer Use lên bản chính thức (GA) ngày 30/10, và công cụ dòng lệnh gemini-api ra bản beta ngày 27/10."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Gadgets360",
+              "url": "https://www.gadgets360.com/ai/news/gemini-update-create-edit-pdf-documents-presentations-in-chat-google-12257673"
+            },
+            {
+              "name": "Gemini API changelog",
+              "url": "https://ai.google.dev/gemini-api/docs/changelog"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "wangzan101/Mika — agent AI chạy trên điện thoại Android, tự thao tác ứng dụng và web",
+          "meta": "GitHub · tạo 29/10 · 1.176★ · Kotlin · Apache-2.0",
+          "body": [
+            "Mika tự mô tả là “trợ lý AI cá nhân trên điện thoại”: một agent chạy trên thiết bị Android, thay người dùng thao tác các ứng dụng và trang web để hoàn thành việc. Dự án viết bằng Kotlin, giấy phép Apache-2.0; đạt khoảng 1.176 sao sau hai ngày (theo GitHub API sáng 31/10)."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/wangzan101/Mika"
+            }
+          ]
+        },
+        {
+          "headline": "jmanico/grim-prompter — lập mô hình mối đe dọa (threat model) cho repo bằng agent lập trình AI",
+          "meta": "GitHub · tạo 28/10 · 246★ · MIT",
+          "body": [
+            "Bộ công cụ cho phép trỏ Claude Code, Codex hoặc agent khác vào một repo để nhận về threat model có truy vết bằng chứng. Theo mô tả, dự án gồm 36 kiến trúc mẫu và 29 phương pháp, phát hành theo giấy phép MIT; khoảng 246 sao theo GitHub API sáng 31/10."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/jmanico/grim-prompter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Cổ phiếu Intel lao dốc khoảng 28%, phần vốn của chính phủ Mỹ mất 12 tỷ USD giá trị",
+          "meta": "TechCrunch · 30/10",
+          "body": [
+            "Cổ phiếu Intel giảm khoảng 28% ngày 30/10 (giờ Mỹ), một trong những phiên tệ nhất lịch sử, sau khi hãng dự báo doanh thu quý IV chỉ 15–16 tỷ USD, thấp hơn kỳ vọng. Theo CNBC được TechCrunch dẫn, đợt giảm khiến phần 10% cổ phần chính phủ Mỹ nắm giữ mất khoảng 12 tỷ USD giá trị.",
+            "TechCrunch cho biết Intel bị ảnh hưởng bởi doanh số PC khi ngành AI hút bộ nhớ và linh kiện, đẩy giá PC tăng. Dù vậy cổ phiếu vẫn tăng hơn 70% từ đầu năm."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+            }
+          ]
+        },
+        {
+          "headline": "Apple Intelligence sắp đến Trung Quốc với iOS 27.3; bản beta ra tuần tới",
+          "meta": "The Verge · 30/10",
+          "body": [
+            "Apple sẽ phát hành bản beta iOS 27.3 vào tuần tới, mang một số tính năng Apple Intelligence đầu tiên đến thị trường Trung Quốc, theo The Verge."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+            }
+          ]
+        },
+        {
+          "headline": "Vệ tinh Project Suncatcher của Google gửi phản hồi AI đầu tiên về Trái Đất — một bài haiku",
+          "meta": "The Verge · 30/10",
+          "body": [
+            "Máy chủ AI đặt trên vệ tinh thuộc Project Suncatcher của Google đã truyền phản hồi đầu tiên về Trái Đất: một bài thơ haiku về việc ở ngoài không gian, theo The Verge."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "Khuyến mãi đặc biệt",
+      "title": "Công nghệ · Khuyến mãi đặc biệt",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Google Workspace: hạn mức cao hơn để Gemini tạo nhiều slide trong Google Slides, ít nhất đến 1/12/2026",
+          "meta": "Google Workspace Updates · từ 29/10",
+          "body": [
+            "Ai được dùng: khách hàng Workspace Business Standard/Plus, Enterprise Standard/Plus, Google AI Pro/Ultra và Google AI Pro for Education. Ưu đãi: hạn mức khuyến mãi cao hơn cho tính năng Gemini tạo nhiều slide; Gemini cũng có thể chỉnh sửa toàn bộ bản trình bày.",
+            "Điều kiện và cách nhận: tự áp dụng cho gói đủ điều kiện, không cần đăng ký; hiện chỉ hỗ trợ tiếng Anh, triển khai dần từ 29/10. Thời hạn: ít nhất đến 1/12/2026. Rủi ro: sau thời hạn hạn mức có thể trở về mức thường; triển khai dần nên chưa chắc tài khoản nào cũng thấy ngay."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Google Workspace Updates",
+              "url": "https://workspaceupdates.googleblog.com/2026/10/edit-entire-presentations-with-gemini-in-Google-Slides.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Phần mềm",
+      "title": "Xây dựng · Phần mềm",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Autodesk University 2026: Forma Bid beta, AI insights cho Forma Build và Daily Log Agent",
+          "meta": "fiscal.ai (thông cáo Autodesk) · 29/10",
+          "body": [
+            "Tại AU 2026, Autodesk công bố Forma Bid (beta) cho khâu đấu thầu, tính năng AI insights cho Project Home trong Forma Build và Daily Log Agent hỗ trợ nhật ký công trường. Autodesk cũng được IDC MarketScape xếp vào nhóm Leader về phần mềm quản lý xây dựng."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "fiscal.ai",
+              "url": "https://fiscal.ai/company/NASDAQ_ADSK/news/2026-10-29/autodesk-announces-new-construction-platform-capabilities-and-idc-marketscape-recognition/"
+            }
+          ]
+        },
+        {
+          "headline": "Nemetschek ra gói AI Archicad Max, Allplan Max 2027 và Bluebeam Max; Archicad Max có MCP server beta",
+          "meta": "Express Computer · 29/10",
+          "body": [
+            "Nemetschek Group ra mắt các gói thuê bao có AI: Archicad Max, Allplan Max 2027 và Bluebeam Max. Archicad Max kèm một MCP server công khai ở dạng beta để kết nối agent AI. Người dùng beta sớm của Allplan báo một số tác vụ nhanh hơn đến 36%. Chưa công bố giá."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Express Computer",
+              "url": "https://www.expresscomputer.in/news/nemetschek-group-launches-ai-subscriptions-for-architecture-engineering-and-construction/140703/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Thảo luận cộng đồng",
+      "title": "Xây dựng · Thảo luận cộng đồng",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "OSArch: cộng đồng chia sẻ bản dựng “Bonsai Viewer Plus” và node đồ thị IFC cho Bonsai",
+          "meta": "OSArch Community · 26–28/10",
+          "body": [
+            "Trên diễn đàn OSArch, thread “Bonsai Viewer Plus - Community Build” (28/10) giới thiệu một bản dựng cộng đồng mở rộng trình xem của Bonsai (add-on BIM/IFC mã nguồn mở cho Blender). Một thread khác (26/10) bàn về node đồ thị IFC trong Bonsai."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch",
+              "url": "https://community.osarch.org/discussion/3757/bonsai-viewer-plus-community-build"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Siêu phẩm phút bù của Aymeric Faurand-Tournaire giúp Hà Nội FC ngược dòng thắng Ninh Bình 2-1",
+          "meta": "VnExpress · vòng 6 V-League · 30/10",
+          "body": [
+            "Phút bù thứ hai trên sân Hàng Đẫy, tiền đạo vào sân thay người Aymeric Faurand-Tournaire đi bóng từ cánh phải vào trung lộ rồi sút chân trái từ khoảng 23 m vào góc cao, giúp Hà Nội FC thắng ngược Ninh Bình 2-1. Đây là trận thứ hai liên tiếp Ninh Bình thua ở phút bù.",
+            "Hà Nội trải qua mùa giải thất thường: thua hai vòng đầu, bị loại ở vòng một Cup Quốc gia, rồi thắng Công an Hà Nội, thua Đà Nẵng 0-1 trước khi hạ Ninh Bình."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/sieu-pham-cua-viet-kieu-giup-ha-noi-fc-thang-nguoc-ninh-binh-5138979.html"
+            }
+          ]
+        },
+        {
+          "headline": "HAGL thua Bắc Ninh 0-1 vì phạt đền phút bù; HLV Lê Quang Trãi: “Họ không công tâm”",
+          "meta": "VnExpress · 30/10",
+          "body": [
+            "Trên sân Việt Yên, Bắc Ninh được hưởng phạt đền ở phút bù cuối sau khi trọng tài Nguyễn Mạnh Hải xem lại VAR khoảng ba phút; Brenner thực hiện thành công. HAGL cho rằng bóng đã chạm tay cầu thủ Bắc Ninh trước đó.",
+            "HLV Lê Quang Trãi nói cả trọng tài trên sân và VAR đều mắc lỗi, đề xuất V-League bắt buộc trọng tài giải thích quyết định sau khi xem VAR. Trợ lý HLV Bắc Ninh Marcio Henrique cho rằng quả phạt đền là chính xác."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hlv-cua-hagl-trong-tai-khong-cong-tam-5138957.html"
+            }
+          ]
+        },
+        {
+          "headline": "Điều tra loạt cược khả nghi đoán đúng chính xác top 5 Quả bóng Vàng, thu gần 200.000 USD",
+          "meta": "The Guardian · 30/10",
+          "body": [
+            "Theo The Guardian, một loạt cược khả nghi đoán đúng chính xác thứ tự năm vị trí đầu Quả bóng Vàng năm nay và mang về gần 200.000 USD (khoảng 149.000 bảng) đang bị điều tra; các khoản cược liên quan tiền mã hóa."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/football/2026/oct/30/ballon-dor-betting-suspicious-cryptocurrency-investigation"
+            }
+          ]
+        },
+        {
+          "headline": "Cuối tuần Ngoại hạng Anh: Chelsea – Man Utd và Man City – Brighton tối nay; Liverpool – Arsenal ngày 1/11",
+          "meta": "The Guardian · lịch thi đấu",
+          "body": [
+            "Tối 31/10 (giờ VN) có Chelsea – Man Utd và Man City – Brighton ở Ngoại hạng Anh, derby Milan – Inter ở Serie A; Liverpool – Arsenal diễn ra ngày 1/11. The Guardian cho rằng Bruno Fernandes “nợ” Man Utd một màn trình diễn và Liverpool đang khá lên.",
+            "Ở V-League, SLNA – CAHN và Nam Định – Thể Công đá lúc 18:00 hôm nay."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/football/2026/oct/30/premier-league-10-things-to-look-out-for-this-weekend"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Iran nói 3 tàu chở dầu nổ, bốc cháy khi đi “tuyến cấm” ở Hormuz; Oman cứu 25 thuyền viên",
+          "meta": "AP · Al Jazeera · gCaptain · VnExpress · 30/10",
+          "body": [
+            "Vệ binh Cách mạng Iran (IRGC) tuyên bố ba tàu chở dầu phát nổ và bốc cháy ngày 30/10 khi “đi tuyến không được phép” qua eo Hormuz, trong đó một siêu tàu chở khoảng 2 triệu thùng dầu phải dừng lại sau vụ nổ. IRGC nói các tàu đã tắt hệ thống định vị và phớt lờ cảnh báo; Reuters chưa xác minh độc lập.",
+            "Oman cho biết hải quân đã sơ tán 25 thuyền viên tàu RITI treo cờ Panama bị tấn công, cháy ngoài khơi. gCaptain dẫn nguồn an ninh nói tàu Louise 1 trúng mìn từ tính (limpet mine), thủy thủ an toàn và tàu tiếp tục hành trình. Ông Trump nói “cuộc chiến sẽ sớm khép lại” và trước đó nói Mỹ sẽ không tấn công Iran trước bầu cử giữa kỳ 3/11."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/mideast-news-october-30-2026-7f7f34ceb62f294a450e48ace0bd56e0"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz"
+            },
+            {
+              "name": "gCaptain",
+              "url": "https://gcaptain.com/tanker-in-strait-of-hormuz-hit-by-limpet-mines-security-sources-say/"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/iran-noi-3-tau-cho-dau-boc-chay-o-eo-bien-hormuz-5138951.html"
+            }
+          ]
+        },
+        {
+          "headline": "Israel chốt kiểm phiếu: khối Netanyahu 53 ghế, chưa phe nào đủ 61; Tổng thống Herzog kêu gọi tránh bầu cử lại",
+          "meta": "Washington Post · Ynet · 30/10",
+          "body": [
+            "Kết quả kiểm phiếu cuối cùng xác nhận thế bế tắc: khối của Thủ tướng Netanyahu 53 ghế, khối Gadi Eisenkot 48 và các đảng Ả Rập 19. Ủy ban Bầu cử Trung ương dự kiến trình kết quả chính thức lên Tổng thống Isaac Herzog ngày 4/11, sau đó ông tham vấn các đảng để chọn người lập chính phủ.",
+            "Ynet đưa tin ông Herzog kêu gọi các đảng tránh một cuộc bầu cử mới; ủy ban cũng cho biết cuộc điều tra can thiệp nước ngoài không ảnh hưởng kết quả."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Washington Post",
+              "url": "https://www.washingtonpost.com/world/2026/10/30/final-vote-count-confirms-uncertainty-after-israeli-election/"
+            },
+            {
+              "name": "Ynet",
+              "url": "https://www.ynetnews.com/article/hygrg6jafe"
+            }
+          ]
+        },
+        {
+          "headline": "Nga và Ukraine cùng giám sát sơ tán dân khỏi Oleshky theo thỏa thuận ngừng bắn do bà Melania Trump làm trung gian",
+          "meta": "VnExpress · 30/10",
+          "body": [
+            "Quan chức hai nước ngày 30/10 có mặt tại Oleshky (tỉnh Kherson, do Nga kiểm soát) để giám sát chiến dịch cứu trợ và sơ tán. Phía Nga bố trí 25 xe buýt và 50 nhân viên y tế; người muốn về Ukraine sẽ đi qua Nga và Belarus để vào các tỉnh Kiev, Chernihiv."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nga-ukraine-phoi-hop-so-tan-dan-khoi-thanh-pho-oleshky-5138928.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ trưởng Xây dựng: đường sắt đô thị Hà Nội – Thái Nguyên do hai địa phương quyết đầu tư",
+          "meta": "VnExpress · Quốc hội · 30/10",
+          "body": [
+            "Trả lời kiến nghị của đại biểu Thái Nguyên tại phiên thảo luận kinh tế – xã hội, Bộ trưởng Trần Hồng Minh cho biết tuyến đường sắt đô thị Hà Nội – Thái Nguyên thuộc thẩm quyền của Hà Nội và Thái Nguyên. Các tuyến quốc gia Đông Anh – Quan Triều, Kép – Lưu Xá, Thái Nguyên – Tuyên Quang – Lào Cai đã có kế hoạch đầu tư, sửa chữa trước và sau 2030.",
+            "Phương án nghiên cứu từ tháng 8 có tuyến dài khoảng 50 km, bắt đầu từ ga Trung Giã, nối đường sắt đô thị số 1 của Hà Nội."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bo-truong-xay-dung-bo-khong-quyet-dau-tu-duong-sat-ha-noi-thai-nguyen-5138846.html"
+            }
+          ]
+        },
+        {
+          "headline": "Giáo hoàng Leo XIV bỏ phiếu qua thư cho bầu cử giữa kỳ Mỹ — giáo hoàng đầu tiên làm việc này",
+          "meta": "VnExpress · 30/10",
+          "body": [
+            "Tòa thánh Vatican thông báo Giáo hoàng Leo XIV đã bỏ phiếu qua thư cho cuộc bầu cử giữa kỳ ở Mỹ (ngày 3/11), trở thành giáo hoàng đầu tiên làm việc này."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/giao-hoang-bo-phieu-bau-cu-giua-ky-my-5138962.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Trưng bày khoảng 100 bản vẽ, ảnh tư liệu kỷ niệm 60 năm khánh thành Dinh Độc Lập (31/10/1966 – 31/10/2026)",
+          "meta": "VnExpress · TP HCM",
+          "body": [
+            "Khoảng 100 bản vẽ thiết kế và hình ảnh về hơn bốn năm thiết kế, xây dựng Dinh Độc Lập được trưng bày nhân dịp 60 năm khánh thành công trình. Tiền thân là Dinh Norodom do chính quyền Pháp hoàn thành năm 1871; sau vụ ném bom ngày 27/2/1962, dinh được san bằng và xây mới theo đồ án của kiến trúc sư Ngô Viết Thụ."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bon-nam-xay-dung-dinh-doc-lap-qua-anh-tu-lieu-5138776.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Thời tiết 31/10: TP HCM mưa rào, dông rải rác, có nơi mưa to; Bắc Bộ ngày nắng",
+          "meta": "HTV (theo Trung tâm KTTV quốc gia) · Vietnammoi",
+          "body": [
+            "Theo Trung tâm Dự báo KTTV quốc gia, TP HCM hôm nay có mây, mưa rào và dông rải rác, cục bộ có nơi mưa to, gió đông bắc cấp 2–3; trong dông có thể có lốc, sét, mưa đá và gió giật mạnh. Hà Nội, TP HCM và Đà Nẵng được dự báo nắng gián đoạn, có mưa."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "HTV",
+              "url": "https://htv.vn/du-bao-thoi-tiet-ngay-31-10-2026-tp-ho-chi-minh-co-may-co-mua-rao-va-dong-rai-rac-cuc-bo-co-noi-mua-to-2222610301616131.htm"
+            },
+            {
+              "name": "Vietnammoi",
+              "url": "https://vietnammoi.vn/du-bao-thoi-tiet-ngay-mai-3110-ha-noi-tp-hcm-va-da-nang-nang-gian-doan-co-mua-20261029233039301.htm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 31/10/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu. Mục Khuyến mãi đặc biệt chỉ đăng ưu đãi mới còn hiệu lực có link chính thức."
+}
