@@ -204,6 +204,28 @@
       "id": "oxford-street-cho-nguoi-di-bo",
       "published_at": "2026-10-28",
       "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=oxford-street-cho-nguoi-di-bo"
+    },
+    {
+      "source_id": "aeon",
+      "url": "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age",
+      "title": "Why the dilettante is the anti-hero of our over-optimised age",
+      "author": "Jay Miller",
+      "source": "Aeon",
+      "lang": "en",
+      "topics_guess": [
+        "Con người",
+        "Sự nghiệp",
+        "Tư duy & khoa học"
+      ],
+      "est_words": 0,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-10-30",
+      "id": "ngoi-khen-ke-tay-mo",
+      "published_at": "2026-10-30",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=ngoi-khen-ke-tay-mo",
+      "note": "Published as an 878-word summary (coverage: summary), not a translation."
     }
   ]
 }

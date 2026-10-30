@@ -32,6 +32,24 @@
       "coverage": "full"
     },
     {
+      "id": "ngoi-khen-ke-tay-mo",
+      "title": "Ngợi khen kẻ tay mơ",
+      "title_original": "Why the dilettante is the anti-hero of our over-optimised age",
+      "author": "Jay Miller",
+      "source": "Aeon",
+      "source_url": "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age",
+      "lang": "en",
+      "topics": [
+        "Con người",
+        "Sự nghiệp",
+        "Tư duy & khoa học"
+      ],
+      "summary": "Tự điển gọi kẻ tay mơ là người hiểu biết nông cạn, thiếu cam kết. Jay Miller lật lại bản án đó: sự di chuyển liên tục giữa các mối quan tâm không phải thiếu bản lĩnh mà là một cách sống có lý lẽ riêng.",
+      "added": "2026-10-30",
+      "reading_minutes": 5,
+      "coverage": "summary"
+    },
+    {
       "id": "la-rochefoucauld-ngon-ngu",
       "title": "Châm ngôn và những suy ngẫm",
       "title_original": "Reflections; or Sentences and Moral Maxims",
