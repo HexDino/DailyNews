@@ -1,6 +1,6 @@
 {
   "masthead": "Daily News",
-  "latest": "2026-10-30",
+  "latest": "2026-10-30-chieu",
   "issues": [
     {
       "date": "2026-10-01",
@@ -329,6 +329,13 @@
       "path": "2026-10-30/content.json",
       "article_count": 22,
       "edition": "sang"
+    },
+    {
+      "date": "2026-10-30-chieu",
+      "path": "2026-10-30-chieu/content.json",
+      "article_count": 36,
+      "edition": "chieu",
+      "edition_label": "Số buổi chiều"
     }
   ]
 }
