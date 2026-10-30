@@ -1,0 +1,862 @@
+{
+  "date": "2026-10-30",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 30/10/2026 · Thứ Sáu · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Israel: kiểm ~97% phiếu, Netanyahu 53 – đối lập 67, chưa đủ đa số",
+    "OpenAI cập nhật Model Spec quanh năm giá trị cốt lõi",
+    "Everton 3-1 Newcastle vào tứ kết Carabao Cup; Grealish bị loại vì kỷ luật",
+    "Hà Nội rào chắn đường Cổ Linh từ hôm nay để làm đường trên cao"
+  ],
+  "followups": [
+    {
+      "title": "Bầu cử Quốc hội Israel",
+      "update": "Kiểm khoảng 97% phiếu (Xinhua): khối Netanyahu 53 ghế, Eisenkot 48, đảng Ả Rập 19; đối lập tổng 67 nhưng chưa phe nào đủ 61. Hạn công bố kết quả chính thức khoảng đến 4/11.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-26-chieu",
+      "sources": [
+        {
+          "name": "Xinhua",
+          "url": "https://english.news.cn/20261030/bd02eb8e2c3b4fe4befabc67ab0cdb0b/c.html"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Iran đã nhận thư Phó tổng thống Vance nhưng chưa trả lời; Tehran nhấn mạnh bảy điều kiện. Trước đó Iran thảo luận kế hoạch 7 ngày chấm dứt chiến sự và mở lại Hormuz.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "Xinhua",
+          "url": "https://english.news.cn/20261030/bd02eb8e2c3b4fe4befabc67ab0cdb0b/c.html"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/iran-thuc-day-ke-hoach-7-ngay-cham-dut-chien-su-5138101.html"
+        }
+      ]
+    },
+    {
+      "title": "Tai nạn hai tàu cao tốc ở Tây Ban Nha",
+      "update": "Ít nhất 68 người chết; Bộ trưởng Giao thông nói trung tâm điều khiển ra quyết định “không thể giải thích”. Thủ tướng Sánchez cam kết điều tra và siết an toàn đường sắt.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-29",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo"
+        }
+      ]
+    },
+    {
+      "title": "Kỳ họp thứ hai Quốc hội khóa XVI",
+      "update": "Ngày 29/10 thảo luận Luật Đất đai sửa đổi (công chứng, hệ số K, thu hồi đất). Ngày 31/10: thảo luận kinh tế – xã hội, ngân sách và đầu tư công 2026–2027.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/bo-truong-trinh-viet-hung-khong-lam-dung-thu-hoi-dat-5138298.html"
+        }
+      ]
+    },
+    {
+      "title": "Phiên xử đường dây lừa đảo Mr Pips",
+      "update": "Phó Đức Nam (Mr Pips) đề nghị tòa làm rõ để bộ phận chăm sóc khách hàng “cùng chịu tội” và cùng khắc phục hậu quả.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-28-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/mr-pips-de-nghi-them-nhom-nhan-vien-cham-soc-khach-hang-phai-cung-chiu-toi-5138406.html"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử tổng thống Brazil vòng hai: Lula – Flávio Bolsonaro",
+      "update": "Flávio Bolsonaro tới Miami, phủ nhận bỏ trốn; kết quả bầu cử đã kết thúc.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-25-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-30",
+      "title": "Hà Nội bắt đầu rào chắn đường Cổ Linh thi công đường trên cao (đến 30/1/2027)",
+      "topic": "Đời sống",
+      "note": "Dự án 1,72 km, vốn hơn 2.200 tỷ đồng.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/rao-chan-duong-co-linh-de-thi-cong-duong-tren-cao-5138533.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Mở đặt trước MacBook Pro màn hình cảm ứng; bán từ 6/11",
+      "topic": "Công nghệ",
+      "note": "Giá từ 2.899 USD.",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Mỹ bắt đầu nới một phần thuế 50% với hàng Canada",
+      "topic": "Chính trị",
+      "note": "Ván ép, giấy, máy móc, thiết bị làm lạnh được nới; thảm bị áp thuế.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "title": "TP HCM điều chỉnh giao thông loạt đường quanh Tân Sơn Nhất",
+      "topic": "Đời sống",
+      "note": "Cấm ôtô một chiều đoạn Lê Văn Sỹ, cho rẽ trái từ Cộng Hòa vào C12.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/dieu-chinh-giao-thong-loat-duong-quanh-tan-son-nhat-tu-30-10-5137968.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "time": "19:15",
+      "timezone": "giờ VN",
+      "title": "V-League vòng 6: Hà Nội FC – Ninh Bình (Hàng Đẫy)",
+      "topic": "Bóng đá",
+      "note": "Vòng 6 diễn ra 30/10–1/11. Ngày 31/10 lúc 18:00 có SLNA – CAHN và Nam Định – Thể Công Viettel.",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "https://vov.vn/the-thao/lich-thi-dau-vong-6-v-league-20262027-kich-hay-o-phia-truoc-post1344605.vov"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Serie A: derby Milan, Milan – Inter",
+      "topic": "Bóng đá",
+      "note": "Inter và Lazio cùng 25 điểm đầu bảng; giờ đá chưa kiểm tra.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/28/european-football-two-late-own-goals-return-inter-top-serie-a-venezia"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "19:30",
+      "timezone": "giờ VN",
+      "title": "Chelsea – Man Utd; Man City – Brighton (22:00), Ngoại hạng Anh vòng 10",
+      "topic": "Bóng đá",
+      "note": "12:30 và 15:00 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "time": "trong ngày",
+      "timezone": "giờ VN",
+      "title": "Quốc hội thảo luận ở hội trường về kinh tế – xã hội, ngân sách và đầu tư công 2026–2027",
+      "topic": "Chính trị",
+      "note": "Gồm cả quyết toán ngân sách 2025 và tổng kết dự án Đường Hồ Chí Minh quy mô hai làn xe.",
+      "sources": [
+        {
+          "name": "Báo Quân đội Nhân dân (qua Báo Mới)",
+          "url": "https://baomoi.com/tuan-lam-viec-thu-ba-cua-ky-hop-thu-hai-quoc-hoi-khoa-xvi-c56350765.epi"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Chung kết Đường lên đỉnh Olympia 2026 (sáng 1/11)",
+      "topic": "Đời sống",
+      "note": "Bốn nam sinh trường chuyên tranh ngôi vô địch.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/4-nam-sinh-truong-chuyen-tranh-tai-chung-ket-duong-len-dinh-olympia-2026-co-gi-dac-biet-5137089.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Iran bắt đầu “xử lý pháp lý” mọi tàu của hãng Sinokor (Hàn Quốc) qua eo Hormuz",
+      "topic": "Chính trị",
+      "note": "Theo Cơ quan quản lý eo biển vịnh Ba Tư của Iran.",
+      "sources": [
+        {
+          "name": "Reuters (Devdiscourse)",
+          "url": "https://www.devdiscourse.com/article/international/3998083-reuters-world-news-summary"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Tàu NA2 Vinh – Hà Nội bắt đầu dừng ga Phủ Lý cho người đi khám bệnh",
+      "topic": "Đời sống",
+      "note": "Phục vụ người bệnh tới Bạch Mai, Việt Đức cơ sở 2.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tau-khach-se-dung-o-ga-phu-ly-de-benh-nhan-den-benh-vien-bach-mai-5138315.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "23:30",
+      "timezone": "giờ VN",
+      "title": "Đại chiến Liverpool – Arsenal tại Anfield, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "16:30 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "nửa đầu tháng 11 (chưa chốt ngày)",
+      "timezone": "giờ Abu Dhabi",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi",
+      "topic": "Chính trị",
+      "note": "Điện Kremlin và ông Zelensky ngày 23/10 cùng xác nhận vòng đàm phán cấp đoàn đàm phán diễn ra trong nửa đầu tháng 11.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
+        },
+        {
+          "name": "TASS",
+          "url": "https://tass.com/politics/2206847"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "time": "03:59",
+      "timezone": "UTC+7",
+      "title": "Hết hạn ngừng bắn ở Oleshky và vùng Kherson (22:59 giờ Kyiv ngày 1/11)",
+      "topic": "Chính trị",
+      "note": "Theo ông David Arakhamia; có thể được gia hạn.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6lye1w9p2l8o"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Bầu cử giữa kỳ Mỹ",
+      "topic": "Chính trị",
+      "note": "Quyết định quyền kiểm soát Quốc hội trong hai năm cuối nhiệm kỳ ông Trump.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bau-cu-giua-ky-co-y-nghia-gi-doi-voi-ong-trump-va-quoc-hoi-my-100261022155231309.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Hà Nội bắt đầu chi trả lương hưu tháng 11 qua tài khoản",
+      "topic": "Đời sống",
+      "note": "Lùi một ngày so với thông lệ mùng 2.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thay-doi-lich-chi-tra-luong-huu-thang-11-2026-100261023103231668.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Hạn công bố kết quả chính thức bầu cử Quốc hội Israel (trong vòng 8 ngày sau bầu cử)",
+      "topic": "Chính trị",
+      "note": "Kết quả sơ bộ dự kiến có trong ngày 28/10; sau đó Tổng thống tham vấn các đảng để giao quyền lập chính phủ.",
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/israel-election-netanyahu-eisenkot-3b5a0fd078208155337ee9a0b9fbfde2"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Atlético – Bayern, Barcelona – Aston Villa, Man Utd – Roma, Villarreal – PSG",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 3/11.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Leipzig – Man City, Dortmund – Betis, Slavia Praha – Arsenal (Fenerbahçe – Liverpool, AEK – Real Madrid lúc 0:45)",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 4/11; hai trận sớm 18:45 CET.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại UAE (6–10/11)",
+      "topic": "Chính trị",
+      "note": "Theo ông Zelensky; Điện Kremlin nói châu Âu không tham gia.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "time": "trong ngày",
+      "timezone": "giờ Kenya",
+      "title": "Tuyên án mục sư Paul Mackenzie và 28 bị cáo vụ Shakahola",
+      "topic": "Chính trị",
+      "note": "Đã bị kết tội giết 191 người; báo cáo quản chế nộp tòa ngày 30/10.",
+      "sources": [
+        {
+          "name": "Capital FM",
+          "url": "https://capitalfm.africa/court-convicts-all-29-shakahola-accused-of-murder-sets-sentencing-for-november-6/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "9–20/11",
+      "timezone": "giờ Thổ Nhĩ Kỳ",
+      "title": "Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Chính trị",
+      "note": "Hội nghị thượng đỉnh khí hậu thường niên của Liên Hợp Quốc.",
+      "sources": [
+        {
+          "name": "UNFCCC",
+          "url": "https://unfccc.int/cop31/the-road-to-antalya"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "OpenAI cập nhật Model Spec: tổ chức quanh năm giá trị cốt lõi — trung thành với ý định con người, giảm hại, trung thực, quyền chủ động của người dùng, và quan tâm",
+          "meta": "OpenAI · 29/10",
+          "body": [
+            "OpenAI công bố bản cập nhật Model Spec — mô tả công khai cách hãng muốn các mô hình hành xử. Spec được sắp xếp lại quanh năm giá trị: trung thành với ý định con người (faithfulness to human intent), giảm thiểu hại, trung thực và minh bạch, tạo điều kiện cho quyền chủ động của con người (human agency), và care (quan tâm đến hoàn cảnh người bị ảnh hưởng).",
+            "Bản mới bổ sung hướng dẫn về ngữ cảnh, giám sát và quyền chủ động; điều chỉnh một số mặc định hành vi; và loại bỏ phần lớn hướng dẫn phong cách chi tiết. OpenAI nói Spec mô tả hành vi đang hướng tới, các mô hình hiện chưa phản ánh đầy đủ."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "url": "https://openai.com/index/updated-model-spec/"
+            }
+          ]
+        },
+        {
+          "headline": "Anthropic mở rộng thỏa thuận OneGov với GSA: giảm 40% mọi bề mặt Claude cho chính quyền Mỹ; ước tiết kiệm khoảng 1 tỷ USD",
+          "meta": "Anthropic · GSA · 27/10",
+          "body": [
+            "Anthropic và Cơ quan Quản lý Dịch vụ Tổng hợp Mỹ (GSA) mở rộng thỏa thuận OneGov: đối tác chính phủ được giảm 40% trên Claude Enterprise, Claude for Government và Claude API — lần đầu áp dụng trên mọi bề mặt sản phẩm, gồm mua trực tiếp và qua nhà cung cấp đám mây trong các tháng tới. Ưu đãi cũng mở cho chính quyền bang, địa phương, bộ lạc và lãnh thổ.",
+            "Khoảng 500 tổ chức chính phủ Mỹ đang dùng Claude. Anthropic ước thỏa thuận tiết kiệm khoảng 1 tỷ USD cho chính phủ; cơ quan không bị ràng buộc mức chi tối thiểu, chỉ trả theo mức dùng."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
+            },
+            {
+              "name": "GSA",
+              "url": "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-anthropic-reach-onegov-agreement-on-discounted-consumptionbased-pricing-10272026"
+            }
+          ]
+        },
+        {
+          "headline": "Apple Creator Studio thêm trợ lý AI và hỗ trợ MCP cho Keynote, Pages, Numbers; cập nhật miễn phí cho thuê bao hiện có vào tháng 11",
+          "meta": "Apple Newsroom · 27/10",
+          "body": [
+            "Apple công bố cập nhật lớn cho Creator Studio: Keynote, Pages và Numbers nhận trợ lý AI (beta) hiểu ngữ cảnh tài liệu — soạn/chỉnh sửa, thiết kế slide, tính toán và gợi ý biểu đồ — dựng trên mô hình Apple và OpenAI. Ứng dụng cũng hỗ trợ Model Context Protocol (MCP) để agent AI bên ngoài đọc nội dung, sửa và tự động hóa thao tác trên macOS 27 trở lên.",
+            "Final Cut Pro tích hợp MotionVFX; Logic Pro thêm trợ lý thông minh và Stem Splitter tách trống; Pixelmator Pro có Generate Fill. Bản cập nhật lên App Store tháng 11, miễn phí cho thuê bao hiện có (mới: 12,99 USD/tháng hoặc 129 USD/năm)."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Apple",
+              "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "rddmwmddr/android-ad-cleaner: tắt quảng cáo, hot search và đề xuất tin trên Android Trung Quốc — không cần root, có thể hoàn nguyên; hỗ trợ agent AI",
+          "meta": "GitHub · tạo 24/10 · khoảng 4.734 sao",
+          "body": [
+            "Repo mô tả công cụ tắt quảng cáo hệ thống, hot search, đề xuất tin và push marketing trên điện thoại Android nội địa Trung Quốc, không root và có thể khôi phục. Hỗ trợ agent AI thực thi một lần. Tạo 24/10, khoảng 4.734 sao theo GitHub API lúc tra cứu sáng 30/10."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/rddmwmddr/android-ad-cleaner"
+            }
+          ]
+        },
+        {
+          "headline": "interplains/Zero-Breach-Toolkit: kiểm tra ngoại tuyến dấu vết phần mềm gián điệp thuê (mercenary spyware) trên Windows, macOS, Linux và Android",
+          "meta": "GitHub · tạo 25/10 · khoảng 3.613 sao",
+          "body": [
+            "Bộ công cụ mã nguồn mở miễn phí chạy ngoại tuyến, tìm dấu vết các loại spyware thuê đã biết trên Windows, macOS, Linux và Android. Repo tạo 25/10, khoảng 3.613 sao theo GitHub API sáng 30/10."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/interplains/Zero-Breach-Toolkit"
+            }
+          ]
+        },
+        {
+          "headline": "t3dotgg/tstack: bộ agent skill hàng ngày của Theo (t3.gg), chạy với Claude Code và Codex",
+          "meta": "GitHub · tạo 24/10 · khoảng 2.395 sao",
+          "body": [
+            "Repo tập hợp các skill agent mà tác giả dùng hằng ngày, tương thích Claude Code và Codex — tiếp tục xu hướng đóng gói quy trình làm việc thành skill tái sử dụng cho agent lập trình. Tạo 24/10, khoảng 2.395 sao theo GitHub API sáng 30/10."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/t3dotgg/tstack"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Hôm nay mở đặt trước MacBook Pro màn hình cảm ứng OLED; bán từ 6/11, giá từ 2.899 USD",
+          "meta": "TechCrunch · Apple · 28/10",
+          "body": [
+            "Theo lịch Apple/TechCrunch, đặt trước MacBook Pro màn hình cảm ứng (PROLED XDR) bắt đầu hôm nay 30/10, giao hàng từ 6/11. Giá khởi điểm 2.899 USD; bản cấu hình tối đa 14 inch khoảng 14.249 USD và 16 inch khoảng 14.549 USD (chip M5 Max)."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "BIM & openBIM",
+      "title": "Xây dựng · BIM & openBIM",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Open Planner Studio: phần mềm lập kế hoạch thi công openBIM trên trình duyệt và desktop, lưu trực tiếp IFC 4.3, CPM và 4D",
+          "meta": "OSArch · 25/10",
+          "body": [
+            "Open Planner Studio là ứng dụng mã nguồn mở lập kế hoạch xây dựng quanh Gantt, WBS và Critical Path Method (kèm phân tích float). Nhiệm vụ sửa trên bảng phân cấp hoặc timeline tương tác; hỗ trợ lao động, thiết bị, thầu phụ, ngày nghỉ, điểm kiểm tra và giai đoạn thi công.",
+            "File kế hoạch lưu trực tiếp dạng IFC 4.3; nhiệm vụ có thể gắn với phần tử mô hình IFC để lập trình trình tự 4D. Ứng dụng dựng bằng Tauri, Rust, React và TypeScript; có bản Windows, macOS, Linux và dùng thử trên trình duyệt."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch",
+              "url": "https://osarch.org/2026/10/25/open-planner-studio/"
+            }
+          ]
+        },
+        {
+          "headline": "Qonic tiến gần BIM authoring trên trình duyệt: thêm components (cửa, cửa sổ, nội thất, MEP), ngữ cảnh địa lý 3D Tiles và Issues cấp dự án",
+          "meta": "AEC Magazine · 22/10",
+          "body": [
+            "Bản cập nhật Qonic đưa nền tảng BIM trình duyệt sâu hơn vào authoring: thư viện components (cửa, cửa sổ, nội thất, đầu cuối MEP) với quan hệ ngữ cảnh khi di chuyển/đổi kích thước; stream 3D Tiles đặt dự án đúng tọa độ địa lý; công cụ đo thống nhất; và Issues mở rộng từ cấp mô hình lên cấp dự án.",
+            "Phasing xuất thành tham số chuỗi để mở đường ghi ngược về Revit. AEC Magazine nhận xét Qonic vẫn là nền tảng “construction-facing” nhất trong nhóm Snaptrude/Arcol/Forma."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "AEC Magazine",
+              "url": "https://aecmag.com/bim/qonic-edges-towards-bim-authoring/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Carabao Cup: Everton thắng Newcastle 3-1, vào tứ kết gặp Fleetwood; Grealish bị loại vì kỷ luật",
+          "meta": "The Guardian · Everton FC · 29/10",
+          "body": [
+            "Tại Hill Dickinson Stadium, James Garner (phút 34), Hayden Hackney (45) và Thierno Barry (69) ghi bàn; Dan Burn gỡ 1–3 phút 88. Everton vào tứ kết gặp Fleetwood Town (tuần bắt đầu 14/12).",
+            "Jack Grealish bị loại khỏi đội hình vì lý do kỷ luật (theo The Guardian: bỏ buổi tập thứ Hai không phép). HLV David Moyes và CEO Angus Kinnear quyết định; Moyes nói đây là “quyết định của câu lạc bộ”. Newcastle kiểm soát nhiều pha bóng (28 cú dứt điểm so với 11) nhưng mắc lỗi cá nhân."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/football/2026/oct/29/everton-newcastle-carabao-cup-fourth-round-match-report"
+            },
+            {
+              "name": "Everton FC",
+              "url": "https://www.evertonfc.com/news/2026/october/29/Everton-Beat-Newcastle-To-Secure-Cup-Quarter-Final/"
+            }
+          ]
+        },
+        {
+          "headline": "V-League vòng 6 tối nay: Hà Nội FC – Ninh Bình trên sân Hàng Đẫy (19:15)",
+          "meta": "VOV · lịch thi đấu",
+          "body": [
+            "Vòng 6 diễn ra 30/10–1/11. Tối nay 19:15 giờ VN, Hà Nội FC tiếp Ninh Bình tại Hàng Đẫy. Ngày 31/10 lúc 18:00 có SLNA – CAHN và Nam Định – Thể Công Viettel."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VOV",
+              "url": "https://vov.vn/"
+            }
+          ]
+        },
+        {
+          "headline": "Ngày mai: derby Milan (Serie A) và Chelsea – Man Utd, Man City – Brighton (Ngoại hạng Anh vòng 10)",
+          "meta": "The Guardian · Premier League",
+          "body": [
+            "Serie A: Milan – Inter tại San Siro ngày 31/10; Inter và Lazio cùng 25 điểm đầu bảng trước vòng này. Ngoại hạng Anh: Chelsea – Man Utd lúc 19:30 giờ VN; Man City – Brighton lúc 22:00."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/football/2026/oct/28/european-football-two-late-own-goals-return-inter-top-serie-a-venezia"
+            },
+            {
+              "name": "Premier League",
+              "url": "https://www.premierleague.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Israel: kiểm khoảng 97% phiếu, khối ông Netanyahu 53 ghế — đối lập 67 (Eisenkot 48, đảng Ả Rập 19); chưa phe nào đủ 61 để lập chính phủ",
+          "meta": "Xinhua · 30/10",
+          "body": [
+            "Ủy ban bầu cử trung ương Israel công bố kiểm khoảng 97% phiếu: khối cánh hữu của Thủ tướng Benjamin Netanyahu được 53/120 ghế; các đảng đối lập tổng 67 ghế, gồm 48 ghế của các đảng liên kết cựu tổng tham mưu trưởng Gadi Eisenkot và 19 ghế của các đảng Ả Rập. Không khối nào đạt đa số tuyệt đối 61 ghế.",
+            "Sau kết quả chính thức, Tổng thống Herzog sẽ tham vấn các đảng để giao quyền lập chính phủ; hạn công bố kết quả chính thức trong vòng 8 ngày sau bầu cử (đến khoảng 4/11)."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Xinhua",
+              "url": "https://english.news.cn/20261030/bd02eb8e2c3b4fe4befabc67ab0cdb0b/c.html"
+            }
+          ]
+        },
+        {
+          "headline": "Iran nhận thư Phó tổng thống Mỹ Vance gửi quan chức an ninh cao cấp nhưng chưa trả lời; Tehran nhấn mạnh Mỹ phải đáp ứng bảy điều kiện",
+          "meta": "Xinhua / Tasnim · 30/10",
+          "body": [
+            "Hãng bán chính thức Tasnim đưa tin Tehran đã nhận thư của Phó tổng thống Mỹ JD Vance gửi quan chức an ninh hàng đầu Iran nhưng chưa phản hồi. Iran khẳng định Mỹ phải thực hiện bảy điều kiện của mình; “mọi lập trường phá vỡ khuôn khổ xác định này đều không thể chấp nhận”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Xinhua",
+              "url": "https://english.news.cn/20261030/bd02eb8e2c3b4fe4befabc67ab0cdb0b/c.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tây Ban Nha: thảm họa tàu cao tốc gần Toledo — ít nhất 68 người chết; Bộ trưởng Giao thông gọi quyết định trung tâm điều khiển là “không thể giải thích”",
+          "meta": "BBC · cập nhật",
+          "body": [
+            "Hai tàu cao tốc đâm nhau gần Toledo hôm 28/10, ít nhất 68 người chết — thảm họa đường sắt tồi tệ nhất Tây Ban Nha trong 13 năm. Bộ trưởng Óscar Puente cho biết tàu Iryo dừng vì lỗi hệ thống; trung tâm điều khiển Madrid đã ra quyết định “không thể giải thích” cho phép các tàu chạy tiếp mà không giới hạn tốc độ.",
+            "Thủ tướng Pedro Sánchez cam kết điều tra tới cùng và siết an toàn đường sắt. Liên đoàn bóng đá Tây Ban Nha đã hoãn toàn bộ 24 trận vòng một Copa del Rey."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo"
+            }
+          ]
+        },
+        {
+          "headline": "Quốc hội tiếp tục kỳ họp: ngày 29/10 thảo luận Luật Đất đai sửa đổi — đề xuất công chứng bắt buộc, hệ số K hàng năm; Bộ trưởng Trịnh Việt Hùng: không lạm dụng thu hồi đất",
+          "meta": "VnExpress · 29/10",
+          "body": [
+            "Tại kỳ họp thứ hai Quốc hội khóa XVI, đại biểu thảo luận dự án Luật Đất đai sửa đổi. Các ý kiến đề xuất công chứng bắt buộc với một số giao dịch đất đai và rà soát hệ số điều chỉnh giá đất (hệ số K) hàng năm; Bộ trưởng TN&MT Trịnh Việt Hùng khẳng định không lạm dụng thu hồi đất. Dự kiến biểu quyết khoảng 21/11.",
+            "Hôm nay 31/10 Quốc hội thảo luận ở hội trường về kinh tế – xã hội, ngân sách và đầu tư công 2026–2027."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bo-truong-trinh-viet-hung-khong-lam-dung-thu-hoi-dat-5138298.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hôm nay Mỹ bắt đầu nới một phần thuế 50% với hàng Canada (ván ép, giấy, máy móc, thiết bị làm lạnh); thảm vẫn bị áp thuế",
+          "meta": "BBC · lịch 30/10",
+          "body": [
+            "Theo lộ trình đã công bố, từ 30/10 Mỹ nới một phần mức thuế 50% áp lên một số mặt hàng Canada. Ván ép, giấy, máy móc và thiết bị làm lạnh được nới; thảm vẫn chịu thuế."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Ảnh AI “ngắm pháo Triều Tiên từ quán Starbucks” lan truyền ở Hàn Quốc; kiểm chứng: khoảng cách thực tế khoảng 1,4–1,5 km, không thể nhìn rõ bằng mắt thường",
+          "meta": "VnExpress · OhmyNews · 28–29/10",
+          "body": [
+            "Bức ảnh được cho là chụp từ quán Starbucks Gimpo Aegibong nhìn ra pháo tự hành Triều Tiên qua cửa kính lan truyền mạnh trên mạng Hàn Quốc. Các kiểm chứng (OhmyNews và báo khác) kết luận đây là ảnh do AI tạo: khoảng cách từ quán đến khu vực pháo ở Gaepung khoảng 1,4–1,5 km, không thể thấy pháo và binh sĩ rõ như vậy bằng mắt thường."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/anh-ai-ngam-phao-trieu-tien-tu-quan-starbucks-lan-truyen-o-han-quoc-5138160.html"
+            }
+          ]
+        },
+        {
+          "headline": "Chung kết Đường lên đỉnh Olympia 2026 diễn ra sáng mai 1/11; bốn nam sinh trường chuyên tranh ngôi vô địch",
+          "meta": "VnExpress",
+          "body": [
+            "Bốn thí sinh đến từ các trường chuyên sẽ tranh tài ở chung kết năm Đường lên đỉnh Olympia 2026 vào sáng 1/11. Đây là sự kiện giáo dục – giải trí lớn thường niên của VTV."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/4-nam-sinh-truong-chuyen-tranh-tai-chung-ket-duong-len-dinh-olympia-2026-co-gi-dac-biet-5137089.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Thời tiết 30/10: Bắc Bộ chuyển mưa, Hà Nội mưa rào 21–29°C; Nam Bộ ngày nắng, chiều tối mưa dông, TP.HCM 25–34°C",
+          "meta": "Tuổi Trẻ / NCHMF · 30/10",
+          "body": [
+            "Đồng bằng và ven biển Bắc Bộ mưa rào và dông, có nơi mưa to; Hà Nội nhiều mây, mưa rào, thấp nhất 21–23°C, cao nhất 27–29°C. Thanh Hóa đến Đà Nẵng mưa rào và dông rải rác.",
+            "Nam Bộ ngày nắng, chiều tối có nơi mưa to; TP.HCM 25–27°C đến 32–34°C."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thoi-tiet-hom-nay-30-10-bac-bo-chuyen-mua-nam-bo-ngay-nang-chieu-mua-dong-100261029163731551.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Từ hôm nay Hà Nội rào chắn một phần đường Cổ Linh (Long Biên) đến 30/1/2027 để thi công đường trên cao 1,72 km, vốn hơn 2.200 tỷ đồng",
+          "meta": "VnExpress · 29/10",
+          "body": [
+            "Sở Xây dựng Hà Nội chấp thuận phương án: rào chắn di động chiếm khoảng 1 m mặt đường mỗi bên sát vỉa hè; vỉa hè còn trung bình 1,5 m. Thi công cuốn chiếu đoạn 20–30 m; xe công trường chỉ ra ngoài rào từ 22h đến trước 5h.",
+            "Dự án đường trên cao Cổ Linh dài 1,72 km, tổng mức đầu tư hơn 2.200 tỷ đồng, kết nối nút giao vành đai 3 – cao tốc Hà Nội – Hải Phòng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/rao-chan-duong-co-linh-de-thi-cong-duong-tren-cao-5138533.html"
+            }
+          ]
+        },
+        {
+          "headline": "TP HCM điều chỉnh giao thông loạt đường quanh Tân Sơn Nhất từ hôm nay",
+          "meta": "VnExpress · lịch 30/10",
+          "body": [
+            "Theo phương án đã công bố, từ 30/10 TP HCM điều chỉnh giao thông nhiều đoạn quanh sân bay Tân Sơn Nhất — gồm cấm ôtô một chiều đoạn Lê Văn Sỹ và cho rẽ trái từ Cộng Hòa vào C12 — nhằm giảm ùn tắc khu vực cửa ngõ sân bay."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dieu-chinh-giao-thong-loat-duong-quanh-tan-son-nhat-tu-30-10-5137968.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 30/10/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu. Mục Khuyến mãi đặc biệt chỉ đăng ưu đãi mới còn hiệu lực có link chính thức."
+}
