@@ -14,6 +14,24 @@
   ],
   "articles": [
     {
+      "id": "ovid-thuoc-chua-tinh-yeu",
+      "title": "Thuốc chữa tình yêu",
+      "title_original": "Remedia Amoris; or, The Remedy of Love",
+      "author": "Ovid",
+      "source": "Project Gutenberg",
+      "source_url": "https://www.gutenberg.org/cache/epub/47678/pg47678-images.html",
+      "lang": "en",
+      "topics": [
+        "Tình yêu",
+        "Tâm lý",
+        "Con người"
+      ],
+      "summary": "Hai ngàn năm trước, Ovid viết cuốn sách hướng dẫn cách thoát khỏi một mối tình — không bằng bùa chú, mà bằng công việc, đi xa, nhìn cho rõ, và tập nhìn thấy người mình yêu đúng như nàng vốn là. Một bài thơ dạy nghề của một người đã yêu suốt đời.",
+      "added": "2026-10-30",
+      "reading_minutes": 64,
+      "coverage": "full"
+    },
+    {
       "id": "la-rochefoucauld-ngon-ngu",
       "title": "Châm ngôn và những suy ngẫm",
       "title_original": "Reflections; or Sentences and Moral Maxims",
