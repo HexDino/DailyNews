@@ -56,6 +56,12 @@ ALLOWLIST_PATH = ROOT / "slow-reads" / "rights_allowlist.json"
 DERIVATIVE_MODES = ("full", "condensed")
 
 # Mirrors validate_slow_read.py: a summary must stay a summary.
+# Nothing published before this year is eligible. Enforced from ENFORCED_FROM
+# onward so the older library keeps validating; every new article must carry
+# source_published and it must clear the floor.
+MIN_SOURCE_YEAR = 2000
+ENFORCED_FROM = "2026-11-01"
+
 SUMMARY_MIN_WORDS = 250
 SUMMARY_MAX_WORDS = 900
 SUMMARY_MAX_RATIO = 0.30
@@ -233,6 +239,20 @@ def check_article(path: Path, allowlist: dict) -> tuple[list[str], list[str]]:
                 )
     else:
         errors.append(f"unknown coverage {coverage!r}")
+
+    # Publication-date floor, applied to everything published from ENFORCED_FROM.
+    added = str(data.get("added") or "")
+    published = data.get("source_published")
+    if added >= ENFORCED_FROM:
+        if not published:
+            errors.append(
+                f"source_published is required for articles added on or after {ENFORCED_FROM}"
+            )
+        elif str(published) < f"{MIN_SOURCE_YEAR}-01-01":
+            errors.append(
+                f"source_published {published} is before {MIN_SOURCE_YEAR}; "
+                "only sources published from that year are accepted"
+            )
 
     return errors, warnings
 

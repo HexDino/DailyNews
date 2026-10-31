@@ -37,6 +37,7 @@ Do **not** edit `index.json` by hand; the script is the source of truth for the 
 | `author` | yes | Author name. |
 | `source` | yes | Publication / site name. |
 | `source_url` | no | Link to the original. |
+| `source_published` | required from 2026-11-01 | Publication date of the original (`YYYY-MM-DD`). The licence gate rejects anything before **2000-01-01**, and rejects a new article that omits the field. Legacy articles are grandfathered. |
 | `lang` | yes | Original language code: `vi` for Vietnamese originals, `en` (or other) when the Vietnamese text is a translation. Non-`vi` shows a **Bản dịch tiếng Việt** note on the article page. |
 | `topics` | yes | Array of topic labels (see below). |
 | `summary` | yes | Short card description (1–2 sentences). |

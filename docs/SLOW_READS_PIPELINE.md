@@ -26,8 +26,13 @@ Prompt cấu hình vai trò Grok (chỉ soạn số báo và gửi link): [`GROK
 
 | Lịch | Việc | Tần suất |
 | --- | --- | --- |
-| 07:00 | Dịch **toàn văn** một tác phẩm public domain (≤25.000 từ, nới ≤50.000 nếu bậc đầu rỗng) | hằng ngày |
-| 19:00 | Viết **tóm tắt** 250–900 từ cho một bài đương đại | thứ Hai, Tư, Sáu |
+| 07:00 | Tóm tắt 250–900 từ một bài đương đại | hằng ngày |
+| 17:00 | Kiểm tra an toàn: nếu hôm nay chưa có bài thì bù | hằng ngày |
+| 19:00 | Tóm tắt 250–900 từ một bài đương đại | thứ Hai – thứ Sáu |
+
+**Mốc thời gian (31/10/2026): chỉ nhận bài gốc xuất bản từ năm 2000.** Điều này chấm dứt nhánh dịch toàn văn: không tác phẩm nào xuất bản sau 2000 còn public domain, nên `public-domain.json` không còn dùng cho automation. Thư viện giữ các bản dịch cũ như di sản; bài mới đều là tóm tắt.
+
+Cưỡng chế: `discover_rss.py --min-year 2000` lọc ở nguồn, và `rights_gate.py` chặn mọi bài có `source_published` trước 2000-01-01 hoặc thiếu trường này (áp dụng cho bài thêm từ 2026-11-01).
 
 Cả hai chạy độc lập, **không phụ thuộc Grok hay bất kỳ đề xuất bên ngoài nào**. Automation tóm tắt tự lấy bài từ `scripts/discover_rss.py`.
 
@@ -186,7 +191,7 @@ Output có `source_id, source, url, title, author, published, summary, topics, l
 
 Báo đương đại gần như đều `all rights reserved`. Public domain thì không: dịch, đăng, bán đều được. Đây là nơi thư viện nên dày lên.
 
-**Định hướng nội dung (31/10/2026)**: độc giả là người trẻ, cần đề tài gần đời sống hiện đại. Đã ngừng đăng văn bản cổ điển / thần thoại Hy Lạp – La Mã. Mỗi entry trong catalogue có trường `era` — `classical` (trước 1800), `19c`, `modern` (1900+). Automation chạy với `--exclude-era classical` và xếp `modern` lên trước.
+**Trạng thái (31/10/2026)**: catalogue vẫn giữ 108 tác phẩm để tra cứu và để dành cho tương lai, nhưng **không còn nằm trong đường publish tự động** vì mốc 2000. Mỗi entry có trường `era` — `classical` (trước 1800), `19c`, `modern` (1900+). Nếu sau này nới mốc thời gian, dùng `--exclude-era classical` để tránh văn bản cổ điển.
 
 **Catalogue**: `slow-reads/public-domain.json` — 108 tác phẩm, trải 8 chủ đề. Mỗi entry có `gutenberg_id` **đã đối chiếu**, `topics`, `est_words`, và `note` giải thích vì sao hợp chủ đề. Không dùng RSS của Gutenberg làm nguồn chính: feed đó chỉ liệt kê sách tải lên hôm nay, không liên quan gì tới chủ đề.
 

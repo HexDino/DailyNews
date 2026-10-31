@@ -251,6 +251,11 @@ def collect(
     cutoff = (
         datetime.now(timezone.utc) - timedelta(days=args.days) if args.days > 0 else None
     )
+    # Hard floor on publication date. Nothing older than this is eligible, no
+    # matter how recent the feed makes it look.
+    floor = (
+        datetime(args.min_year, 1, 1, tzinfo=timezone.utc) if args.min_year > 0 else None
+    )
     candidates: list[dict] = []
     ok = failed = no_rss = blocked = 0
 
@@ -281,6 +286,10 @@ def collect(
             if cutoff and published and published < cutoff:
                 continue
             if cutoff and published is None and not args.allow_undated:
+                continue
+            if floor and published is None:
+                continue
+            if floor and published and published < floor:
                 continue
             url_key = canonical_url(entry["url"])
             title_key = normalize_title(entry["title"])
@@ -323,6 +332,12 @@ def main() -> int:
     parser.add_argument("--limit", type=int, default=30, help="max candidates")
     parser.add_argument("--per-source", type=int, default=5, help="max per feed")
     parser.add_argument("--days", type=int, default=60, help="recency window; 0 = all")
+    parser.add_argument(
+        "--min-year",
+        type=int,
+        default=2000,
+        help="ignore anything published before this year (0 = no floor)",
+    )
     parser.add_argument(
         "--min-quality", type=int, default=75, help="skip sources below this score"
     )
