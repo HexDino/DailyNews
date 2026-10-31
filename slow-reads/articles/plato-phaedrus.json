@@ -1,0 +1,1527 @@
+{
+  "id": "plato-phaedrus",
+  "title": "Phaedrus — Về tình yêu, hùng biện và linh hồn",
+  "title_original": "Phaedrus",
+  "author": "Plato",
+  "source": "gutenberg.org",
+  "source_url": "https://www.gutenberg.org/cache/epub/1636/pg1636-images.html",
+  "lang": "en",
+  "topics": [
+    "Tình yêu",
+    "Con người",
+    "Tư duy & khoa học"
+  ],
+  "summary": "Đối thoại của Plato về tình yêu, thuật hùng biện và bản tính linh hồn: Socrates cùng Phaedrus đi dạo bên sông Ilissus, mổ xẻ một bài diễn văn tán thành kẻ không yêu, rồi đi tới kết luận rằng chỉ kẻ biết sự thật mới nói hay được.",
+  "added": "2026-10-31",
+  "reading_minutes": 161,
+  "source_stats": {
+    "url": "https://www.gutenberg.org/cache/epub/1636/pg1636-images.html",
+    "coverage": "full",
+    "word_count": 38063,
+    "char_count": 172443,
+    "paragraph_count": 449,
+    "sentence_count": 1206,
+    "heading_count": 0,
+    "sha256": "83b47019bc60ea432de4d34636f072173412ab895421b2b07be5d29e33388d9f"
+  },
+  "body": [
+    {
+      "type": "p",
+      "text": "SOCRATES: Phaedrus thân mến, anh từ đâu đến và đang đi đâu thế?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi từ nhà Lysias, con trai Cephalus, ra, và tôi đang định đi dạo một vòng ngoài tường thành, vì tôi đã ngồi với ông ấy suốt cả buổi sáng; và Acumenus, người bạn chung của chúng ta, bảo tôi rằng đi lại ngoài trời thoáng đãng dễ chịu hơn nhiều so với ngồi giam mình trong một xó kín."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Ông ấy nói đúng. Vậy Lysias, tôi đoán, đang ở trong thành?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Vâng, ông ấy trú tại nhà Epicrates, ngay ở chỗ nhà Morychus; ngôi nhà ấy nằm gần đền thờ Zeus Olympios."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và ông ấy tiếp đãi anh thế nào? Có lẽ nào tôi lầm khi cho rằng Lysias đãi anh một bữa tiệc toàn lời nói?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh sẽ được nghe, nếu anh có thì giờ đi cùng tôi."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Lẽ nào tôi lại không coi câu chuyện giữa anh và Lysias là ‘một việc hệ trọng hơn’, như tôi có thể nói bằng lời của Pindar, ‘hơn mọi công việc’?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh đi tiếp không? SOCRATES: Và anh có kể tiếp câu chuyện không?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Chuyện của tôi, Socrates ạ, thuộc đúng kiểu anh ưa, vì tình yêu là đề tài bận rộn của chúng tôi — tình yêu theo một lối nào đó: Lysias viết về một chàng trai xinh đẹp đang bị dụ dỗ, nhưng không phải bởi một kẻ si tình; và đây là điểm mấu chốt: ông ấy chứng minh một cách khéo léo rằng kẻ không yêu đáng được chấp nhận hơn kẻ đang yêu."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Ồ, thế thì cao thượng thật! Ước gì ông ấy nói về người nghèo thay vì người giàu, về ông già thay vì chàng trai; — thế thì ông ấy sẽ đúng với trường hợp của tôi và của bao nhiêu người khác; lời ông ấy hẳn sẽ thật sảng khoái, và ông ấy sẽ là một ân nhân của công chúng. Về phần tôi, tôi khao khát được nghe bài diễn văn ấy đến mức nếu anh đi bộ tới tận Megara, và khi tới chân tường thành lại quay về, theo lời khuyên của Herodicus, mà không vào trong, thì tôi cũng sẽ đi cùng anh."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh muốn nói gì vậy, Socrates hiền lành của tôi? Sao anh có thể tưởng tượng rằng trí nhớ chưa luyện tập của tôi có thể làm tròn một tác phẩm công phu, thứ mà nhà hùng biện vĩ đại nhất thời này đã mất rất nhiều thời gian để soạn? Thật tình, tôi không làm nổi; tôi sẵn sàng đánh đổi nhiều thứ nếu làm được."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi tin rằng tôi biết Phaedrus gần như tôi biết chính mình, và tôi chắc chắn rằng bài diễn văn của Lysias đã được đọc lại cho anh ấy nghe, không phải một lần, mà hết lần này đến lần khác; — anh ấy nài nỉ được nghe nhiều lần, và Lysias rất sẵn lòng chiều anh ấy; cuối cùng, khi không còn cách nào khác, anh ấy cầm lấy cuốn sách, và nhìn vào chỗ mình muốn thấy nhất, — việc ấy chiếm trọn buổi sáng của anh ấy; — rồi khi đã mỏi vì ngồi, anh ấy ra ngoài đi dạo, nhưng chỉ sau khi, có con chó chứng giám, tôi tin thế, anh ấy đã học thuộc lòng toàn bộ bài diễn văn, trừ phi nó dài lạ thường, và anh ấy ra một nơi ngoài tường thành để luyện bài. Ở đó anh ấy thấy một kẻ ham lời nói nọ cũng yếu đuối giống mình; — anh ấy thấy và mừng rỡ; trong bụng nghĩ rằng: ‘Ta sẽ có bạn đồng hành trong cuộc vui của ta.’ Và anh ấy rủ người kia đi dạo cùng. Nhưng khi kẻ ham lời nói ấy nài anh ấy kể lại câu chuyện, anh ấy làm ra vẻ ta đây và bảo: ‘Không, tôi không thể’, như thể đang khó ở; dẫu rằng, nếu người nghe từ chối, thì sớm muộn gì anh ta cũng sẽ bị người kia buộc phải nghe, dù muốn hay không. Vậy nên, Phaedrus, hãy bảo anh ta làm ngay điều mà dù có bảo hay không thì anh ta cũng sắp làm."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi thấy anh sẽ không tha cho tôi cho đến khi tôi nói ra bằng cách này hay cách khác; vậy thì kế hoạch tốt nhất của tôi thật ra là nói theo khả năng tốt nhất của mình."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Nhận xét của anh rất đúng."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi sẽ làm như tôi nói; nhưng tin tôi đi, Socrates, tôi không học thuộc từng chữ — ồ không; tuy vậy tôi có một ý niệm khái quát về điều ông ấy nói, và tôi sẽ tóm cho anh những điểm mà kẻ si tình khác với kẻ không yêu. Để tôi bắt đầu từ đầu."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vâng, anh yêu quý; nhưng trước hết anh phải cho tôi xem thứ anh đang giấu trong tay trái dưới vạt áo, vì cuộn giấy ấy, tôi ngờ thế, chính là bài diễn văn thật. Giờ thì, dù tôi yêu anh đến đâu, tôi cũng không muốn anh tưởng rằng tôi sẽ để trí nhớ của anh phải chịu khổ vì tôi, khi mà chính Lysias đang ở đây trong tay anh."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Đủ rồi; tôi thấy mình không còn hy vọng thi thố tài nghệ lên anh. Nhưng nếu tôi phải đọc, thì anh muốn ngồi ở đâu?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Ta rẽ sang bên và đi dọc theo Ilissus; ta sẽ ngồi xuống một chỗ yên tĩnh nào đó."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi may mắn vì không mang dép, còn anh thì chẳng bao giờ mang dép, nên tôi nghĩ ta có thể đi dọc theo con suối và ngâm chân cho mát; đó sẽ là cách dễ chịu nhất, và vào buổi trưa mùa hè thì chẳng hề khó chịu chút nào."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Anh dẫn đường đi, và để ý tìm một chỗ để ta ngồi xuống."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh có thấy cây tiêu huyền cao nhất đằng xa kia không?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Có."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Ở đó có bóng râm và gió nhẹ, có cỏ để ta có thể ngồi hoặc nằm."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Đi tới đi."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi muốn biết, Socrates ạ, có phải chỗ này đây là nơi người ta kể rằng Boreas đã bắt cóc Orithyia khỏi bờ sông Ilissus?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Truyền thuyết là thế."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Và đây có phải đúng là chỗ ấy? Con suối nhỏ trong vắt và sáng long lanh một cách đáng yêu; tôi có thể hình dung ra những thiếu nữ đang nô đùa gần đây."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi tin rằng chỗ ấy không đúng ngay tại đây, mà ở khoảng một phần tư dặm phía dưới, nơi người ta vượt sông để tới đền Artemis, và tôi nghĩ ở chỗ ấy có một loại bàn thờ của Boreas."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi chưa bao giờ để ý thấy; nhưng tôi van anh, Socrates, anh có tin câu chuyện này không?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Người khôn ngoan thì hoài nghi, và tôi sẽ không có gì lạ nếu tôi cũng hoài nghi như họ. Tôi có thể đưa ra một lời giải thích hợp lý rằng Orithyia đang đùa chơi với Pharmacia thì một cơn gió bắc cuốn cô ấy qua những vách đá bên cạnh; và vì cô ấy chết theo cách ấy, nên người ta nói rằng cô ấy bị Boreas bắt đi. Tuy vậy có một điểm không nhất quán về địa điểm; theo một dị bản khác của câu chuyện, cô ấy bị bắt từ Areopagus, chứ không phải từ chỗ này. Giờ thì tôi hoàn toàn thừa nhận những truyện ngụ ngôn ấy rất hay, nhưng kẻ phải bịa ra chúng thì không đáng được ghen tị; người ấy sẽ cần rất nhiều công sức và tài khéo; và một khi đã bắt đầu, người ấy phải đi tiếp và phục hồi thanh danh cho lũ Hippocentaurs và những con chimaera khủng khiếp. Gorgon và những con ngựa có cánh ùn ùn kéo vào, cùng vô số bản tính khác không thể hình dung và quái dị. Và nếu người ấy hoài nghi chúng, và muốn lần lượt quy chúng về những quy luật của cái có thể xảy ra, thì thứ triết học thô sơ ấy sẽ ngốn rất nhiều thời gian. Giờ thì tôi không có thì giờ cho những cuộc điều tra như thế; tôi có nên nói cho anh biết vì sao không? Trước hết tôi phải biết chính mình, như dòng chữ ở Delphi nói; đi tò mò về những gì không phải việc của mình, trong khi tôi vẫn chưa biết gì về bản thân, thì thật là nực cười. Và vì thế tôi từ biệt tất cả những thứ ấy; ý kiến thông thường là đủ cho tôi. Vì, như tôi đang nói, tôi muốn biết không phải về chuyện này, mà về chính tôi: tôi là một con quái vật phức tạp hơn và sục sôi đam mê hơn con rắn Typho, hay là một sinh vật dịu dàng và đơn giản hơn, mà Tự nhiên đã ban cho một số phận thần thánh hơn và khiêm nhường hơn? Nhưng để tôi hỏi anh, này bạn: ta đã tới cây tiêu huyền mà anh dẫn ta đến chưa?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Rồi, đây chính là cây ấy."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Thề có nữ thần Hera, một chỗ nghỉ đẹp thay, đầy những âm thanh và hương vị mùa hè. Đây là cây tiêu huyền cao lớn và xoè rộng này, và cây agnus castus mọc cao thành chùm, nở hoa rộ nhất và thơm nhất; còn con suối chảy dưới gốc tiêu huyền thì mát lạnh đến dễ chịu cho đôi chân. Xét theo những đồ trang trí và tượng thờ, đây hẳn là một nơi thiêng liêng của Achelous và các Nymph. Gió mới dễ chịu làm sao: — thật ngọt ngào; và trong không khí có một âm thanh the thé, đúng chất mùa hè, đáp lại tiếng đồng ca của lũ ve sầu. Nhưng duyên dáng nhất vẫn là bãi cỏ, như một chiếc gối nghiêng nhẹ cho đầu tựa vào. Phaedrus thân mến, anh quả là một người dẫn đường tuyệt vời."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh đúng là một sinh vật khó hiểu, Socrates ạ: khi anh ở ngoài đồng quê, như anh nói, anh thật giống một kẻ xa lạ được người dẫn đường dắt đi khắp nơi. Anh có bao giờ vượt qua biên giới không? Tôi thiên về ý rằng anh chưa bao giờ dám ra cả ngoài cổng thành."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Rất đúng, anh bạn hiền lành của tôi; và tôi mong anh sẽ thứ lỗi cho tôi khi nghe lý do, đó là: tôi là kẻ yêu tri thức, và những con người sống trong thành phố là thầy của tôi, chứ không phải cây cối hay đồng quê. Dẫu vậy tôi thật sự tin rằng anh đã tìm ra một câu thần chú để kéo tôi ra khỏi thành phố về phía đồng quê, như người ta vẫy một cành lá hay một chùm quả trước mặt con bò đang đói. Vì chỉ cần giơ ra trước mặt tôi một cuốn sách theo cách tương tự, anh có thể dẫn tôi đi khắp Attica, và đi khắp thế gian rộng lớn. Và giờ đã tới nơi, tôi định nằm xuống, còn anh hãy chọn tư thế nào để đọc là hay nhất. Bắt đầu đi."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh nghe đây. Anh biết hoàn cảnh của tôi thế nào; và theo tôi hiểu, việc này có thể được sắp xếp sao cho có lợi cho cả hai chúng ta. Và tôi khẳng định rằng tôi không nên thất bại trong lời cầu xin của mình, chỉ vì tôi không phải là kẻ si tình của anh: vì những kẻ si tình ăn năn về những ân huệ họ đã ban khi đam mê của họ tàn, còn với những kẻ không yêu, những người tự do và không bị bất cứ sự ép buộc nào, thì không bao giờ có lúc ăn năn; vì họ ban ân huệ theo mức khả năng của mình, theo cách có lợi nhất cho chính họ. Rồi nữa, những kẻ si tình nghĩ đến việc vì tình yêu mà họ đã bỏ bê công việc riêng và phục vụ người khác: và khi cộng thêm vào những ân huệ đã ban những nỗi khổ mà họ đã chịu đựng, họ cho rằng từ lâu họ đã đền đáp cho người mình yêu một cách rất hậu hĩnh. Nhưng kẻ không yêu không có những ký ức dày vò như thế; anh ta chưa bao giờ bỏ bê công việc của mình hay cãi vã với họ hàng; anh ta không có nỗi khổ nào để cộng lại hay lời bào chữa nào để bịa ra; và khi đã sạch sẽ thoát khỏi mọi điều xấu ấy, tại sao anh ta lại không tự do làm điều sẽ khiến người mình yêu hài lòng? Nếu anh nói rằng kẻ si tình đáng được quý trọng hơn, vì tình yêu của anh ta được cho là lớn hơn; vì anh ta sẵn lòng nói và làm những điều người khác ghét, để làm vừa lòng người mình yêu; — điều đó, nếu đúng, cũng chỉ chứng tỏ rằng anh ta sẽ thích bất kỳ mối tình nào trong tương lai hơn mối tình hiện tại, và sẽ làm hại mối tình cũ theo ý thích của mối tình mới. Và trong một việc hệ trọng vô cùng như thế, làm sao một người có thể đúng khi phó mình cho kẻ đang mắc một căn bệnh mà không người có kinh nghiệm nào dám chữa, vì chính bệnh nhân thừa nhận rằng mình không còn tỉnh trí, và thú nhận rằng tâm trí mình sai lệch, nhưng nói rằng mình không thể tự kiềm chế? Và nếu anh ta trở lại tỉnh trí, liệu anh ta có bao giờ tưởng tượng rằng những dục vọng mà anh ta nảy sinh khi tâm trí sai lệch là tốt đẹp? Hơn nữa, kẻ không yêu nhiều hơn kẻ si tình rất nhiều; và nếu anh chọn người tốt nhất trong số những kẻ si tình, anh sẽ không có nhiều người để chọn; nhưng nếu chọn trong số những kẻ không yêu, sự lựa chọn sẽ rộng hơn, và anh sẽ có nhiều khả năng hơn tìm được trong số họ một người xứng đáng với tình bạn của anh. Nếu dư luận là điều anh sợ, và anh muốn tránh lời chê trách, thì rất có thể kẻ si tình, kẻ luôn nghĩ rằng người khác cũng ganh đua với mình như mình ganh đua với họ, sẽ khoe với ai đó những thành công của mình, và phô bày chúng công khai trong lòng kiêu hãnh; — anh ta muốn người khác biết rằng công lao của mình không uổng phí; còn kẻ không yêu thì làm chủ chính mình hơn, và khao khát điều tốt đẹp vững chắc, chứ không khao khát ý kiến của nhân gian. Lại nữa, kẻ si tình thường bị người ta để ý hoặc thấy đi theo người mình yêu (đó là nghề thường ngày của anh ta), và mỗi khi người ta thấy hai người trao đổi với nhau vài câu, người ta cho rằng họ gặp nhau vì một chuyện tình ái nào đó, đã qua hoặc đang toan tính; nhưng khi những kẻ không yêu gặp nhau, không ai hỏi vì sao, vì người ta biết rằng nói chuyện với người khác là lẽ tự nhiên, dù động cơ là tình bạn hay chỉ là khoái lạc. Hơn nữa, nếu anh sợ sự thay lòng của tình bạn, hãy xét rằng trong mọi trường hợp khác, một cuộc cãi vã có thể là tai hoạ cho cả hai; nhưng ở đây, khi anh đã trao đi thứ quý giá nhất của mình, anh sẽ là người mất nhiều hơn, và vì thế, anh sẽ có lý hơn khi sợ kẻ si tình, vì những nỗi bực dọc của anh ta thì nhiều, và anh ta luôn tưởng tượng rằng mọi người đang câu kết chống lại mình. Vì thế anh ta cũng cấm người mình yêu giao du; anh ta không muốn anh thân thiết với người giàu, sợ họ vượt mình về của cải, hay với người có học, sợ họ hơn mình về hiểu biết; và anh ta sợ như nhau ảnh hưởng của bất kỳ ai có lợi thế nào khác hơn mình. Nếu anh ta thuyết phục được anh cắt đứt với họ, anh sẽ chẳng còn một người bạn nào trên đời; hoặc nếu, vì quan tâm đến lợi ích của chính mình, anh khôn ngoan hơn và không chiều theo ý anh ta, thì anh sẽ phải cãi nhau với anh ta. Nhưng những kẻ không yêu, những người mà thành công trong tình yêu là phần thưởng cho công đức của họ, sẽ không ghen tị với những người bạn của người mình yêu, mà trái lại sẽ ghét những kẻ từ chối làm bạn với anh ta, cho rằng người họ quý mến bị kẻ sau xem nhẹ và được kẻ trước làm ơn; vì người ta có thể trông đợi rằng nhờ tình bạn với người khác, anh ta sẽ nhận được nhiều yêu hơn là hận. Nhiều kẻ si tình cũng đã yêu thân xác một chàng trai trước khi biết tính cách hay gia cảnh của anh ta; cho nên khi đam mê của họ qua đi, không biết được liệu họ có tiếp tục là bạn của anh ta hay không; còn với những kẻ không yêu, những người vốn luôn là bạn, thì tình bạn không hề giảm đi vì những ân huệ đã ban; mà ký ức về những ân huệ ấy còn lại nơi họ, và là một bảo chứng cho những điều tốt đẹp sắp tới."
+    },
+    {
+      "type": "p",
+      "text": "Hơn nữa, tôi nói rằng anh có khả năng được tôi làm cho tốt hơn, trong khi kẻ si tình sẽ làm anh hư hỏng. Vì họ khen lời nói và việc làm của anh theo một cách sai lệch; một phần vì họ sợ làm anh phật lòng, và cũng vì phán đoán của họ bị đam mê làm yếu đi. Đó là những kỳ công mà tình yêu bày ra; nó khiến những kẻ thất vọng thấy đau đớn trước những điều chẳng làm đau ai khác; nó buộc kẻ si tình thành công phải khen những điều lẽ ra không nên làm anh ta vui, và vì thế người được yêu đáng được thương hại hơn là ghen tị. Nhưng nếu anh nghe tôi, thì trước hết, trong quan hệ với anh, tôi sẽ không chỉ nhìn vào khoái lạc hiện tại, mà còn cả lợi ích tương lai, vì tôi không bị tình yêu chế ngự mà là chủ của chính mình; tôi cũng không vì những cớ nhỏ mà sinh ác cảm dữ dội, mà ngay cả khi cớ lớn, tôi cũng chậm rãi tích tụ cơn giận nhỏ — những xúc phạm vô ý tôi sẽ tha thứ, còn những xúc phạm cố ý tôi sẽ tìm cách ngăn ngừa; và đó là những dấu hiệu của một tình bạn sẽ bền lâu."
+    },
+    {
+      "type": "p",
+      "text": "Anh có nghĩ rằng chỉ kẻ si tình mới có thể là một người bạn vững vàng? Hãy suy xét: — nếu điều đó đúng, chúng ta hẳn sẽ coi nhẹ con cái, cha mẹ; và chúng ta sẽ chẳng bao giờ có những người bạn trung thành, vì tình yêu của chúng ta với họ không nảy sinh từ đam mê, mà từ những mối liên hệ khác. Hơn nữa, nếu ta phải ban ân huệ cho những kẻ van xin sốt sắng nhất, — theo nguyên tắc ấy, ta phải luôn làm điều tốt không phải cho người đức hạnh nhất, mà cho người khốn khổ nhất; vì họ là những người sẽ được an ủi nhiều nhất, và do đó sẽ biết ơn nhiều nhất; và khi anh mở tiệc, anh không nên mời bạn mình, mà nên mời kẻ ăn mày và kẻ có tâm hồn trống rỗng; vì họ sẽ yêu anh, và theo anh, và đến quanh cửa nhà anh, và sẽ vui nhất, biết ơn nhất, và sẽ cầu nhiều phúc lành xuống trên đầu anh. Nhưng chắc chắn anh không nên ban ân huệ cho những kẻ vây lấy anh bằng lời cầu xin, mà cho những người có khả năng đền đáp anh tốt nhất; không phải chỉ cho kẻ si tình, mà cho những người xứng đáng được yêu; không phải cho những kẻ sẽ hưởng thụ sắc xuân của anh, mà cho những người sẽ chia sẻ tài sản với anh khi tuổi đã về già; không phải cho những kẻ, khi đã thành công, sẽ khoe khoang thành công ấy với người khác, mà cho những người sẽ khiêm tốn và không kể chuyện; không phải cho những kẻ chỉ quan tâm đến anh trong một khoảnh khắc, mà cho những người sẽ tiếp tục là bạn anh suốt đời; không phải cho những kẻ, khi đam mê đã hết, sẽ kiếm cớ gây sự với anh, mà đúng hơn là cho những người, khi vẻ quyến rũ của tuổi trẻ đã rời khỏi anh, sẽ bày tỏ đức hạnh của chính họ. Hãy nhớ những gì tôi đã nói; và hãy xét thêm điểm này: bạn bè khuyên nhủ kẻ si tình vì cho rằng lối sống của anh ta là xấu, nhưng chưa ai trong họ hàng anh ta từng chê trách kẻ không yêu, hay cho rằng anh ta đã lầm lạc về lợi ích của chính mình."
+    },
+    {
+      "type": "p",
+      "text": "‘Có lẽ anh sẽ hỏi tôi liệu tôi có đề nghị rằng anh nên chiều chuộng mọi kẻ không yêu. Với điều đó tôi trả lời rằng ngay cả kẻ si tình cũng sẽ không khuyên anh chiều chuộng mọi kẻ si tình, vì sự ban ơn bừa bãi thì ít được người nhận sáng suốt coi trọng, và cũng khó che giấu hơn cho kẻ muốn tránh lời chê trách của thiên hạ. Nay tình yêu phải đem lại lợi ích cho cả hai bên, và không làm hại bên nào."
+    },
+    {
+      "type": "p",
+      "text": "‘Tôi tin rằng tôi đã nói đủ; nhưng nếu còn điều gì anh muốn, hoặc theo ý anh cần được bổ sung, hãy hỏi và tôi sẽ trả lời.’"
+    },
+    {
+      "type": "p",
+      "text": "Này Socrates, anh nghĩ sao? Bài diễn văn ấy chẳng phải là tuyệt hay sao, nhất là về mặt ngôn từ?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vâng, thật đáng khâm phục; tác động lên tôi thật là mê hoặc. Và điều ấy tôi mang ơn anh, Phaedrus, vì tôi quan sát thấy anh trong lúc đọc đang ngây ngất, và nghĩ rằng anh sành sỏi những chuyện này hơn tôi, tôi bắt chước anh, và như anh, hỡi người yêu dấu thiêng liêng của tôi, tôi cũng bị thần hứng nhập vào mà phát cuồng."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Thật đấy, anh thích đùa. SOCRATES: Ý anh là tôi không nói nghiêm túc?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Nào, đừng nói kiểu ấy, Socrates, mà hãy cho tôi biết ý kiến thật của anh; tôi van anh, nhân danh Zeus, vị thần của tình bạn, hãy nói cho tôi biết liệu anh có nghĩ rằng có người Hy Lạp nào có thể nói nhiều hơn hay nói hay hơn về cùng một đề tài."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì, anh và tôi có được yêu cầu ca ngợi những tư tưởng của tác giả, hay chỉ ca ngợi sự sáng rõ, sự tròn trịa, sự hoàn chỉnh và cái duyên của ngôn từ? Về điểm đầu, tôi sẵn lòng phục tùng phán đoán tốt hơn của anh, vì tôi không xứng đáng để lập ý kiến, chỉ mới chú ý đến lối hùng biện; và tôi đang phân vân không biết liệu chính Lysias có thể bảo vệ được điều ấy không; tôi nghĩ, tuy nói ra thì có thể bị sửa lại, rằng ông ấy đã lặp lại chính mình hai hoặc ba lần, hoặc vì thiếu từ ngữ, hoặc vì thiếu công phu; và ông ấy cũng có vẻ phô trương hân hoan khi chứng tỏ mình có thể nói cùng một điều bằng hai hay ba cách thật hay."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Vô lý, Socrates; điều anh gọi là lặp lại chính là công lao đặc biệt của bài diễn văn; vì ông ấy không bỏ sót đề mục nào mà đề tài cho phép một cách đúng đắn, và tôi không nghĩ rằng có ai có thể nói hay hơn hay đầy đủ hơn."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Chỗ đó tôi không thể đồng ý với anh. Những bậc hiền triết xưa, cả nam lẫn nữ, những người đã nói và viết về những điều này, sẽ đứng dậy phán xét tôi, nếu vì chiều lòng anh mà tôi gật đầu."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Họ là ai, và anh đã nghe ở đâu điều gì hay hơn thế?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi chắc rằng tôi hẳn đã từng nghe; nhưng ngay lúc này tôi không nhớ là nghe từ ai; có lẽ từ Sappho xinh đẹp, hay từ Anacreon khôn ngoan; hoặc có thể, từ một văn sĩ viết xuôi. Vì sao tôi nói thế? À, vì tôi cảm thấy lồng ngực mình đầy ắp, và rằng tôi có thể làm một bài diễn văn khác hay ngang bài của Lysias, mà lại khác đi. Giờ tôi chắc chắn rằng đây không phải là phát minh của riêng tôi, vì tôi biết rõ mình chẳng biết gì, và do đó tôi chỉ có thể suy ra rằng tôi đã được rót đầy qua đôi tai, như một cái bình, từ nước của người khác, dẫu rằng trong sự ngu độn của mình tôi đã quên mất ai là người đã nói cho tôi."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Hay lắm: — nhưng thôi, đừng bận tâm anh đã nghe bài diễn văn ấy ở đâu hay từ ai; hãy để đó là một điều huyền bí không được tiết lộ, ngay cả khi tôi tha thiết van xin. Chỉ có điều, như anh nói, hãy hứa làm một bài diễn văn khác hay hơn, dài bằng và hoàn toàn mới, về cùng đề tài; và tôi, như chín vị Archon, sẽ hứa dựng một pho tượng vàng ở Delphi, không chỉ của tôi mà của cả anh, to bằng người thật."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Anh đúng là một con lừa vàng đáng yêu nếu anh tưởng rằng ý tôi là Lysias đã hoàn toàn trượt mục tiêu, và rằng tôi có thể làm một bài diễn văn mà từ đó loại bỏ hết mọi lập luận của ông ấy. Người viết dở nhất cũng sẽ nói được điều gì đó đúng chỗ. Ví dụ, ai có thể nói về luận đề này của anh mà không ca ngợi sự thận trọng của kẻ không yêu và chê trách sự thiếu thận trọng của kẻ si tình? Đó là những điều sáo thường của đề tài, buộc phải có (vì còn gì khác để nói?) và phải được chấp nhận và miễn trừ; công lao duy nhất nằm ở cách sắp xếp chúng, vì ở sự phát minh thì không thể có công lao nào; nhưng khi anh rời khỏi những điều sáo thường ấy, thì mới có thể có chút gì đó độc đáo."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi thừa nhận điều anh nói có lý, và tôi cũng sẽ có lý, và sẽ cho phép anh bắt đầu với tiền đề rằng kẻ si tình thì tâm trí rối loạn hơn kẻ không yêu; nếu trong phần còn lại anh làm một bài diễn văn dài hơn và hay hơn của Lysias, và dùng những lập luận khác, thì tôi nói lại rằng, anh sẽ có một pho tượng bằng vàng ròng, và được đặt chỗ bên những lễ vật khổng lồ của nhà Cypselus ở Olympia."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Kẻ si tình nghiêm túc sâu sắc làm sao, chỉ vì tôi chạm một ngón tay vào mối tình của anh ta để trêu chọc! Và thế là, Phaedrus, anh thật sự tưởng rằng tôi sẽ vượt qua được sự khéo léo của Lysias?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Chỗ đó tôi bắt được anh như anh đã bắt được tôi, và anh cứ phải nói ‘theo khả năng tốt nhất của mình’. Đừng để chúng ta đổi chác ‘tu quoque’ như trong một vở hài kịch, cũng đừng buộc tôi phải nói với anh như anh đã nói với tôi: ‘Tôi biết Socrates rõ như tôi biết chính mình, và anh ấy muốn nói, nhưng anh ấy làm ra vẻ ta đây.’ Thay vào đó, tôi muốn anh nghĩ rằng từ chỗ này chúng ta sẽ không nhúc nhích cho đến khi anh đã trút ra bài diễn văn; vì ở đây chỉ có hai ta, và anh nhớ cho, tôi mạnh hơn và trẻ hơn anh: — vậy nên hãy suy nghĩ kỹ, và đừng buộc tôi phải dùng vũ lực."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Nhưng, Phaedrus yêu quý của tôi, thật là nực cười biết bao nếu tôi thi tài với Lysias bằng một bài diễn văn ứng khẩu! Ông ấy là bậc thầy trong nghề của mình, còn tôi là kẻ không được học hành."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh thấy tình thế thế nào rồi; và vì thế đừng giả vờ nữa; vì thật tình, tôi biết câu nói không thể cưỡng lại được."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì đừng nói ra."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Ừ, nhưng tôi sẽ nói; và lời tôi nói sẽ là một lời thề. ‘Tôi nói, hay đúng hơn tôi thề’ — nhưng vị thần nào sẽ chứng giám lời thề của tôi? — ‘Nhân danh cây tiêu huyền này, tôi thề rằng nếu anh không đọc bài diễn văn ở đây, trước chính cây tiêu huyền này, thì tôi sẽ không bao giờ kể cho anh nghe chuyện nào nữa; không bao giờ để anh nghe một lời nào nữa!’"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Đồ vô lại! Tôi bị chinh phục rồi; kẻ đáng thương ham lời nói không còn gì để nói nữa."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Vậy thì tại sao anh còn giở trò?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi sẽ không giở trò nữa khi anh đã tuyên thệ, vì tôi không thể để mình bị bỏ đói."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh nói đi. SOCRATES: Tôi có nên nói cho anh biết tôi sẽ làm gì không? PHAEDRUS: Gì thế?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi sẽ che mặt lại và phóng nhanh qua bài diễn văn hết sức có thể, vì nếu tôi nhìn anh, tôi sẽ thấy xấu hổ và không biết phải nói gì."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh cứ nói tiếp, và anh có thể làm bất cứ điều gì khác anh muốn."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Hỡi các nàng Muses du dương, như người ta vẫn gọi các nàng, dù các nàng nhận được tên ấy từ tính chất của những khúc ca, hay vì người Melos là một giống dân ưa nhạc, xin hãy giúp, ôi xin hãy giúp tôi trong câu chuyện mà người bạn tốt của tôi đây muốn tôi kể lại, để người bạn của anh ta, kẻ mà anh ta vẫn luôn cho là khôn ngoan, có thể với anh ta trở nên khôn ngoan hơn bao giờ hết."
+    },
+    {
+      "type": "p",
+      "text": "Ngày xửa ngày xưa có một cậu bé xinh đẹp, hay nói đúng hơn, một chàng trai trẻ; chàng rất đẹp và có rất nhiều kẻ si tình; và có một kẻ đặc biệt xảo quyệt, đã thuyết phục chàng trai rằng mình không yêu chàng, nhưng thật ra vẫn yêu chàng như thường; và một ngày kia khi ngỏ lời với chàng, anh ta dùng đúng lập luận này — rằng chàng nên chấp nhận kẻ không yêu hơn là kẻ si tình; lời anh ta như sau: —"
+    },
+    {
+      "type": "p",
+      "text": "‘Mọi lời khuyên tốt đều bắt đầu theo cùng một cách; người ta phải biết mình đang khuyên về điều gì, nếu không lời khuyên của mình sẽ thành vô ích. Nhưng người ta tưởng rằng mình biết về bản tính của sự vật, khi thật ra họ không biết gì về chúng, và vì ngay từ đầu đã không đi đến một hiểu biết chung do tưởng rằng mình đã biết, nên cuối cùng, như có thể trông đợi, họ mâu thuẫn với nhau và với chính mình. Nay anh và tôi không được phạm phải sai lầm căn bản này, thứ mà chúng ta lên án ở người khác; nhưng vì câu hỏi của chúng ta là nên chọn kẻ si tình hay kẻ không yêu, trước hết hãy cùng nhau đồng ý định nghĩa bản tính và sức mạnh của tình yêu, rồi sau đó, mắt luôn nhìn vào định nghĩa ấy và viện dẫn đến nó, chúng ta hãy tìm hiểu xem tình yêu đem lại lợi ích hay bất lợi."
+    },
+    {
+      "type": "p",
+      "text": "‘Ai cũng thấy rằng tình yêu là một dục vọng, và chúng ta cũng biết rằng những kẻ không yêu cũng khao khát cái đẹp và cái tốt. Vậy thì kẻ si tình khác kẻ không yêu ở chỗ nào? Hãy lưu ý rằng trong mỗi người chúng ta có hai nguyên lý dẫn dắt và cai trị, chúng đưa ta đi bất cứ đâu chúng muốn; một là dục vọng tự nhiên về khoái lạc, hai là một ý kiến đã thu nhận được, vươn tới điều tốt nhất; và hai nguyên lý này có khi hoà hợp, có khi giao chiến, và có khi cái này, có khi cái kia thắng thế. Khi ý kiến, nhờ sự trợ giúp của lý trí, dẫn ta tới điều tốt nhất, thì nguyên lý thắng thế ấy được gọi là tiết độ; nhưng khi dục vọng, thứ không có lý trí, cai trị trong ta và lôi ta tới khoái lạc, thì quyền lực vô kỷ luật ấy được gọi là sự buông thả. Nay sự buông thả có nhiều tên, nhiều chi, nhiều hình thức, và bất kỳ hình thức nào trong số đó, khi thật rõ nét, sẽ đặt cho kẻ mang nó một cái tên, không vinh dự cũng không đáng kính. Chẳng hạn, dục vọng ăn uống, khi thắng được lý trí cao hơn và các dục vọng khác, được gọi là sự háu ăn, và kẻ bị nó chiếm hữu được gọi là kẻ háu ăn; dục vọng uống rượu chuyên chế, khiến kẻ mang dục vọng ấy nghiêng về việc uống, có một cái tên quá rõ ràng, và cũng chẳng có gì phải nghi ngờ về việc bất kỳ dục vọng nào khác cùng họ hàng ấy sẽ được gọi bằng tên gì; — nó sẽ mang tên của thứ đang ngự trị. Và giờ tôi nghĩ anh sẽ nhận ra hướng đi của bài nói của tôi; nhưng vì mọi lời đã nói ra thì phần nào rõ hơn lời chưa nói, tôi nên nói thêm rằng dục vọng phi lý, thứ thắng được khuynh hướng của ý kiến về phía điều đúng, và bị những dục vọng cùng họ hàng với nó lôi đi tới việc hưởng thụ cái đẹp, nhất là cái đẹp của thân xác — dục vọng tối thượng ấy, tôi nói, thứ chinh phục bằng cách dẫn dắt và được củng cố bằng sức mạnh của đam mê, chính từ sức mạnh ấy mà nhận được một cái tên, được gọi là tình yêu (erromenos eros).’"
+    },
+    {
+      "type": "p",
+      "text": "Và giờ, Phaedrus thân mến, tôi sẽ ngừng một lát để hỏi xem anh có nghĩ rằng tôi, như tôi tự thấy, đang được thần hứng nhập không?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Vâng, Socrates, anh có vẻ có một dòng lời rất khác thường."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì hãy lắng nghe tôi trong im lặng; vì chắc chắn nơi này là nơi thiêng liêng; nên anh đừng lấy làm lạ, nếu khi tôi nói tiếp, tôi có vẻ đang trong cơn cuồng nộ thần thánh, vì tôi đã bắt đầu rơi vào thể dithyramb."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Không gì có thể đúng hơn."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Trách nhiệm thuộc về anh. Nhưng hãy nghe phần tiếp theo, và có lẽ cơn hứng sẽ qua đi; tất cả đều nằm trong tay các vị thần ở trên. Tôi sẽ tiếp tục nói với chàng trai trẻ của tôi. Hãy nghe: —"
+    },
+    {
+      "type": "p",
+      "text": "Vậy là, anh bạn ạ, chúng ta đã tuyên bố và định nghĩa bản tính của đề tài. Mắt giữ định nghĩa ấy, giờ hãy xét xem kẻ si tình hay kẻ không yêu có thể đem lại lợi ích hay bất lợi gì cho người chấp nhận lời ngỏ của họ."
+    },
+    {
+      "type": "p",
+      "text": "Kẻ là nạn nhân của đam mê và nô lệ của khoái lạc dĩ nhiên sẽ muốn làm cho người mình yêu trở nên dễ chịu với mình hết mức. Nay với kẻ có tâm trí bệnh hoạn, bất cứ điều gì không đối nghịch với mình đều dễ chịu, nhưng điều ngang bằng hay cao hơn thì đáng ghét, và vì thế kẻ si tình sẽ không chịu đựng được bất kỳ sự cao hơn hay ngang bằng nào nơi người mình yêu; anh ta luôn bận rộn hạ thấp người ấy xuống. Và kẻ dốt thì thấp hơn kẻ khôn, kẻ nhút nhát thấp hơn kẻ dũng cảm, kẻ nói chậm thấp hơn kẻ nói giỏi, kẻ tối dạ thấp hơn kẻ lanh lợi. Đó, và không chỉ có thế, là những khuyết điểm tinh thần của người được yêu; — những khuyết điểm mà khi do tự nhiên gieo vào thì tất yếu là niềm vui cho kẻ si tình, còn khi không được gieo vào, anh ta phải tìm cách gieo chúng vào người ấy, nếu không muốn bị tước mất niềm vui chóng tàn của mình. Và vì thế anh ta không thể không ghen, và sẽ ngăn người mình yêu hưởng những lợi thế của xã hội, những thứ có thể làm người ấy thành một con người, và nhất là thứ xã hội có thể ban cho người ấy sự khôn ngoan, và do đó anh ta không thể không làm hại người ấy rất nhiều. Nghĩa là, vì quá sợ bị người ấy khinh rẻ trong mắt mình, anh ta sẽ buộc phải đuổi triết học thần thánh ra khỏi người ấy; và không có tổn thương nào lớn hơn thế mà anh ta có thể gây ra. Anh ta sẽ xoay xở để người mình yêu hoàn toàn dốt nát, và trong mọi việc chỉ nhìn vào anh ta; người ấy sẽ là niềm vui của lòng kẻ si tình, và là lời nguyền cho chính mình. Thật vậy, một kẻ si tình là một người giám hộ và bạn đồng hành có lợi cho người ấy trong mọi việc liên quan đến tâm trí."
+    },
+    {
+      "type": "p",
+      "text": "Tiếp theo hãy xem ông chủ ấy, kẻ lấy khoái lạc chứ không lấy điều tốt làm luật sống, sẽ giữ gìn và rèn luyện thân xác người hầu của mình thế nào. Chẳng phải anh ta sẽ chọn một người yêu mảnh khảnh hơn là rắn rỏi và khoẻ mạnh sao? Một người được nuôi trong những vòm cây râm mát chứ không dưới nắng sáng, xa lạ với những bài tập của đàn ông và mồ hôi lao nhọc, chỉ quen với một chế độ ăn uống mềm mại và xa hoa, thay vì sắc màu của sức khoẻ lại có màu của phấn son và đồ trang sức, và phần còn lại cũng cùng một kiểu? — một cuộc đời mà ai cũng có thể hình dung và tôi không cần kể dài. Nhưng tôi có thể tóm tất cả những gì tôi phải nói trong một lời, rồi đi tiếp. Một con người như thế, trong chiến tranh, hay trong bất kỳ cơn khủng hoảng lớn nào của đời sống, sẽ là nỗi lo của bạn bè và cả của kẻ si tình, và chắc chắn không phải là nỗi khiếp sợ của kẻ thù; điều ấy không ai có thể phủ nhận."
+    },
+    {
+      "type": "p",
+      "text": "Và giờ hãy nói xem người được yêu sẽ nhận được lợi ích hay bất lợi gì từ sự giám hộ và sự đồng hành của kẻ si tình trong vấn đề tài sản của mình; đây là điểm tiếp theo cần xét. Kẻ si tình sẽ là người đầu tiên thấy điều mà thật ra ai cũng thấy đủ rõ, rằng trên hết mọi thứ, anh ta muốn tước khỏi người mình yêu những thứ quý nhất, tốt nhất và thiêng liêng nhất: cha, mẹ, họ hàng, bạn bè, tất cả những kẻ mà anh ta cho là có thể cản trở hay chê trách cuộc trò chuyện ngọt ngào nhất của họ; anh ta thậm chí sẽ nhìn với con mắt ghen tị vào vàng bạc hay tài sản khác của người ấy, vì những thứ ấy khiến người ấy khó bị bắt hơn, và khi đã bị bắt thì khó điều khiển hơn; do đó tất yếu anh ta không vui khi người ấy có chúng và mừng khi người ấy mất chúng; và anh ta cũng muốn người ấy không vợ, không con, không nhà; và càng lâu càng tốt, vì người ấy càng lâu như thế thì anh ta càng được hưởng người ấy lâu."
+    },
+    {
+      "type": "p",
+      "text": "Có một số loài vật, như những kẻ nịnh hót, đủ nguy hiểm và tai hại, vậy mà tự nhiên đã pha vào bản tính chúng một khoái lạc và duyên dáng tạm thời. Anh có thể nói rằng một kỹ nữ là có hại, và không tán thành những sinh vật ấy cùng những thói ấy, vậy mà trong lúc ấy chúng rất dễ chịu. Nhưng kẻ si tình không chỉ có hại cho mối tình của mình; anh ta còn là một người bạn đồng hành cực kỳ khó chịu. Tục ngữ xưa nói rằng ‘chim cùng lông thì tụ với nhau’; tôi cho rằng sự ngang nhau về tuổi tác khiến người ta nghiêng về cùng những khoái lạc, và sự tương đồng sinh ra tình bạn; vậy mà ngay cả thứ ấy anh cũng có thể có quá nhiều; và thật vậy, người ta vẫn nói rằng sự gò bó thì luôn nặng nề. Nay kẻ si tình không chỉ khác người mình yêu, mà còn tự áp đặt mình lên người ấy. Vì anh ta già còn tình yêu của anh ta thì trẻ, và anh ta sẽ không rời người ấy ngày cũng như đêm nếu có thể; sự cần thiết và nọc độc của dục vọng thúc đẩy anh ta, và quyến rũ anh ta bằng khoái lạc mà anh ta nhận được khi nhìn, nghe, chạm, cảm nhận người ấy bằng mọi cách. Và vì thế anh ta thích bám lấy người ấy và hầu hạ người ấy. Nhưng suốt thời gian ấy, người được yêu nhận được khoái lạc hay an ủi gì? Chẳng lẽ người ấy không cảm thấy nỗi ghê tởm tột độ khi nhìn một khuôn mặt già nua nhăn nheo cùng phần còn lại cũng xứng với nó, thứ mà ngay khi được mô tả cũng đã khó chịu, và hoàn toàn đáng ghét khi người ấy buộc phải tiếp xúc hằng ngày với kẻ si tình; hơn nữa người ấy còn bị canh chừng ghen tuông và bị giam giữ trước mọi thứ và mọi người, và phải nghe những lời khen ngợi lệch lạc và phóng đại về chính mình, cùng những lời chê trách cũng lệch lạc không kém, những thứ không thể chịu nổi khi người ta tỉnh táo, và, ngoài việc không thể chịu nổi, còn được công bố khắp thiên hạ trong tất cả sự thô thiển và mệt mỏi của chúng khi người ta say."
+    },
+    {
+      "type": "p",
+      "text": "Và anh ta không chỉ tai hại và khó chịu trong khi tình yêu còn, mà khi tình yêu chấm dứt, anh ta trở thành kẻ thù phản bội của chính người mà anh ta đã tuôn ra những lời thề, lời cầu xin và lời hứa, vậy mà khó lòng thuyết phục được người ấy chịu đựng sự buồn chán vì có anh ta, ngay cả vì động cơ lợi ích. Giờ trả nợ đến, và anh ta là đầy tớ của một ông chủ khác; thay cho tình yêu và sự mê muội, sự khôn ngoan và tiết độ làm chủ lòng anh ta; nhưng người được yêu chưa phát hiện ra sự thay đổi đã xảy ra nơi anh ta, khi người ấy đòi hỏi sự đền đáp và nhắc lại những lời nói việc làm xưa; người ấy tin rằng mình đang nói với cùng một người, còn người kia, không đủ can đảm thú nhận sự thật, và không biết cách làm tròn những lời thề và lời hứa mà mình đã nói khi còn bị sự điên rồ cai trị, và giờ đã trở nên khôn ngoan và tiết độ, thì không muốn làm như trước hay là con người như trước. Và thế là anh ta bỏ chạy và buộc phải thành kẻ quỵt nợ; vỏ hàu (ý nói đến một trò chơi trong đó hai bên chạy trốn hay đuổi theo tuỳ theo vỏ hàu ném lên trời rơi xuống với mặt tối hay mặt sáng ở trên.) đã rơi xuống với mặt kia ở trên — anh ta đổi việc đuổi thành việc chạy trốn, trong khi người kia buộc phải đuổi theo anh ta với đam mê và lời nguyền rủa, không biết rằng ngay từ đầu mình lẽ ra không bao giờ nên chấp nhận một kẻ si tình điên dại thay vì một kẻ không yêu biết điều; và rằng khi lựa chọn như thế, người ấy đã phó mình cho một sinh vật bất tín, cau có, ghen tị, khó chịu, có hại cho gia sản, có hại cho sức khoẻ thân xác, và còn có hại hơn nữa cho việc vun trồng tâm trí, thứ mà không có gì và sẽ không bao giờ có gì được tôn trọng hơn trong mắt cả thần linh lẫn con người. Hãy xét điều này, hỡi chàng trai xinh đẹp, và biết rằng trong tình bạn của kẻ si tình không có sự tử tế thật sự; anh ta có một thứ thèm khát và muốn ăn thịt anh:"
+    },
+    {
+      "type": "p",
+      "text": "‘Như sói yêu cừu non, kẻ si tình yêu người mình yêu.’"
+    },
+    {
+      "type": "p",
+      "text": "Nhưng tôi đã bảo anh rồi, tôi đang nói bằng thơ, và vì thế tốt hơn là tôi kết thúc; đủ rồi."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi tưởng anh mới đi được nửa đường và định làm một bài diễn văn tương tự về mọi lợi ích của việc chấp nhận kẻ không yêu. Sao anh không nói tiếp?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Sự ngây thơ của anh không nhận thấy rằng tôi đã ra khỏi thể dithyramb mà sang thể anh hùng, khi chỉ mới thốt ra một lời chê trách kẻ si tình sao? Và nếu tôi phải thêm vào những lời ca ngợi kẻ không yêu thì tôi sẽ ra sao? Anh không thấy rằng tôi đã bị các Nymph bắt mất rồi, những nàng mà anh đã tinh quái đẩy tôi vào tay họ? Và vì thế tôi sẽ chỉ thêm rằng kẻ không yêu có tất cả những ưu điểm mà người ta buộc tội kẻ si tình là thiếu. Và giờ tôi sẽ không nói nữa; đã đủ cho cả hai bên. Mặc câu chuyện cho số phận nó, tôi sẽ qua sông và tìm đường về nhà cho tốt nhất, kẻo anh lại giáng cho tôi một điều còn tệ hơn."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Chưa đâu, Socrates; chưa cho đến khi cái nóng ban ngày qua đi; anh không thấy rằng giờ đã gần trưa sao? Mặt trời đứng bóng, như người ta nói, ngay giữa thiên đỉnh. Ta hãy ở lại và bàn về những gì đã nói, rồi khi mát mới về."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tình yêu lời nói của anh, Phaedrus ạ, thật là siêu phàm, đơn giản là kỳ diệu, và tôi không tin rằng có ai trong những người cùng thời với anh đã làm, hay bằng cách này cách khác đã buộc người khác làm, một số lượng bài diễn văn ngang thế. Tôi sẽ trừ Simmias người Thebes, còn tất cả những người khác thì xa sau anh lắm. Và giờ tôi thật sự tin rằng anh đã là nguyên nhân của thêm một bài nữa."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tin tốt đấy. Nhưng anh muốn nói gì?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Ý tôi muốn nói rằng khi tôi sắp qua suối thì dấu hiệu thường lệ đã hiện ra với tôi, — dấu hiệu ấy luôn ngăn cản, nhưng không bao giờ thúc giục tôi làm bất cứ điều gì tôi đang định làm; và tôi tưởng mình nghe một giọng nói bên tai rằng tôi đã phạm tội bất kính, và rằng tôi không được bỏ đi cho đến khi đã chuộc tội. Nay tôi là một nhà tiên tri, dẫu không giỏi lắm, nhưng tôi có đủ tín ngưỡng cho riêng mình, như người ta có thể nói về một người viết dở — bài viết của ông ấy đủ tốt cho chính ông ấy; và tôi bắt đầu thấy rằng mình đã lầm. Ôi bạn tôi, linh hồn con người tiên tri biết bao! Lúc ấy tôi có một linh cảm mơ hồ, và, như Ibycus, ‘tôi băn khoăn; tôi sợ rằng mình có thể đang mua lấy danh vọng nơi người đời bằng giá phạm tội với các thần.’ Giờ tôi nhận ra lỗi của mình."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Lỗi gì?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Bài diễn văn anh mang theo thật là một bài kinh khủng, và anh đã khiến tôi thốt ra một bài cũng tệ như thế."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Sao lại thế?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Nó điên rồ, tôi nói thế, — và ở một mức nào đó, bất kính; còn gì kinh khủng hơn được?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Không gì cả, nếu bài diễn văn thật đúng như anh mô tả."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì, Eros chẳng phải là con của Aphrodite, và là một vị thần sao?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Người ta nói thế."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Nhưng điều ấy đã không được Lysias thừa nhận trong bài diễn văn của ông ấy, cũng không được anh thừa nhận trong bài kia, bài mà anh đã dùng một câu thần chú để rút ra từ môi tôi. Vì nếu tình yêu là — như chắc chắn nó là — một vị thần, thì nó không thể là xấu. Vậy mà đó chính là lỗi của cả hai bài. Ở chúng còn có một sự ngây thơ khiến người ta thấy sảng khoái; chúng không có sự thật hay sự ngay thẳng nào, vậy mà vẫn làm ra vẻ có gì đó, hy vọng lừa được lũ người tí hon trên mặt đất và giành được danh tiếng trong đám họ. Vì thế tôi phải có một sự tẩy uế. Và tôi nhớ đến một sự tẩy uế cổ xưa đối với lỗi lầm thần thoại, thứ không phải do Homer nghĩ ra, vì ông ấy chưa bao giờ đủ trí để khám phá vì sao mình bị mù, mà do Stesichorus, một nhà triết học đã biết rõ lý do; và vì thế, khi ông ấy mất đôi mắt, đó là hình phạt giáng xuống ông vì đã lăng mạ Helen xinh đẹp, ông ấy lập tức tự tẩy uế. Và sự tẩy uế ấy là một bài ca phản bác, bắt đầu như sau, —"
+    },
+    {
+      "type": "p",
+      "text": "‘Sai rồi lời ta nói — sự thật là ngươi đã không xuống thuyền, cũng chưa từng đến tường thành Troy;’"
+    },
+    {
+      "type": "p",
+      "text": "và khi ông ấy hoàn thành bài thơ ấy, bài được gọi là ‘bài ca phản bác’, thì ngay lập tức thị lực trở lại với ông. Giờ tôi sẽ khôn ngoan hơn cả Stesichorus lẫn Homer, ở chỗ tôi sẽ làm bài ca phản bác vì đã lăng mạ tình yêu trước khi bị trừng phạt; và điều này tôi sẽ thử, không như trước, che mặt và xấu hổ, mà với vầng trán ngẩng cao và trần trụi."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Không gì có thể làm tôi vui hơn là nghe anh nói thế."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Anh thử nghĩ xem, Phaedrus hiền lành của tôi, hai bài diễn văn ấy đã bộc lộ sự thiếu tế nhị đến mức nào; tôi muốn nói bài của tôi và bài anh đọc ra từ cuốn sách. Chẳng lẽ một người có bản tính cao thượng và dịu dàng, người đang yêu hay từng yêu một bản tính giống mình, khi nghe chúng ta kể những nguyên cớ nhỏ mọn của sự ghen tuông nơi kẻ si tình, những thù hằn quá mức của họ, và những tổn thương họ gây cho người mình yêu, lại không tưởng tượng rằng quan niệm của chúng ta về tình yêu được lấy từ một xó tối nào đó của đám thuỷ thủ, nơi người ta không biết đến phép lịch sự — hẳn người ấy sẽ không bao giờ thừa nhận lời chê trách của chúng ta là công bằng?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi dám nói là không, Socrates ạ."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vì thế, bởi tôi đỏ mặt khi nghĩ đến con người ấy, và cũng bởi tôi sợ chính thần Tình Yêu, tôi muốn rửa sạch vị mặn khỏi đôi tai bằng nước từ con suối; và tôi muốn khuyên Lysias đừng chậm trễ, mà hãy viết một bài diễn văn khác, bài sẽ chứng minh rằng ‘ceteris paribus’ kẻ si tình đáng được chấp nhận hơn kẻ không yêu."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Hãy tin chắc rằng ông ấy sẽ viết. Anh sẽ nói những lời ca ngợi kẻ si tình, và Lysias sẽ bị tôi buộc phải viết một bài diễn văn khác về cùng đề tài."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Anh sẽ trung thành với bản tính của mình trong việc ấy, và vì thế tôi tin anh."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh nói đi, và đừng sợ."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Nhưng chàng trai xinh đẹp mà tôi đã nói với khi trước, và giờ đây nên lắng nghe, đang ở đâu; kẻo nếu chàng không nghe tôi, chàng sẽ chấp nhận một kẻ không yêu trước khi biết mình đang làm gì?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Chàng ở ngay gần đây, và luôn sẵn sàng nghe anh."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì hãy biết, hỡi chàng trai xinh đẹp, rằng bài diễn văn trước là lời của Phaedrus, con trai của Kẻ Hão Huyền, người cư ngụ tại thành Myrrhina. Còn bài tôi sắp nói đây là bài ca phản bác của Stesichorus, con trai của Kẻ Sùng Đạo, người đến từ thị trấn Khát Vọng, và có nội dung như sau: ‘Ta đã nói dối khi ta nói’ rằng người được yêu nên chấp nhận kẻ không yêu trong khi có thể có kẻ si tình, vì một bên thì tỉnh táo, còn bên kia thì điên. Điều ấy có thể đúng nếu sự điên rồ chỉ đơn thuần là một điều xấu; nhưng cũng có một thứ điên rồ là món quà của thần linh, và là nguồn của những phúc lành lớn nhất ban cho con người. Vì lời tiên tri là một sự điên rồ, và nữ tiên tri ở Delphi cùng các nữ tư tế ở Dodona, khi ra khỏi trí tuệ thường ngày, đã đem lại những lợi ích lớn cho Hellas, cả trong đời sống công cộng lẫn riêng tư, nhưng khi còn tỉnh táo thì ít hoặc không có gì. Và tôi cũng có thể kể cho anh nghe việc Sibyl và những người được thần hứng khác đã đưa ra cho bao người bao điềm báo về tương lai, những điềm báo đã cứu họ khỏi sụp đổ. Nhưng kể về những điều ai cũng biết thì sẽ dài dòng."
+    },
+    {
+      "type": "p",
+      "text": "Sẽ có lý hơn khi viện đến những người xưa đã đặt ra các tên gọi (so sánh Cratylus), những người sẽ không bao giờ nối lời tiên tri (mantike), thứ báo trước tương lai và là nghệ thuật cao quý nhất, với sự điên rồ (manike), hay gọi cả hai bằng cùng một tên, nếu họ coi sự điên rồ là điều ô nhục hay mất danh dự; — hẳn họ đã nghĩ rằng có một thứ điên rồ do thần hứng và đó là điều cao quý; vì hai từ ấy, mantike và manike, thật ra là một, và chữ tau chỉ là một thêm vào mới mẻ và vô vị. Và điều này được xác nhận bởi cái tên mà họ đặt cho việc tìm hiểu tương lai bằng lý trí, dù là nhờ chim chóc hay nhờ những dấu hiệu khác — việc này, vì là một nghệ thuật cung cấp cho tư tưởng con người (oiesis) trí tuệ (nous) và thông tin (istoria) từ năng lực lý luận, nên ban đầu họ gọi là oionoistike, nhưng từ ấy gần đây đã bị biến đổi và làm cho vang lên nhờ việc đưa chữ Omega vào theo thời mới (oionoistike và oionistike), và theo mức độ mà lời tiên tri (mantike) hoàn hảo và uy nghi hơn việc đoán điềm, cả về tên gọi lẫn thực tế, thì cũng theo mức ấy, như người xưa làm chứng, sự điên rồ cao hơn một trí tuệ tỉnh táo (sophrosune), vì một bên chỉ có nguồn gốc con người, còn bên kia có nguồn gốc thần linh. Lại nữa, ở đâu bệnh dịch và những tai hoạ lớn nhất đã sinh ra trong một số gia tộc, do một món nợ máu từ xưa, thì ở đó sự điên rồ đã đi vào cùng những lời cầu nguyện và nghi lễ thiêng liêng, và bằng những lời được thần hứng đã tìm ra con đường giải thoát cho những ai đang cần; và kẻ có phần trong món quà ấy, thật sự bị chiếm hữu và đúng mức ra khỏi trí tuệ thường ngày, thì nhờ những sự thanh tẩy và những nghi lễ huyền bí mà được lành và thoát khỏi điều xấu, cả tương lai lẫn hiện tại, và được giải thoát khỏi tai ương đang hành hạ mình. Loại thứ ba là sự điên rồ của những người bị các nàng Muses chiếm hữu; sự ấy, khi bắt lấy một linh hồn mảnh mai và còn trinh bạch, và gieo vào đó cơn cuồng nhiệt, thì đánh thức mọi nhịp điệu trữ tình và mọi nhịp điệu khác; với những nhịp điệu ấy, nó tô điểm muôn vàn hành động của những người anh hùng xưa để giáo huấn hậu thế. Nhưng kẻ không có chút gì của sự điên rồ Muses trong linh hồn, mà đến trước cửa và tưởng rằng mình sẽ vào được đền thờ nhờ nghệ thuật — kẻ ấy, tôi nói, và thơ của hắn đều không được nhận; con người tỉnh táo ấy biến mất và chẳng là gì khi hắn bước vào cuộc đua với kẻ điên."
+    },
+    {
+      "type": "p",
+      "text": "Tôi có thể kể nhiều hành động cao quý khác đã sinh ra từ sự điên rồ do thần hứng. Và vì thế, đừng ai làm chúng ta sợ hãi hay bối rối bằng cách nói rằng người bạn tiết độ đáng được chọn hơn người được thần hứng, mà hãy để kẻ ấy chứng minh thêm rằng tình yêu không do các thần gửi đến vì lợi ích nào cho kẻ si tình hay người được yêu; nếu kẻ ấy làm được như thế, chúng ta sẽ để hắn giành lấy cành cọ. Còn phần chúng ta, chúng ta sẽ chứng minh để đáp lại rằng sự điên rồ của tình yêu là phúc lành lớn nhất của trời, và chứng minh ấy sẽ là thứ mà người khôn ngoan sẽ chấp nhận, còn kẻ nông cạn thì không tin. Nhưng trước hết, hãy nhìn vào những tình cảm và hành động của linh hồn, cả thần linh lẫn con người, và thử xác định sự thật về chúng. Khởi đầu của chứng minh ấy như sau: —"
+    },
+    {
+      "type": "p",
+      "text": "(Bản dịch của Cicero, *Tusculanae Quaestiones*.) Linh hồn, trong toàn thể bản tính mình, là bất tử, vì thứ luôn luôn chuyển động thì bất tử; còn thứ làm chuyển động vật khác và bị vật khác làm chuyển động, khi ngừng chuyển động thì cũng ngừng sống. Chỉ có thứ tự chuyển động, không bao giờ rời bỏ chính mình, là không bao giờ ngừng chuyển động, và là nguồn suối cùng khởi nguyên của chuyển động cho mọi thứ khác đang chuyển động. Nay khởi nguyên thì không được sinh ra, vì thứ được sinh ra thì có một khởi nguyên; nhưng khởi nguyên thì không được sinh ra từ gì cả, vì nếu nó được sinh ra từ một cái gì đó, thì cái được sinh ra đã không đến từ một khởi nguyên. Nhưng nếu không được sinh ra, thì nó cũng phải không thể bị huỷ diệt; vì nếu khởi nguyên bị huỷ diệt, thì sẽ không có khởi nguyên nào ra từ bất cứ thứ gì, cũng không có thứ gì ra từ một khởi nguyên; mà mọi vật thì phải có một khởi nguyên. Và vì thế thứ tự chuyển động là khởi nguyên của chuyển động; và khởi nguyên ấy không thể bị huỷ diệt cũng không thể được sinh ra, nếu không thì toàn bộ trời đất và mọi tạo vật sẽ sụp đổ và đứng yên, và sẽ không bao giờ còn chuyển động hay sinh thành nữa. Nhưng nếu thứ tự chuyển động đã được chứng minh là bất tử, thì kẻ khẳng định rằng tự chuyển động chính là ý niệm và bản thể của linh hồn sẽ không bị bối rối. Vì thân xác bị làm chuyển động từ bên ngoài thì không có linh hồn; còn thứ được làm chuyển động từ bên trong thì có linh hồn, vì bản tính của linh hồn là thế. Nhưng nếu điều ấy đúng, thì chẳng phải linh hồn phải là thứ tự chuyển động, và do đó tất yếu không được sinh ra và bất tử sao? Đủ về sự bất tử của linh hồn."
+    },
+    {
+      "type": "p",
+      "text": "Về bản tính của linh hồn, dẫu hình thức thật của nàng luôn là đề tài cho một bài diễn văn lớn lao và vượt quá sức người, hãy để tôi nói vắn tắt, và bằng một hình ảnh. Và hãy để hình ảnh ấy là một hình ảnh ghép — một đôi ngựa có cánh và một người đánh xe. Nay những con ngựa có cánh và những người đánh xe của các thần đều cao quý và thuộc dòng cao quý, còn của các giống khác thì pha tạp; người đánh xe của loài người điều khiển một đôi ngựa; và một con trong đó cao quý và thuộc giống cao quý, con kia thì hèn kém và thuộc giống hèn kém; và việc điều khiển chúng tất yếu đem lại cho người ấy rất nhiều phiền toái. Tôi sẽ cố giải thích cho anh xem sinh vật phàm tục khác với sinh vật bất tử ở chỗ nào. Linh hồn, trong toàn thể của mình, chăm sóc cái không có sinh mệnh ở khắp mọi nơi, và đi khắp cả trời dưới nhiều hình thức khác nhau — khi hoàn hảo và đủ cánh thì nàng bay lên, và sắp đặt cả thế giới; còn linh hồn bất toàn, mất cánh và rũ xuống trong khi bay, cuối cùng đáp xuống nền đất vững chắc — ở đó, tìm được một chỗ trú, nàng nhận lấy một thân xác trần gian, thứ có vẻ tự chuyển động nhưng thật ra được chuyển động bởi sức mạnh của nàng; và sự kết hợp linh hồn với thân xác ấy được gọi là một sinh vật sống và phải chết. Vì không ai có thể tin một cách hợp lý rằng có sự kết hợp bất tử như thế; dẫu rằng trí tưởng tượng, vì chưa từng thấy và chưa thật sự biết bản tính của Thượng đế, có thể hình dung một sinh vật bất tử vừa có thân xác vừa có linh hồn, kết hợp với nhau suốt mọi thời gian. Nhưng hãy để điều ấy theo ý Thượng đế, và được nói ra cách nào đẹp lòng Người. Và giờ hãy hỏi lý do vì sao linh hồn mất cánh!"
+    },
+    {
+      "type": "p",
+      "text": "Cánh là phần thuộc thân xác gần với thần linh nhất, và theo tự nhiên có khuynh hướng bay cao và mang thứ nặng trĩu xuống dưới lên miền trên, nơi là chỗ ở của các thần. Thần linh là cái đẹp, sự khôn ngoan, sự tốt lành, và những thứ tương tự; và nhờ những thứ ấy, cánh của linh hồn được nuôi dưỡng và lớn nhanh; nhưng khi được nuôi bằng điều xấu, sự ô uế và những thứ đối nghịch với điều tốt, thì nó hao mòn và rụng đi. Zeus, vị chúa tể quyền năng, cầm dây cương của một cỗ xe có cánh, dẫn đường trên trời, sắp đặt mọi thứ và chăm sóc mọi thứ; và theo sau Người là đội ngũ các thần và bán thần, dàn thành mười một đoàn; chỉ riêng Hestia ở lại nhà trong ngôi nhà của trời; còn những vị trong số còn lại được tính vào mười hai vị chủ chốt thì tiến bước theo thứ tự đã định. Họ thấy nhiều cảnh tượng phúc lạc trong miền trời bên trong, và có nhiều con đường đi lại, dọc theo đó các vị thần phúc lạc đi qua, mỗi vị làm công việc của mình; ai muốn và có thể thì đi theo, vì sự ghen tị không có chỗ trong ca đoàn thiên giới. Nhưng khi họ đi dự tiệc và lễ hội, thì họ tiến lên theo dốc đứng tới đỉnh vòm trời. Những cỗ xe của các thần, thăng bằng vững vàng, tuân theo dây cương, lướt đi nhanh chóng; còn những cỗ xe khác thì vất vả, vì con ngựa xấu đi nặng nề, kéo người đánh xe xuống đất khi con ngựa của anh ta chưa được rèn luyện kỹ: — và đây là giờ phút đau đớn và cuộc xung đột khốc liệt nhất của linh hồn. Vì các vị bất tử, khi tới cuối hành trình, thì đi ra và đứng bên ngoài trời, và vòng xoay của các thiên cầu mang họ đi vòng quanh, và họ nhìn thấy những thứ ở bên kia. Nhưng về miền trời ở trên các tầng trời, có nhà thơ trần gian nào đã từng hay sẽ từng ca ngợi cho xứng? Nó là như tôi sẽ mô tả; vì tôi phải dám nói sự thật, khi sự thật là đề tài của tôi. Ở đó ngự trị chính cái hữu thể mà tri thức chân thật quan tâm; bản thể không màu, không hình, không thể chạm, chỉ hiển hiện với trí tuệ, vị hoa tiêu của linh hồn. Trí tuệ thần linh, được nuôi bằng trí tuệ và tri thức thuần khiết, cùng trí tuệ của mọi linh hồn có khả năng tiếp nhận thứ lương thực thích hợp với mình, thì vui mừng khi nhìn thấy thực tại, và một lần nữa chiêm ngưỡng sự thật, được bồi đắp và được làm cho vui sướng, cho đến khi vòng xoay của các thế giới mang nàng trở lại cùng một chỗ. Trong vòng xoay ấy, nàng nhìn thấy công lý, sự tiết độ, và tri thức tuyệt đối, không phải dưới hình thức sinh thành hay tương quan, thứ mà người ta gọi là tồn tại, mà là tri thức tuyệt đối trong tồn tại tuyệt đối; và nhìn thấy những hữu thể chân thật khác cũng theo cách ấy, và được no đủ nhờ chúng, nàng đi xuống vào bên trong các tầng trời và trở về nhà; và ở đó người đánh xe cho ngựa vào chuồng, cho chúng ăn ambrosia và uống nectar."
+    },
+    {
+      "type": "p",
+      "text": "Đó là đời sống của các thần; còn với những linh hồn khác, linh hồn nào theo Thượng đế giỏi nhất và giống Người nhất thì nâng đầu người đánh xe lên thế giới bên ngoài, và được mang đi vòng trong vòng xoay, tuy có bị lũ ngựa quấy rầy, và khó khăn lắm mới nhìn thấy hữu thể chân thật; trong khi linh hồn khác chỉ lên rồi xuống, thấy rồi lại không thấy, vì lũ ngựa không chịu khuôn phép. Những linh hồn còn lại cũng khao khát miền trên và đều đi theo, nhưng vì không đủ mạnh nên bị mang đi vòng bên dưới mặt nước, chúi xuống, giẫm lên nhau, mỗi nàng cố chen lên trước; và có sự hỗn loạn, mồ hôi và nỗ lực tột cùng; và nhiều nàng bị què hay bị gãy cánh vì những người đánh xe điều khiển tồi; và tất cả họ, sau một cuộc nhọc nhằn vô ích, không đạt tới những huyền nhiệm của hữu thể chân thật, thì bỏ đi, và ăn bằng ý kiến. Lý do khiến các linh hồn tỏ ra háo hức quá mức như thế trong việc nhìn thấy cánh đồng sự thật là vì ở đó có đồng cỏ thích hợp cho phần cao nhất của linh hồn; và cánh mà linh hồn bay lên được nuôi bằng thứ ấy. Và có một luật của Định mệnh rằng linh hồn nào đạt được một sự nhìn thấy sự thật nào đó cùng với một vị thần thì được giữ khỏi tai hại cho đến kỳ sau, và nếu luôn luôn đạt được thì luôn luôn không bị hại. Nhưng khi nàng không thể đi theo, và không nhìn thấy sự thật, và vì một sự rủi ro nào đó chìm xuống dưới gánh nặng kép của sự quên lãng và sự xấu, và cánh rụng khỏi nàng và nàng rơi xuống đất, thì luật ấy định rằng linh hồn này, ở lần sinh đầu tiên, sẽ không đi vào bất kỳ loài vật nào khác, mà chỉ đi vào con người; và linh hồn nào đã nhìn thấy nhiều sự thật nhất thì sẽ ra đời như một nhà triết học, hay một nghệ sĩ, hay một bản tính yêu nhạc và yêu thương; linh hồn nào đã nhìn thấy sự thật ở mức thứ hai thì sẽ là một vị vua công chính hay một thủ lĩnh chiến binh; linh hồn thuộc hạng thứ ba thì sẽ là một chính khách, hay một nhà quản gia, hay một thương nhân; hạng thứ tư thì sẽ là kẻ yêu những lao nhọc thể dục, hay một thầy thuốc; hạng thứ năm thì sẽ sống đời của một nhà tiên tri hay một thầy tế lễ tối cao; hạng thứ sáu sẽ được gán cho tính cách của nhà thơ hay một nghệ sĩ bắt chước nào khác; hạng thứ bảy thì đời của một người thợ thủ công hay nông dân; hạng thứ tám thì đời của một nhà ngụy biện hay một kẻ mị dân; hạng thứ chín thì đời của một bạo chúa — tất cả những ấy là những trạng thái thử thách, trong đó kẻ làm điều công chính thì tiến bộ, còn kẻ làm điều bất công thì làm cho phần số của mình xấu đi."
+    },
+    {
+      "type": "p",
+      "text": "Mười ngàn năm phải trôi qua trước khi linh hồn của mỗi người có thể trở về chỗ mà nàng đã ra đi, vì nàng không thể mọc cánh trong thời gian ngắn hơn; chỉ linh hồn của một nhà triết học, không toan tính và chân thật, hay linh hồn của một kẻ si tình mà không hoàn toàn xa lạ với triết học, mới có thể có cánh trong kỳ thứ ba của những chu kỳ một ngàn năm; người ấy khác với người tốt bình thường, kẻ phải ba ngàn năm mới có cánh: — và ai chọn đời sống này ba lần liên tiếp thì được ban cánh, và ra đi vào cuối ba ngàn năm. Còn những linh hồn khác (chỉ riêng nhà triết học là không phải chịu sự phán xét (krisis), vì ông ấy chưa bao giờ đánh mất sự nhìn thấy sự thật.) thì chịu sự phán xét khi đã hoàn tất đời sống đầu tiên, và sau sự phán xét họ đi, một số tới những nhà cải huấn ở dưới lòng đất, và bị trừng phạt; những người khác tới một nơi nào đó trên trời, nơi họ được công lý mang đi một cách nhẹ nhàng, và ở đó họ sống một cách xứng với đời sống mà họ đã sống ở đây khi còn mang hình người. Và vào cuối ngàn năm đầu, cả những linh hồn tốt lẫn những linh hồn xấu đều đến rút thăm và chọn đời sống thứ hai của mình, và họ có thể chọn bất kỳ đời nào họ muốn. Linh hồn của một người có thể đi vào đời sống của một con vật, hay từ con vật trở lại thành người. Nhưng linh hồn nào chưa bao giờ nhìn thấy sự thật thì sẽ không đi vào hình thức con người. Vì con người phải có trí tuệ về những cái phổ quát, và có thể đi từ nhiều cái riêng lẻ của giác quan tới một quan niệm của lý trí; — đó là sự hồi tưởng về những thứ mà linh hồn chúng ta đã từng thấy khi đi theo Thượng đế — khi nàng, bất kể thứ mà nay ta gọi là tồn tại, ngẩng đầu lên hướng về hữu thể chân thật. Và vì thế chỉ trí tuệ của nhà triết học là có cánh; và điều ấy công bằng, vì ông ấy luôn luôn, theo mức khả năng của mình, bám chặt trong hồi tưởng vào những thứ mà Thượng đế ngự trị, và khi nhìn thấy chúng thì Người là như Người là. Và kẻ sử dụng đúng những ký ức ấy thì luôn được điểm đạo vào những huyền nhiệm hoàn hảo và chỉ mình kẻ ấy trở nên thật sự hoàn hảo. Nhưng vì ông ấy quên những lợi ích trần gian và bị cuốn vào cõi thần linh, kẻ phàm tục cho ông ấy là điên, và chê trách ông ấy; họ không thấy rằng ông ấy đang được thần hứng."
+    },
+    {
+      "type": "p",
+      "text": "Tới đây tôi đã nói về loại điên rồ thứ tư và cuối cùng, thứ được gán cho kẻ, khi nhìn thấy cái đẹp trên mặt đất, thì bị cuốn đi bởi sự hồi tưởng về cái đẹp chân thật; anh ta muốn bay đi, nhưng không thể; anh ta như một con chim vỗ cánh và nhìn lên, không màng đến thế giới bên dưới; và vì thế người ta cho anh ta là điên. Và tôi đã chứng minh rằng trong mọi sự thần hứng, đây là sự cao quý nhất, cao cả nhất và là con đẻ của đấng cao cả nhất, đối với kẻ có được hay chia sẻ nó, và rằng kẻ yêu cái đẹp được gọi là kẻ si tình vì anh ta có phần trong nó. Vì, như đã nói, mọi linh hồn con người theo lẽ tự nhiên đều đã từng nhìn thấy hữu thể chân thật; đó là điều kiện để nàng đi vào hình thức con người. Nhưng không phải mọi linh hồn đều dễ dàng hồi tưởng những thứ của thế giới bên kia; có thể họ chỉ nhìn thấy chúng trong một thời gian ngắn, hoặc có thể họ đã gặp vận rủi trong phần số trần gian của mình, và, vì trái tim bị hướng về sự bất công bởi một ảnh hưởng đồi bại nào đó, họ có thể đã mất ký ức về những thứ thiêng liêng mà họ từng thấy. Chỉ một số ít giữ được sự hồi tưởng thoả đáng về chúng; và họ, khi nhìn thấy ở đây bất kỳ hình ảnh nào của thế giới bên kia, thì sững sờ kinh ngạc; nhưng họ không hiểu sự kinh ngạc ấy nghĩa là gì, vì họ không nhận thức rõ. Vì trong những bản sao trần gian của công lý hay tiết độ hay bất kỳ ý niệm cao hơn nào mà các linh hồn quý trọng, thì không có ánh sáng của chúng: người ta nhìn chúng qua một tấm gương mờ tối; và có ít người, khi đến với những hình ảnh, nhìn thấy trong đó những thực tại, và chỉ những người ấy, và chỉ với khó khăn. Đã có một thời, cùng với cả đoàn người phúc lạc, họ nhìn thấy cái đẹp sáng ngời trong ánh sáng, — chúng ta, những nhà triết học, đi sau đoàn của Zeus, những người khác đi cùng những vị thần khác; và khi ấy chúng ta nhìn thấy cảnh tượng phúc lạc và được điểm đạo vào một huyền nhiệm có thể thật sự được gọi là phúc lành nhất, được chúng ta cử hành trong trạng thái vô tội của mình, trước khi chúng ta từng trải qua những điều xấu sắp tới, khi chúng ta được cho phép nhìn thấy những hiện tượng vô tội, đơn sơ, thanh thản và hạnh phúc, mà chúng ta nhìn thấy sáng ngời trong ánh sáng thuần khiết, chính mình cũng thuần khiết và chưa bị đặt vào ngôi mộ sống ấy mà chúng ta mang theo mình, nay khi chúng ta bị giam trong thân xác, như con hàu trong vỏ của nó. Hãy để tôi nán lại trong ký ức về những cảnh tượng đã qua."
+    },
+    {
+      "type": "p",
+      "text": "Nhưng về cái đẹp, tôi nhắc lại rằng chúng ta đã nhìn thấy nàng ở đó, sáng ngời cùng với những hình thức thiên giới; và khi xuống trần gian, chúng ta cũng thấy nàng ở đây, sáng rõ qua khung cửa trong nhất của giác quan. Vì thị giác là giác quan sắc bén nhất trong các giác quan thân xác của chúng ta; dẫu không phải nhờ nó mà sự khôn ngoan được nhìn thấy; vẻ đáng yêu của nàng hẳn đã làm người ta ngây ngất nếu có một hình ảnh hữu hình của nàng, và những ý niệm khác, nếu chúng có những bản sao hữu hình, cũng sẽ đáng yêu như thế. Nhưng đây là đặc ân của cái đẹp: vì là thứ đáng yêu nhất, nàng cũng là thứ dễ được thấy nhất. Nay kẻ không mới được điểm đạo, hoặc kẻ đã trở nên đồi bại, thì không dễ vươn lên khỏi thế giới này để nhìn thấy cái đẹp chân thật ở thế giới bên kia; anh ta chỉ nhìn vào cái mang cùng tên với nàng ở trần gian, và thay vì kinh sợ khi nhìn thấy nàng, anh ta buông mình cho khoái lạc, và như một con thú dữ, anh ta lao vào để hưởng thụ và sinh sản; anh ta giao du với sự buông tuồng, và không sợ cũng không xấu hổ khi theo đuổi khoái lạc trái với tự nhiên. Nhưng kẻ mới được điểm đạo, và đã từng là người chứng kiến nhiều vinh quang ở thế giới bên kia, thì kinh ngạc khi thấy ai đó có khuôn mặt hay hình dáng giống thần, tức là biểu hiện của cái đẹp thần linh; và thoạt đầu một cơn rùng mình chạy qua người anh ta, rồi nỗi kinh sợ xưa lại lén vào; sau đó, nhìn vào khuôn mặt của người mình yêu như nhìn một vị thần, anh ta tôn kính người ấy, và nếu không sợ bị cho là điên hẳn, anh ta sẽ dâng lễ tế cho người mình yêu như tế một pho tượng thần; rồi trong khi anh ta nhìn ngắm, có một sự phản ứng nào đó, và cơn rùng mình chuyển thành một sức nóng và mồ hôi khác thường; vì, khi anh ta nhận được dòng chảy của cái đẹp qua đôi mắt, cánh trở nên ẩm và anh ta nóng lên. Và khi anh ta nóng lên, những phần mà từ đó cánh mọc ra, và trước đó vẫn đóng kín và cứng, và đã ngăn cánh vươn ra, thì tan chảy, và khi dưỡng chất tràn đến, đầu dưới của cánh bắt đầu sưng lên và mọc từ gốc lên trên; và sự mọc ấy lan ra dưới toàn thể linh hồn — vì xưa kia toàn thể đã có cánh. Trong quá trình này, toàn thể linh hồn ở trong trạng thái sôi sục và sủi bọt, — có thể so với sự kích thích và khó chịu ở lợi vào lúc mọc răng, — nó sủi lên, và có cảm giác khó chịu và ngứa ran; nhưng khi linh hồn bắt đầu mọc cánh theo cách tương tự, cái đẹp của người mình yêu gặp mắt nàng và nàng nhận được chuyển động ấm áp cảm nhận được của những hạt chảy về phía mình, nên được gọi là cảm xúc (imeros), và được làm tươi mới và sưởi ấm bởi chúng, và rồi nàng thôi đau trong niềm vui. Nhưng khi nàng bị chia lìa khỏi người mình yêu và sự ẩm ướt của nàng cạn đi, thì những lỗ của con đường mà cánh vươn ra khô lại và đóng kín, và chặn mầm của cánh; mầm ấy, bị nhốt cùng với cảm xúc, đập như những nhịp của động mạch, chích vào lỗ gần nhất, cho đến khi cuối cùng toàn thể linh hồn bị đâm xuyên, bị phát cuồng và đau đớn, và khi hồi tưởng về cái đẹp thì lại được vui sướng. Và từ cả hai điều ấy cùng nhau, linh hồn bị đè nặng bởi sự lạ lùng của tình trạng mình, và ở trong một thế bí và một sự kích động lớn, và trong cơn điên của mình, nàng không thể ngủ ban đêm cũng không thể ở yên một chỗ ban ngày. Và bất cứ nơi nào nàng nghĩ rằng mình sẽ nhìn thấy người đẹp, thì nàng chạy tới đó trong dục vọng. Và khi nàng đã nhìn thấy người ấy, và tắm mình trong nước của cái đẹp, sự gò bó của nàng được nới lỏng, và nàng được tươi mới, và không còn những cơn đau nhói nữa; và đó là khoái lạc ngọt ngào nhất trong mọi khoái lạc lúc ấy, và là lý do vì sao linh hồn của kẻ si tình sẽ không bao giờ lìa bỏ người đẹp của mình, người mà anh ta quý hơn mọi thứ; anh ta đã quên mẹ và anh em và bạn bè, và không nghĩ gì đến việc bỏ bê và mất mát tài sản; những quy tắc và lễ nghi của đời sống, thứ mà trước kia anh ta tự hào, giờ anh ta khinh bỉ, và sẵn sàng ngủ như một đầy tớ, ở bất cứ đâu người ta cho phép, càng gần càng tốt với người anh ta khao khát, kẻ là đối tượng thờ phụng của anh ta, và là thầy thuốc duy nhất có thể làm dịu đi sự lớn lao của nỗi đau nơi anh ta. Và trạng thái này, hỡi chàng trai trẻ tưởng tượng mà tôi đang nói với, được người đời gọi là tình yêu, và trong các vị thần nó có một cái tên mà anh, trong sự ngây thơ của mình, có thể có khuynh hướng cười nhạo; có hai câu trong những tác phẩm ngụy tác của Homer trong đó cái tên ấy xuất hiện. Một trong hai câu khá ngông cuồng, và không hoàn toàn đúng niêm luật. Chúng như sau:"
+    },
+    {
+      "type": "quote",
+      "text": "‘Người phàm gọi chàng là tình yêu vỗ cánh, nhưng các vị bất tử gọi chàng là kẻ có cánh, vì việc mọc cánh (hay đọc là pterothoiton, ‘sự chuyển động của cánh’) là điều tất yếu đối với chàng.’",
+      "cite": "Homer (ngụy tác)"
+    },
+    {
+      "type": "p",
+      "text": "Anh có thể tin điều này, nhưng không tin cũng được. Dù sao thì tình yêu của những kẻ si tình và những nguyên nhân của nó cũng như tôi đã mô tả."
+    },
+    {
+      "type": "p",
+      "text": "Nay, kẻ si tình được coi là tuỳ tùng của Zeus thì có khả năng chịu đựng vị thần có cánh tốt hơn, và có thể chịu được gánh nặng hơn; nhưng những tuỳ tùng và bạn đồng hành của Ares, khi chịu ảnh hưởng của tình yêu, nếu tưởng rằng mình đã bị xúc phạm dù chỉ chút ít, thì sẵn sàng giết và kết liễu cả mình lẫn người mình yêu. Và kẻ đi theo đoàn của bất kỳ vị thần nào khác, trong khi còn chưa bị hư hỏng và ấn tượng còn kéo dài, thì tôn kính và bắt chước vị thần ấy đến mức có thể; và theo cách của vị thần của mình, anh ta cư xử trong quan hệ với người mình yêu và với phần còn lại của thế giới trong thời kỳ đầu của đời sống trần gian. Mỗi người chọn người mình yêu trong hàng ngũ của cái đẹp tuỳ theo tính cách của mình, và anh ta biến người ấy thành vị thần của mình, và nhào nặn, tô điểm người ấy như một pho tượng mà mình sẽ sụp xuống thờ lạy. Những kẻ theo Zeus mong rằng người mình yêu có một linh hồn giống Người; và vì thế họ tìm kiếm một người có bản tính triết học và vương giả, và khi đã tìm được và yêu người ấy, họ làm mọi điều có thể để củng cố bản tính ấy nơi người ấy, và nếu tới nay họ chưa từng trải qua một tâm tính như thế, họ học nơi bất kỳ ai có thể dạy mình, và chính họ cũng đi theo cùng con đường. Và họ càng ít khó khăn hơn trong việc tìm ra bản tính của vị thần của mình nơi chính mình, vì họ đã buộc phải nhìn Người thật chăm chú; sự hồi tưởng của họ bám lấy Người, và họ trở nên có được Người, và nhận từ Người tính cách và tâm tính của mình, trong mức mà con người có thể tham dự vào Thượng đế. Những phẩm chất của vị thần của họ, họ gán cho người mình yêu, vì thế họ càng yêu người ấy hơn, và nếu, như các Nymph của Bacchus, họ nhận được hứng khởi từ Zeus, thì họ tuôn đổ suối của mình lên người ấy, muốn làm cho người ấy càng giống vị thần của mình càng tốt. Nhưng những kẻ theo Hera thì tìm một mối tình vương giả, và khi đã tìm được, họ làm với người ấy đúng như thế; và tương tự, những kẻ theo Apollo, và theo mọi vị thần khác đang bước trên đường của vị thần mình, tìm một mối tình sẽ được làm cho giống vị thần mà họ phụng sự, và khi đã tìm được, chính họ bắt chước vị thần của mình, và thuyết phục người mình yêu làm theo, và giáo dục người ấy vào cách thức và bản tính của vị thần trong mức mỗi người có thể; vì họ không nuôi chút cảm giác ganh tị hay ghen tuông nào với người mình yêu, mà làm hết sức để tạo nơi người ấy sự giống mình và giống vị thần mà mình tôn kính nhất. Vậy thì ước muốn của kẻ si tình được thần hứng thật là đẹp đẽ và phúc lạc cho người được yêu, cùng với sự điểm đạo vào những huyền nhiệm của tình yêu chân thật mà tôi đang nói tới, nếu người ấy bị kẻ si tình bắt lấy và mục đích của họ được thành tựu. Nay người được yêu bị bắt lấy theo cách sau: —"
+    },
+    {
+      "type": "p",
+      "text": "Như tôi đã nói ở đầu câu chuyện này, tôi chia mỗi linh hồn thành ba — hai con ngựa và một người đánh xe; và một con ngựa thì tốt, con kia thì xấu: cách chia ấy có thể giữ nguyên, nhưng tôi chưa giải thích sự tốt hay xấu của mỗi con nằm ở đâu, và giờ tôi sẽ đi vào điểm ấy. Con ngựa bên phải thì thẳng thắn và được tạo nên gọn gàng; nó có cổ cao và mũi khoằm; màu nó là trắng, mắt nó đen; nó là kẻ yêu danh dự, sự khiêm nhường và tiết độ, và là kẻ theo chân vinh quang chân thật; nó không cần một cái roi, mà chỉ được dẫn dắt bằng lời nói và lời khuyên răn. Con kia là một con vật vạm vỡ xiêu vẹo, được ghép lại tuỳ tiện; nó có cổ ngắn và dày; mặt nó bè và màu nó tối, với mắt xám và nước da đỏ như máu (hoặc: với đôi mắt xám và đỏ ngầu.); bạn đồng hành của sự ngạo mạn và kiêu căng, tai rủ và điếc, khó lòng chịu roi và cựa. Nay khi người đánh xe nhìn thấy cảnh tượng của tình yêu, và toàn thể linh hồn anh ta được sưởi ấm qua giác quan, và đầy những mũi chích và sự ngứa ran của dục vọng, thì con ngựa ngoan ngoãn, khi ấy cũng như mọi khi dưới sự cai trị của sự xấu hổ, tự kiềm lại không lao vào người mình yêu; nhưng con kia, không màng những mũi chích và những đòn roi, thì lao tới và chạy đi, gây đủ mọi phiền toái cho bạn đồng hành và người đánh xe, mà nó buộc phải tiến tới gần người mình yêu và nhớ lại những khoái lạc của tình yêu. Thoạt đầu hai người kia phẫn nộ chống lại nó và không chịu bị thúc đẩy làm những việc khủng khiếp và trái luật; nhưng cuối cùng, khi nó cứ khăng khăng quấy rầy họ, họ nhượng bộ và đồng ý làm theo điều nó sai khiến. Và giờ họ đã ở nơi ấy và nhìn thấy vẻ đẹp lấp lánh của người mình yêu; khi người đánh xe nhìn thấy điều ấy, ký ức của anh ta được mang tới cái đẹp chân thật, mà anh ta nhìn thấy cùng với sự Khiêm Nhường như một pho tượng đặt trên một bệ thờ thiêng liêng. Anh ta nhìn thấy nàng, nhưng anh ta sợ hãi và ngã ngửa ra sau trong sự tôn thờ, và vì cú ngã ấy buộc phải giật dây cương mạnh đến mức làm cả hai con ngựa khuỵu xuống trên chân sau, con ngựa ngoan thì sẵn lòng và không kháng cự, con ngựa bất trị thì rất không bằng lòng; và khi chúng đã lùi lại một chút, con ngựa ngoan thì bị sự xấu hổ và sự kinh ngạc chế ngự, và toàn thể linh hồn nó đẫm mồ hôi; con kia, khi cơn đau mà dây cương và cú ngã đã gây ra qua đi, và sau khi khó khăn lắm mới lấy lại được hơi, thì đầy giận dữ và những lời trách móc, mà nó trút lên người đánh xe và con ngựa bạn, vì thiếu can đảm và thiếu khí phách nam nhi, cho rằng chúng đã phản bội thoả thuận và phạm tội đào ngũ. Một lần nữa chúng từ chối, một lần nữa nó thúc chúng, và khó lòng nhượng bộ lời cầu xin của chúng rằng hãy đợi đến lúc khác. Khi giờ đã định đến, chúng làm ra vẻ đã quên, và nó nhắc chúng, vừa đánh vừa hí vừa kéo chúng đi, cho đến khi cuối cùng nó, với cùng những ý nghĩ ấy, buộc chúng lại gần. Và khi chúng đã gần, nó cúi đầu xuống và dựng đuôi lên, và ngậm dây cương trong răng và kéo một cách vô liêm sỉ. Khi ấy người đánh xe còn khốn khổ hơn bao giờ hết; anh ta ngã ngửa ra như một tay đua ở hàng rào xuất phát, và với một cú giật còn dữ dội hơn, giật dây cương ra khỏi răng con ngựa hoang và làm miệng và hàm nó đầy máu, và buộc chân và mông nó xuống đất và trừng phạt nó thật nặng. Và khi điều này đã xảy ra vài lần và kẻ xấu ấy đã thôi thói buông tuồng, thì nó được thuần hoá và bị hạ nhục, và theo ý người đánh xe, và khi nhìn thấy người đẹp thì nó sẵn sàng chết vì sợ. Và từ đó trở đi, linh hồn của kẻ si tình đi theo người mình yêu trong sự khiêm nhường và nỗi sợ thiêng liêng."
+    },
+    {
+      "type": "p",
+      "text": "Và thế là người được yêu, kẻ đã nhận được từ kẻ si tình mọi sự phục vụ chân thật và trung thành như từ một vị thần, không phải giả vờ mà thật sự, và bản thân cũng có một bản tính thân thiện với người ngưỡng mộ mình, nếu trước kia đã đỏ mặt không dám nhận đam mê của mình và đã quay lưng với kẻ si tình, vì những người bạn trẻ hay những kẻ khác đã vu khống rằng chàng sẽ bị ô nhục, thì nay khi năm tháng trôi, đúng tuổi và đúng lúc, chàng được dẫn tới chỗ đón nhận anh ta vào sự giao hoà. Vì số phận, thứ đã định rằng sẽ không có tình bạn giữa những kẻ xấu, cũng đã định rằng sẽ luôn có tình bạn giữa những người tốt. Và người được yêu, khi đã đón nhận anh ta vào sự giao hoà và thân mật, thì hết sức kinh ngạc trước thiện ý của kẻ si tình; chàng nhận ra rằng người bạn được thần hứng ấy đáng giá hơn mọi người bạn hay họ hàng khác; những người kia chẳng có gì của tình bạn đáng đem so với anh ta. Và khi cảm giác ấy còn tiếp tục và chàng ở gần anh ta hơn và ôm lấy anh ta, trong những buổi tập thể dục và những lần gặp gỡ khác, thì nguồn của dòng suối ấy, dòng mà Zeus khi yêu Ganymede đã đặt tên là Khát Vọng, tràn qua kẻ si tình, và một phần đi vào linh hồn anh ta, một phần khi anh ta đã đầy thì lại trào ra; và như một làn gió hay một tiếng vang dội lại từ những vách đá nhẵn và trở về nơi nó đã ra đi, thì dòng của cái đẹp, đi qua đôi mắt là những cửa sổ của linh hồn, cũng trở về với người đẹp; tới đó và làm sống động những lối đi của cánh, tưới tắm chúng và khiến chúng nghiêng về sự mọc lên, và làm cho linh hồn của người được yêu cũng đầy tình yêu. Và thế là chàng yêu, nhưng chàng không biết mình yêu gì; chàng không hiểu và không thể giải thích tình trạng của chính mình; chàng có vẻ đã nhiễm sự mù quáng từ một người khác; kẻ si tình là tấm gương của chàng, trong đó chàng đang nhìn thấy chính mình, nhưng chàng không ý thức được điều ấy. Khi chàng ở bên kẻ si tình, cả hai đều thôi đau, nhưng khi xa nhau thì chàng khao khát như chàng được khao khát, và có hình ảnh của tình yêu, tình yêu đáp lại tình yêu (Anteros) trú ngụ trong ngực mình, mà chàng gọi và tin là không phải tình yêu mà chỉ là tình bạn, và ước muốn của chàng cũng như ước muốn của người kia, nhưng yếu hơn; chàng muốn nhìn thấy anh ta, chạm vào anh ta, hôn anh ta, ôm anh ta, và có lẽ không lâu sau ước muốn của chàng được thoả. Khi họ gặp nhau, con ngựa buông tuồng của kẻ si tình có một lời muốn nói với người đánh xe; nó muốn có chút khoái lạc để đền cho bao nỗi khổ, nhưng con ngựa buông tuồng của người được yêu thì không nói một lời, vì nó đang tràn đầy một đam mê mà nó không hiểu; — nó quàng tay quanh kẻ si tình và ôm anh ta như người bạn thân thiết nhất; và khi họ ở bên nhau, nó không ở trong trạng thái có thể từ chối kẻ si tình bất cứ điều gì, nếu anh ta xin; dẫu rằng con ngựa bạn và người đánh xe chống lại nó bằng những lập luận của sự xấu hổ và lý trí. Sau đó, hạnh phúc của họ tuỳ thuộc vào sự tự chủ của họ; nếu những yếu tố tốt hơn của tâm trí, những yếu tố dẫn tới trật tự và triết học, thắng thế, thì họ sống đời mình ở đây trong hạnh phúc và hoà hợp — làm chủ chính mình và có trật tự — bắt những yếu tố xấu của linh hồn làm nô lệ và giải phóng những yếu tố tốt; và khi cái chết đến, họ nhẹ nhàng và có cánh để bay đi, vì đã thắng trong một trong ba chiến thắng thiên giới, hay thật sự là Olympia; và không kỷ luật nào của con người hay hứng khởi nào của thần linh có thể ban cho con người một phúc lành lớn hơn thế. Nếu ngược lại, họ rời bỏ triết học và sống đời thấp hơn của tham vọng, thì có lẽ, sau khi uống rượu hay trong một giờ phút lơ đãng nào đó, hai con vật buông tuồng ấy bắt lấy hai linh hồn khi chúng không phòng bị và đưa chúng lại với nhau, và họ thực hiện ước muốn của lòng mình, thứ mà đối với số đông là phúc lạc; và khi đã hưởng một lần, họ tiếp tục hưởng, nhưng hiếm khi, vì họ không có sự chấp thuận của toàn thể linh hồn. Họ cũng thân thiết với nhau, nhưng không thân thiết với nhau bằng những người kia, cả trong lúc yêu lẫn về sau. Họ cho rằng mình đã trao và nhận của nhau những lời thề thiêng liêng nhất, và họ không được phá vỡ chúng mà rơi vào thù địch. Cuối cùng họ ra khỏi thân xác, không cánh, nhưng háo hức bay lên, và như thế họ nhận được phần thưởng không nhỏ cho tình yêu và sự điên rồ. Vì những kẻ đã bắt đầu cuộc hành hương hướng lên trời thì không được đi xuống vùng tối và cuộc hành trình dưới đất nữa, mà luôn sống trong ánh sáng; những người bạn đồng hành hạnh phúc trong cuộc hành hương của mình, và khi đến lúc nhận được cánh, họ có cùng bộ lông vì tình yêu của họ."
+    },
+    {
+      "type": "p",
+      "text": "Vậy thì những phúc lành thiên giới mà tình bạn của một kẻ si tình sẽ ban cho anh thật là lớn lao, hỡi chàng trai trẻ của tôi. Trong khi đó, sự gắn bó của kẻ không yêu, thứ bị pha trộn bởi một sự khôn ngoan thế tục và có những cách ban ơn thế tục và keo kiệt, sẽ sinh ra trong linh hồn anh những phẩm chất tầm thường mà đám đông tán thưởng, sẽ khiến anh lăn lộn quanh mặt đất trong chín ngàn năm, và để anh lại như một kẻ ngu ngốc ở thế giới bên dưới."
+    },
+    {
+      "type": "p",
+      "text": "Và thế là, hỡi Eros thân mến, tôi đã làm và đã trả xong bài ca phản bác của mình, tốt và đẹp hết mức có thể; nhất là ở phần những hình ảnh thi ca mà tôi buộc phải dùng, vì Phaedrus muốn có chúng. Và giờ hãy tha thứ cho quá khứ và nhận lấy hiện tại, và hãy nhân từ và thương xót tôi, và đừng trong cơn giận mà tước đi thị lực của tôi, hay lấy khỏi tôi nghệ thuật tình yêu mà người đã ban cho tôi, mà hãy ban cho tôi được càng quý trọng hơn nữa trong mắt những người đẹp. Và nếu Phaedrus hay chính tôi đã nói điều gì thô lỗ trong những bài diễn văn đầu, hãy đổ lỗi cho Lysias, kẻ là cha của đứa con ấy, và đừng để chúng ta phải chịu thêm đứa con nào của ông ta nữa; hãy bảo ông ta học triết học, như người anh Polemarchus của ông ta; và khi ấy người yêu của ông ta là Phaedrus sẽ không còn lưỡng lự giữa hai ý kiến nữa, mà sẽ hiến mình trọn vẹn cho tình yêu và cho những cuộc đàm luận triết học."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi cùng cầu nguyện, Socrates, và nói với anh rằng, nếu điều này là điều tốt cho tôi, mong lời anh được thành sự thật. Nhưng tại sao anh lại làm bài diễn văn thứ hai hay hơn bài thứ nhất nhiều thế? Tôi tự hỏi vì sao. Và tôi bắt đầu sợ rằng mình sẽ hết coi trọng Lysias, và rằng ông ấy sẽ có vẻ nhạt nhẽo khi so sánh, ngay cả khi ông ấy sẵn lòng đưa ra một bài hay và dài như bài của anh, điều mà tôi ngờ lắm. Vì mới gần đây một chính khách của anh đã mắng ông ấy đúng vì lý do ấy; và gọi ông ấy là ‘kẻ viết diễn văn’ hết lần này đến lần khác. Cho nên có lẽ một cảm giác tự ái sẽ khiến ông ấy bỏ viết diễn văn."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Một ý nghĩ rất buồn cười! Nhưng tôi nghĩ, chàng trai trẻ của tôi ạ, anh đã lầm về người bạn của mình nhiều lắm nếu anh tưởng rằng ông ấy sợ một chút ồn ào; và có lẽ anh tưởng rằng kẻ công kích ông ấy đã nói nghiêm túc?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi tưởng thế, Socrates. Và anh biết rằng những chính khách lớn nhất và có ảnh hưởng nhất thì xấu hổ vì việc viết diễn văn và để chúng lại dưới một hình thức văn bản, sợ rằng hậu thế sẽ gọi họ là những nhà ngụy biện."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Có vẻ anh không ý thức được, Phaedrus ạ, rằng ‘cùi chỏ ngọt’ (Một câu tục ngữ, như ‘nho còn xanh’, dùng cho những khoái lạc không thể có được, nghĩa là những thứ ngọt mà như cùi chỏ thì miệng không với tới. Khoái lạc được hứa hẹn hoá ra lại là một chuyện dài dòng và mệt mỏi.) trong tục ngữ thật ra là cánh tay dài của sông Nile. Và có vẻ anh cũng không nhận ra rằng cái ‘cùi chỏ ngọt’ của họ cũng là một cánh tay dài. Vì không có gì mà những chính khách lớn của chúng ta yêu thích bằng việc viết diễn văn và để lại chúng cho hậu thế. Và họ ghi thêm tên những người ngưỡng mộ ở đầu văn bản, vì lòng biết ơn đối với họ."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh muốn nói gì? Tôi không hiểu."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Sao, anh không biết rằng khi một chính khách viết, ông ta bắt đầu bằng tên những người tán thành mình?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Sao, ông ta bắt đầu theo cách này: ‘Xin được ban hành bởi thượng viện, bởi nhân dân, hay bởi cả hai, theo đề nghị của một người nọ’, người ấy là tác giả của chúng ta; và thế là, với vẻ mặt nghiêm trang, ông ta tiến hành bày tỏ sự khôn ngoan của mình cho những người ngưỡng mộ trong một tác phẩm thường là dài dòng và mệt mỏi. Vậy thứ ấy là gì nếu không phải là một màn làm tác giả đúng điệu?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Đúng."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và nếu đạo luật cuối cùng được thông qua, thì tác giả rời khán phòng trong niềm vui lớn; nhưng nếu đạo luật bị bác bỏ và ông ta mất phần diễn thuyết của mình, và không được cho là đủ giỏi để viết, thì ông ta và phe của ông ta để tang."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Rất đúng."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Họ xa việc khinh bỉ việc viết lách đến thế, hay đúng hơn là họ quý trọng việc ấy đến thế."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Không còn nghi ngờ gì."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và khi một vị vua hay một nhà hùng biện có quyền năng, như Lycurgus hay Solon hay Darius đã có, đạt được sự bất tử hay sự nghiệp tác giả trong một quốc gia, thì chẳng phải hậu thế, khi nhìn thấy những tác phẩm của ông ta, sẽ nghĩ ông ta là một vị thần, và chính ông ta, khi còn sống, cũng nghĩ mình là thần sao?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì anh có nghĩ rằng ai trong hạng người này, dẫu ác ý đến đâu, lại đi chê Lysias là kẻ làm tác giả?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Không, theo cách nhìn của anh thì không; vì theo anh thì ông ta sẽ đang bôi nhọ chính cái nghề mình ưa thích."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Ai cũng thấy rằng chỉ riêng việc viết lách thì không có gì ô nhục."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Chắc chắn là không."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Sự ô nhục bắt đầu khi người ta viết không hay, mà viết dở."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Rõ ràng."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và thế nào là hay và thế nào là dở — ta có cần hỏi Lysias, hay bất kỳ nhà thơ hay nhà hùng biện nào khác, kẻ đã từng viết hay sẽ viết một tác phẩm chính trị hay bất kỳ tác phẩm nào khác, bằng vần hay không vần, nhà thơ hay người viết văn xuôi, để dạy ta điều này không?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Ta có cần không? Vì người ta sống để làm gì nếu không phải vì những khoái lạc của lời nói? Chắc chắn không phải vì khoái lạc của thân xác, thứ gần như luôn có nỗi đau trước đó làm điều kiện, và vì thế đáng được gọi đúng là những khoái lạc của kẻ nô lệ."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Còn đủ thì giờ. Và tôi tin rằng lũ ve sầu đang rỉ rả theo cách của chúng trong cái nóng mặt trời trên đầu chúng ta đang nói chuyện với nhau và nhìn xuống chúng ta. Chúng sẽ nói gì nếu thấy chúng ta, như số đông, không trò chuyện mà ngủ trưa, bị giọng hát của chúng ru cho mê đi, quá lười biếng để suy nghĩ? Chẳng lẽ chúng không có quyền cười chúng ta sao? Chúng có thể tưởng rằng chúng ta là những kẻ nô lệ, đến nghỉ ở một nơi tụ họp của chúng, và như lũ cừu nằm ngủ giữa trưa quanh giếng nước. Nhưng nếu chúng thấy chúng ta đàm luận, và như Odysseus, đi thuyền ngang qua chúng, điếc trước giọng của các nàng tiên cá, thì có lẽ, vì kính trọng, chúng sẽ ban cho chúng ta những món quà mà chúng nhận từ các thần để có thể trao lại cho con người."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh nói những món quà nào? Tôi chưa từng nghe nói đến món nào."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Một kẻ yêu âm nhạc như anh hẳn phải nghe câu chuyện về lũ ve sầu, những kẻ được nói rằng đã từng là người trong một thời đại trước các nàng Muses. Và khi các nàng Muses đến và khúc ca xuất hiện, họ mê mẩn trong niềm vui; và hát mãi, không bao giờ nghĩ đến ăn uống, cho đến cuối cùng trong sự quên lãng họ chết. Và nay họ sống lại trong lũ ve sầu; và đây là sự đền đáp mà các nàng Muses dành cho họ — họ không đói, không khát, mà từ giờ sinh ra đã luôn hát, không bao giờ ăn hay uống; và khi chết, họ đi báo cho các nàng Muses trên trời biết ai ở trần gian tôn kính các nàng. Họ giành được tình yêu của Terpsichore cho những người khiêu vũ nhờ báo cáo về họ; của Erato cho những kẻ si tình, và của các nàng Muses khác cho những ai tôn kính các nàng, tuỳ theo những cách tôn kính khác nhau; — của Calliope, nàng Muses lớn tuổi nhất, và của Urania, nàng kế tiếp, cho các nhà triết học, vì lũ ve sầu báo cáo cho hai nàng về thứ âm nhạc của họ; vì đây là những nàng Muses chủ yếu quan tâm đến trời và tư tưởng, cả thần linh lẫn con người, và họ có lời nói ngọt ngào nhất. Vì nhiều lý do, vậy thì, chúng ta phải luôn trò chuyện và không được ngủ trưa."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Ta hãy nói chuyện."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Ta có nên bàn về những quy tắc của việc viết và việc nói như chúng ta đã định không?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tốt lắm."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Trong việc nói hay, chẳng phải tâm trí người nói phải biết sự thật về điều mình sắp nói sao?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Vậy mà, Socrates ạ, tôi nghe nói rằng kẻ muốn thành nhà hùng biện thì không liên quan gì đến công lý chân thật, mà chỉ liên quan đến điều có vẻ sẽ được số đông ngồi xét xử chấp thuận; cũng không liên quan đến điều thật sự tốt hay đáng kính, mà chỉ đến ý kiến về chúng, và rằng sự thuyết phục đến từ ý kiến, chứ không từ sự thật."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Lời của người khôn ngoan thì không được gạt sang một bên; vì trong đó có lẽ có điều gì đó; và vì thế ý nghĩa của câu nói này không được vội vàng bỏ qua."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Hãy đặt vấn đề như sau: — Giả sử tôi thuyết phục anh mua một con ngựa và ra trận. Cả hai chúng ta đều không biết con ngựa trông thế nào, nhưng tôi biết rằng anh tin rằng ngựa là, trong các loài vật đã được thuần hoá, con có đôi tai dài nhất."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Thế thì thật nực cười."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Còn điều nực cười hơn đang tới: — Giả sử thêm rằng, một cách nghiêm túc tỉnh táo, sau khi đã thuyết phục anh điều ấy, tôi đi soạn một bài diễn văn ca ngợi một con lừa, mà tôi gọi là ngựa, bắt đầu rằng: ‘Một con vật cao quý và một tài sản vô cùng hữu ích, nhất là trong chiến tranh, và anh có thể lên lưng nó mà chiến đấu, và nó sẽ chở hành lý hay bất cứ thứ gì.’"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Nực cười làm sao!"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Nực cười! Phải; nhưng chẳng phải một người bạn nực cười vẫn còn tốt hơn một kẻ thù xảo quyệt sao?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Chắc chắn rồi."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và khi nhà hùng biện, thay vì đặt một con lừa vào chỗ một con ngựa, lại đặt điều tốt vào chỗ điều xấu, trong khi chính anh ta cũng không biết gì về bản tính thật của chúng cũng như thành phố mà anh ta lừa dối cũng không biết gì; và sau khi đã nghiên cứu những ý niệm của đám đông, lại thuyết phục họ một cách sai lầm không phải về ‘cái bóng của một con lừa’, thứ anh ta lẫn với một con ngựa, mà về điều tốt, thứ anh ta lẫn với điều xấu, — thì thu hoạch mà thuật hùng biện có thể gặt được sau khi gieo hạt giống ấy sẽ là gì?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Ngược lại với điều tốt."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Nhưng có lẽ thuật hùng biện đã bị chúng ta đối xử quá thô bạo, và nàng có thể đáp: Các người đang nói những điều vô lý đến kinh ngạc! Cứ như thể ta bắt ai phải học nói trong sự không biết sự thật! Dù lời khuyên của ta có giá trị đến đâu, ta hẳn đã bảo người ấy hãy đạt tới sự thật trước, rồi hãy đến với ta. Đồng thời ta mạnh dạn khẳng định rằng chỉ riêng sự hiểu biết sự thật sẽ không ban cho người ta nghệ thuật thuyết phục."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Lời tự biện hộ của nàng có lý."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Rất đúng; giá như những lập luận khác còn phải đưa ra cũng làm chứng cho nàng rằng nàng thật sự là một nghệ thuật. Nhưng tôi có vẻ nghe thấy chúng đang dàn hàng ở phía đối lập, tuyên bố rằng nàng nói sai, và rằng thuật hùng biện chỉ là một lối mòn và một mẹo, không phải một nghệ thuật. Kìa! một người Sparta xuất hiện, và nói rằng không bao giờ có và sẽ không bao giờ có một nghệ thuật nói thật sự nào tách rời khỏi sự thật."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Và những lập luận ấy là gì, Socrates? Hãy đưa chúng ra để chúng ta xem xét."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Hãy ra đây, hỡi những đứa con xinh đẹp, và thuyết phục Phaedrus, kẻ là cha của những cái đẹp tương tự, rằng anh ta sẽ không bao giờ có thể nói về bất cứ điều gì theo cách mình nên nói, trừ khi anh ta có hiểu biết về triết học. Và hãy để Phaedrus trả lời các ngươi."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Hãy đặt câu hỏi đi."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Chẳng phải thuật hùng biện, hiểu theo nghĩa chung, là một nghệ thuật phổ quát làm mê hoặc tâm trí bằng lập luận; thứ được thực hành không chỉ ở toà án và hội đồng công cộng, mà cả trong nhà riêng, liên quan đến mọi vấn đề, lớn cũng như nhỏ, tốt và xấu như nhau, và trong mọi trường hợp đều đúng như nhau, và đáng quý trọng như nhau — đó là điều anh đã nghe?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Không, không đúng hẳn thế; tôi nên nói rằng tôi đã nghe rằng nghệ thuật ấy chỉ giới hạn trong việc nói và viết ở các vụ kiện, và trong việc nói ở các hội đồng công cộng — không mở rộng xa hơn."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì tôi cho rằng anh chỉ mới nghe nói đến thuật hùng biện của Nestor và Odysseus, thứ họ soạn trong những giờ nhàn rỗi khi ở Troy, và chưa bao giờ nghe đến thuật hùng biện của Palamedes?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Cũng chưa nghe đến của Nestor và Odysseus, trừ phi Gorgias là Nestor của anh, và Thrasymachus hay Theodorus là Odysseus của anh."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Có lẽ đó là ý tôi. Nhưng hãy để họ sang một bên. Và thay vào đó, anh hãy nói cho tôi biết, nguyên đơn và bị đơn đang làm gì ở toà án — chẳng phải họ đang tranh cãi sao?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Đúng thế."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Về điều công chính và bất công — đó là vấn đề đang tranh chấp?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Vâng."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và một giáo sư của nghệ thuật ấy sẽ làm cho cùng một điều có vẻ, với cùng những người, lúc này là công chính, lúc khác, nếu ông ta muốn, là bất công?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Đúng thế."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và khi ông ta nói ở hội đồng, ông ta sẽ làm cho cùng những điều có vẻ tốt với thành phố lúc này, và lúc khác thì ngược lại với tốt?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Điều đó đúng."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Chẳng phải chúng ta đã nghe nói đến Palamedes người Elea (Zeno), kẻ có một nghệ thuật nói mà nhờ đó ông ta làm cho cùng những điều hiện ra với người nghe là giống và không giống, một và nhiều, đứng yên và chuyển động?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì nghệ thuật tranh biện không chỉ giới hạn trong các toà án và hội đồng, mà là một và như nhau trong mọi cách dùng ngôn ngữ; đây là nghệ thuật, nếu có một nghệ thuật như thế, có khả năng tìm ra sự giống nhau của mọi thứ có thể tìm được sự giống nhau, và đưa ra ánh sáng những sự giống nhau và những lớp nguỵ trang mà người khác dùng?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh muốn nói thế nào?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Để tôi đặt vấn đề như sau: Khi nào có nhiều khả năng bị lừa dối hơn — khi sự khác biệt lớn hay nhỏ?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Khi sự khác biệt nhỏ."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và anh sẽ ít có khả năng bị phát hiện khi từng bước chuyển sang thế cực kia hơn là khi anh đi một lần một bước?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Dĩ nhiên."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì kẻ muốn lừa dối người khác và không bị lừa dối, phải biết chính xác những sự giống nhau và khác biệt thật của sự vật?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Phải thế."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và nếu anh ta không biết bản tính thật của một đề tài nào đó, thì làm sao anh ta có thể phát hiện mức độ giống nhau nhiều hay ít của những thứ khác với cái mà theo giả thuyết anh ta không biết?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh ta không thể."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và khi người ta bị lừa dối và những ý niệm của họ lệch khỏi thực tại, thì rõ ràng là sai lầm lọt vào qua những sự giống nhau?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Vâng, đó là cách."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì kẻ muốn làm chủ nghệ thuật ấy phải hiểu bản tính thật của mọi thứ; nếu không anh ta sẽ không bao giờ biết cách tạo ra sự rời xa dần khỏi sự thật để sang phía đối nghịch với sự thật, thứ được thực hiện nhờ những sự giống nhau, cũng không biết cách tránh nó?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh ta sẽ không."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì kẻ, vì không biết sự thật, mà nhắm tới những vẻ ngoài, sẽ chỉ đạt được một nghệ thuật hùng biện nực cười và không phải là nghệ thuật chút nào?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Có thể trông đợi thế."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi có nên đề nghị chúng ta tìm những ví dụ về nghệ thuật và sự thiếu nghệ thuật, theo quan niệm của chúng ta về chúng, trong bài diễn văn của Lysias mà anh đang cầm trên tay, và trong bài diễn văn của tôi không?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Không gì có thể tốt hơn; và thật vậy tôi nghĩ rằng lập luận trước của chúng ta đã quá trừu tượng và thiếu những ví dụ minh hoạ."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vâng; và hai bài diễn văn ấy tình cờ đem lại một ví dụ rất hay về cách mà người nói biết sự thật có thể, không cần mục đích nghiêm túc nào, đánh cắp lòng người nghe. Món may mắn này tôi quy cho các vị thần bản xứ; và có lẽ những nhà tiên tri của các nàng Muses đang hát trên đầu chúng ta đã truyền hứng khởi của họ cho tôi. Vì tôi không tưởng tượng rằng tôi có nghệ thuật hùng biện nào của riêng mình."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Được thôi; miễn là anh vui lòng nói tiếp."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Giả sử anh đọc cho tôi những lời đầu tiên trong bài diễn văn của Lysias."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: ‘Anh biết hoàn cảnh của tôi thế nào, và theo tôi hiểu, chúng có thể được sắp xếp thế nào cho lợi ích chung của chúng ta; và tôi khẳng định rằng tôi không nên thất bại trong lời cầu xin của mình, chỉ vì tôi không phải là kẻ si tình của anh. Vì những kẻ si tình ăn năn —’"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Đủ rồi: — Giờ tôi có nên chỉ ra lỗi hùng biện trong những lời ấy không?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Ai cũng biết rằng về một số điều thì chúng ta đồng ý với nhau, còn về những điều khác thì chúng ta bất đồng."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi nghĩ tôi hiểu anh; nhưng anh sẽ giải thích ý mình chứ?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Khi ai đó nói về sắt và bạc, chẳng phải cùng một thứ hiện ra trong tâm trí mọi người sao?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Nhưng khi ai đó nói về công lý và sự tốt lành, thì chúng ta chia rẽ và bất hoà với nhau và với chính mình?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Đúng thế. SOCRATES: Vậy thì về một số điều chúng ta đồng ý, còn về những điều khác thì không?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy chúng ta có nhiều khả năng bị lừa dối hơn ở loại nào, và ở loại nào thì thuật hùng biện có quyền lực lớn hơn?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Rõ ràng là ở loại không chắc chắn."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì nhà hùng biện phải làm một sự phân chia đúng đắn, và có một ý niệm rõ ràng về cả hai loại, cả loại mà số đông lầm lẫn lẫn loại mà họ không lầm lẫn?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Kẻ làm được sự phân biệt như thế hẳn có một nguyên tắc tuyệt vời."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vâng; và tiếp theo, ông ta phải có con mắt sắc bén để quan sát những cái riêng trong khi nói, và không lầm lẫn về loại mà chúng phải được quy vào."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy tình yêu thuộc loại nào — loại còn tranh cãi hay loại không tranh cãi?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Rõ ràng là loại còn tranh cãi; vì nếu không, anh có nghĩ rằng tình yêu lại để cho anh nói như anh đã nói, rằng nó là điều xấu cho cả kẻ si tình lẫn người được yêu, và cũng là điều tốt lớn nhất có thể?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tuyệt. Nhưng anh có thể nói cho tôi biết liệu tôi đã định nghĩa tình yêu ở đầu bài diễn văn của mình không? Vì, sau khi đã ở trong cơn ngây ngất, tôi không nhớ rõ."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Có chứ; anh đã làm thế, và không sai chút nào."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì tôi nhận ra rằng các Nymph của Achelous và Pan, con trai Hermes, những vị đã hứng khởi cho tôi, là những nhà hùng biện giỏi hơn Lysias con trai Cephalus nhiều. Than ôi! Ông ta kém họ biết bao! Nhưng có lẽ tôi lầm; và Lysias, ở đầu bài diễn văn của kẻ si tình, đã quả quyết buộc chúng ta phải cho rằng tình yêu là một cái gì đó mà ông ta tưởng tượng ra, và theo mẫu ấy ông ta nhào nặn và dựng nên phần còn lại của bài diễn văn. Giả sử chúng ta đọc lại phần mở đầu của ông ta:"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Nếu anh muốn; nhưng anh sẽ không tìm thấy điều anh cần."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Đọc đi, để tôi có đúng những lời của ông ta."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: ‘Anh biết hoàn cảnh của tôi thế nào, và theo tôi hiểu, chúng có thể được sắp xếp thế nào cho lợi ích chung của chúng ta; và tôi khẳng định tôi không nên thất bại trong lời cầu xin của mình chỉ vì tôi không phải là kẻ si tình của anh, vì những kẻ si tình ăn năn về những ân huệ họ đã ban, khi tình yêu của họ đã hết.’"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Ở đây ông ta có vẻ đã làm đúng ngược lại điều mình nên làm; vì ông ta đã bắt đầu từ chỗ kết thúc, và đang bơi ngửa qua dòng lũ để về chỗ xuất phát. Lời ngỏ với chàng trai xinh đẹp của ông ta bắt đầu ở chỗ mà kẻ si tình lẽ ra phải kết thúc. Tôi nói có đúng không, Phaedrus ngọt ngào?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Đúng thế, Socrates ạ; ông ta thật sự bắt đầu từ chỗ kết thúc."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Còn về những đề mục khác — chẳng phải chúng bị ném xuống một cách tuỳ tiện sao? Có nguyên tắc nào trong đó không? Vì sao đề mục tiếp theo lại phải theo sau đề mục trước, hay bất kỳ đề mục nào khác? Trong sự ngu dốt của mình, tôi không thể không nghĩ rằng ông ta viết bừa ra đúng những gì nảy ra trong đầu, nhưng tôi dám nói rằng anh sẽ nhận ra một tất yếu hùng biện trong sự tiếp nối của các phần khác nhau trong bài?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh đánh giá tôi quá cao nếu anh nghĩ rằng tôi có sự thấu hiểu như thế về những nguyên tắc soạn bài của ông ta."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Dù sao, anh cũng sẽ thừa nhận rằng mọi bài diễn văn phải là một sinh vật sống, có thân riêng, có đầu và chân; phải có phần giữa, phần đầu và phần cuối, ăn khớp với nhau và với toàn thể?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Điều ấy có thể nói về bài diễn văn của Lysias không? Hãy xem anh có tìm được sự liên kết nào trong các lời của ông ta nhiều hơn trong bài văn bia mà có người nói đã được khắc trên mộ của Midas người Phrygia không."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Bài văn bia ấy có gì đáng chú ý? SOCRATES: Nó như sau: —"
+    },
+    {
+      "type": "quote",
+      "text": "‘Ta là một thiếu nữ bằng đồng và nằm trên mộ của Midas; bao lâu nước còn chảy và cây cao còn mọc, bao lâu ta còn ở đây, nơi này, bên ngôi mộ buồn của người, ta sẽ nói với khách qua đường rằng Midas ngủ ở dưới.’",
+      "cite": "Văn bia mộ Midas"
+    },
+    {
+      "type": "p",
+      "text": "Nay trong bài vần này, như anh sẽ nhận thấy, việc một dòng đứng trước hay đứng sau chẳng tạo ra khác biệt nào."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh đang giễu bài diễn văn ấy của chúng ta."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì tôi sẽ không nói thêm về bài diễn văn của bạn anh, kẻo làm anh phật lòng; dẫu tôi nghĩ rằng nó có thể cung cấp nhiều ví dụ khác về những điều người ta nên tránh hơn là nên theo. Nhưng tôi sẽ đi sang bài diễn văn kia, bài mà theo tôi cũng gợi mở cho những người học hùng biện."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Theo cách nào?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Hai bài diễn văn, như anh có thể nhớ, thì khác nhau; bài này lập luận rằng kẻ si tình, bài kia rằng kẻ không yêu đáng được chấp nhận."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Và thật là can trường."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Anh nên nói ‘điên rồ’ thì hơn; và sự điên rồ chính là lập luận của chúng, vì như tôi đã nói, ‘tình yêu là một sự điên rồ.’"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và sự điên rồ có hai loại; một loại do sự yếu đuối của con người sinh ra, loại kia là sự giải thoát của linh hồn khỏi ách của tục lệ và quy ước, do thần linh ban."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Sự điên rồ thần linh được chia thành bốn loại: tiên tri, điểm đạo, thi ca, tình ái, với bốn vị thần chủ trì; loại thứ nhất là hứng khởi của Apollo, loại thứ hai của Dionysus, loại thứ ba của các nàng Muses, loại thứ tư của Aphrodite và Eros. Trong phần mô tả loại điên rồ cuối cùng, thứ cũng được nói là tốt nhất, chúng ta đã nói về tình cảm yêu đương bằng một hình ảnh, trong đó chúng ta đưa vào một câu chuyện thần thoại khá đáng tin và có thể đúng, dẫu phần nào sai lệch, và cũng là một bài thánh ca tôn vinh Tình Yêu, đấng là chúa của anh và cũng là của tôi, Phaedrus ạ, và là người giám hộ của những đứa con xinh đẹp, và với Người chúng ta đã hát bài thánh ca ấy theo nhịp điệu có chừng mực và trang nghiêm."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi biết rằng tôi đã rất vui khi nghe anh."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Hãy lấy trường hợp này và ghi nhận cách người ta chuyển từ lời chê trách sang lời ca ngợi."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh muốn nói gì?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Ý tôi muốn nói rằng bài ấy phần lớn là vui đùa. Vậy mà trong những ý tưởng tình cờ của giờ phút ấy có hai nguyên tắc mà chúng ta hẳn rất vui được nghe mô tả rõ hơn, nếu nghệ thuật có thể cho chúng ta điều đó."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Đó là những gì?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Thứ nhất, sự bao gộp những cái riêng rải rác vào một ý niệm; như trong định nghĩa của chúng ta về tình yêu, định nghĩa ấy dù đúng hay sai thì chắc chắn đã đem lại sự sáng rõ và tính nhất quán cho bài diễn văn, người nói phải định nghĩa các ý niệm riêng của mình và nhờ đó làm cho ý mình rõ ràng."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Nguyên tắc kia là gì, Socrates?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Nguyên tắc thứ hai là sự phân chia thành các loại theo cấu trúc tự nhiên, đúng chỗ khớp nối, không bẻ gãy phần nào như một người cắt thịt tồi có thể làm. Đúng như hai bài diễn văn của chúng ta, cả hai trước hết đều giả định một hình thức duy nhất của sự phi lý; rồi sau đó, như thân thể từ một trở thành hai và có thể được chia thành bên trái và bên phải, mỗi bên có những phần bên phải và bên trái cùng tên — theo cách ấy người nói tiến hành chia những phần của phía bên trái và không dừng lại cho đến khi tìm thấy trong đó một tình yêu xấu, hay tình yêu thuận tay trái, mà ông ta chê trách một cách công bằng; còn bài diễn văn kia, dẫn chúng ta tới sự điên rồ nằm ở phía bên phải, thì tìm thấy một tình yêu khác, cũng cùng tên, nhưng là thần linh, mà người nói đã giơ ra trước chúng ta, ca ngợi và khẳng định là tác giả của những lợi ích lớn nhất."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Rất đúng."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Chính tôi là một kẻ rất yêu những quá trình phân chia và khái quát hoá ấy; chúng giúp tôi nói và nghĩ. Và nếu tôi gặp ai có khả năng nhìn thấy ‘một và nhiều’ trong tự nhiên, thì tôi đi theo người ấy, và ‘bước theo dấu chân người ấy như thể người ấy là một vị thần.’ Và những người có nghệ thuật ấy, tới nay tôi vẫn quen gọi là những nhà biện chứng; nhưng có trời biết cái tên ấy có đúng hay không. Và tôi muốn biết anh sẽ đặt tên gì cho những môn đệ của anh hay của Lysias, và liệu đây có thể là nghệ thuật hùng biện nổi tiếng mà Thrasymachus và những người khác dạy và thực hành không? Họ là những người nói khéo léo, và truyền tài nghệ của mình cho bất kỳ ai sẵn lòng tôn họ làm vua và mang lễ vật đến cho họ."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Vâng, họ là những con người vương giả; nhưng nghệ thuật của họ không giống nghệ thuật của những người mà anh gọi — và theo tôi thì đúng là gọi — là những nhà biện chứng: — Dẫu vậy chúng ta vẫn còn mù mờ về thuật hùng biện."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Anh muốn nói gì? Phần còn lại của nó, nếu còn lại điều gì có thể đưa vào những quy tắc của nghệ thuật, hẳn phải là một thứ tốt đẹp; và dù sao thì anh và tôi cũng không nên khinh bỉ nó. Nhưng còn lại bao nhiêu?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Chắc chắn là có rất nhiều thứ để tìm thấy trong các sách về hùng biện?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vâng; cảm ơn anh đã nhắc tôi: — Có phần mở đầu, cho thấy bài nói nên bắt đầu thế nào, nếu tôi nhớ đúng; đó là điều anh muốn nói — những tinh tế của nghệ thuật?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Rồi tiếp theo là phần trình bày sự việc, và sau đó là nhân chứng; thứ ba, những chứng cứ; thứ tư, những điều có thể xảy ra sẽ đến; nhà chế từ vĩ đại người Byzantium cũng nói, nếu tôi không lầm, về sự xác nhận và sự xác nhận thêm."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh muốn nói đến Theodorus xuất sắc."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vâng; và ông ta dạy cách xử lý sự bác bỏ hay sự bác bỏ thêm, dù trong lời buộc tội hay lời biện hộ. Tôi cũng nên nhắc đến Evenus người Paros lừng danh, người đầu tiên phát minh ra những lời ám chỉ và những lời khen gián tiếp; và cả những lời chê gián tiếp, mà theo một số người thì ông ta đã đưa vào thơ để dễ nhớ. Nhưng tôi có nên ‘giao cho sự quên lãng câm lặng’ Tisias và Gorgias, những người không lạ gì việc cái có thể xảy ra thì cao hơn sự thật, và nhờ sức mạnh của lập luận làm cho cái nhỏ thành lớn và cái lớn thành nhỏ, nguỵ trang cái mới trong những lối cũ và cái cũ trong những lối mới, và đã phát minh ra những hình thức cho mọi thứ, hoặc ngắn gọn hoặc kéo dài đến vô tận. Tôi nhớ Prodicus đã cười khi tôi kể cho ông ta điều này; ông ta nói rằng chính ông ta đã phát minh ra quy tắc thật của nghệ thuật, đó là không dài cũng không ngắn, mà là một độ dài vừa phải."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Hay lắm, Prodicus!"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Rồi có Hippias, người xa lạ xứ Elis, kẻ có lẽ đồng ý với ông ta."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và còn có Polus, kẻ có những kho tàng về cách nói lặp, về cách dùng châm ngôn, và về cách dùng hình ảnh, và trong đó ông ta dạy những cái tên mà Licymnius đã tặng cho ông ta; chúng để làm cho câu nói bóng bẩy."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Chẳng phải Protagoras cũng có thứ gì tương tự sao?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vâng, những quy tắc về cách nói đúng và nhiều giới luật hay khác; vì ‘những nỗi buồn của một ông già nghèo khổ’, hay bất kỳ cảnh thương tâm nào khác, thì không ai giỏi hơn gã khổng lồ người Chalcedon; ông ta có thể làm cho cả một đám người xúc động và lại hết xúc động bằng phép thuật quyền năng của mình, và là bậc nhất trong việc bịa ra hay dàn xếp bất kỳ lời vu khống nào, có cớ hay không có cớ. Tất cả họ đều đồng ý khẳng định rằng một bài nói phải kết thúc bằng một sự tóm tắt, dẫu họ không đồng ý dùng cùng một từ."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh muốn nói rằng phải có một sự tổng kết các lập luận để nhắc người nghe nhớ chúng."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tới đây tôi đã nói hết những gì tôi phải nói về nghệ thuật hùng biện: anh có gì muốn thêm không?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Không nhiều; không có gì quan trọng lắm."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Hãy bỏ những điều không quan trọng và đưa câu hỏi thật sự quan trọng ra ánh sáng, đó là: Nghệ thuật hùng biện này có quyền lực gì, và khi nào?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Một quyền lực rất lớn trong các hội nghị công cộng."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Đúng thế. Nhưng tôi muốn biết liệu anh có cùng cảm giác như tôi về các nhà hùng biện không? Với tôi, dường như tấm lưới của họ có rất nhiều lỗ."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Cho một ví dụ đi."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi sẽ cho. Giả sử có người đến gặp bạn anh là Eryximachus, hay cha ông ta là Acumenus, và nói với ông ta: ‘Tôi biết cách dùng những thứ thuốc có tác dụng làm nóng hay làm lạnh, và tôi có thể gây nôn và cũng có thể xổ, và đủ mọi thứ loại ấy; và vì tôi biết tất cả những điều này, tôi tự nhận là một thầy thuốc và có thể đào tạo thầy thuốc bằng cách truyền kiến thức này cho người khác’, — anh nghĩ họ sẽ nói gì?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Họ hẳn sẽ hỏi anh ta liệu anh ta có biết ‘cho ai’ mình sẽ đưa thuốc, và ‘khi nào’, và ‘bao nhiêu’."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và giả sử anh ta trả lời: ‘Không; tôi không biết gì về tất cả những điều ấy; tôi trông đợi bệnh nhân đến hỏi tôi tự làm được những việc ấy’?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Họ sẽ đáp rằng anh ta là một kẻ điên hay một kẻ lắm chữ, kẻ tưởng mình là thầy thuốc chỉ vì đã đọc được gì đó trong sách, hay đã tình cờ gặp một hai toa thuốc, dẫu anh ta không thật sự hiểu nghệ thuật y học."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và giả sử có người đến gặp Sophocles hay Euripides và nói rằng mình biết cách làm một bài nói rất dài về một việc nhỏ, và một bài nói ngắn về một việc lớn, và cả một bài nói buồn, hay một bài nói khủng khiếp, hay một bài nói đe doạ, hay bất kỳ loại bài nói nào khác, và khi dạy những điều ấy thì tưởng mình đang dạy nghệ thuật bi kịch —?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Họ cũng hẳn sẽ cười anh ta nếu anh ta tưởng rằng bi kịch là gì khác ngoài việc sắp xếp những yếu tố ấy theo một cách thích hợp với nhau và với toàn thể."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Nhưng tôi không cho rằng họ sẽ thô lỗ hay lăng mạ anh ta: chẳng phải họ sẽ đối xử với anh ta như một nhạc sĩ đối xử với kẻ tưởng mình là người hoà âm chỉ vì biết cách lên nốt cao nhất và nốt thấp nhất; nếu tình cờ gặp một người như thế, ông ta sẽ không nói với anh ta một cách dữ dằn: ‘Đồ ngu, mày điên rồi!’ Nhưng như một nhạc sĩ, với một giọng điệu dịu dàng và hài hoà, ông ta sẽ đáp: ‘Anh bạn hiền, kẻ muốn thành người hoà âm thì chắc chắn phải biết điều này, vậy mà anh ta có thể không hiểu gì về sự hoà âm nếu anh ta chưa vượt qua trình độ hiểu biết của anh, vì anh chỉ biết những bước sơ khởi của sự hoà âm chứ không phải chính sự hoà âm.’"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và chẳng phải Sophocles sẽ nói với màn trình diễn của kẻ muốn làm nhà bi kịch rằng đây không phải là bi kịch mà là những bước sơ khởi của bi kịch? và chẳng phải Acumenus cũng sẽ nói như thế về y học với kẻ muốn làm thầy thuốc?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Rất đúng."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và nếu Adrastus có giọng ngọt như mật ong hay Pericles nghe nói đến những nghệ thuật kỳ diệu ấy, những cách nói ngắn, những cách dùng hình ảnh và mọi cái tên khó hiểu mà chúng ta đang cố đưa ra ánh sáng, họ sẽ nói gì? Thay vì nổi giận và gán những tính từ không hay, như anh và tôi đã làm, cho những tác giả của một nghệ thuật tưởng tượng như thế, sự khôn ngoan cao hơn của họ hẳn sẽ chê trách cả chúng ta lẫn họ. ‘Hãy kiên nhẫn một chút, Phaedrus và Socrates, họ sẽ nói; các người không nên nổi giận như thế với những kẻ, vì thiếu kỹ năng biện chứng nào đó, không thể định nghĩa bản tính của thuật hùng biện, và do đó tưởng rằng mình đã tìm ra nghệ thuật ấy trong những điều kiện sơ khởi của nó, và khi đã dạy những điều kiện ấy cho người khác thì tưởng rằng mình đã dạy toàn bộ nghệ thuật hùng biện; còn việc sử dụng các công cụ khác nhau của nghệ thuật một cách hiệu quả, hay làm cho bài soạn thành một toàn thể, — một sự ứng dụng như thế thì họ coi là việc dễ, mà các môn đệ của họ có thể tự làm lấy.’"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi hoàn toàn thừa nhận, Socrates ạ, rằng nghệ thuật hùng biện mà những người này dạy và viết về thì đúng như anh mô tả — ở điểm đó tôi đồng ý với anh. Nhưng tôi vẫn muốn biết nghệ thuật thật của hùng biện và thuyết phục thì phải học ở đâu và bằng cách nào."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Sự hoàn hảo mà người ta đòi hỏi ở một nhà hùng biện đã thành nghề thì cũng như, hay đúng hơn phải như, sự hoàn hảo của bất kỳ thứ gì khác; một phần do tự nhiên ban, nhưng cũng có thể được nghệ thuật trợ giúp. Nếu anh có sức mạnh tự nhiên và thêm vào đó kiến thức cùng luyện tập, anh sẽ là một diễn giả xuất sắc; nếu anh thiếu một trong hai, anh sẽ khiếm khuyết đến mức ấy. Nhưng nghệ thuật của thuật hùng biện, trong chừng mực có một nghệ thuật như thế, thì không nằm về phía Lysias hay Thrasymachus."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Vậy thì về phía nào?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi cho rằng Pericles là nhà hùng biện hoàn hảo nhất."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Thì sao?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Mọi nghệ thuật lớn đều đòi hỏi sự đàm luận và sự suy tư cao siêu về những sự thật của tự nhiên; từ đó mà có sự cao cả của tư tưởng và sự trọn vẹn của việc thực hiện. Và đây, theo tôi, là phẩm chất mà Pericles, ngoài những năng khiếu tự nhiên, đã có được nhờ giao du với Anaxagoras, người mà ông tình cờ quen biết. Ông đã được thấm nhuần triết học cao hơn như thế, và đạt được hiểu biết về Tâm trí và cái đối lập với Tâm trí, những đề tài ưa thích của Anaxagoras, và áp dụng những gì phù hợp với mục đích của mình vào nghệ thuật nói."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Giải thích đi. SOCRATES: Thuật hùng biện giống như y học."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Sao thế, vì y học phải định nghĩa bản tính của thân xác và thuật hùng biện bản tính của linh hồn — nếu chúng ta muốn tiến hành, không phải theo kinh nghiệm mà theo khoa học, trong trường hợp này là để ban sức khoẻ và sức mạnh bằng cách cho thuốc và thức ăn, trong trường hợp kia là để gieo vào sự tin chắc hay đức hạnh mà anh mong muốn, bằng cách áp dụng đúng đắn lời nói và sự rèn luyện."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Chỗ đó, Socrates ạ, tôi ngờ rằng anh đúng."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và anh có nghĩ rằng anh có thể hiểu được bản tính của linh hồn một cách thông tuệ mà không biết bản tính của toàn thể không?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Hippocrates người Asclepiad nói rằng ngay cả bản tính của thân xác cũng chỉ có thể được hiểu như một toàn thể. (So sánh Charmides.)"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vâng, anh bạn, và ông ấy đúng: — dẫu vậy, chúng ta không nên bằng lòng với cái tên Hippocrates, mà phải xem xét và kiểm tra xem lập luận của ông ấy có ăn khớp với quan niệm của ông ấy về tự nhiên không."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi đồng ý."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì hãy xét điều mà sự thật, cũng như Hippocrates, nói về điều này hay về bất kỳ bản tính nào khác. Chẳng phải trước hết chúng ta phải xét xem điều chúng ta muốn học và muốn dạy là một thứ đơn giản hay đa dạng, và nếu đơn giản, thì tìm hiểu xem nó có sức mạnh gì trong việc tác động hay chịu tác động liên quan đến những thứ khác, và nếu đa dạng, thì đếm các hình thức của nó; và xem trước hết trong trường hợp một hình thức, rồi trong trường hợp tất cả chúng, đâu là sức mạnh tác động hay chịu tác động khiến mỗi cái và tất cả chúng trở thành như chúng là?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Có lẽ anh đúng, Socrates ạ."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Phương pháp tiến hành mà không phân tích thì giống như sự dò dẫm của một người mù. Vậy mà chắc chắn kẻ là nghệ sĩ thì không nên chấp nhận bị so với người mù hay người điếc. Nhà hùng biện, kẻ dạy học trò mình nói một cách khoa học, sẽ đặc biệt trình bày bản tính của cái hữu thể mà mình hướng những bài nói của mình tới; và đó, theo tôi, là linh hồn."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Toàn bộ nỗ lực của ông ta đều hướng vào linh hồn; vì ở đó ông ta tìm cách tạo ra sự tin chắc."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì rõ ràng là Thrasymachus, hay bất kỳ ai khác dạy hùng biện một cách nghiêm túc, sẽ mô tả chính xác bản tính của linh hồn; điều ấy sẽ cho chúng ta thấy nàng là một và như nhau, hay, như thân xác, là đa dạng. Đó là điều chúng ta nên gọi là trình bày bản tính của linh hồn."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Thứ hai, ông ta sẽ giải thích cách thức nàng tác động hay chịu tác động."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Thứ ba, sau khi đã phân loại con người và các bài nói, cùng những loại và những tình cảm của chúng, và đã thích ứng chúng với nhau, ông ta sẽ nói lý do cho cách sắp xếp của mình, và chỉ ra vì sao linh hồn này được thuyết phục bởi một hình thức lập luận nào đó, còn linh hồn khác thì không."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh đã tìm ra một cách rất hay."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vâng, đó là cách duy nhất và chân thật để bất kỳ đề tài nào có thể được trình bày hay được xử lý theo những quy tắc của nghệ thuật, dù trong nói hay viết. Nhưng những người viết ngày nay, những kẻ mà anh đã ngồi dưới chân, thì xảo quyệt giấu đi bản tính của linh hồn, thứ mà họ biết rất rõ. Và cho đến khi họ theo phương pháp đọc và viết của chúng ta, chúng ta không thể thừa nhận rằng họ viết theo những quy tắc của nghệ thuật?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Phương pháp của chúng ta là gì?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi không thể đưa ra những chi tiết chính xác; nhưng tôi muốn nói cho anh một cách khái quát, trong mức có thể, về cách một người nên tiến hành theo những quy tắc của nghệ thuật."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Cho tôi nghe đi."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Thuật hùng biện là nghệ thuật làm mê hoặc linh hồn, và vì thế kẻ muốn thành nhà hùng biện phải học những khác biệt giữa các linh hồn con người — chúng nhiều đến thế và có bản tính như thế, và từ chúng mà có những khác biệt giữa người này với người kia. Khi đã tiến được đến đây trong sự phân tích của mình, tiếp theo ông ta sẽ chia các bài nói thành những loại khác nhau: — ‘Những con người như thế này này’, ông ta sẽ nói, ‘bị tác động bởi loại bài nói này hay loại kia theo cách này hay cách kia,’ và ông ta sẽ nói cho anh biết vì sao. Học trò trước hết phải có một ý niệm lý thuyết tốt về chúng, rồi sau đó phải có kinh nghiệm về chúng trong đời sống thực, và có thể theo dõi chúng với mọi giác quan tỉnh táo của mình, nếu không anh ta sẽ không bao giờ vượt qua được những giới luật của các thầy mình. Nhưng khi anh ta hiểu được những con người nào bị thuyết phục bởi những lập luận nào, và thấy người mà mình đang nói một cách trừu tượng đang thật sự ở trước mặt mình, và biết rằng đó chính là người ấy, và có thể tự nhủ: ‘Đây là con người, hay đây là tính cách cần được áp dụng một lập luận nào đó để thuyết phục anh ta về một ý kiến nào đó;’ — kẻ biết tất cả những điều này, và cũng biết khi nào mình nên nói và khi nào nên thôi, khi nào nên dùng những câu nói súc tích, những lời kêu gọi cảm thương, những hiệu ứng gây xúc động, và mọi cách nói khác mà mình đã học; — khi, tôi nói, anh ta biết thời điểm và mùa của tất cả những điều ấy, thì khi ấy, và chỉ khi ấy, anh ta mới là bậc thầy hoàn hảo của nghệ thuật mình; nhưng nếu anh ta thất bại ở bất kỳ điểm nào trong số này, dù khi nói hay khi dạy hay khi viết về chúng, mà lại tuyên bố rằng mình nói theo những quy tắc của nghệ thuật, thì kẻ nói ‘Tôi không tin anh’ sẽ thắng thế. Vậy thì, người thầy sẽ nói, đây có phải là lời trình bày của các anh, Phaedrus và Socrates, về cái được gọi là nghệ thuật hùng biện, hay tôi phải tìm một lời trình bày khác?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Ông ta phải nhận lấy lời này, Socrates ạ, vì không thể có lời nào khác, vậy mà việc tạo ra một nghệ thuật như thế thì không dễ."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Rất đúng; và vì thế hãy xét vấn đề này dưới mọi góc độ, và xem chúng ta có thể tìm ra một con đường ngắn hơn và dễ hơn không; chẳng ích gì khi đi một con đường dài, gập ghềnh và vòng vèo nếu có một con đường ngắn hơn và dễ hơn. Và tôi muốn anh thử nhớ xem anh đã nghe được từ Lysias hay từ ai khác điều gì có thể có ích cho chúng ta không."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Nếu cố gắng thì có ích, thì tôi có thể; nhưng ngay lúc này tôi không nghĩ ra được gì."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Giả sử tôi kể cho anh điều mà một người biết chuyện đã kể cho tôi."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Chẳng phải ‘con sói’, như tục ngữ nói, ‘có quyền đòi được nghe’ sao?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh hãy nói những gì có thể nói để bênh vực nó."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Nó sẽ lập luận rằng chẳng ích gì khi làm ra vẻ nghiêm trọng với những chuyện này, hay đi vòng quanh mãi, cho đến khi anh đạt tới những nguyên lý đầu tiên; vì, như tôi đã nói lúc đầu, khi câu hỏi là về công lý và điều tốt, hay là một câu hỏi liên quan đến những con người công chính và tốt, dù do tự nhiên hay do thói quen, thì kẻ muốn thành nhà hùng biện khéo léo không cần đến sự thật — vì ở các toà án, người ta thật sự chẳng màng gì đến sự thật, mà chỉ màng đến sự tin chắc: và sự ấy dựa trên cái có thể xảy ra, cho nên kẻ muốn thành nhà hùng biện khéo léo phải dồn toàn bộ sự chú ý vào đó. Và họ cũng nói rằng có những trường hợp, nếu sự việc thật là khó có thể xảy ra, thì nên giữ lại, và chỉ nên nói những điều có thể xảy ra trong lời buộc tội hay lời biện hộ, và rằng khi nói, nhà hùng biện phải luôn nhìn vào cái có thể xảy ra, và từ biệt sự thật. Và việc tuân thủ nguyên tắc này suốt một bài nói chính là toàn bộ nghệ thuật."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Đó đúng là điều các giáo sư hùng biện thật sự nói, Socrates ạ. Tôi chưa quên rằng chúng ta đã chạm vào vấn đề này khá vắn tắt rồi; với họ thì điểm ấy là tất cả."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi dám nói rằng anh quen với Tisias. Chẳng phải ông ta định nghĩa cái có thể xảy ra là điều mà số đông nghĩ sao?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Chắc chắn là thế."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi tin rằng ông ta có một trường hợp khéo léo và tài tình như sau: — Ông ta giả định một người yếu ớt và can đảm đã tấn công một người khoẻ mạnh và nhút nhát, và đã cướp của anh ta chiếc áo khoác hay một thứ gì đó; anh ta bị đưa ra toà, và khi ấy Tisias nói rằng cả hai bên đều nên nói dối: kẻ nhút nhát thì nên nói rằng mình bị tấn công bởi nhiều người hơn một; người kia thì nên chứng minh rằng họ chỉ có một mình, và nên lập luận như sau: ‘Làm sao một kẻ yếu như tôi lại có thể tấn công một người mạnh như anh ta?’ Nguyên đơn sẽ không thích thú nhận sự nhút nhát của mình, và vì thế sẽ bịa ra một lời dối khác, mà đối thủ của anh ta sẽ có dịp bác bỏ. Và còn những mưu mẹo khác cùng loại có chỗ trong hệ thống ấy. Tôi nói có đúng không, Phaedrus?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Lạy trời, nghệ thuật huyền bí kỳ diệu làm sao, thứ mà Tisias hay một quý ông nào khác, dưới bất kỳ cái tên hay đất nước nào ông ta ưa thích, đã phát minh ra. Chúng ta có nên nói một lời với ông ta không?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Chúng ta sẽ nói gì với ông ta?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Hãy nói với ông ta rằng, trước khi ông ta xuất hiện, anh và tôi đã nói rằng cái có thể xảy ra mà ông ta nói tới được sinh ra trong tâm trí số đông nhờ sự giống với sự thật, và chúng tôi vừa mới khẳng định rằng kẻ biết sự thật thì luôn biết rõ nhất cách khám phá những sự giống với sự thật. Nếu ông ta có điều gì khác để nói về nghệ thuật nói, chúng tôi muốn nghe; còn nếu không, thì chúng tôi bằng lòng với quan điểm của mình, rằng trừ phi một người ước lượng được những tính cách khác nhau của người nghe mình và có thể chia mọi thứ thành các loại và bao gộp chúng dưới những ý niệm đơn nhất, người ấy sẽ không bao giờ là một nhà hùng biện khéo léo, ngay cả trong giới hạn sức lực con người. Và kỹ năng ấy, người ấy sẽ không đạt được nếu không có rất nhiều nhọc nhằn, thứ mà một người tốt nên chịu đựng, không phải để nói và làm trước mặt người đời, mà để có thể nói điều đẹp lòng Thượng đế và luôn hành động đẹp lòng Người trong mức có thể; vì có một câu nói của những người khôn ngoan hơn chúng ta, rằng một người hiểu biết không nên tìm cách làm vui lòng những người đầy tớ cùng phận với mình (ít nhất đó không nên là mục đích đầu tiên của anh ta) mà làm vui lòng những ông chủ tốt và cao quý của mình; và vì thế nếu con đường dài và vòng vèo, thì đừng lấy làm lạ, vì ở đâu mục đích lớn, ở đó ta có thể đi con đường dài hơn, nhưng không phải vì những mục đích nhỏ hơn như mục đích của anh. Thật vậy, lập luận có thể nói, hỡi Tisias, rằng nếu anh không ngại đi xa đến thế, thì thuật hùng biện có một khởi đầu tốt đẹp ở đây."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi nghĩ, Socrates ạ, điều này thật đáng khâm phục, giá như làm được."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Nhưng ngay cả thất bại trong một mục đích cao quý cũng là điều cao quý."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Có vẻ chúng ta đã nói đủ về một nghệ thuật nói chân thật và giả dối."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Nhưng còn có điều cần nói về sự thích hợp và sự không thích hợp trong việc viết."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Anh có biết cách nào để nói hay hành động về thuật hùng biện một cách đẹp lòng Thượng đế không?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Không, thật tình không. Anh có biết không?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi đã nghe một truyền thuyết của người xưa, đúng hay không thì chỉ họ biết; dẫu rằng nếu chúng ta tự mình tìm ra sự thật, anh có nghĩ rằng chúng ta sẽ còn bận tâm nhiều đến ý kiến của người đời?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Câu hỏi của anh không cần trả lời; nhưng tôi muốn anh kể cho tôi điều mà anh nói rằng anh đã nghe."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Ở thành Naucratis của Ai Cập có một vị thần cổ nổi tiếng, tên là Theuth; loài chim gọi là Ibis là thiêng đối với ông, và ông là người phát minh ra nhiều nghệ thuật, như số học và tính toán và hình học và thiên văn và cờ và xúc xắc, nhưng phát minh lớn của ông là việc dùng chữ cái. Vào thời ấy, thần Thamus là vua của toàn cõi Ai Cập; và Người ngự trong thành phố lớn ở Thượng Ai Cập mà người Hy Lạp gọi là Thebes của Ai Cập, còn chính vị thần ấy thì họ gọi là Ammon. Theuth đến gặp Người và trình bày những phát minh của mình, mong rằng những người Ai Cập khác cũng được phép hưởng lợi từ chúng; ông liệt kê chúng, và Thamus hỏi về công dụng của từng thứ, và khen một số, chê một số, tuỳ Người tán thành hay không tán thành. Sẽ mất nhiều thời gian để kể lại tất cả những gì Thamus nói với Theuth trong lời khen hay lời chê về các nghệ thuật khác nhau. Nhưng khi họ đến chữ cái, Theuth nói: Cái này sẽ làm cho người Ai Cập khôn ngoan hơn và cho họ trí nhớ tốt hơn; nó là một phương thuốc cho cả trí nhớ lẫn trí tuệ. Thamus đáp: Hỡi Theuth tài trí nhất, kẻ làm cha hay kẻ phát minh ra một nghệ thuật không phải lúc nào cũng là người phán đoán giỏi nhất về sự có ích hay vô ích của những phát minh của mình đối với những người sử dụng chúng. Và trong trường hợp này, ngươi, kẻ là cha của chữ cái, vì tình cha yêu con mình, đã bị dẫn dắt gán cho chúng một phẩm chất mà chúng không thể có; vì phát minh này của ngươi sẽ tạo ra sự quên lãng trong linh hồn người học, bởi họ sẽ không dùng trí nhớ của mình; họ sẽ tin vào những ký tự viết bên ngoài mà không tự nhớ lấy. Phương thuốc mà ngươi đã phát minh không phải là trợ giúp cho trí nhớ, mà cho sự hồi tưởng, và ngươi ban cho các môn đệ của mình không phải sự thật, mà chỉ là vẻ ngoài của sự thật; họ sẽ là những kẻ nghe nhiều điều mà không học được gì; họ sẽ có vẻ biết mọi thứ mà thường chẳng biết gì; họ sẽ là những người bạn đồng hành mệt mỏi, có vẻ ngoài của sự khôn ngoan mà không có thực chất."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Vâng, Socrates ạ, anh có thể dễ dàng bịa ra những câu chuyện về Ai Cập, hay về bất kỳ nước nào khác."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Ở đền thờ Dodona có một truyền thống rằng những cây sồi đầu tiên đã đưa ra những lời tiên tri. Người xưa, trong sự đơn sơ của mình khác với triết học trẻ, cho rằng nếu họ nghe được sự thật, dù là từ ‘cây sồi hay tảng đá’, thì thế là đủ cho họ; còn anh có vẻ xét không phải xem một điều có đúng hay không, mà xem người nói là ai và câu chuyện đến từ nước nào."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi thừa nhận lời khiển trách của anh là công bằng; và tôi nghĩ rằng người Thebes đúng trong quan điểm của ông ấy về chữ cái."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Kẻ để lại bằng văn bản hay nhận lấy bằng văn bản bất kỳ nghệ thuật nào với ý rằng lời viết sẽ dễ hiểu hay chắc chắn; hay kẻ cho rằng viết lách tốt hơn hiểu biết và hồi tưởng về chính những điều ấy, thì hẳn là một người rất đơn sơ, và hoàn toàn xa lạ với những lời sấm của Thamus hay Ammon?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Điều đó rất đúng."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi không thể không cảm thấy, Phaedrus ạ, rằng viết lách thật đáng tiếc là giống như hội hoạ; vì những tác phẩm của hoạ sĩ có dáng vẻ của sự sống, vậy mà nếu anh hỏi chúng một câu, chúng giữ một sự im lặng trang nghiêm. Và cũng có thể nói như thế về các bài nói. Anh sẽ tưởng rằng chúng có trí tuệ, nhưng nếu anh muốn biết điều gì và đặt câu hỏi với một trong chúng, thì người nói luôn đưa ra một câu trả lời bất biến. Và khi chúng đã được viết ra một lần, chúng bị xô đẩy khắp nơi giữa những kẻ có thể hiểu hay không hiểu chúng, và chúng không biết phải trả lời ai, không trả lời ai; và, nếu chúng bị ngược đãi hay lăng mạ, chúng không có cha để bảo vệ; và chúng không thể tự bảo vệ hay tự biện hộ."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Điều đó lại rất đúng."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Chẳng phải có một loại lời hay bài nói khác tốt hơn nhiều, và có quyền lực lớn hơn nhiều — một đứa con của cùng một gia đình, nhưng được sinh ra hợp pháp?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh muốn nói đến ai, và nguồn gốc của nó là gì?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi muốn nói đến một lời có trí tuệ được khắc vào linh hồn người học, lời có thể tự bảo vệ mình, và biết khi nào nên nói và khi nào nên im."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh muốn nói đến lời sống của tri thức, thứ có một linh hồn, và lời viết đúng ra chỉ là một hình ảnh của nó?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vâng, dĩ nhiên đó là điều tôi muốn nói. Và giờ tôi có được phép hỏi anh một câu: Một người nông dân hiểu biết có lấy những hạt giống mà mình quý và mong cho sinh quả, rồi một cách nghiêm túc tỉnh táo gieo chúng giữa cơn nóng mùa hè, vào một khu vườn của Adonis nào đó, để vui mừng khi thấy sau tám ngày chúng mọc lên đẹp đẽ không? Ít nhất thì ông ta cũng chỉ làm thế để mua vui và giết thì giờ. Nhưng khi ông ta nghiêm túc, ông ta gieo vào đất thích hợp, và làm nghề nông, và bằng lòng nếu trong tám tháng những hạt giống mình đã gieo đạt tới sự hoàn hảo?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Vâng, Socrates ạ, đó sẽ là cách của ông ta khi ông ta nghiêm túc; còn việc kia, như anh nói, ông ta chỉ làm để chơi."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và chúng ta có thể cho rằng kẻ biết điều công chính, điều tốt và điều cao quý lại kém hiểu biết hơn người nông dân về những hạt giống của chính mình sao?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Vậy thì ông ta sẽ không nghiêm túc nghiêng về việc ‘viết’ những tư tưởng của mình ‘xuống nước’ bằng bút và mực, gieo những lời không thể tự nói cho mình, cũng không thể dạy sự thật một cách thoả đáng cho người khác?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Không, điều ấy khó có thể."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Không, điều ấy khó có thể — trong khu vườn của chữ cái, ông ta sẽ gieo và trồng, nhưng chỉ để tiêu khiển và mua vui; ông ta sẽ viết chúng xuống như những kỷ vật để giữ gìn, phòng khi tuổi già quên lãng, cho chính mình, hay cho bất kỳ ông già nào khác đang bước trên cùng con đường. Ông ta sẽ vui mừng nhìn sự mọc lên non tơ của chúng; và trong khi người khác làm tươi mới linh hồn mình bằng những bữa tiệc và những thứ tương tự, thì đây sẽ là thú tiêu khiển mà những ngày của ông ta trôi qua trong đó."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Một thú tiêu khiển, Socrates ạ, cao quý như thú kia là thấp hèn, thú tiêu khiển của một người có thể vui với những cuộc nói chuyện nghiêm túc, và có thể đàm luận vui vẻ về công lý và những thứ tương tự."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Đúng, Phaedrus ạ. Nhưng cao quý hơn nhiều là sự theo đuổi nghiêm túc của nhà biện chứng, kẻ, khi tìm được một linh hồn đồng điệu, thì nhờ sự trợ giúp của khoa học mà gieo và trồng vào đó những lời có thể tự giúp mình và giúp cả kẻ đã trồng chúng, và không phải là không sinh quả, mà có trong mình một hạt giống mà những người khác, được nuôi trong những loại đất khác nhau, sẽ làm cho bất tử, khiến kẻ sở hữu nó được hạnh phúc đến mức tột cùng của hạnh phúc con người."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Cao quý hơn nhiều, chắc chắn thế."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và giờ, Phaedrus ạ, khi đã đồng ý về những tiền đề, chúng ta có thể quyết định về kết luận."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Về kết luận nào?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Về Lysias, kẻ mà chúng ta đã chê trách, và nghệ thuật viết của ông ta, và các bài diễn văn của ông ta, và kỹ năng hùng biện hay sự thiếu kỹ năng được thể hiện trong đó — đây là những câu hỏi chúng ta đã tìm cách xác định, và chúng đã đưa chúng ta tới điểm này. Và tôi nghĩ rằng giờ chúng ta đã khá rõ về bản tính của nghệ thuật và cái đối lập với nó."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Vâng, tôi nghĩ cùng anh; nhưng tôi muốn anh nhắc lại những gì đã nói."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Cho đến khi một người biết sự thật về từng chi tiết riêng mà mình đang viết hay đang nói, và có thể định nghĩa chúng như chúng là, và khi đã định nghĩa chúng thì lại chia chúng cho đến khi không thể chia được nữa, và cho đến khi anh ta cũng có thể nhận ra bản tính của linh hồn theo cách tương tự, và khám phá những cách nói khác nhau thích hợp với những bản tính khác nhau, và sắp xếp, bố trí chúng sao cho hình thức nói đơn giản có thể được hướng tới bản tính đơn giản hơn, còn hình thức phức tạp và phức hợp hướng tới bản tính phức tạp hơn — cho đến khi anh ta hoàn thành tất cả những điều này, anh ta sẽ không thể xử lý các lập luận theo những quy tắc của nghệ thuật, trong mức bản tính của chúng cho phép chúng chịu sự chi phối của nghệ thuật, dù với mục đích dạy học hay thuyết phục; — đó là quan điểm được hàm ý trong toàn bộ lập luận trước đó."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Vâng, đó chắc chắn là quan điểm của chúng ta."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Thứ hai, về lời chê trách đã dành cho việc nói hay viết các bài diễn văn, và về cách chúng có thể bị chê trách đúng hay sai — chẳng phải lập luận trước của chúng ta đã cho thấy —?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Cho thấy gì?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Rằng dù là Lysias hay bất kỳ nhà văn nào đã từng có hay sẽ có, dù là người tư hay chính khách, đề xuất những đạo luật và nhờ đó trở thành tác giả của một luận thuyết chính trị, với ý rằng có sự chắc chắn và sáng rõ lớn lao nào đó trong tác phẩm của mình, thì chính việc ông ta viết như thế chỉ là một sự ô nhục cho ông ta, dù người đời có nói gì. Vì không biết bản tính của công lý và bất công, của điều tốt và điều xấu, và không thể phân biệt giấc mơ với thực tại, thì thật sự không thể nào khác hơn là điều ô nhục cho ông ta, dù ông ta có được cả thế gian tán thưởng."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Nhưng kẻ nghĩ rằng trong lời viết tất yếu có nhiều điều không nghiêm túc, và rằng thơ cũng như văn xuôi, nói hay viết, đều không có giá trị lớn, nếu, như những bài soạn của các nghệ sĩ ngâm thơ, chúng chỉ được ngâm lên để người ta tin, và không nhằm mục đích phê bình hay giáo huấn; và kẻ nghĩ rằng ngay cả những bài viết hay nhất cũng chỉ là một sự hồi tưởng về điều chúng ta biết, và rằng chỉ trong những nguyên lý của công lý và sự tốt lành và sự cao quý, được dạy và truyền đạt bằng lời nói nhằm mục đích giáo huấn và được khắc vào linh hồn — đó là cách viết chân thật — mới có sự sáng rõ, sự hoàn hảo và sự nghiêm túc, và rằng những nguyên lý như thế là của chính một người và là đứa con hợp pháp của anh ta; — trước hết là lời mà anh ta tìm thấy trong lòng mình; thứ hai là những người anh em và con cháu và họ hàng của ý niệm ấy, những thứ anh ta đã gieo đúng cách vào linh hồn người khác; — và kẻ chăm sóc chúng và không chăm sóc gì khác — đó là hạng người đúng; và anh và tôi, Phaedrus ạ, sẽ cầu nguyện để được trở nên giống như người ấy."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Đó chắc chắn là ước muốn và lời cầu nguyện của tôi."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và giờ vở kịch đã diễn xong; và về thuật hùng biện thì đủ rồi. Hãy đi nói với Lysias rằng chúng ta đã xuống suối và trường học của các Nymph, và được các nàng sai mang một lời nhắn cho ông ta và cho những người soạn bài nói khác — cho Homer và những người viết thơ khác, dù có phổ nhạc hay không; và cho Solon và những người khác đã soạn những bài viết dưới hình thức những bài nói chính trị mà họ gọi là luật — với tất cả họ chúng ta phải nói rằng nếu những bài soạn của họ dựa trên hiểu biết sự thật, và họ có thể bảo vệ hay chứng minh chúng, khi chúng bị thử thách, bằng những lập luận nói ra, những lập luận khiến cho các bài viết của họ trở nên nghèo nàn khi so với chúng, thì họ phải được gọi không chỉ là nhà thơ, nhà hùng biện, nhà lập pháp, mà còn xứng đáng với một cái tên cao hơn, hợp với sự theo đuổi nghiêm túc của đời họ."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh sẽ gán cho họ cái tên gì?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Khôn ngoan thì tôi không thể gọi họ; vì đó là một cái tên lớn chỉ thuộc về Thượng đế, — những kẻ yêu sự khôn ngoan, hay những nhà triết học, là danh hiệu khiêm nhường và xứng đáng của họ."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Rất thích hợp."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Và kẻ không thể vượt lên trên những bài biên soạn và những bài soạn của chính mình, thứ mà ông ta đã lâu nay chắp vá và ghép nối, thêm vào một ít và bớt đi một ít, thì có thể được gọi một cách công bằng là nhà thơ hay kẻ làm bài nói hay kẻ làm luật."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Giờ hãy đi nói điều này với người bạn của anh."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Nhưng còn một người bạn của anh cũng không nên bị quên."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Ông ấy là ai?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Isocrates xinh đẹp: — Anh sẽ gửi lời nhắn gì cho ông ấy, và chúng ta sẽ mô tả ông ấy thế nào?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Isocrates còn trẻ, Phaedrus ạ; nhưng tôi sẵn lòng liều đưa ra một lời tiên tri về ông ấy."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Anh sẽ tiên tri điều gì?"
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Tôi nghĩ rằng ông ấy có một thiên tài vượt trên những bài diễn văn của Lysias, và rằng tính cách của ông ấy được đúc trong một khuôn tốt đẹp hơn. Ấn tượng của tôi về ông ấy là ông ấy sẽ tiến bộ một cách kỳ diệu khi lớn tuổi hơn, và rằng mọi nhà hùng biện trước kia sẽ chỉ như trẻ con khi so với ông ấy. Và tôi tin rằng ông ấy sẽ không bằng lòng với thuật hùng biện, mà trong ông ấy có một sự hứng khởi thần linh sẽ dẫn ông ấy tới những điều còn cao hơn. Vì ông ấy có một yếu tố triết học trong bản tính mình. Đây là lời nhắn của các vị thần ngự ở nơi này, và chính tôi sẽ mang nó tới cho Isocrates, kẻ là niềm vui của tôi; còn anh hãy mang lời kia tới cho Lysias, kẻ là niềm vui của anh."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Tôi sẽ làm thế; và giờ khi cái nóng đã dịu, ta hãy đi."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Chẳng phải trước hết chúng ta nên dâng một lời cầu nguyện lên các vị thần bản xứ sao?"
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Nhất định rồi."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Hỡi Pan yêu dấu, và hỡi mọi vị thần khác ngự ở nơi này, xin ban cho tôi cái đẹp trong linh hồn bên trong; và mong con người bên ngoài và con người bên trong được là một. Xin cho tôi coi kẻ khôn ngoan là kẻ giàu có, và xin cho tôi có được lượng vàng mà chỉ một người tiết độ mới có thể mang và chở nổi. — Còn gì nữa không? Lời cầu nguyện, tôi nghĩ, là đủ cho tôi."
+    },
+    {
+      "type": "p",
+      "text": "PHAEDRUS: Hãy cầu xin điều ấy cho cả tôi, vì bạn bè thì nên có mọi thứ chung."
+    },
+    {
+      "type": "p",
+      "text": "SOCRATES: Ta đi thôi."
+    }
+  ]
+}

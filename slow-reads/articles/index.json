@@ -14,6 +14,24 @@
   ],
   "articles": [
     {
+      "id": "plato-phaedrus",
+      "title": "Phaedrus — Về tình yêu, hùng biện và linh hồn",
+      "title_original": "Phaedrus",
+      "author": "Plato",
+      "source": "gutenberg.org",
+      "source_url": "https://www.gutenberg.org/cache/epub/1636/pg1636-images.html",
+      "lang": "en",
+      "topics": [
+        "Tình yêu",
+        "Con người",
+        "Tư duy & khoa học"
+      ],
+      "summary": "Đối thoại của Plato về tình yêu, thuật hùng biện và bản tính linh hồn: Socrates cùng Phaedrus đi dạo bên sông Ilissus, mổ xẻ một bài diễn văn tán thành kẻ không yêu, rồi đi tới kết luận rằng chỉ kẻ biết sự thật mới nói hay được.",
+      "added": "2026-10-31",
+      "reading_minutes": 161,
+      "coverage": "full"
+    },
+    {
       "id": "ovid-thuoc-chua-tinh-yeu",
       "title": "Thuốc chữa tình yêu",
       "title_original": "Remedia Amoris; or, The Remedy of Love",
