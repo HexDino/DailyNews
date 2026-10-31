@@ -1,0 +1,1031 @@
+{
+  "date": "2026-10-31",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Bảy, ngày 31 tháng 10 năm 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 31/10/2026 · Thứ Bảy · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Phó thủ tướng: giảm 2% giá bán lẻ điện đến 31/3/2027",
+    "Mỹ duyệt bán 500 tên lửa Patriot cho Ukraine",
+    "Ba Lan: cảnh sát bao vây Tòa án Hiến pháp",
+    "Mùa mưa Nam Bộ kết thúc sớm nửa tháng; vàng miếng còn 139 triệu đồng/lượng",
+    "Fact: 31/10/1517, Martin Luther công bố 95 luận đề"
+  ],
+  "followups": [
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Ông Trump nói Iran muốn đàm phán và Mỹ “có thời gian”; Al Jazeera dẫn IRGC nói bốn tàu chở dầu bốc cháy sau khi trúng thủy lôi.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ong-trump-iran-muon-dam-phan-5139012.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử giữa kỳ Mỹ (3/11)",
+      "update": "Còn 3 ngày, hơn 43 triệu người đã bỏ phiếu sớm, phe Dân chủ dẫn thăm dò; nhiều cử tri gốc Latin quay lưng với ông Trump.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/nhung-cu-tri-goc-latin-vo-mong-voi-ong-trump-5139054.html"
+        }
+      ]
+    },
+    {
+      "title": "Ngừng bắn sơ tán Oleshky (Kherson)",
+      "update": "Hàng trăm người đã được sơ tán, nhưng cũng có hàng trăm người ở lại thị trấn tiền tuyến.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo"
+        }
+      ]
+    },
+    {
+      "title": "Kỳ họp thứ hai Quốc hội khóa XVI",
+      "update": "Ngày 31/10 thảo luận kinh tế – xã hội: Phó thủ tướng hứa giảm 2% giá điện, Thống đốc và Bộ trưởng GD&ĐT giải trình.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-17",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/pho-thu-tuong-se-giam-2-gia-ban-le-dien-5139121.html"
+        }
+      ]
+    },
+    {
+      "title": "Tai nạn hai tàu cao tốc ở Tây Ban Nha",
+      "update": "Bộ trưởng Giao thông Óscar Puente từ chối từ chức (ít nhất 69 người chết); BBC nhận định thảm họa phủ bóng cơ hội tái cử của Thủ tướng Sánchez.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-29",
+      "sources": [
+        {
+          "name": "BBC – Puente",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo"
+        },
+        {
+          "name": "BBC – Sánchez",
+          "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo"
+        }
+      ]
+    },
+    {
+      "title": "Phiên xử đường dây lừa đảo Mr Pips",
+      "update": "Phó Đức Nam (Mr Pips) than “tiền nhiều vẫn thấy đời vô nghĩa” vì mắc bệnh tâm thần; vợ Mr Hunter xin trả lại 18 tỷ đồng.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-28",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/mr-pips-than-tien-nhieu-van-thay-doi-vo-nghia-vi-mac-benh-tam-than-5139122.html"
+        },
+        {
+          "name": "VnExpress – Mr Hunter",
+          "url": "https://vnexpress.net/vo-mr-hunter-khai-ve-hon-nhan-tien-ai-nay-giu-xin-duoc-tra-lai-18-ty-dong-5138958.html"
+        }
+      ]
+    },
+    {
+      "title": "Vụ Cây xanh Công Minh",
+      "update": "Ông chủ Nguyễn Công Minh bỏ trốn nhưng tiền vẫn chuyển về tài khoản người nhà.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ong-chu-cay-xanh-cong-minh-bo-tron-tien-van-chuyen-ve-tai-khoan-nguoi-nha-5138857.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-31",
+      "time": "19:30",
+      "timezone": "giờ VN",
+      "title": "Chelsea – Man Utd; Man City – Brighton (22:00), Ngoại hạng Anh vòng 10",
+      "topic": "Bóng đá",
+      "note": "12:30 và 15:00 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Chung kết Đường lên đỉnh Olympia 2026 (sáng 1/11)",
+      "topic": "Đời sống",
+      "note": "Bốn nam sinh trường chuyên tranh ngôi vô địch.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/4-nam-sinh-truong-chuyen-tranh-tai-chung-ket-duong-len-dinh-olympia-2026-co-gi-dac-biet-5137089.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Iran bắt đầu “xử lý pháp lý” mọi tàu của hãng Sinokor (Hàn Quốc) qua eo Hormuz",
+      "topic": "Chính trị",
+      "note": "Theo Cơ quan quản lý eo biển vịnh Ba Tư của Iran.",
+      "sources": [
+        {
+          "name": "Reuters (Devdiscourse)",
+          "url": "https://www.devdiscourse.com/article/international/3998083-reuters-world-news-summary"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Tàu NA2 Vinh – Hà Nội bắt đầu dừng ga Phủ Lý cho người đi khám bệnh",
+      "topic": "Đời sống",
+      "note": "Phục vụ người bệnh tới Bạch Mai, Việt Đức cơ sở 2.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tau-khach-se-dung-o-ga-phu-ly-de-benh-nhan-den-benh-vien-bach-mai-5138315.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "23:30",
+      "timezone": "giờ VN",
+      "title": "Đại chiến Liverpool – Arsenal tại Anfield, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "16:30 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "nửa đầu tháng 11 (chưa chốt ngày)",
+      "timezone": "giờ Abu Dhabi",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi",
+      "topic": "Chính trị",
+      "note": "Điện Kremlin và ông Zelensky ngày 23/10 cùng xác nhận vòng đàm phán cấp đoàn đàm phán diễn ra trong nửa đầu tháng 11.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
+        },
+        {
+          "name": "TASS",
+          "url": "https://tass.com/politics/2206847"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "time": "03:59",
+      "timezone": "UTC+7",
+      "title": "Hết hạn ngừng bắn ở Oleshky và vùng Kherson (22:59 giờ Kyiv ngày 1/11)",
+      "topic": "Chính trị",
+      "note": "Theo ông David Arakhamia; có thể được gia hạn.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6lye1w9p2l8o"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Bầu cử giữa kỳ Mỹ",
+      "topic": "Chính trị",
+      "note": "Quyết định quyền kiểm soát Quốc hội trong hai năm cuối nhiệm kỳ ông Trump.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bau-cu-giua-ky-co-y-nghia-gi-doi-voi-ong-trump-va-quoc-hoi-my-100261022155231309.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Hà Nội bắt đầu chi trả lương hưu tháng 11 qua tài khoản",
+      "topic": "Đời sống",
+      "note": "Lùi một ngày so với thông lệ mùng 2.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thay-doi-lich-chi-tra-luong-huu-thang-11-2026-100261023103231668.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Hạn công bố kết quả chính thức bầu cử Quốc hội Israel (trong vòng 8 ngày sau bầu cử)",
+      "topic": "Chính trị",
+      "note": "Kết quả sơ bộ dự kiến có trong ngày 28/10; sau đó Tổng thống tham vấn các đảng để giao quyền lập chính phủ.",
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/israel-election-netanyahu-eisenkot-3b5a0fd078208155337ee9a0b9fbfde2"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Atlético – Bayern, Barcelona – Aston Villa, Man Utd – Roma, Villarreal – PSG",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 3/11.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Leipzig – Man City, Dortmund – Betis, Slavia Praha – Arsenal (Fenerbahçe – Liverpool, AEK – Real Madrid lúc 0:45)",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 4/11; hai trận sớm 18:45 CET.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại UAE (6–10/11)",
+      "topic": "Chính trị",
+      "note": "Theo ông Zelensky; Điện Kremlin nói châu Âu không tham gia.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "time": "trong ngày",
+      "timezone": "giờ Kenya",
+      "title": "Tuyên án mục sư Paul Mackenzie và 28 bị cáo vụ Shakahola",
+      "topic": "Chính trị",
+      "note": "Đã bị kết tội giết 191 người; báo cáo quản chế nộp tòa ngày 30/10.",
+      "sources": [
+        {
+          "name": "Capital FM",
+          "url": "https://capitalfm.africa/court-convicts-all-29-shakahola-accused-of-murder-sets-sentencing-for-november-6/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "9–20/11",
+      "timezone": "giờ Thổ Nhĩ Kỳ",
+      "title": "Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Chính trị",
+      "note": "Hội nghị thượng đỉnh khí hậu thường niên của Liên Hợp Quốc.",
+      "sources": [
+        {
+          "name": "UNFCCC",
+          "url": "https://unfccc.int/cop31/the-road-to-antalya"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Nghị trường bàn giá điện, tiền gửi, bạo lực học đường và nhà thầu lỗ; giảm thuế cho hộ kinh doanh, khởi tố lãnh đạo TKV, nhân sự mới.",
+      "items": [
+        {
+          "headline": "Phó thủ tướng Nguyễn Văn Thắng: giảm 2% giá bán lẻ điện đến 31/3/2027",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Chính phủ đang chỉ đạo EVN tiết kiệm tối đa chi phí để giảm 2% giá bán lẻ điện đến hết 31/3/2027, theo Phó thủ tướng phát biểu trước Quốc hội."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/pho-thu-tuong-se-giam-2-gia-ban-le-dien-5139121.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thống đốc Phạm Đức Ấn: người dân gửi tiền nhiều vì tin tưởng hệ thống ngân hàng",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Lý giải việc tín dụng vẫn “gánh” phần lớn nhu cầu vốn, Thống đốc gọi đây là “một nét riêng” của Việt Nam và cho rằng xu hướng sẽ đổi khi thị trường vốn hấp dẫn hơn."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thong-doc-nguoi-dan-gui-tien-nhieu-vi-tin-tuong-he-thong-ngan-hang-5139105.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ trưởng Hoàng Minh Sơn: siết kỷ cương, ngăn bạo lực học đường; đại biểu lo đấu giá căng tin đẩy giá suất ăn",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Bộ GD&ĐT phối hợp Bộ Công an hoàn thiện quy định bảo vệ học sinh trên mạng và kiến nghị sửa nghị định phòng chống bạo lực học đường.",
+            "Đại biểu Châu Quỳnh Dao cho rằng tiền thuê mặt bằng căng tin qua đấu giá có thể chiếm 30–40% giá suất ăn."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – bạo lực học đường",
+              "url": "https://vnexpress.net/bo-truong-hoang-minh-son-siet-ky-cuong-ngan-bao-luc-hoc-duong-5139077.html"
+            },
+            {
+              "name": "VnExpress – căng tin",
+              "url": "https://vnexpress.net/dai-bieu-dau-gia-cang-tin-day-gia-suat-an-hoc-sinh-5139088.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đại biểu Trần Thị Vân: nhà thầu xây dựng “càng làm càng lỗ” vì đơn giá công bố thấp hơn thị trường",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Theo bà, nhà thầu dự án đầu tư công có nguy cơ thua lỗ ngay cả trước khi thi công."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dai-bieu-quoc-hoi-nha-thau-xay-dung-cang-lam-cang-lo-5139071.html"
+            }
+          ]
+        },
+        {
+          "headline": "Doanh nghiệp, hộ kinh doanh doanh thu đến 10 tỷ đồng/năm được giảm 30% thuế thu nhập ngay từng kỳ kê khai",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Mức giảm áp dụng ngay khi kê khai hoặc tạm nộp từng kỳ, không phải chờ quyết toán."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/doanh-nghiep-ho-kinh-doanh-duoc-giam-30-thue-tung-ky-ke-khai-5138953.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng giám đốc Khoáng sản TKV bị khởi tố",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Cơ quan điều tra khởi tố lãnh đạo doanh nghiệp thuộc Tập đoàn Than – Khoáng sản Việt Nam."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-giam-doc-khoang-san-tkv-bi-khoi-to-5139078.html"
+            }
+          ]
+        },
+        {
+          "headline": "Phó chủ tịch Thái Nguyên Nguyễn Thị Loan được bổ nhiệm Thứ trưởng Nông nghiệp và Môi trường",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Bà Loan 51 tuổi, do Thủ tướng bổ nhiệm."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/pho-chu-tich-thai-nguyen-giu-chuc-thu-truong-nong-nghiep-va-moi-truong-5138982.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Patriot cho Ukraine, khủng hoảng tòa án ở Ba Lan, G20 không chụp ảnh chung, Triều Tiên, Tây Sahara, Sudan, Novaya Gazeta.",
+      "items": [
+        {
+          "headline": "Mỹ duyệt bán 500 tên lửa Patriot PAC-3 MSE cho Ukraine (khoảng 2,1 tỷ USD); ông Zelensky lo phải chờ nhiều năm",
+          "meta": "31/10 · VnExpress, BBC, Al Jazeera",
+          "body": [
+            "BBC nhận định đây là vũ khí duy nhất đánh chặn hiệu quả tên lửa đạn đạo Nga. Cùng ngày, Ukraine nối lại tập kích nhà máy lọc dầu Nga sau hai tuần tạm dừng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – Zelensky",
+              "url": "https://vnexpress.net/ong-zelensky-ukraine-se-phai-cho-nhieu-nam-de-nhan-500-ten-lua-patriot-5139146.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine"
+            },
+            {
+              "name": "VnExpress – lọc dầu",
+              "url": "https://vnexpress.net/ukraine-noi-lai-tap-kich-nha-may-loc-dau-nga-sau-nua-thang-tam-dung-5139035.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ba Lan: cảnh sát bao vây Tòa án Hiến pháp, Tổng thống Nawrocki hủy công du quay về nước",
+          "meta": "31/10 · VnExpress, BBC",
+          "body": [
+            "BBC cho biết căng thẳng leo thang sau khi chính phủ đình chỉ hai thẩm phán cấp cao và tìm cách truy tố hình sự họ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-thong-ba-lan-huy-cong-du-doi-dau-canh-sat-tai-toa-hien-phap-5139069.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o"
+            }
+          ]
+        },
+        {
+          "headline": "Mỹ hủy ảnh chung hội nghị ngoại trưởng G20 vì nhiều nước không muốn đứng cạnh Ngoại trưởng Nga",
+          "meta": "31/10 · VnExpress, BBC",
+          "body": [
+            "EU, Anh và Australia từ chối chụp ảnh cùng phái đoàn Nga; Ngoại trưởng Anh Ed Miliband đối chất trực tiếp với người đồng cấp Nga."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/my-huy-nghi-thuc-chup-anh-chung-tai-hoi-nghi-ngoai-truong-g20-5139051.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do"
+            }
+          ]
+        },
+        {
+          "headline": "Mỹ, Hàn Quốc, Nhật Bản ra tuyên bố chung đòi Triều Tiên “phi hạt nhân hóa hoàn toàn”",
+          "meta": "31/10 · Al Jazeera",
+          "body": [
+            "Tuyên bố đưa ra khi ông Trump tìm kiếm cuộc gặp mới với ông Kim Jong Un."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea"
+            }
+          ]
+        },
+        {
+          "headline": "Hội đồng Bảo an bác cả hai dự thảo của Mỹ và Nga về Tây Sahara, phái bộ gìn giữ hòa bình chưa được gia hạn",
+          "meta": "31/10 · Al Jazeera",
+          "body": [
+            "Hai nghị quyết cạnh tranh đều không được thông qua."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/31/rival-us-and-russian-resolutions-on-western-sahara-fail-at-un"
+            }
+          ]
+        },
+        {
+          "headline": "Sudan: một chỉ huy cấp cao của RSF đào ngũ, tố lãnh đạo nhóm gia đình trị",
+          "meta": "31/10 · Al Jazeera",
+          "body": [
+            "Trong đoạn phim Al Jazeera có được, ông Siddiq Ander gọi RSF là “dự án thuần túy gia đình”."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/31/rsf-senior-commander-defects-accusing-sudan-groups-leadership-of-nepotism"
+            }
+          ]
+        },
+        {
+          "headline": "Báo độc lập Novaya Gazeta của Nga đóng cửa; nhà sáng lập nói “họ đã bóp nghẹt chúng tôi”",
+          "meta": "30–31/10 · BBC, Al Jazeera",
+          "body": [
+            "Đây là một trong những tờ báo độc lập nổi bật nhất nước Nga trong ba thập niên qua."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Mùa mưa sắp dứt, vàng và USD giảm, tai nạn gần Tân Sơn Nhất, diễn tập hóa dầu, Vietnam Airlines lỗ, phim lậu, rác Cam Ranh, lăng chúa Nguyễn.",
+      "items": [
+        {
+          "headline": "Mùa mưa ở TP HCM và Nam Bộ dự báo kết thúc sớm 10–15 ngày, từ tuần thứ hai tháng 11",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Nắng nóng có thể xuất hiện từ tháng 12."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/mua-mua-o-nam-bo-ket-thuc-som-nua-thang-5138731.html"
+            }
+          ]
+        },
+        {
+          "headline": "Vàng miếng giảm 2,4 triệu đồng còn 139 triệu đồng/lượng; giá USD ngân hàng xuống dưới 26.000 đồng",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Vàng trong nước theo đà lao dốc của giá thế giới, vốn xuống thấp nhất một năm. Đây là lần đầu sau một năm rưỡi nhiều ngân hàng mua bán USD dưới mốc 26.000 đồng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress – vàng",
+              "url": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-31-10-5139058.html"
+            },
+            {
+              "name": "VnExpress – USD",
+              "url": "https://vnexpress.net/gia-usd-ngan-hang-xuong-duoi-26-000-dong-5139037.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hai thanh niên tử vong khi xe SH va chạm xe ben trong hầm chui gần sân bay Tân Sơn Nhất",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Tai nạn xảy ra rạng sáng 31/10; người lái xe máy 19 tuổi."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/doi-nam-nu-tu-vong-sau-tai-nan-trong-ham-chui-gan-san-bay-tan-son-nhat-5139064.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hơn 2.500 người, 147 phương tiện diễn tập chữa cháy, tràn hóa chất tại Tổ hợp hóa dầu Long Sơn",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Kịch bản giả định cháy nổ liên hoàn tại tổ hợp 5 tỷ USD ở TP HCM."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/2-500-nguoi-dien-tap-chua-chay-tai-to-hop-hoa-dau-5-ty-usd-5139143.html"
+            }
+          ]
+        },
+        {
+          "headline": "Vietnam Airlines chuyển từ lãi sang lỗ quý III vì chi phí nhiên liệu tăng thêm 4.360 tỷ đồng",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Chi phí nhiên liệu của công ty mẹ tăng hơn 61%, vượt mức tăng doanh thu."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/vietnam-airlines-doi-them-4-360-ty-dong-chi-phi-nhien-lieu-5139067.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nhóm phát phim lậu thu về 315 tỷ đồng, mua xe sang, nhà đất",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Cơ quan điều tra làm rõ dòng tiền của đường dây."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nhom-phat-phim-lau-thu-ve-315-ty-dong-mua-nhieu-xe-sang-nha-dat-5139073.html"
+            }
+          ]
+        },
+        {
+          "headline": "Rác từ lồng nuôi tôm hùm bủa vây bờ biển Cam Ranh",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Rác tích tụ dọc bờ, nhiều lúc bốc mùi, ảnh hưởng môi trường và du lịch."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/rac-tu-long-tom-hum-bua-vay-bo-bien-cam-ranh-5138277.html"
+            }
+          ]
+        },
+        {
+          "headline": "Huế chi khoảng 60 tỷ đồng tu bổ các lăng chúa Nguyễn đang xuống cấp",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Tường thành nhiều lăng bị nghiêng lún, xô lệch."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hue-chi-60-ty-dong-tu-bo-lang-chua-nguyen-5138973.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Thảm kịch gia đình giáo sư gốc Việt, thỏa thuận thiên nhiên, cá heo Biển Đen, chó cứu hộ Canada, thị trấn giấy Quebec, trực thăng Ấn Độ, Christa Pike.",
+      "items": [
+        {
+          "headline": "Giáo sư gốc Việt Pipo Nguyen-Duy và vợ bị bắn chết tại nhà ở Mỹ, con trai bị cáo buộc là thủ phạm",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Cùng ngày, nghi phạm trong vụ đầu độc nghiên cứu sinh người Việt ở Đại học Wyoming bị truy tố thêm tội mưu sát cấp độ hai."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/vo-chong-giao-su-goc-viet-bi-ban-chet-tai-nha-nghi-pham-la-con-trai-5139008.html"
+            },
+            {
+              "name": "VnExpress – Wyoming",
+              "url": "https://vnexpress.net/nghi-pham-dau-doc-nghien-cuu-sinh-nguoi-viet-bi-truy-to-them-toi-muu-sat-5139089.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hội nghị đa dạng sinh học toàn cầu đạt thỏa thuận, nhưng tiền vẫn là vấn đề",
+          "meta": "31/10 · BBC",
+          "body": [
+            "Các nước tìm cách đưa mục tiêu ngăn suy giảm thiên nhiên trở lại đúng hướng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo"
+            }
+          ]
+        },
+        {
+          "headline": "Chiến tranh Nga – Ukraine tàn phá Biển Đen: hơn 120.000 cá heo chết, thủy lôi trôi nổi",
+          "meta": "31/10 · Al Jazeera",
+          "body": [
+            "Xung đột gây thiệt hại sinh thái nghiêm trọng cho sinh vật biển."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/31/dead-dolphins-naval-mines-russia-ukraine-war-destroys-the-black-sea"
+            }
+          ]
+        },
+        {
+          "headline": "Canada ngừng dùng chó cứu hộ tuyết lở ở dãy Rocky sau 55 năm vì cắt giảm ngân sách",
+          "meta": "30/10 · BBC",
+          "body": [
+            "Chương trình từng tìm thấy nhiều người đi bộ và trẻ em mất tích; quyết định gây phẫn nộ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo"
+            }
+          ]
+        },
+        {
+          "headline": "Thuế quan 50% của Mỹ khiến nhà máy giấy trăm tuổi ở Témiscaming (Quebec) đóng cửa vô thời hạn",
+          "meta": "31/10 · BBC",
+          "body": [
+            "Hàng trăm người mất việc, cư dân đang tìm cách cứu thị trấn."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o"
+            }
+          ]
+        },
+        {
+          "headline": "Trực thăng rơi sau khi cất cánh từ Badrinath (Ấn Độ), 6 người chết",
+          "meta": "30/10 · BBC",
+          "body": [
+            "Máy bay mất liên lạc chiều 30/10 sau khi rời điểm hành hương Hindu."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo"
+            }
+          ]
+        },
+        {
+          "headline": "Tử tù Christa Pike lần đầu lên tiếng sau vụ tiêm thuốc độc bất thành: “bối rối và đau đớn”",
+          "meta": "30–31/10 · BBC, Al Jazeera",
+          "body": [
+            "Bà 50 tuổi, đang bị biệt giam và đối mặt tương lai bất định."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/31/us-execution-survivor-christa-pike-says-she-is-now-in-constant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vắn công nghệ",
+      "tags": [
+        "ai"
+      ],
+      "intro": "Một tin ngắn.",
+      "items": [
+        {
+          "headline": "BBC: tin tặc Triều Tiên là nghi phạm chính trong vụ hack Binance 6,3 tỷ USD, được cho là lớn nhất lịch sử",
+          "meta": "31/10 · BBC",
+          "body": [
+            "Binance đang tìm cách thu hồi số tiền bị đánh cắp."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "BBC – thu hồi",
+              "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo"
+            },
+            {
+              "name": "BBC – Triều Tiên",
+              "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Rùa con về biển, nghề dắt chó robot, ông bố thuê, Halloween Nguyễn Huệ, đầu bếp cà ri mất tích, cùng ba sự kiện ngày 31/10.",
+      "items": [
+        {
+          "headline": "92 rùa con nở, tự bò về biển ở đảo Hòn Cau",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Sau 49 ngày được bảo vệ tại bãi ấp, 92 trong 101 trứng vích đã nở sáng 31/10."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/92-rua-con-no-tro-ve-bien-o-hon-cau-5139079.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ở Mỹ có nghề dắt chó robot đi dạo, lương 20 USD/giờ",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Một startup phần mềm tuyển người bán thời gian để thu thập dữ liệu thực tế cho robot."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nghe-dat-cho-robot-di-dao-o-my-5138295.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thuê người đóng giả bố để lừa bạn trai 150.000 nhân dân tệ, lĩnh 3,5 năm tù",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Người phụ nữ họ Liu ở Sơn Đông còn giả mang thai."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thue-nguoi-dong-gia-bo-de-lua-tien-ban-trai-5138667.html"
+            }
+          ]
+        },
+        {
+          "headline": "Giới trẻ hóa trang “ma quái” chơi Halloween trên phố đi bộ Nguyễn Huệ",
+          "meta": "31/10 · VnExpress",
+          "body": [
+            "Từ nhân vật kinh dị đến hoạt hình, nhiều màn hóa trang thu hút người dân chụp ảnh tối 30/10."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/gioi-tre-tao-hinh-ma-quai-choi-halloween-tren-pho-nguyen-hue-5138996.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đầu bếp Ấn Độ đưa cà ri tới Mỹ năm 1901 rồi biến mất, từng giả làm hoàng tử",
+          "meta": "31/10 · BBC",
+          "body": [
+            "Ranji Smile mở nhà hàng Ấn Độ đầu tiên ở Mỹ."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/crm941n0413o"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 31/10/1517, Martin Luther công bố 95 luận đề, khởi đầu cuộc Cải cách Tin Lành",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Theo truyền thống, Luther gửi văn bản tới Tổng giám mục Albrecht và đóng lên cửa nhà thờ ở Wittenberg."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ninety-five_Theses"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 31/10/1941, công trình tạc tượng núi Rushmore hoàn tất",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Bốn gương mặt tổng thống Mỹ được tạc vào núi đá granite ở Nam Dakota."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Mount_Rushmore"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 31/10/1984, Thủ tướng Ấn Độ Indira Gandhi bị ám sát tại New Delhi",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Bà bị hai cận vệ bắn tại tư dinh."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 31/10/2026 (giờ VN). Không lặp tin số sáng (Hormuz, Oleshky chỉ cập nhật ở mục Theo dõi tin cũ)."
+}
