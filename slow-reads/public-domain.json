@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29",
+  "updated_at": "2026-10-31",
   "note": "Curated public-domain works for Slow Reads. Every gutenberg_id was resolved through the Gutendex API (gutendex.com) and is the canonical Project Gutenberg ebook number. Public domain in the United States; check your own jurisdiction before republishing. est_words is an estimate used to filter works that are too long to translate in one pass.",
   "url_template": "https://www.gutenberg.org/cache/epub/{id}/pg{id}-images.html",
   "works": [
@@ -15,7 +15,8 @@
       ],
       "lang": "en",
       "est_words": 77000,
-      "note": "Nền tảng của Stoicism; nhật ký tự vấn, đọc rời từng đoạn được."
+      "note": "Nền tảng của Stoicism; nhật ký tự vấn, đọc rời từng đoạn được.",
+      "era": "classical"
     },
     {
       "id": "cam-nang-epictetus",
@@ -27,7 +28,8 @@
       ],
       "lang": "en",
       "est_words": 15000,
-      "note": "Ngắn nhất trong bộ ba Stoicism, phù hợp để mở đầu thư viện."
+      "note": "Ngắn nhất trong bộ ba Stoicism, phù hợp để mở đầu thư viện.",
+      "era": "classical"
     },
     {
       "id": "luan-thuyet-epictetus",
@@ -40,7 +42,8 @@
       ],
       "lang": "en",
       "est_words": 45000,
-      "note": "Bản chọn lọc Discourses, dài hơn Enchiridion nhưng vẫn vừa một lượt dịch."
+      "note": "Bản chọn lọc Discourses, dài hơn Enchiridion nhưng vẫn vừa một lượt dịch.",
+      "era": "classical"
     },
     {
       "id": "seneca-doi-song-hanh-phuc",
@@ -53,7 +56,8 @@
       ],
       "lang": "en",
       "est_words": 60000,
-      "note": "Bốn tiểu luận gộp: đời sống hạnh phúc, ân huệ, giận dữ, khoan dung."
+      "note": "Bốn tiểu luận gộp: đời sống hạnh phúc, ân huệ, giận dữ, khoan dung.",
+      "era": "classical"
     },
     {
       "id": "seneca-ve-an-hue",
@@ -66,7 +70,8 @@
       ],
       "lang": "en",
       "est_words": 50000,
-      "note": "Về cho và nhận — chủ đề ơn nghĩa, rất hợp mục Đối nhân xử thế."
+      "note": "Về cho và nhận — chủ đề ơn nghĩa, rất hợp mục Đối nhân xử thế.",
+      "era": "classical"
     },
     {
       "id": "seneca-doi-thoai-nho",
@@ -78,7 +83,8 @@
       ],
       "lang": "en",
       "est_words": 40000,
-      "note": "Các đối thoại ngắn, nhịp nhanh hơn tiểu luận dài."
+      "note": "Các đối thoại ngắn, nhịp nhanh hơn tiểu luận dài.",
+      "era": "classical"
     },
     {
       "id": "montaigne-tieu-luan",
@@ -91,7 +97,8 @@
       ],
       "lang": "en",
       "est_words": 500000,
-      "note": "Rất dài — chỉ dịch khi chọn từng tiểu luận riêng, đừng dịch cả tập trong một lượt."
+      "note": "Rất dài — chỉ dịch khi chọn từng tiểu luận riêng, đừng dịch cả tập trong một lượt.",
+      "era": "classical"
     },
     {
       "id": "cicero-tinh-ban-va-tuoi-gia",
@@ -104,7 +111,8 @@
       ],
       "lang": "en",
       "est_words": 25000,
-      "note": "Hai chuyên luận ngắn về tình bạn và tuổi già; đúng tinh thần đọc chậm."
+      "note": "Hai chuyên luận ngắn về tình bạn và tuổi già; đúng tinh thần đọc chậm.",
+      "era": "classical"
     },
     {
       "id": "cicero-ve-bon-phan",
@@ -117,7 +125,8 @@
       ],
       "lang": "en",
       "est_words": 50000,
-      "note": "Về bổn phận — nền tảng đạo đức nghề nghiệp, hợp mục Sự nghiệp."
+      "note": "Về bổn phận — nền tảng đạo đức nghề nghiệp, hợp mục Sự nghiệp.",
+      "era": "classical"
     },
     {
       "id": "cicero-luan-dam-dao-tusculum",
@@ -130,7 +139,8 @@
       ],
       "lang": "en",
       "est_words": 90000,
-      "note": "Bàn về đau khổ, sợ hãi, hạnh phúc — liệu pháp tâm lý cổ điển."
+      "note": "Bàn về đau khổ, sợ hãi, hạnh phúc — liệu pháp tâm lý cổ điển.",
+      "era": "classical"
     },
     {
       "id": "la-rochefoucauld-ngon-ngu",
@@ -143,7 +153,8 @@
       ],
       "lang": "en",
       "est_words": 20000,
-      "note": "Cách ngôn ngắn, đọc nhặt từng câu; bản dịch tiếng Việt rất dễ đọc."
+      "note": "Cách ngôn ngắn, đọc nhặt từng câu; bản dịch tiếng Việt rất dễ đọc.",
+      "era": "classical"
     },
     {
       "id": "plato-yen-tiec",
@@ -156,7 +167,8 @@
       ],
       "lang": "en",
       "est_words": 30000,
-      "note": "Nguồn gốc khái niệm tình yêu phương Tây; mục Tình yêu hiện chưa có bài nào."
+      "note": "Nguồn gốc khái niệm tình yêu phương Tây; mục Tình yêu hiện chưa có bài nào.",
+      "era": "classical"
     },
     {
       "id": "plato-phaedrus",
@@ -169,7 +181,8 @@
       ],
       "lang": "en",
       "est_words": 20000,
-      "note": "Đối thoại về tình yêu, hùng biện và linh hồn; ngắn hơn Symposium."
+      "note": "Đối thoại về tình yêu, hùng biện và linh hồn; ngắn hơn Symposium.",
+      "era": "classical"
     },
     {
       "id": "ovid-nghe-thuat-yeu",
@@ -182,7 +195,8 @@
       ],
       "lang": "en",
       "est_words": 25000,
-      "note": "Cẩm nang tán tỉnh La Mã, giọng dí dỏm — đối trọng nhẹ nhàng cho mục Tình yêu."
+      "note": "Cẩm nang tán tỉnh La Mã, giọng dí dỏm — đối trọng nhẹ nhàng cho mục Tình yêu.",
+      "era": "classical"
     },
     {
       "id": "descartes-phuong-phap-luan",
@@ -194,7 +208,8 @@
       ],
       "lang": "en",
       "est_words": 20000,
-      "note": "Ngắn, rõ, là mốc của tư duy khoa học hiện đại."
+      "note": "Ngắn, rõ, là mốc của tư duy khoa học hiện đại.",
+      "era": "classical"
     },
     {
       "id": "darwin-hanh-trinh-tau-beagle",
@@ -206,7 +221,8 @@
       ],
       "lang": "en",
       "est_words": 150000,
-      "note": "Du ký khoa học; dài, nên chọn chương thay vì dịch trọn."
+      "note": "Du ký khoa học; dài, nên chọn chương thay vì dịch trọn.",
+      "era": "19c"
     },
     {
       "id": "william-james-thuyet-thuc-dung",
@@ -218,7 +234,8 @@
       ],
       "lang": "en",
       "est_words": 45000,
-      "note": "Giọng giảng bài, dễ đọc; nhập môn triết học thực dụng."
+      "note": "Giọng giảng bài, dễ đọc; nhập môn triết học thực dụng.",
+      "era": "modern"
     },
     {
       "id": "freud-tam-ly-giac-mo",
@@ -230,7 +247,8 @@
       ],
       "lang": "en",
       "est_words": 50000,
-      "note": "Bản nhập môn Freud tự viết, dễ hơn The Interpretation of Dreams."
+      "note": "Bản nhập môn Freud tự viết, dễ hơn The Interpretation of Dreams.",
+      "era": "modern"
     },
     {
       "id": "freud-dien-giai-giac-mo",
@@ -242,7 +260,8 @@
       ],
       "lang": "en",
       "est_words": 200000,
-      "note": "Kinh điển nhưng rất dài — chỉ dịch khi chọn chương."
+      "note": "Kinh điển nhưng rất dài — chỉ dịch khi chọn chương.",
+      "era": "modern"
     },
     {
       "id": "schopenhauer-khon-ngoan-cuoc-song",
@@ -255,7 +274,8 @@
       ],
       "lang": "en",
       "est_words": 30000,
-      "note": "Về danh dự, sở hữu, cách sống — đối trọng lạnh lùng với Stoicism."
+      "note": "Về danh dự, sở hữu, cách sống — đối trọng lạnh lùng với Stoicism.",
+      "era": "19c"
     },
     {
       "id": "schopenhauer-loi-khuyen-va-cach-ngon",
@@ -267,7 +287,8 @@
       ],
       "lang": "en",
       "est_words": 25000,
-      "note": "Cách ngôn về cách hành xử với người đời."
+      "note": "Cách ngôn về cách hành xử với người đời.",
+      "era": "19c"
     },
     {
       "id": "schopenhauer-nghien-cuu-biet-quan",
@@ -280,7 +301,8 @@
       ],
       "lang": "en",
       "est_words": 30000,
-      "note": "Bi quan luận — bổ sung góc nhìn cho mục Tâm lý."
+      "note": "Bi quan luận — bổ sung góc nhìn cho mục Tâm lý.",
+      "era": "19c"
     },
     {
       "id": "emerson-tieu-luan",
@@ -293,7 +315,8 @@
       ],
       "lang": "en",
       "est_words": 60000,
-      "note": "Tuyển tập gộp hai series; chọn bài Self-Reliance, Circles nếu dịch lẻ."
+      "note": "Tuyển tập gộp hai series; chọn bài Self-Reliance, Circles nếu dịch lẻ.",
+      "era": "19c"
     },
     {
       "id": "emerson-tieu-luan-tap-1",
@@ -305,7 +328,8 @@
       ],
       "lang": "en",
       "est_words": 45000,
-      "note": "Gồm History, Self-Reliance, Compensation, Spiritual Laws."
+      "note": "Gồm History, Self-Reliance, Compensation, Spiritual Laws.",
+      "era": "19c"
     },
     {
       "id": "emerson-tieu-luan-tap-2",
@@ -317,7 +341,8 @@
       ],
       "lang": "en",
       "est_words": 45000,
-      "note": "Gồm The Poet, Experience, Character, Nominalist and Realist."
+      "note": "Gồm The Poet, Experience, Character, Nominalist and Realist.",
+      "era": "19c"
     },
     {
       "id": "adam-smith-cua-cai-cac-quoc-gia",
@@ -330,7 +355,8 @@
       ],
       "lang": "en",
       "est_words": 370000,
-      "note": "Rất dài — dịch chương I hoặc chương về phân công lao động."
+      "note": "Rất dài — dịch chương I hoặc chương về phân công lao động.",
+      "era": "classical"
     },
     {
       "id": "bastiat-phap-luat",
@@ -343,7 +369,8 @@
       ],
       "lang": "en",
       "est_words": 10000,
-      "note": "Tiểu luận ngắn, sắc — nhập môn tốt nhất cho mục Tiền bạc."
+      "note": "Tiểu luận ngắn, sắc — nhập môn tốt nhất cho mục Tiền bạc.",
+      "era": "19c"
     },
     {
       "id": "bastiat-tieu-luan-kinh-te",
@@ -356,7 +383,8 @@
       ],
       "lang": "en",
       "est_words": 40000,
-      "note": "Gồm 'What Is Seen and What Is Not Seen' — bài về chi phí cơ hội kinh điển."
+      "note": "Gồm 'What Is Seen and What Is Not Seen' — bài về chi phí cơ hội kinh điển.",
+      "era": "19c"
     },
     {
       "id": "franklin-con-duong-den-su-giau-co",
@@ -369,7 +397,8 @@
       ],
       "lang": "en",
       "est_words": 6000,
-      "note": "Rất ngắn, đọc trong một lần; bản gốc của văn hoá 'lời khuyên làm giàu'."
+      "note": "Rất ngắn, đọc trong một lần; bản gốc của văn hoá 'lời khuyên làm giàu'.",
+      "era": "19c"
     },
     {
       "id": "samuel-smiles-tu-luc",
@@ -382,7 +411,8 @@
       ],
       "lang": "en",
       "est_words": 120000,
-      "note": "Sách gốc của thể loại self-help; nhiều chương đọc độc lập được."
+      "note": "Sách gốc của thể loại self-help; nhiều chương đọc độc lập được.",
+      "era": "19c"
     },
     {
       "id": "franklin-tu-truyen",
@@ -395,7 +425,8 @@
       ],
       "lang": "en",
       "est_words": 70000,
-      "note": "Tự truyện nghề nghiệp kinh điển; chương về 13 đức hạnh đọc riêng được."
+      "note": "Tự truyện nghề nghiệp kinh điển; chương về 13 đức hạnh đọc riêng được.",
+      "era": "classical"
     },
     {
       "id": "thoreau-song-noi-hoang-da",
@@ -407,7 +438,8 @@
       ],
       "lang": "en",
       "est_words": 110000,
-      "note": "Gộp Walden và Civil Disobedience; Walden chia chương rõ."
+      "note": "Gộp Walden và Civil Disobedience; Walden chia chương rõ.",
+      "era": "19c"
     },
     {
       "id": "plutarch-anh-hung-truyen",
@@ -420,7 +452,8 @@
       ],
       "lang": "en",
       "est_words": 500000,
-      "note": "Rất dài — mỗi thiên là một nhân vật, dịch lẻ từng thiên."
+      "note": "Rất dài — mỗi thiên là một nhân vật, dịch lẻ từng thiên.",
+      "era": "classical"
     },
     {
       "id": "hazlitt-ban-chuyen-nguoi",
@@ -433,7 +466,8 @@
       ],
       "lang": "en",
       "est_words": 60000,
-      "note": "Tiểu luận về tính người và cách ăn ở; giọng sắc, nhiều bài đọc lẻ được."
+      "note": "Tiểu luận về tính người và cách ăn ở; giọng sắc, nhiều bài đọc lẻ được.",
+      "era": "19c"
     },
     {
       "id": "chesterton-chinh-thong",
@@ -446,7 +480,8 @@
       ],
       "lang": "en",
       "est_words": 55000,
-      "note": "Lập luận nghịch lý, vui; bản tự thuật về cách hình thành niềm tin."
+      "note": "Lập luận nghịch lý, vui; bản tự thuật về cách hình thành niềm tin.",
+      "era": "modern"
     },
     {
       "id": "chesterfield-cach-ngon",
@@ -458,7 +493,8 @@
       ],
       "lang": "en",
       "est_words": 25000,
-      "note": "Bản tuyển gọn của Letters to His Son — cùng nội dung, dễ dịch hơn bản đầy đủ."
+      "note": "Bản tuyển gọn của Letters to His Son — cùng nội dung, dễ dịch hơn bản đầy đủ.",
+      "era": "classical"
     },
     {
       "id": "chesterfield-thu-gui-con-trai",
@@ -471,7 +507,8 @@
       ],
       "lang": "en",
       "est_words": 200000,
-      "note": "Rất dài; chỉ dịch khi chọn từng bức thư. Bản tuyển gọn ở id chesterfield-cach-ngon."
+      "note": "Rất dài; chỉ dịch khi chọn từng bức thư. Bản tuyển gọn ở id chesterfield-cach-ngon.",
+      "era": "classical"
     },
     {
       "id": "khong-tu-luan-ngu",
@@ -484,7 +521,8 @@
       ],
       "lang": "en",
       "est_words": 25000,
-      "note": "Đối trọng phương Đông cho Stoicism và Cicero; câu ngắn, dịch gọn."
+      "note": "Đối trọng phương Đông cho Stoicism và Cicero; câu ngắn, dịch gọn.",
+      "era": "classical"
     },
     {
       "id": "ruskin-kinh-te-va-dao-duc",
@@ -497,7 +535,8 @@
       ],
       "lang": "en",
       "est_words": 60000,
-      "note": "Bốn tiểu luận phản bác kinh tế học cổ điển; bổ sung góc đạo đức cho mục Tiền bạc."
+      "note": "Bốn tiểu luận phản bác kinh tế học cổ điển; bổ sung góc đạo đức cho mục Tiền bạc.",
+      "era": "19c"
     },
     {
       "id": "stendhal-ban-ve-tinh-yeu",
@@ -510,7 +549,8 @@
       ],
       "lang": "en",
       "est_words": 80000,
-      "note": "Tiểu luận phân tâm về tình yêu, viết từ trải nghiệm; lạnh, sắc, khác hẳn Symposium."
+      "note": "Tiểu luận phân tâm về tình yêu, viết từ trải nghiệm; lạnh, sắc, khác hẳn Symposium.",
+      "era": "19c"
     },
     {
       "id": "balzac-sinh-ly-hon-nhan",
@@ -523,7 +563,8 @@
       ],
       "lang": "en",
       "est_words": 90000,
-      "note": "Khảo sát châm biếm hôn nhân Pháp thế kỷ 19; đọc lẻ từng phần được."
+      "note": "Khảo sát châm biếm hôn nhân Pháp thế kỷ 19; đọc lẻ từng phần được.",
+      "era": "19c"
     },
     {
       "id": "ovid-thuoc-chua-tinh-yeu",
@@ -536,7 +577,8 @@
       ],
       "lang": "en",
       "est_words": 12000,
-      "note": "Ngắn, đối trọng với Ars Amatoria: cách thoát khỏi một mối tình."
+      "note": "Ngắn, đối trọng với Ars Amatoria: cách thoát khỏi một mối tình.",
+      "era": "classical"
     },
     {
       "id": "le-bon-dam-dong",
@@ -549,7 +591,8 @@
       ],
       "lang": "en",
       "est_words": 50000,
-      "note": "Nền tảng của tâm lý đám đông; ảnh hưởng lớn tới thế kỷ 20, đọc cùng lúc với Freud."
+      "note": "Nền tảng của tâm lý đám đông; ảnh hưởng lớn tới thế kỷ 20, đọc cùng lúc với Freud.",
+      "era": "19c"
     },
     {
       "id": "freud-tam-ly-tap-the",
@@ -561,7 +604,8 @@
       ],
       "lang": "en",
       "est_words": 25000,
-      "note": "Freud trả lời Le Bon: vì sao tập thể hạ thấp cá nhân xuống."
+      "note": "Freud trả lời Le Bon: vì sao tập thể hạ thấp cá nhân xuống.",
+      "era": "modern"
     },
     {
       "id": "darwin-bieu-hien-cam-xuc",
@@ -574,7 +618,8 @@
       ],
       "lang": "en",
       "est_words": 100000,
-      "note": "Khởi đầu của nghiên cứu cảm xúc như hiện tượng sinh học."
+      "note": "Khởi đầu của nghiên cứu cảm xúc như hiện tượng sinh học.",
+      "era": "19c"
     },
     {
       "id": "william-james-noi-voi-giao-vien",
@@ -587,7 +632,8 @@
       ],
       "lang": "en",
       "est_words": 50000,
-      "note": "Tâm lý học ứng dụng cho người dạy học; giọng nói chuyện, dễ đọc."
+      "note": "Tâm lý học ứng dụng cho người dạy học; giọng nói chuyện, dễ đọc.",
+      "era": "19c"
     },
     {
       "id": "william-james-y-chi-tin",
@@ -600,7 +646,8 @@
       ],
       "lang": "en",
       "est_words": 60000,
-      "note": "Tiểu luận về niềm tin, thói quen và lựa chọn; nhiều bài đọc lẻ được."
+      "note": "Tiểu luận về niềm tin, thói quen và lựa chọn; nhiều bài đọc lẻ được.",
+      "era": "19c"
     },
     {
       "id": "washington-thoat-than-no-le",
@@ -613,7 +660,8 @@
       ],
       "lang": "en",
       "est_words": 70000,
-      "note": "Tự truyện từ nô lệ tới hiệu trưởng; đối trọng Mỹ cho Franklin."
+      "note": "Tự truyện từ nô lệ tới hiệu trưởng; đối trọng Mỹ cho Franklin.",
+      "era": "19c"
     },
     {
       "id": "smiles-tinh-cach",
@@ -626,7 +674,8 @@
       ],
       "lang": "en",
       "est_words": 90000,
-      "note": "Phần tiếp theo của Self-Help, nặng về tính cách hơn thành đạt."
+      "note": "Phần tiếp theo của Self-Help, nặng về tính cách hơn thành đạt.",
+      "era": "19c"
     },
     {
       "id": "henry-george-tien-bo-va-ngheo-kho",
@@ -639,7 +688,8 @@
       ],
       "lang": "en",
       "est_words": 200000,
-      "note": "Kinh điển về bất bình đẳng đất đai; dài, chọn chương để dịch."
+      "note": "Kinh điển về bất bình đẳng đất đai; dài, chọn chương để dịch.",
+      "era": "19c"
     },
     {
       "id": "veblen-ly-thuyet-giai-cap-nhan-roi",
@@ -652,7 +702,8 @@
       ],
       "lang": "en",
       "est_words": 100000,
-      "note": "Nguồn của khái niệm 'tiêu dùng phô trương'; sắc và hài hước."
+      "note": "Nguồn của khái niệm 'tiêu dùng phô trương'; sắc và hài hước.",
+      "era": "19c"
     },
     {
       "id": "mill-tieu-luan-kinh-te",
@@ -665,7 +716,8 @@
       ],
       "lang": "en",
       "est_words": 40000,
-      "note": "Năm tiểu luận ngắn, gọn hơn Principles rất nhiều."
+      "note": "Năm tiểu luận ngắn, gọn hơn Principles rất nhiều.",
+      "era": "19c"
     },
     {
       "id": "mill-ve-tu-do",
@@ -678,7 +730,8 @@
       ],
       "lang": "en",
       "est_words": 50000,
-      "note": "Luận thuyết nền về tự do cá nhân và giới hạn của quyền lực tập thể."
+      "note": "Luận thuyết nền về tự do cá nhân và giới hạn của quyền lực tập thể.",
+      "era": "19c"
     },
     {
       "id": "mill-thuyet-vi-loi",
@@ -690,7 +743,8 @@
       ],
       "lang": "en",
       "est_words": 25000,
-      "note": "Bản trình bày gọn nhất của chủ nghĩa công lợi."
+      "note": "Bản trình bày gọn nhất của chủ nghĩa công lợi.",
+      "era": "19c"
     },
     {
       "id": "bacon-cong-cu-moi",
@@ -702,7 +756,8 @@
       ],
       "lang": "en",
       "est_words": 80000,
-      "note": "Tuyên ngôn phương pháp khoa học hiện đại; nặng nhưng là gốc."
+      "note": "Tuyên ngôn phương pháp khoa học hiện đại; nặng nhưng là gốc.",
+      "era": "classical"
     },
     {
       "id": "emerson-tu-nhien",
@@ -715,7 +770,8 @@
       ],
       "lang": "en",
       "est_words": 20000,
-      "note": "Tiểu luận mở đầu phong trào transcendentalism; ngắn, mật độ cao."
+      "note": "Tiểu luận mở đầu phong trào transcendentalism; ngắn, mật độ cao.",
+      "era": "19c"
     },
     {
       "id": "thoreau-di-bo",
@@ -727,7 +783,8 @@
       ],
       "lang": "en",
       "est_words": 10000,
-      "note": "Tiểu luận ngắn nhất trong danh mục; một buổi đọc."
+      "note": "Tiểu luận ngắn nhất trong danh mục; một buổi đọc.",
+      "era": "19c"
     },
     {
       "id": "aristotle-dao-duc-hoc-nicomachus",
@@ -740,7 +797,8 @@
       ],
       "lang": "en",
       "est_words": 90000,
-      "note": "Nền của mọi bàn luận về đức hạnh phương Tây; đọc cùng Cicero và Stoicism."
+      "note": "Nền của mọi bàn luận về đức hạnh phương Tây; đọc cùng Cicero và Stoicism.",
+      "era": "classical"
     },
     {
       "id": "arnold-van-hoa-va-vo-chinh-phu",
@@ -753,7 +811,8 @@
       ],
       "lang": "en",
       "est_words": 60000,
-      "note": "Về văn hoá như thứ chống lại hỗn loạn xã hội; tranh luận vẫn còn nóng."
+      "note": "Về văn hoá như thứ chống lại hỗn loạn xã hội; tranh luận vẫn còn nóng.",
+      "era": "19c"
     },
     {
       "id": "woolf-nguoi-doc-thong-thuong",
@@ -766,7 +825,8 @@
       ],
       "lang": "en",
       "est_words": 70000,
-      "note": "Tiểu luận phê bình văn học; mỗi bài độc lập, giọng rất riêng."
+      "note": "Tiểu luận phê bình văn học; mỗi bài độc lập, giọng rất riêng.",
+      "era": "modern"
     },
     {
       "id": "bacon-tieu-luan",
@@ -779,7 +839,8 @@
       ],
       "lang": "en",
       "est_words": 30000,
-      "note": "Cách ngôn về quyền lực, tình bạn, tham vọng; câu ngắn, dịch gọn."
+      "note": "Cách ngôn về quyền lực, tình bạn, tham vọng; câu ngắn, dịch gọn.",
+      "era": "classical"
     },
     {
       "id": "hazlitt-tinh-than-thoi-dai",
@@ -792,7 +853,8 @@
       ],
       "lang": "en",
       "est_words": 70000,
-      "note": "Chân dung các nhân vật đương thời; mẫu mực của thể loại profile."
+      "note": "Chân dung các nhân vật đương thời; mẫu mực của thể loại profile.",
+      "era": "19c"
     },
     {
       "id": "ruskin-me-va-hoa-huong",
@@ -805,7 +867,8 @@
       ],
       "lang": "en",
       "est_words": 30000,
-      "note": "Hai bài giảng về đọc sách và giáo dục phụ nữ; tranh cãi, đáng đọc."
+      "note": "Hai bài giảng về đọc sách và giáo dục phụ nữ; tranh cãi, đáng đọc.",
+      "era": "19c"
     },
     {
       "id": "chesterton-dieu-gi-sai",
@@ -818,7 +881,8 @@
       ],
       "lang": "en",
       "est_words": 60000,
-      "note": "Phê bình xã hội hiện đại bằng nghịch lý; cùng giọng với Orthodoxy."
+      "note": "Phê bình xã hội hiện đại bằng nghịch lý; cùng giọng với Orthodoxy.",
+      "era": "modern"
     },
     {
       "id": "johnson-hoang-tu-rasselas",
@@ -830,7 +894,8 @@
       ],
       "lang": "en",
       "est_words": 30000,
-      "note": "Truyện triết học ngắn về việc không có cách sống nào là đủ."
+      "note": "Truyện triết học ngắn về việc không có cách sống nào là đủ.",
+      "era": "classical"
     },
     {
       "id": "stevenson-virginibus",
@@ -843,7 +908,8 @@
       ],
       "lang": "en",
       "est_words": 30000,
-      "note": "Tiểu luận về hôn nhân, tuổi trẻ, sự bất toàn; giọng ấm, nhẹ."
+      "note": "Tiểu luận về hôn nhân, tuổi trẻ, sự bất toàn; giọng ấm, nhẹ.",
+      "era": "19c"
     },
     {
       "id": "chesterton-di-giao",
@@ -856,7 +922,8 @@
       ],
       "lang": "en",
       "est_words": 60000,
-      "note": "Chân dung các nhà tư tưởng đương thời; tiền đề của Orthodoxy."
+      "note": "Chân dung các nhà tư tưởng đương thời; tiền đề của Orthodoxy.",
+      "era": "modern"
     },
     {
       "id": "santayana-doi-song-ly-tri",
@@ -869,7 +936,8 @@
       ],
       "lang": "en",
       "est_words": 200000,
-      "note": "Năm tập về lý trí trong đời sống; dài, chọn tập để dịch."
+      "note": "Năm tập về lý trí trong đời sống; dài, chọn tập để dịch.",
+      "era": "modern"
     },
     {
       "id": "dewey-dan-chu-va-giao-duc",
@@ -882,7 +950,8 @@
       ],
       "lang": "en",
       "est_words": 120000,
-      "note": "Kinh điển giáo dục hiện đại; đọc cùng Talks to Teachers."
+      "note": "Kinh điển giáo dục hiện đại; đọc cùng Talks to Teachers.",
+      "era": "modern"
     },
     {
       "id": "pater-phuc-hung",
@@ -895,7 +964,8 @@
       ],
       "lang": "en",
       "est_words": 50000,
-      "note": "Nguồn của 'nghệ thuật vị nghệ thuật'; văn xuôi rất đẹp, khó dịch."
+      "note": "Nguồn của 'nghệ thuật vị nghệ thuật'; văn xuôi rất đẹp, khó dịch.",
+      "era": "19c"
     },
     {
       "id": "montaigne-tieu-luan-quyen-1",
@@ -908,7 +978,8 @@
       ],
       "lang": "en",
       "est_words": 35000,
-      "note": "Bản theo quyển — dễ dịch trọn một lượt hơn bản Complete 500k từ."
+      "note": "Bản theo quyển — dễ dịch trọn một lượt hơn bản Complete 500k từ.",
+      "era": "classical"
     },
     {
       "id": "montaigne-tieu-luan-quyen-2",
@@ -921,7 +992,8 @@
       ],
       "lang": "en",
       "est_words": 35000,
-      "note": "Quyển 2, gồm Apology for Raymond Sebond."
+      "note": "Quyển 2, gồm Apology for Raymond Sebond.",
+      "era": "classical"
     },
     {
       "id": "montaigne-tieu-luan-quyen-3",
@@ -934,7 +1006,8 @@
       ],
       "lang": "en",
       "est_words": 35000,
-      "note": "Quyển 3, phần chín nhất của Montaigne."
+      "note": "Quyển 3, phần chín nhất của Montaigne.",
+      "era": "classical"
     },
     {
       "id": "plato-tuyet-nhan-su",
@@ -947,7 +1020,8 @@
       ],
       "lang": "en",
       "est_words": 10000,
-      "note": "Bản tự bào chữa của Socrates — văn bản nền của triết học phương Tây, ngắn và đọc được trọn vẹn."
+      "note": "Bản tự bào chữa của Socrates — văn bản nền của triết học phương Tây, ngắn và đọc được trọn vẹn.",
+      "era": "classical"
     },
     {
       "id": "kant-nguyen-ly-dao-duc",
@@ -960,7 +1034,8 @@
       ],
       "lang": "en",
       "est_words": 30000,
-      "note": "Nền tảng của đạo đức học nghĩa vụ; nguồn gốc của quy tắc vàng hiện đại."
+      "note": "Nền tảng của đạo đức học nghĩa vụ; nguồn gốc của quy tắc vàng hiện đại.",
+      "era": "classical"
     },
     {
       "id": "nietzsche-thus-spake-zarathustra",
@@ -973,7 +1048,8 @@
       ],
       "lang": "en",
       "est_words": 90000,
-      "note": "Sách thơ triết học nổi tiếng nhất của Nietzsche; khó dịch nhưng là đỉnh."
+      "note": "Sách thơ triết học nổi tiếng nhất của Nietzsche; khó dịch nhưng là đỉnh.",
+      "era": "modern"
     },
     {
       "id": "hume-kham-pha-tri-tue",
@@ -986,7 +1062,8 @@
       ],
       "lang": "en",
       "est_words": 50000,
-      "note": "Chủ nghĩa hoài nghi kinh nghiệm; chương về phép màu vẫn được trích đến nay."
+      "note": "Chủ nghĩa hoài nghi kinh nghiệm; chương về phép màu vẫn được trích đến nay.",
+      "era": "classical"
     },
     {
       "id": "russell-nhung-van-de-cua-triet-hoc",
@@ -999,7 +1076,8 @@
       ],
       "lang": "en",
       "est_words": 50000,
-      "note": "Nhập môn triết học phân tích rõ nhất từng viết; giọng bình dân, dễ đọc."
+      "note": "Nhập môn triết học phân tích rõ nhất từng viết; giọng bình dân, dễ đọc.",
+      "era": "modern"
     },
     {
       "id": "mach sollen-qua-quyen",
@@ -1013,7 +1091,8 @@
       ],
       "lang": "en",
       "est_words": 30000,
-      "note": "Quyển sách chính trị nổi tiếng nhất mọi thời; ngắn, mỗi chương một bài học."
+      "note": "Quyển sách chính trị nổi tiếng nhất mọi thời; ngắn, mỗi chương một bài học.",
+      "era": "classical"
     },
     {
       "id": "ton-tu-binh-phap",
@@ -1027,7 +1106,8 @@
       ],
       "lang": "en",
       "est_words": 7000,
-      "note": "Ngắn nhất và nổi tiếng nhất; bản Giles dịch, công cộng hoàn toàn."
+      "note": "Ngắn nhất và nổi tiếng nhất; bản Giles dịch, công cộng hoàn toàn.",
+      "era": "classical"
     },
     {
       "id": "douglass-ke-ke-no-le",
@@ -1040,7 +1120,8 @@
       ],
       "lang": "en",
       "est_words": 35000,
-      "note": "Tự truyện từ nô lệ thành nhà tư tưởng; một trong những văn bản Mỹ quan trọng nhất."
+      "note": "Tự truyện từ nô lệ thành nhà tư tưởng; một trong những văn bản Mỹ quan trọng nhất.",
+      "era": "19c"
     },
     {
       "id": "tolstoy-nghe-thuat-la-gi",
@@ -1053,7 +1134,8 @@
       ],
       "lang": "en",
       "est_words": 60000,
-      "note": "Tolstoy phủ nhận chính sự nghiệp văn chương của mình; tranh luận vẫn chưa dứt."
+      "note": "Tolstoy phủ nhận chính sự nghiệp văn chương của mình; tranh luận vẫn chưa dứt.",
+      "era": "19c"
     },
     {
       "id": "kandinsky-nghe-thuat-tinh-than",
@@ -1066,7 +1148,8 @@
       ],
       "lang": "en",
       "est_words": 25000,
-      "note": "Tuyên ngôn của hội họa trừu tượng, viết bởi chính người mở đường."
+      "note": "Tuyên ngôn của hội họa trừu tượng, viết bởi chính người mở đường.",
+      "era": "19c"
     },
     {
       "id": "eliot-go-la-thi-pham",
@@ -1079,7 +1162,8 @@
       ],
       "lang": "en",
       "est_words": 45000,
-      "note": "Gồm 'Tradition and the Individual Talent' — tiểu luận phê bình quan trọng nhất thế kỷ 20."
+      "note": "Gồm 'Tradition and the Individual Talent' — tiểu luận phê bình quan trọng nhất thế kỷ 20.",
+      "era": "modern"
     },
     {
       "id": "spectator-tap-1",
@@ -1092,7 +1176,8 @@
       ],
       "lang": "en",
       "est_words": 90000,
-      "note": "Mẫu mực của tiểu luận kỳ báo; mỗi số ngắn, đọc xen kẽ được."
+      "note": "Mẫu mực của tiểu luận kỳ báo; mỗi số ngắn, đọc xen kẽ được.",
+      "era": "classical"
     },
     {
       "id": "don-cho-garcia",
@@ -1105,7 +1190,8 @@
       ],
       "lang": "en",
       "est_words": 3500,
-      "note": "Tiểu luận 1.300 từ bán chạy nhất lịch sử ngành in; tuy ngắn, đã định hình văn hoá doanh nghiệp."
+      "note": "Tiểu luận 1.300 từ bán chạy nhất lịch sử ngành in; tuy ngắn, đã định hình văn hoá doanh nghiệp.",
+      "era": "19c"
     },
     {
       "id": "allen-nhung-suy-nghi-lam-nen-con-nguoi",
@@ -1118,7 +1204,8 @@
       ],
       "lang": "en",
       "est_words": 7000,
-      "note": "Kinh điển của thể loại; nguồn của cả nghìn sách self-help sau này."
+      "note": "Kinh điển của thể loại; nguồn của cả nghìn sách self-help sau này.",
+      "era": "modern"
     },
     {
       "id": "wattles-khoa-hoc-lam-giau",
@@ -1131,7 +1218,8 @@
       ],
       "lang": "en",
       "est_words": 30000,
-      "note": "Gốc của 'The Secret' và cả dòng làm giàu hiện đại; đọc để hiểu nguồn gốc."
+      "note": "Gốc của 'The Secret' và cả dòng làm giàu hiện đại; đọc để hiểu nguồn gốc.",
+      "era": "modern"
     },
     {
       "id": "marden-vun-dap-ve-truoc",
@@ -1144,7 +1232,8 @@
       ],
       "lang": "en",
       "est_words": 120000,
-      "note": "Sách dày nhất trong mục này; mỗi chương độc lập."
+      "note": "Sách dày nhất trong mục này; mỗi chương độc lập.",
+      "era": "19c"
     },
     {
       "id": "gibran-nha-tien-tri",
@@ -1157,7 +1246,8 @@
       ],
       "lang": "en",
       "est_words": 20000,
-      "note": "Bán chạy nhất nhì thế kỷ 20 sau Kinh Thánh; thơ văn xuôi về tình yêu, hôn nhân, tự do."
+      "note": "Bán chạy nhất nhì thế kỷ 20 sau Kinh Thánh; thơ văn xuôi về tình yêu, hôn nhân, tự do.",
+      "era": "modern"
     },
     {
       "id": "goethe-noi-dau-cua-thieu-nien-werther",
@@ -1170,7 +1260,8 @@
       ],
       "lang": "en",
       "est_words": 60000,
-      "note": "Tiểu thuyết thư từ làm Goethe nổi tiếng toàn châu Âu năm 25 tuổi."
+      "note": "Tiểu thuyết thư từ làm Goethe nổi tiếng toàn châu Âu năm 25 tuổi.",
+      "era": "classical"
     },
     {
       "id": "jung-tam-ly-vo-thuc",
@@ -1183,7 +1274,8 @@
       ],
       "lang": "en",
       "est_words": 150000,
-      "note": "Bước tách của Jung khỏi Freud; dài, chọn chương."
+      "note": "Bước tách của Jung khỏi Freud; dài, chọn chương.",
+      "era": "modern"
     },
     {
       "id": "freud-tam-ly-hoc-cuoc-song-thuong-ngay",
@@ -1195,7 +1287,218 @@
       ],
       "lang": "en",
       "est_words": 60000,
-      "note": "Nguồn của khái niệm 'sự cố Freud' — đã thành tiếng Việt không cần dịch."
+      "note": "Nguồn của khái niệm 'sự cố Freud' — đã thành tiếng Việt không cần dịch.",
+      "era": "modern"
+    },
+    {
+      "id": "bennett-song-voi-24-gio",
+      "title_original": "How to Live on 24 Hours a Day",
+      "author": "Arnold Bennett",
+      "gutenberg_id": 2274,
+      "topics": [
+        "Phát triển bản thân",
+        "Sự nghiệp"
+      ],
+      "lang": "en",
+      "est_words": 20000,
+      "era": "modern",
+      "note": "Sách quản lý thời gian đầu tiên của thế kỷ 20; giọng châm biếm, vẫn đúng từng câu với dân văn phòng hôm nay."
+    },
+    {
+      "id": "russell-chinh-phuc-hanh-phuc",
+      "title_original": "The Conquest of Happiness",
+      "author": "Bertrand Russell",
+      "gutenberg_id": 77894,
+      "topics": [
+        "Tâm lý",
+        "Phát triển bản thân"
+      ],
+      "lang": "en",
+      "est_words": 55000,
+      "era": "modern",
+      "note": "Russell viết cho người bình thường về cách bớt khổ — cuốn sách hạnh phúc hiện đại nhất trong catalogue."
+    },
+    {
+      "id": "russell-ly-tuong-chinh-tri",
+      "title_original": "Political Ideals",
+      "author": "Bertrand Russell",
+      "gutenberg_id": 4776,
+      "topics": [
+        "Tư duy & khoa học",
+        "Con người"
+      ],
+      "lang": "en",
+      "est_words": 25000,
+      "era": "modern",
+      "note": "Tiểu luận chính trị viết cho người trẻ, ngắn và rõ."
+    },
+    {
+      "id": "lippmann-du-luan",
+      "title_original": "Public Opinion",
+      "author": "Walter Lippmann",
+      "gutenberg_id": 6456,
+      "topics": [
+        "Tư duy & khoa học",
+        "Văn hoá"
+      ],
+      "lang": "en",
+      "est_words": 100000,
+      "era": "modern",
+      "note": "Nguồn gốc của khái niệm 'stereotype' và 'manufacturing consent'; đọc cùng lúc với mạng xã hội hôm nay."
+    },
+    {
+      "id": "mencken-dinh-kien-1",
+      "title_original": "Prejudices, First Series",
+      "author": "H. L. Mencken",
+      "gutenberg_id": 53538,
+      "topics": [
+        "Văn hoá",
+        "Con người"
+      ],
+      "lang": "en",
+      "est_words": 70000,
+      "era": "modern",
+      "note": "Phê bình văn hoá Mỹ đầu thế kỷ 20, giọng độc địa và rất giải trí."
+    },
+    {
+      "id": "post-nghi-thuc-xa-giao",
+      "title_original": "Etiquette",
+      "author": "Emily Post",
+      "gutenberg_id": 14314,
+      "topics": [
+        "Đối nhân xử thế",
+        "Văn hoá"
+      ],
+      "lang": "en",
+      "est_words": 150000,
+      "era": "modern",
+      "note": "Kinh thánh về phép xã giao 1922; đọc để thấy chuẩn mực cư xử đã đổi thế nào."
+    },
+    {
+      "id": "benchley-moi-chuyen-tren-doi",
+      "title_original": "Of All Things",
+      "author": "Robert Benchley",
+      "gutenberg_id": 37660,
+      "topics": [
+        "Văn hoá",
+        "Con người"
+      ],
+      "lang": "en",
+      "est_words": 30000,
+      "era": "modern",
+      "note": "Tản văn hài hước của cây bút The New Yorker; ngắn, đọc giải trí."
+    },
+    {
+      "id": "leacock-nhung-cai-lac-hau",
+      "title_original": "Literary Lapses",
+      "author": "Stephen Leacock",
+      "gutenberg_id": 6340,
+      "topics": [
+        "Văn hoá",
+        "Con người"
+      ],
+      "lang": "en",
+      "est_words": 25000,
+      "era": "modern",
+      "note": "Hài hước Canada cổ điển, mỗi bài vài trăm chữ."
+    },
+    {
+      "id": "chesterton-nguoi-song",
+      "title_original": "Manalive",
+      "author": "G. K. Chesterton",
+      "gutenberg_id": 1718,
+      "topics": [
+        "Con người",
+        "Triết học"
+      ],
+      "lang": "en",
+      "est_words": 55000,
+      "era": "modern",
+      "note": "Tiểu thuyết triết học vui về một người quyết định sống như thể mọi thứ đều mới."
+    },
+    {
+      "id": "wells-luc-luong-xa-hoi",
+      "title_original": "Social Forces in England and America",
+      "author": "H. G. Wells",
+      "gutenberg_id": 64186,
+      "topics": [
+        "Lịch sử",
+        "Văn hoá"
+      ],
+      "lang": "en",
+      "est_words": 90000,
+      "era": "modern",
+      "note": "Wells phân tích xã hội công nghiệp; nhiều dự đoán đã thành sự thật."
+    },
+    {
+      "id": "van-loon-chuyen-nhan-loai",
+      "title_original": "The Story of Mankind",
+      "author": "Hendrik Willem van Loon",
+      "gutenberg_id": 754,
+      "topics": [
+        "Lịch sử",
+        "Con người"
+      ],
+      "lang": "en",
+      "est_words": 90000,
+      "era": "modern",
+      "note": "Lịch sử nhân loại viết cho thiếu niên, đoạt giải Newbery; giọng kể cực kỳ dễ chịu."
+    },
+    {
+      "id": "dreiser-muoi-hai-nguoi-dan-ong",
+      "title_original": "Twelve Men",
+      "author": "Theodore Dreiser",
+      "gutenberg_id": 14717,
+      "topics": [
+        "Con người",
+        "Văn hoá"
+      ],
+      "lang": "en",
+      "est_words": 70000,
+      "era": "modern",
+      "note": "Chân dung mười hai người Mỹ thường; mẫu mực của thể loại profile."
+    },
+    {
+      "id": "bourne-tuoi-tre-va-cuoc-doi",
+      "title_original": "Youth and Life",
+      "author": "Randolph Bourne",
+      "gutenberg_id": 67628,
+      "topics": [
+        "Con người",
+        "Phát triển bản thân"
+      ],
+      "lang": "en",
+      "est_words": 45000,
+      "era": "modern",
+      "note": "Tiểu luận về tuổi trẻ, giáo dục và tự do; viết cho sinh viên, vẫn tươi."
+    },
+    {
+      "id": "shaw-so-tay-nguoi-phu-nu-thong-minh",
+      "title_original": "The intelligent woman's guide to socialism and capitalism",
+      "author": "Bernard Shaw",
+      "gutenberg_id": 75859,
+      "topics": [
+        "Tiền bạc",
+        "Đối nhân xử thế"
+      ],
+      "lang": "en",
+      "est_words": 180000,
+      "era": "modern",
+      "note": "Shaw giải thích kinh tế cho người không học kinh tế; giọng trực diện, nhiều chương đọc lẻ được."
+    },
+    {
+      "id": "gilman-phu-nu-va-kinh-te",
+      "title_original": "Women and Economics",
+      "author": "Charlotte Perkins Gilman",
+      "gutenberg_id": 57913,
+      "topics": [
+        "Sự nghiệp",
+        "Con người"
+      ],
+      "lang": "en",
+      "est_words": 60000,
+      "era": "modern",
+      "note": "Về phụ nữ, lao động và độc lập kinh tế; tranh luận vẫn đang tiếp diễn."
     }
   ]
 }

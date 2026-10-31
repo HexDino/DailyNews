@@ -60,11 +60,18 @@ def build_candidates(args: argparse.Namespace, catalog_path: Path) -> list[dict]
     template = catalog.get("url_template") or DEFAULT_URL_TEMPLATE
     seen_urls, seen_titles = load_seen()
     wanted = {t.strip().lower() for t in (args.topics or []) if t.strip()}
+    excluded = {e.strip().lower() for e in (args.exclude_era or []) if e.strip()}
+    only = {e.strip().lower() for e in (args.era or []) if e.strip()}
 
     picked: list[dict] = []
     for work in catalog.get("works") or []:
         gid = work.get("gutenberg_id")
         if not isinstance(gid, int):
+            continue
+        era = str(work.get("era") or "19c").lower()
+        if excluded and era in excluded:
+            continue
+        if only and era not in only:
             continue
         words = work.get("est_words") or 0
         if args.max_words and words > args.max_words:
@@ -93,15 +100,24 @@ def build_candidates(args: argparse.Namespace, catalog_path: Path) -> list[dict]
                 "feed_mode": "catalog",
                 "gutenberg_id": gid,
                 "est_words": words,
+                "era": era,
                 "suggested_id": work.get("id") or "",
             }
         )
 
-    # Shortest first: a 15,000-word Enchiridion is publishable today, a
-    # 500,000-word Plutarch is a project.
-    picked.sort(key=lambda c: (c["est_words"] or 0, c["title"]))
+    # Contemporary work first, then length: a reader who asked for modern topics
+    # should not get Plato just because Plato is short.
+    era_rank = {"modern": 0, "19c": 1, "classical": 2}
+    picked.sort(key=lambda c: (era_rank.get(c["era"], 1), c["est_words"] or 0, c["title"]))
     if not args.no_diversify:
-        picked = interleave_topics(picked)
+        # Interleave inside each era tier, then concatenate: topic spread must
+        # not pull a 19th-century title above a modern one.
+        tiers: dict[str, list[dict]] = {}
+        for candidate in picked:
+            tiers.setdefault(candidate["era"], []).append(candidate)
+        picked = []
+        for era in sorted(tiers, key=lambda e: era_rank.get(e, 1)):
+            picked.extend(interleave_topics(tiers[era]))
     return picked[: args.limit]
 
 
@@ -133,7 +149,7 @@ def print_table(candidates: list[dict]) -> None:
     for candidate in candidates:
         topics = ", ".join(candidate.get("topics") or [])
         print(
-            f"{candidate['est_words']:>7,}w  {candidate['suggested_id']:<34} "
+            f"{candidate['est_words']:>7,}w {candidate.get('era','?')[:4]:<5} {candidate['suggested_id']:<32} "
             f"{candidate['title'][:46]:<46} | {topics}"
         )
         print(f"          {candidate['url']}")
@@ -157,12 +173,21 @@ def main() -> int:
     parser.add_argument("--limit", type=int, default=10)
     parser.add_argument("--out", type=Path, help="write JSON here instead of stdout")
     parser.add_argument("--pretty", action="store_true", help="indent JSON output")
+    parser.add_argument(
+        "--exclude-era",
+        help="comma-separated eras to skip: classical, 19c, modern",
+    )
+    parser.add_argument("--era", help="only these eras: classical, 19c, modern")
     parser.add_argument("--no-diversify", action="store_true", help="keep length order")
     parser.add_argument("--table", action="store_true", help="human-readable table")
     args = parser.parse_args()
 
     if args.topics:
         args.topics = [t for t in args.topics.split(",") if t.strip()]
+    if args.exclude_era:
+        args.exclude_era = [e for e in args.exclude_era.split(",") if e.strip()]
+    if args.era:
+        args.era = [e for e in args.era.split(",") if e.strip()]
 
     candidates = build_candidates(args, args.catalog)
 

@@ -35,7 +35,16 @@ Cả hai chạy độc lập, **không phụ thuộc Grok hay bất kỳ đề x
 
 Cả hai đều dừng nếu `validate --strict` hoặc `rights_gate` báo lỗi. Đổi tần suất trong phần Automations của WorkBuddy.
 
-Runway hiện tại: **16 tác phẩm ≤25.000 từ** và **40 tác phẩm ≤50.000 từ** — khoảng 40 ngày ở nhịp ngày. Muốn chạy dài hơn thì bổ sung catalogue; tra ID bằng `pg_catalog.csv` như trên.
+Runway: 33 tác phẩm `modern` (1900+), 39 tác phẩm `19c`, 36 `classical` (bị loại khỏi automation). Ở nhịp ngày, phần hiện đại đủ khoảng 33 ngày; cộng thêm nhánh tóm tắt 5 buổi/tuần từ báo đương đại.
+
+Lọc theo thời đại:
+
+```bash
+python3 scripts/discover_pd.py --exclude-era classical --max-words 30000 --table
+python3 scripts/discover_pd.py --era modern --limit 10 --table
+```
+
+Tra ID tác phẩm mới bằng `pg_catalog.csv` như trên.
 
 `source_stats` là các con số đo nguồn (số từ/ký tự/đoạn/câu/heading + sha256), do `scripts/attach_source_stats.py` sinh ra. Nó cho phép CI kiểm độ phủ bản dịch mà **không cần** đưa nội dung nguồn lên repo.
 
@@ -177,7 +186,9 @@ Output có `source_id, source, url, title, author, published, summary, topics, l
 
 Báo đương đại gần như đều `all rights reserved`. Public domain thì không: dịch, đăng, bán đều được. Đây là nơi thư viện nên dày lên.
 
-**Catalogue**: `slow-reads/public-domain.json` — 73 tác phẩm, trải 8 chủ đề. Mỗi entry có `gutenberg_id` **đã đối chiếu**, `topics`, `est_words`, và `note` giải thích vì sao hợp chủ đề. Không dùng RSS của Gutenberg làm nguồn chính: feed đó chỉ liệt kê sách tải lên hôm nay, không liên quan gì tới chủ đề.
+**Định hướng nội dung (31/10/2026)**: độc giả là người trẻ, cần đề tài gần đời sống hiện đại. Đã ngừng đăng văn bản cổ điển / thần thoại Hy Lạp – La Mã. Mỗi entry trong catalogue có trường `era` — `classical` (trước 1800), `19c`, `modern` (1900+). Automation chạy với `--exclude-era classical` và xếp `modern` lên trước.
+
+**Catalogue**: `slow-reads/public-domain.json` — 108 tác phẩm, trải 8 chủ đề. Mỗi entry có `gutenberg_id` **đã đối chiếu**, `topics`, `est_words`, và `note` giải thích vì sao hợp chủ đề. Không dùng RSS của Gutenberg làm nguồn chính: feed đó chỉ liệt kê sách tải lên hôm nay, không liên quan gì tới chủ đề.
 
 Nguồn tra ID: **`https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv`** (~21 MB, 90k dòng, có cột Authors/Subjects/Bookshelves). Tải một lần rồi grep local — nhanh và không bị rate limit. Gutendex (`gutendex.com`) cũng dùng được nhưng hay trả 503; chỉ nên dùng khi cần metadata bổ sung.
 
