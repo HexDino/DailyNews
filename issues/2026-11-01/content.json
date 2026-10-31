@@ -1,0 +1,1272 @@
+{
+  "date": "2026-11-01",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 01/11/2026 · Chủ Nhật · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Giá xăng giảm tới 1.800 đồng/lít, giá điện giảm 2% từ hôm nay",
+    "Brighton thắng Man City; Chelsea hạ Man Utd 10 người",
+    "Binance bù 90% tài sản bị hack 6,3 tỷ USD",
+    "DeepSeek công bố bản mẫu agent lập trình dsh-superagent"
+  ],
+  "followups": [
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Lãnh tụ Tối cao Khamenei ra lệnh sẵn sàng đáp trả “không giới hạn địa lý”; Ngoại trưởng Araghchi gọi thư của ông Vance là “bước tích cực”, còn ông Trump nói đề xuất chỉ về viện trợ y tế.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/lanh-tu-toi-cao-iran-ra-lenh-san-sang-phan-cong-khong-gioi-han-5139193.html"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/iran-vua-khen-vua-canh-bao-my-sau-khi-nhan-mot-buc-thu-100261031210610823.htm"
+        }
+      ]
+    },
+    {
+      "title": "Ngừng bắn sơ tán Oleshky (Kherson)",
+      "update": "Hàng trăm người sơ tán đã về tới miền bắc Ukraine qua Belarus ngày 31/10; thỏa thuận ngừng bắn hết hạn đêm 1/11 giờ Kyiv.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o"
+        }
+      ]
+    },
+    {
+      "title": "Khủng hoảng Tòa Hiến pháp Ba Lan",
+      "update": "Tổng thống Nawrocki cáo buộc chính phủ Tusk chiếm giữ tòa “bằng vũ lực” và kêu gọi tham vấn chính trị khẩn cấp.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-31-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tong-thong-ba-lan-to-thu-tuong-thau-tom-toa-hien-phap-5139216.html"
+        }
+      ]
+    },
+    {
+      "title": "Giảm giá bán lẻ điện 2%",
+      "update": "EVN công bố giá bình quân mới 2.159,90 đồng/kWh, áp dụng từ 1/11.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-31-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/gia-dien-giam-2-tu-ngay-mai-5139154.html"
+        }
+      ]
+    },
+    {
+      "title": "Quả Bóng Vàng 2026",
+      "update": "Ban tổ chức điều tra, liên hệ cảnh sát về 12 tài khoản đặt cược đúng top 5 trước lễ trao giải; Kane ra mắt danh hiệu trước khán giả Bayern.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-27",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/nghi-an-lo-ket-qua-qua-bong-vang-2026-5139191.html"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử giữa kỳ Mỹ (3/11)",
+      "update": "Elon Musk đã chi hơn 445 triệu USD cho phe Cộng hòa; cuộc đua Thượng viện Texas Talarico – Paxton được theo dõi sát.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/con-mua-tien-elon-musk-rot-vao-bau-cu-giua-ky-my-5139020.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-01",
+      "title": "Chung kết Đường lên đỉnh Olympia 2026 (sáng 1/11)",
+      "topic": "Đời sống",
+      "note": "Bốn nam sinh trường chuyên tranh ngôi vô địch.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/4-nam-sinh-truong-chuyen-tranh-tai-chung-ket-duong-len-dinh-olympia-2026-co-gi-dac-biet-5137089.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Iran bắt đầu “xử lý pháp lý” mọi tàu của hãng Sinokor (Hàn Quốc) qua eo Hormuz",
+      "topic": "Chính trị",
+      "note": "Theo Cơ quan quản lý eo biển vịnh Ba Tư của Iran.",
+      "sources": [
+        {
+          "name": "Reuters (Devdiscourse)",
+          "url": "https://www.devdiscourse.com/article/international/3998083-reuters-world-news-summary"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Tàu NA2 Vinh – Hà Nội bắt đầu dừng ga Phủ Lý cho người đi khám bệnh",
+      "topic": "Đời sống",
+      "note": "Phục vụ người bệnh tới Bạch Mai, Việt Đức cơ sở 2.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tau-khach-se-dung-o-ga-phu-ly-de-benh-nhan-den-benh-vien-bach-mai-5138315.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "23:30",
+      "timezone": "giờ VN",
+      "title": "Đại chiến Liverpool – Arsenal tại Anfield, Ngoại hạng Anh",
+      "topic": "Bóng đá",
+      "note": "16:30 giờ Anh (GMT).",
+      "sources": [
+        {
+          "name": "Premier League",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "time": "nửa đầu tháng 11 (chưa chốt ngày)",
+      "timezone": "giờ Abu Dhabi",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi",
+      "topic": "Chính trị",
+      "note": "Điện Kremlin và ông Zelensky ngày 23/10 cùng xác nhận vòng đàm phán cấp đoàn đàm phán diễn ra trong nửa đầu tháng 11.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
+        },
+        {
+          "name": "TASS",
+          "url": "https://tass.com/politics/2206847"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "time": "03:59",
+      "timezone": "UTC+7",
+      "title": "Hết hạn ngừng bắn ở Oleshky và vùng Kherson (22:59 giờ Kyiv ngày 1/11)",
+      "topic": "Chính trị",
+      "note": "Theo ông David Arakhamia; có thể được gia hạn.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6lye1w9p2l8o"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Bầu cử giữa kỳ Mỹ",
+      "topic": "Chính trị",
+      "note": "Quyết định quyền kiểm soát Quốc hội trong hai năm cuối nhiệm kỳ ông Trump.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bau-cu-giua-ky-co-y-nghia-gi-doi-voi-ong-trump-va-quoc-hoi-my-100261022155231309.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Hà Nội bắt đầu chi trả lương hưu tháng 11 qua tài khoản",
+      "topic": "Đời sống",
+      "note": "Lùi một ngày so với thông lệ mùng 2.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thay-doi-lich-chi-tra-luong-huu-thang-11-2026-100261023103231668.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "title": "AFC Champions League Two: FC Seoul – Thể Công",
+      "topic": "Bóng đá",
+      "note": "Trận đầu sau khi Thể Công chia tay HLV Popov.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hlv-popov-bi-sa-thai-sau-mach-tran-toi-te-cua-the-cong-5139208.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Hạn công bố kết quả chính thức bầu cử Quốc hội Israel (trong vòng 8 ngày sau bầu cử)",
+      "topic": "Chính trị",
+      "note": "Kết quả sơ bộ dự kiến có trong ngày 28/10; sau đó Tổng thống tham vấn các đảng để giao quyền lập chính phủ.",
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/israel-election-netanyahu-eisenkot-3b5a0fd078208155337ee9a0b9fbfde2"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Atlético – Bayern, Barcelona – Aston Villa, Man Utd – Roma, Villarreal – PSG",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 3/11.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "title": "125 năm ngày sinh Giáo sư Trần Huy Liệu",
+      "topic": "Văn hoá",
+      "note": "Lễ kỷ niệm đã tổ chức sớm tại Vụ Bản (Ninh Bình) ngày 31/10.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/nhan-luu-niem-giao-su-tran-huy-lieu-duoc-cong-nhan-la-di-tich-quoc-gia-10026103119333913.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Leipzig – Man City, Dortmund – Betis, Slavia Praha – Arsenal (Fenerbahçe – Liverpool, AEK – Real Madrid lúc 0:45)",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 4/11; hai trận sớm 18:45 CET.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại UAE (6–10/11)",
+      "topic": "Chính trị",
+      "note": "Theo ông Zelensky; Điện Kremlin nói châu Âu không tham gia.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "time": "trong ngày",
+      "timezone": "giờ Kenya",
+      "title": "Tuyên án mục sư Paul Mackenzie và 28 bị cáo vụ Shakahola",
+      "topic": "Chính trị",
+      "note": "Đã bị kết tội giết 191 người; báo cáo quản chế nộp tòa ngày 30/10.",
+      "sources": [
+        {
+          "name": "Capital FM",
+          "url": "https://capitalfm.africa/court-convicts-all-29-shakahola-accused-of-murder-sets-sentencing-for-november-6/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "9–20/11",
+      "timezone": "giờ Thổ Nhĩ Kỳ",
+      "title": "Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Chính trị",
+      "note": "Hội nghị thượng đỉnh khí hậu thường niên của Liên Hợp Quốc.",
+      "sources": [
+        {
+          "name": "UNFCCC",
+          "url": "https://unfccc.int/cop31/the-road-to-antalya"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Sam Altman: “thật tệ” khi RAM khan hiếm lại nằm trong máy người dùng thay vì trung tâm dữ liệu",
+          "meta": "VnExpress · Cheeky Pint · 30–31/10",
+          "body": [
+            "Trong phỏng vấn với kênh YouTube Cheeky Pint công bố ngày 30/10, CEO OpenAI Sam Altman bày tỏ lo ngại về xu hướng muốn chạy AI suy luận cục bộ trên thiết bị. Ông cho rằng xét về phân bổ nguồn lực toàn cầu, việc nguồn cung RAM hạn chế nằm trong máy tính cá nhân và chỉ được dùng khoảng 5% thời gian là “thật tệ”.",
+            "Tom's Hardware, được VnExpress dẫn lại, nhận xét Altman thực chất đang bảo vệ mô hình kinh doanh dựa trên mô hình đóng chạy ở trung tâm dữ liệu của OpenAI."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/sam-altman-that-te-khi-ram-nam-trong-may-nguoi-dung-5139149.html"
+            }
+          ]
+        },
+        {
+          "headline": "OpenAI được cho là hạ mục tiêu vòng gọi vốn mới xuống 20 tỷ USD",
+          "meta": "TechCrunch · FT · WSJ · 31/10",
+          "body": [
+            "Theo Financial Times, OpenAI đã hạ mục tiêu vòng gọi vốn từ 30 tỷ xuống 20 tỷ USD, với đợt chốt đầu tiên còn thấp hơn; nhóm nhà đầu tư UAE dẫn dắt vòng này. Wall Street Journal cho biết công ty mới huy động được 11 tỷ USD và gặp phản ứng “nhạt” từ một số nhà đầu tư lớn."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+            }
+          ]
+        },
+        {
+          "headline": "Lỗ hổng cho phép chiếm tài khoản ChatGPT chỉ bằng một đường link chia sẻ",
+          "meta": "Parameter Labs · 28/10",
+          "body": [
+            "Nhóm nghiên cứu Parameter cho biết vào tháng 10/2026 họ tìm ra cách biến một cuộc trò chuyện ChatGPT được chia sẻ công khai thành JavaScript do kẻ tấn công kiểm soát, chạy trong phiên đăng nhập của người mở link. Mã độc có thể liệt kê danh sách hội thoại, đọc nội dung hội thoại riêng tư và gửi ra máy chủ ngoài.",
+            "Chuỗi tấn công bắt đầu từ hai tính năng tưởng vô hại là biểu đồ và HTML Preview; nạn nhân chỉ cần mở link chia sẻ."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Parameter",
+              "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+            }
+          ]
+        },
+        {
+          "headline": "Bản giả mạo tiện ích Claude Code trên chợ tiện ích của Cursor cài cửa hậu SSH, tới 5.000 lập trình viên bị phơi nhiễm",
+          "meta": "BleepingComputer · 30/10",
+          "body": [
+            "Một phiên bản độc hại của tiện ích Claude Code cho VS Code đã được phát tán qua chợ tiện ích (extension marketplace) của Cursor trong khoảng 11 giờ ngày 29/10, có thể khiến tới 5.000 lập trình viên nhiễm mã độc cài cửa hậu SSH lâu dài. Ai đã cài tiện ích trong khung giờ này nên kiểm tra máy."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/"
+            }
+          ]
+        },
+        {
+          "headline": "CEO Apple John Ternus: “Chúng tôi không muốn tung AI chỉ vì đó là AI”",
+          "meta": "TechCrunch · Wired · 31/10",
+          "body": [
+            "Trả lời Steven Levy của Wired, CEO Apple John Ternus (nhậm chức từ đầu tháng 9) bác ý kiến cho rằng Apple tụt hậu về AI. Ông nói Apple “chắc chắn sẽ tận dụng AI” trong sản phẩm mới, nhưng khi làm đúng, người dùng sẽ không cần nghĩ đó là AI hay phần mềm truyền thống."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "deepseek-ai/dsh-superagent-prototype — bản mẫu agent lập trình chủ động của DeepSeek",
+          "meta": "GitHub · tạo 31/10 · 2.129★ · TypeScript · MIT",
+          "body": [
+            "Kho mã nghiên cứu công bố kèm bài “Exploring Super-agent Design: Towards a More Autonomous Agent System”. Đây là một agent lập trình chủ động phụ trách một kho mã, đóng gói cho DeepSeek Harness, lắng nghe yêu cầu từ GitHub và Feishu.",
+            "README ghi rõ đây là bản mẫu tham khảo, không phải sản phẩm chính thức và chưa sẵn sàng cho môi trường thật. Số sao theo GitHub API sáng 1/11."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+            }
+          ]
+        },
+        {
+          "headline": "phuryn/product-engineering — bộ skill giúp ra sản phẩm thật bằng coding agent, từ ý tưởng tới người trả tiền",
+          "meta": "GitHub · tạo 29/10 · 103★ · Python · MIT",
+          "body": [
+            "Bộ agent skill giúp đưa sản phẩm từ ý tưởng tới tay người dùng trả tiền, dùng được với nhiều coding agent như Claude Code, Codex, Cursor và Gemini CLI."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/phuryn/product-engineering"
+            }
+          ]
+        },
+        {
+          "headline": "wiva-hq/CodeRail — tự host bảng điều khiển từ xa cho Claude Code và Codex",
+          "meta": "GitHub · tạo 31/10 · 49★ · TypeScript · Apache-2.0",
+          "body": [
+            "CodeRail là công cụ tự host để điều khiển từ xa các phiên Claude Code và Codex đang chạy trên máy của bạn. Dự án mới ở bản 0.0.1, còn rất sớm."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/wiva-hq/CodeRail"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Binance nói đã bù 90% tài sản bị đánh cắp trong vụ hack 6,3 tỷ USD",
+          "meta": "BBC · The Verge · 31/10",
+          "body": [
+            "Binance cho biết đã bù đắp 90% số tài sản 6,3 tỷ USD bị đánh cắp bằng nhiều quỹ và ngân quỹ của công ty; 10% còn lại có thể cần thêm thời gian. Mọi khoản bitcoin, ethereum, Tether và bảy tài sản phổ biến khác của người dùng đã được bảo đảm. “Binance sẽ gánh tác động tài chính, không phải người dùng”, công ty tuyên bố.",
+            "Hai công ty phân tích nói có thông tin tình báo chắc chắn chỉ về một nhóm tin tặc được nhà nước Triều Tiên hậu thuẫn."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto"
+            }
+          ]
+        },
+        {
+          "headline": "Anthropic tìm ra lỗ hổng nghiêm trọng trong nhân Linux cho phép chiếm quyền root từ xa trên máy chủ MPTCP",
+          "meta": "BleepingComputer · 30/10",
+          "body": [
+            "Các nhà nghiên cứu bảo mật của Anthropic đã viết được mã khai thác cho một lỗ hổng nghiêm trọng của nhân Linux, cho phép kẻ tấn công không cần xác thực thực thi lệnh với quyền root trên máy chủ có bật cổng nghe Multipath TCP (MPTCP). Quản trị viên nên cập nhật nhân sớm."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/"
+            }
+          ]
+        },
+        {
+          "headline": "Northflank bị xâm nhập, khóa API AI của khách hàng bị lạm dụng",
+          "meta": "BleepingComputer · 31/10",
+          "body": [
+            "Nền tảng hosting ứng dụng đám mây Northflank yêu cầu khách hàng xoay vòng toàn bộ thông tin đăng nhập và bí mật lưu trên nền tảng, sau khi một vụ xâm nhập dẫn tới việc khóa API AI của khách bị dùng trái phép."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/"
+            }
+          ]
+        },
+        {
+          "headline": "Chainalysis lộ dữ liệu khách hàng sau tấn công bằng “kỹ thuật agent tấn công”",
+          "meta": "BleepingComputer · 31/10",
+          "body": [
+            "Công ty phân tích blockchain Chainalysis công bố bị xâm nhập khi kẻ tấn công dùng “offensive agentic techniques” (kỹ thuật tấn công bằng agent AI) để vào hệ thống và công cụ nội bộ, làm lộ tên, email, ID người dùng và vai trò trong tổ chức của khách hàng."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/"
+            }
+          ]
+        },
+        {
+          "headline": "Mã khai thác “SMS of Death” có thể làm sập điện thoại Android chưa vá chỉ bằng một tin nhắn",
+          "meta": "BleepingComputer · 31/10",
+          "body": [
+            "Một nhà nghiên cứu công bố mã khai thác mẫu cho lỗ hổng Android vừa được vá, mã CVE-2026-58882, cho phép kẻ tấn công từ xa làm gián đoạn sóng di động hoặc làm sập máy bằng một tin nhắn được tạo đặc biệt. Người dùng nên cài bản cập nhật bảo mật mới nhất."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/"
+            }
+          ]
+        },
+        {
+          "headline": "Reddit sẽ dần khóa nội dung sau đăng nhập để chống thu thập dữ liệu",
+          "meta": "BleepingComputer · 31/10",
+          "body": [
+            "Đồng sáng lập Steve Huffman thông báo Reddit sẽ từng bước trở thành “dịch vụ cần đăng nhập”, chỉ cho khách chưa có tài khoản truy cập hạn chế, nhằm chống các bot thu thập (scraper)."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/"
+            }
+          ]
+        },
+        {
+          "headline": "Tòa án Mỹ cho vụ NAACP kiện xAI gây ô nhiễm ở trung tâm dữ liệu Colossus tiếp tục",
+          "meta": "TechCrunch · 31/10",
+          "body": [
+            "Thẩm phán liên bang Debra M. Brown bác đề nghị bác đơn của xAI. Đơn kiện cáo buộc công ty lắp và vận hành ít nhất 35 tuabin khí đốt tại khu Colossus mà không có giấy phép khí thải, vi phạm Đạo luật Không khí sạch; xAI lập luận tuabin là “nguồn di động” nên được miễn, nhưng tòa không chấp nhận."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Nghiên cứu",
+      "title": "Xây dựng · Nghiên cứu",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "“Plant-as-Code”: kỹ thuật nhà máy như mã nguồn, dựa trên chuẩn IFC và DEXPI, cho thời agent AI",
+          "meta": "arXiv · 29/10 · cs.CE",
+          "body": [
+            "Bài bình luận đề xuất định nghĩa toàn bộ hồ sơ thiết kế một nhà máy công nghiệp thành bộ tệp máy đọc được, quản lý phiên bản như phần mềm, tuân theo chuẩn có sẵn như DEXPI và IFC. Trên nền đó, “Design-Ops” áp dụng tư duy DevOps: mỗi hạng mục liên kết với thông tin gốc, việc kiểm tra thủ công được thay bằng kiểm thử tự động.",
+            "Vì sao đáng đọc: đây là lập luận rõ ràng cho việc dữ liệu openBIM phải “sạch” trước khi giao cho agent AI; nếu không, agent chỉ thừa hưởng đúng những ốc đảo dữ liệu hiện nay."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.40239v1"
+            }
+          ]
+        },
+        {
+          "headline": "Theo dõi vết nứt bê tông phát triển qua nhiều góc chụp và nhiều thời điểm",
+          "meta": "arXiv · 24/10 · eess.IV",
+          "body": [
+            "Nhóm tác giả xem việc theo dõi vết nứt là bài toán vừa theo góc nhìn vừa theo thời gian: cùng một vết nứt phải giữ “danh tính” khi camera đổi góc, và phần nứt mới phải tách được khỏi đoạn cũ trên một khung tham chiếu chung.",
+            "Vì sao quan trọng: tốc độ lan của vết nứt cho biết nhiều hơn ảnh chụp một lần, giúp đánh giá kết cấu cầu, hầm bê tông và lên kế hoạch bảo trì sát thực tế hơn."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.33550v1"
+            }
+          ]
+        },
+        {
+          "headline": "DROA-CLIPSeg: phân đoạn vết nứt mặt đường mảnh trong điều kiện thiếu sáng",
+          "meta": "arXiv · 24/10 · cs.CV",
+          "body": [
+            "Mô hình tinh chỉnh nhẹ (LoRA và bộ chuyển đổi “DROA”) trên nền CLIPSeg đóng băng, nhận câu lệnh văn bản để tìm vết nứt khi ảnh bị tối, bóng đổ, chói đèn pha hoặc mặt đường ướt, đồng thời giữ được các vết nứt mảnh, đứt đoạn thường bị nhiễu che mất.",
+            "Vì sao quan trọng: nhiều xe khảo sát mặt đường chạy ban đêm hoặc trong hầm; mô hình chịu được ánh sáng kém giúp giảm bỏ sót hư hỏng."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.33635v1"
+            }
+          ]
+        },
+        {
+          "headline": "T-ConSG: đồ thị cảnh công trường theo thời gian thực từ LiDAR",
+          "meta": "arXiv · 25/10 · cs.RO",
+          "body": [
+            "Hệ thống dựng dần một “đồ thị cảnh” gồm vùng trống, vật tĩnh, vật động (người, máy) và các sự kiện như lắp đặt hay tháo dỡ cấu kiện, cập nhật theo thời gian thực từ dữ liệu LiDAR.",
+            "Vì sao quan trọng: thay vì chỉ có bản đồ điểm, robot và phần mềm quản lý tiến độ có thể “hiểu” công trường thay đổi ra sao, nền tảng cho so sánh thực tế với mô hình BIM."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.34041v1"
+            }
+          ]
+        },
+        {
+          "headline": "“Cắt một bức tường, thấy một bức tường”: mạng phân đoạn đám mây điểm gán nhầm cấu kiện bị che khuất",
+          "meta": "arXiv · 25/10 · cs.RO",
+          "body": [
+            "Khi cả một vùng cảnh bị che, mạng phân đoạn đám mây điểm không chỉ bỏ sót mà còn gán nhãn sai hàng loạt về một lớp “hút lỗi”: với bố cục cố định, lớp cột hút tới 70% số điểm kiểm thử; mIoU giảm còn 0,15–0,27 và có tới 269 vật thể biến mất trong một tập thử. Thêm 14 đặc trưng hình học tính tay giúp cải thiện.",
+            "Vì sao quan trọng: cảnh báo trực tiếp cho các hệ thống scan-to-BIM và robot công trường dựa vào nhận dạng cấu kiện."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.34040v1"
+            }
+          ]
+        },
+        {
+          "headline": "Robot công trường học cách né người từ quỹ đạo không gán nhãn, chỉ dùng LiDAR",
+          "meta": "arXiv · 25/10 · cs.RO",
+          "body": [
+            "Khung GNN chạy thời gian thực học các hiệu chỉnh đường đi có tính đến tương tác giữa robot, người đi bộ và mục tiêu, từ dữ liệu trình diễn không gán nhãn; huấn luyện trong mô phỏng rồi chuyển sang thực tế, kết hợp bộ lọc Kalman mở rộng khi triển khai.",
+            "Vì sao quan trọng: robot làm việc gần công nhân cần dự đoán chuyển động của người mà không phụ thuộc luật viết tay."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.34060v1"
+            }
+          ]
+        },
+        {
+          "headline": "Giám sát trên tàu nguy cơ dao động lắc ngang (hunting) của toa xe đường sắt từ dữ liệu gia tốc",
+          "meta": "arXiv · 26/10 · eess.SP",
+          "body": [
+            "Nghiên cứu khả thi đề xuất phân loại mức độ gần ngưỡng hunting theo các khoảng tốc độ, dựa trên mô hình phi tuyến “xám” với tham số ước lượng từ gia tốc kế trên tàu và số mũ Lyapunov cực đại; kiểm chứng bằng mô phỏng Monte Carlo với bốn kịch bản vận hành.",
+            "Vì sao quan trọng: hunting là nguyên nhân gây mất ổn định và mòn ray ở tốc độ cao; cảnh báo sớm ngay trên tàu hữu ích cho đường sắt tốc độ cao."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.36122v1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Thảo luận cộng đồng",
+      "title": "Xây dựng · Thảo luận cộng đồng",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "OSArch: người chuyển từ Revit hỏi lộ trình học Bonsai BIM từ con số không",
+          "meta": "OSArch Community · 31/10",
+          "body": [
+            "Một thành viên mới mô tả dự án tập làm nhà gỗ 8×9 m bằng Blender 5.2.2 LTS và Bonsai 0.9.0-post1, cảm ơn cộng đồng vì có “phần mềm mã nguồn mở miễn phí thay Revit”, và hỏi nên bắt đầu từ đâu để có nền tảng vững. Chủ đề hữu ích cho ai đang cân nhắc chuyển sang openBIM."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch",
+              "url": "https://community.osarch.org/discussion/3765/roadmap-for-revit-migrator-to-bonsai-bim-absolute-beginner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Brighton thắng Man City 1-0 tại Etihad, Man City thua trận thứ hai liên tiếp",
+          "meta": "VnExpress · BBC Sport · 31/10",
+          "body": [
+            "Bàn duy nhất của Yasin Ayari trong hiệp một giúp Brighton thắng ngay trên sân Man City ở vòng 9 Ngoại hạng Anh, rút cách biệt với đội chủ nhà còn hai điểm. Thủ môn Bart Verbruggen có bảy pha cứu thua; Man City có xG 1,92 so với 1,00 của Brighton nhưng không ghi bàn.",
+            "Man City của Enzo Maresca có thể mất đỉnh bảng nếu Arsenal giành điểm trước Liverpool tối 1/11."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/man-city-thua-tran-thu-hai-lien-tiep-o-ngoai-hang-anh-5139255.html"
+            },
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c6d7qwnz1jnjo"
+            }
+          ]
+        },
+        {
+          "headline": "Chelsea thắng Man Utd 2-0, Lisandro Martinez nhận thẻ đỏ",
+          "meta": "VnExpress · BBC Sport · 31/10",
+          "body": [
+            "Morgan Rogers mở tỷ số phút 50, Cole Palmer đá phạt đền thành công phút 64 sau khi Martinez phạm lỗi với Wesley Fofana và nhận thẻ vàng thứ hai. Man Utd của HLV Michael Carrick chơi thiếu người gần nửa giờ cuối."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/man-utd-sup-do-truoc-chelsea-o-ngoai-hang-anh-5139230.html"
+            },
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo"
+            }
+          ]
+        },
+        {
+          "headline": "Tottenham thắng trận thứ ba liên tiếp, hạ Crystal Palace 10 người 2-0",
+          "meta": "VnExpress · 31/10",
+          "body": [
+            "Jean-Philippe Mateta nhận thẻ đỏ trực tiếp phút 13 sau khi VAR đề nghị xem lại pha vào bóng với Micky van de Ven, lần đầu anh bị đuổi trong 166 trận Ngoại hạng Anh. Archie Gray đánh đầu mở tỷ số phút 25; Spurs của Roberto De Zerbi đã lần lượt thắng Coventry, Chelsea và Palace."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tottenham-thang-tran-thu-ba-lien-tiep-5139261.html"
+            }
+          ]
+        },
+        {
+          "headline": "Kane ra mắt Quả Bóng Vàng ở Allianz Arena nhưng sút phạt đền trúng xà, Bayern hòa Dortmund 2-2",
+          "meta": "VnExpress · 1/11",
+          "body": [
+            "Trận Klassiker thứ 141 có các bàn của Laimer, Guirassy, Upamecano và Fabio Silva (phút 89 gỡ hòa cho Dortmund). Hai đội cùng 17 điểm sau tám vòng Bundesliga và đều chưa thua mùa này."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bayern-bi-dortmund-cam-hoa-khi-kane-truot-phat-den-5139260.html"
+            }
+          ]
+        },
+        {
+          "headline": "AC Milan ghi ba bàn trong hiệp một, thắng derby Inter",
+          "meta": "BBC Sport · 1/11",
+          "body": [
+            "BBC Sport ghi nhận AC Milan ghi ba bàn ngay hiệp một để khép lại chiến thắng trong trận derby thành Milan với Inter."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/videos/cmqln15wdyxgo"
+            }
+          ]
+        },
+        {
+          "headline": "V-League: Thể Công sa thải HLV Popov sau trận thua Nam Định 1-3",
+          "meta": "VnExpress · Tuổi Trẻ · 31/10",
+          "body": [
+            "Thể Công dẫn trước nhờ Wesley Nata nhưng chơi thiếu người sau thẻ đỏ của Paulo Tapeu; Trần Ngọc Sơn lập cú đúp (có bàn sút từ giữa sân vào khung thành bỏ trống phút bù giờ) và Caio Cesar ghi bàn cho Nam Định. Mạch không thắng của Thể Công kéo dài 8 trận; Popov là HLV đầu tiên mất việc ở V-League mùa này.",
+            "Thể Công sẽ làm khách FC Seoul ở AFC Champions League Two ngày 4/11 rồi tiếp Thanh Hóa ở vòng 7."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hlv-popov-bi-sa-thai-sau-mach-tran-toi-te-cua-the-cong-5139208.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/the-cong-viettel-thong-bao-chia-tay-hlv-popov-sau-tran-thua-100261031223747428.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Công An Hà Nội hòa Sông Lam Nghệ An, ba trận liền không thắng",
+          "meta": "Tuổi Trẻ · 31/10",
+          "body": [
+            "Đình Bắc chơi mờ nhạt khi Công An Hà Nội bị SLNA cầm hòa ở vòng 6 V-League, nối dài chuỗi ba trận không thắng."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/dinh-bac-mo-nhat-cong-an-ha-noi-hoa-song-lam-nghe-an-100261031203516004.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Nghi án lộ kết quả Quả Bóng Vàng 2026: 12 tài khoản đoán trúng top 5, lãi gần 190.000 USD",
+          "meta": "VnExpress · 31/10",
+          "body": [
+            "Theo trang tin Pháp Upside, 12 tài khoản trên một nền tảng dự đoán dùng tiền mã hóa đặt cược đúng thứ tự Kane, Mbappe, Yamal, Rodri, Messi trước lễ trao giải 26/10; nhóm nạp khoảng 309.000 USD và rút 500.000 USD, lần rút đầu chỉ 19 phút sau khi công bố. Ban tổ chức đã mở điều tra và liên hệ cảnh sát."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nghi-an-lo-ket-qua-qua-bong-vang-2026-5139191.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Thuế tiêu thụ đặc biệt với xăng về 0% từ 1/11 đến hết 31/3/2027, giá xăng giảm 1.580–1.800 đồng/lít",
+          "meta": "VnExpress · 31/10",
+          "body": [
+            "Phó thủ tướng Nguyễn Văn Thắng ký Nghị quyết 45/2026 đưa thuế tiêu thụ đặc biệt với các loại xăng về 0% (trước đó E10 là 7%, E5 là 8%). Từ 0h ngày 1/11, xăng E10 RON 95-III giảm 1.580 đồng còn 24.150 đồng/lít, E5 RON 92 giảm 1.800 đồng còn 24.220 đồng/lít; giá dầu giữ nguyên.",
+            "Chính phủ có thể rút ngắn hoặc kéo dài thời gian áp dụng tùy tình hình."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thue-tieu-thu-dac-biet-voi-xang-ve-0-tu-ngay-mai-5139239.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/gia-xang-giam-gan-1-600-dong-mot-lit-5139243.html"
+            }
+          ]
+        },
+        {
+          "headline": "Giám đốc Bệnh viện Bạch Mai Đào Xuân Cơ được bổ nhiệm Thứ trưởng Y tế",
+          "meta": "VnExpress · 31/10",
+          "body": [
+            "Theo quyết định Thủ tướng ký ngày 30/10, PGS.TS Đào Xuân Cơ (54 tuổi, chuyên ngành hồi sức cấp cứu) trở thành một trong 5 Thứ trưởng Y tế đương nhiệm, sau hơn 4 năm làm Giám đốc Bệnh viện Bạch Mai."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/giam-doc-benh-vien-bach-mai-dao-xuan-co-giu-chuc-thu-truong-y-te-5139217.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đến 2030: 90% vi phạm giao thông xử lý điện tử, camera phủ 100% cao tốc",
+          "meta": "Tuổi Trẻ · 31/10",
+          "body": [
+            "Bộ Công an triển khai đề án trung tâm dữ liệu, giám sát, xử lý vi phạm và điều hành giao thông 2026–2030. Đến 2028 sẽ vận hành hệ thống hai cấp gồm một trung tâm quốc gia và 34 trung tâm cấp tỉnh; đến 2030 xử lý ít nhất 90% vi phạm bằng phương thức điện tử và giảm tối thiểu 50% thời gian phát hiện, điều phối xử lý sự cố."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/muc-tieu-den-2030-90-vi-pham-giao-thong-duoc-xu-ly-dien-tu-camera-phu-100-cao-toc-100261031190934448.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Vụ Tân Thuận Phong (Hải Phòng): truy tố giám đốc lập hai hệ thống sổ sách, chôn lấp gần 1.000 tấn chất thải",
+          "meta": "Tuổi Trẻ · 31/10",
+          "body": [
+            "Viện KSND tối cao truy tố 5 bị can. Ông Bùi Văn Bình, Giám đốc Công ty Tân Thuận Phong, bị cáo buộc để ngoài sổ sách hơn 410 tỷ đồng doanh thu bán phế liệu, và cùng đồng phạm chuyển giao trái phép gần 985 tấn chất thải rắn để chôn lấp, san nền nhà xưởng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/vu-tan-thuan-phong-lap-2-he-thong-so-ke-toan-gan-1000-tan-cat-chay-bi-chon-lap-100261031203536106.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Mỹ báo tin, Nga chặn “âm mưu khủng bố” nhắm vào khu bảo tàng Tsaritsyno ở Moskva",
+          "meta": "VnExpress · 1/11",
+          "body": [
+            "FSB xác nhận nhận được thông tin qua kênh đối tác chính thức với Mỹ về âm mưu tấn công thủ đô và đang tiến hành biện pháp nghiệp vụ. Đại sứ quán Mỹ cảnh báo nguy cơ “thương vong hàng loạt” tại khu Tsaritsyno; bảo tàng đã đóng cửa, chỉ cho người bên trong ra."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nga-chan-am-muu-khung-bo-tai-moskva-sau-tin-bao-cua-my-5139245.html"
+            }
+          ]
+        },
+        {
+          "headline": "Lãnh tụ Tối cao Iran ra lệnh sẵn sàng đáp trả “không giới hạn địa lý”; Tehran khen thư của ông Vance là “bước tích cực”",
+          "meta": "VnExpress · Tuổi Trẻ · 31/10",
+          "body": [
+            "Lãnh tụ Tối cao Mojtaba Khamenei yêu cầu các chỉ huy cập nhật “danh sách mục tiêu” đưa mọi tài sản của Mỹ – Israel vào tầm tấn công. Cùng ngày, Ngoại trưởng Araghchi nói với Al Jazeera rằng bức thư của Phó tổng thống Mỹ JD Vance là “bước đi tích cực”, nhưng Iran đã chuẩn bị cho mọi kịch bản; ông Trump nói đề xuất chỉ nhằm cho phép đưa viện trợ y tế vào Iran."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/lanh-tu-toi-cao-iran-ra-lenh-san-sang-phan-cong-khong-gioi-han-5139193.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/iran-vua-khen-vua-canh-bao-my-sau-khi-nhan-mot-buc-thu-100261031210610823.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Zelensky: Ukraine có thể phải chờ nhiều năm mới nhận 500 tên lửa Patriot",
+          "meta": "VnExpress · 31/10",
+          "body": [
+            "Ông Zelensky hoan nghênh thương vụ 500 tên lửa PAC-3 MSE (khoảng 2,1 tỷ USD) nhưng nói việc giao hàng chỉ bắt đầu sau vài năm; Kiev đề nghị gói viện trợ mùa đông 100 tên lửa mỗi tháng từ kho dự trữ của Mỹ và châu Âu. Phóng viên RFE/RL dẫn nguồn tin nói Mỹ không thể giao trước năm 2030."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-zelensky-ukraine-se-phai-cho-nhieu-nam-de-nhan-500-ten-lua-patriot-5139146.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hàng trăm người sơ tán từ Oleshky về tới Ukraine qua Belarus: “Chúng tôi trở về từ địa ngục”",
+          "meta": "BBC · 31/10",
+          "body": [
+            "Hàng trăm cư dân thành phố Oleshky bị Nga chiếm đóng đã vượt sang miền bắc Ukraine qua Belarus hôm 31/10, nhiều người đoàn tụ với gia đình sau nhiều năm. Một cặp vợ chồng kể từng băng qua bãi mìn để tìm thức ăn."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o"
+            }
+          ]
+        },
+        {
+          "headline": "Ba Lan: Tổng thống Nawrocki cáo buộc chính phủ Tusk “chiếm giữ bằng vũ lực” Tòa Hiến pháp",
+          "meta": "VnExpress · BBC · 31/10",
+          "body": [
+            "Sau khi thẩm phán thâm niên nhất Anna Korwin-Piotrowska đình chỉ Chánh án Bogdan Swieczkowski (đồng minh của Tổng thống), ông Nawrocki hủy chuyến thăm Senegal, tới thẳng trụ sở tòa và kêu gọi tham vấn chính trị khẩn cấp. Cảnh sát chống bạo động được triển khai trước hàng trăm người biểu tình."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-thong-ba-lan-to-thu-tuong-thau-tom-toa-hien-phap-5139216.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o"
+            }
+          ]
+        },
+        {
+          "headline": "Pháp: khoảng 15.000 người biểu tình cuối tuần thứ ba liên tiếp, 70.000 nhân viên an ninh được triển khai",
+          "meta": "VnExpress · BBC · 31/10",
+          "body": [
+            "Người biểu tình ở Paris, Marseille, Toulouse, Lyon… phản đối chi phí sinh hoạt đắt đỏ và phe cực hữu; Bộ Nội vụ Pháp gọi tình hình “tương đối bình ổn”, đến 14h có 27 người bị bắt, so với 217 người cuối tuần trước."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khoang-15-000-nguoi-xuong-duong-bieu-tinh-tai-phap-5139233.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o"
+            }
+          ]
+        },
+        {
+          "headline": "Elon Musk rót hơn 445 triệu USD cho phe Cộng hòa trước bầu cử giữa kỳ Mỹ",
+          "meta": "VnExpress · 1/11",
+          "body": [
+            "Tính đến giữa tháng 10, Musk đã đóng góp hơn 445 triệu USD cho các ủy ban liên bang của đảng Cộng hòa, gấp hơn hai lần khoản gần 177 triệu USD của George Soros năm 2022; riêng America PAC do ông quản lý nhận gần 216 triệu USD. Chuyên gia OpenSecrets nói khoản tiền này có thể “một tay xoay chuyển” cuộc bầu cử ngày 3/11."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/con-mua-tien-elon-musk-rot-vao-bau-cu-giua-ky-my-5139020.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thủ tướng Ethiopia đưa bộ trưởng đi huấn luyện quân sự",
+          "meta": "BBC · 31/10",
+          "body": [
+            "Ông Abiy Ahmed cùng các bộ trưởng, thứ trưởng và lãnh đạo cơ quan nhà nước tham gia huấn luyện tại trung tâm quân sự Hurso, nói kỷ luật quân đội giúp xây dựng lãnh đạo mạnh hơn. Đây là việc hiếm thấy ở Ethiopia, giữa lúc giao tranh vẫn tiếp diễn ở một số khu vực Tigray."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Nhà lưu niệm Giáo sư Trần Huy Liệu được xếp hạng di tích quốc gia",
+          "meta": "Tuổi Trẻ · 31/10",
+          "body": [
+            "Xã Vụ Bản (Ninh Bình) đón bằng xếp hạng di tích quốc gia cho nhà lưu niệm GS Trần Huy Liệu, người đặt nền móng cho nền sử học Việt Nam hiện đại, trong lễ kỷ niệm 125 năm ngày sinh của ông (5/11/1901) và 60 năm thành lập Hội Khoa học lịch sử Việt Nam."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nhan-luu-niem-giao-su-tran-huy-lieu-duoc-cong-nhan-la-di-tich-quoc-gia-10026103119333913.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Chương Tử Di nhận danh hiệu Giáo sư danh dự của Đại học Baptist Hong Kong",
+          "meta": "Tuổi Trẻ · 31/10",
+          "body": [
+            "Nhân dịp trường kỷ niệm 70 năm thành lập, Đại học Baptist Hong Kong trao danh hiệu Giáo sư danh dự cho Chương Tử Di, ghi nhận đóng góp cho điện ảnh sau gần 30 năm hoạt động; cô cũng giao lưu với sinh viên Học viện Điện ảnh của trường."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/chuong-tu-di-nhan-danh-hieu-giao-su-danh-du-100261031193558733.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Giá điện bình quân giảm 2% từ hôm nay, lần giảm đầu tiên sau gần 20 năm",
+          "meta": "VnExpress · Tuổi Trẻ · 31/10",
+          "body": [
+            "EVN công bố giá bán lẻ điện bình quân giảm 2% xuống 2.159,90 đồng/kWh (chưa VAT), giảm hơn 44 đồng, áp dụng từ 1/11. Giá này từng tăng từ 842 đồng/kWh năm 2007 lên hơn 2.204 đồng vào tháng 5/2025; riêng từ 2023 đã tăng 4 lần, tổng cộng khoảng 18,2%."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/gia-dien-giam-2-tu-ngay-mai-5139154.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/evn-cong-bo-giam-gia-ban-le-dien-binh-quan-ve-muc-21599037-dong-kwh-100261031202613455.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Nút giao Tân Hiệp nối cao tốc Biên Hòa – Vũng Tàu với Bến Lức – Long Thành lùi thông xe sang tháng 11",
+          "meta": "Tuổi Trẻ · 31/10",
+          "body": [
+            "Dù các hạng mục xây dựng đã xong, phương án tổ chức giao thông và thủ tục liên quan vẫn đang hoàn thiện nên nút giao chưa khai thác được trong tháng 10; dự kiến đưa vào khai thác trong tháng 11."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nut-giao-noi-cao-toc-bien-hoa-vung-tau-va-ben-luc-long-thanh-chua-thong-xe-trong-thang-10-100261031194227984.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Dịch Ebola ở CHDC Congo khiến hơn 5.000 người chết, đợt bùng phát tồi tệ nhất lịch sử nước này",
+          "meta": "BBC · 31/10",
+          "body": [
+            "Theo số liệu chính phủ, hơn 10.000 người đã nhiễm và tỷ lệ tử vong hiện là 48,6%. Đợt dịch bắt đầu từ tháng 5, tâm dịch ở tỉnh Ituri, vùng xung đột phía đông bắc; chủng virus này chưa có vaccine, thử nghiệm lâm sàng đang được tiến hành."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo"
+            }
+          ]
+        },
+        {
+          "headline": "Tìm thấy thi thể người phụ nữ mất tích khi đi bắt ốc ở Vườn quốc gia Cúc Phương",
+          "meta": "Tuổi Trẻ · 31/10",
+          "body": [
+            "Lực lượng tìm kiếm đã tìm thấy thi thể người phụ nữ mất tích khi vào Vườn quốc gia Cúc Phương bắt ốc."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tim-thay-thi-the-nguoi-phu-nu-mat-tich-khi-bat-oc-o-vuon-quoc-gia-cuc-phuong-100261031205017898.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 1/11/1993, Hiệp ước Maastricht có hiệu lực, Liên minh châu Âu (EU) chính thức ra đời",
+          "meta": "Wikipedia",
+          "body": [
+            "Hiệp ước về Liên minh châu Âu ký tại Maastricht năm 1992 có hiệu lực ngày 1/11/1993, chính thức lập ra EU và mở đường cho đồng tiền chung euro."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Maastricht_Treaty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 1/11/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu. Mục Khuyến mãi đặc biệt chỉ đăng ưu đãi mới còn hiệu lực có link chính thức."
+}
