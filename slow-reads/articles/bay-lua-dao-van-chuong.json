@@ -1,0 +1,106 @@
+{
+  "id": "bay-lua-dao-van-chuong",
+  "title": "Câu lạc bộ sách giả và những kẻ sống bằng giấc mơ của người viết",
+  "title_original": "Fake film deals and emails from top agents: who is behind the explosion in literary scams?",
+  "author": "Snigdha Poonam",
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/news/ng-interactive/2026/oct/29/paid-for-book-clubs-fake-film-deals-emails-explosion-literary-scams-authors",
+  "source_published": "2026-10-29",
+  "lang": "en",
+  "topics": [
+    "Sự nghiệp",
+    "Tiền bạc"
+  ],
+  "summary": "Một nhà báo chuyên điều tra lừa đảo nhận thư mời thảo luận sách từ một câu lạc bộ ở Seattle. Cả câu lạc bộ là bịa. Cô kể lại cách một ngành lừa đảo quy mô công nghiệp dựng lên quanh chỗ yếu nhất của người viết: khao khát được đọc.",
+  "added": "2026-11-01",
+  "reading_minutes": 5,
+  "source_stats": {
+    "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/29/paid-for-book-clubs-fake-film-deals-emails-explosion-literary-scams-authors",
+    "coverage": "summary",
+    "word_count": 3997,
+    "char_count": 19849,
+    "paragraph_count": 72,
+    "sentence_count": 210,
+    "heading_count": 0,
+    "sha256": "fb285533f812a7e2a78cada6997a6913d31785c7c70ae7dfb9eb990006c4d535"
+  },
+  "body": [
+    {
+      "type": "p",
+      "text": "Snigdha Poonam viết về lừa đảo xuyên quốc gia đã mười năm. Vậy mà cô vẫn đọc hết một email lạ rồi nhận lời. Thư mở đầu bằng “Hello Professor” — không ai từng gọi cô là giáo sư."
+    },
+    {
+      "type": "p",
+      "text": "Người gửi xưng là Timothy Firth, điều hành nhóm vẽ mẫu ở Seattle với gần 2.000 thành viên. Nhóm muốn thảo luận cuốn sách đầu tay của cô, xuất bản bảy năm trước, viết về người trẻ Ấn Độ. Email sau đòi thêm một khoản phí đóng góp, không ghi số tiền. Nhưng thư do Stephen, điều hành nhóm improv ở Los Angeles, ký — gửi từ địa chỉ của Timothy. Còn sót cả dòng lệnh AI: “MAKE IT MORE PROFESSIONAL.”"
+    },
+    {
+      "type": "p",
+      "text": "Cô đồng ý trả, nhưng sau buổi nói chuyện. Buổi Zoom có 20 người, không ai bật camera, ảnh đại diện phần lớn da trắng. Câu hỏi đúng bài. Giọng thì không khớp ảnh: tất cả đều mang accent Tây Phi."
+    },
+    {
+      "type": "p",
+      "text": "Cô không phải người duy nhất. Rất nhiều tác giả nhận thư mời từ những cộng đồng đọc sách sụp đổ sau một lần Google. Tiền bị đòi thường nhỏ, 55 đến 350 đô — nhỏ để không ai gọi cảnh sát. Nhưng dòng tiền dẫn về tài khoản Mỹ do người nước ngoài đứng tên."
+    },
+    {
+      "type": "p",
+      "text": "Quy mô thì lớn. Nghiệp đoàn nhà văn Anh ghi nhận số ca hỏi về những lời mời “quá hấp dẫn” tăng vọt. Hội Tác giả nhận ít nhất mười hai báo cáo mỗi tuần. Nguyên nhân: AI tạo sinh."
+    },
+    {
+      "type": "p",
+      "text": "Vụ lớn nhất là PageTurner, nhà xuất bản giả đăng ký ở Mỹ, chạy 2017 đến 2024, tổng đài ở Cebu, Philippines. Nhân viên nhận mình là trung gian với đại lý, hãng phim, Netflix, rồi thu thuế và phí trước khi sách ra mắt. Hơn 800 tác giả bị lừa, hơn 48 triệu đô."
+    },
+    {
+      "type": "p",
+      "text": "Vì sao nhắm vào người viết? Angela Hoy của WritersWeekly nói thẳng: cái tôi. Không phải ai cũng ái kỷ, nhưng ai cũng muốn được ghi nhận. AI làm lời khen nghe như viết riêng cho mình. Người về hưu càng dễ dính: họ có thời gian, và có tài khoản hưu trí."
+    },
+    {
+      "type": "h2",
+      "text": "Một công ty, không phải một nhóm tội phạm"
+    },
+    {
+      "type": "p",
+      "text": "Tháng 8, một thợ săn lừa đảo ở New Zealand chuyển cho cô file Excel nhận từ kẻ lừa đảo ở Karachi: “LinkedIn Outreach 2026”. Trong đó là 403 tác giả, dán nhãn tác giả mới, sách dạy nấu ăn, sách tôn giáo, thơ, bestseller New York Times. Có cột ghi kết quả, đọc như sổ bán hàng: “Paid $1,200 UP FRONT.”"
+    },
+    {
+      "type": "p",
+      "text": "Cuộc gọi lúc 10 giờ tối giờ Pakistan là 10 giờ sáng ở bờ Tây nước Mỹ. Nhân viên ở Karachi nhưng tên trên điện thoại là Ashley, Jocelyn, Megan. Vận hành giống một công ty: phòng ban, chỉ tiêu, lương, hoa hồng. Nhân viên 20 đến 24 tuổi, người mới đi tiếp cận, người già đời xây quan hệ để bán nhiều gói."
+    },
+    {
+      "type": "p",
+      "text": "Cửa vào là chỗ yếu nhất của ngành: tự xuất bản. Khoảng 3.000 trang giả mạo nhà xuất bản danh tiếng, mua quảng cáo để đứng trên kết quả tìm kiếm. Dấu hiệu: khung chat bật lên ngay, tên Mỹ, mặt da trắng, mời nói chuyện với người thật thay vì bot. Chỉ Amazon kiện kẻ mạo danh, thắng 36,4 triệu đô."
+    },
+    {
+      "type": "h2",
+      "text": "Người trả 100.000 đô"
+    },
+    {
+      "type": "p",
+      "text": "M L Stark, tác giả thriller Đan Mạch, là người hiếm hoi gặp mặt kẻ đã lừa mình. Cô bay sang Thái Lan gặp “Ethan Williams”, người cô tin là biên tập viên của một nhà xuất bản ở Los Angeles. Cô đã trả khoảng 100.000 đô. Vài thứ có thật: sách lên Amazon, một cuốn lên biển quảng cáo Times Square giá 10.000 đô — nhượng bộ tung ra đúng lúc khách đòi lại tiền."
+    },
+    {
+      "type": "p",
+      "text": "Cú chốt cuối là hợp đồng chuyển thể Netflix quay ở Thái Lan. Cô đòi xem hộ chiếu. Anh ta thú nhận: cả công ty là lừa đảo, không ai ở Los Angeles, tất cả ở Karachi."
+    },
+    {
+      "type": "p",
+      "text": "Cô tự thử một trang trong danh sách, mạo danh Red Rock, đại lý văn học thật ở London. “Rae Donnaelly” trả lời chat rồi gọi WhatsApp từ số Mỹ. Rae có bằng luật, không xin được việc, nhận job đầu ở một công ty xuất bản giả ở Karachi. Mô hình: hứa đơn 1.000 bản, rồi bán thêm biên tập, bìa, mạng xã hội. Khởi điểm 400 đô, đẩy lên 15.000."
+    },
+    {
+      "type": "p",
+      "text": "Rae nói cô thấy được não người vận hành ra sao, nghĩ lại thấy sợ. Cô tin người Mỹ dễ bị lừa vì tốt bụng. Nhà báo Talal Choudhary ước khoảng 1.000 công ty Pakistan chạy các trang này; một công ty vận hành 25 trang, thuê 200 người, một khách mang về 60.000 đô."
+    },
+    {
+      "type": "p",
+      "text": "Poonam vẫn nhận email từ “Timothy” nhắc đóng góp. Cô nghĩ họ biết cô đã nhận ra, vì cách buổi Zoom kết thúc. Cô hỏi mọi người nghĩ gì về chương cuối — chương về người trẻ bị hút vào thế giới lừa đảo. Im lặng."
+    },
+    {
+      "type": "quote",
+      "text": "It is happening all over the world, including in Africa.",
+      "cite": "“Timothy”, trong buổi Zoom"
+    },
+    {
+      "type": "p",
+      "text": "*Bản tóm tắt — đọc toàn bài tại The Guardian.*"
+    }
+  ]
+}

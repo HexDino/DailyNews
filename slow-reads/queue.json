@@ -226,6 +226,28 @@
       "published_at": "2026-10-30",
       "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=ngoi-khen-ke-tay-mo",
       "note": "Published as an 878-word summary (coverage: summary), not a translation."
+    },
+    {
+      "source_id": "guardian-long-read",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/29/paid-for-book-clubs-fake-film-deals-emails-explosion-literary-scams-authors",
+      "title": "Fake film deals and emails from top agents: who is behind the explosion in literary scams?",
+      "author": "Snigdha Poonam",
+      "source": "The Guardian",
+      "lang": "en",
+      "topics_guess": [
+        "Sự nghiệp",
+        "Tiền bạc"
+      ],
+      "est_words": 3997,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-11-01",
+      "id": "bay-lua-dao-van-chuong",
+      "published_at": "2026-11-01",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=bay-lua-dao-van-chuong",
+      "source_published": "2026-10-29",
+      "note": "Published as an 872-word summary (coverage: summary), not a translation."
     }
   ]
 }

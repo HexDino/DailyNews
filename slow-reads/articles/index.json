@@ -14,6 +14,23 @@
   ],
   "articles": [
     {
+      "id": "bay-lua-dao-van-chuong",
+      "title": "Câu lạc bộ sách giả và những kẻ sống bằng giấc mơ của người viết",
+      "title_original": "Fake film deals and emails from top agents: who is behind the explosion in literary scams?",
+      "author": "Snigdha Poonam",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/news/ng-interactive/2026/oct/29/paid-for-book-clubs-fake-film-deals-emails-explosion-literary-scams-authors",
+      "lang": "en",
+      "topics": [
+        "Sự nghiệp",
+        "Tiền bạc"
+      ],
+      "summary": "Một nhà báo chuyên điều tra lừa đảo nhận thư mời thảo luận sách từ một câu lạc bộ ở Seattle. Cả câu lạc bộ là bịa. Cô kể lại cách một ngành lừa đảo quy mô công nghiệp dựng lên quanh chỗ yếu nhất của người viết: khao khát được đọc.",
+      "added": "2026-11-01",
+      "reading_minutes": 5,
+      "coverage": "summary"
+    },
+    {
       "id": "plato-phaedrus",
       "title": "Phaedrus — Về tình yêu, hùng biện và linh hồn",
       "title_original": "Phaedrus",
