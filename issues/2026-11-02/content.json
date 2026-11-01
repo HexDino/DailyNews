@@ -1,0 +1,1171 @@
+{
+  "date": "2026-11-02",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 02/11/2026 · Thứ Hai · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Arsenal thắng Liverpool 1-0 tại Anfield, lên đầu Ngoại hạng Anh",
+    "ChatGPT và Codex sẽ dùng chung hạn mức tính bằng token từ tháng 12",
+    "Iran đàm phán ngày thứ ba với Qatar, nêu 4 điều kiện tiên quyết",
+    "Ngừng bắn ở Kherson kết thúc, Nga không kích làm mất điện nhiều nơi",
+    "Chính phủ bỏ đề xuất cho người dưới 18 tuổi đăng ký hiến mô, tạng"
+  ],
+  "followups": [
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Iran đàm phán ngày thứ ba liên tiếp với trung gian Qatar, nêu 4 điều kiện tiên quyết và cảnh báo Mỹ về hậu quả nếu xung đột tái bùng phát; một tàu cá Iran bị cướp biển Somalia chiếm.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/xung-dot-my-iran-tehran-van-tiep-tuc-dam-phan-neu-ro-4-dieu-kien-tien-quyet-100261101225138581.htm"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/iran-canh-bao-my-ve-hau-qua-neu-xung-dot-tai-bung-phat-5139400.html"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử giữa kỳ Mỹ (3/11)",
+      "update": "Ngày bầu cử là mai; ông Trump vận động ở Iowa, Kansas, còn Hạ nghị sĩ Dân chủ Haley Stevens quay sang ủng hộ ứng viên Cộng hòa Mike Rogers ở Michigan.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers"
+        }
+      ]
+    },
+    {
+      "title": "Ngừng bắn sơ tán Oleshky (Kherson)",
+      "update": "Lệnh ngừng bắn cục bộ kết thúc lúc 22:59 giờ Kyiv ngày 1/11, không ghi nhận vi phạm trong 6 ngày; Nga không kích làm mất điện hàng nghìn hộ.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends"
+        }
+      ]
+    },
+    {
+      "title": "Đàm phán hòa bình Nga – Ukraine",
+      "update": "Điện Kremlin nói ông Putin sẽ trả lời nếu ông Zelensky gọi; Ukraine nói thương vong của Nga tháng 10 cao kỷ lục, hơn 54.000.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-22",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/dien-kremlin-ong-putin-se-tra-loi-neu-ong-zelensky-goi-den-100261101175543196.htm"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/ukraine-noi-nga-thuong-vong-cao-ky-luc-trong-thang-10-10026110123382344.htm"
+        }
+      ]
+    },
+    {
+      "title": "Vụ hack Binance 6,3 tỷ USD",
+      "update": "Binance mở lại rút tiền theo từng đợt và nói đã bù 95% tài sản bị đánh cắp.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+        }
+      ]
+    },
+    {
+      "title": "Giảm giá xăng, giá điện từ 1/11",
+      "update": "Giá điện bình quân đã giảm 2% từ 1/11; báo chí phân tích tác động tới chi phí của người dân và doanh nghiệp.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-20-chieu",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/giam-gia-dien-xang-dau-tac-dong-ra-sao-den-chi-phi-tieu-dung-cua-nguoi-dan-doanh-nghiep-100261101164807321.htm"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-02",
+      "title": "Bulgaria công bố kết quả vòng hai bầu cử tổng thống",
+      "topic": "Chính trị",
+      "note": "Thăm dò sau bỏ phiếu cho thấy Tổng thống quyền Iliana Iotova dẫn trước.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "time": "sáng",
+      "title": "Quốc hội thảo luận dự Luật Hiến, lấy, ghép mô, bộ phận cơ thể người (sửa đổi)",
+      "topic": "Chính trị",
+      "note": "Dự thảo mới đã bỏ quy định cho người dưới 18 tuổi đăng ký hiến.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/sang-mai-quoc-hoi-thao-luan-sua-luat-hien-lay-ghep-mo-tang-100261101170827021.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Bầu cử giữa kỳ Mỹ",
+      "topic": "Chính trị",
+      "note": "Quyết định quyền kiểm soát Quốc hội trong hai năm cuối nhiệm kỳ ông Trump.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bau-cu-giua-ky-co-y-nghia-gi-doi-voi-ong-trump-va-quoc-hoi-my-100261022155231309.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Hà Nội bắt đầu chi trả lương hưu tháng 11 qua tài khoản",
+      "topic": "Đời sống",
+      "note": "Lùi một ngày so với thông lệ mùng 2.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thay-doi-lich-chi-tra-luong-huu-thang-11-2026-100261023103231668.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "title": "AFC Champions League Two: FC Seoul – Thể Công",
+      "topic": "Bóng đá",
+      "note": "Trận đầu sau khi Thể Công chia tay HLV Popov.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hlv-popov-bi-sa-thai-sau-mach-tran-toi-te-cua-the-cong-5139208.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Hạn công bố kết quả chính thức bầu cử Quốc hội Israel (trong vòng 8 ngày sau bầu cử)",
+      "topic": "Chính trị",
+      "note": "Kết quả sơ bộ dự kiến có trong ngày 28/10; sau đó Tổng thống tham vấn các đảng để giao quyền lập chính phủ.",
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/israel-election-netanyahu-eisenkot-3b5a0fd078208155337ee9a0b9fbfde2"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Atlético – Bayern, Barcelona – Aston Villa, Man Utd – Roma, Villarreal – PSG",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 3/11.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "title": "125 năm ngày sinh Giáo sư Trần Huy Liệu",
+      "topic": "Văn hoá",
+      "note": "Lễ kỷ niệm đã tổ chức sớm tại Vụ Bản (Ninh Bình) ngày 31/10.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/nhan-luu-niem-giao-su-tran-huy-lieu-duoc-cong-nhan-la-di-tich-quoc-gia-10026103119333913.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Leipzig – Man City, Dortmund – Betis, Slavia Praha – Arsenal (Fenerbahçe – Liverpool, AEK – Real Madrid lúc 0:45)",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 4/11; hai trận sớm 18:45 CET.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại UAE (6–10/11)",
+      "topic": "Chính trị",
+      "note": "Theo ông Zelensky; Điện Kremlin nói châu Âu không tham gia.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "time": "trong ngày",
+      "timezone": "giờ Kenya",
+      "title": "Tuyên án mục sư Paul Mackenzie và 28 bị cáo vụ Shakahola",
+      "topic": "Chính trị",
+      "note": "Đã bị kết tội giết 191 người; báo cáo quản chế nộp tòa ngày 30/10.",
+      "sources": [
+        {
+          "name": "Capital FM",
+          "url": "https://capitalfm.africa/court-convicts-all-29-shakahola-accused-of-murder-sets-sentencing-for-november-6/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "9–20/11",
+      "timezone": "giờ Thổ Nhĩ Kỳ",
+      "title": "Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Chính trị",
+      "note": "Hội nghị thượng đỉnh khí hậu thường niên của Liên Hợp Quốc.",
+      "sources": [
+        {
+          "name": "UNFCCC",
+          "url": "https://unfccc.int/cop31/the-road-to-antalya"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "ChatGPT và Codex sẽ dùng chung một hạn mức từ tháng 12, đo bằng token; chat Instant không bị tính",
+          "meta": "OpenAI Help Center · BleepingComputer · The Decoder · 1/11",
+          "body": [
+            "Theo trang hỗ trợ của OpenAI, từ tháng 12 ChatGPT và Codex sẽ dùng chung một hạn mức sử dụng. Hạn mức được đo bằng token, nên mô hình mạnh hơn và tác vụ nặng hơn sẽ tốn nhiều hơn; riêng các cuộc chat Instant không bị tính vào hạn mức.",
+            "OpenAI cũng cho biết sẽ thử nghiệm trải nghiệm gộp Chat và Work với một nhóm nhỏ người dùng."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "OpenAI Help Center",
+              "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"
+            },
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/"
+            },
+            {
+              "name": "The Decoder",
+              "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/"
+            }
+          ]
+        },
+        {
+          "headline": "Google mở bản xem trước nền tảng Connected Apps: ứng dụng bên thứ ba làm việc ngay trong Gemini qua MCP",
+          "meta": "Digitbin · 1/11 (Google công bố 28/10)",
+          "body": [
+            "Google đã mở bản xem trước của nền tảng đứng sau Gemini Connected Apps, cho phép ứng dụng bên ngoài hoàn tất tác vụ ngay trong Gemini và Google Search. Theo Google, hơn 50 Connected Apps đã chạy; Adobe, Experian, Localiza và Peloton có mặt trong Gemini, còn Search sẽ có “trong vài tuần tới”.",
+            "Nhà phát triển kết nối qua một MCP server chạy trên cloud hoặc Android MCP (dùng API AppFunctions, hiện vẫn ở mức thử nghiệm), đăng ký và gửi duyệt trong Google Connected Console; giai đoạn này phải nộp đơn tham gia."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Digitbin",
+              "url": "https://www.digitbin.com/gemini-connected-apps-preview/"
+            }
+          ]
+        },
+        {
+          "headline": "OpenAI được cho là tính đổi tên trung tâm dữ liệu thành “AI compute campus” và chuẩn bị chiến dịch truyền thông sau bầu cử Mỹ",
+          "meta": "TechCrunch · Axios · 1/11",
+          "body": [
+            "TechCrunch dẫn Axios cho biết OpenAI đang chuẩn bị một đợt truyền thông lớn sau bầu cử giữa kỳ Mỹ ngày 3/11, trong bối cảnh trung tâm dữ liệu ngày càng bị phản đối; một ý tưởng là gọi chúng là “AI compute campuses”.",
+            "Giám đốc đối ngoại toàn cầu Chris Lehane nói với Axios rằng kỳ bầu cử này sẽ là “trailer” cho năm 2028, khi ông dự đoán AI sẽ là “vấn đề chính” của bầu cử tổng thống."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+            }
+          ]
+        },
+        {
+          "headline": "Elon Musk: agent AI rồi sẽ tự hack hệ thống để kiếm tiền cho chính chúng",
+          "meta": "VnExpress · 1/11",
+          "body": [
+            "Bình luận sau vụ sàn Binance bị đánh cắp 6,3 tỷ USD tiền số, Elon Musk cho rằng các tác nhân AI có thể làm điều tương tự trong tương lai."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/elon-musk-tac-nhan-ai-se-hack-he-thong-de-kiem-tien-cho-chinh-chung-5139352.html"
+            }
+          ]
+        },
+        {
+          "headline": "Trên blog Terence Tao: “Toán học đã thay đổi, hãy hành xử như vậy”",
+          "meta": "Terence Tao (bài khách mời của Frank Calegari) · 1/11",
+          "body": [
+            "Bài viết khách mời của nhà toán học Frank Calegari trên blog của Terence Tao gọi việc OpenAI công bố hơn 700 bài nghiên cứu ngày 6/10 là bước ngoặt: AI giờ có thể đóng góp đột phá cho nhiều lĩnh vực toán học.",
+            "Tác giả cũng chỉ ra lý do nhiều nhà toán học không vui: các bài của OpenAI viết rất tệ, vi phạm chuẩn mực ghi công, thậm chí có bài sai. Ông kêu gọi cộng đồng tập trung vào những gì mình kiểm soát được: cách tuyển người, xuất bản và đào tạo sinh viên."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Terence Tao's blog",
+              "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "elvarofficial/teardown — skill Claude Code biến bất kỳ cỗ máy nào thành mô hình 3D tháo rời được",
+          "meta": "GitHub · tạo 30/10 · 902★ · JavaScript · MIT",
+          "body": [
+            "Theo mô tả của repo, đây là một skill cho Claude Code: mô tả một cỗ máy và agent dựng thành trình mô phỏng 3D mà bạn có thể tháo từng bộ phận ra xem."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/elvarofficial/teardown"
+            }
+          ]
+        },
+        {
+          "headline": "caru-ini/stack-diagram — mô tả stack bằng một câu, agent vẽ sơ đồ kiến trúc kèm logo chính thức",
+          "meta": "GitHub · tạo 1/11 · 330★ · Python · MIT",
+          "body": [
+            "Skill cho agent: bạn mô tả hệ thống bằng một câu, skill trả về sơ đồ kiến trúc dùng logo chính thức của các dịch vụ — tiện cho tài liệu, README hay slide."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/caru-ini/stack-diagram"
+            }
+          ]
+        },
+        {
+          "headline": "Balanov/uncut — “harness” 7 MB cho agent lập trình chạy trong shell, CI và với model cục bộ",
+          "meta": "GitHub · tạo 2/11 · 188★ · Go · MIT",
+          "body": [
+            "Một harness agent lập trình viết bằng Go, nhẹ 7 MB, không có giao diện TUI, nhắm tới shell, CI và model chạy cục bộ. Tác giả nhấn mạnh agent không âm thầm cắt bớt ngữ cảnh."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/Balanov/uncut"
+            }
+          ]
+        },
+        {
+          "headline": "aa1143/NamiAgent — giáo trình AI agent từ con số 0, kiêm agent chạy được trên máy",
+          "meta": "GitHub · tạo 30/10 · 123★ · Python · MIT",
+          "body": [
+            "Giáo trình tiếng Trung dạy dựng AI agent từ vòng lặp tối giản 100 dòng, mỗi bài thêm một khả năng: đọc/ghi file, chạy lệnh, MCP, bộ nhớ dài hạn, có giao diện web để xem từng bước; cuối khoá phân tích các agent phổ biến như Claude Code, Codex."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/aa1143/NamiAgent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Binance mở lại rút tiền theo từng đợt, nói đã bù 95% tài sản bị đánh cắp",
+          "meta": "TechCrunch · The Verge · 1/11",
+          "body": [
+            "Sàn Binance thông báo sáng Chủ nhật bắt đầu cho rút tiền trở lại theo từng giai đoạn sau khi đóng băng nạp/rút vì vụ trộm 6,3 tỷ USD, và cho biết đã bù đắp 95% tài sản bị mất. FBI đã liên hệ vụ tấn công với tin tặc Triều Tiên."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist"
+            }
+          ]
+        },
+        {
+          "headline": "Alpine Linux dựng lại toàn bộ GitLab sau một vụ thử tấn công thực thi mã từ xa",
+          "meta": "BleepingComputer · 1/11",
+          "body": [
+            "Dự án Alpine Linux cho biết đã xây dựng lại máy chủ GitLab của mình sau một vụ cố gắng tấn công thực thi mã từ xa (RCE)."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/"
+            }
+          ]
+        },
+        {
+          "headline": "Flock Safety phớt lờ việc các thành phố huỷ hợp đồng, không gỡ camera mà có nơi còn lắp lại",
+          "meta": "The Verge · 1/11",
+          "body": [
+            "Nhiều thành phố Mỹ đang huỷ hợp đồng với Flock Safety, hãng camera đọc biển số, nhưng theo The Verge công ty không gỡ camera và đôi khi còn lắp lại."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts"
+            }
+          ]
+        },
+        {
+          "headline": "NASA mong giới hàng không vũ trụ thương mại giúp “cứu” kính Hubble",
+          "meta": "The Verge · 1/11",
+          "body": [
+            "Nếu không được nâng quỹ đạo, kính viễn vọng Hubble sẽ rơi về Trái Đất vào khoảng những năm 2030; NASA đang trông vào ngành vũ trụ thương mại để làm việc này."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble"
+            }
+          ]
+        },
+        {
+          "headline": "Kỹ sư Việt chế tạo robot cạo mủ cao su, năng suất gấp 1,5 lần công nhân lành nghề",
+          "meta": "VnExpress · 2/11",
+          "body": [
+            "Robot khai thác mủ cao su do kỹ sư Đỗ Minh Tâm chế tạo có thể làm công việc độc hại thay người, công suất gấp 1,5 lần công nhân lành nghề và cho sản lượng cao hơn."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ky-su-viet-che-tao-robot-cao-mu-cao-su-thay-con-nguoi-5138087.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "Khuyến mãi đặc biệt",
+      "title": "Công nghệ · Khuyến mãi đặc biệt",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "OpenCode “Operation Cheepseek” giai đoạn 4: 100 USD lượt dùng DeepSeek V4.1 Flash",
+          "meta": "OpenCode trên X · 30/10 · China AI News",
+          "body": [
+            "OpenCode công bố trên X giai đoạn 4 của chương trình Operation Cheepseek: 100 USD lượt dùng cho model DeepSeek V4.1 Flash. Theo China AI News, ưu đãi dành cho người đăng ký gói OpenCode Go 10 USD/tháng.",
+            "Thời hạn: công bố ngày 30/10, OpenCode chưa nêu ngày kết thúc; nên kiểm tra bài đăng chính thức trước khi đăng ký."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "OpenCode (X)",
+              "url": "https://x.com/opencode/status/2116209960673800474"
+            },
+            {
+              "name": "China AI News",
+              "url": "https://chinaainews.org/news/opencode-launches-operation-cheepseek-phase-4-with-100-deepseek-v4-1-flash-credits-for-10-subscribers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Havertz ghi bàn duy nhất, Arsenal thắng Liverpool 1-0 ngay tại Anfield và lên đầu bảng",
+          "meta": "Tuổi Trẻ · rạng sáng 2/11",
+          "body": [
+            "Ở vòng 9 Ngoại hạng Anh rạng sáng 2/11 (giờ VN), Kai Havertz ghi bàn duy nhất ở phút 16 giúp Arsenal thắng Liverpool 1-0 ngay trên sân khách.",
+            "Với 24 điểm, Arsenal vượt lên dẫn đầu bảng, hơn Man City 3 điểm."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/danh-bai-liverpool-arsenal-len-dau-bang-ngoai-hang-anh-100261102035354624.htm"
+            }
+          ]
+        },
+        {
+          "headline": "HLV Iraola bực tức: “Từ giờ tôi sẽ bảo cầu thủ ngã xuống”",
+          "meta": "BBC Sport · 1/11",
+          "body": [
+            "HLV Liverpool Andoni Iraola nói sẽ dặn học trò ngã xuống trong những tình huống tương tự, sau khi đội bị từ chối một quả phạt đền trong trận thua Arsenal."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo"
+            }
+          ]
+        },
+        {
+          "headline": "Real Madrid thắng Racing Santander 3-0, nối dài chuỗi 6 trận thắng",
+          "meta": "Real Madrid · 1/11",
+          "body": [
+            "Ở vòng 11 La Liga, Mbappé mở tỉ số bằng phạt đền phút 11, Bellingham nâng tỉ số phút 21 và Diomande vô-lê tung lưới phút 36. Đây là trận thắng thứ 6 liên tiếp trên mọi đấu trường của đội Mourinho.",
+            "Hiệp hai Racing chơi khởi sắc hơn; một quả phạt đền cho Racing ở phút 71 bị VAR huỷ, còn bàn thắng muộn của Bellingham bị từ chối vì việt vị."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Real Madrid",
+              "url": "https://www.realmadrid.com/en-US/news/football/first-team/reports/cronica-racing-rm-j11-liga-01-11-2026"
+            }
+          ]
+        },
+        {
+          "headline": "V-League vòng 6: Thép Xanh Nam Định lên đầu bảng; Công An TP.HCM thua trận sân nhà đầu tiên",
+          "meta": "Tuổi Trẻ · 1/11",
+          "body": [
+            "Thép Xanh Nam Định vươn lên ngôi đầu bảng V-League 2026-2027 sau vòng 6. Cùng vòng, Công An TP.HCM ba lần dứt điểm trúng xà và thua SHB Đà Nẵng 0-1, thất bại đầu tiên trên sân nhà mùa này."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/bang-xep-hang-v-league-sau-vong-6-nam-dinh-len-nhat-bang-100261101220756827.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ba-lan-dut-diem-doi-xa-clb-cong-an-tphcm-thua-tran-dau-tien-tren-san-nha-100261101195305027.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Thể Công – Viettel đưa HLV thủ môn Guilherme Almeida lên tạm quyền thay ông Popov",
+          "meta": "Tuổi Trẻ · 1/11",
+          "body": [
+            "Sau khi chia tay HLV Velizar Popov, CLB bổ nhiệm trợ lý Guilherme Almeida, người phụ trách thủ môn, làm HLV trưởng tạm quyền — trước trận AFC Champions League Two gặp FC Seoul ngày 4/11."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/the-cong-viettel-dua-hlv-thu-mon-len-tam-quyen-thay-ong-popov-10026110122020568.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Trung Quốc “trừng phạt” La Liga: CCTV ngừng phát sóng các trận đấu vì vụ Mbappé",
+          "meta": "Tuổi Trẻ · 1/11",
+          "body": [
+            "Đài CCTV ngừng phát sóng các trận La Liga, được Tuổi Trẻ gọi là đòn trừng phạt đầu tiên của Trung Quốc với giải đấu, xuất phát từ vụ việc liên quan Mbappé."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/trung-quoc-tung-don-trung-phat-dau-tien-cho-la-liga-vi-vu-mbappe-100261101172241891.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Messi chọn cầu thủ gốc Việt Ibrahim Maza vào top 3 tài năng trẻ triển vọng nhất",
+          "meta": "Tuổi Trẻ · 1/11",
+          "body": [
+            "Lionel Messi bất ngờ đưa Ibrahim Maza, cầu thủ mang dòng máu Việt Nam, vào danh sách ba tài năng trẻ xuất sắc nhất thế giới."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/cau-thu-goc-viet-vinh-du-duoc-messi-chon-vao-top-3-tiem-nang-nhat-lang-bong-da-100261101184430343.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Asian Cup 2027: hoãn hay không hoãn, Việt Nam hoang mang",
+          "meta": "Tuổi Trẻ · 31/10",
+          "body": [
+            "Chỉ trong một tháng, tương lai Asian Cup 2027 liên tục thay đổi theo các thông tin trái ngược từ AFC, chủ nhà Saudi Arabia và truyền thông quốc tế, khiến kế hoạch chuẩn bị của tuyển Việt Nam bị ảnh hưởng."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/viet-nam-hoang-mang-voi-asian-cup-2027-hoan-hay-khong-hoan-100261031222319711.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Iran đàm phán ngày thứ ba liên tiếp với trung gian Qatar, nêu 4 điều kiện tiên quyết",
+          "meta": "Tuổi Trẻ · VnExpress · 1/11",
+          "body": [
+            "Iran bước vào ngày đàm phán thứ ba liên tiếp với Qatar, bên trung gian, với hy vọng hướng tới chấm dứt chiến tranh, đồng thời nêu 4 điều kiện tiên quyết. Song song, Tehran cảnh báo Mỹ về hậu quả nếu xung đột bùng phát trở lại."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/xung-dot-my-iran-tehran-van-tiep-tuc-dam-phan-neu-ro-4-dieu-kien-tien-quyet-100261101225138581.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/iran-canh-bao-my-ve-hau-qua-neu-xung-dot-tai-bung-phat-5139400.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cướp biển Somalia chiếm tàu cá Iran, lái về tuyến hàng hải quan trọng",
+          "meta": "Tuổi Trẻ · 1/11",
+          "body": [
+            "Cướp biển Somalia vừa khống chế một tàu cá của Iran và điều khiển nó hướng tới một tuyến hàng hải quan trọng, làm dấy lên lo ngại về âm mưu cướp tàu thương mại lớn hơn."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tau-iran-bi-cuop-bien-somalia-khong-che-100261101214021501.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ngừng bắn cục bộ ở Kherson kết thúc; Nga không kích làm mất điện hàng nghìn hộ ở Ukraine",
+          "meta": "BBC · Al Jazeera · Tuổi Trẻ · 1–2/11",
+          "body": [
+            "Lệnh ngừng bắn nhân đạo hiếm hoi ở vùng Kherson, cho phép dân thường sơ tán khỏi thành phố Oleshky do Nga chiếm đóng, kết thúc lúc 22:59 giờ Kyiv tối Chủ nhật. Al Jazeera cho biết không có vi phạm nào được ghi nhận ở Kherson trong 6 ngày, dù giao tranh vẫn diễn ra nơi khác.",
+            "Ukraine tuyên bố Nga mất hơn 54.000 binh sĩ trong tháng 10, cao hơn bất kỳ tháng nào. Điện Kremlin, qua trợ lý Yury Ushakov, nói ông Putin “chưa bao giờ từ chối đối thoại” và sẽ trả lời nếu ông Zelensky gọi."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ukraine-noi-nga-thuong-vong-cao-ky-luc-trong-thang-10-10026110123382344.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/dien-kremlin-ong-putin-se-tra-loi-neu-ong-zelensky-goi-den-100261101175543196.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Nga bắt một thiếu niên bị nghi âm mưu tấn công công viên ở Moscow, nhờ tin báo từ Mỹ",
+          "meta": "Al Jazeera · 1/11",
+          "body": [
+            "Nhà chức trách Nga cho biết thông tin từ phía Mỹ đã giúp họ xác định một thiếu niên bị nghi lên kế hoạch tấn công tại một công viên ở Moscow."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning"
+            }
+          ]
+        },
+        {
+          "headline": "Bulgaria: Tổng thống quyền Iliana Iotova dẫn đầu thăm dò vòng hai, có thể thành nữ tổng thống dân bầu đầu tiên",
+          "meta": "Al Jazeera · 1/11",
+          "body": [
+            "Theo thăm dò sau bỏ phiếu, bà Iotova dẫn trước ở vòng bầu cử tổng thống thứ hai. Nếu kết quả công bố hôm nay (thứ Hai) xác nhận, bà sẽ là nữ tổng thống đầu tiên của Bulgaria do dân bầu."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show"
+            }
+          ]
+        },
+        {
+          "headline": "Mỹ trước giờ bầu cử giữa kỳ: ông Trump vận động ở Iowa, Kansas; nghị sĩ Dân chủ Haley Stevens ủng hộ ứng viên Cộng hòa",
+          "meta": "Al Jazeera · 1/11",
+          "body": [
+            "Ông Trump trở lại vận động ở Iowa và Kansas để giữ quyền kiểm soát Thượng viện cho phe Cộng hòa. Ở Michigan, Hạ nghị sĩ Haley Stevens, người thua Abdul El-Sayed ở vòng sơ bộ Dân chủ, tuyên bố ủng hộ đối thủ Cộng hòa Mike Rogers.",
+            "Thượng nghị sĩ Dân chủ Chris Murphy, người chỉ trích mạnh ông Trump và không tái tranh cử năm nay, bị đột quỵ và đang tỉnh táo. Thủ tướng Canada Mark Carney cũng báo hiệu tiến triển trong đàm phán thương mại với Mỹ trước ngày bầu cử 3/11."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom"
+            }
+          ]
+        },
+        {
+          "headline": "Gaza và Bờ Tây: không kích giết ít nhất 8 người dù đã ngừng bắn; Hebron bị phong toả ngày thứ 10",
+          "meta": "BBC · Al Jazeera · 1/11",
+          "body": [
+            "Theo các bệnh viện, không kích của Israel ở Gaza giết ít nhất 8 người, trong đó có một trẻ em, dù lệnh ngừng bắn đã kéo dài một năm. Ở Bờ Tây, Hebron bị phong toả sang ngày thứ 10 kể từ khi hai binh sĩ Israel bị giết ngày 23/10; thiệt hại kinh tế vượt 3,8 triệu USD, hàng trăm cơ sở kinh doanh phải đóng cửa."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive"
+            }
+          ]
+        },
+        {
+          "headline": "Pháp điều tra tội “giết người bất thành” sau vụ ném bom xăng vào cảnh sát trong biểu tình",
+          "meta": "Al Jazeera · 1/11",
+          "body": [
+            "Công tố Pháp mở điều tra sau khi nhiều nhân viên an ninh bị thương vì bom xăng trong các cuộc biểu tình hôm thứ Bảy, trong đó có ở Marseille; chưa ai bị bắt."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police"
+            }
+          ]
+        },
+        {
+          "headline": "Chính phủ bỏ đề xuất cho người dưới 18 tuổi đăng ký hiến mô, bộ phận cơ thể, hiến xác; Quốc hội thảo luận sáng nay",
+          "meta": "Tuổi Trẻ · 1/11",
+          "body": [
+            "Dự thảo mới nhất của Luật Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác (sửa đổi) đã bỏ quy định cho người dưới 18 tuổi đăng ký hiến. Quốc hội thảo luận dự luật này sáng nay 2/11, mở đầu tuần làm việc với nhiều dự luật, nghị quyết quan trọng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/chinh-phu-bo-quy-dinh-nguoi-duoi-18-tuoi-duoc-dang-ky-hien-mo-bo-phan-co-the-hien-xac-100261101220155045.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/sang-mai-quoc-hoi-thao-luan-sua-luat-hien-lay-ghep-mo-tang-100261101170827021.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Tàu tuần duyên USCGC Bertholf, chiếc đầu tiên lớp Legend của Mỹ, thăm TP.HCM",
+          "meta": "VnExpress · 1/11",
+          "body": [
+            "USCGC Bertholf, chiếc đầu tiên thuộc lớp tàu tuần tra Legend của Tuần duyên Mỹ, bắt đầu chuyến thăm hữu nghị tại TP.HCM."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tau-tuan-duyen-hien-dai-nhat-cua-my-tham-tp-hcm-5139394.html"
+            }
+          ]
+        },
+        {
+          "headline": "TP.HCM đặt mục tiêu giải ngân 100% vốn đầu tư công mỗi năm giai đoạn 2026-2030",
+          "meta": "Tuổi Trẻ · 1/11",
+          "body": [
+            "TP.HCM phát động phong trào thi đua đẩy nhanh giải ngân vốn đầu tư công và giải phóng mặt bằng giai đoạn 2026-2030, mục tiêu giải ngân 100% kế hoạch vốn được giao hằng năm, khen thưởng người làm tốt."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tphcm-dat-muc-tieu-giai-ngan-100-von-dau-tu-cong-khen-thuong-nguoi-lam-tot-100261101192012809.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Ra mắt Bản đồ số Văn hoá Việt Nam (CMAP) với 391 sự kiện",
+          "meta": "VnExpress · 1/11",
+          "body": [
+            "Nền tảng CMAP công bố 391 sự kiện trên cả nước, giúp tra cứu thông tin di sản, bảo tàng, lễ hội và các hoạt động văn hoá."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ra-mat-ban-do-so-van-hoa-viet-nam-5139441.html"
+            }
+          ]
+        },
+        {
+          "headline": "Phim chuyển thể kéo sách kinh điển bán chạy trở lại",
+          "meta": "VnExpress · 1/11",
+          "body": [
+            "Làn sóng phim Hollywood chuyển thể khiến “Phía đông vườn địa đàng”, “Đồi gió hú” hay “The Odyssey” bán chạy trở lại."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/sach-kinh-dien-chay-hang-5139317.html"
+            }
+          ]
+        },
+        {
+          "headline": "Anna Karenina có bản dịch mới từ NXB Phụ nữ Việt Nam",
+          "meta": "Tuổi Trẻ · 31/10",
+          "body": [
+            "Tiểu thuyết Anna Karenina của Lev Tolstoy vừa được Nhà xuất bản Phụ nữ Việt Nam phát hành bản dịch mới; theo Tuổi Trẻ, đây là lần đầu tác phẩm có bản tiếng Việt dịch trực tiếp từ tiếng Nga."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/lan-dau-kiet-tac-anna-karenina-co-ban-tieng-viet-dich-truc-tiep-tu-tieng-nga-100261031084058061.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bức Tường làm tour concert ở Hà Nội và TP.HCM vào tháng 12",
+          "meta": "VnExpress · 1/11",
+          "body": [
+            "Ban nhạc Bức Tường tổ chức concert ở Hà Nội và TP.HCM vào tháng 12 để giới thiệu các ca khúc trong album thứ tám."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/buc-tuong-to-chuc-tour-concert-5139365.html"
+            }
+          ]
+        },
+        {
+          "headline": "Học trò của Sir Tom Jones, cô gái từng hát rong ở Cardiff, vô địch The Voice UK",
+          "meta": "BBC · 1/11",
+          "body": [
+            "Cate McHugh, người bắt đầu sự nghiệp bằng hát rong trên phố Cardiff và mắc bệnh thị lực thoái hoá, đăng quang The Voice UK tối thứ Bảy dưới sự dẫn dắt của Sir Tom Jones."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c8y56vp10075o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Thời tiết hôm nay 2/11: Bắc Bộ mưa to kèm dông, nơi khác mưa rào về chiều tối",
+          "meta": "Tuổi Trẻ · 1/11",
+          "body": [
+            "Bắc Bộ có mưa to kèm dông sét; các nơi còn lại nhiều mây, có mưa rào, mưa nhiều về chiều tối."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thoi-tiet-hom-nay-2-11-bac-bo-mua-to-cac-noi-khac-mua-rao-100261101172716132.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Từ 1/11, mọi cuộc gọi cấp cứu 113 phải được nhân viên y tế phân loại và điều phối",
+          "meta": "Tuổi Trẻ · 1/11",
+          "body": [
+            "Theo thông tư mới của Bộ Y tế, mọi đề nghị hỗ trợ y tế gọi tới đầu số 113 phải được chuyển tới nhân viên y tế trực tổng đài để phân loại tình trạng người bệnh, điều động cấp cứu ngoại viện và phối hợp chọn bệnh viện tiếp nhận."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tu-ngay-1-11-tong-dai-113-tiep-nhan-va-dieu-phoi-cap-cuu-ngoai-vien-la-lenh-bat-buoc-100261101154258426.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Vụ ông Trương Văn Thiên Tư: Công an Đà Nẵng công bố kết quả điều tra ban đầu",
+          "meta": "Tuổi Trẻ · 1/11",
+          "body": [
+            "Công an Đà Nẵng thông tin kết quả điều tra ban đầu vụ lừa đảo chiếm đoạt tài sản tại Trung tâm Anh ngữ Thiên Lập Nhân."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/vu-ong-truong-van-thien-tu-bi-bat-cong-an-thong-tin-ket-qua-dieu-tra-ban-dau-100261101190520085.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Giảm giá điện, xăng dầu: người dân và doanh nghiệp được lợi đến đâu",
+          "meta": "Tuổi Trẻ · 1/11",
+          "body": [
+            "Từ 1/11 giá bán lẻ điện bình quân giảm 2% theo thông báo của EVN, cùng lúc giá xăng dầu giảm; Tuổi Trẻ phân tích tác động tới chi phí tiêu dùng của người dân và doanh nghiệp."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/giam-gia-dien-xang-dau-tac-dong-ra-sao-den-chi-phi-tieu-dung-cua-nguoi-dan-doanh-nghiep-100261101164807321.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Runner 42 tuổi tử vong ở giải chạy tại Malaysia, ca thứ 8 trên thế giới từ đầu tháng 10",
+          "meta": "Tuổi Trẻ · 1/11",
+          "body": [
+            "Một người đàn ông 42 tuổi tử vong khi chạy giải Garmin Run ở Malaysia sáng 1/11 — trường hợp thứ tám báo chí ghi nhận tại các giải chạy trên thế giới kể từ đầu tháng 10."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/runner-malaysia-tu-vong-o-giai-chay-ca-thu-8-trong-1-thang-100261101201754582.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Nhà khoa học Cambridge trên đường nhận giải thiệt mạng trong vụ tai nạn tàu ở Tây Ban Nha",
+          "meta": "BBC · 1/11",
+          "body": [
+            "Tiến sĩ Marta Shahbazi, nhà nghiên cứu của Đại học Cambridge, đang trên đường về quê nhà Tây Ban Nha nhận giải thưởng khoa học thì tàu của bà đâm vào một tàu khác gần Urda, phía nam Madrid; vụ tai nạn làm 69 người chết."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o"
+            }
+          ]
+        },
+        {
+          "headline": "Sydney bắt đầu tuần tra bằng cảnh sát mang súng trường sau vụ xả súng ở Bondi",
+          "meta": "BBC · 1/11",
+          "body": [
+            "Đơn vị Armed Response Command của cảnh sát New South Wales bắt đầu tuần tra các khu du lịch đông người với súng trường, biện pháp an ninh sau vụ xả súng tại lễ hội Hanukkah ở bãi biển Bondi năm ngoái."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 2/11/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu. Mục Khuyến mãi đặc biệt chỉ đăng ưu đãi mới còn hiệu lực có link chính thức."
+}
