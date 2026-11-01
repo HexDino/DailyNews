@@ -44,7 +44,7 @@ REQUIRED_FIELDS = (
     "reading_minutes",
     "body",
 )
-OPTIONAL_FIELDS = {"title_original", "source_url", "source_stats"}
+OPTIONAL_FIELDS = {"title_original", "source_url", "source_stats", "source_published"}
 BLOCK_FIELDS = {
     "p": {"type", "text"},
     "h2": {"type", "text"},
