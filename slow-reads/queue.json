@@ -271,6 +271,29 @@
       "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=vat-ly-cua-viec-bi-sa-thai",
       "source_published": "2026-10-29",
       "note": "Published as an 898-word summary (coverage: summary), not a translation."
+    },
+    {
+      "source_id": "psyche",
+      "url": "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology",
+      "title": "It’s time to ditch the ‘empty self’ view of human psychology",
+      "author": "Jack W. Klein & William B. Swann",
+      "source": "Psyche",
+      "lang": "en",
+      "topics_guess": [
+        "Tâm lý",
+        "Con người",
+        "Tư duy & khoa học"
+      ],
+      "est_words": 1831,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-11-02",
+      "id": "bo-suy-nghi-ban-than-rong",
+      "published_at": "2026-11-02",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=bo-suy-nghi-ban-than-rong",
+      "source_published": "2026-11-02",
+      "note": "Published as a 595-word summary (coverage: summary), not a translation."
     }
   ]
 }

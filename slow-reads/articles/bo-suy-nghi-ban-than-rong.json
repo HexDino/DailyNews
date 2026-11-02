@@ -1,0 +1,90 @@
+{
+  "id": "bo-suy-nghi-ban-than-rong",
+  "title": "Cái tôi của bạn không rỗng: sai lầm phổ biến của tâm lý học",
+  "title_original": "It’s time to ditch the ‘empty self’ view of human psychology",
+  "author": "Jack W. Klein & William B. Swann",
+  "source": "Psyche",
+  "source_url": "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology",
+  "source_published": "2026-11-02",
+  "lang": "en",
+  "topics": [
+    "Tâm lý",
+    "Con người",
+    "Tư duy & khoa học"
+  ],
+  "summary": "Nhiều nhà tâm lý học từng cho rằng bên trong con người không có gì cố định, mọi hành vi chỉ là phản ứng với hoàn cảnh. Klein và Swann cho thấy bằng chứng đã đảo chiều: ta có tính cách bền, năng lực chủ động, và cả khả năng tự tạo ra hoàn cảnh của mình.",
+  "added": "2026-11-02",
+  "reading_minutes": 3,
+  "source_stats": {
+    "url": "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology",
+    "coverage": "summary",
+    "word_count": 1831,
+    "char_count": 10270,
+    "paragraph_count": 20,
+    "sentence_count": 73,
+    "heading_count": 0,
+    "sha256": "70cad189ca8448b997186b114e9da1e788eb490aeec47dd297bc842f8db53cc9"
+  },
+  "body": [
+    {
+      "type": "p",
+      "text": "Hai tác giả gọi ẩn dụ “bản thân rỗng” là cách hiểu phổ biến trong tâm lý học: bên trong mỗi người không có gì cố định, hành vi chỉ là phản ứng với hoàn cảnh."
+    },
+    {
+      "type": "h2",
+      "text": "Một loài người giả định"
+    },
+    {
+      "type": "p",
+      "text": "Họ dựng ra Homo vacuus: giống ta nhưng không có cái tôi bền. Cầm cà phê nóng thì thấy ấm hơn với ai đó, cầm ly đá thì thấy lạnh lẽo. Hậu quả thì nặng nề: không lên kế hoạch được, lúc cưới là cưới một người lạ, không ai đòi họ chịu trách nhiệm nữa."
+    },
+    {
+      "type": "h2",
+      "text": "Nó từng có hậu vĩ"
+    },
+    {
+      "type": "p",
+      "text": "Cách hiểu ấy bắt nguồn từ phong trào hành vi học đầu thế kỷ 20 và thành nền của tâm lý học xã hội, rồi lý thuyết tự nhận thức đẩy tới đỉnh: tình huống đẩy hành vi đi trước, còn niềm tin chỉ là thứ ta suy ra sau. Ngành kích hoạt xã hội là phiên bản hiện đại: chỉ một manh mối vô tình cũng đủ lái hành vi."
+    },
+    {
+      "type": "h2",
+      "text": "Bằng chứng đã đảo chiều"
+    },
+    {
+      "type": "p",
+      "text": "Lĩnh vực này dính vào khủng hoảng tái lập. Khi các nhóm khác chạy lại nghiên cứu kích hoạt xã hội, chỉ 17% kết quả tái tạo được, có trường hợp còn bị coi là gian lận. Klein và Swann tự so sánh các nghiên cứu dựa trên ẩn dụ bản thân rỗng và thấy nhóm đó ít khi đứng vững hơn."
+    },
+    {
+      "type": "p",
+      "text": "Hai thí nghiệm kinh điển cũng được đọc lại. Ở thí nghiệm Milgram, người gây sốc điện không đơn thuần vì ngoan ngoãn: tính cần mẫn và lòng tốt lại dự đoán ai sẵn sàng gây sốc hơn, tức họ chủ động giúp nhà nghiên cứu chứ không bị quyền uy điều khiển. Ở thí nghiệm nhà tù Stanford, lỗi tuyển chọn khiến người tính cách chuyên quyền dễ được chọn vào hơn, nên vai trò tạm thời không giải thích hết."
+    },
+    {
+      "type": "p",
+      "text": "Chứng cứ còn đi ngược hướng khác. Ngành tâm lý tính cách cho thấy bản thân không rỗng: năm đặc điểm Big Five ổn định và dự đoán được cả hành vi lẫn kết quả cuộc sống. Nhiều lần cố bỏ thói quen đều thất bại, vì chính xu hướng cũng ngăn ta thay đổi."
+    },
+    {
+      "type": "h2",
+      "text": "Vì sao niềm tin ấy vẫn bám dai"
+    },
+    {
+      "type": "p",
+      "text": "Ẩn dụ ấy hấp dẫn vì gợi ý những nguyên nhân ẩn sau hành vi, và Kahneman dành riêng cho nó một chương. Nó còn gắn với một mục tiêu đáng trân trọng: không đổ lỗi cho nạn nhân mà cải thiện môi trường. Nhưng thực tế phức tạp hơn chuyện chỉ cần đổi bối cảnh là đổi được con người."
+    },
+    {
+      "type": "h2",
+      "text": "Hướng đi khác"
+    },
+    {
+      "type": "p",
+      "text": "Lối thoát tâm lý học đang tiến tới là tương tác chứ không phải đối lập: người và hoàn cảnh cùng quyết định hành vi. Ngành nudge, tức chỉnh nhỏ cách trình bày lựa chọn, được nhiều chính phủ dùng nhưng kết quả đầu tiên khá kém; thế hệ hai bắt đầu cá nhân hoá theo từng người. Với thay đổi xã hội cũng vậy: mọi phong trào đều phải gặp người ta ở đúng chỗ họ đang ở."
+    },
+    {
+      "type": "p",
+      "text": "Kết luận của hai tác giả: phần lớn chúng ta trung thành với một khái niệm bản thân rõ ràng và nhất quán. Ta không cưới người lạ, ta có năng lực chủ động, và còn có xu hướng tự tạo ra hoàn cảnh của mình. Nghe kém đơn giản hơn Homo vacuus, nhưng gần Homo sapiens hơn."
+    },
+    {
+      "type": "p",
+      "text": "*Bản tóm tắt — đọc toàn bài tại Psyche.*"
+    }
+  ]
+}
