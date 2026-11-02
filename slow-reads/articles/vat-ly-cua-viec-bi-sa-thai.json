@@ -1,0 +1,130 @@
+{
+  "id": "vat-ly-cua-viec-bi-sa-thai",
+  "title": "Vật lý dạy tôi cách sống khi mọi thứ đổ vỡ",
+  "title_original": "The physics of getting fired",
+  "author": "Zahaan Bharmal",
+  "source": "Aeon",
+  "source_url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
+  "source_published": "2026-10-29",
+  "lang": "en",
+  "topics": [
+    "Sự nghiệp",
+    "Tâm lý",
+    "Tư duy & khoa học"
+  ],
+  "summary": "Một người mới đi làm chín tháng bị gọi xuống phòng họp rồi mất việc trong vài phút. Ông kể lại cách những định luật vật lý học hồi phổ thông trở thành công cụ để hiểu cú ngã đó, và cả những bất công nhỏ khác của đời sống.",
+  "added": "2026-11-02",
+  "reading_minutes": 5,
+  "source_stats": {
+    "url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
+    "coverage": "summary",
+    "word_count": 3494,
+    "char_count": 17303,
+    "paragraph_count": 50,
+    "sentence_count": 197,
+    "heading_count": 0,
+    "sha256": "c18b6be82fa10d7d54eee22a0de346d22378fd768f803d30fb1d85eab5b4598a"
+  },
+  "body": [
+    {
+      "type": "p",
+      "text": "Năm 2001, Zahaan Bharmal 23 tuổi, ra trường chín tháng, làm tư vấn ở London. Một partner gọi ông xuống phòng họp tầng dưới, nói thẳng công ty không cần anh nữa, dặn đừng quay lại bàn làm việc. Phòng đó được chọn để ông chỉ đi một cầu thang là ra khỏi toà nhà."
+    },
+    {
+      "type": "p",
+      "text": "Cú sốc không phải mất việc, mà là niềm tin nền tảng bị phá: làm đủ nhiều thì sẽ được đền đáp. Trước đó ông vừa được đánh giá có tiềm năng thành partner."
+    },
+    {
+      "type": "h2",
+      "text": "Vật lý từng là chỗ trú"
+    },
+    {
+      "type": "p",
+      "text": "Thời đi học, ông là cậu bé cô đơn trong một trường nam sinh danh giá, không nắm được luật chơi xã hội. Vật lý kéo ông qua: có luật rõ ràng, chỉ cần hiểu hệ thống. Ông vào Oxford học vật lý, rồi năm cuối quay sang kinh tế và chính trị."
+    },
+    {
+      "type": "h2",
+      "text": "Vắng trong lớp, lên ngôi trong giới quyền lực"
+    },
+    {
+      "type": "p",
+      "text": "Số học sinh Anh chọn vật lý A-level giảm 37% từ 1991 đến 2006, vì nó bị coi là trừu tượng, khó, xa đời sống."
+    },
+    {
+      "type": "p",
+      "text": "Cùng lúc, vật lý thành món đồ thời thượng của giới quyền lực. Dominic Cummings khen vật lý giúp chiến dịch Brexit. Elon Musk quy thành công kinh doanh cho tư duy nguyên lý gốc. Charlie Munger nói nó giúp ông trong đầu tư. Bharmal không phủ nhận họ giỏi, nhưng hỏi: họ tư duy bằng vật lý thật, hay mượn cái tên để trông sắc bén?"
+    },
+    {
+      "type": "h2",
+      "text": "Quy giản thì mạnh, nhưng có giới hạn"
+    },
+    {
+      "type": "p",
+      "text": "Cách mượn phổ biến nhất là quy giản: chia mọi thứ nhỏ đến tận cùng rồi nói rốt cuộc tất cả là vật lý. Nó thành công ngoạn mục: nhiệt chỉ là nguyên tử chuyển động, bẻ nhỏ vật chất thì ra quark, lepton, boson Higgs."
+    },
+    {
+      "type": "p",
+      "text": "Với ông, giá trị thật không phải cái búa đập vụn mọi thứ, mà là cách dựng mô hình và chất vấn giả định. Năm 1854, bác sĩ John Snow không biết dịch tả từ đâu, bèn vẽ bản đồ ca bệnh và lần ra cái bơm nước phố Broad."
+    },
+    {
+      "type": "p",
+      "text": "Với ông, giá trị thật không phải cái búa đập vụn mọi thứ, mà là cách dựng mô hình và chất vấn giả định. Năm 1854, bác sĩ John Snow không biết dịch tả từ đâu. Ông vẽ bản đồ ca bệnh, lần ra cái bơm nước phố Broad."
+    },
+    {
+      "type": "h2",
+      "text": "Đời là một hệ hỗn loạn"
+    },
+    {
+      "type": "p",
+      "text": "Vụ sa thải không phải chuyện riêng. Bong bóng dot-com vỡ, sóng lan tới bàn làm việc của ông, quy tắc là người vào sau ra trước. Rồi 2008, 2011, 2015, 2020. Các cú khủng hoảng giống nhau: gần như không ai thấy trước, và chỉ vài lỗi nhỏ cộng dồn."
+    },
+    {
+      "type": "p",
+      "text": "Đó là hệ hỗn loạn: tất định về lý thuyết nhưng cực nhạy với điều kiện đầu. Bài toán ba vật, thêm một hành tinh là toán nổ tung. Lorenz năm 1961 làm tròn số liệu thời tiết từ sáu xuống ba chữ số, kết quả khác hẳn đến mức ông tưởng máy hỏng."
+    },
+    {
+      "type": "h2",
+      "text": "Bài học thứ nhất: để dư một khoảng"
+    },
+    {
+      "type": "p",
+      "text": "Nếu đời là hệ hỗn loạn thì tối ưu hoá đến giới hạn là sai. Lưới điện có dư để chịu lúc cả thành phố bật điều hoà cùng lúc. Con người thì lịch kín, không còn phút nào để thở. Bharmal gọi đó là sống không có khoảng đệm: thời gian dư, kỹ năng thứ hai, quan hệ. Nó không ngăn khủng hoảng, nhưng giúp đi qua."
+    },
+    {
+      "type": "h2",
+      "text": "Bài học thứ hai: bất bình đẳng không phải bất công"
+    },
+    {
+      "type": "p",
+      "text": "Làm công chức, ông kiếm đủ, nhưng bạn bè tư vấn kiếm sáu chữ số. Cái làm ông đau không phải chênh lệch, mà cảm giác cuộc chơi không công bằng."
+    },
+    {
+      "type": "p",
+      "text": "Trẻ con cũng phân biệt hai thứ đó rất sớm. Nghiên cứu ở Yale: hai người làm việc ngang nhau, trẻ chia 10 đồng thành năm-năm. Một người làm tốt hơn, chia sáu-bốn, vẫn công bằng. Nhưng có 11 đồng mà không cách nào chia công bằng, trẻ vứt hẳn một đồng."
+    },
+    {
+      "type": "p",
+      "text": "Vật lý nói cùng một chuyện. Vũ trụ khởi đầu phẳng và đều; chính sai lệch nhỏ khiến vật chất tụ lại, mới có thiên hà và sự sống. Sông phân nhánh không đều, mạch máu cũng vậy; chênh lệch kích thước giúp dòng chảy hiệu quả. Vấn đề chỉ nảy sinh khi dòng chảy bị chặn: xã hội cũng thế, người ta chấp nhận có kẻ giàu hơn, miễn cơ hội vẫn lưu thông."
+    },
+    {
+      "type": "p",
+      "text": "Khi bất công thành hệ thống, nó giống một phép chuyển pha: đun nước từ từ, đến ngưỡng thì cả nồi sôi. Áp lực tích lại, rồi hệ lật. Ông đọc các cuộc khủng hoảng tài chính và các đợt phản kháng đường phố qua lăng kính đó."
+    },
+    {
+      "type": "h2",
+      "text": "Thứ còn lại"
+    },
+    {
+      "type": "p",
+      "text": "Điều ông giữ lại không phải phương trình, mà một thói quen: nghi ngờ giả định của chính mình, chịu được sự không chắc chắn, thành thật về những gì mình không biết. Ông tiếc trường học dạy vật lý khô khan rồi bắt học sinh chọn phe khoa học hoặc phe nghệ thuật."
+    },
+    {
+      "type": "p",
+      "text": "Vật lý, theo ông, không phải lối tắt đến sự chắc chắn. Nó là cách sống tử tế hơn mà không cần sự chắc chắn đó."
+    },
+    {
+      "type": "p",
+      "text": "*Bản tóm tắt — đọc toàn bài tại Aeon.*"
+    }
+  ]
+}

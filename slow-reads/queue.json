@@ -248,6 +248,29 @@
       "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=bay-lua-dao-van-chuong",
       "source_published": "2026-10-29",
       "note": "Published as an 872-word summary (coverage: summary), not a translation."
+    },
+    {
+      "source_id": "aeon",
+      "url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
+      "title": "The physics of getting fired",
+      "author": "Zahaan Bharmal",
+      "source": "Aeon",
+      "lang": "en",
+      "topics_guess": [
+        "Sự nghiệp",
+        "Tâm lý",
+        "Tư duy & khoa học"
+      ],
+      "est_words": 3494,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-11-02",
+      "id": "vat-ly-cua-viec-bi-sa-thai",
+      "published_at": "2026-11-02",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=vat-ly-cua-viec-bi-sa-thai",
+      "source_published": "2026-10-29",
+      "note": "Published as an 898-word summary (coverage: summary), not a translation."
     }
   ]
 }

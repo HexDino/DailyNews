@@ -14,6 +14,24 @@
   ],
   "articles": [
     {
+      "id": "vat-ly-cua-viec-bi-sa-thai",
+      "title": "Vật lý dạy tôi cách sống khi mọi thứ đổ vỡ",
+      "title_original": "The physics of getting fired",
+      "author": "Zahaan Bharmal",
+      "source": "Aeon",
+      "source_url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
+      "lang": "en",
+      "topics": [
+        "Sự nghiệp",
+        "Tâm lý",
+        "Tư duy & khoa học"
+      ],
+      "summary": "Một người mới đi làm chín tháng bị gọi xuống phòng họp rồi mất việc trong vài phút. Ông kể lại cách những định luật vật lý học hồi phổ thông trở thành công cụ để hiểu cú ngã đó, và cả những bất công nhỏ khác của đời sống.",
+      "added": "2026-11-02",
+      "reading_minutes": 5,
+      "coverage": "summary"
+    },
+    {
       "id": "bay-lua-dao-van-chuong",
       "title": "Câu lạc bộ sách giả và những kẻ sống bằng giấc mơ của người viết",
       "title_original": "Fake film deals and emails from top agents: who is behind the explosion in literary scams?",
