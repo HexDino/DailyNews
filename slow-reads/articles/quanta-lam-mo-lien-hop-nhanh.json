@@ -1,0 +1,82 @@
+{
+  "id": "quanta-lam-mo-lien-hop-nhanh",
+  "title": "Cold fusion năm 1989 và bài học về cách ta đánh giá một tuyên bố khoa học",
+  "title_original": "Is There Anything Left in the Dream of Cold Fusion?",
+  "author": "George Musser",
+  "source": "Quanta Magazine",
+  "source_url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+  "source_published": "2026-11-02",
+  "lang": "en",
+  "topics": [
+    "Tư duy & khoa học",
+    "Tâm lý",
+    "Văn hoá"
+  ],
+  "summary": "Năm 1989, cold fusion bị cả giới khoa học quy chụp làm gian dối. Ba mươi năm sau, các nhà vật lý mở lại cánh cửa đó và tìm ra hướng thú vị hơn nhiều: nhiệt hạt nhân xúc tác bằng muon. Bài viết rút ra một nguyên tắc: đừng nhìn vào tiêu đề, hãy hỏi xem một chương trình nghiên cứu còn đáng làm khi kết quả chính không đạt.",
+  "added": "2026-11-03",
+  "reading_minutes": 3,
+  "source_stats": {
+    "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+    "coverage": "summary",
+    "word_count": 2746,
+    "char_count": 13991,
+    "paragraph_count": 29,
+    "sentence_count": 156,
+    "heading_count": 1,
+    "sha256": "f12622f5cd7f8dfe8548f8f7cf0a23c58550ac5ae64287ecaf7324085cb2626d"
+  },
+  "body": [
+    {
+      "type": "p",
+      "text": "Mùa xuân 2026, triết gia Huw Price ở Đại học Cambridge đăng bài kèm khảo sát về nhiệt hạt nhân lạnh. Tạp chí từ chối bài, và vụ từ chối ấy đánh thức một giấc mơ cũ."
+    },
+    {
+      "type": "h2",
+      "text": "Vụ bê bốn năm 1989"
+    },
+    {
+      "type": "p",
+      "text": "Hai nhà hóa học tuyên bố phản ứng tạo ra nhiều năng lượng hơn hóa học cho phép, nên phải là hạt nhân: hydro nối thành heli. Nghĩa là năng lượng sạch, rẻ, gần như vô hạn. Nhưng không ai lặp lại được, và làng khoa học đổ xuống: sai sót kỹ thuật, đồ thị bị sửa, kết quả ủng hộ bị rút lại."
+    },
+    {
+      "type": "p",
+      "text": "Tác giả lúc đó đang đi rong ngoài đời sáu tháng, đọc lại hồ sơ rồi đổi ý. Ông từng tự chế máy fusor trong tầng hầm. Vài năm sau tham quan lò phản ứng thật, ông thấy máy đắt, toả neutron đủ giết người, và cần tritium chế tạo chứ không có sẵn trong tự nhiên. Rẻ, sạch, chỉ cần nước biển: cả ba đều không có thật."
+    },
+    {
+      "type": "h2",
+      "text": "Tại sao ai đó vẫn muốn mở lại cửa"
+    },
+    {
+      "type": "p",
+      "text": "Price lập luận: có những sự kiện thoạt nhìn khó xảy ra, nhưng nếu xảy ra thì hậu quả cực lớn, nên đáng nghiên cứu hơn. Ông lập Trung tâm Nghiên cứu Rủi ro Hiện sinh. Tác giả không đồng ý: ta còn bàn về cold fusion là vì năm 1989 bị lừa, cái lừa đó tạo hiệu ứng neo. Ông ví như nói thấy Bigfoot trong sân nhà rồi thú nhận là nói bừa, giờ ai cũng mở hội nghị tiền sử địa học quanh đó."
+    },
+    {
+      "type": "p",
+      "text": "Ông gặp Matt Trevithick, nhà đầu tư công nghệ từng ở Google. Mười năm trước, Trevithick dẫn dự án đánh giá lại cold fusion, ra bài trên Nature năm 2019. Không tìm thấy phản ứng hạt nhân bất thường nào, nhưng mục tiêu là gỡ bỏ nguyên do 1989: chủ đề vốn không đáng bị gạt bỏ, như palladium hấp thụ hydro như miếng bọt biển."
+    },
+    {
+      "type": "h2",
+      "text": "Cánh cửa thật: những nguyên tử kỳ lạ"
+    },
+    {
+      "type": "p",
+      "text": "Đó mới là cold fusion thực sự từ trước: nhiệt hạt nhân xúc tác bằng muon. Electron của nguyên tử bình thường có thể bị thay bằng muon, kaon hay antiproton. Chúng nặng hơn nhiều nên nguyên tử co lại, trường điện mạnh lên một triệu lần. Cách làm thì ngược hẳn tốc lý gia tốc: máy giảm tốc antiproton ở CERN làm hạt chậm lại đủ chui vào nguyên tử."
+    },
+    {
+      "type": "p",
+      "text": "Khi phân tử đạt cấu hình cuối, hai nguyên tử hydro nối liền gần như tức thì, ở nhiệt độ phòng. Muon bị đẩy ra, tạo nguyên tử mới rồi bắt đầu vòng lặp mới: nó là bà mối hạt nhân. Muốn có lãi năng lượng, muon phải lặp trên 300 lần, điều nhiều nhà vật lý nghi ngờ. Nhưng ngay cả không đạt, sản phẩm phản ứng vẫn dùng để tổng hợp đồng vị y tế."
+    },
+    {
+      "type": "h2",
+      "text": "Bài học"
+    },
+    {
+      "type": "p",
+      "text": "Đừng bám vào tiêu đề, kiểu năng lượng dồi dào, nhân loại được cứu. Hãy hỏi: nếu phát hiện chính không đạt, chương trình này còn đáng làm không? Và đây là một con đường duy nhất, hay một cửa ngõ mở ra vùng khoa học rộng hơn? Cold fusion năm 1989 trượt cả hai phép thử: họ không bao giờ nói rõ vì sao thí nghiệm của mình thú vị khi không có năng lượng. Việc đó là Trevithick, ba mươi năm sau. Nhiệt hạt nhân muon thì qua."
+    },
+    {
+      "type": "p",
+      "text": "*Bản tóm tắt — đọc toàn bài tại Quanta Magazine.*"
+    }
+  ]
+}

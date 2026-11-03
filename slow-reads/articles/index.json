@@ -10,9 +10,28 @@
     "Tư duy & khoa học",
     "Stoicism",
     "Lịch sử",
+    "Văn hoá",
     "Phát triển bản thân"
   ],
   "articles": [
+    {
+      "id": "quanta-lam-mo-lien-hop-nhanh",
+      "title": "Cold fusion năm 1989 và bài học về cách ta đánh giá một tuyên bố khoa học",
+      "title_original": "Is There Anything Left in the Dream of Cold Fusion?",
+      "author": "George Musser",
+      "source": "Quanta Magazine",
+      "source_url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+      "lang": "en",
+      "topics": [
+        "Tư duy & khoa học",
+        "Tâm lý",
+        "Văn hoá"
+      ],
+      "summary": "Năm 1989, cold fusion bị cả giới khoa học quy chụp làm gian dối. Ba mươi năm sau, các nhà vật lý mở lại cánh cửa đó và tìm ra hướng thú vị hơn nhiều: nhiệt hạt nhân xúc tác bằng muon. Bài viết rút ra một nguyên tắc: đừng nhìn vào tiêu đề, hãy hỏi xem một chương trình nghiên cứu còn đáng làm khi kết quả chính không đạt.",
+      "added": "2026-11-03",
+      "reading_minutes": 3,
+      "coverage": "summary"
+    },
     {
       "id": "vat-ly-cua-viec-bi-sa-thai",
       "title": "Vật lý dạy tôi cách sống khi mọi thứ đổ vỡ",

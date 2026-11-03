@@ -294,6 +294,29 @@
       "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=bo-suy-nghi-ban-than-rong",
       "source_published": "2026-11-02",
       "note": "Published as a 595-word summary (coverage: summary), not a translation."
+    },
+    {
+      "source_id": "quanta",
+      "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+      "title": "Is There Anything Left in the Dream of Cold Fusion?",
+      "author": "George Musser",
+      "source": "Quanta Magazine",
+      "lang": "en",
+      "topics_guess": [
+        "Tư duy & khoa học",
+        "Tâm lý",
+        "Văn hoá"
+      ],
+      "est_words": 2746,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-11-03",
+      "id": "quanta-lam-mo-lien-hop-nhanh",
+      "published_at": "2026-11-03",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=quanta-lam-mo-lien-hop-nhanh",
+      "source_published": "2026-11-02",
+      "note": "Published as a 595-word summary (coverage: summary), not a translation."
     }
   ]
 }
