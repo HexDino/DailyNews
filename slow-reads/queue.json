@@ -317,6 +317,29 @@
       "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=quanta-lam-mo-lien-hop-nhanh",
       "source_published": "2026-11-02",
       "note": "Published as a 595-word summary (coverage: summary), not a translation."
+    },
+    {
+      "source_id": "aeon",
+      "url": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
+      "title": "Believing and thinking",
+      "author": "Neil Van Leeuwen & Jacob Eisler",
+      "source": "Aeon",
+      "lang": "en",
+      "topics_guess": [
+        "Tâm lý",
+        "Tư duy & khoa học",
+        "Con người"
+      ],
+      "est_words": 3970,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-11-03",
+      "id": "tin-cung-niem-tin-tu-do",
+      "published_at": "2026-11-03",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=tin-cung-niem-tin-tu-do",
+      "source_published": "2026-11-03",
+      "note": "Published as an 890-word summary (coverage: summary), not a translation."
     }
   ]
 }

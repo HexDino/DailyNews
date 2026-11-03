@@ -15,6 +15,24 @@
   ],
   "articles": [
     {
+      "id": "tin-cung-niem-tin-tu-do",
+      "title": "Tin và nghĩ: tâm lý học đằng sau bức tường phân cách tôn giáo và nhà nước",
+      "title_original": "Believing and thinking",
+      "author": "Neil Van Leeuwen & Jacob Eisler",
+      "source": "Aeon",
+      "source_url": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
+      "lang": "en",
+      "topics": [
+        "Tâm lý",
+        "Tư duy & khoa học",
+        "Con người"
+      ],
+      "summary": "Jefferson nói chính quyền chỉ quản hành động, không quản ý kiến. Hai nhà nghiên cứu cho rằng nguyên tắc đó chỉ có nghĩa khi ta hiểu rằng tin tôn giáo và tin sự thật là hai thái độ tâm lý khác hẳn nhau.",
+      "added": "2026-11-03",
+      "reading_minutes": 5,
+      "coverage": "summary"
+    },
+    {
       "id": "quanta-lam-mo-lien-hop-nhanh",
       "title": "Cold fusion năm 1989 và bài học về cách ta đánh giá một tuyên bố khoa học",
       "title_original": "Is There Anything Left in the Dream of Cold Fusion?",
