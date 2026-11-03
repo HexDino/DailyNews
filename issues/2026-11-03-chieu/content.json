@@ -1,0 +1,1164 @@
+{
+  "date": "2026-11-03",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Ba, ngày 3 tháng 11 năm 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 3/11/2026 · Thứ Ba · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Lương tối thiểu vùng tăng tới 390.000 đồng từ 1/1/2027",
+    "Mỹ không kích đảo Qeshm của Iran ngay trước bầu cử giữa kỳ",
+    "Tòa Tối cao Mỹ bác yêu cầu ngăn California kiểm phiếu",
+    "Bão Murasu đổ bộ Ấn Độ; trực thăng va chạm gần Everest",
+    "Fact: 3/11/1957, chó Laika bay vào quỹ đạo"
+  ],
+  "followups": [
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Mỹ không kích đảo Qeshm, được mô tả là hạn chế và phòng vệ; ông Trump dọa đánh núi Pickaxe nếu không có thỏa thuận, Iran nói đàm phán “rất sâu”.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/iran-dam-phan-rat-sau-voi-my-ngoai-giao-con-thoi-va-hang-chuc-cuoc-dien-dam-100261103062306368.htm"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử giữa kỳ Mỹ (3/11)",
+      "update": "Cử tri Mỹ bắt đầu đi bầu; Tòa Tối cao bác yêu cầu ngăn California kiểm phiếu tranh chấp. Kết quả có thể mất nhiều ngày ở một số bang.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro"
+        },
+        {
+          "name": "BBC – khi nào có kết quả",
+          "url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results"
+        }
+      ]
+    },
+    {
+      "title": "Đàm phán hòa bình Nga – Ukraine",
+      "update": "Số người chết trong vụ ném bom điểm cứu trợ ở Zaporizhzhia tăng lên 29; châu Âu chuẩn bị diễn tập triển khai quân hậu hòa bình.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-22",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o"
+        },
+        {
+          "name": "BBC – diễn tập",
+          "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po"
+        }
+      ]
+    },
+    {
+      "title": "Vụ hack Binance 6,3 tỷ USD",
+      "update": "Triều Tiên bác cáo buộc đứng sau vụ trộm kỷ lục mà các cơ quan Mỹ quy cho Bình Nhưỡng.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo"
+        }
+      ]
+    },
+    {
+      "title": "Máy bay Learjet rơi gần Mar-a-Lago",
+      "update": "Điều tra viên nói máy bay có thể đã vỡ trên không trước khi rơi; danh tính một gia đình bốn người trong số nạn nhân được công bố.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-02-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro"
+        }
+      ]
+    },
+    {
+      "title": "Vụ BMC – SCB",
+      "update": "Trợ lý của bà Trương Mỹ Lan, bà Nguyễn Thị Thu Sương, bị đề nghị truy tố vắng mặt; báo nêu vai trò của bà trong việc rút 1/3 khoản vay hơn 4.000 tỷ.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-02-chieu",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/tac-dong-scb-cho-cong-ty-bmc-vay-hon-4000-ti-nu-tro-ly-giup-ba-truong-my-lan-lay-1-3-so-tien-vay-ra-sao-100261103140956788.htm"
+        }
+      ]
+    },
+    {
+      "title": "Phạm nhân trốn trại giam A2 (Khánh Hòa)",
+      "update": "Hàng trăm cảnh sát vây núi Cây Cày truy bắt người cuối cùng, Hồ Văn Tình.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-03",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/vu-4-pham-nhan-tron-trai-a2-siet-chat-vong-vay-nui-cay-cay-truy-bat-pham-nhan-cuoi-cung-ho-van-tinh-100261103100613357.htm"
+        }
+      ]
+    },
+    {
+      "title": "ECCO Việt Nam giải thể",
+      "update": "Ít nhất 12 doanh nghiệp đăng ký hơn 5.600 vị trí để tuyển hơn 1.600 công nhân mất việc.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-03",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/12-doanh-nghiep-dang-ky-tuyen-cong-nhan-ecco-viet-nam-5140178.html"
+        }
+      ]
+    },
+    {
+      "title": "Tấn công mạng làm nóng tủ đông siêu thị châu Âu",
+      "update": "Anh xác nhận cũng bị ảnh hưởng.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-03",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o"
+        }
+      ]
+    },
+    {
+      "title": "Công nhân may Bangladesh đòi tăng lương",
+      "update": "Hàng chục nghìn người tiếp tục xuống đường, nói lương không đủ ăn.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-02-chieu",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-03",
+      "title": "Bầu cử giữa kỳ Mỹ",
+      "topic": "Chính trị",
+      "note": "Quyết định quyền kiểm soát Quốc hội trong hai năm cuối nhiệm kỳ ông Trump.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bau-cu-giua-ky-co-y-nghia-gi-doi-voi-ong-trump-va-quoc-hoi-my-100261022155231309.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Hà Nội bắt đầu chi trả lương hưu tháng 11 qua tài khoản",
+      "topic": "Đời sống",
+      "note": "Lùi một ngày so với thông lệ mùng 2.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thay-doi-lich-chi-tra-luong-huu-thang-11-2026-100261023103231668.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Vua Charles III phát biểu tại Hội nghị Thượng đỉnh Khối Thịnh vượng chung (CHOGM) ở Antigua, đề cập vấn đề chế độ nô lệ",
+      "topic": "Chính trị",
+      "note": "Thủ tướng Antigua và Barbuda nói để ngỏ khả năng Anh xin lỗi.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "title": "AFC Champions League Two: FC Seoul – Thể Công",
+      "topic": "Bóng đá",
+      "note": "Trận đầu sau khi Thể Công chia tay HLV Popov.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hlv-popov-bi-sa-thai-sau-mach-tran-toi-te-cua-the-cong-5139208.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Hạn công bố kết quả chính thức bầu cử Quốc hội Israel (trong vòng 8 ngày sau bầu cử)",
+      "topic": "Chính trị",
+      "note": "Kết quả sơ bộ dự kiến có trong ngày 28/10; sau đó Tổng thống tham vấn các đảng để giao quyền lập chính phủ.",
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/israel-election-netanyahu-eisenkot-3b5a0fd078208155337ee9a0b9fbfde2"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Atlético – Bayern, Barcelona – Aston Villa, Man Utd – Roma, Villarreal – PSG",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 3/11.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "title": "125 năm ngày sinh Giáo sư Trần Huy Liệu",
+      "topic": "Văn hoá",
+      "note": "Lễ kỷ niệm đã tổ chức sớm tại Vụ Bản (Ninh Bình) ngày 31/10.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/nhan-luu-niem-giao-su-tran-huy-lieu-duoc-cong-nhan-la-di-tich-quoc-gia-10026103119333913.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Đại hội Phật giáo toàn quốc lần thứ X tại TP.HCM (5–7/11)",
+      "topic": "Văn hoá",
+      "note": "Gần 2.000 đại biểu, nhiệm kỳ 2026–2031.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/gan-2-000-dai-bieu-du-dai-hoi-phat-giao-to-chuc-o-tp-hcm-5139879.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "time": "03:00",
+      "timezone": "giờ VN",
+      "title": "Champions League lượt 4: Leipzig – Man City, Dortmund – Betis, Slavia Praha – Arsenal (Fenerbahçe – Liverpool, AEK – Real Madrid lúc 0:45)",
+      "topic": "Bóng đá",
+      "note": "21:00 CET ngày 4/11; hai trận sớm 18:45 CET.",
+      "sources": [
+        {
+          "name": "UEFA",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Không khí lạnh mạnh tràn về miền Bắc (dự báo)",
+      "topic": "Đời sống",
+      "note": "Vùng núi có nơi dưới 18 độ C.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/mien-bac-sap-don-khong-khi-lanh-manh-5139544.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại UAE (6–10/11)",
+      "topic": "Chính trị",
+      "note": "Theo ông Zelensky; Điện Kremlin nói châu Âu không tham gia.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "time": "trong ngày",
+      "timezone": "giờ Kenya",
+      "title": "Tuyên án mục sư Paul Mackenzie và 28 bị cáo vụ Shakahola",
+      "topic": "Chính trị",
+      "note": "Đã bị kết tội giết 191 người; báo cáo quản chế nộp tòa ngày 30/10.",
+      "sources": [
+        {
+          "name": "Capital FM",
+          "url": "https://capitalfm.africa/court-convicts-all-29-shakahola-accused-of-murder-sets-sentencing-for-november-6/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Đội tuyển Việt Nam của HLV Kim Sang-sik hội quân",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/hlv-kim-sang-sik-cung-doi-tuyen-viet-nam-hoi-quan-vao-ngay-9-11-100261103112025559.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Ngày Pháp luật Việt Nam: Đoàn luật sư TP.HCM tư vấn pháp luật miễn phí",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/doan-luat-su-tphcm-to-chuc-tu-van-phap-luat-mien-phi-cho-nguoi-dan-nhan-ngay-phap-luat-viet-nam-9-11-100261103142956536.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "9–20/11",
+      "timezone": "giờ Thổ Nhĩ Kỳ",
+      "title": "Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Chính trị",
+      "note": "Hội nghị thượng đỉnh khí hậu thường niên của Liên Hợp Quốc.",
+      "sources": [
+        {
+          "name": "UNFCCC",
+          "url": "https://unfccc.int/cop31/the-road-to-antalya"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Lương tối thiểu vùng, chấm điểm cải cách hành chính, sáng chế thuốc, sổ đỏ, kỷ luật thi cử, lương hưu, BOT Điện Bàn.",
+      "items": [
+        {
+          "headline": "Lương tối thiểu vùng tăng 310.000–390.000 đồng/tháng từ 1/1/2027",
+          "meta": "3/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Chính phủ ban hành nghị định nâng lương tối thiểu vùng lên 4,04–5,7 triệu đồng/tháng, áp dụng với người lao động làm việc theo hợp đồng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/luong-toi-thieu-vung-tang-310-000-390-000-dong-tu-nam-2027-5140183.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tang-luong-toi-thieu-vung-tu-1-1-2027-cao-nhat-tang-toi-390000-dong-100261103131209338.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ ngành, địa phương sẽ bị chấm điểm cải cách thủ tục hành chính, xếp 5 mức",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Theo đề án Phó thủ tướng Phạm Thị Thanh Trà vừa phê duyệt, việc chấm điểm làm tự động trên dữ liệu thời gian thực, xếp loại từ xuất sắc đến yếu."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/se-cham-diem-bo-nganh-dia-phuong-ve-cai-cach-thu-tuc-hanh-chinh-xep-loai-5-muc-100261103145244563.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Đại biểu Nguyễn Lân Hiếu: không để người bệnh mua thuốc đắt vì độc quyền sáng chế kéo dài",
+          "meta": "3/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Ông đề nghị siết điều kiện bảo hộ sáng chế thuốc và luật hóa ngoại lệ cho doanh nghiệp Việt nghiên cứu, đăng ký thuốc generic khi bằng gốc còn hiệu lực; đồng thời cảnh báo nguy cơ cây thuốc Việt bị mang ra nước ngoài tách chiết, đăng ký rồi quay về."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khong-de-nguoi-benh-phai-mua-thuoc-dat-vi-doc-quyen-keo-dai-5140060.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/khong-de-cay-thuoc-viet-nam-bi-mang-ra-nuoc-ngoai-tach-chiet-dang-ky-roi-mang-quay-ve-su-dung-100261103110651952.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Dự thảo Luật Đất đai sửa đổi bổ sung điều kiện cấp sổ đỏ cho đất từng vi phạm thủ tục",
+          "meta": "3/11 · VnExpress",
+          "body": [
+            "Bộ Nông nghiệp và Môi trường đưa ra điều kiện riêng cho từng nhóm đất, căn cứ nguồn gốc, thời điểm sử dụng và quy hoạch."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bo-sung-dieu-kien-cap-so-do-cho-dat-vi-pham-thu-tuc-trong-qua-khu-5139986.html"
+            }
+          ]
+        },
+        {
+          "headline": "Quảng Trị kỷ luật 15 người liên quan tiêu cực thi tốt nghiệp ở THPT Lê Trực",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Ủy ban Kiểm tra Tỉnh ủy cảnh cáo 5 người, 10 người khác bị khiển trách vì sai phạm trong kỳ thi tốt nghiệp THPT 2026."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/15-nguoi-bi-ky-luat-lien-quan-vu-tieu-cuc-thi-tot-nghiep-o-thpt-le-truc-100261103123640907.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Đề xuất bỏ giới hạn ủy quyền nhận lương hưu tối đa 12 tháng",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Quy định hiện hành buộc nhiều gia đình có cha mẹ già yếu, nằm viện dài ngày phải làm lại thủ tục mỗi năm."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/de-xuat-bo-gioi-han-12-thang-uy-quyen-nhan-luong-huu-nguoi-cao-tuoi-do-di-lai-vat-va-100261103123935004.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ Xây dựng: BOT Điện Bàn (Đà Nẵng) được thu phí hoàn vốn hơn 26 năm",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Theo hợp đồng đã ký, thời gian thu phí dự kiến là 26 năm 7 tháng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/bo-xay-dung-thoi-gian-thu-phi-tram-bot-dien-ban-da-nang-hon-26-nam-100261103092120846.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Mỹ đánh Qeshm, Tòa Tối cao và California, quân châu Âu cho Ukraine, drone về Moscow, Brexit, định cư ở Anh, Israel, Thái Lan, Gaza.",
+      "items": [
+        {
+          "headline": "Mỹ không kích đảo Qeshm của Iran ngay trước bầu cử giữa kỳ; ông Trump dọa đánh “pháo đài hạt nhân” núi Pickaxe",
+          "meta": "3/11 · BBC, Tuổi Trẻ",
+          "body": [
+            "Giới chức Mỹ gọi các đòn đánh là hạn chế và mang tính phòng vệ. Ông Trump nói có thể phải tấn công núi Pickaxe nếu không đạt thỏa thuận, trong khi Tehran xác nhận đàm phán “rất sâu” với Washington."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ong-trump-doa-tan-cong-phao-dai-hat-nhan-cua-iran-neu-khong-dat-thoa-thuan-100261103111349569.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Tòa Tối cao Mỹ bác yêu cầu của chính quyền Trump ngăn California kiểm các phiếu tranh chấp",
+          "meta": "3/11 · BBC",
+          "body": [
+            "Phán quyết ra đêm trước bầu cử giữa kỳ, gần như chấm dứt nỗ lực loại các lá phiếu này ở bang."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko"
+            }
+          ]
+        },
+        {
+          "headline": "Hàng nghìn binh sĩ châu Âu sẽ diễn tập triển khai tới Ukraine trong kịch bản có hòa bình",
+          "meta": "3/11 · BBC",
+          "body": [
+            "Quan chức phương Tây nhấn mạnh lực lượng này sẽ không tham gia hoạt động tấn công."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po"
+            }
+          ]
+        },
+        {
+          "headline": "Gần 500 drone hướng về Moscow; Nga tấn công quê nhà ông Zelensky dù sắp đàm phán",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Hai bên vẫn leo thang tập kích trước vòng đàm phán do Mỹ làm trung gian; ở ngoại ô Kiev xảy ra đụng độ giữa người dân và Vệ binh Quốc gia."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ – chiến sự",
+              "url": "https://tuoitre.vn/chien-su-ukraine-tang-nhiet-gan-500-drone-huong-ve-matxcova-nga-tan-cong-que-nha-ong-zelensky-100261103124743324.htm"
+            },
+            {
+              "name": "Tuổi Trẻ – ngoại ô Kiev",
+              "url": "https://tuoitre.vn/dung-do-cang-thang-giua-nguoi-dan-va-ve-binh-quoc-gia-ukraine-o-ngoai-o-kiev-100261103130035034.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Anh và EU đạt dự thảo thỏa thuận bỏ thủ tục Brexit với xuất khẩu thực phẩm",
+          "meta": "3/11 · BBC",
+          "body": [
+            "Đây là phần quan trọng nhất của “Brexit reset” tính đến nay, trước hội nghị thượng đỉnh Anh – EU cuối tháng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo"
+            }
+          ]
+        },
+        {
+          "headline": "Anh nhân đôi thời gian chờ thường trú, miễn cho lao động chăm sóc; Thủ tướng đề xuất tái cơ cấu nợ cho Khối Thịnh vượng chung",
+          "meta": "3/11 · BBC, Al Jazeera",
+          "body": [
+            "Bộ trưởng Nội vụ Shabana Mahmood bỏ kế hoạch siết với nhân viên chăm sóc nhập cư. Cùng lúc, London bắt đầu thảo luận khả năng chính thức xin lỗi về buôn bán nô lệ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC – định cư",
+              "url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/3/uk-to-double-wait-for-permanent-residency-with-exemptions-for-care-workers"
+            },
+            {
+              "name": "BBC – nợ Khối Thịnh vượng chung",
+              "url": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo"
+            }
+          ]
+        },
+        {
+          "headline": "Israel: phe ông Netanyahu và phe đối lập đua giành quyền lập chính phủ",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Không phe nào đạt đa số sau bầu cử lập pháp."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/cuoc-dua-xac-dinh-tan-thu-tuong-israel-tang-toc-10026110309510492.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Thái Lan khuyên dân chuẩn bị “túi sinh tồn” 72 giờ giữa căng thẳng Trung Đông",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Người dân được khuyến cáo dự trữ lương thực và vật dụng thiết yếu cho tình huống khẩn cấp."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thai-lan-keu-goi-nguoi-dan-chuan-bi-tui-sinh-ton-72-gio-giua-cang-thang-trung-dong-100261103143335154.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Gaza: quân Israel giết 4 người, thêm một người chết vì vết thương",
+          "meta": "3/11 · Al Jazeera",
+          "body": [
+            "Gần 1.600 người Palestine đã thiệt mạng ở Gaza kể từ khi lệnh ngừng bắn do Mỹ làm trung gian có hiệu lực tháng 10 năm ngoái."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Chống ngập Cần Thơ, Nam Bộ hụt mưa, tai nạn A Lưới, di tích mới, quy tập hài cốt, làn xe đạp, chặt cây trường học, bữa cơm 640.000 đồng, SeABank.",
+      "items": [
+        {
+          "headline": "Cần Thơ đề xuất gần 2.000 tỷ đồng xử lý “rốn” ngập Bình Thủy",
+          "meta": "3/11 · VnExpress",
+          "body": [
+            "Kế hoạch gồm nâng cấp 10 tuyến đường, xây kè, cống kiểm soát triều và âu thuyền."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/gan-2-000-ty-dong-xu-ly-ron-ngap-o-can-tho-5140168.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nam Bộ hụt mưa ngay đầu mùa khô, đã có ngày nóng 36 độ C",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Lượng mưa thấp hơn trung bình nhiều năm trong khi nhiệt độ tăng cao."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/chua-vao-mua-kho-mua-da-hut-luong-mua-thang-11-nam-nay-o-mien-nam-ra-sao-10026110308073235.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Tai nạn liên hoàn trên đường Hồ Chí Minh qua A Lưới, nữ sinh 16 tuổi và một người đàn ông tử vong",
+          "meta": "3/11 · VnExpress",
+          "body": [
+            "Xe tải va chạm với hai xe máy trưa 3/11."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ba-nguoi-tu-vong-sau-tai-nan-lien-hoan-tren-duong-ho-chi-minh-5140249.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bãi cọc Yên Đức thời Đông Sơn – Trần và khu khảo cổ Thiên Long Uyển thành di tích quốc gia",
+          "meta": "3/11 · VnExpress",
+          "body": [
+            "Hai di tích mang nhiều lớp văn hóa từ thời Đông Sơn đến triều Trần."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bai-coc-thoi-dong-son-va-vuon-nghin-rong-thanh-di-tich-quoc-gia-5140113.html"
+            }
+          ]
+        },
+        {
+          "headline": "Quân khu 9 quy tập 1.132 hài cốt liệt sĩ trong Chiến dịch 500 ngày đêm",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Quân khu 9 phối hợp các địa phương tìm kiếm, quy tập."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/quan-khu-9-tim-kiem-quy-tap-duoc-1132-hai-cot-liet-si-100261103122423731.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Xe máy lấn chiếm làn ưu tiên xe đạp trên đại lộ Mai Chí Thọ",
+          "meta": "3/11 · VnExpress",
+          "body": [
+            "Sau gần một năm triển khai, làn này thường xuyên bị xe máy chiếm khi tuyến đường quá tải."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/xe-may-noi-hang-dai-tren-lan-uu-tien-xe-dap-o-tp-hcm-5139929.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hai trường học ở Quảng Ngãi tự ý đốn 19 cây xanh hơn 20 năm tuổi",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "UBND xã Đăk Sao đang xem xét trách nhiệm các cá nhân liên quan."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/hai-truong-hoc-tu-y-don-ha-19-cay-xanh-nhieu-cay-hon-20-nam-tuoi-bi-cua-sat-goc-100261103142859873.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Vụ bữa cơm 640.000 đồng ở Quảng Ngãi: chủ quán bị phạt hơn 8,2 triệu đồng",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Quán không niêm yết giá và bán cao hơn giá niêm yết."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/vu-bua-com-640000-dong-o-quang-ngai-xu-phat-chu-quan-hon-82-trieu-dong-100261103113856774.htm"
+            }
+          ]
+        },
+        {
+          "headline": "SeABank: lợi nhuận 9 tháng giảm 41,7%, nợ có khả năng mất vốn chiếm gần 80% nợ xấu",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Lợi nhuận sau thuế còn 3.153 tỷ đồng; nợ nhóm 5 gần 4.688 tỷ đồng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/seabank-lai-giam-hon-40-no-co-kha-nang-mat-von-chiem-gan-80-no-xau-100261103124234731.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Bão Murasu, trực thăng Everest, lệnh cấm mạng xã hội Australia, trang sức độc, PFAS, vụ xâm hại hơn 20 năm, du thuyền Nga, Asian Cup dời lịch.",
+      "items": [
+        {
+          "headline": "Bão Murasu đổ bộ bờ đông Ấn Độ, vài ngày sau một cơn bão khác",
+          "meta": "3/11 · Al Jazeera",
+          "body": [
+            "Bão mạnh làm bật gốc cây, đổ cột điện ở cùng khu vực vừa bị tàn phá."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast"
+            }
+          ]
+        },
+        {
+          "headline": "Hai trực thăng va chạm gần trại nền Everest, một du khách Ấn Độ thiệt mạng",
+          "meta": "3/11 · Al Jazeera",
+          "body": [
+            "Nhà chức trách Nepal xác nhận nạn nhân 47 tuổi, hai người khác bị thương."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal"
+            }
+          ]
+        },
+        {
+          "headline": "Tòa Tối cao Australia xét đơn đòi lật lệnh cấm mạng xã hội với người dưới 16 tuổi",
+          "meta": "3/11 · BBC, Al Jazeera",
+          "body": [
+            "Luật sư của Reddit và một nhóm quyền số cho rằng chính sách tước quyền giao tiếp tự do của trẻ em."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/3/australias-high-court-hears-bid-to-overturn-under-16s-social-media-ban"
+            }
+          ]
+        },
+        {
+          "headline": "Trang sức “bạc sterling” bán trên Amazon, Temu bị phát hiện chứa hóa chất độc",
+          "meta": "3/11 · BBC",
+          "body": [
+            "Chương trình Watchdog phân tích 25 món mua từ Amazon, Etsy, Temu, eBay và OnBuy."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo"
+            }
+          ]
+        },
+        {
+          "headline": "Anh khởi động nghiên cứu lớn về “hóa chất vĩnh cửu” trong cơ thể người",
+          "meta": "3/11 · BBC",
+          "body": [
+            "Nghiên cứu nhằm đo mức PFAS tích tụ trong cơ thể người dân."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo"
+            }
+          ]
+        },
+        {
+          "headline": "9 người đàn ông hầu tòa trong vụ người chồng đánh thuốc mê, lạm dụng vợ hơn 20 năm",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Nạn nhân là một phụ nữ Anh; nhiều người bị cáo buộc cùng xâm hại bà."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/9-nguoi-dan-ong-ra-toa-trong-vu-chong-danh-thuoc-me-lam-dung-vo-hon-20-nam-100261103120617209.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ý tốn ít nhất 11 triệu USD mỗi năm bảo trì siêu du thuyền Nga bị phong tỏa",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Các du thuyền của tài phiệt Nga bị giữ theo lệnh trừng phạt của EU."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/sieu-du-thuyen-nga-lam-kho-nuoc-y-phai-tieu-ton-gan-chuc-trieu-usd-moi-nam-de-bao-tri-100261103100356645.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bóng đá: Asian Cup 2027 ở Saudi Arabia bị dời sang tháng 12/2027; tiền đạo Tenerife Jesús de Miguel qua đời sau va chạm trên sân",
+          "meta": "3/11 · BBC, Tuổi Trẻ",
+          "body": [
+            "AFC dời giải sau loạt vụ tấn công vào nước chủ nhà. Ở Tây Ban Nha, de Miguel qua đời sau pha va chạm trong trận hạng Hai."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC – Asian Cup",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nong-afc-doi-lich-asian-cup-2027-den-tan-thang-12-2027-100261103132425968.htm"
+            },
+            {
+              "name": "BBC – Tenerife",
+              "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vắn công nghệ",
+      "tags": [
+        "ai"
+      ],
+      "intro": "Một tin ngắn.",
+      "items": [
+        {
+          "headline": "Nga lần đầu điều tra vụ tấn công mạng nghi do AI tự thực hiện, xâm nhập hơn 10 máy chủ trong 3 giờ",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Toàn bộ quy trình từ xâm nhập đến đánh cắp dữ liệu được cho là do AI tự làm."
+          ],
+          "tags": [
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nga-ghi-nhan-vu-ai-tu-tan-cong-mang-xam-nhap-hon-10-may-chu-trong-3-gio-100261103114241107.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Melbourne Cup, từ của năm, máu khủng long, zeptoverse, bàn thắng cứu người, vovinam ở Nigeria, bữa ăn bao cấp, ong tấn công, sân bay Greenland, cùng hai sự kiện ngày 3/11.",
+      "items": [
+        {
+          "headline": "Ngựa từng thuộc Vua Charles thắng Melbourne Cup, “cuộc đua làm cả nước dừng lại”",
+          "meta": "3/11 · BBC",
+          "body": [
+            "Point of Law do Ethan Brown cưỡi về nhất tại giải đua ngựa nổi tiếng nhất Australia."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/horse-racing/articles/cr3wv0476z5do"
+            }
+          ]
+        },
+        {
+          "headline": "“Mogging” là từ của năm của từ điển Collins",
+          "meta": "3/11 · BBC",
+          "body": [
+            "Từ lóng này chỉ việc làm lu mờ, “lấn át” người khác; nằm trong danh sách 10 từ được vinh danh."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo"
+            }
+          ]
+        },
+        {
+          "headline": "Lần đầu xác nhận tế bào hồng cầu hóa thạch trong xương khủng long 115 triệu năm tuổi",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Phát hiện mở ra triển vọng tìm dấu vết sinh học phân tử được lưu giữ qua hàng trăm triệu năm."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/phat-hien-dau-vet-te-bao-mau-trong-hoa-thach-khung-long-115-trieu-nam-tuoi-100261103121300484.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Các nhà khoa học dò được tín hiệu ở thang khoảng cách nhỏ nhất từng khảo sát",
+          "meta": "3/11 · BBC",
+          "body": [
+            "BBC giải thích khái niệm “zeptoverse”, thang đo nhỏ hơn nguyên tử hàng tỷ lần."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo"
+            },
+            {
+              "name": "BBC (video)",
+              "url": "https://www.bbc.co.uk/news/videos/cwdr8veexkrzo"
+            }
+          ]
+        },
+        {
+          "headline": "Cổ động viên phát hiện ung thư nhờ bàn thắng của Ferran Torres ở chung kết World Cup 2026",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Bàn thắng giúp Tây Ban Nha vô địch trước Argentina cũng vô tình giúp một CĐV đi khám bệnh."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/cdv-phat-hien-ung-thu-nho-ban-thang-vang-o-chung-ket-world-cup-2026-100261103112833351.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Vovinam vào chương trình tự vệ cho phụ nữ và cảnh sát ở Nigeria",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Môn võ Việt được dùng để giúp phụ nữ, trẻ em gái học tự vệ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/mot-quoc-gia-dua-vo-viet-nam-vao-chuong-trinh-tu-ve-cho-phu-nu-va-canh-sat-100261103085718234.htm"
+            }
+          ]
+        },
+        {
+          "headline": "TikToker tái hiện bữa ăn thời bao cấp, được khen “content sạch nhất TikTok”",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Cao Ngọc Đức dựng lại thóc rang, cơm độn khoai, tivi đen trắng, thu hút hàng triệu lượt xem."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/mot-tiktoker-tai-hien-nhung-bua-an-thoi-bao-cap-khan-gia-khen-content-sach-nhat-tiktok-100261103130148445.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Đoàn đưa tang ở Quảng Trị bị ong tấn công, 2 người phải cấp cứu",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Sự việc xảy ra tại phường Nam Đông Hà."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/doan-dua-tang-bi-ong-tan-cong-2-nguoi-nhap-vien-cap-cuu-100261103125941929.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Greenland mở sân bay quốc tế mới ở Ilulissat",
+          "meta": "3/11 · Tuổi Trẻ",
+          "body": [
+            "Mục tiêu là thu hút khách quốc tế và phát triển du lịch."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/greenland-mo-san-bay-quoc-te-moi-thu-hut-khach-du-lich-100261103135148416.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 3/11/1957, chó Laika bay vào quỹ đạo trên Sputnik 2",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Liên Xô phóng Sputnik 2 mang theo Laika, con vật đầu tiên bay quanh Trái Đất; nó không sống sót trở về."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Sputnik_2"
+            },
+            {
+              "name": "Wikipedia – Laika",
+              "url": "https://en.wikipedia.org/wiki/Laika"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 3/11/1903, Panama tách khỏi Colombia",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Với sự hậu thuẫn của Mỹ, Panama tuyên bố độc lập, mở đường cho việc xây kênh đào Panama."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Separation_of_Panama_from_Colombia"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 3/11/2026 (giờ VN). Không lặp tin số sáng (ECCO, tủ đông siêu thị, ném bom Zaporizhzhia, trại giam A2 chỉ cập nhật ở mục Theo dõi tin cũ)."
+}
