@@ -363,6 +363,29 @@
       "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=bi-mat-cua-mot-nguoi-tai-phat",
       "source_published": "2026-11-03",
       "note": "Published as an 853-word summary (coverage: summary), not a translation."
+    },
+    {
+      "source_id": "psyche",
+      "url": "https://psyche.co/turning-points/how-a-revelation-at-home-made-me-rethink-delusion",
+      "title": "Baby heaven",
+      "author": "Ryan McKay",
+      "source": "Psyche",
+      "lang": "en",
+      "topics_guess": [
+        "Tâm lý",
+        "Con người",
+        "Đối nhân xử thế"
+      ],
+      "est_words": 2172,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-11-04",
+      "id": "khi-niem-tin-bi-goi-la-hoang-tuong",
+      "published_at": "2026-11-04",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=khi-niem-tin-bi-goi-la-hoang-tuong",
+      "source_published": "2026-11-04",
+      "note": "Published as a 598-word summary (coverage: summary), not a translation."
     }
   ]
 }
