@@ -1,0 +1,78 @@
+{
+  "id": "ai-co-biet-minh-dang-nghi-gi",
+  "title": "AI có biết mình đang nghĩ gì?",
+  "title_original": "New Research Tests Whether AI Models Know Their Own Thoughts",
+  "author": "Ben Brubaker",
+  "source": "Quanta Magazine",
+  "source_url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+  "source_published": "2026-11-04",
+  "lang": "en",
+  "topics": [
+    "Tư duy & khoa học",
+    "Tâm lý",
+    "Con người"
+  ],
+  "summary": "Cấy một ý nghĩ vào mạng nơ-ron, các nhà nghiên cứu thấy mô hình ngôn ngữ nhận ra có điều lạ nhưng không nói được đó là gì. Phát hiện này đủ để gây tranh cãi: liệu biết mình đang bị tác động đã được gọi là tự biết suy nghĩ chưa?",
+  "added": "2026-11-05",
+  "reading_minutes": 3,
+  "source_stats": {
+    "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+    "coverage": "summary",
+    "word_count": 2316,
+    "char_count": 12432,
+    "paragraph_count": 48,
+    "sentence_count": 108,
+    "heading_count": 3,
+    "sha256": "c778e671bd1abee9de4893f0390ff39baa4071310b1d47ea2a0b7408182c972b"
+  },
+  "body": [
+    {
+      "type": "p",
+      "text": "Bạn biết mình đang nghĩ gì mà chẳng cần cân nhắc. Nhưng giới tâm lý học và triết học vẫn cãi: đó là ý thức hay chỉ là ảo giác tinh vi? Định nghĩa chưa xong, phép thử càng khó. Giờ câu hỏi được đem lên mô hình ngôn ngữ lớn."
+    },
+    {
+      "type": "p",
+      "text": "Năm 2025, Jack Lindsey ở Anthropic cấy một ý nghĩ vào mạng nơ-ron bằng cách tăng nhẹ kiểu kích hoạt ứng với một khái niệm. Kỹ thuật này từng tạo ra bản Claude \"Cầu Cổng Vàng\", lồng cây cầu vào mọi câu trả lời. Nhưng tự ngắt lời chưa là bằng chứng: đọc lại chữ vừa viết là đủ."
+    },
+    {
+      "type": "p",
+      "text": "Thí nghiệm dùng nhiều bản sao của một mô hình: nửa bị cấy khái niệm như vải jeans, bí mật, rau củ; nửa đối chứng. Cả hai được hỏi ngay có phát hiện gì không và đó là gì, trước khi kịp viết câu lệch chủ đề. Phiên bản Claude mạnh nhất trả lời đúng cả hai ở khoảng 20% lần thử. Nhóm đối chứng không lần nào báo có, nên không phải đoán mò."
+    },
+    {
+      "type": "h2",
+      "text": "Hai câu hỏi, hai cơ chế"
+    },
+    {
+      "type": "p",
+      "text": "Kyle Mahowald và Harvey Lederman tách đôi câu hỏi ra xét. Họ nghi phần nêu tên khái niệm: chính kỹ thuật tăng kích hoạt vốn lái câu trả lời, nên nó có thể tự khiến mô hình nói về rau củ."
+    },
+    {
+      "type": "p",
+      "text": "Lặp lại trên mô hình mã nguồn mở, họ thấy các lần đoán sai thường đưa ra từ chẳng liên quan, \"táo\" lặp lại kỳ lạ, và có thể bẻ gãy khả năng nêu tên mà không ảnh hưởng khả năng phát hiện cấy ghép. Hai việc chạy bằng cơ chế riêng."
+    },
+    {
+      "type": "p",
+      "text": "Phần còn lại bác không được. Dù hoài nghi, họ chẳng tìm được giải thích nào khớp hết. Họ gọi nó là phát hiện bất thường: mô hình nhận ra có điều lạ trong lúc xử lý, nhưng không nắm chi tiết. Huấn luyện vốn chẳng can thiệp nơ-ron, nên kỹ năng ấy không có lý do xuất hiện. Các lối giải thích hạ bệ vẫn chưa khớp hết."
+    },
+    {
+      "type": "h2",
+      "text": "Vướng ở chữ biết"
+    },
+    {
+      "type": "p",
+      "text": "Gọi phát hiện bất thường là tự biết suy nghĩ được không? Nó giống phản xạ hơn. Với hệ thống không cơ thể, ranh giới bị tác động và nhận ra mình bị tác động vốn mờ. Lederman ví: nếu thứ duy nhất bạn có là bộ não, và ai đó tác động thẳng vào đó mà bạn vẫn nhận ra, thì gọi là gì?"
+    },
+    {
+      "type": "p",
+      "text": "Bài báo mùa xuân 2026 của nhóm Đại học New York nêu vấn đề: mọi thứ trong mô hình đều là xử lý trạng thái nội bộ, nên nếu tất cả là tự biết suy nghĩ, từ này vô nghĩa. Họ mượn lý thuyết về người: nghĩ về táo là một tầng, biết mình đang nghĩ về táo là tầng chồng lên. Steve Fleming nói vạch ngăn ấy cũng mờ trong não người."
+    },
+    {
+      "type": "p",
+      "text": "Nhiều người xem đây là sân chơi dò cơ chế tạo ra khả năng tự soi ở người. Nhưng hai bản sao của một mô hình giống hệt nhau; Jacob Andreas ở MIT nhắc danh tính nằm ngay giữa khái niệm này, nên nhiều phép so sánh khó đứng vững. Sau hơn một thế kỷ tranh luận, câu hỏi giờ có phép đo và người lặp lại để bác bỏ. Lindsey nói khi lý thuyết chưa ai đồng thuận, đường đi tiếp là làm thật nhiều thực nghiệm."
+    },
+    {
+      "type": "p",
+      "text": "*Bản tóm tắt — đọc toàn bài tại Quanta Magazine.*"
+    }
+  ]
+}

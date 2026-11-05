@@ -15,6 +15,24 @@
   ],
   "articles": [
     {
+      "id": "ai-co-biet-minh-dang-nghi-gi",
+      "title": "AI có biết mình đang nghĩ gì?",
+      "title_original": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "author": "Ben Brubaker",
+      "source": "Quanta Magazine",
+      "source_url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "lang": "en",
+      "topics": [
+        "Tư duy & khoa học",
+        "Tâm lý",
+        "Con người"
+      ],
+      "summary": "Cấy một ý nghĩ vào mạng nơ-ron, các nhà nghiên cứu thấy mô hình ngôn ngữ nhận ra có điều lạ nhưng không nói được đó là gì. Phát hiện này đủ để gây tranh cãi: liệu biết mình đang bị tác động đã được gọi là tự biết suy nghĩ chưa?",
+      "added": "2026-11-05",
+      "reading_minutes": 3,
+      "coverage": "summary"
+    },
+    {
       "id": "khi-niem-tin-bi-goi-la-hoang-tuong",
       "title": "Ai được quyền gọi niềm tin của người khác là bệnh?",
       "title_original": "How a revelation at home made me rethink delusion",

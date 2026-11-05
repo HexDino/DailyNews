@@ -386,6 +386,29 @@
       "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=khi-niem-tin-bi-goi-la-hoang-tuong",
       "source_published": "2026-11-04",
       "note": "Published as a 598-word summary (coverage: summary), not a translation."
+    },
+    {
+      "source_id": "quanta",
+      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "author": "Ben Brubaker",
+      "source": "Quanta Magazine",
+      "lang": "en",
+      "topics_guess": [
+        "Tư duy & khoa học",
+        "Tâm lý",
+        "Con người"
+      ],
+      "est_words": 2316,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-11-05",
+      "id": "ai-co-biet-minh-dang-nghi-gi",
+      "published_at": "2026-11-05",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=ai-co-biet-minh-dang-nghi-gi",
+      "source_published": "2026-11-04",
+      "note": "Published as a 593-word summary (coverage: summary), not a translation."
     }
   ]
 }
