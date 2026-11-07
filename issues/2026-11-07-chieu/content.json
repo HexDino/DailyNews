@@ -1,0 +1,1126 @@
+{
+  "date": "2026-11-07",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Bảy, ngày 7 tháng 11 năm 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 7/11/2026 · Thứ Bảy · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Quốc hội giao GDP 2027 tăng từ 10%; trình 3 cao tốc ~162.000 tỷ",
+    "Trump xác nhận tập kích Qeshm; Vance thúc đẩy đàm phán với Iran",
+    "Nga tập kích lớn hạ tầng năng lượng Kiev trước Abu Dhabi 10–11/11",
+    "VKS: Mr Pips không bị tâm thần; cháy nhà xưởng An Khánh trưa 7/11",
+    "Fact: 7/11/1867 Marie Curie chào đời tại Warsaw"
+  ],
+  "followups": [
+    {
+      "title": "Vụ cháy trường THCS Kim Liên (Hà Nội)",
+      "update": "Sáng 7/11: lễ viếng/an táng nam sinh lớp 6 tại Văn Điển. ~3.000 học sinh học online; điều tra nguyên nhân và PCCC tiếp tục. Cùng ngày, một vụ cháy nhà xưởng An Khánh (trưa) đã được khống chế, không thương vong — theo dõi riêng.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-05-chieu",
+      "sources": [
+        {
+          "name": "VnExpress – Kim Liên",
+          "url": "https://vnexpress.net/nan-nhan-tu-vong-trong-vu-chay-truong-kim-lien-la-hoc-sinh-lop-6-5141550.html"
+        },
+        {
+          "name": "VnExpress – An Khánh",
+          "url": "https://vnexpress.net/nha-xuong-o-ha-noi-boc-chay-ngun-ngut-5141895.html"
+        }
+      ]
+    },
+    {
+      "title": "Phiên xử Mr Pips",
+      "update": "Chiều 7/11 (ngày thứ 12): VKS bác đề nghị giám định tâm thần với Phó Đức Nam, dẫn kết quả Bạch Mai và diễn biến điều tra/tòa. Trước đó VKS đề nghị chung thân; phiên tiếp tục.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-04-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vks-mr-pips-pho-duc-nam-khong-bi-tam-than-5141911.html"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử giữa kỳ Mỹ (3/11)",
+      "update": "Ông Trump bổ nhiệm Stephen Miller làm Chánh văn phòng thay Susie Wiles; Dân chủ dọa điều tra. Áp lực nội các và điều tra biểu tượng (gồm 'khải hoàn môn' đang bị chặn 14 ngày) tiếp tục.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "AFP",
+          "url": "https://www.afp.com/en/trump-names-hardliner-miller-chief-staff-after-midterms-rout"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/phe-dan-chu-doa-dieu-tra-tan-chanh-van-phong-nha-trang-5141776.html"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Trump xác nhận tập kích 'nhỏ' phòng không ở Qeshm đồng thời nói đã 'tiến bộ nhiều' trong đàm phán; Vance thúc đẩy kênh Qatar/Pakistan. Hormuz vẫn là điểm nóng vận tải dầu.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ong-vance-co-the-dang-am-tham-thuc-day-thoa-thuan-voi-iran-5141831.html"
+        }
+      ]
+    },
+    {
+      "title": "Đàm phán hòa bình Nga – Ukraine",
+      "update": "Trước thềm Abu Dhabi 10–11/11, Nga tập kích lớn hạ tầng năng lượng Kiev đêm 6/7-11. Zelensky cảnh báo kế hoạch đánh năng lượng/cầu Dnieper; các bên vẫn bất đồng sâu về điều khoản.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-22",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/nga-phong-loat-ten-lua-vao-nha-may-ten-lua-cau-duong-bo-o-kiev-5141817.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
+        }
+      ]
+    },
+    {
+      "title": "Vụ Shakahola (Kenya)",
+      "update": "Paul Mackenzie lãnh 200 năm tù (6/11) — giai đoạn tuyên án chính đã kết thúc; không có diễn biến mới đáng chú ý ngày 7/11.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-19-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cm5yne5984l0o"
+        }
+      ]
+    },
+    {
+      "title": "Đe dọa đánh bom các chuyến bay châu Âu",
+      "update": "Chuỗi hoax chuyến bay đầu tháng lan sang đe dọa tòa soạn/đài ở Ireland, Bulgaria, Anh (6–7/11). Tiếp tục theo dõi; chưa có xác nhận đợt tấn công thật.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-04",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic"
+        },
+        {
+          "name": "Jakarta Post",
+          "url": "https://www.thejakartapost.com/world/2026/11/07/newsroom-bomb-threats-follow-escalating-european-flight-hoaxes"
+        }
+      ]
+    },
+    {
+      "title": "Chuyến thăm Nhật Bản của Tổng Bí thư, Chủ tịch nước Tô Lâm (8–11/11)",
+      "update": "Chuyến thăm chính thức bắt đầu ngày mai 8/11; số sáng đã đưa bối cảnh bán dẫn/AI/chuỗi cung ứng. Không lặp lại như tin mới — chỉ theo dõi lịch.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-07",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chuyen-tham-nhat-cua-tong-bi-thu-chu-tich-nuoc-se-tao-dong-luc-dot-pha-khoa-hoc-cong-nghe-5141741.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-08",
+      "title": "Erdoğan dự kiến thăm Baku nhân Ngày Chiến thắng Azerbaijan",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "X",
+          "url": "https://x.com/i/trending/2118319137927647361"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Miền Trung bắt đầu đợt mưa lớn (đến ~11/11, nơi trên 700 mm)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/mien-trung-mua-lon-tu-8-11-co-noi-tren-700-mm-5141702.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Premier League vòng 10 (CN): Palace–Liverpool, Man Utd–Villa và 3 trận khác",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/premier-league/scores-fixtures/2026-11"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "TRAE 宝 hết hạn miễn phí hỏi–làm việc (23:59)",
+      "topic": "Công nghệ",
+      "note": "Sau hạn sẽ trừ điểm bình thường.",
+      "sources": [
+        {
+          "name": "TRAE Docs",
+          "url": "https://docs.trae.cn/ide_use-trae-bao-for-free-with-no-credits-required"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm chính thức Nhật Bản (8–11/11)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-sap-tham-nhat-ban-5140798.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Tổng thống Israel Herzog dự kiến nêu tên người được giao lập chính phủ",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Đợt không khí lạnh mạnh tràn về miền Bắc (8–9/11, dự báo)",
+      "topic": "Đời sống",
+      "note": "Vùng núi có nơi dưới 13 độ C, Sa Pa có thể xuống 9 độ.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/mien-bac-sap-don-hai-dot-khong-khi-lanh-5140808.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "title": "9–20/11 Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Đời sống",
+      "sources": []
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Ngày Pháp luật Việt Nam: Đoàn luật sư TP.HCM tư vấn pháp luật miễn phí",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/doan-luat-su-tphcm-to-chuc-tu-van-phap-luat-mien-phi-cho-nguoi-dan-nhan-ngay-phap-luat-viet-nam-9-11-100261103142956536.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Đội tuyển Việt Nam của HLV Kim Sang-sik hội quân",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/hlv-kim-sang-sik-cung-doi-tuyen-viet-nam-hoi-quan-vao-ngay-9-11-100261103112025559.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "9–20/11",
+      "timezone": "giờ Thổ Nhĩ Kỳ",
+      "title": "Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Chính trị",
+      "note": "Hội nghị thượng đỉnh khí hậu thường niên của Liên Hợp Quốc.",
+      "sources": [
+        {
+          "name": "UNFCCC",
+          "url": "https://unfccc.int/cop31/the-road-to-antalya"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Grab bắt đầu giảm phí nền tảng với chuyến xe ngắn",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/grab-giam-phi-boi-hoan-39-ti-dong-cho-tai-xe-bat-dau-tu-hom-nay-100261105143741253.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi (10–11/11)",
+      "topic": "Chính trị",
+      "note": "Medinsky dẫn đầu đoàn Nga.",
+      "sources": [
+        {
+          "name": "Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/kremlin-confirms-trilateral-ukraine-peace-talks-in-abu-dhabi-next-week"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Việt Nam – Đài Bắc Trung Hoa (sân Thiên Trường, Ninh Bình)",
+      "topic": "Bóng đá",
+      "note": "Giải diễn ra 11–17/11.",
+      "sources": [
+        {
+          "name": "VFF",
+          "url": "https://www.vff.org.vn/cong-bo-giai-bong-da-giao-huu-quoc-te-casper-cup-2026-cho-doi-nhung-cuoc-so-tai-dang-cap/"
+        },
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Đài Bắc Trung Hoa – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Thông tư 81 có hiệu lực: cấm thu quỹ lớp kiểu cũ",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/cam-quy-lop-tu-15-11-ban-doc-hoan-nghenh-nhung-lo-ngai-binh-moi-ruou-cu-100261106141317645.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "title": "New Zealand áp dụng thị thực mới: du học sinh ở lại làm việc thêm 6 tháng",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/new-zealand-cho-phep-du-hoc-sinh-o-lai-lam-viec-them-6-thang-100261106135240169.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Việt Nam – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "note": "Trận được lùi từ 15/11 sang 17/11.",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Hết lệnh tạm dừng 14 ngày xây 'khải hoàn môn' ở Washington (dự kiến, tính từ 6/11)",
+      "topic": "Chính trị",
+      "note": "Tòa có thể gia hạn hoặc ra phán quyết tiếp theo.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến thông qua chủ trương 3 cao tốc mới và nghị quyết đặc thù du lịch",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress – cao tốc",
+          "url": "https://vnexpress.net/trinh-quoc-hoi-dau-tu-them-ba-du-an-cao-toc-5141815.html"
+        },
+        {
+          "name": "VnExpress – du lịch",
+          "url": "https://vnexpress.net/de-xuat-uu-dai-lon-cho-cac-du-an-du-lich-ty-usd-5141836.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Sân bay Cà Mau dự kiến hoạt động trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/san-bay-ca-mau-lui-ngay-khai-thac-tro-lai-den-18-12-5141694.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Hạn đề xuất hoàn thành 6 dự án dịch vụ sân bay Long Thành",
+      "topic": "Xây dựng",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-lui-han-hoan-thanh-6-du-an-tai-san-bay-long-thanh-5141701.html"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "GDP 2027, ba cao tốc, ưu đãi du lịch, Mr Pips, Shark Bình, Hiệp Đen, Phú Quốc APEC.",
+      "items": [
+        {
+          "headline": "Quốc hội giao mục tiêu GDP 2027 tăng từ 10%; CPI khoảng 4,5%",
+          "meta": "7/11 · VnExpress",
+          "body": [
+            "Sáng 7/11, với hơn 93,4% đại biểu tán thành, Quốc hội thông qua Nghị quyết phát triển kinh tế – xã hội 2027: tăng trưởng GDP phấn đấu từ 10% trở lên, GDP bình quân đầu người khoảng 6.100 USD, lạm phát khoảng 4,5%.",
+            "Nghị quyết yêu cầu ưu tiên tăng trưởng gắn ổn định vĩ mô; hoàn thiện cao tốc Bắc – Nam và các trục Đông – Tây; thúc đẩy đường sắt tốc độ cao Bắc – Nam, Long Thành và Gia Bình; đồng thời kiên quyết khắc phục việc địa phương đầu tư sân bay, cảng biển, trung tâm dữ liệu 'theo phong trào'."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/quoc-hoi-giao-muc-tieu-gdp-2027-tang-tu-10-5141797.html"
+            }
+          ]
+        },
+        {
+          "headline": "Trình Quốc hội ba cao tốc mới ~162.000 tỷ đồng: Bảo Hà – Lai Châu, Quảng Ngãi – Kon Tum, Mộc Châu – Sơn La – Điện Biên",
+          "meta": "7/11 · VnExpress, VietnamPlus",
+          "body": [
+            "Bộ trưởng Xây dựng Trần Hồng Minh trình chủ trương đầu tư công ba tuyến tổng chiều dài khoảng 430,5 km, quy mô 4 làn, tốc độ thiết kế 80–100 km/h, nhằm hướng tới mục tiêu 5.000 km cao tốc đến 2030.",
+            "Sơ bộ tổng mức đầu tư khoảng 162.000 tỷ đồng (Mộc Châu – Sơn La – Điện Biên ~63.000 tỷ; Bảo Hà – Lai Châu gần 51.000 tỷ; Quảng Ngãi – Kon Tum hơn 48.000 tỷ). Quốc hội dự kiến thông qua chủ trương vào 21/11."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/trinh-quoc-hoi-dau-tu-them-ba-du-an-cao-toc-5141815.html"
+            },
+            {
+              "name": "VietnamPlus",
+              "url": "https://www.vietnamplus.vn/thong-cao-bao-chi-so-20-ky-hop-thu-hai-quoc-hoi-khoa-xvi-post1146819.vnp"
+            }
+          ]
+        },
+        {
+          "headline": "Chính phủ đề xuất ưu đãi lớn cho dự án du lịch tỷ USD; thí điểm kinh tế đêm 24/7",
+          "meta": "7/11 · VnExpress",
+          "body": [
+            "Dự thảo nghị quyết đặc thù du lịch: dự án từ khoảng 30.000 tỷ đồng có thể miễn thuế TNDN tối đa 4 năm, giảm 50% trong tối đa 9 năm tiếp theo và thời hạn hoạt động đến 70 năm; có nhóm ưu đãi thấp hơn ở ngưỡng 3.000 và 10.000 tỷ.",
+            "Chính phủ đề xuất thí điểm một số tổ hợp biểu diễn, phố lễ hội và kinh tế đêm vận hành 24/7; mở rộng miễn thị thực với thị trường trọng điểm. Ủy ban thẩm tra đề nghị loại trừ casino và bất động sản khỏi ưu đãi. Dự kiến biểu quyết 21/11."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/de-xuat-uu-dai-lon-cho-cac-du-an-du-lich-ty-usd-5141836.html"
+            }
+          ]
+        },
+        {
+          "headline": "VKS: Mr Pips Phó Đức Nam không bị tâm thần — bác đề nghị giám định",
+          "meta": "7/11 · VnExpress",
+          "body": [
+            "Chiều 7/11, ngày xét xử thứ 12, VKSND Hà Nội đối đáp quan điểm bào chữa: dẫn công văn Bệnh viện Bạch Mai (23/5/2026) cho thấy Nam không bất thường ở 6 lĩnh vực nhận thức, cùng lời khai và theo dõi tại trại tạm giam, để bác đề nghị trưng cầu giám định pháp y tâm thần.",
+            "Trước đó VKS đề nghị chung thân về tội Lừa đảo chiếm đoạt tài sản, cộng với án rửa tiền. Phiên tòa vẫn tiếp tục."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/vks-mr-pips-pho-duc-nam-khong-bi-tam-than-5141911.html"
+            }
+          ]
+        },
+        {
+          "headline": "Luật sư bị hại đề nghị tăng án Shark Bình lên 10–12 năm tù",
+          "meta": "7/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Tại phiên xử, luật sư bảo vệ bị hại đề nghị tăng hình phạt với Nguyễn Hòa Bình (Shark Bình) lên khoảng 10–12 năm tù; phía bào chữa xin giảm án để ông sớm về chăm sóc bốn con."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/luat-su-cua-bi-hai-de-nghi-tang-hinh-phat-shark-binh-len-10-12-nam-tu-5141720.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/luat-su-cua-bi-hai-de-nghi-tang-an-doi-voi-shark-binh-100261107091301357.htm"
+            }
+          ]
+        },
+        {
+          "headline": "'Hiệp Đen' và 13 đồng phạm bị bắt: dàn dựng giang hồ mạng, cho vay lãi nặng",
+          "meta": "6–7/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Nguyễn Tuấn Hiệp (Hiệp Đen, 55 tuổi) cùng 13 người bị Công an TP.HCM bắt về các tội đưa trái phép thông tin lên mạng, cho vay lãi nặng và tàng trữ trái phép vũ khí/công cụ hỗ trợ. Trên mạng xã hội, Hiệp xây dựng hình ảnh giàu có, dàn dựng cảnh đánh nhau và dùng súng để tạo thanh thế."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/giang-ho-hiep-den-bi-bat-5141738.html"
+            },
+            {
+              "name": "Tuổi Trẻ Podcast",
+              "url": "https://podcast.tuoitre.vn/tin-tuc-sang-7-11-giang-ho-mang-hiep-den-va-13-dong-pham-bi-bat-109259.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Phú Quốc khởi công trung tâm hành chính mới phục vụ APEC 2027",
+          "meta": "6–7/11 · VOH",
+          "body": [
+            "Đặc khu Phú Quốc (An Giang) khởi công trụ sở Trung tâm hành chính mới tại Dương Đông (2,06 ha, 1 hầm + 9 nổi, sàn hơn 36.700 m²), kỳ vọng phục vụ Hội nghị cấp cao APEC 2027; dự kiến hoàn thành tháng 9/2027."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VOH",
+              "url": "https://voh.com.vn/thoi-su/tram-tin-trua-711-tphcm-bao-ton-da-dang-sinh-hoc-phu-quoc-khoi-cong-trung-tam-hanh-chinh-moi-678568.html"
+            }
+          ]
+        },
+        {
+          "headline": "Chủ tịch Quốc hội: Phật giáo có nhiều ảnh hưởng tích cực đến xã hội",
+          "meta": "7/11 · VnExpress",
+          "body": [
+            "Phát biểu liên quan hoạt động Phật giáo, Chủ tịch Quốc hội nhấn mạnh vai trò tích cực của Phật giáo đối với đời sống xã hội và đồng bào."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chu-tich-quoc-hoi-phat-giao-co-nhieu-anh-huong-tich-cuc-den-xa-hoi-5141863.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Iran – Qeshm – Vance, Miller, tập kích Kiev, Musk/Starlink, Ethiopia, Rockefeller, đe dọa châu Âu, Yemen, Bỉ.",
+      "items": [
+        {
+          "headline": "Trump xác nhận tập kích 'nhỏ' phòng không Iran ở đảo Qeshm; Vance âm thầm thúc đẩy đàm phán",
+          "meta": "7/11 · Al Jazeera, VnExpress, Axios",
+          "body": [
+            "Ông Trump nói Mỹ đã phá hủy thiết bị phòng không mà Iran dựng ở Qeshm 'trong khoảng 5–15 phút'; truyền thông Iran ghi nhận hai quả tên lửa/đối tượng bay ở khu vực Suza gần Hormuz. CENTCOM nói tình hình 'tương đối bình lặng'.",
+            "Axios: Phó tổng thống Vance gần như hàng ngày trao đổi với Qatar và các kênh trung gian khác; đã gửi thư đề xuất nối lại đàm phán. Thủ tướng Qatar xác nhận Mỹ vẫn thiện chí tìm giải pháp ngoại giao sau bầu cử giữa kỳ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
+            },
+            {
+              "name": "VnExpress – Iran/Qeshm",
+              "url": "https://vnexpress.net/iran-noi-my-phong-ten-lua-vao-dao-an-ngu-hormuz-5141788.html"
+            },
+            {
+              "name": "VnExpress – Vance",
+              "url": "https://vnexpress.net/ong-vance-co-the-dang-am-tham-thuc-day-thoa-thuan-voi-iran-5141831.html"
+            }
+          ]
+        },
+        {
+          "headline": "Trump bổ nhiệm Stephen Miller làm Chánh văn phòng Nhà Trắng thay Susie Wiles; Dân chủ dọa điều tra",
+          "meta": "6–7/11 · AFP, VnExpress, AA",
+          "body": [
+            "Sau thất bại giữa kỳ, ông Trump đưa Stephen Miller — kiến trúc sư chính sách nhập cư cứng rắn — lên ghế Chánh văn phòng, thay Susie Wiles. AFP ghi nhận đây là tín hiệu 'găng tay đã cởi'.",
+            "VnExpress: phe Dân chủ đe dọa điều tra tân Chánh văn phòng; ông Trump cũng nói sẽ thay đổi nội các."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "AFP",
+              "url": "https://www.afp.com/en/trump-names-hardliner-miller-chief-staff-after-midterms-rout"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/phe-dan-chu-doa-dieu-tra-tan-chanh-van-phong-nha-trang-5141776.html"
+            },
+            {
+              "name": "Anadolu",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-7-2026/4114860"
+            }
+          ]
+        },
+        {
+          "headline": "Nga tập kích lớn hạ tầng năng lượng Kiev trước thềm đàm phán Abu Dhabi 10–11/11",
+          "meta": "7/11 · VnExpress, Al Jazeera, Reuters",
+          "body": [
+            "Đêm 6 rạng 7/11, Nga phóng loạt tên lửa (nguồn mở ước ~34 quả, gồm Iskander-M và Zircon theo AMK Mapping) vào nhà máy nhiệt điện Trypillya, trạm biến áp, khu công nghiệp và cầu Pivnichny. Ít nhất hai người bị thương; mất điện/nước cục bộ.",
+            "Bộ Quốc phòng Nga xác nhận tấn công hạ tầng công nghiệp quốc phòng, năng lượng và vận tải. Ông Zelensky trước đó cảnh báo Nga chuẩn bị đợt đánh mới vào năng lượng và cầu qua Dnieper; các bên vẫn dự kiến đàm phán ba bên tại Abu Dhabi 10–11/11."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nga-phong-loat-ten-lua-vao-nha-may-ten-lua-cau-duong-bo-o-kiev-5141817.html"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
+            }
+          ]
+        },
+        {
+          "headline": "Elon Musk chia sẻ bài chỉ trích việc cung cấp Starlink cho Ukraine",
+          "meta": "7/11 · VnExpress",
+          "body": [
+            "Elon Musk đăng/chia sẻ nội dung chỉ trích việc cung cấp Starlink cho Ukraine — diễn biến nối tiếp áp lực chính trị quanh Starlink/Starshield sau bầu cử giữa kỳ Mỹ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/elon-musk-chia-se-bai-dang-chi-trich-viec-cung-cap-starlink-cho-ukraine-5141823.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ethiopia: ít nhất 34 tín đồ Chính thống giáo Ethiopia bị giết ở Oromia; tổng số ~94 trong gần 3 tuần",
+          "meta": "7/11 · Anadolu Agency",
+          "body": [
+            "Theo AA Morning Briefing 7/11, ít nhất 34 tín đồ Chính thống giáo Ethiopia bị sát hại trong một cuộc tấn công mới ở vùng Oromia, nâng tổng số thiệt mạng được báo cáo từ các vụ tấn công tín đồ lên ít nhất 94 trong chưa đầy ba tuần."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Anadolu",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-7-2026/4114860"
+            }
+          ]
+        },
+        {
+          "headline": "Cựu thượng nghị sĩ Mỹ Jay Rockefeller qua đời ở tuổi 89",
+          "meta": "6–7/11 · AP, NBC, AA",
+          "body": [
+            "John D. 'Jay' Rockefeller IV — cựu thống đốc West Virginia, thượng nghị sĩ Dân chủ năm nhiệm kỳ, vận động viên chăm sóc sức khỏe và phúc lợi xã hội — qua đời tại nhà ở Washington, DC, thọ 89 tuổi."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/jay-rockefeller-dies-west-virginia-b5cb393af7826335b0b495b70e5b528e"
+            },
+            {
+              "name": "Anadolu",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-7-2026/4114860"
+            }
+          ]
+        },
+        {
+          "headline": "Đe dọa đánh bom lan sang tòa soạn châu Âu sau chuỗi hoax chuyến bay",
+          "meta": "6–7/11 · Al Jazeera, Jakarta Post",
+          "body": [
+            "Sau chuỗi đe dọa giả với các chuyến bay châu Âu đầu tháng 11, các tòa soạn/đài phát thanh ở Ireland, Bulgaria và Anh cũng nhận đe dọa đánh bom. Giới chức nghi chiến dịch gây rối 'lai' kiểu hybrid; Moskva phủ nhận liên quan."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic"
+            },
+            {
+              "name": "Jakarta Post",
+              "url": "https://www.thejakartapost.com/world/2026/11/07/newsroom-bomb-threats-follow-escalating-european-flight-hoaxes"
+            }
+          ]
+        },
+        {
+          "headline": "Yemen: quân đội nói tái chiếm một số khu vực Taiz; cáo buộc Houthi bắn tên lửa vào chợ dân sự",
+          "meta": "7/11 · Anadolu Agency",
+          "body": [
+            "Theo AA, quân đội Yemen tuyên bố tái chiếm một số khu vực tỉnh Taiz trong giao tranh với Houthi; Bộ Quốc phòng cáo buộc nhóm này phóng tên lửa đạn đạo vào chợ đông người, gây thương vong dân sự."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Anadolu",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-7-2026/4114860"
+            }
+          ]
+        },
+        {
+          "headline": "Bỉ: Vua Philippe từ chối đơn từ chức của Thủ tướng De Wever, yêu cầu nối lại đàm phán ngân sách",
+          "meta": "7/11 · Anadolu Agency",
+          "body": [
+            "Nhà vua Bỉ từ chối đơn từ chức của Thủ tướng Bart De Wever và yêu cầu ngay lập tức nối lại đàm phán ngân sách, sau khi lãnh đạo năm đảng cầm quyền cam kết nhượng bộ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Anadolu",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-7-2026/4114860"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Cháy An Khánh, Kim Liên, thời tiết miền Trung/Bắc, giông lốc Đồng Tháp, ngập Bắc Hà, Việt Nam Xanh, căn hộ Hà Nội, TP.HCM, Dục Thúy Sơn.",
+      "items": [
+        {
+          "headline": "Nhà xưởng vật liệu xây dựng ở An Khánh (Hà Nội) cháy ngùn ngụt trưa 7/11 — không thương vong",
+          "meta": "7/11 · VnExpress",
+          "body": [
+            "Khoảng 12h15, lửa bùng tại nhà xưởng vật liệu xây dựng đường Vân Côn, xã An Khánh. Cảnh sát huy động khoảng 6 xe chữa cháy và ~100 cán bộ; bên trong có nhựa, sơn gây khó khăn. Đến khoảng 13h30 lửa được khống chế; một phần nhà xưởng đổ sập; không ghi nhận thiệt hại về người.",
+            "Công trình nhà cấp 4 khung sắt lợp tôn trên đất nông nghiệp thuộc diện phải di dời vì không đủ điều kiện PCCC."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nha-xuong-o-ha-noi-boc-chay-ngun-ngut-5141895.html"
+            }
+          ]
+        },
+        {
+          "headline": "Vụ cháy THCS Kim Liên: lễ viếng/an táng nam sinh lớp 6 sáng 7/11; ~3.000 học sinh học online",
+          "meta": "7/11 · VnExpress (cập nhật)",
+          "body": [
+            "Nam sinh 12 tuổi tử vong trong vụ cháy 5/11 được tổ chức lễ viếng và an táng sáng 7/11 tại nhà tang lễ Văn Điển. Trường tạm đóng; gần 3.000 học sinh của 31 lớp học online trong khi chính quyền tìm chỗ học mới. Thủ tướng/Phó thủ tướng yêu cầu điều tra nguyên nhân và trách nhiệm; Bộ GD&ĐT rà soát PCCC."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nan-nhan-tu-vong-trong-vu-chay-truong-kim-lien-la-hoc-sinh-lop-6-5141550.html"
+            }
+          ]
+        },
+        {
+          "headline": "Giông lốc Đồng Tháp: 15 căn nhà sập hoặc tốc mái",
+          "meta": "7/11 · VnExpress",
+          "body": [
+            "Giông lốc làm 15 căn nhà ở Đồng Tháp sập hoặc tốc mái; chính quyền địa phương hỗ trợ hộ dân khắc phục."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/giong-loc-lam-15-can-nha-sap-toc-mai-o-dong-thap-5141794.html"
+            }
+          ]
+        },
+        {
+          "headline": "Xã Bắc Hà (Lào Cai) ngập gần một mét: 38 hộ nước vào nhà, ôtô mắc kẹt",
+          "meta": "7/11 · VnExpress",
+          "body": [
+            "Mưa lớn từ đêm 6/11 do không khí lạnh khiến trung tâm xã Bắc Hà ngập gần một mét, 38 hộ bị nước tràn vào nhà, một số điểm giao thông bị chia cắt. Người dân mô tả mức ngập tương tự thời bão Yagi 2024 ở vài chỗ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/trung-tam-xa-bac-ha-ngap-gan-mot-met-oto-mac-ket-trong-lu-5141798.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ngày hội Việt Nam Xanh 2026 khai mạc: giới trẻ đổi rác lấy quà, chờ đêm nhạc Negav",
+          "meta": "7/11 · Tuổi Trẻ",
+          "body": [
+            "Ngày hội Việt Nam Xanh 2026 mở cửa với khoảng 50 gian hàng trải nghiệm sống xanh, tái chế và đổi rác lấy quà; giới trẻ chờ đêm nhạc có Negav."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/gioi-tre-ru-nhau-song-xanh-cho-doi-dem-nhac-co-negav-tai-ngay-hoi-viet-nam-xanh-100261107110032479.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Căn hộ Hà Nội: giá sơ cấp bình quân ~108 triệu đồng/m², giao dịch quý 3 giảm mạnh",
+          "meta": "7/11 · Tuổi Trẻ (Cushman & Wakefield)",
+          "body": [
+            "Báo cáo quý 3/2026: nguồn cung mới khoảng 2.100 căn (−54% theo quý); tiêu thụ gần 1.720 căn (−61% quý, −71% cùng kỳ). Giá sơ cấp bình quân khoảng 108 triệu đồng/m² (−12% quý), chủ yếu do cơ cấu hạng sang thu hẹp."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tin-tuc-sang-7-11-tphcm-giai-quyet-78-kien-nghi-cua-dan-sau-hop-hdnd-giao-dich-can-ho-ha-noi-giam-manh-100261106230157451.htm"
+            }
+          ]
+        },
+        {
+          "headline": "TP.HCM: giải quyết 78 kiến nghị dân sau họp HĐND; kế hoạch đa dạng sinh học đến 2030",
+          "meta": "7/11 · Tuổi Trẻ, VOH",
+          "body": [
+            "UBND TP.HCM đã giải quyết 78/628 lượt kiến nghị chuyển từ HĐND (hạ tầng, nhà ở xã hội, thủ tục…). Thành phố ban hành kế hoạch đa dạng sinh học đến 2030: hướng tới khu bảo tồn Cần Giờ và hồ sơ Ramsar rừng ngập mặn."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tin-tuc-sang-7-11-tphcm-giai-quyet-78-kien-nghi-cua-dan-sau-hop-hdnd-giao-dich-can-ho-ha-noi-giam-manh-100261106230157451.htm"
+            },
+            {
+              "name": "VOH",
+              "url": "https://voh.com.vn/thoi-su/tram-tin-trua-711-tphcm-bao-ton-da-dang-sinh-hoc-phu-quoc-khoi-cong-trung-tam-hanh-chinh-moi-678568.html"
+            }
+          ]
+        },
+        {
+          "headline": "Miền Trung mưa lớn từ 8/11, có nơi trên 700 mm; miền Bắc đón không khí lạnh mạnh 8–9/11",
+          "meta": "7/11 · VnExpress (cập nhật lịch)",
+          "body": [
+            "Dự báo miền Trung bắt đầu đợt mưa lớn từ 8/11 kéo dài đến khoảng 11/11, nơi trên 700 mm. Miền Bắc đón không khí lạnh mạnh 8–9/11. Người dân cần theo dõi cảnh báo lũ quét, sạt lở."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/mien-trung-mua-lon-tu-8-11-co-noi-tren-700-mm-5141702.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ma nhai Dục Thúy Sơn (Ninh Bình): UNESCO ghi danh Di sản tư liệu châu Á – Thái Bình Dương",
+          "meta": "7/11 · VnExpress",
+          "body": [
+            "43 văn bia cổ khắc trên vách đá núi Non Nước (Dục Thúy Sơn, phường Hoa Lư) được UNESCO ghi danh Di sản tư liệu khu vực châu Á – Thái Bình Dương ngày 5/11 tại Jakarta — di sản tư liệu đầu tiên của Ninh Bình trong chương trình Memory of the World khu vực."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ma-nhai-duc-thuy-son-vua-duoc-unesco-ghi-danh-di-san-tu-lieu-chau-a-thai-binh-duong-5141879.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Pizza dứa Brisbane, khách Trung Quốc – Thái Lan, bé gái Mexico, tai nạn xe buýt Pháp, ICE sân bay Mỹ.",
+      "items": [
+        {
+          "headline": "Đầu bếp Italy ở Brisbane bị đuổi việc vì từ chối cho dứa lên pizza",
+          "meta": "7/11 · VnExpress (The Guardian, BBC)",
+          "body": [
+            "Davide Tamburella bị sa thải tại nhà hàng La Costa (Brisbane) sau nhiều lần từ chối làm pizza giăm bông – dứa vì cho rằng xúc phạm ẩm thực Italy. Ủy ban Công bằng Lao động Australia bác đơn khiếu nại vì nộp quá hạn 21 ngày. Nhà hàng sau đó đóng cửa; ông làm việc ở nhà hàng Italy khác không có pizza dứa trên thực đơn."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dau-bep-bi-duoi-viec-vi-tu-choi-cho-dua-len-pizza-5141556.html"
+            }
+          ]
+        },
+        {
+          "headline": "Khách Trung Quốc đến Thái Lan tháng 10 giảm 14% sau cảnh báo lừa đảo, bắt cóc",
+          "meta": "7/11 · VnExpress",
+          "body": [
+            "Thái Lan đón gần 309.000 lượt khách Trung Quốc trong tháng 10 (−14% cùng kỳ), tháng tăng trưởng âm đầu tiên từ tháng 2, dù trùng kỳ nghỉ Quốc khánh Trung Quốc. Bắc Kinh từng cảnh báo công dân về rủi ro lừa đảo và bắt cóc."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khach-trung-quoc-den-thai-lan-giam-sau-canh-bao-lua-dao-bat-coc-5141905.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cảnh sát Mexico bắn chết bé gái 7 tuổi mang quốc tịch Mỹ khi truy đuổi tội phạm",
+          "meta": "7/11 · VnExpress",
+          "body": [
+            "Văn phòng Công tố bang Tamaulipas xác nhận bé Aranza thiệt mạng do trúng đạn vào đầu khi cảnh sát nổ súng từ trực thăng vào xe bán tải chở gia đình 7 người. Mẹ bé nói gia đình đã dừng xe và chồng xuống giải thích họ là thường dân."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/canh-sat-mexico-ban-chet-be-gai-my-khi-truy-duoi-toi-pham-5141892.html"
+            }
+          ]
+        },
+        {
+          "headline": "Pháp: xe buýt chở 43 người (15 trẻ em) tai nạn gần Lent — ít nhất 2 chết, 16 bị thương",
+          "meta": "7/11 · Anadolu Agency",
+          "body": [
+            "Theo AA, xe buýt chở 43 người trong đó 15 trẻ vị thành niên gặp nạn gần xã Lent (tỉnh Ain, đông Pháp): ít nhất 2 người chết và 16 bị thương (3 nặng)."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Anadolu",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-7-2026/4114860"
+            }
+          ]
+        },
+        {
+          "headline": "Sinh viên nước ngoài bị ICE bắt tại sân bay Mỹ",
+          "meta": "7/11 · VnExpress",
+          "body": [
+            "Một số sinh viên quốc tế bị Cơ quan Thực thi Di trú và Hải quan Mỹ (ICE) bắt giữ ngay tại sân bay khi nhập cảnh hoặc quá cảnh — diễn biến gắn với chính sách nhập cư cứng rắn sau bầu cử giữa kỳ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/sinh-vien-nuoc-ngoai-bi-ice-bat-o-san-bay-my-5141790.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Cựu hoa hậu Thái, phim ngắn Trung Quốc, cùng các sự kiện ngày 7/11 (Marie Curie, Tacoma Narrows, Ensisheim, Rankin, London Gazette) — tránh lặp Bolshevik 1917 của số sáng.",
+      "items": [
+        {
+          "headline": "Cựu hoa hậu Thái Lan bị bắt với cáo buộc ăn chặn tiền từ thiện",
+          "meta": "7/11 · VnExpress",
+          "body": [
+            "Cựu hoa hậu Thái Lan bị bắt liên quan cáo buộc chiếm đoạt/ăn chặn tiền từ hoạt động từ thiện — vụ việc gây chú ý dư luận trong nước."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cuu-hoa-hau-thai-lan-bi-bat-voi-cao-buoc-an-chan-tien-tu-thien-5141828.html"
+            }
+          ]
+        },
+        {
+          "headline": "Trung Quốc 'dẹp loạn' mảng phim ngắn",
+          "meta": "7/11 · VnExpress",
+          "body": [
+            "Cơ quan quản lý Trung Quốc siết hoạt động sản xuất và phát hành phim ngắn trên nền tảng số nhằm chuẩn hóa nội dung và giảm nội dung lệch lạc."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/trung-quoc-dep-loan-mang-phim-ngan-5141782.html"
+            }
+          ]
+        },
+        {
+          "headline": "Fact 7/11/1867: Marie Curie chào đời tại Warsaw",
+          "meta": "Fact hôm nay · Wikipedia / NobelPrize.org",
+          "body": [
+            "Maria Skłodowska (Marie Curie) sinh ngày 7/11/1867. Bà là người đầu tiên đoạt hai giải Nobel ở hai lĩnh vực khác nhau (Vật lý 1903, Hóa học 1911) nhờ nghiên cứu phóng xạ."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Marie Curie",
+              "url": "https://en.wikipedia.org/wiki/Marie_Curie"
+            },
+            {
+              "name": "NobelPrize.org",
+              "url": "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/biographical/"
+            },
+            {
+              "name": "Wikipedia – November 7",
+              "url": "https://en.wikipedia.org/wiki/November_7"
+            }
+          ]
+        },
+        {
+          "headline": "Fact 7/11/1940: Cầu Tacoma Narrows ('Galloping Gertie') sập chỉ sau 4 tháng khai thác",
+          "meta": "Fact hôm nay · Wikipedia",
+          "body": [
+            "Ngày 7/11/1940, cầu Tacoma Narrows gốc ở bang Washington sập trong gió mạnh — bài học kinh điển về khí động học và cộng hưởng trong kỹ thuật cầu."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Tacoma Narrows Bridge",
+              "url": "https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_(1940)"
+            },
+            {
+              "name": "Wikipedia – November 7",
+              "url": "https://en.wikipedia.org/wiki/November_7"
+            }
+          ]
+        },
+        {
+          "headline": "Fact 7/11/1492: Thiên thạch Ensisheim — thiên thạch có ngày rơi được ghi nhận cổ nhất",
+          "meta": "Fact hôm nay · Wikipedia",
+          "body": [
+            "Thiên thạch Ensisheim rơi xuống cánh đồng lúa mì ngoài làng Ensisheim (Alsace, Pháp) ngày 7/11/1492 — được coi là thiên thạch có ngày va chạm được ghi nhận cổ nhất còn lưu."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Ensisheim (meteorite)",
+              "url": "https://en.wikipedia.org/wiki/Ensisheim_(meteorite)"
+            },
+            {
+              "name": "Wikipedia – November 7",
+              "url": "https://en.wikipedia.org/wiki/November_7"
+            }
+          ]
+        },
+        {
+          "headline": "Fact 7/11/1916: Jeannette Rankin — nữ nghị sĩ đầu tiên của Quốc hội Mỹ",
+          "meta": "Fact hôm nay · Wikipedia",
+          "body": [
+            "Ngày 7/11/1916, Jeannette Rankin (Montana) trở thành phụ nữ đầu tiên được bầu vào Hạ viện Mỹ — trước khi Tu chính án 19 bảo đảm quyền bầu cử toàn liên bang cho phụ nữ (1920)."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – Jeannette Rankin",
+              "url": "https://en.wikipedia.org/wiki/Jeannette_Rankin"
+            },
+            {
+              "name": "Wikipedia – November 7",
+              "url": "https://en.wikipedia.org/wiki/November_7"
+            }
+          ]
+        },
+        {
+          "headline": "Fact 7/11/1665: London Gazette — nhật báo còn tồn tại lâu đời nhất — ra số đầu",
+          "meta": "Fact hôm nay · Wikipedia",
+          "body": [
+            "The London Gazette được xuất bản lần đầu ngày 7/11/1665 (khi triều đình tạm trú Oxford vì dịch hạch) và vẫn là nhật báo chính thức của Chính phủ Anh còn tồn tại."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – The London Gazette",
+              "url": "https://en.wikipedia.org/wiki/The_London_Gazette"
+            },
+            {
+              "name": "Wikipedia – November 7",
+              "url": "https://en.wikipedia.org/wiki/November_7"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 7/11/2026 (giờ VN). Không lặp tin số sáng (Hiến pháp/Tô Lâm–Nhật, đàm phán Iran khung Qatar, Putin Abu Dhabi, Mackenzie 200 năm, HSR tender, Macau, bóng đá/AI…) trừ khi có cập nhật cùng ngày. Fact 7/11 tránh Bolshevik 1917 đã dùng buổi sáng."
+}
