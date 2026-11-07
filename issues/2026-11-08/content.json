@@ -1,0 +1,1532 @@
+{
+  "date": "2026-11-08",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 08/11/2026 · Chủ Nhật · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Tô Lâm bắt đầu thăm chính thức Nhật Bản (8–11/11)",
+    "Herzog giao Eisenkot lập chính phủ Israel — bỏ qua Netanyahu",
+    "Forest 3-1 Man City; GPT-6 Cyber + TRAE 宝 ngày cuối",
+    "Xả súng Kraków ít nhất 5–6 chết; Sunday Nghiên cứu Xây dựng 8 papers",
+    "Fact: 8/11/1895 Röntgen phát hiện tia X"
+  ],
+  "followups": [
+    {
+      "title": "Vụ cháy trường THCS Kim Liên (Hà Nội)",
+      "update": "Sau lễ viếng/an táng sáng 7/11 tại Văn Điển: ~3.000 học sinh học online; điều tra nguyên nhân và rà PCCC trường học tiếp tục. Chưa có kết luận nguyên nhân công bố sáng 8/11.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-05-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/nan-nhan-tu-vong-trong-vu-chay-truong-kim-lien-la-hoc-sinh-lop-6-5141550.html"
+        }
+      ]
+    },
+    {
+      "title": "Phiên xử Mr Pips",
+      "update": "7/11: VKS bác giám định tâm thần với Phó Đức Nam. 8/11: phiên tiếp tục tranh tụng luật sư/bị cáo/bị hại; VKS trước đó đề nghị chung thân.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-04-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vks-mr-pips-pho-duc-nam-khong-bi-tam-than-5141911.html"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử giữa kỳ Mỹ (3/11)",
+      "update": "Stephen Miller làm Chánh văn phòng; Dân chủ dọa điều tra. Áp lực nội các và vụ 'khải hoàn môn' (tạm dừng 14 ngày đến ~20/11) tiếp tục.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/phe-dan-chu-doa-dieu-tra-tan-chanh-van-phong-nha-trang-5141776.html"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Sau xác nhận tập kích Qeshm (6–7/11), Iran nói gỡ rào tầm bắn tên lửa; Qatar khẳng định kênh trung gian chưa đổ. Hormuz vẫn điểm nóng dầu.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/iran-tuyen-bo-go-rao-tam-ban-ten-lua-5141969.html"
+        }
+      ]
+    },
+    {
+      "title": "Đàm phán hòa bình Nga – Ukraine",
+      "update": "Abu Dhabi 10–11/11 sắp tới; Nga cử cố vấn Điện Kremlin/tình báo vào kênh Mỹ–Ukraine. Trước đó Nga tập kích năng lượng Kiev.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-22",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/nga-cu-co-van-dien-kremlin-trum-tinh-bao-hop-voi-my-ukraine-5141913.html"
+        }
+      ]
+    },
+    {
+      "title": "Vụ Shakahola (Kenya)",
+      "update": "Paul Mackenzie lãnh 200 năm tù (6/11) — giai đoạn tuyên án chính đã kết thúc; không có diễn biến mới đáng chú ý.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-10-19-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cm5yne5984l0o"
+        }
+      ]
+    },
+    {
+      "title": "Đe dọa đánh bom các chuyến bay châu Âu",
+      "update": "Chuỗi hoax đầu tháng lan sang tòa soạn/đài (6–7/11). Sáng 8/11 chưa thấy đợt tấn công thật được xác nhận; tiếp tục theo dõi.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-04",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic"
+        }
+      ]
+    },
+    {
+      "title": "Chuyến thăm Nhật Bản của Tổng Bí thư, Chủ tịch nước Tô Lâm (8–11/11)",
+      "update": "Chuyến thăm chính thức bắt đầu sáng 8/11 (Nhân Dân/Vietnam News). Theo dõi hội kiến Nhà vua, hội đàm Thủ tướng và phát biểu Quốc hội trong các ngày tới.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-07",
+      "sources": [
+        {
+          "name": "Nhân Dân",
+          "url": "https://nhandan.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tham-chinh-thuc-nhat-ban-post1000981.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-08",
+      "title": "Erdoğan dự kiến thăm Baku nhân Ngày Chiến thắng Azerbaijan",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "X",
+          "url": "https://x.com/i/trending/2118319137927647361"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Herzog chính thức giao Eisenkot lập chính phủ Israel (lễ Chủ nhật)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Miền Trung bắt đầu đợt mưa lớn (đến ~11/11, nơi trên 700 mm)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/mien-trung-mua-lon-tu-8-11-co-noi-tren-700-mm-5141702.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Miền Trung mưa lớn; miền Bắc đón không khí lạnh mạnh",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thoi-tiet-hom-nay-8-11-khong-khi-lanh-tran-ve-nuoc-ta-100261107164942599.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Premier League vòng 10 (CN tối VN): Palace–Liverpool, Brighton–Brentford, Ipswich–Bournemouth, Sunderland–Chelsea; khuya Man Utd–Villa",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/premier-league/scores-fixtures/2026-11"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Premier League vòng 10 (CN): Palace–Liverpool, Man Utd–Villa và 3 trận khác",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/premier-league/scores-fixtures/2026-11"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "TRAE 宝 hết hạn miễn phí hỏi–làm việc (23:59)",
+      "topic": "Công nghệ",
+      "note": "Sau hạn sẽ trừ điểm bình thường.",
+      "sources": [
+        {
+          "name": "TRAE Docs",
+          "url": "https://docs.trae.cn/ide_use-trae-bao-for-free-with-no-credits-required"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm chính thức Nhật Bản (8–11/11)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-sap-tham-nhat-ban-5140798.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm chính thức Nhật Bản (8–11/11) — ngày đầu",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Nhân Dân",
+          "url": "https://nhandan.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tham-chinh-thuc-nhat-ban-post1000981.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Tổng thống Israel Herzog dự kiến nêu tên người được giao lập chính phủ",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Đợt không khí lạnh mạnh tràn về miền Bắc (8–9/11, dự báo)",
+      "topic": "Đời sống",
+      "note": "Vùng núi có nơi dưới 13 độ C, Sa Pa có thể xuống 9 độ.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/mien-bac-sap-don-hai-dot-khong-khi-lanh-5140808.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "title": "9–20/11 Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Đời sống",
+      "sources": []
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Ngày Pháp luật Việt Nam: Đoàn luật sư TP.HCM tư vấn pháp luật miễn phí",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/doan-luat-su-tphcm-to-chuc-tu-van-phap-luat-mien-phi-cho-nguoi-dan-nhan-ngay-phap-luat-viet-nam-9-11-100261103142956536.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Đội tuyển Việt Nam của HLV Kim Sang-sik hội quân",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/hlv-kim-sang-sik-cung-doi-tuyen-viet-nam-hoi-quan-vao-ngay-9-11-100261103112025559.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "9–20/11",
+      "timezone": "giờ Thổ Nhĩ Kỳ",
+      "title": "Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Chính trị",
+      "note": "Hội nghị thượng đỉnh khí hậu thường niên của Liên Hợp Quốc.",
+      "sources": [
+        {
+          "name": "UNFCCC",
+          "url": "https://unfccc.int/cop31/the-road-to-antalya"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Grab bắt đầu giảm phí nền tảng với chuyến xe ngắn",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/grab-giam-phi-boi-hoan-39-ti-dong-cho-tai-xe-bat-dau-tu-hom-nay-100261105143741253.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi (10–11/11)",
+      "topic": "Chính trị",
+      "note": "Medinsky dẫn đầu đoàn Nga.",
+      "sources": [
+        {
+          "name": "Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/kremlin-confirms-trilateral-ukraine-peace-talks-in-abu-dhabi-next-week"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Việt Nam – Đài Bắc Trung Hoa (sân Thiên Trường, Ninh Bình)",
+      "topic": "Bóng đá",
+      "note": "Giải diễn ra 11–17/11.",
+      "sources": [
+        {
+          "name": "VFF",
+          "url": "https://www.vff.org.vn/cong-bo-giai-bong-da-giao-huu-quoc-te-casper-cup-2026-cho-doi-nhung-cuoc-so-tai-dang-cap/"
+        },
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Đài Bắc Trung Hoa – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Thông tư 81 có hiệu lực: cấm thu quỹ lớp kiểu cũ",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/cam-quy-lop-tu-15-11-ban-doc-hoan-nghenh-nhung-lo-ngai-binh-moi-ruou-cu-100261106141317645.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "title": "New Zealand áp dụng thị thực mới: du học sinh ở lại làm việc thêm 6 tháng",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/new-zealand-cho-phep-du-hoc-sinh-o-lai-lam-viec-them-6-thang-100261106135240169.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Việt Nam – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "note": "Trận được lùi từ 15/11 sang 17/11.",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Hết lệnh tạm dừng 14 ngày xây 'khải hoàn môn' ở Washington (dự kiến, tính từ 6/11)",
+      "topic": "Chính trị",
+      "note": "Tòa có thể gia hạn hoặc ra phán quyết tiếp theo.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến thông qua chủ trương 3 cao tốc mới và nghị quyết đặc thù du lịch",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress – cao tốc",
+          "url": "https://vnexpress.net/trinh-quoc-hoi-dau-tu-them-ba-du-an-cao-toc-5141815.html"
+        },
+        {
+          "name": "VnExpress – du lịch",
+          "url": "https://vnexpress.net/de-xuat-uu-dai-lon-cho-cac-du-an-du-lich-ty-usd-5141836.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "TP.HCM bắn pháo hoa tầm cao tại ba điểm",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tp-hcm-ban-phao-hoa-tam-cao-ba-diem-ngay-24-11-5141981.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Sân bay Cà Mau dự kiến hoạt động trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/san-bay-ca-mau-lui-ngay-khai-thac-tro-lai-den-18-12-5141694.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Hạn đề xuất hoàn thành 6 dự án dịch vụ sân bay Long Thành",
+      "topic": "Xây dựng",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-lui-han-hoan-thanh-6-du-an-tai-san-bay-long-thanh-5141701.html"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "OpenAI ra GPT-6 Cyber: tìm lỗ hổng zero-day trong phạm vi ủy quyền — xếp Critical",
+          "meta": "OpenAI · VentureBeat · 5–7/11",
+          "body": [
+            "GPT-6 Cyber là mô hình chuyên an ninh mạng: ExploitGym 48,5% (trước 32,1%), honeypot giữ trong phạm vi ~99,93–100%. Đã hỗ trợ tìm 81 lỗ hổng Firefox mức cao và phát triển exploit cho hàng trăm lỗ hổng nhân Linux trong nghiên cứu có kiểm soát.",
+            "OpenAI xếp Critical theo Preparedness Framework; truy cập qua Daybreak Red (tổ chức được duyệt). Song song mở rộng Daybreak Blue cho Astra và chương trình hỗ trợ đội phòng thủ hạ tầng."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "url": "https://openai.com/index/introducing-gpt-6-cyber/"
+            },
+            {
+              "name": "VentureBeat",
+              "url": "https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google"
+            }
+          ]
+        },
+        {
+          "headline": "OpenAI hợp tác Hacktron đỏ-đội hệ thống nội bộ và 'đường nối' bên thứ ba",
+          "meta": "OpenAI · Hacktron · 6–7/11",
+          "body": [
+            "OpenAI và Hacktron cùng chọn vùng ưu tiên kiểm thử, tập trung chỗ sản phẩm OpenAI giao với nền tảng bên thứ ba. Hacktron được mở rộng truy cập mô hình biên qua Daybreak Red.",
+            "Động thái gắn với chiến lược 'tăng tốc phòng thủ bằng AI biên' — tự soi hệ thống trước khi mở rộng agent cyber cho khách."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "url": "https://openai.com/index/partnering-with-hacktron"
+            },
+            {
+              "name": "Hacktron",
+              "url": "https://www.hacktron.ai/blog/openai-partnership"
+            }
+          ]
+        },
+        {
+          "headline": "Google ADK 2.14.0: ổn định runtime agent, đánh giá multi-run và nối Microsoft Teams",
+          "meta": "PyPI / GitHub google-adk · ~4–7/11",
+          "body": [
+            "Agent Development Kit 2.14.0 tốt nghiệp nhiều API thử nghiệm (môi trường thực thi, A2A, evaluation, runtime). Thêm MultiRunConfig chạy song song ca kiểm thử, ToolArgsMatcher so khớp ngữ nghĩa tham số tool, TeamsRunner và OpenAIDecisionsClassifier.",
+            "Công bố cải thiện workflow nhiều lượt (~23% nhanh hơn, đỉnh RAM thấp hơn ~9%) — toolkit mã nguồn mở code-first cho Python/TS/Go/Java/Kotlin."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "PyPI",
+              "url": "https://pypi.org/project/google-adk/2.14.0/"
+            },
+            {
+              "name": "GitHub",
+              "url": "https://github.com/google/adk-python/blob/main/CHANGELOG.md"
+            }
+          ]
+        },
+        {
+          "headline": "Moonshot mở trọng số Kimi K3.1 Pro (~2,8T MoE / ~104B active) trên Hugging Face",
+          "meta": "Hugging Face · Kimi blog · khoảng 4–7/11",
+          "body": [
+            "Kimi K3.1 Pro: MoE khoảng 2,8 nghìn tỷ tham số (~104B kích hoạt), ngữ cảnh tới 1M token, text+ảnh; bản safetensors ~1,56 TB trên Hugging Face.",
+            "Giấy phép cho phép dùng/finetune/thương mại với ngưỡng doanh thu MaaS; vượt ngưỡng cần thỏa thuận riêng với Moonshot. Báo cáo chi tiêu doanh nghiệp Mỹ nêu Kimi chiếm tỷ trọng lớn trong mô hình mở."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Hugging Face",
+              "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+            },
+            {
+              "name": "Kimi",
+              "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+            }
+          ]
+        },
+        {
+          "headline": "Anthropic vẫn đẩy IPO trước Lễ Tạ ơn — định giá thị trường nói quanh 1–1,75 nghìn tỷ USD",
+          "meta": "Financial Times / CNBC tổng hợp · 7–8/11",
+          "body": [
+            "Theo nhà đầu tư được FT/CNBC trích, Anthropic muốn huy động khoảng 80–100 tỷ USD trước Thanksgiving; định giá bàn tán hạ so kỳ vọng ~2 nghìn tỷ trước đó, một số ước quanh 1–1,75 nghìn tỷ.",
+            "Bối cảnh: cổ phiếu AI áp lực sau bầu cử giữa kỳ Mỹ và lo siết data center — IPO trở thành phép thử định giá frontier lab trên thị trường công khai."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Kill The AI",
+              "url": "https://killtheai.com/news/top-10-ai-news-today-november-8-2026/"
+            }
+          ]
+        },
+        {
+          "headline": "Robot hình người dẫn chương trình tin tức lần đầu được đưa tin rộng",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "Truyền thông Việt/quốc tế đưa tin về robot hình người dẫn bản tin truyền hình — minh họa làn sóng 'embodied AI' trên truyền thông đại chúng, song song với cuộc đua trí não robot ở Trung Quốc."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/robot-hinh-nguoi-dan-chuong-trinh-tin-tuc-dau-tien-tren-the-gioi-5141850.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/trung-quoc-buoc-vao-cuoc-dua-phat-trien-tri-nao-robot-5140231.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "devvmhq/devvm: một VM cô lập cho mỗi dự án — sẵn toolchain cho bạn hoặc coding agent",
+          "meta": "GitHub · Go · tạo 6/11 · ~356★",
+          "body": [
+            "DevVM dựng sandbox riêng từng repo với toolchain của dự án, để người hoặc agent lập trình chạy trong môi trường sạch — hướng 'agent cần máy ảo' đang nổi sau các MCP desktop/mobile tuần trước."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/devvmhq/devvm"
+            }
+          ]
+        },
+        {
+          "headline": "shanselman/sandbox-mcp: MCP + CLI tự dựng máy Windows dùng-xong-bỏ để test app",
+          "meta": "GitHub · JavaScript · tạo 6/11 · ~253★",
+          "body": [
+            "Server MCP và CLI của Scott Hanselman cấp máy Windows tạm cho kiểm thử ứng dụng — agent có thể yêu cầu môi trường sạch rồi hủy, giảm phụ thuộc máy host."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/shanselman/sandbox-mcp"
+            }
+          ]
+        },
+        {
+          "headline": "pnyn96/mindact-agent: agent cộng đồng nối Claude, Obsidian và đồ thị tri thức RAG",
+          "meta": "GitHub · TypeScript · tạo 6/11 · ~149★",
+          "body": [
+            "MindAct gắn agent với Obsidian và knowledge graph RAG — hướng 'ghi chú cá nhân + agent' thay vì chỉ chat một lần."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/pnyn96/mindact-agent"
+            }
+          ]
+        },
+        {
+          "headline": "lxe/phoneuse: soi và điều khiển iPhone chưa jailbreak từ Linux (AirPlay + Bluetooth HID)",
+          "meta": "GitHub · Python · tạo 7/11 · ~127★",
+          "body": [
+            "Phoneuse chiếu màn hình iPhone qua AirPlay vào Linux và gửi chuột/bàn phím Bluetooth HID — agent/desktop điều khiển máy thật không cần jailbreak (khác hướng poki MCP tuần trước)."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/lxe/phoneuse"
+            }
+          ]
+        },
+        {
+          "headline": "Fanqi89/dsh-craft-anything: cầu MCP craft__* nối DeepSeek Harness với CLI craft-anything local",
+          "meta": "GitHub · JavaScript · tạo 6/11 · ~121★",
+          "body": [
+            "Cầu MCP để agent DeepSeek Harness gọi craft-anything trên máy — mở rộng hệ sinh thái skill/MCP quanh harness lập trình Trung Quốc."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/Fanqi89/dsh-craft-anything"
+            }
+          ]
+        },
+        {
+          "headline": "gogoymh/auto-ontology-mcp: lớp ngữ nghĩa NVIDIA Auto Ontology + knowledge base cá nhân qua MCP",
+          "meta": "GitHub · Python · tạo 6/11 · ~114★",
+          "body": [
+            "Đóng gói semantic layer Auto Ontology và kho tri thức cá nhân thành MCP server cho Claude/ChatGPT — hữu ích khi cần ontology có cấu trúc thay vì RAG thuần vector."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/gogoymh/auto-ontology-mcp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Starlink tại Việt Nam: khoảng 633 thuê bao — phủ sóng vệ tinh dần hiện số liệu",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "Theo số liệu được VnExpress đưa, Internet vệ tinh Starlink có khoảng 633 thuê bao tại Việt Nam — tín hiệu thị trường sau giai đoạn cấp phép/triển khai, dù quy mô còn nhỏ so mạng mặt đất."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/internet-ve-tinh-starlink-co-633-thue-bao-tai-viet-nam-5141755.html"
+            }
+          ]
+        },
+        {
+          "headline": "Máy tính lượng tử 'có thể phá mã hóa ngân hàng trong ba ngày' — cảnh báo nghiên cứu",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "Bài tổng hợp khoa học nhắc kịch bản máy lượng tử đủ mạnh phá mã hóa ngân hàng trong vài ngày — thúc lịch trình chuyển sang mật mã hậu lượng tử, dù mốc thực tế vẫn tranh luận."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/may-tinh-luong-tu-se-co-the-pha-ma-hoa-ngan-hang-trong-ba-ngay-5141485.html"
+            }
+          ]
+        },
+        {
+          "headline": "Việt Nam thuộc nhóm tiến bộ đáng kể về hạ tầng chất lượng (Quality Infrastructure)",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "Báo cáo/đánh giá quốc tế ghi nhận Việt Nam trong nhóm quốc gia tiến bộ rõ về hạ tầng chất lượng (đo lường, chuẩn, giám định) — nền tảng cho xuất khẩu và công nghiệp."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/viet-nam-thuoc-nhom-quoc-gia-tien-bo-dang-ke-ve-ha-tang-chat-luong-5141918.html"
+            }
+          ]
+        },
+        {
+          "headline": "Honor Watch 6: smartwatch pin công bố khoảng 35 ngày",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "Honor giới thiệu Watch 6 với thời lượng pin công bố lên tới khoảng 35 ngày tùy chế độ — cạnh tranh phân khúc đồng hồ pin dài tại châu Á."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/honor-watch-6-smartwatch-pin-35-ngay-5141750.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nguy cơ 'dính bẫy' khi nghe AI chỉ đường — cảnh báo an toàn số",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "Bài phân tích cảnh báo rủi ro lừa đảo/định hướng sai khi người dùng tin tuyệt đối chỉ đường hoặc tư vấn từ AI — nhắc kiểm chứng nguồn và không chia sẻ OTP/định danh."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nguy-co-dinh-bay-khi-nghe-ai-chi-duong-5140374.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "Khuyến mãi đặc biệt",
+      "title": "Công nghệ · Khuyến mãi đặc biệt",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "TRAE 宝 miễn phí hỏi–làm việc: ngày cuối đến 23:59 8/11 (bản desktop ≥3.4.13)",
+          "meta": "TRAE Docs · xác nhận sáng 8/11",
+          "body": [
+            "Ưu đãi: đến 23:59 ngày 8/11/2026, hỏi đáp và giao nhiệm vụ qua TRAE 宝 trên desktop mới nhất không trừ điểm; hết hạn hoặc hết hạn mức miễn phí sẽ trừ điểm tài khoản.",
+            "Điều kiện: TRAE ≥3.4.13; không áp dụng tạo video. Rủi ro: điều khoản có thể đổi; kiểm tra docs.trae.cn trước khi dựa vào."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TRAE Docs",
+              "url": "https://docs.trae.cn/ide_use-trae-bao-for-free-with-no-credits-required"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Nghiên cứu",
+      "title": "Xây dựng · Nghiên cứu",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "CRAB: dựng as-built BIM dạng khối hộp từ đám mây điểm — độ dày tường sai số trung bình ~2,8 cm",
+          "meta": "arXiv 2610.29257 · SIGGRAPH Asia 2026 · 21/10",
+          "body": [
+            "CRAB biến scan trong nhà thành tường/cửa/cột/dầm dạng cuboid có tham số, quan hệ tôpô và xuất IFC. ProposalNet đề xuất thô; AssemblyNet chỉnh hình học bằng flow matching có quan hệ.",
+            "Trên Structured3D: ~79,5% tường nội thất khớp độ dày trong 3 cm. Vì sao quan trọng: rút ngắn Scan-to-BIM thủ công cho nghiệm thu và số hóa công trình hiện trạng."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.29257"
+            }
+          ]
+        },
+        {
+          "headline": "Rohbau3D-Semantics: nhãn ngữ nghĩa + instance dày đặc cho scan công trường thô (Rohbau)",
+          "meta": "arXiv 2611.06180 · 4/11",
+          "body": [
+            "Bộ dữ liệu gắn nhãn ngữ nghĩa và instance lên 504 cảnh point cloud từ 14 công trường thô (shell construction), bổ sung miền Rohbau3D trước đó.",
+            "Vì sao quan trọng: thiếu dữ liệu công trường thật khiến AI phân đoạn bê tông/cốp pha/cốt thép kém — dataset này phục vụ giám sát tiến độ và robot công trường."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2611.06180"
+            }
+          ]
+        },
+        {
+          "headline": "DROA-CLIPSeg: phân đoạn vết nứt mỏng mặt đường khi thiếu sáng bằng prompt",
+          "meta": "arXiv 2610.33635 · 24/10",
+          "body": [
+            "Mô hình segmentation hướng dẫn bằng prompt cho vết nứt mỏng dưới điều kiện tối, chói đèn pha, bóng, mối nối ướt — vượt giả định 'đủ sáng' của nhiều hệ thống hiện có.",
+            "Vì sao quan trọng: xe tuần tra ban đêm/hầm cần phát hiện nứt sớm để lập kế hoạch bảo dưỡng đường."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.33635"
+            }
+          ]
+        },
+        {
+          "headline": "Cut a Wall, See a Wall: robot công trường 'thay thế danh tính' khi bị che khuất",
+          "meta": "arXiv 2610.34040 · 25/10",
+          "body": [
+            "Khi che khuất lúc suy luận xóa cả vùng cảnh (khác che một phần vật lúc huấn luyện), mạng phân đoạn point cloud có thể gán nhãn sai phần bị khuất thay vì chỉ bỏ sót.",
+            "Vì sao quan trọng: cảnh báo an toàn nhận thức cho robot xây dựng trước khi tự động hóa cắt/đục tường trên công trường đông."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.34040"
+            }
+          ]
+        },
+        {
+          "headline": "Reading the Room: khớp bản đồ VSLAM thưa với mặt bằng 2D khi tỉ lệ mơ hồ",
+          "meta": "arXiv 2610.29647 · 21/10",
+          "body": [
+            "Đăng ký ngữ nghĩa bản đồ VSLAM thưa lên floor plan trong môi trường đang xây — xử lý bất định tỉ lệ phổ biến khi chỉ có camera giá rẻ.",
+            "Vì sao quan trọng: theo dõi tiến độ và định vị robot/thiết bị trên công trường không cần LiDAR đắt."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.29647"
+            }
+          ]
+        },
+        {
+          "headline": "Digital twin cầu qua cảm biến trên xe (drive-by): FNO + xe điện chuyên dụng",
+          "meta": "arXiv 2610.08822 · ICES2026 · 25/9–10",
+          "body": [
+            "Khung digital twin tích hợp xe: surrogate Fourier Neural Operator cho tương tác xe–cầu/xe–đường, tối ưu Bayesian bố trí cảm biến, và pipeline đánh giá hư hỏng không giám sát; thử nghiệm hiện trường Úc–Nhật.",
+            "Vì sao quan trọng: SHM cầu quy mô lớn mà không lắp dense sensor cố định — hướng kiểm định cầu hàng loạt."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.08822"
+            }
+          ]
+        },
+        {
+          "headline": "GAN + Monte Carlo dropout tăng cường dữ liệu SHM (Hawk T1A / FBG)",
+          "meta": "arXiv 2610.22436 · 15/10",
+          "body": [
+            "Khung GAN có lượng hóa bất định Monte Carlo dropout sinh tín hiệu FBG/động lực học giống thật trên máy bay Hawk T1A, rồi đánh giá có nên đưa vào phân loại hư hỏng có giám sát.",
+            "Vì sao quan trọng: kỹ thuật tăng mẫu có ước lượng tin cậy chuyển được sang SHM cầu/hầm khi dữ liệu hư hỏng thật rất hiếm."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2610.22436"
+            }
+          ]
+        },
+        {
+          "headline": "R4Tun: LLM dẫn đường phân đoạn tấm ốp hầm thích ứng từ point cloud",
+          "meta": "arXiv 2609.11360 · 10/9",
+          "body": [
+            "R4Tun dùng LLM điều chỉnh pipeline phân đoạn tấm ốp hầm khi điều kiện tunnel đổi — giảm phụ thuộc tinh chỉnh chuyên gia cố định.",
+            "Vì sao quan trọng: kiểm định hầm hàng loạt cần thích ứng hình học/độ bẩn khác nhau giữa các tuyến."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2609.11360"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "BIM & openBIM",
+      "title": "Xây dựng · BIM & openBIM",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "OSArch: thư viện asset IFC mở dùng chung + ý tưởng gắn sản phẩm",
+          "meta": "OSArch · 7/11",
+          "body": [
+            "Thảo luận đề xuất thư viện asset IFC mở, generic, và cách liên kết với sản phẩm/catalogue — hướng tái sử dụng cấu kiện openBIM thay vì mỗi dự án tự dựng từ đầu."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch",
+              "url": "https://community.osarch.org/discussion/3789/a-generic-open-ifc-asset-library-and-an-idea-for-linking-it-to-products"
+            }
+          ]
+        },
+        {
+          "headline": "OSArch: Claude + Bonsai vẽ bản vẽ thi công — thử nghiệm agent drafting",
+          "meta": "OSArch · 5/11",
+          "body": [
+            "Chủ đề cộng đồng chia sẻ quy trình dùng Claude với Bonsai để ra construction drawings — tín hiệu agent LLM đang len vào drafting openBIM, kèm giới hạn cần kiểm chứng hình học."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch",
+              "url": "https://community.osarch.org/discussion/3783/claude-bonsai-construction-drawings"
+            }
+          ]
+        },
+        {
+          "headline": "buildingSMART Đức: TER rà soát IFC4.3–IFC4.4",
+          "meta": "buildingSMART forums · 6/11",
+          "body": [
+            "Technical Expert Council (TER) buildingSMART Germany mở chủ đề rà IFC4.3–IFC4.4 — điểm theo dõi nếu làm mô hình giao thông/hạ tầng theo chuẩn châu Âu."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "buildingSMART",
+              "url": "https://forums.buildingsmart.org/t/ifc4-3-ifc4-4-review-technical-expert-council-ter-of-buildingsmart-germany/6645"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Forest 3-1 Man City: Delap lập cú đúp — City thua 3 trận liên tiếp, cách Arsenal 6 điểm",
+          "meta": "BBC · ESPN · Sky Sports · 7/11",
+          "body": [
+            "Jair Cunha (6') và Liam Delap (18', 73') giúp Nottingham Forest thắng đậm tại City Ground; Rayan Cherki gỡ 52'. Forest có chiến thắng sân nhà đầu mùa, thoát nhóm xuống hạng; City còn 21 điểm, kém Arsenal 6.",
+            "Arsenal trước đó thắng Hull 1-0 (Ødegaard 72'); Leeds 1-0 Tottenham (Okafor 79'); Fulham 1-1 Newcastle. Chủ nhật (giờ VN tối): Palace–Liverpool, Brighton–Brentford, Ipswich–Bournemouth, Sunderland–Chelsea; khuya: Man Utd–Villa."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/sport/football/live/c5wyrmwlv8wvt"
+            },
+            {
+              "name": "ESPN",
+              "url": "https://www.espn.com/soccer/story/_/id/50410354/manchester-city-nottingham-forest-premier-league-loss"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/premier-league/scores-fixtures/2026-11"
+            }
+          ]
+        },
+        {
+          "headline": "Arsenal 1-0 Hull: Ødegaard giữ ngôi đầu 27 điểm",
+          "meta": "VnExpress / bảng xếp hạng vòng 10 · 7–8/11",
+          "body": [
+            "Arsenal gia cố đỉnh bảng Ngoại hạng Anh với chiến thắng tối thiểu trước Hull; Man City bị bỏ cách 6 điểm sau thất bại trước Forest."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/arsenal-gia-co-dinh-bang-ngoai-hang-anh-5142026.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/man-city-bi-arsenal-bo-cach-6-diem-5142043.html"
+            }
+          ]
+        },
+        {
+          "headline": "HAGL thoát cuối bảng V-League sau khi hạ Hà Nội FC",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "Hoàng Anh Gia Lai thắng Hà Nội FC và thoát vị trí cuối bảng V-League — diễn biến nóng bóng đá nội trước khi ĐT Việt Nam hội quân Casper Cup."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hagl-thoat-cuoi-bang-v-league-sau-khi-ha-ha-noi-fc-5141977.html"
+            }
+          ]
+        },
+        {
+          "headline": "Casper Cup 2026: ĐT Việt Nam hội quân 9/11; khai mạc 11/11 sân Thiên Trường",
+          "meta": "VFF / Thethao247 · cập nhật 8/11",
+          "body": [
+            "HLV Kim Sang-sik hội quân 9/11. Lịch: VN – Đài Bắc Trung Hoa (11/11, 19:00); Đài Bắc – Kyrgyzstan (14/11); VN – Kyrgyzstan (17/11, đã lùi từ 15/11)."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Thethao247",
+              "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+            }
+          ]
+        },
+        {
+          "headline": "VAR bỏ qua thẻ đỏ tranh cãi trong trận Leeds thắng Tottenham 1-0",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "Tottenham thua Leeds 0-1; tình huống VAR không rút thẻ đỏ gây tranh cãi — bàn thắng Okafor phút 79 định đoạt."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/var-bo-qua-the-do-tranh-cai-o-tran-thua-cua-tottenham-5142000.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Tổng Bí thư, Chủ tịch nước Tô Lâm bắt đầu thăm chính thức Nhật Bản (8–11/11)",
+          "meta": "Nhân Dân · Vietnam News · 8/11",
+          "body": [
+            "Nhận lời mời Nhà nước Nhật Bản, ông Tô Lâm cùng Phu nhân và đoàn cấp cao bắt đầu chuyến thăm 8–11/11 — lần đầu trên cương vị Tổng Bí thư, Chủ tịch nước.",
+            "Dự kiến: hội kiến Nhà vua, hội đàm Thủ tướng, gặp Chủ tịch Thượng/Hạ viện, phát biểu tại Quốc hội, thăm Kanagawa; trọng tâm kinh tế, KHCN, chuyển đổi số/xanh, chuỗi cung ứng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Nhân Dân",
+              "url": "https://nhandan.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tham-chinh-thuc-nhat-ban-post1000981.html"
+            },
+            {
+              "name": "Vietnam News",
+              "url": "https://vietnamnews.vn/politics-laws/1803661/top-leader-to-lam-to-pay-official-visit-to-japan.html"
+            }
+          ]
+        },
+        {
+          "headline": "Herzog giao Gadi Eisenkot lập chính phủ Israel — bỏ qua Netanyahu",
+          "meta": "Al Jazeera · Times of Israel · 7–8/11",
+          "body": [
+            "Tổng thống Isaac Herzog chọn cựu tổng tham mưu Gadi Eisenkot (đảng Yashar) lập chính phủ; lễ giao nhiệm vụ chính thức Chủ nhật. Eisenkot có 28 ngày (+14 ngày gia hạn) để đạt ≥61 ghế.",
+            "Khoảng 67 nghị sĩ ủng hộ Eisenkot vs 46 Netanyahu sau bầu cử 27/10; khối Arab ủng hộ Eisenkot dù ông loại trừ liên minh chính thức với họ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+            },
+            {
+              "name": "Times of Israel",
+              "url": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
+            }
+          ]
+        },
+        {
+          "headline": "Xả súng Kraków (Ba Lan): ít nhất 5–6 người chết, nghi phạm bị khống chế",
+          "meta": "VnExpress · AP · BBC · 7–8/11",
+          "body": [
+            "Một tay súng lái xe vào khu trung tâm Kraków và nổ súng; số liệu sớm ghi nhận ít nhất 5–6 người chết và hơn 10 bị thương. Cảnh sát bắn hạ/khống chế nghi phạm (công dân Ba Lan, khoảng 25 tuổi).",
+            "Cơ quan chức năng Ba Lan nói nghi phạm có quan điểm cực hữu/ultranationalist — đang điều tra động cơ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/xa-sung-o-thanh-pho-lon-thu-hai-ba-lan-it-nhat-5-nguoi-chet-5142019.html"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/poland-shooting-krakow-market-dead-076b972f107df14a1f71e12a74d4d8e5"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cmd7q15drwgeo"
+            }
+          ]
+        },
+        {
+          "headline": "Iran tuyên bố gỡ rào tầm bắn tên lửa — song song kênh đàm phán với Mỹ",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "Truyền thông Iran đưa thông điệp gỡ hạn chế tầm bắn tên lửa trong bối cảnh căng thẳng Hormuz/Qeshm và đàm phán gián tiếp qua Qatar/Pakistan vẫn được các bên khẳng định chưa đổ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/iran-tuyen-bo-go-rao-tam-ban-ten-lua-5141969.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nga cử cố vấn Điện Kremlin và lãnh đạo tình báo họp với Mỹ, Ukraine trước Abu Dhabi",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "Trước vòng ba bên 10–11/11 tại Abu Dhabi, Nga cử cố vấn cấp cao Điện Kremlin và lãnh đạo tình báo tham gia kênh làm việc với Mỹ và Ukraine — tín hiệu chuẩn bị nhân sự cho bàn đàm phán."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nga-cu-co-van-dien-kremlin-trum-tinh-bao-hop-voi-my-ukraine-5141913.html"
+            }
+          ]
+        },
+        {
+          "headline": "Quốc hội: mục tiêu GDP 2027 tăng từ 10%; trình 3 cao tốc ~162.000 tỷ — chờ chốt 21/11",
+          "meta": "VnExpress · cập nhật theo dõi 8/11",
+          "body": [
+            "Số chiều 7/11: Quốc hội giao GDP 2027 tăng từ 10%, CPI ~4,5%; Chính phủ trình ba cao tốc mới (Bảo Hà–Lai Châu, Quảng Ngãi–Kon Tum, Mộc Châu–Sơn La) khoảng 162.000 tỷ. Lịch dự kiến thông qua chủ trương quanh 21/11."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/trinh-quoc-hoi-dau-tu-them-ba-du-an-cao-toc-5141815.html"
+            }
+          ]
+        },
+        {
+          "headline": "Mr Pips: VKS bác giám định tâm thần; phiên 8/11 tiếp tục tranh tụng",
+          "meta": "VnExpress · Dân trí · 7–8/11",
+          "body": [
+            "Chiều 7/11 VKS khẳng định Phó Đức Nam không bị tâm thần, bác đề nghị giám định và nhập vụ; viện dẫn kết quả Bạch Mai. Ngày 8/11 phiên tiếp tục phần luật sư/bị cáo/bị hại."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/vks-mr-pips-pho-duc-nam-khong-bi-tam-than-5141911.html"
+            },
+            {
+              "name": "Dân trí",
+              "url": "https://dantri.com.vn/phap-luat/vien-kiem-sat-mr-pips-khong-tam-than-mr-hunter-khong-nhan-luong-bang-vang-20261107151248124.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội xén vỉa hè 7 tuyến đường để giảm ùn tắc",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "Hà Nội triển khai xén vỉa hè trên 7 tuyến nhằm mở lòng đường, giảm ùn tắc — biện pháp hạ tầng đô thị gây tranh luận về không gian đi bộ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ha-noi-xen-via-he-7-tuyen-duong-de-giam-un-tac-5141924.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Ma nhai Dục Thúy Sơn (Ninh Bình) được UNESCO ghi danh Di sản tư liệu châu Á – Thái Bình Dương",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "UNESCO ghi danh ma nhai Dục Thúy Sơn vào danh mục Di sản tư liệu khu vực — cột mốc bảo tồn văn khắc đá gắn lịch sử–văn hóa Ninh Bình."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ma-nhai-duc-thuy-son-vua-duoc-unesco-ghi-danh-di-san-tu-lieu-5141879.html"
+            }
+          ]
+        },
+        {
+          "headline": "Phủ thờ hoàng tử thứ 11 của vua Minh Mạng xuống cấp — kêu gọi bảo tồn",
+          "meta": "VnExpress · 8/11",
+          "body": [
+            "Phủ thờ một hoàng tử triều Nguyễn (Minh Mạng) được phản ánh đang xuống cấp; bài viết kêu gọi trùng tu di tích cung đình/huế–xứ đàng trong."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/phu-tho-hoang-tu-thu-11-cua-vua-minh-mang-xuong-cap-5141813.html"
+            }
+          ]
+        },
+        {
+          "headline": "TP.HCM bắn pháo hoa tầm cao ba điểm vào 24/11",
+          "meta": "VnExpress · 8/11",
+          "body": [
+            "TP.HCM công bố kế hoạch bắn pháo hoa tầm cao tại ba điểm vào 24/11 — sự kiện văn hóa–đô thị cuối tháng, cần theo dõi an toàn PCCC và giao thông."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tp-hcm-ban-phao-hoa-tam-cao-ba-diem-ngay-24-11-5141981.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nuôi bò, ong dú giúp người Khmer vùng Bảy Núi tăng thu nhập",
+          "meta": "VnExpress · 8/11",
+          "body": [
+            "Mô hình sinh kế kết hợp nuôi bò và ong dú hỗ trợ cộng đồng Khmer Bảy Núi tăng thu nhập — góc nhìn văn hóa–phát triển nông thôn đa tộc người."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nuoi-bo-ong-du-giup-nguoi-khmer-vung-bay-nui-tang-thu-nhap-5140548.html"
+            }
+          ]
+        },
+        {
+          "headline": "23 tuổi làm trưởng thôn hơn 1.800 dân — chân dung quản trị cơ sở trẻ",
+          "meta": "VnExpress · 8/11",
+          "body": [
+            "Bài chân dung về trưởng thôn 23 tuổi quản lý thôn hơn 1.800 dân — tín hiệu trẻ hóa cán bộ cơ sở và câu chuyện văn hóa chính trị địa phương."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/23-tuoi-lam-truong-thon-hon-1-800-dan-5141975.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Hôm nay: không khí lạnh mạnh tràn miền Bắc; miền Trung vào đợt mưa lớn",
+          "meta": "Tuổi Trẻ · VnExpress · 8/11",
+          "body": [
+            "Từ chiều tối/đêm 8/11 không khí lạnh mạnh ảnh hưởng Bắc Bộ; vùng núi chuyển rét, có nơi rét đậm. Miền Trung mưa lớn diện rộng đến ~11/11: nơi 250–450 mm, cục bộ trên 700 mm — đề phòng ngập, lũ quét, sạt lở."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thoi-tiet-hom-nay-8-11-khong-khi-lanh-tran-ve-nuoc-ta-100261107164942599.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/mien-trung-mua-lon-tu-8-11-co-noi-tren-700-mm-5141702.html"
+            }
+          ]
+        },
+        {
+          "headline": "Giá xăng đầu tuần 8/11: E5 RON92 ~20.898đ, E10 RON95 ~21.156đ/lít",
+          "meta": "Techz / kỳ điều hành gần nhất · 8/11",
+          "body": [
+            "Giá bán lẻ tối đa phổ biến vẫn quanh E5 RON92 20.898đ/lít, E10 RON95-III 21.156đ/lít, diesel 0,05S 28.696đ/lít — đã rẻ hơn đỉnh gần đây hàng nghìn đồng/lít."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Techz",
+              "url": "https://www.techz.vn/178-1126-5-gia-xang-dau-sang-nay-8-11-e10-ron95-va-e5-ron92-re-hon-dinh-9000-dong-diesel-giam-cuc-sau-gia-day-binh-xe-may-honda-ylt716271.html"
+            }
+          ]
+        },
+        {
+          "headline": "Kim Liên: sau lễ an táng 7/11 — học online tiếp; điều tra PCCC vẫn mở",
+          "meta": "VnExpress · follow-up 8/11",
+          "body": [
+            "Sau lễ viếng/an táng nam sinh lớp 6 tại Văn Điển, khoảng 3.000 học sinh vẫn học online; cơ quan điều tra và rà soát PCCC trường học tiếp tục. Vụ cháy nhà xưởng An Khánh trưa 7/11 đã khống chế, không thương vong — theo dõi riêng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nan-nhan-tu-vong-trong-vu-chay-truong-kim-lien-la-hoc-sinh-lop-6-5141550.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nha-xuong-o-ha-noi-boc-chay-ngun-ngut-5141895.html"
+            }
+          ]
+        },
+        {
+          "headline": "Rơi từ mỏ đá, hai công nhân tử vong",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "Hai công nhân tử vong sau khi rơi từ mỏ đá — tai nạn lao động nhắc lại an toàn khai thác khoáng sản cuối tuần."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/roi-tu-mo-da-hai-cong-nhan-tu-vong-5141997.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cây sao gãy đổ đè mái tiệm thuốc ở TP.HCM",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "Cây sao gãy đổ đè mái một tiệm thuốc tại TP.HCM — sự cố cây xanh đô thị khi thời tiết thất thường."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cay-sao-gay-do-de-mai-tiem-thuoc-o-tp-hcm-5142007.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nắng mưa thất thường: nên đổi thói quen nào?",
+          "meta": "VnExpress · 7/11",
+          "body": [
+            "Chuyên mục sức khỏe gợi ý điều chỉnh thói quen khi thời tiết nắng mưa thất thường trước đợt lạnh/mưa miền Trung–Bắc."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nang-mua-that-thuong-nen-doi-thoi-quen-nao-5141872.html"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 8/11/1895 — Wilhelm Röntgen phát hiện tia X",
+          "meta": "Timeanddate / History.com",
+          "body": [
+            "Ngày 8/11/1895, Wilhelm Conrad Röntgen phát hiện tia X tại Würzburg — nền tảng chẩn đoán hình ảnh y khoa hiện đại; ông nhận Nobel Vật lý 1901."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Timeanddate",
+              "url": "https://www.timeanddate.com/on-this-day/november/8"
+            },
+            {
+              "name": "History.com",
+              "url": "https://www.history.com/this-day-in-history/november-8"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay: 8/11/1923 — Hitler thất bại trong Beer Hall Putsch tại Munich",
+          "meta": "Wikipedia / History.com",
+          "body": [
+            "Ngày 8–9/11/1923, cuộc đảo chính bia quán của Hitler tại Munich thất bại; sự kiện mở đường cho quá trình ông xây dựng lại phong trào bằng con đường chính trị sau đó."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/November_8"
+            },
+            {
+              "name": "History.com",
+              "url": "https://www.history.com/this-day-in-history/november-8"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 8/11/2026 (giờ VN). Chủ Nhật có mục Xây dựng · Nghiên cứu (digest papers ~7–14 ngày qua về BIM, digital twin, AI/CV hạ tầng, SHM, robot công trường). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu. Mục Khuyến mãi: TRAE 宝 đến 23:59 8/11."
+}
