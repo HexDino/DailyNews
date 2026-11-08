@@ -1,0 +1,1228 @@
+{
+  "date": "2026-11-09",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 09/11/2026 · Thứ Hai · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "METR: Anthropic cải thiện năng lực mô hình nhanh gấp ~2 lần, phần lớn nhờ AI hỗ trợ R&D",
+    "Anthropic roadshow IPO tuần này; nhà đầu tư ngờ vực định giá 2.000 tỷ USD, Nasdaq mất >5% hôm 5/11",
+    "Nvidia mở điều tra độc lập về CEO Jensen Huang sau tin ông là mục tiêu tình báo nước ngoài",
+    "Stephen Miller thay Susie Wiles làm Chánh văn phòng Nhà Trắng",
+    "Iran dọa 'giáng địa ngục'; ông Trump nói tái tấn công 'khó xảy ra' nếu đàm phán tiến triển",
+    "Israel: ông Gadi Eisenkot được giao lập chính phủ mới, 28 ngày để đủ 61 phiếu",
+    "Man United 4-4 Aston Villa; Palace xuống đáy bảng, sắp sa thải Sage; Barca thắng Atlético 2-1",
+    "Tô Lâm gặp trí thức Việt ở Nhật, kêu gọi làm cầu nối AI, bán dẫn, lượng tử",
+    "Giáo hoàng Leo XIV đến Argentina; Paraguay: tổng thống Peña bị luận tội và quản thúc",
+    "Gemini Omni 1.2 Flash: video 15 giây, giá 720p giảm 30% (Khuyến mãi)"
+  ],
+  "followups": [
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "8/11: Ngoại trưởng Araghchi nhắc lại 'đề xuất 2 ngày' và dọa 'giáng địa ngục' nếu Mỹ tái tấn công; ông Trump nói tấn công mới 'rất khó xảy ra' nếu đàm phán hạt nhân và mở lại Hormuz tiến triển.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử giữa kỳ Mỹ (3/11)",
+      "update": "Ngày 6/11 ông Trump thông báo Stephen Miller thay Susie Wiles làm Chánh văn phòng; Nasdaq mất hơn 5% phiên 5/11 vì lo ngại Đảng Dân chủ kiểm soát Quốc hội làm chậm xây trung tâm dữ liệu.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/canh-tay-sat-tro-thanh-tan-chanh-van-phong-nha-trang-cua-ong-trump-5141763.html"
+        },
+        {
+          "name": "VnExpress (Nasdaq)",
+          "url": "https://vnexpress.net/nha-dau-tu-ngo-vuc-muc-dinh-gia-2-000-ty-usd-cua-anthropic-5142087.html"
+        }
+      ]
+    },
+    {
+      "title": "IPO của Anthropic (mã ANT, Nasdaq)",
+      "update": "Roadshow dự kiến trong tuần này; định giá mục tiêu 2.000 tỷ USD bị nghi ngờ, một số nhà đầu tư cho rằng 1.000–1.250 tỷ USD hợp lý hơn. METR công bố đánh giá tốc độ tăng tốc R&D của Anthropic (5/11).",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-03",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/nha-dau-tu-ngo-vuc-muc-dinh-gia-2-000-ty-usd-cua-anthropic-5142087.html"
+        },
+        {
+          "name": "METR",
+          "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+        }
+      ]
+    },
+    {
+      "title": "Chuyến thăm Nhật Bản của Tổng Bí thư, Chủ tịch nước Tô Lâm (8–11/11)",
+      "update": "8/11: ông gặp đại diện chuyên gia, trí thức Việt Nam tại Nhật, đề nghị làm cầu nối hợp tác AI, bán dẫn, lượng tử, đất hiếm...",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-07",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-mong-tri-thuc-viet-nam-o-nhat-lam-cau-noi-ve-ai-luong-tu-5142216.html"
+        }
+      ]
+    },
+    {
+      "title": "Vụ cháy trường THCS Kim Liên (Hà Nội)",
+      "update": "VnExpress xác nhận nạn nhân tử vong là nam sinh lớp 6, 12 tuổi (phường Yên Sở); lễ truy điệu và an táng sáng 7/11.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-05-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/thoi-su"
+        }
+      ]
+    },
+    {
+      "title": "Phiên xử Mr Pips",
+      "update": "8/11: bị cáo Phó Đức Nam nói lời sau cùng, xin 'được kết hôn trong tù nếu có người yêu thương'. Trong các nguồn đã kiểm tra chưa thấy công bố bản án.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-04-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/mr-pips-pho-duc-nam-xin-duoc-ket-hon-trong-tu-neu-co-nguoi-yeu-thuong-5142157.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-09",
+      "title": "9–20/11 Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Đời sống",
+      "sources": []
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Dana White dự kiến gặp ông Trump tại Nhà Trắng bàn ghế Thư ký báo chí (thứ Hai, giờ Mỹ)",
+      "topic": "Chính trị",
+      "timezone": "America/New_York",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Ngày Pháp luật Việt Nam: Đoàn luật sư TP.HCM tư vấn pháp luật miễn phí",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/doan-luat-su-tphcm-to-chuc-tu-van-phap-luat-mien-phi-cho-nguoi-dan-nhan-ngay-phap-luat-viet-nam-9-11-100261103142956536.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Đội tuyển Việt Nam của HLV Kim Sang-sik hội quân",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/hlv-kim-sang-sik-cung-doi-tuyen-viet-nam-hoi-quan-vao-ngay-9-11-100261103112025559.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "trong ngày",
+      "title": "Crystal Palace dự kiến sa thải HLV Pierre Sage (theo The Guardian)",
+      "topic": "Bóng đá",
+      "note": "Chưa có thông báo chính thức.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "trong ngày",
+      "title": "Giáo hoàng Leo XIV bắt đầu ngày đầu ở Argentina (thăm viện Cottolengo Don Orione); thứ Ba 10/11 Thánh lễ tại FAdeA, Córdoba",
+      "topic": "Chính trị",
+      "note": "Chuyến đi 3 nước Nam Mỹ, kết thúc ở Peru (6 ngày).",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "tuần này",
+      "title": "Anthropic roadshow IPO; niêm yết Nasdaq mã ANT có thể trong vài tuần tới",
+      "topic": "Công nghệ",
+      "note": "Ngày niêm yết chưa được công bố chính thức.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/nha-dau-tu-ngo-vuc-muc-dinh-gia-2-000-ty-usd-cua-anthropic-5142087.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Grab bắt đầu giảm phí nền tảng với chuyến xe ngắn",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/grab-giam-phi-boi-hoan-39-ti-dong-cho-tai-xe-bat-dau-tu-hom-nay-100261105143741253.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi (10–11/11)",
+      "topic": "Chính trị",
+      "note": "Medinsky dẫn đầu đoàn Nga.",
+      "sources": [
+        {
+          "name": "Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/kremlin-confirms-trilateral-ukraine-peace-talks-in-abu-dhabi-next-week"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Việt Nam – Đài Bắc Trung Hoa (sân Thiên Trường, Ninh Bình)",
+      "topic": "Bóng đá",
+      "note": "Giải diễn ra 11–17/11.",
+      "sources": [
+        {
+          "name": "VFF",
+          "url": "https://www.vff.org.vn/cong-bo-giai-bong-da-giao-huu-quoc-te-casper-cup-2026-cho-doi-nhung-cuoc-so-tai-dang-cap/"
+        },
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Quốc hội chất vấn cả ngày: Bộ trưởng Tài chính Ngô Văn Tuấn, Bộ trưởng KH&CN Vũ Hải Quân",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/quoc-hoi-se-chat-van-cac-thanh-vien-chinh-phu-xem-xet-dieu-chinh-dia-gioi-giua-ha-noi-va-phu-tho-100261108145112745.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Đài Bắc Trung Hoa – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Hạn các xã, phường Hà Nội báo cáo rà soát an toàn trường học (sau vụ Kim Liên)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Báo Hôm Nay",
+          "url": "https://www.baohomnay.com/Giao-duc/3-000-hoc-sinh-THCS-Kim-Lien-chuyen-sang-hoc-truc-tuyen-tu-6-11-3753262.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Thông tư 81 có hiệu lực: cấm thu quỹ lớp kiểu cũ",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/cam-quy-lop-tu-15-11-ban-doc-hoan-nghenh-nhung-lo-ngai-binh-moi-ruou-cu-100261106141317645.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "title": "New Zealand áp dụng thị thực mới: du học sinh ở lại làm việc thêm 6 tháng",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/new-zealand-cho-phep-du-hoc-sinh-o-lai-lam-viec-them-6-thang-100261106135240169.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Việt Nam – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "note": "Trận được lùi từ 15/11 sang 17/11.",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Hết lệnh tạm dừng 14 ngày xây 'khải hoàn môn' ở Washington (dự kiến, tính từ 6/11)",
+      "topic": "Chính trị",
+      "note": "Tòa có thể gia hạn hoặc ra phán quyết tiếp theo.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến thông qua chủ trương 3 cao tốc mới và nghị quyết đặc thù du lịch",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress – cao tốc",
+          "url": "https://vnexpress.net/trinh-quoc-hoi-dau-tu-them-ba-du-an-cao-toc-5141815.html"
+        },
+        {
+          "name": "VnExpress – du lịch",
+          "url": "https://vnexpress.net/de-xuat-uu-dai-lon-cho-cac-du-an-du-lich-ty-usd-5141836.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "TP.HCM bắn pháo hoa tầm cao tại ba điểm",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tp-hcm-ban-phao-hoa-tam-cao-ba-diem-ngay-24-11-5141981.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hạn gửi Bộ Xây dựng đề xuất kết nối sân bay Gia Bình – trung tâm Hà Nội (đường sắt đô thị)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/pho-thu-tuong-uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-ha-noi-5142080.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "time": "",
+      "title": "Hạn 28 ngày để ông Eisenkot gom đủ 61 phiếu lập chính phủ Israel (tính từ 7/11; có thể gia hạn tối đa 14 ngày)",
+      "topic": "Chính trị",
+      "note": "Ngày 5/12 là mốc tính toán từ thông báo ngày 7/11.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/doi-thu-cua-thu-tuong-israel-duoc-chi-dinh-thanh-lap-chinh-phu-moi-5142108.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Sân bay Cà Mau dự kiến hoạt động trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/san-bay-ca-mau-lui-ngay-khai-thac-tro-lai-den-18-12-5141694.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Hạn đề xuất hoàn thành 6 dự án dịch vụ sân bay Long Thành",
+      "topic": "Xây dựng",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-lui-han-hoan-thanh-6-du-an-tai-san-bay-long-thanh-5141701.html"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "METR: tốc độ cải thiện năng lực mô hình của Anthropic nhanh gấp ~2 lần, phần lớn nhờ chính AI hỗ trợ R&D",
+          "meta": "METR · The Verge · AP · công bố 5/11, tổng hợp 7/11",
+          "body": [
+            "METR (tổ chức đánh giá an toàn AI độc lập) đã đánh giá có quyền truy cập cao tại Anthropic từ 12/8 đến 29/10/2026. Kết luận chủ quan: tính đến tháng 10/2026, Anthropic có khả năng đang nâng năng lực mô hình trên các tác vụ xác định rõ với tốc độ khoảng gấp đôi giai đoạn 3/2024–10/2025 (độ bất định cao, có thể từ ~1,3x đến ~3x).",
+            "METR cho rằng phần lớn mức tăng tốc hiện nay có khả năng đến từ việc Anthropic dùng AI trong nghiên cứu, không phải do tăng quy mô tính toán huấn luyện; chưa thấy điểm nghẽn rõ rệt. Hiện tăng tốc chủ yếu nhờ AI hỗ trợ con người, nhưng có 'một số dấu hiệu' đóng góp tự chủ sẽ lớn dần. The Verge lưu ý Anthropic được phép biên tập (redact) báo cáo cuối."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "METR",
+              "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/anthropic-metr-ai-claude-acceleration-9cf8c590ffc1abdb489179bdccc69c23"
+            }
+          ]
+        },
+        {
+          "headline": "Anthropic chuẩn bị roadshow IPO tuần này; nhà đầu tư bắt đầu ngờ vực mức định giá 2.000 tỷ USD",
+          "meta": "VnExpress (theo CNBC, Reuters) · 8/11",
+          "body": [
+            "Theo VnExpress dẫn CNBC, Anthropic dự kiến roadshow trong tuần tới và niêm yết Nasdaq với mã ANT, có thể giao dịch phiên đầu trong vài tuần. Tháng trước truyền thông đưa tin mục tiêu định giá tới 2.000 tỷ USD (tháng 5 là 965 tỷ USD); nguồn tin CNBC nói ngay mức 1.500 tỷ USD cũng đang bị nghi ngờ, một nhà đầu tư cho rằng 1.000–1.250 tỷ USD khả thi hơn.",
+            "Bối cảnh: Nasdaq Composite mất hơn 5% phiên 5/11 (mạnh nhất 19 tháng) khi nhà đầu tư lo chi tiêu AI quá lớn và nguy cơ chậm xây trung tâm dữ liệu sau bầu cử giữa kỳ Mỹ. Theo cáo bạch được Reuters trích, năm ngoái doanh thu 4,6 tỷ USD (gấp 12 lần), lỗ ròng 42 tỷ USD."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nha-dau-tu-ngo-vuc-muc-dinh-gia-2-000-ty-usd-cua-anthropic-5142087.html"
+            }
+          ]
+        },
+        {
+          "headline": "Goldman Sachs giới hạn Claude Code và GitHub cho kỹ sư, cắt quyền của trader và banker",
+          "meta": "State of AI (theo Bloomberg) · đăng 2/11, lên HN 8/11",
+          "body": [
+            "Theo hướng dẫn nội bộ cập nhật tháng 10 (Bloomberg đưa tin), phần lớn trader và banker của Goldman không còn dùng công cụ lập trình AI; nhóm 'strats' vẫn có quyền. Goldman nói họ cung cấp một số công cụ AI 'để xác định các trường hợp sử dụng tốt nhất'.",
+            "State of AI nêu bối cảnh: Goldman và Morgan Stanley là hai bên bảo lãnh chính cho IPO của Anthropic (S-1 nộp 26/10), trong khi Barclays dự kiến một nửa lập trình viên dùng Claude Code vào cuối năm. Đây là phân tích của một trang tổng hợp, không phải thông báo chính thức của Goldman."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "State of AI",
+              "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+            }
+          ]
+        },
+        {
+          "headline": "Apple tăng tốc 'Siri agent': điều khiển app gốc ở iOS 27.3, app bên thứ ba dự kiến mùa xuân",
+          "meta": "The Verge (theo Bloomberg/Mark Gurman) · 8/11",
+          "body": [
+            "Theo Gurman, CEO John Ternus đang thúc Craig Federighi đẩy nhanh lộ trình Siri để cạnh tranh các agent như Dots của OpenAI hay Muse của Meta. Trong vài tháng tới, Siri được kỳ vọng điều khiển chi tiết app gốc (xoay/cắt ảnh trong Photos, sắp xếp tab Safari) ở iOS 27.3; tích hợp app bên thứ ba (đặt món qua Grubhub, đặt bàn qua OpenTable) có thể đến vào mùa xuân.",
+            "Mục tiêu xa hơn là làm Siri theo dõi mục tiêu và tự làm tiếp việc dài hạn — Gurman tin có thể sớm nhất năm sau. Đây là thông tin từ nguồn tin của Bloomberg, Apple chưa công bố."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+            }
+          ]
+        },
+        {
+          "headline": "Gemini Canvas thêm 'vẽ phác thảo → ứng dụng chạy được'",
+          "meta": "Google · TokenPost · 5–7/11",
+          "body": [
+            "Người dùng chụp ảnh bản vẽ tay giao diện app (mock-up, habit tracker, bảng game), chọn công cụ Canvas và yêu cầu Gemini viết code; Gemini tạo mã và hiển thị bản xem trước để thử, chỉnh màu/font/tính năng ngay trong Canvas.",
+            "TokenPost cho biết Canvas tự tạo cơ sở dữ liệu Firestore khi app cần lưu dữ liệu và người có link công khai của dự án có thể xem và sửa dữ liệu chia sẻ — cần lưu ý khi chia sẻ link."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Google",
+              "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/"
+            },
+            {
+              "name": "TokenPost",
+              "url": "https://www.tokenpost.com/news/technology/50614"
+            }
+          ]
+        },
+        {
+          "headline": "Apiiro: lựa chọn 'Don't Ask Again' của coding agent làm lộ mật khẩu trong 1.122 file GitHub công khai",
+          "meta": "Apiiro · Hacker News · 7–8/11",
+          "body": [
+            "Theo tiêu đề bài viết của Apiiro (đang được bàn trên Hacker News), tùy chọn 'Don't Ask Again' của Claude Code liên quan đến việc lộ mật khẩu trong 1.122 file công khai trên GitHub. Chúng tôi chưa đọc được nội dung chi tiết (trang Apiiro trả lỗi 500 khi kiểm tra), nên chỉ nêu theo tiêu đề; cần đọc bài gốc trước khi kết luận cơ chế hay mức độ ảnh hưởng."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Apiiro",
+              "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+            },
+            {
+              "name": "Hacker News",
+              "url": "https://hnrss.org/frontpage?points=150"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "DIYgod/pinky — cho AI agent dùng điện thoại iPhone/Android thật qua MCP, có con người duyệt bước rủi ro",
+          "meta": "GitHub · Apache-2.0 · tạo 6/11 · ~761★ · pre-alpha",
+          "body": [
+            "Pinky cho Claude Code, Claude Desktop, Codex, Cursor hoặc script điều khiển iPhone (iOS 17.4+) hay Android (10–17) qua MCP từ macOS/Windows/Linux, trong khi bạn xem, duyệt bước rủi ro và có thể tiếp quản. README nói quy tắc duyệt do gateway của Pinky thực thi (agent không tự duyệt được); app ngân hàng/ví/trình quản lý mật khẩu mặc định ẩn khỏi agent.",
+            "Ứng dụng nhẹ (16–22 MB, không Electron), lưu bản ghi từng bước và video màn hình. Trạng thái tác giả ghi là pre-alpha; một số tính năng còn chờ người thử."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/DIYgod/pinky"
+            }
+          ]
+        },
+        {
+          "headline": "voyager-so/vork — engine 3D/VFX headless cho agent (Rust), render cảnh viết bằng code trên GPU",
+          "meta": "GitHub · tạo 5/11 · ~1.112★ · research preview",
+          "body": [
+            "vork là 'rendering kernel' của Voyager, thiết kế để agent dùng: README hướng dẫn dán prompt cho agent chạy `vork init`, đọc `vork help`, render bản xem trước, kiểm tra ảnh rồi tinh chỉnh camera/ánh sáng trước khi render chất lượng cuối. Cảnh được viết bằng code và render trên GPU, không cần mô hình video.",
+            "Giấy phép ghi 'NOASSERTION' trên GitHub — cần đọc LICENSE trước khi dùng thương mại."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/voyager-so/vork"
+            },
+            {
+              "name": "Voyager",
+              "url": "https://voyager.so/vork"
+            }
+          ]
+        },
+        {
+          "headline": "emanuele-em/kanzo — bảng kanban + MCP server trong một file 4,7 MB cho người và coding agent",
+          "meta": "GitHub · AGPL-3.0 · tạo 25/10 · ~1.118★",
+          "body": [
+            "Kanzo là bảng kanban trong trình duyệt đồng thời là MCP server: bạn dùng bảng, agent dùng MCP (nhận task, chuyển thẻ, bình luận), còn terminal/script dùng lệnh `kanzo`. Không cần tài khoản hay server; chạy `kanzo` là dùng được, có thể dùng một bảng chung cho nhiều máy.",
+            "Giấy phép AGPL-3.0 — cần lưu ý nếu tích hợp vào sản phẩm đóng."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/emanuele-em/kanzo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Nvidia mở điều tra độc lập về CEO Jensen Huang sau tin ông là mục tiêu của chiến dịch tình báo nước ngoài",
+          "meta": "TechCrunch · The Verge · 8/11",
+          "body": [
+            "Hội đồng quản trị Nvidia ngày 8/11 thông báo điều tra độc lập do một ủy ban thành viên độc lập giám sát cùng luật sư bên ngoài. Ông Huang gửi thư nội bộ thừa nhận ngoại tình với một cựu giám đốc Megaspeed (Singapore); một bản ghi nhớ lưu hành trong giới hoạch định chính sách Mỹ cho rằng bà này bị Bộ An ninh Quốc gia Trung Quốc tuyển mộ để theo dõi ông.",
+            "HĐQT nói 'không có lý do để tin' an ninh quốc gia hay bí mật Nvidia bị xâm phạm, vẫn tin tưởng ông Huang. The Verge nêu Megaspeed là khách hàng của Nvidia và đang bị Bộ Thương mại Mỹ điều tra nghi buôn lậu chip AI sang Trung Quốc."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+            },
+            {
+              "name": "Nvidia",
+              "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+            }
+          ]
+        },
+        {
+          "headline": "Epic Games Launcher sắp có trên SteamOS; Chainalysis báo mất thông tin xác thực của toàn bộ khách hàng",
+          "meta": "The Verge · Ars Technica · 6–8/11 (theo tiêu đề)",
+          "body": [
+            "The Verge đưa tin Epic Games Launcher sẽ đến SteamOS (8/11). Ars Technica (6/11) đưa tin Chainalysis cho biết hacker đã lấy thông tin đăng nhập và token của toàn bộ khách hàng. Cả hai mục chỉ nêu theo tiêu đề bài; chưa đọc chi tiết điều kiện/phạm vi."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "Khuyến mãi đặc biệt",
+      "title": "Công nghệ · Khuyến mãi đặc biệt",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Gemini Omni 1.2 Flash mở cho nhà phát triển và doanh nghiệp: video 15 giây, giá 720p giảm 30% còn $0,07/giây",
+          "meta": "Google/EconoTimes · Google Workspace Updates · 5–7/11",
+          "body": [
+            "Ưu đãi: giảm giá API — theo EconoTimes, giá 720p là $0,07/giây, thấp hơn 30% so với trước; clip dài tối đa 15 giây (trước đó 10 giây ở Omni 1.1), có thể nâng lên 1080p/4K sau khi dựng nháp 360p/720p.",
+            "Dành cho: nhà phát triển (Gemini API, Google AI Studio), tạo nội dung (Google Flow) và khách doanh nghiệp (Gemini for business); Google Workspace cho biết model cũng đã vào Google Vids (5/11). Điều kiện: tính phí theo dùng (không phải miễn phí); ngày kết thúc: chưa rõ ngày kết thúc — đây là mức giá niêm yết, không phải khuyến mãi có thời hạn.",
+            "Cách dùng: vào Google AI Studio hoặc Gemini API. Lưu ý rủi ro: con số giá lấy từ EconoTimes (nguồn thứ cấp) — hãy đối chiếu trang giá chính thức của Gemini API trước khi tính chi phí; clip có watermark SynthID không nhìn thấy."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "EconoTimes",
+              "url": "https://econotimes.com/Google-Opens-Gemini-Omni-1-2-Flash-With-15-Second-Video-Clips-1772743"
+            },
+            {
+              "name": "Google Workspace Updates",
+              "url": "https://workspaceupdates.googleblog.com/2026/11/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "BIM & openBIM",
+      "title": "Xây dựng · BIM & openBIM",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "buildingSMART Germany (TER) đăng bản review chính thức về IFC4.3 / IFC4.4",
+          "meta": "Diễn đàn buildingSMART · 6/11",
+          "body": [
+            "Trên diễn đàn buildingSMART, mục 'IFC4.3 Building Room – Building Domain Review', thành viên của buildingSMART Germany đăng 'bản review và nhận xét/khuyến nghị chính thức của bSD TER' cho IFC4.3–IFC4.4 (gắn thẻ ifc4x3, ifc4x4). Bài đăng chỉ có dòng giới thiệu; nội dung chi tiết nằm ở tệp đính kèm trên diễn đàn nên chúng tôi chưa tóm tắt kết luận."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "buildingSMART Forums",
+              "url": "https://forums.buildingsmart.org/t/ifc4-3-ifc4-4-review-technical-expert-council-ter-of-buildingsmart-germany/6645"
+            }
+          ]
+        },
+        {
+          "headline": "bonsai-btk: add-on vẽ kỹ thuật cho Bonsai theo chuẩn Đức, v0.1.0 → v0.2.0 trong 1 ngày",
+          "meta": "OSArch · 6–7/11",
+          "body": [
+            "Giáo viên đào tạo nghề 'Bautechnischer Konstrukteur' ở Đức phát hành bonsai-btk 0.1.0 với công cụ Dimension from Points (chuỗi kích thước chọn từ đỉnh phần tử, đặt offset trên lưới 5 mm, giữ offset khi đổi tỷ lệ bản vẽ) và Intersection snap (phím S, lấy giao điểm hai cạnh kể cả ngoài đầu mút). Add-on chạy trên API/operator của Bonsai, thử với Blender 5.2.0 LTS và Bonsai 0.9.1-alpha261106.",
+            "Cùng ngày có v0.2.0 thêm công cụ khu đất (địa hình, mô hình bìa cứng, georeference). Người dùng theoryshaw gợi ý phối hợp với PR #8083 của IfcOpenShell (anchor bám theo phần tử); tác giả sẽ thử PR trên BonsaiPR. Tác giả ghi code được viết có trợ giúp AI."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch",
+              "url": "https://community.osarch.org/discussion/3787/bonsai-btk-0-1-0-intersection-snap-and-dimension-chains-for-german-drawings"
+            },
+            {
+              "name": "IfcOpenShell PR #8083",
+              "url": "https://github.com/IfcOpenShell/IfcOpenShell/pull/8083"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Phần mềm",
+      "title": "Xây dựng · Phần mềm",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Graphisoft ra Archicad 30 và gói Archicad Max (trợ lý AI dạng agent bản beta, MCP server beta)",
+          "meta": "Nemetschek · Engineering.com · ENGtechnica · 7/10 – 2/11",
+          "body": [
+            "Nemetschek/Graphisoft công bố danh mục 2026 do Archicad 30 dẫn đầu (Dark Mode cho Windows, hiển thị tường nhiều tầng, kiểm soát tài liệu linh hoạt hơn...). Gói Archicad Max gồm AI Assistant dạng agent (beta) làm tác vụ nhiều bước trong mô hình, AI Assistant Spaces và AI Visualizer cập nhật; Archicad Max đi kèm Archicad 30 và triển khai theo khu vực.",
+            "Nemetschek Creator (nền tảng đám mây thiết kế sơ bộ) vào early access cho thuê bao Max/Collaborate từ 28/10, bản thương mại dự kiến 2027. Allplan Max 2027 và Bluebeam Max đã có trên toàn cầu theo Engineering.com."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Nemetschek",
+              "url": "https://www.nemetschek.com/en/news-media/graphisoft-unveils-2026-product-portfolio-led-archicad-and-ai-enabled-design"
+            },
+            {
+              "name": "Engineering.com",
+              "url": "https://www.engineering.com/nemetschek-expands-ai-tools-across-building-workflows/"
+            },
+            {
+              "name": "ENGtechnica",
+              "url": "https://engtechnica.com/graphisoft-builds-agentic-ai-into-archicad-and-its-new-aec-cloud-platform/"
+            }
+          ]
+        },
+        {
+          "headline": "Autodesk: Forma Building Design thêm Indoor Daylight (public beta), nhập DXF và xuất DWG; AEC Data Model được 'vẽ lại bức tranh'",
+          "meta": "Autodesk Forma blog 4/11 · revit.news 8/11",
+          "body": [
+            "Bản cập nhật Forma Building Design (4/11) gồm phân tích Indoor Daylight ở public beta cho mọi người dùng, nhập DXF vào mặt bằng để vẽ lại, và xuất mặt bằng sang AutoCAD dạng DWG. Có trong AEC Collection, Revit standalone và gói Forma for Buildings.",
+            "Bài AEC Tech Drop ngày 3/11 (revit.news tóm tắt 8/11) liệt kê AEC Data Model API, Content Catalog, Parameters Service, Model Analytics Essentials... — không phải bản phát hành mới, không có số phiên bản hay giá."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Autodesk Forma",
+              "url": "https://blogs.autodesk.com/forma/2026/11/04/whats-new-in-forma-building-design-indoor-daylight-parking-furniture-and-autocad-workflows/"
+            },
+            {
+              "name": "revit.news",
+              "url": "https://www.revit.news/2026/11/autodesk-maps-out-how-the-aec-data-model-tackles-revit-data-problems/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Thảo luận cộng đồng",
+      "title": "Xây dựng · Thảo luận cộng đồng",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "OSArch: thử quy trình bản vẽ thi công với Claude + Bonsai qua Blender MCP (người dùng Revit lâu năm, 'ngày 1–2')",
+          "meta": "OSArch · 5–7/11 (ý kiến cộng đồng)",
+          "body": [
+            "Thành viên archie1492 chia sẻ thử nghiệm: dùng Blender Lab MCP chính thức với Blender 5.2.3 và Bonsai 0.9.0, đánh dấu PDF để Claude sửa mô hình và bản vẽ, cửa và cửa sổ tự điền vào bảng thống kê. Ngày 2 thử trên dự án phục chế thật ngân sách thấp; Blender thỉnh thoảng crash (nhất là khi xuất Freestyle SVG cho góc nhìn phối cảnh), Claude nhận ra nguyên nhân và đổi cách làm; cần thêm thư viện cửa/đồ nội thất.",
+            "Massimo hỏi có dùng ifcopenshell MCP không; theoryshaw gợi ý template OD_Bonsai_Template.ifc và OD_Submodules của OpenDesign. Đây là chia sẻ cá nhân, chưa phải kết quả kiểm chứng."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch",
+              "url": "https://community.osarch.org/discussion/3783/claude-bonsai-construction-drawings"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Man United 4-4 Aston Villa: Dorgu gỡ hòa phút 96 trong trận 8 bàn; MU đứng thứ 18",
+          "meta": "The Guardian · Al Jazeera · 8/11",
+          "body": [
+            "Villa dẫn 2-0 sau 4 phút (Alysson ghi bàn sau 59 giây, Nicolas Jackson nhân đôi cách biệt); MU gỡ 2-2 trước giờ nghỉ nhờ Bruno Fernandes (phạt đền) và Youri Tielemans. Villa lại dẫn 4-2 qua McGinn (phạt đền) và Goretzka, Zirkzee rút ngắn ở phút bù giờ rồi Patrick Dorgu đánh đầu gỡ hòa phút 96.",
+            "MU mới thắng 3/15 trận mùa này và vào kỳ nghỉ quốc tế ở vị trí 18. HLV Michael Carrick trả lời 'Tôi không' khi được hỏi có từ chức; CĐV căng băng rôn 'Your funeral not ours, sell up' gửi nhà Glazer và Sir Jim Ratcliffe."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone"
+            }
+          ]
+        },
+        {
+          "headline": "Crystal Palace thua Liverpool 1-3, xuống đáy bảng; Pierre Sage sắp bị sa thải, Thomas Frank là ứng viên hàng đầu",
+          "meta": "The Guardian · 8/11",
+          "body": [
+            "Palace xuống cuối bảng Premier League lần đầu từ 12/2017 sau 4 trận thua liên tiếp (gồm thua Brighton 0-5 hồi tháng trước), chỉ thắng 2/10 trận và thủng lưới 24 bàn. The Guardian cho biết ông Sage dự kiến là HLV đầu tiên bị sa thải mùa này vào thứ Hai 9/11.",
+            "Thomas Frank (bị Tottenham sa thải hồi tháng 2) nổi lên là ứng viên chính; Sean Dyche và Vítor Pereira cũng được nhắc tên. Đây là thông tin 'được hiểu là' từ báo, chưa có thông báo chính thức."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park"
+            }
+          ]
+        },
+        {
+          "headline": "Sunderland 1-0 Chelsea nhờ penalty của Le Fée; Barcelona thắng 2-1 trên sân Atlético và bứt lên đầu La Liga",
+          "meta": "The Guardian · 8/11",
+          "body": [
+            "Sunderland thắng Chelsea 1-0 (Enzo Le Fée đá phạt đền phút ~30 sau pha Colwill phạm lỗi với Brobbey), rời đáy bảng; Chelsea của Xabi Alonso rơi khỏi top 4.",
+            "Ở La Liga, Fermín López lập cú đúp (phút 45 và hiệp hai) sau khi Giuliano Simeone mở tỷ số cho Atlético; Barcelona của Hansi Flick thắng 2-1 và dẫn đầu bảng, sau hai trận thua trước PSG và Real Madrid trong hai tuần qua."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report"
+            },
+            {
+              "name": "The Guardian (La Liga)",
+              "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report"
+            }
+          ]
+        },
+        {
+          "headline": "Brighton thắng Brentford (còn 10 người) lên nhì bảng; Bournemouth thắng trận thứ 8 liên tiếp tại Ipswich",
+          "meta": "The Guardian · 8/11 (theo tiêu đề)",
+          "body": [
+            "Theo tiêu đề bản tin của The Guardian, Diego Gómez ghi thêm một siêu phẩm giúp Brighton hạ Brentford (thiếu người) để lên nhì bảng; Evanilson mở màn chuỗi 8 trận thắng liên tiếp của Bournemouth trên sân Ipswich. Chúng tôi chưa đọc chi tiết tỷ số hai trận này."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/football/2026/nov/08/brighton-brentford-premier-league-match-report"
+            },
+            {
+              "name": "The Guardian (Ipswich)",
+              "url": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Stephen Miller thay Susie Wiles làm Chánh văn phòng Nhà Trắng",
+          "meta": "VnExpress (theo WSJ, Washington Post, AFP) · 6–9/11",
+          "body": [
+            "Ba ngày sau thất bại của đảng Cộng hòa ở bầu cử giữa kỳ, Tổng thống Trump ngày 6/11 thông báo bà Susie Wiles rời Nhà Trắng và ông Stephen Miller (phó chánh văn phòng phụ trách chính sách, cố vấn an ninh nội địa) sẽ thay thế. Ông Trump nói Miller 'rất giỏi về mặt chính trị' và 'hiểu tôi'.",
+            "VnExpress dẫn báo Mỹ: Miller định hình đường lối siết nhập cư và trục xuất hàng loạt, ảnh hưởng nội bộ có giảm phần nào trong năm nay nhưng ông vẫn giữ vị thế với ông Trump."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/canh-tay-sat-tro-thanh-tan-chanh-van-phong-nha-trang-cua-ong-trump-5141763.html"
+            }
+          ]
+        },
+        {
+          "headline": "Iran: ngoại trưởng Araghchi dọa 'giáng địa ngục' nếu Mỹ tái tấn công; ông Trump nói tấn công lại 'khó xảy ra' nếu đàm phán tiến triển",
+          "meta": "Al Jazeera · 8/11",
+          "body": [
+            "Ngoại trưởng Abbas Araghchi viết trên X rằng 'đề xuất 2 ngày của chúng tôi vẫn còn hiệu lực: đáp ứng các yêu cầu, gồm chấm dứt chiến tranh trên mọi mặt trận, hoặc chọn chiến tranh' và sẽ thấy Iran 'giáng địa ngục'. Al Jazeera mô tả đây là tối hậu thư nhằm kết thúc cuộc chiến kéo dài 8 tháng giữa hai nước.",
+            "Ông Trump (qua phỏng vấn điện thoại CNN) nói tấn công mới là 'rất khó xảy ra' nếu đàm phán về chương trình hạt nhân và việc mở lại eo biển Hormuz tiến triển, 'tùy việc họ có ký thỏa thuận rất mạnh hay không'."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war"
+            }
+          ]
+        },
+        {
+          "headline": "Israel: Tổng thống Herzog giao ông Gadi Eisenkot lập chính phủ mới, mở khả năng chấm dứt gần hai thập kỷ cầm quyền của Netanyahu",
+          "meta": "VnExpress (theo AFP, Times of Israel) · 7–8/11",
+          "body": [
+            "Ngày 7/11 Văn phòng Tổng thống Israel thông báo trao quyền lập chính phủ cho ông Eisenkot (lãnh đạo đảng Yashar) sau khi ông nhận ủng hộ của các đảng đại diện 67 nghị sĩ; ông Netanyahu được 46 nghị sĩ đề cử. Ông có 28 ngày để gom đủ 61 phiếu, có thể gia hạn tối đa 14 ngày; nếu thất bại, quyền có thể chuyển sang ông Netanyahu, nếu không bên nào thành công sẽ bầu cử lại.",
+            "Thách thức: liên minh đối lập có phần không muốn dựa vào các đảng Arab; Yashar để ngỏ mời Likud nếu cắt liên minh với phe cực hữu. Ông Netanyahu đòi chính phủ đoàn kết nhưng giữ các đồng minh hiện tại — điều phe đối lập gần như chắc chắn từ chối."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/doi-thu-cua-thu-tuong-israel-duoc-chi-dinh-thanh-lap-chinh-phu-moi-5142108.html"
+            }
+          ]
+        },
+        {
+          "headline": "Paraguay: Tổng thống Santiago Peña bị luận tội rồi quản thúc tại gia giữa khủng hoảng ngân hàng Ueno",
+          "meta": "The Guardian · 7/11",
+          "body": [
+            "Quốc hội Paraguay luận tội ông Peña ngày 6/11; vài phút sau ông bị lệnh quản thúc tại gia khi phó tổng thống Pedro Alliana tuyên thệ. Ngân hàng số Ueno bị đình chỉ trong tuần, khóa tài khoản của 2,9 triệu người (~60% người trưởng thành), biểu tình lan rộng, một số nơi đụng độ cảnh sát.",
+            "Ông Peña bị điều tra về làm giàu bất hợp pháp, rửa tiền và dùng ảnh hưởng chính trị: ông từng có ~1 triệu USD cổ phần trong công ty trở thành Ueno Holding và bổ nhiệm cựu CEO Ueno làm thống đốc ngân hàng trung ương; 800–860 triệu USD quỹ nhà nước và hưu trí được gửi ở Ueno. Lệnh bắt cũng nhắm tới ông Carlos Carvallo Spalding."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
+            }
+          ]
+        },
+        {
+          "headline": "Giáo hoàng Leo XIV đến Argentina (9–11/11), chuyến thăm đầu tiên kể từ năm 1987 giữa bất đồng với Tổng thống Milei",
+          "meta": "The Guardian · Al Jazeera · 8/11",
+          "body": [
+            "Giáo hoàng bắt đầu chuyến đi 3 nước Nam Mỹ từ Uruguay hôm 6/11 (kết thúc bằng 6 ngày ở Peru). Ở Argentina ông được ông Milei đón tại sân bay, dự kiến thăm viện Cottolengo Don Orione dành cho người khuyết tật ngày 9/11, gặp giới doanh nghiệp, công đoàn và cử hành Thánh lễ tại nhà máy máy bay FAdeA ở Córdoba ngày thứ Ba.",
+            "The Guardian nêu các điểm bất đồng: cắt giảm tài trợ cho người khuyết tật, quy định AI (Giáo hoàng kêu gọi 'giải giáp' AI, Milei không muốn điều tiết), lao động. Bộ trưởng Pettovello nói Giáo hoàng sẽ không đến để bình luận chính trị nội bộ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng Bí thư, Chủ tịch nước Tô Lâm kêu gọi trí thức Việt ở Nhật làm cầu nối về AI, bán dẫn, lượng tử",
+          "meta": "VnExpress (TTXVN) · 8/11",
+          "body": [
+            "Tại cuộc gặp chuyên gia, trí thức Việt Nam ở Nhật ngày 8/11, ông Tô Lâm đề nghị mở rộng mạng lưới kết nối chuyên gia hai nước trong đổi mới sáng tạo, vũ trụ, AI, bán dẫn, lượng tử, khoa học biển, đất hiếm, y học... Đại sứ Phạm Quang Hiệu cho biết Việt Nam có hơn 260 giáo sư/phó giáo sư/tiến sĩ ở Nhật và gần 1.000 chuyên gia được Nhật xếp vào nhóm trình độ cao.",
+            "Chuyến thăm chính thức Nhật Bản kéo dài 8–11/11."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-mong-tri-thuc-viet-nam-o-nhat-lam-cau-noi-ve-ai-luong-tu-5142216.html"
+            }
+          ]
+        },
+        {
+          "headline": "Mở thầu tư vấn lập báo cáo khả thi đường sắt tốc độ cao Bắc – Nam: gói TV02 trị giá 10.782 tỷ đồng",
+          "meta": "VnExpress · 6/11",
+          "body": [
+            "Sáng 6/11, Ban Quản lý dự án Thăng Long (Bộ Xây dựng) mở thầu gói tư vấn TV02 gồm khảo sát và lập báo cáo nghiên cứu khả thi dự án đường sắt tốc độ cao Bắc – Nam, giá gói 10.782 tỷ đồng (theo mục tin trên chuyên trang Thời sự của VnExpress)."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thoi-su"
+            }
+          ]
+        },
+        {
+          "headline": "Nam Phi: ANC đối mặt thất bại nặng ở bầu cử địa phương khi kiểm được 80% số phiếu",
+          "meta": "The Guardian · 6/11 (theo tiêu đề)",
+          "body": [
+            "Theo The Guardian, với 80% phiếu đã kiểm, đảng ANC cầm quyền đang đứng trước thất bại nặng ở cuộc bầu cử địa phương Nam Phi. Chúng tôi chỉ nêu theo tiêu đề; chưa đọc kết quả chi tiết."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Russell Brand bị kết tội hiếp dâm và tấn công tình dục tại Anh, phơi bày 'văn hóa im lặng' ngành giải trí",
+          "meta": "VnExpress (theo Reuters) · 5–9/11",
+          "body": [
+            "Danh hài 51 tuổi bị kết tội ngày 5/11 với một tội hiếp dâm và ba tội tấn công tình dục, các vụ việc giữa thập niên 2000 khi ông làm việc cho Channel 4 và BBC. Ông phủ nhận cáo buộc; ngoài vụ án ở Anh, ông còn đối mặt một vụ kiện dân sự ở Mỹ.",
+            "Một sĩ quan cảnh sát London gọi vụ án có thể là 'bước ngoặt' khuyến khích nạn nhân khác lên tiếng; nhiều nạn nhân kể không tố cáo vì sợ không được tin hoặc ảnh hưởng sự nghiệp."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/vu-an-danh-hai-hiep-dam-phoi-bay-van-hoa-im-lang-trong-nganh-giai-tri-anh-5142202.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đạo diễn Sebastián Lelio ('A Fantastic Woman', 'Gloria') qua đời ở tuổi 52",
+          "meta": "The Guardian · 6/11",
+          "body": [
+            "The Guardian đưa tin đạo diễn người Chile Sebastián Lelio, tác giả 'A Fantastic Woman' và 'Gloria', mất ở tuổi 52 (tin ngày 6/11). Chúng tôi chưa đọc chi tiết nguyên nhân."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies"
+            }
+          ]
+        },
+        {
+          "headline": "Chủ sở hữu bản quyền Elvis và Eminem kiện Suno vì nhạc AI 'nhân bản' giọng nghệ sĩ",
+          "meta": "The Verge · 8/11 (theo tiêu đề)",
+          "body": [
+            "The Verge đưa tin bên nắm quyền của Elvis và Eminem đang kiện Suno liên quan nhạc AI sao chép nghệ sĩ. Mục này nêu theo tiêu đề; chưa đọc chi tiết cáo buộc và tòa án thụ lý."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+            }
+          ]
+        },
+        {
+          "headline": "Ma nhai Dục Thúy Sơn (Ninh Bình) được UNESCO ghi danh Di sản tư liệu khu vực châu Á – Thái Bình Dương",
+          "meta": "VnExpress · mục Thời sự (vừa công bố)",
+          "body": [
+            "43 văn bia cổ khắc trên vách đá ở núi Non Nước (Dục Thúy Sơn, Ninh Bình) vừa được UNESCO ghi danh Di sản tư liệu khu vực châu Á – Thái Bình Dương, theo mục tin của VnExpress."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thoi-su"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Không khí lạnh mạnh tràn xuống miền Bắc từ chiều tối 8/11",
+          "meta": "VnExpress · 8/11",
+          "body": [
+            "Theo VnExpress, không khí lạnh mạnh đến Đông Bắc Bộ từ chiều tối 8/11, sau đó mở rộng ra Tây Bắc Bộ và Bắc Trung Bộ; vùng núi cao có nơi dưới 13°C."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thoi-su"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội sẽ xén vỉa hè 7 tuyến đường, hơn 8 km, để giảm ùn tắc",
+          "meta": "VnExpress · 7–8/11",
+          "body": [
+            "Hơn 8 km đường trên trục Giảng Võ – Láng Hạ – Lê Văn Lương – Tố Hữu cùng các tuyến giao cắt sẽ được mở rộng bằng cách xén vỉa hè và điều chỉnh dải phân cách (theo mục tin VnExpress)."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thoi-su"
+            }
+          ]
+        },
+        {
+          "headline": "Hai tàu hỏa đâm nhau ở Giza (Ai Cập): ít nhất 7 người chết, hơn 100 người bị thương",
+          "meta": "The Guardian (AP) · 8/11",
+          "body": [
+            "Vụ va chạm xảy ra ngày 8/11 ở huyện al-Ayyat, tỉnh Giza, cách Cairo ~48 km: tàu đi Fayoum đâm vào đuôi tàu Cairo–Aswan đang đứng yên trên cùng đường ray. Tổng thống Sisi ra lệnh điều tra nhanh; Guardian nhắc đường sắt Ai Cập từng nhiều tai nạn do quản lý, bảo trì kém."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+            }
+          ]
+        },
+        {
+          "headline": "Pháp luật: TikToker 'Cậu Tuấn Cửa Ông' bị bắt; 14 người Trung Quốc bị nghi lập sàn chứng khoán ảo lừa đảo ở TP.HCM",
+          "meta": "VnExpress · 8/11 (theo tiêu đề)",
+          "body": [
+            "VnExpress ngày 8/11 đưa tin bắt TikToker 'Cậu Tuấn Cửa Ông' và việc 14 người Trung Quốc bị nghi lập sàn chứng khoán ảo ở TP.HCM để lừa đảo. Hai mục nêu theo tiêu đề; chưa đọc chi tiết hành vi và cơ quan điều tra."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tiktoker-cau-tuan-cua-ong-bi-bat-5142214.html"
+            },
+            {
+              "name": "VnExpress (sàn ảo)",
+              "url": "https://vnexpress.net/14-nguoi-trung-quoc-bi-nghi-lap-san-chung-khoan-ao-o-tp-hcm-lua-dao-5142208.html"
+            }
+          ]
+        },
+        {
+          "headline": "Binance yêu cầu người dùng châu Âu rút tài sản trước khi bị thu phí; Fed cân nhắc tăng lãi suất",
+          "meta": "VnExpress · 7–9/11 (theo tiêu đề)",
+          "body": [
+            "VnExpress đưa tin Binance yêu cầu người dùng châu Âu rút tài sản trước khi bị thu phí (9/11), và quan chức Fed cân nhắc tăng lãi suất sau báo cáo việc làm khả quan (7/11). Nêu theo tiêu đề; chưa đọc chi tiết mức phí hay lộ trình lãi suất."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/binance-yeu-cau-nguoi-dung-chau-au-rut-tai-san-truoc-khi-bi-thu-phi-5142152.html"
+            },
+            {
+              "name": "VnExpress (Fed)",
+              "url": "https://vnexpress.net/quan-chuc-fed-can-nhac-tang-lai-sau-bao-cao-viec-lam-kha-quan-5141851.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 9/11/2026 (giờ VN). Thứ Hai không có mục Xây dựng · Nghiên cứu (không có bài nghiên cứu thật sự lớn). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu. Các mục ghi 'theo tiêu đề' chưa đọc được chi tiết."
+}
