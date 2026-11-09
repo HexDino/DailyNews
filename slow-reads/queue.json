@@ -409,6 +409,28 @@
       "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=ai-co-biet-minh-dang-nghi-gi",
       "source_published": "2026-11-04",
       "note": "Published as a 593-word summary (coverage: summary), not a translation."
+    },
+    {
+      "source_id": "construction-physics",
+      "url": "https://www.construction-physics.com/p/how-do-building-codes-affect-the",
+      "title": "How Do Building Codes Affect the Price of Housing?",
+      "author": "Brian Potter",
+      "source": "Construction Physics",
+      "lang": "en",
+      "topics_guess": [
+        "Tiền bạc",
+        "Tư duy & khoa học"
+      ],
+      "est_words": 2588,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-11-09",
+      "id": "quy-chuan-xay-dung-va-gia-nha",
+      "published_at": "2026-11-09",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=quy-chuan-xay-dung-va-gia-nha",
+      "source_published": "2026-11-06",
+      "note": "Published as a 585-word summary (coverage: summary), not a translation."
     }
   ]
 }

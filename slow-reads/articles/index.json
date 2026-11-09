@@ -33,6 +33,23 @@
       "coverage": "summary"
     },
     {
+      "id": "quy-chuan-xay-dung-va-gia-nha",
+      "title": "Quy chuẩn xây dựng làm giá nhà tăng bao nhiêu?",
+      "title_original": "How Do Building Codes Affect the Price of Housing?",
+      "author": "Brian Potter",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/p/how-do-building-codes-affect-the",
+      "lang": "en",
+      "topics": [
+        "Tiền bạc",
+        "Tư duy & khoa học"
+      ],
+      "summary": "Tranh luận giá nhà thường chỉ chĩa vào quy hoạch đất. Brian Potter lật sang bộ quy chuẩn xây dựng: mỗi năm nó cộng thêm bao nhiêu vào chi phí, và phần an toàn mang lại có đáng số tiền ấy không?",
+      "added": "2026-11-09",
+      "reading_minutes": 3,
+      "coverage": "summary"
+    },
+    {
       "id": "ai-co-biet-minh-dang-nghi-gi",
       "title": "AI có biết mình đang nghĩ gì?",
       "title_original": "New Research Tests Whether AI Models Know Their Own Thoughts",

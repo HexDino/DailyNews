@@ -1,0 +1,81 @@
+{
+  "id": "quy-chuan-xay-dung-va-gia-nha",
+  "title": "Quy chuẩn xây dựng làm giá nhà tăng bao nhiêu?",
+  "title_original": "How Do Building Codes Affect the Price of Housing?",
+  "author": "Brian Potter",
+  "source": "Construction Physics",
+  "source_url": "https://www.construction-physics.com/p/how-do-building-codes-affect-the",
+  "source_published": "2026-11-06",
+  "lang": "en",
+  "topics": [
+    "Tiền bạc",
+    "Tư duy & khoa học"
+  ],
+  "summary": "Tranh luận giá nhà thường chỉ chĩa vào quy hoạch đất. Brian Potter lật sang bộ quy chuẩn xây dựng: mỗi năm nó cộng thêm bao nhiêu vào chi phí, và phần an toàn mang lại có đáng số tiền ấy không?",
+  "added": "2026-11-09",
+  "reading_minutes": 3,
+  "source_stats": {
+    "url": "https://www.construction-physics.com/p/how-do-building-codes-affect-the",
+    "coverage": "summary",
+    "word_count": 2588,
+    "char_count": 13455,
+    "paragraph_count": 32,
+    "sentence_count": 97,
+    "heading_count": 3,
+    "sha256": "c7bbed8597b78dd5c98610f6ee6ed0521978e855418e2b1ad938656b6a3fd8c4"
+  },
+  "body": [
+    {
+      "type": "p",
+      "text": "Giá nhà tăng thường bị quy cho quy hoạch đất và giấy phép xây thêm. Brian Potter nói đó mới một nửa: luật còn đội chi phí ngay trên công trường, và quy chuẩn xây dựng là nguồn lớn nhất."
+    },
+    {
+      "type": "p",
+      "text": "Ở Mỹ, hầu như khu vực nào cũng có danh sách yêu cầu về vật liệu, kích thước phòng, chống cháy, cách nhiệt. Đa số lấy bộ mẫu của Hội đồng Quy chuẩn Quốc tế, cứ ba năm cập nhật một lần; bang thường chậm hơn."
+    },
+    {
+      "type": "p",
+      "text": "Bỏ quy chuẩn không nghĩa là xây gì cũng được. Bảo hiểm, ngân hàng cho vay và trách nhiệm của kỹ sư sẽ siết thay. Đó mới là mốc so sánh đúng."
+    },
+    {
+      "type": "p",
+      "text": "Số liệu dày nhất từ NAHB, hiệp hội đại diện giới xây nhà Mỹ. Mỗi phiên bản IRC mới, họ ước tính từng thay đổi trên vài căn nhà mẫu đặt ở vùng khí hậu khác nhau. Báo cáo có từ 2009."
+    },
+    {
+      "type": "p",
+      "text": "Kết quả không một chiều. Bản 2015 bắt móng lớn hơn, đổi mối nối ống gió, mỗi khoản thêm vài trăm đô la; bỏ bọc cách nhiệt một số ống lại tiết kiệm chừng ấy. Bản gần nhất giảm chi phí nhờ lớp chắn hơi mỏng đi."
+    },
+    {
+      "type": "p",
+      "text": "Cộng lại và trừ lạm phát, từ 2006 quy chuẩn ngót 40.000 đô la vào giá nhà mới, trong khi chi phí xây trung bình năm 2024 chừng 440.000. Tức khoảng 0,5% mỗi năm."
+    },
+    {
+      "type": "p",
+      "text": "Nghiên cứu 2026 của Eriksen, Besiktepe và Martani soi 140 lần sửa IBC giai đoạn 2012–2021 cho chung cư ba tầng. Có 36 điều làm tăng chi phí, 16 trong số đó chạm tới loại nhà này, 104 điều trung tính. Tổng tăng 9,9%, khoảng 0,8% mỗi năm."
+    },
+    {
+      "type": "p",
+      "text": "Chi phí dồn rất hẹp. Trong khoảng 400.000 đô la tăng thêm, riêng quy định năm 2018 phải cử người trực chống cháy ngoài giờ làm chiếm 180.000. NAHB cũng thấy gần 60% mức tăng 2009–2024 nằm ở 10 trong 89 điều. Khảo sát nhà thầu đưa khoảng 1% mỗi năm, nhưng chỉ là cảm nhận."
+    },
+    {
+      "type": "p",
+      "text": "Sprinkler được đo nhiều nhất: NIST 2005 ước 635 đến hơn 2.000 đô la mỗi căn. NFPA năm 2008 và 2013 dùng số thực, có nơi dưới 2.000, có nơi trên 20.000. Chi phí thấp hơn ở bang bắt buộc diện rộng."
+    },
+    {
+      "type": "p",
+      "text": "Những phép tính ấy mới chỉ đo chi phí, chưa đo lợi ích. NIST 2007 chấm sprinkler tỉ lệ lợi ích – chi phí 2,4 đến 6, chủ yếu nhờ giảm tử vong do cháy. Ngược lại, báo cáo 2025 nói cầu thang thứ hai ở chung cư đội chi phí 6–13% mà gần như không tăng an toàn."
+    },
+    {
+      "type": "p",
+      "text": "Nhiều quy định khác lời hơn. FEMA 2020 thấy xây cao hơn mực lũ thường lợi hơn hại; báo cáo 2019 chấm chống lũ, gió, động đất 6 đến gần 12; quy chuẩn năng lượng IECC được tính gần 2 đến trên 10. NAHB tự ra dưới 1 vì ước chi phí ban đầu cao hơn, một báo cáo tư vấn khác lại gần nhóm kia."
+    },
+    {
+      "type": "p",
+      "text": "Cách đo cũng làm lệch: chỉ số giá nhà của Cục Thống kê Mỹ điều chỉnh theo số phòng, vật liệu tường nhưng bỏ qua cải tiến an toàn bắt buộc, còn chỉ số xe mới thì có. Potter chốt dè dặt: quy chuẩn cộng 0,5–1% mỗi năm, vài điều tốn hơn lợi, nhiều điều lợi vượt chi phí, dữ liệu còn mỏng."
+    },
+    {
+      "type": "p",
+      "text": "*Bản tóm tắt — đọc toàn bài tại Construction Physics.*"
+    }
+  ]
+}
