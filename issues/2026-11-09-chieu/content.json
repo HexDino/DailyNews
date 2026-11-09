@@ -1,0 +1,1061 @@
+{
+  "date": "2026-11-09",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Hai, ngày 9 tháng 11 năm 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 9/11/2026 · Thứ Hai · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Tô Lâm ở Tokyo: Việt Nam là 'đối tác đồng sáng tạo' của Nhật Bản",
+    "Nghỉ hưởng nguyên lương ngày 27/7 từ 2027; chưa bắt buộc BHXH với tài xế công nghệ",
+    "Thủ tướng Qatar gặp Trump về Iran; Houthi đánh trúng tháp Aramco ở Riyadh",
+    "Miền Bắc giảm 14 độ, Thanh Hóa mưa 440 mm, sập mố cầu Bái Sim; Phú Quốc thiếu xăng",
+    "Fact: 9/11/1989 Bức tường Berlin mở cửa"
+  ],
+  "followups": [
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Chiều 9/11 (giờ VN): Thủ tướng Qatar gặp Trump và Vance tại Nhà Trắng (thứ Hai giờ Mỹ) bàn đề xuất 'hai ngày' của Iran; Rubio nói chưa có đột phá, yêu cầu của Iran 'phi lý'. Houthi đánh trúng tháp Aramco ở Riyadh.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/toa-nha-choc-troi-cua-tap-doan-dau-khi-saudi-arabia-trung-don-tan-cong-cua-houthi-100261109103609732.htm"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử giữa kỳ Mỹ (3/11)",
+      "update": "Trump nói chỉ 'đùa' chuyện Dana White, thừa nhận chính sách nhập cư 'quá cứng'; phe Dân chủ ủng hộ luận tội Hegseth, sắp điều tra Musk và Stephen Miller.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/dang-dan-chu-sap-dieu-tra-elon-musk-va-stephen-miller-ung-ho-luan-toi-ong-hegseth-100261109085549213.htm"
+        }
+      ]
+    },
+    {
+      "title": "IPO của Anthropic (mã ANT, Nasdaq)",
+      "update": "Roadshow dự kiến trong tuần này; định giá mục tiêu 2.000 tỷ USD bị nghi ngờ, một số nhà đầu tư cho rằng 1.000–1.250 tỷ USD hợp lý hơn. METR công bố đánh giá tốc độ tăng tốc R&D của Anthropic (5/11).",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-03",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/nha-dau-tu-ngo-vuc-muc-dinh-gia-2-000-ty-usd-cua-anthropic-5142087.html"
+        },
+        {
+          "name": "METR",
+          "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+        }
+      ]
+    },
+    {
+      "title": "Chuyến thăm Nhật Bản của Tổng Bí thư, Chủ tịch nước Tô Lâm (8–11/11)",
+      "update": "Ngày 2 (9/11): dự Diễn đàn Công tư Việt – Nhật, chứng kiến trao hàng chục văn kiện, công bố Năm Hợp tác du lịch 2027–2028; nêu bốn định hướng 'đồng sáng tạo'.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-07",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-viet-nam-khong-chi-la-noi-dau-tu-ma-la-doi-tac-dong-sang-tao-cua-nhat-ban-100261109142323745.htm"
+        }
+      ]
+    },
+    {
+      "title": "Vụ cháy trường THCS Kim Liên (Hà Nội)",
+      "update": "Đến khoảng 17h 9/11 chưa có thông tin mới về nguyên nhân; học sinh vẫn học trực tuyến, hạn rà soát an toàn trường học ngày 15/11.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-05-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/thoi-su"
+        }
+      ]
+    },
+    {
+      "title": "Phiên xử Mr Pips",
+      "update": "Các bị cáo đã nói lời sau cùng (8/11); đến khoảng 17h 9/11 chưa có thông tin tuyên án.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-04-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/mr-pips-pho-duc-nam-xin-duoc-ket-hon-trong-tu-neu-co-nguoi-yeu-thuong-5142157.html"
+        }
+      ]
+    },
+    {
+      "title": "Đàm phán hòa bình Nga – Ukraine",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-22",
+      "update": "Trước vòng Abu Dhabi (10–11/11): Rubio nói có tiến triển về 'cấu trúc an ninh' hậu chiến; Pháp tuyên bố sẽ có mặt dù Nga nói châu Âu 'không có chỗ'.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/ong-rubio-co-tien-trien-ve-cau-truc-an-ninh-cua-ukraine-va-chau-au-hau-chien-100261109080240867.htm"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/phap-tuyen-bo-buoc-vao-ban-dam-phan-hoa-binh-cho-ukraine-o-abu-dhabi-100261108231348336.htm"
+        }
+      ]
+    },
+    {
+      "title": "Vụ xả súng ở Kraków (Ba Lan)",
+      "status": "đã kết thúc",
+      "first_issue": "2026-11-08",
+      "update": "Nghi phạm đã tử vong trong bệnh viện; cảnh sát phát hiện thêm thi thể cha mẹ và em gái hắn tại nhà.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/nghi-pham-xa-sung-o-ba-lan-tu-vong-canh-sat-phat-hien-them-3-thi-the-10026110915222918.htm"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-09",
+      "title": "9–20/11 Hội nghị khí hậu COP31 tại Antalya (Thổ Nhĩ Kỳ)",
+      "topic": "Đời sống",
+      "sources": []
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Thủ tướng Qatar gặp ông Trump và Phó tổng thống Vance tại Nhà Trắng về Iran (thứ Hai, giờ Mỹ)",
+      "topic": "Chính trị",
+      "timezone": "America/New_York",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "time": "tuần này",
+      "title": "Anthropic roadshow IPO; niêm yết Nasdaq mã ANT có thể trong vài tuần tới",
+      "topic": "Công nghệ",
+      "note": "Ngày niêm yết chưa được công bố chính thức.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/nha-dau-tu-ngo-vuc-muc-dinh-gia-2-000-ty-usd-cua-anthropic-5142087.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Grab bắt đầu giảm phí nền tảng với chuyến xe ngắn",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/grab-giam-phi-boi-hoan-39-ti-dong-cho-tai-xe-bat-dau-tu-hom-nay-100261105143741253.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi (10–11/11)",
+      "topic": "Chính trị",
+      "note": "Medinsky dẫn đầu đoàn Nga.",
+      "sources": [
+        {
+          "name": "Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/kremlin-confirms-trilateral-ukraine-peace-talks-in-abu-dhabi-next-week"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Cảnh báo mưa lớn Huế – Đà Nẵng – đông Quảng Ngãi đến đêm 11/11 (250–450 mm, cục bộ >700 mm)",
+      "topic": "Đời sống",
+      "note": "Lũ sông ở Huế có thể lên báo động 2 và trên báo động 2; mưa giảm từ 12/11.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/mien-bac-giam-14-do-vung-mua-dich-chuyen-den-trung-trung-bo-5142465.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Việt Nam – Đài Bắc Trung Hoa (sân Thiên Trường, Ninh Bình)",
+      "topic": "Bóng đá",
+      "note": "Giải diễn ra 11–17/11.",
+      "sources": [
+        {
+          "name": "VFF",
+          "url": "https://www.vff.org.vn/cong-bo-giai-bong-da-giao-huu-quoc-te-casper-cup-2026-cho-doi-nhung-cuoc-so-tai-dang-cap/"
+        },
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Quốc hội chất vấn cả ngày: Bộ trưởng Tài chính Ngô Văn Tuấn, Bộ trưởng KH&CN Vũ Hải Quân",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/quoc-hoi-se-chat-van-cac-thanh-vien-chinh-phu-xem-xet-dieu-chinh-dia-gioi-giua-ha-noi-va-phu-tho-100261108145112745.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Đài Bắc Trung Hoa – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Hạn các xã, phường Hà Nội báo cáo rà soát an toàn trường học (sau vụ Kim Liên)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Báo Hôm Nay",
+          "url": "https://www.baohomnay.com/Giao-duc/3-000-hoc-sinh-THCS-Kim-Lien-chuyen-sang-hoc-truc-tuyen-tu-6-11-3753262.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Thông tư 81 có hiệu lực: cấm thu quỹ lớp kiểu cũ",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/cam-quy-lop-tu-15-11-ban-doc-hoan-nghenh-nhung-lo-ngai-binh-moi-ruou-cu-100261106141317645.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "title": "New Zealand áp dụng thị thực mới: du học sinh ở lại làm việc thêm 6 tháng",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/new-zealand-cho-phep-du-hoc-sinh-o-lai-lam-viec-them-6-thang-100261106135240169.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Việt Nam – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "note": "Trận được lùi từ 15/11 sang 17/11.",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Hết lệnh tạm dừng 14 ngày xây 'khải hoàn môn' ở Washington (dự kiến, tính từ 6/11)",
+      "topic": "Chính trị",
+      "note": "Tòa có thể gia hạn hoặc ra phán quyết tiếp theo.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến thông qua chủ trương 3 cao tốc mới và nghị quyết đặc thù du lịch",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress – cao tốc",
+          "url": "https://vnexpress.net/trinh-quoc-hoi-dau-tu-them-ba-du-an-cao-toc-5141815.html"
+        },
+        {
+          "name": "VnExpress – du lịch",
+          "url": "https://vnexpress.net/de-xuat-uu-dai-lon-cho-cac-du-an-du-lich-ty-usd-5141836.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến biểu quyết Luật sửa đổi Luật Bảo hiểm xã hội",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chua-mo-rong-dien-dong-bao-hiem-bat-buoc-voi-tai-xe-cong-nghe-5142415.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "TP.HCM bắn pháo hoa tầm cao tại ba điểm",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tp-hcm-ban-phao-hoa-tam-cao-ba-diem-ngay-24-11-5141981.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hạn gửi Bộ Xây dựng đề xuất kết nối sân bay Gia Bình – trung tâm Hà Nội (đường sắt đô thị)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/pho-thu-tuong-uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-ha-noi-5142080.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "time": "",
+      "title": "Hạn 28 ngày để ông Eisenkot gom đủ 61 phiếu lập chính phủ Israel (tính từ 7/11; có thể gia hạn tối đa 14 ngày)",
+      "topic": "Chính trị",
+      "note": "Ngày 5/12 là mốc tính toán từ thông báo ngày 7/11.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/doi-thu-cua-thu-tuong-israel-duoc-chi-dinh-thanh-lap-chinh-phu-moi-5142108.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Sân bay Cà Mau dự kiến hoạt động trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/san-bay-ca-mau-lui-ngay-khai-thac-tro-lai-den-18-12-5141694.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Hạn đề xuất hoàn thành 6 dự án dịch vụ sân bay Long Thành",
+      "topic": "Xây dựng",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-lui-han-hoan-thanh-6-du-an-tai-san-bay-long-thanh-5141701.html"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Ngày thứ hai của Tô Lâm ở Nhật, nghỉ lễ 27/7, BHXH tài xế công nghệ, ngân sách 2027, sân bay Gia Bình, đối thoại quốc phòng với Australia, trường nghề, SeABank.",
+      "items": [
+        {
+          "headline": "Tô Lâm ở Tokyo: 'Việt Nam không chỉ là nơi đầu tư mà là đối tác đồng sáng tạo của Nhật Bản'",
+          "meta": "Sáng 9/11 (giờ Tokyo) · Tuổi Trẻ (theo TTXVN)",
+          "body": [
+            "Ngày thứ hai của chuyến thăm chính thức Nhật Bản, Tổng Bí thư, Chủ tịch nước Tô Lâm dự Diễn đàn Công tư về hợp tác kinh tế và khoa học – công nghệ Việt Nam – Nhật Bản với chủ đề 'Đồng sáng tạo công nghệ, đồng kiến tạo chuỗi giá trị tương lai'. Hàng chục văn kiện hợp tác được trao, tập trung vào CNTT, AI và bán dẫn, năng lượng tái tạo, giáo dục, y tế, tài chính – ngân hàng, hàng không, nông nghiệp và logistics; hai bên công bố Năm Hợp tác du lịch Việt Nam – Nhật Bản 2027–2028.",
+            "Ông nêu bốn định hướng: cùng nghiên cứu và làm chủ công nghệ (AI, bán dẫn, công nghệ sinh học, năng lượng sạch); nâng tầm liên kết kinh tế, chuỗi giá trị tự chủ; phát triển nhân lực chất lượng cao; và đưa hợp tác công – tư thành phương thức chính, kể cả một mạng lưới đồng sáng tạo công nghệ Việt – Nhật."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-viet-nam-khong-chi-la-noi-dau-tu-ma-la-doi-tac-dong-sang-tao-cua-nhat-ban-100261109142323745.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Người lao động dự kiến được nghỉ hưởng nguyên lương ngày 27/7 từ năm 2027",
+          "meta": "Sáng 9/11 · Tuổi Trẻ, VnExpress",
+          "body": [
+            "Giải trình tại Quốc hội, Bộ trưởng Nội vụ Nguyễn Tiến Hải cho biết đã tiếp thu, bổ sung vào dự án Bộ luật Lao động ngày Thương binh – Liệt sĩ (27/7) hằng năm là ngày người lao động được nghỉ, hưởng nguyên lương, áp dụng từ năm 2027."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/bo-truong-bo-noi-vu-nguoi-lao-dong-du-kien-duoc-nghi-huong-nguyen-luong-ngay-27-7-tu-nam-2027-100261109103911623.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bo-truong-noi-vu-da-bo-sung-ngay-nghi-le-27-7-vao-du-luat-5142361.html"
+            }
+          ]
+        },
+        {
+          "headline": "Chưa bắt buộc đóng BHXH với tài xế công nghệ trong lần sửa luật này",
+          "meta": "Sáng 9/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Theo phương án tiếp thu dự án Luật sửa đổi Luật Bảo hiểm xã hội, cơ quan soạn thảo dự kiến không bổ sung quy định riêng về BHXH bắt buộc với người làm việc không có quan hệ lao động và lao động nền tảng số (xe ôm, giao hàng công nghệ) — khác đề xuất ngày 21/10. Bộ Nội vụ sẽ tiếp tục nghiên cứu để đưa vào lần sửa toàn diện luật giai đoạn 2027–2028.",
+            "Dự luật cũng mở rộng nhóm ngân hàng được nhận tiền gửi của quỹ BHXH sang ngân hàng cổ phần có trên 50% vốn Nhà nước, nhưng cấm gửi vào ngân hàng đang bị kiểm soát đặc biệt. Quốc hội dự kiến biểu quyết ngày 21/11."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chua-mo-rong-dien-dong-bao-hiem-bat-buoc-voi-tai-xe-cong-nghe-5142415.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/bo-truong-bo-noi-vu-lam-ro-ve-mo-rong-doi-tuong-tham-gia-bhxh-bat-buoc-bao-hiem-huu-tri-bo-sung-100261109141458936.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ngân sách trung ương 2027 hơn 2,36 triệu tỷ đồng: 757.200 tỷ cho đầu tư phát triển",
+          "meta": "9/11 · Tuổi Trẻ",
+          "body": [
+            "Quốc hội quyết định tổng chi ngân sách trung ương năm 2027 hơn 2,36 triệu tỷ đồng, trong đó 757.200 tỷ đồng chi đầu tư phát triển và gần 981.000 tỷ đồng chi thường xuyên."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/hon-236-trieu-ti-dong-ngan-sach-trung-uong-nam-2027-duoc-quoc-hoi-phan-bo-ra-sao-100261109143402014.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội nghiên cứu chuyển toàn bộ khai thác quốc tế từ Nội Bài sang sân bay Gia Bình",
+          "meta": "Sáng 9/11 · Tuổi Trẻ",
+          "body": [
+            "Chủ tịch UBND TP Hà Nội Vũ Đại Thắng chủ trì cuộc họp nghe báo cáo phương án kết nối Cảng hàng không quốc tế Gia Bình, quy hoạch hướng tuyến và vị trí ga đường sắt đô thị; trong đó có phương án nghiên cứu chuyển toàn bộ hoạt động khai thác quốc tế từ Nội Bài sang Gia Bình. Trước đó Phó Thủ tướng Thường trực yêu cầu báo cáo phương án kết nối tổng thể trong tháng 11."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nghien-cuu-phuong-an-chuyen-toan-bo-hoat-dong-khai-thac-quoc-te-tu-san-bay-noi-bai-sang-gia-binh-1002611091319079.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Đối thoại quốc phòng Việt Nam – Australia lần 9: đề nghị mở rộng sang công nghiệp quốc phòng, an ninh mạng",
+          "meta": "Sáng 9/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Thượng tướng Nguyễn Trường Thắng, Thứ trưởng Quốc phòng, và Phó tổng thư ký Quốc phòng Australia Hugh Jeffrey đồng chủ trì đối thoại tại Hà Nội. Việt Nam đề nghị mở rộng hợp tác công nghiệp quốc phòng, an ninh mạng, cứu trợ thảm họa, khoa học công nghệ, và sẵn sàng nhận học viên quân sự Australia sang học tiếng Việt.",
+            "Phía Australia cam kết hỗ trợ nâng cao năng lực giám định ADN hài cốt liệt sĩ; đoàn Tư lệnh Lục quân Australia sẽ dự Triển lãm Quốc phòng quốc tế 10–13/12 tại Hà Nội."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/viet-nam-de-nghi-australia-mo-rong-hop-tac-cong-nghiep-quoc-phong-an-ninh-mang-5142436.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/viet-nam-san-sang-don-hoc-vien-quan-su-uc-sang-hoc-tieng-viet-100261109092035688.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Quy hoạch mới: giảm khoảng 30% trường nghề công lập, hình thành 50 trường cao đẳng chất lượng cao",
+          "meta": "9/11 · Tuổi Trẻ",
+          "body": [
+            "Quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp hướng tới giảm khoảng 30% số trường công lập, hình thành 50 trường cao đẳng chất lượng cao, ưu tiên đào tạo các ngành AI và bán dẫn."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/quy-hoach-moi-giam-30-truong-nghe-cong-lap-uu-tien-ai-va-ban-dan-100261109123543125.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Cựu giám đốc chi nhánh SeABank đang trốn truy nã gửi đơn phân trần về vụ án 15 năm trước",
+          "meta": "9/11 · VnExpress",
+          "body": [
+            "Bị xét xử vắng mặt trong vụ án từ 15 năm trước, cựu giám đốc chi nhánh SeABank gửi đơn xin khoan hồng, đề nghị làm rõ trách nhiệm của Hội sở ngân hàng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dang-tron-truy-na-cuu-giam-doc-chi-nhanh-seabank-gui-don-phan-tran-5142411.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Qatar – Trump – Iran, Houthi đánh Riyadh, Dana White, Dân chủ nhắm Hegseth, trước Abu Dhabi, Giáo hoàng và Milei, nữ tổng thống Đức, Hasina.",
+      "items": [
+        {
+          "headline": "Thủ tướng Qatar vào Nhà Trắng gặp Trump; Iran ra 'tối hậu thư', Rubio nói chưa có đột phá",
+          "meta": "9/11 · Al Jazeera, Tuổi Trẻ",
+          "body": [
+            "Ông Trump hội đàm kín với Thủ tướng kiêm Ngoại trưởng Qatar Sheikh Mohammed bin Abdulrahman Al Thani tại Nhà Trắng hôm thứ Hai (giờ Mỹ); Phó tổng thống Vance cũng gặp ông. Iran đã gửi qua Qatar đề xuất 'hai ngày': ngày đầu Mỹ thực hiện một loạt biện pháp, ngày thứ hai Hormuz mở lại — nhưng chỉ bàn sau khi Mỹ đáp ứng 7 điều kiện (gỡ trừng phạt, giảm hiện diện quân sự, giải phóng tài sản phong tỏa, công nhận tuyến hàng hải Iran – Oman…).",
+            "Ngoại trưởng Araghchi cảnh báo Iran sẽ 'giáng địa ngục' nếu Mỹ tấn công lại. Ngoại trưởng Rubio nói yêu cầu của Iran 'phi lý', 'tôi không nói là chúng ta sắp đột phá'; ông Trump nói Mỹ đã xác định thêm mục tiêu, gồm 38 cây cầu, nếu nối lại chiến dịch."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/iran-ra-toi-hau-thu-canh-bao-my-hung-mua-bom-bao-dan-100261109093727257.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Houthi đánh trúng tháp Aramco giữa khu tài chính Riyadh",
+          "meta": "8–9/11 · Tuổi Trẻ, BBC",
+          "body": [
+            "Tòa Aramco Tower ở khu tài chính King Abdullah (Riyadh) bị hư hại, kính vỡ nhiều tầng; Bộ Năng lượng Saudi gọi đây là vụ 'tấn công bất thành', mảnh vỡ gây hư hại nhẹ, không có thương vong. Houthi nhận trách nhiệm; trước đó họ tuyên bố tấn công sân bay King Khalid và cơ sở Aramco gần mỏ Khurais."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/toa-nha-choc-troi-cua-tap-doan-dau-khi-saudi-arabia-trung-don-tan-cong-cua-houthi-100261109103609732.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo"
+            }
+          ]
+        },
+        {
+          "headline": "Trump nói chỉ 'đùa' chuyện mời Dana White làm Thư ký báo chí; thừa nhận chính sách nhập cư 'quá cứng' với cử tri",
+          "meta": "9/11 · BBC, Al Jazeera, Tuổi Trẻ",
+          "body": [
+            "Sau khi đăng Truth Social hôm thứ Bảy bảo ông chủ UFC 'hãy nhận việc', ông Trump nay nói mình chỉ đùa. Ông cũng thừa nhận một số cử tri không hài lòng với chiến dịch trục xuất, gọi chính sách nhập cư là 'quá cứng'."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ong-trump-dinh-chinh-chuyen-dua-trum-vo-dai-ufc-lam-thu-ky-bao-chi-nha-trang-10026110908525301.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Phe Dân chủ ủng hộ luận tội Hegseth, sắp điều tra Elon Musk và Stephen Miller",
+          "meta": "9/11 · Tuổi Trẻ, Al Jazeera",
+          "body": [
+            "Sau khi giành cả hai viện, đảng Dân chủ tuyên bố tăng cường giám sát chính quyền Trump: Elon Musk, tân Chánh văn phòng Nhà Trắng Stephen Miller và một số doanh nghiệp có thể bị điều tra; một lãnh đạo hàng đầu của đảng lên tiếng ủng hộ luận tội Bộ trưởng Pete Hegseth."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/dang-dan-chu-sap-dieu-tra-elon-musk-va-stephen-miller-ung-ho-luan-toi-ong-hegseth-100261109085549213.htm"
+            },
+            {
+              "name": "Al Jazeera (video)",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-top-democrat-backs-impeachment-of-pete-hegseth"
+            }
+          ]
+        },
+        {
+          "headline": "Trước vòng Abu Dhabi: Rubio nói có tiến triển về 'cấu trúc an ninh' hậu chiến; Pháp tuyên bố sẽ ngồi vào bàn",
+          "meta": "8–9/11 · Tuổi Trẻ",
+          "body": [
+            "Ngoại trưởng Mỹ Marco Rubio cho biết có tiến triển về cấu trúc an ninh của Ukraine và châu Âu sau chiến tranh, trước cuộc đàm phán Nga – Ukraine do Washington làm trung gian trong tuần. Paris khẳng định sẽ có mặt ở Abu Dhabi để tiếng nói châu Âu được ghi nhận — trong khi Nga nói châu Âu 'không có chỗ'."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ong-rubio-co-tien-trien-ve-cau-truc-an-ninh-cua-ukraine-va-chau-au-hau-chien-100261109080240867.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/phap-tuyen-bo-buoc-vao-ban-dam-phan-hoa-binh-cho-ukraine-o-abu-dhabi-100261108231348336.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Giáo hoàng Leo XIV đến Buenos Aires, ngầm phê phán chính sách thắt lưng buộc bụng của Milei",
+          "meta": "9/11 · BBC, Al Jazeera",
+          "body": [
+            "'Kinh tế phải phục vụ con người, chứ không phải con người phục vụ kinh tế', Giáo hoàng nói khi tới Argentina — chặng hai của chuyến công du Mỹ Latinh 12 ngày, ba tuần sau ca phẫu thuật ung thư phổi. Ông nhắc người khuyết tật, người bệnh, và nói người cầm quyền phải 'biết giới hạn của quyền lực'. Milei đáp chính phủ ông tránh 'trừng phạt người Argentina ngày mai để có lợi cho người Argentina hôm nay'."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo"
+            },
+            {
+              "name": "Al Jazeera (video)",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power"
+            }
+          ]
+        },
+        {
+          "headline": "Đức sắp có nữ tổng thống đầu tiên: Thủ tướng Merz đề cử bà Ilse Aigner",
+          "meta": "8–9/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Thủ tướng Friedrich Merz thông báo dự định đề cử bà Ilse Aigner (61 tuổi, CSU, cựu Bộ trưởng Nông nghiệp thời Merkel) kế nhiệm Tổng thống Frank-Walter Steinmeier, người hết hai nhiệm kỳ vào tháng 3/2027. SPD trong liên minh cầm quyền đã nhiều lần ủng hộ bà, nên bà gần như chắc chắn đắc cử."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/duc-sap-co-nu-tong-thong-dau-tien-5142294.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/duc-co-the-co-nu-tong-thong-dau-tien-trong-lich-su-100261109094529407.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bà Sheikh Hasina xin hộ chiếu, chuẩn bị về Bangladesh",
+          "meta": "9/11 · Al Jazeera",
+          "body": [
+            "Cựu Thủ tướng Bangladesh bị lật đổ, sống ở Ấn Độ hai năm qua, đã xin cấp hộ chiếu — dấu hiệu cho kế hoạch trở về mà bà hứa sẽ thực hiện trong tháng 12."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Rét đầu mùa và mưa lũ miền Trung, sập mố cầu Thanh Hóa, Phú Quốc thiếu xăng, hiệu trưởng bị chém, dông lốc Đồng Tháp, BHYT người 60–65 tuổi, rạch Văn Thánh.",
+      "items": [
+        {
+          "headline": "Miền Bắc giảm tới 14 độ trong đợt rét đầu mùa; Thanh Hóa mưa hơn 400 mm, Huế – Quảng Ngãi sắp mưa cực lớn",
+          "meta": "Chiều 9/11 · VnExpress",
+          "body": [
+            "Lúc 13h, Cao Bằng còn 14,5°C (giảm 14 độ), Hà Nội 17,5–18,8°C (giảm 11–12,5 độ), Mẫu Sơn 7,4°C, Sa Pa 9,1°C. Đây là đợt rét diện rộng đầu tiên của mùa đông 2026–2027, đúng quy luật (thường 8–17/11).",
+            "Từ 19h 8/11 đến 7h 9/11, Thanh Tân 1 (Thanh Hóa) mưa 440 mm, Như Xuân 403 mm; sông Yên tại Chuối vượt báo động 3. Từ 9 đến đêm 11/11, Huế, Đà Nẵng, đông Quảng Ngãi mưa 250–450 mm, cục bộ trên 700 mm; lũ có thể lên báo động 2 và trên báo động 2."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/mien-bac-giam-14-do-vung-mua-dich-chuyen-den-trung-trung-bo-5142465.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ha-noi-un-tac-keo-dai-trong-mua-lanh-5142284.html"
+            }
+          ]
+        },
+        {
+          "headline": "Sập mố cầu Bái Sim trên tuyến Nghi Sơn – Bãi Trành, giao thông tê liệt",
+          "meta": "Rạng sáng 9/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Khoảng 3h, nước từ sông suối và hồ Yên Mỹ dâng cao, chảy xiết làm sập một bên mố cầu Bái Sim (xã Thanh Kỳ, Thanh Hóa), bên kia xê dịch, mặt đường dẫn nứt gãy. Tuyến dài hơn 50 km nối QL1, khu kinh tế Nghi Sơn với đường Hồ Chí Minh và sân bay Thọ Xuân bị gián đoạn; một số thôn bị ngập, chia cắt."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/sap-mo-cau-tren-tuyen-duong-huyet-mach-o-thanh-hoa-5142319.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/hien-truong-vu-sap-mo-cau-tren-tuyen-giao-thong-huyet-mach-qua-thanh-hoa-100261109143356041.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Phú Quốc thiếu xăng cục bộ: xếp hàng, có nơi chỉ bán 50.000 đồng mỗi xe",
+          "meta": "Sáng 9/11 · VnExpress",
+          "body": [
+            "Nhiều cây xăng ở Dương Đông báo hết xăng hoặc giới hạn mỗi xe 50.000 đồng; người dân chạy qua bốn cây xăng mới mua được. Chủ tịch UBND đặc khu Trần Minh Khoa cho rằng một số cửa hàng có thể đã nhập cầm chừng vì đoán giá sắp giảm mạnh — giá xăng đã giảm ba đợt liên tiếp từ đầu tháng, tổng khoảng 4.600–5.100 đồng/lít."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thieu-xang-cuc-bo-nguoi-dan-phu-quoc-xep-hang-cho-do-5142323.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nhân viên y tế dùng dao chém, truy đuổi hiệu trưởng ngay trong trường ở An Giang",
+          "meta": "9/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Cho rằng hiệu trưởng chậm giải quyết hồ sơ chuyển công tác, Phạm Hoàng Phương, nhân viên y tế Trường THPT An Biên, dùng dao chém và truy đuổi ông trong trường; người này đã bị tạm giữ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hieu-truong-bi-nhan-vien-truy-duoi-tan-cong-trong-truong-5142460.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tam-giu-nhan-vien-y-te-chem-hieu-truong-ngay-tai-truong-100261109133446384.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Dông lốc làm sập, tốc mái 93 căn nhà ở Đồng Tháp; mưa giông quật đổ cổng chào ở Tuy Hòa",
+          "meta": "8–9/11 · Tuổi Trẻ, VnExpress",
+          "body": [
+            "Dông lốc tối 8/11 gây thiệt hại ở các xã Thanh Bình, Đốc Binh Kiều, Tân Long, Tân Thạnh và Trường Xuân (Đồng Tháp). Ở Khánh Hòa, Đăk Lăk, mưa giông quật đổ cây, biển quảng cáo và cổng chào."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/dong-loc-lam-sap-toc-mai-93-can-nha-o-dong-thap-100261109113303626.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/mua-giong-quat-do-cay-cong-chao-o-khanh-hoa-dak-lak-5142441.html"
+            }
+          ]
+        },
+        {
+          "headline": "TP.HCM tính hỗ trợ 100% phí BHYT cho gần 196.000 người 60–dưới 65 tuổi từ 2027",
+          "meta": "9/11 · Tuổi Trẻ",
+          "body": [
+            "Người từ 60 đến dưới 65 tuổi thường trú tại TP.HCM, chưa có thẻ BHYT theo chính sách khác, có thể được thành phố hỗ trợ toàn bộ phí mua thẻ từ 1/1/2027."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/gan-196000-nguoi-tu-60-den-duoi-65-tuoi-o-tphcm-co-the-duoc-ho-tro-100-phi-bhyt-tu-nam-2027-100261109151634813.htm"
+            }
+          ]
+        },
+        {
+          "headline": "TP.HCM khởi công cải tạo rạch Văn Thánh, mở thêm đường ven rạch",
+          "meta": "Sáng 9/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Dự án cải tạo rạch Văn Thánh ở trung tâm TP.HCM khởi công, kèm mở đường ven rạch."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khoi-cong-cai-tao-rach-van-thanh-o-trung-tam-tp-hcm-5142379.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tphcm-bat-dau-cai-tao-rach-van-thanh-mo-them-duong-ven-rach-100261109095836818.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Chìm thuyền ngoài khơi Senegal, hậu vụ Kraków, khói bụi New Delhi, mưa ngập Gaza.",
+      "items": [
+        {
+          "headline": "Chìm thuyền di cư ngoài khơi Senegal: ít nhất 34 người chết trên đường tới Canary",
+          "meta": "9/11 · BBC",
+          "body": [
+            "Thuyền gỗ nhỏ lật giữa Dakar và Saint-Louis; mới cứu được một người, số mất tích chưa rõ. Tổ chức Walking Borders ghi nhận 635 người chết trên tuyến Đại Tây Dương tới Canary từ tháng 1 đến tháng 5/2026 — khoảng 21 người chết trên mỗi 100 người tới nơi. Đảo El Hierro (Tây Ban Nha) đã ban bố tình trạng khẩn cấp sau khi hơn 3.300 người tới chỉ trong đầu tháng 11."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go"
+            }
+          ]
+        },
+        {
+          "headline": "Kraków: nghi phạm xả súng tử vong trong bệnh viện, cảnh sát thấy thêm thi thể cha mẹ và em gái hắn",
+          "meta": "9/11 · Tuổi Trẻ, BBC",
+          "body": [
+            "Nghi phạm vụ xả súng khiến 6 người chết ở Kraków (Ba Lan) đã chết tại bệnh viện; tại nhà riêng, cảnh sát phát hiện thi thể cha mẹ và em gái người này."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nghi-pham-xa-sung-o-ba-lan-tu-vong-canh-sat-phat-hien-them-3-thi-the-10026110915222918.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o"
+            }
+          ]
+        },
+        {
+          "headline": "New Delhi chìm trong khói bụi độc hại sau pháo Diwali",
+          "meta": "9/11 · Al Jazeera",
+          "body": [
+            "Chất lượng không khí ở thủ đô Ấn Độ lên mức 'nghiêm trọng', đe dọa sức khỏe hơn 30 triệu cư dân."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality"
+            }
+          ]
+        },
+        {
+          "headline": "Gaza: mưa ngập lều trại, 'lều không che nổi chúng tôi'",
+          "meta": "9/11 · Al Jazeera",
+          "body": [
+            "Hàng trăm nghìn người Palestine sơ tán dễ bị ngập lụt khi Israel tiếp tục chặn nhà di động vào Gaza."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Nghệ sĩ piano 9 giờ giữa biển, ngôi trường tên Junko, bé gái trước cổng chùa, robot hạt nhân của NASA — và ba sự kiện ngày 9/11 (Bức tường Berlin 1989, Saturn V 1967, mất điện Đông Bắc Mỹ 1965).",
+      "items": [
+        {
+          "headline": "Rơi khỏi tàu du lịch, nghệ sĩ piano trôi 9 giờ giữa Thái Bình Dương và được ngư dân cứu",
+          "meta": "9/11 · BBC",
+          "body": [
+            "Hai ngư dân Mỹ phát hiện một nhân viên tàu Ovation of the Seas (Royal Caribbean) đang đạp nước cách bờ California khoảng 32 km, gần đảo Catalina. Lực lượng cứu hộ tin ông rơi xuống biển khoảng 2h30 sáng. 'Cảm ơn. Tôi tưởng mình chết rồi', ông nói. Ngư dân cho rằng nước ấm bất thường (~24°C) trong năm El Niño cực mạnh đã cứu ông."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o"
+            }
+          ]
+        },
+        {
+          "headline": "Ngôi trường mới sau sáp nhập vẫn mang tên cô gái Nhật Junko",
+          "meta": "9/11 · Tuổi Trẻ",
+          "body": [
+            "Ba thập kỷ sau khi một cô gái Nhật qua đời với ước nguyện dang dở, chính quyền địa phương quyết định giữ tên Junko cho ngôi trường mới gộp từ 3 trường tiểu học — đúng lúc người đứng đầu Đảng, Nhà nước đang thăm Nhật."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/co-gai-nhat-ban-duoc-lay-ten-cho-ngoi-truong-moi-sau-sap-nhap-100261109123153572.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bé gái sơ sinh bị bỏ trước cổng chùa với lá thư 'mong cưu mang nuôi dưỡng bé'",
+          "meta": "9/11 · Tuổi Trẻ",
+          "body": [
+            "Một cặp vợ chồng đến chùa Vĩnh thắp hương phát hiện bé gái sơ sinh bị bỏ rơi trước cổng, kèm lá thư nhờ người cưu mang."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/be-gai-so-sinh-bi-bo-roi-truoc-cong-chua-voi-loi-nhan-mong-cuu-mang-nuoi-duong-be-100261109151734147.htm"
+            }
+          ]
+        },
+        {
+          "headline": "NASA phát triển robot thám hiểm chạy hạt nhân tìm tài nguyên trên Mặt trăng",
+          "meta": "9/11 · Tuổi Trẻ",
+          "body": [
+            "NASA đẩy mạnh chuẩn bị đưa người trở lại Mặt trăng: phát triển robot hạt nhân tìm tài nguyên và tuyển thêm phi hành gia để xây căn cứ lâu dài."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nasa-dua-robot-hat-nhan-tim-tai-nguyen-tren-mat-trang-tuyen-them-phi-hanh-gia-100261109141454103.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay · 9/11/1989: Bức tường Berlin mở cửa",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Đông Đức mở các trạm kiểm soát trên Bức tường Berlin, cho phép công dân sang Tây Berlin — sự kiện được gọi là sự sụp đổ của Bức tường Berlin. (Vừa tròn 37 năm.)"
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – November 9",
+              "url": "https://en.wikipedia.org/wiki/November_9"
+            },
+            {
+              "name": "Wikipedia – Fall of the Berlin Wall",
+              "url": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay · 9/11/1967: tên lửa Saturn V bay lần đầu",
+          "meta": "Khoa học · Wikipedia",
+          "body": [
+            "NASA phóng tàu thử nghiệm không người lái Apollo 4 trên tên lửa Saturn V đầu tiên từ Cape Kennedy (Florida) — loại tên lửa sau này đưa con người lên Mặt trăng."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – November 9",
+              "url": "https://en.wikipedia.org/wiki/November_9"
+            },
+            {
+              "name": "Wikipedia – Apollo 4",
+              "url": "https://en.wikipedia.org/wiki/Apollo_4"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay · 9/11/1965: mất điện lớn ở Đông Bắc Mỹ",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Một loạt sự cố mất điện kéo dài tới 13 giờ ảnh hưởng nhiều bang của Mỹ và một phần Canada (Northeast blackout of 1965)."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – November 9",
+              "url": "https://en.wikipedia.org/wiki/November_9"
+            },
+            {
+              "name": "Wikipedia – Northeast blackout of 1965",
+              "url": "https://en.wikipedia.org/wiki/Northeast_blackout_of_1965"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 9/11/2026 (giờ VN). Không lặp tin số sáng (Stephen Miller, Herzog – Eisenkot, Paraguay, ANC, tàu hỏa Ai Cập, xén vỉa hè, bóng đá…) trừ khi có cập nhật cùng ngày (Iran, Tô Lâm tại Nhật, Giáo hoàng ở Argentina, không khí lạnh)."
+}
