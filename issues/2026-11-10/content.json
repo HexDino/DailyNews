@@ -1,0 +1,1163 @@
+{
+  "date": "2026-11-10",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 10/11/2026 · Thứ Ba · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Anthropic ra mắt Claude Fable 5.2 và Mythos 5.2: vượt Opus 5.5, giá API giảm còn 8/40 USD",
+    "Nvidia mất ~300 tỷ USD vốn hóa; ông Trump nói FBI điều tra vụ Jensen Huang",
+    "Ông Trump nói chiến tranh Iran 'về cơ bản đã kết thúc' nhưng giữ phong tỏa; Iran gọi là 'tin giả'",
+    "Đàm phán Nga – Mỹ – Ukraine nối lại tại Abu Dhabi 10–11/11",
+    "Việt Nam – Nhật Bản thông qua tuyên bố Tầm nhìn chung; Nhật cam kết hơn 43,1 tỷ yen",
+    "Meta ra Muse Ember giá 0,10 USD/1 triệu token; Anthropic mua 3,4 tỷ USD tuabin khí",
+    "FIFPRO World 11: Kane vắng mặt, Messi trở lại; U17 Việt Nam thắng Fiji 2-0",
+    "James Gunn rời ghế lãnh đạo DC Studios; Russell Brand lĩnh 10 năm rưỡi tù",
+    "Bắc Bộ rét, Trung Bộ mưa to; mua vé tàu ngay trên VNeID",
+    "Khuyến mãi: Claude Pro được dùng Fable 5.2 trong gói đến 16/11"
+  ],
+  "followups": [
+    {
+      "title": "Căng thẳng Mỹ – Iran và eo biển Hormuz",
+      "update": "Tối 9/11 (giờ Mỹ), sau khi gặp Thủ tướng Qatar, ông Trump nói chiến tranh 'về cơ bản đã kết thúc', Mỹ giữ 'nguyên trạng' gồm phong tỏa hải quân và lực lượng Iron Gate; Iran bác là 'tin giả'.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-15",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử giữa kỳ Mỹ (3/11)",
+      "update": "Ông Trump đặt nghi vấn về kết quả mà không có bằng chứng; Dân chủ có 54 ghế Thượng viện, 254 ghế Hạ viện (BBC). Nghị sĩ Cộng hòa Massie ép bỏ phiếu luận tội Bộ trưởng Hegseth trong tuần.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-30-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o"
+        },
+        {
+          "name": "BBC (Hegseth)",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
+        }
+      ]
+    },
+    {
+      "title": "IPO của Anthropic (mã ANT, Nasdaq)",
+      "update": "Ngay trước roadshow, Anthropic ra mắt Fable 5.2/Mythos 5.2 (9/11) và theo FT mua 3,4 tỷ USD tuabin khí. Ngày niêm yết vẫn chưa được công bố.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-03",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+        }
+      ]
+    },
+    {
+      "title": "Chuyến thăm Nhật Bản của Tổng Bí thư, Chủ tịch nước Tô Lâm (8–11/11)",
+      "update": "9/11: thông qua tuyên bố Tầm nhìn chung với Thủ tướng Takaichi; Nhật cam kết hơn 43,1 tỷ yen cho hai dự án; sáng 10/11 tiếp lãnh đạo ngân hàng, tập đoàn lớn Nhật.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-07",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-va-thu-tuong-nhat-ban-thong-qua-tuyen-bo-tam-nhin-chung-100261109204549756.htm"
+        }
+      ]
+    },
+    {
+      "title": "Bê bối CEO Nvidia Jensen Huang",
+      "update": "Cổ phiếu Nvidia giảm 6,5% đầu phiên 9/11; ông Trump nói FBI đang điều tra và ông tin ông Huang không biết bà Alice Huang là gián điệp; Trung Quốc bác cáo buộc.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-09",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/co-phieu-nvidia-lao-doc-sau-be-boi-ngoai-tinh-cua-jensen-huang-5142650.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-10",
+      "title": "Cảnh báo mưa lớn Huế – Đà Nẵng – đông Quảng Ngãi đến đêm 11/11 (250–450 mm, cục bộ >700 mm)",
+      "topic": "Đời sống",
+      "note": "Lũ sông ở Huế có thể lên báo động 2 và trên báo động 2; mưa giảm từ 12/11.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/mien-bac-giam-14-do-vung-mua-dich-chuyen-den-trung-trung-bo-5142465.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Grab bắt đầu giảm phí nền tảng với chuyến xe ngắn",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/grab-giam-phi-boi-hoan-39-ti-dong-cho-tai-xe-bat-dau-tu-hom-nay-100261105143741253.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi (10–11/11)",
+      "topic": "Chính trị",
+      "note": "Medinsky dẫn đầu đoàn Nga.",
+      "sources": [
+        {
+          "name": "Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/kremlin-confirms-trilateral-ukraine-peace-talks-in-abu-dhabi-next-week"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Kết thúc vòng đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi",
+      "topic": "Chính trị",
+      "note": "Sau đó Witkoff và Kushner có thể tới Moscow và Kyiv (theo Axios).",
+      "sources": [
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/11/09/ukraine-russia-zelensky-putin-peace-abu-dhabi"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Việt Nam – Đài Bắc Trung Hoa (sân Thiên Trường, Ninh Bình)",
+      "topic": "Bóng đá",
+      "note": "Giải diễn ra 11–17/11.",
+      "sources": [
+        {
+          "name": "VFF",
+          "url": "https://www.vff.org.vn/cong-bo-giai-bong-da-giao-huu-quoc-te-casper-cup-2026-cho-doi-nhung-cuoc-so-tai-dang-cap/"
+        },
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Quốc hội chất vấn cả ngày: Bộ trưởng Tài chính Ngô Văn Tuấn, Bộ trưởng KH&CN Vũ Hải Quân",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/quoc-hoi-se-chat-van-cac-thanh-vien-chinh-phu-xem-xet-dieu-chinh-dia-gioi-giua-ha-noi-va-phu-tho-100261108145112745.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Đài Bắc Trung Hoa – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Hạn các xã, phường Hà Nội báo cáo rà soát an toàn trường học (sau vụ Kim Liên)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Báo Hôm Nay",
+          "url": "https://www.baohomnay.com/Giao-duc/3-000-hoc-sinh-THCS-Kim-Lien-chuyen-sang-hoc-truc-tuyen-tu-6-11-3753262.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Thông tư 81 có hiệu lực: cấm thu quỹ lớp kiểu cũ",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/cam-quy-lop-tu-15-11-ban-doc-hoan-nghenh-nhung-lo-ngai-binh-moi-ruou-cu-100261106141317645.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "title": "New Zealand áp dụng thị thực mới: du học sinh ở lại làm việc thêm 6 tháng",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/new-zealand-cho-phep-du-hoc-sinh-o-lai-lam-viec-them-6-thang-100261106135240169.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "title": "Hết hạn ưu đãi Claude Fable 5.2 cho gói Pro và ghế standard Team (dùng Fable trong gói + 1 lượt reset)",
+      "topic": "Công nghệ",
+      "note": "Tức khoảng 14:59 ngày 17/11 giờ VN. Lượt reset của Max/Ultra dùng được đến 8/3/2027.",
+      "sources": [
+        {
+          "name": "Claude Help Center",
+          "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Việt Nam – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "note": "Trận được lùi từ 15/11 sang 17/11.",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Khai mạc U17 World Cup 2026 (19/11–13/12); Việt Nam ở bảng G cùng Bỉ, New Zealand, Mali",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/u17-viet-nam-thang-u17-fiji-2-0-10026110921512995.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Hết lệnh tạm dừng 14 ngày xây 'khải hoàn môn' ở Washington (dự kiến, tính từ 6/11)",
+      "topic": "Chính trị",
+      "note": "Tòa có thể gia hạn hoặc ra phán quyết tiếp theo.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến biểu quyết Luật sửa đổi Luật Bảo hiểm xã hội",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chua-mo-rong-dien-dong-bao-hiem-bat-buoc-voi-tai-xe-cong-nghe-5142415.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến thông qua chủ trương 3 cao tốc mới và nghị quyết đặc thù du lịch",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress – cao tốc",
+          "url": "https://vnexpress.net/trinh-quoc-hoi-dau-tu-them-ba-du-an-cao-toc-5141815.html"
+        },
+        {
+          "name": "VnExpress – du lịch",
+          "url": "https://vnexpress.net/de-xuat-uu-dai-lon-cho-cac-du-an-du-lich-ty-usd-5141836.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "TP.HCM bắn pháo hoa tầm cao tại ba điểm",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tp-hcm-ban-phao-hoa-tam-cao-ba-diem-ngay-24-11-5141981.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hạn gửi Bộ Xây dựng đề xuất kết nối sân bay Gia Bình – trung tâm Hà Nội (đường sắt đô thị)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/pho-thu-tuong-uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-ha-noi-5142080.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Jeremy Latcham tiếp quản DC Studios thay James Gunn và Peter Safran",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "time": "",
+      "title": "Hạn 28 ngày để ông Eisenkot gom đủ 61 phiếu lập chính phủ Israel (tính từ 7/11; có thể gia hạn tối đa 14 ngày)",
+      "topic": "Chính trị",
+      "note": "Ngày 5/12 là mốc tính toán từ thông báo ngày 7/11.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/doi-thu-cua-thu-tuong-israel-duoc-chi-dinh-thanh-lap-chinh-phu-moi-5142108.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Sân bay Cà Mau dự kiến hoạt động trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/san-bay-ca-mau-lui-ngay-khai-thac-tro-lai-den-18-12-5141694.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Hạn đề xuất hoàn thành 6 dự án dịch vụ sân bay Long Thành",
+      "topic": "Xây dựng",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-lui-han-hoan-thanh-6-du-an-tai-san-bay-long-thanh-5141701.html"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Anthropic ra mắt Claude Fable 5.2 và Mythos 5.2: mạnh hơn Opus 5.5, rẻ hơn bản 5.1",
+          "meta": "Anthropic · TechCrunch · 9/11",
+          "body": [
+            "Ngày 9/11 (giờ Mỹ), Anthropic nâng cấp hai mô hình cao cấp nhất. Fable và Mythos là cùng một mô hình gốc: Fable có bộ lọc an ninh mạng và sinh học nên mở cho mọi người dùng trả phí; Mythos dành cho tổ chức được duyệt qua chương trình Cyber Verification và Life Sciences Verification. Giá API giảm còn 8 USD/1 triệu token vào và 40 USD/1 triệu token ra; chế độ 'fast' (nhanh tới 2,5 lần) giá 16/80 USD. Tốc độ sinh chữ nhanh hơn bản 5.1 tới 30%.",
+            "Theo bảng điểm Anthropic công bố, Fable 5.2 đạt 49,1% FrontierCode 2.0 (Opus 5.5: 45,5%, GPT-6 Astra: 42,8%) và 69,9% FrontierSWE v2. Hãng kể một nhóm 1.000 tác tử Fable 5.2 đã hình thức hóa chứng minh Định lý Fermat lớn trong Lean trong 30 giờ, và mô hình giải được hai bài toán mở về lỗ đen. Đây đều là số liệu và ví dụ do Anthropic tự công bố.",
+            "Anthropic vẫn khuyên dùng Opus 5.5 cho phần lớn việc lập trình hằng ngày, chỉ chuyển lên Fable cho việc khó và dài. TechCrunch lưu ý bản phát hành đến giữa lúc giới quan sát lo ngại về AI tự cải tiến (RSI); Anthropic nói đã chủ động hạn chế năng lực tối ưu kernel và kiến trúc LLM của mô hình ở mức ngang Opus 5.5."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+            }
+          ]
+        },
+        {
+          "headline": "Anthropic chi 3,4 tỷ USD mua tuabin khí cho trung tâm dữ liệu",
+          "meta": "TechCrunch (theo Financial Times) · 9/11",
+          "body": [
+            "Theo TechCrunch dẫn Financial Times, Anthropic mua các tổ máy phát Caterpillar mà nhà cung cấp OnePWR đặt trước đó, tổng công suất tới 1,7 GW, trị giá 3,4 tỷ USD. Đây là bước ngoặt vì trước nay công ty thường thuê chứ không mua hạ tầng vật lý.",
+            "Thương vụ diễn ra khi Anthropic chuẩn bị IPO và cơn khát điện của ngành AI ngày càng gay gắt; Anthropic chưa công bố chi tiết nơi đặt các tuabin."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+            }
+          ]
+        },
+        {
+          "headline": "Meta ra Muse Ember: mô hình nhỏ nhất, giá 0,10 USD/1 triệu token, chuyên làm 'tác tử phụ'",
+          "meta": "Meta · TechCrunch · 9/11",
+          "body": [
+            "Meta Superintelligence Lab phát hành Muse Ember, mô hình nhẹ và rẻ nhất của họ, thiết kế cho phần việc tác tử lặp lại cả ngày: gọi công cụ, việc lập trình nhỏ, định tuyến, trích xuất và đọc tài liệu dài. Giá 10 cent cho 1 triệu token đầu vào, rẻ hơn đáng kể so với Haiku của Anthropic và Luna của OpenAI, theo TechCrunch.",
+            "Meta định vị Ember để ghép cặp với mô hình lớn hơn như Muse Wonder trong một bộ khung tác tử; các con số so sánh hiệu năng và chi phí là do Meta dẫn từ Artificial Analysis."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Meta AI",
+              "url": "https://research.meta.ai/blog/muse-ember"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+            }
+          ]
+        },
+        {
+          "headline": "Apple bán 'gói dùng thêm' Apple Intelligence giá 49,99 USD",
+          "meta": "The Verge (theo 9to5Mac) · 9/11",
+          "body": [
+            "Apple thêm lựa chọn 'Buy More Usage' trong Logic Pro: mua một lần 49,99 USD để tiếp tục dùng các tính năng Apple Intelligence có giới hạn vì chạy trên mô hình đám mây của OpenAI hoặc Google Gemini, như trợ lý AI trong Logic Pro.",
+            "Gói chỉ dùng cho tài khoản Apple đã mua (không chia sẻ gia đình); phần chưa dùng được cộng dồn sang tháng sau nhưng hết hạn sau 12 tháng kể từ ngày mua."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "kunchenguid/headless — skill cho agent tự dựng máy Mac/Linux/Windows không màn hình qua SSH",
+          "meta": "GitHub · MIT · tạo 7/11 · ~172★",
+          "body": [
+            "Theo mô tả của tác giả, đây là một Agent Skill hướng dẫn coding agent cài đặt một máy headless (macOS, Linux hoặc Windows) qua SSH từng bước, mà agent không bao giờ nhìn thấy mật khẩu quản trị.",
+            "Hữu ích khi muốn biến máy cũ thành máy chạy agent; vẫn nên tự kiểm tra các lệnh trước khi cấp quyền SSH."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/kunchenguid/headless"
+            }
+          ]
+        },
+        {
+          "headline": "drost-ai/tinker-ai-skill — biến phiên làm việc Claude Code của chính bạn thành dữ liệu fine-tune",
+          "meta": "GitHub · MIT · tạo 7/11 · ~288★",
+          "body": [
+            "README cho biết skill này đưa cho agent (Claude Code, Codex, OpenCode) quy trình hoàn chỉnh để chuyển các phiên làm việc với coding agent thành bộ dữ liệu fine-tune có giám sát, huấn luyện LoRA trên dịch vụ Tinker rồi chạy mô hình tại máy; tác giả nói đây là công thức đứng sau Tess-4 và Tess-4.5.",
+            "Lưu ý: dữ liệu phiên làm việc có thể chứa mã nguồn và bí mật của bạn — cần lọc trước khi gửi đi huấn luyện."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/drost-ai/tinker-ai-skill"
+            }
+          ]
+        },
+        {
+          "headline": "stevenmichaelthomas/numbrone — 'chánh văn phòng' điều phối nhiều coding agent theo dự án",
+          "meta": "GitHub · MIT · tạo 8/11 · ~107★",
+          "body": [
+            "Bạn giao yêu cầu bằng ngôn ngữ thường cho một agent 'chief'; nó xác định yêu cầu thuộc dự án nào và chuyển cho agent quản lý của dự án đó, agent này chạy nhiều worker song song, mỗi worker trong một git worktree riêng. Tất cả chạy trong herdr để bạn theo dõi bất kỳ agent nào.",
+            "Dự án cộng đồng, không do đội herdr làm."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/stevenmichaelthomas/numbrone"
+            }
+          ]
+        },
+        {
+          "headline": "gokayfem/image-to-sculpt — skill dựng mô hình 3D từ một ảnh, có đo sai lệch với ảnh gốc",
+          "meta": "GitHub · MIT · tạo 8/11 · ~189★",
+          "body": [
+            "Skill cho coding agent (Claude Code, Codex, Cursor, Copilot, Gemini) dựng khối 3D kín khớp với pháp tuyến, đường viền và độ sâu của chính bức ảnh, bổ sung mặt khuất từ các góc nhìn sinh ra (phải nhất quán với nhau trước), và ghi lại từng bước để Blender phát lại thành timelapse."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/gokayfem/image-to-sculpt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Cổ phiếu Nvidia mất hơn 6%; ông Trump nói FBI đang điều tra vụ Jensen Huang",
+          "meta": "BBC · VnExpress · 9/11",
+          "body": [
+            "Mở cửa phiên 9/11, cổ phiếu Nvidia giảm 6,5% xuống hơn 174 USD, vốn hóa mất khoảng 300 tỷ USD, còn 4.200 tỷ USD (VnExpress). Nvidia đã mở điều tra độc lập về việc CEO Jensen Huang có là mục tiêu tình báo nước ngoài hay không, sau tin ông có quan hệ với bà Alice Huang, người bị nghi là đặc tình Trung Quốc; ông Huang đã thừa nhận ngoại tình.",
+            "Ông Trump nói FBI đang điều tra, và ông Huang khẳng định 'không biết bà ấy là gián điệp' — 'tôi thực sự tin ông ấy'. Bộ Ngoại giao Trung Quốc bác cáo buộc là 'hoàn toàn vô căn cứ'. TechCrunch cho biết ông Huang đã rút khỏi hội nghị ElevenLabs Summit."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/co-phieu-nvidia-lao-doc-sau-be-boi-ngoai-tinh-cua-jensen-huang-5142650.html"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+            }
+          ]
+        },
+        {
+          "headline": "Pháp quy trách nhiệm cho Iran về loạt tấn công mạng vào tủ đông siêu thị và ngân hàng máu",
+          "meta": "TechCrunch · BBC · 9/11",
+          "body": [
+            "Chính phủ Pháp chính thức cáo buộc Iran đứng sau các vụ tấn công vào hàng nghìn tủ lạnh, tủ đông công nghiệp nối mạng ở Pháp và châu Âu, gồm cả ở siêu thị và ngân hàng máu.",
+            "Theo TechCrunch, đây là vụ mới nhất trong chuỗi tấn công phá hoại bị quy cho Iran trong năm nay, sau các vụ nhắm vào nhà cung cấp nước Mỹ và hãng thiết bị y tế Stryker."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo"
+            }
+          ]
+        },
+        {
+          "headline": "Wyndham để lộ dữ liệu khách hàng vì mật khẩu viết cứng trong ứng dụng",
+          "meta": "TechCrunch · 9/11",
+          "body": [
+            "Theo TechCrunch, ứng dụng khách hàng của tập đoàn khách sạn Wyndham chứa một thông tin xác thực viết cứng (hardcoded credential), cho phép bất kỳ ai truy cập thông tin cá nhân của khách. Lỗ hổng do một nhà nghiên cứu bảo mật thiện chí phát hiện; Wyndham thừa nhận sự cố nhưng không nói có kiểm tra được truy cập trái phép trước đó hay không."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/"
+            }
+          ]
+        },
+        {
+          "headline": "Mua vé tàu hỏa ngay trên VNeID từ 9/11",
+          "meta": "VnExpress · 9/11",
+          "body": [
+            "Từ 9/11, hành khách có thể tìm chuyến, chọn chỗ, đặt và thanh toán vé tàu mọi tuyến ngay trên VNeID (cần tài khoản định danh mức 2): gõ 'giao' ở ô tìm kiếm, chọn 'Dịch vụ giao thông' rồi 'Tàu hỏa'. Mỗi giao dịch tối đa 10 vé, thanh toán trong 10 phút bằng QR ngân hàng, thẻ ATM nội địa hoặc thẻ quốc tế; có thể đặt hộ và gửi vé điện tử sang tài khoản VNeID người khác."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/mua-ve-tau-hoa-qua-vneid-5142609.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "Khuyến mãi đặc biệt",
+      "title": "Công nghệ · Khuyến mãi đặc biệt",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Claude Fable 5.2: gói Pro được dùng Fable miễn phí trong gói đến 16/11, Max/Ultra nhận 1–3 lượt reset",
+          "meta": "Claude Help Center · 9/11",
+          "body": [
+            "Ưu đãi: Pro và ghế standard của Team được dùng mọi mô hình Fable trong hạn mức gói tới 23:59 ngày 16/11/2026 (giờ Thái Bình Dương, tức khoảng 14:59 ngày 17/11 giờ VN), tối đa 50% hạn mức tuần, kèm một lượt 'Fable reset' (hết hạn cùng lúc). Max, Ultra, ghế premium Team và ghế premium Enterprise kiểu cũ nhận 1 lượt reset (đăng ký trả phí dưới 6 tháng), 2 lượt (6–12 tháng) hoặc 3 lượt (trên 12 tháng), dùng đến 8/3/2027.",
+            "Điều kiện: tài khoản phải có thanh toán trả phí trước 10:00 sáng 9/11 giờ PT; gói Free và một số gói Enterprise không được áp dụng. Một lượt reset trả lại phần hạn mức tuần đã tiêu cho Fable và nạp đầy cửa sổ 5 giờ, không nâng hạn mức.",
+            "Cách nhận: vào Settings > Usage trên web, Claude Desktop hoặc app di động, bấm 'Reset for free' (nút này chưa có trong Claude Code ở terminal/IDE). Lưu ý: Anthropic cảnh báo mô hình Fable tiêu hạn mức nhanh hơn các mô hình Claude khác."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Claude Help Center",
+              "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers"
+            },
+            {
+              "name": "Anthropic",
+              "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "BIM & openBIM",
+      "title": "Xây dựng · BIM & openBIM",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "OSArch bàn cách xử lý mép và lỗ mở trong tường, sàn nhiều lớp ở Bonsai",
+          "meta": "OSArch Community · 8/11",
+          "body": [
+            "Một thành viên hỏi cách cắt tường nhiều lớp (vữa, gạch, cách nhiệt, đá) tại vị trí cửa sổ để có mép bọc đúng. Các thành viên gợi ý thêm lớp lót và bậu cửa vào loại cửa sổ, hoặc dùng một property set tùy biến gắn vào IfcMaterialLayer để sinh hình học mép tự động.",
+            "Người đề xuất nói rõ ý tưởng pset điều khiển hình học chỉ là phác thảo, Bonsai chưa có tính năng này."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch",
+              "url": "https://community.osarch.org/discussion/3794/capping-edges-and-opening-cuts-in-layered-walls-and-slabs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Phần mềm",
+      "title": "Xây dựng · Phần mềm",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Graphisoft giải thích Archicad MCP (Beta): AI sửa hàng loạt dữ liệu mô hình BIM",
+          "meta": "Graphisoft · 9/11",
+          "body": [
+            "Bài viết ngày 9/11 của Graphisoft mô tả hai cách dùng Archicad MCP (Beta): trợ lý AI tác tử ngay trong Archicad (không cần cài thêm) để hỏi thông tin dự án, sửa dữ liệu mô hình bằng ngôn ngữ tự nhiên; hoặc nối AI bên ngoài vào dữ liệu Archicad qua MCP.",
+            "Theo ENGtechnica, MCP server và trợ lý AI nằm trong gói Archicad Max mới (đi cùng Archicad 30), có bản xem trước thay đổi trước khi thực thi, và kiến trúc MCP để mở cho Claude, ChatGPT. Tính năng còn ở giai đoạn beta."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Graphisoft",
+              "url": "https://www.graphisoft.com/en-us/pulse/archicad-mcp-ai-automation-of-repetitive-bim-tasks-for-architects/"
+            },
+            {
+              "name": "ENGtechnica",
+              "url": "https://engtechnica.com/graphisoft-builds-agentic-ai-into-archicad-and-its-new-aec-cloud-platform/"
+            }
+          ]
+        },
+        {
+          "headline": "Autodesk mở beta Informed Design for Fusion: xuất sản phẩm từ Fusion sang RFA cho Revit",
+          "meta": "Autodesk Fusion Blog · 5/11",
+          "body": [
+            "Nhà sản xuất vật liệu, sản phẩm xây dựng thiết kế trong Fusion nay có thể định nghĩa sản phẩm cấu hình được bằng tham số và bảng cấu hình, tạo hình học đơn giản hóa, xuất trực tiếp RFA hoặc 'BIM Representation RFA' cho Revit, và gán dữ liệu BIM để file Revit kế thừa thông tin nhất quán.",
+            "Đây là bản open beta; Autodesk nói tính năng và quy trình có thể thay đổi trước bản chính thức."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Autodesk",
+              "url": "https://www.autodesk.com/products/fusion-360/blog/informed-design-for-fusion-open-beta/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Thảo luận cộng đồng",
+      "title": "Xây dựng · Thảo luận cộng đồng",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "OSArch: chia sẻ quy trình dùng chung mô hình Bonsai cho BIM và diễn họa trong Blender, cùng hướng dẫn dùng AI với 'BIM Compiler CLI'",
+          "meta": "OSArch Community · 8/11",
+          "body": [
+            "Ngày 8/11 diễn đàn có hai chủ đề mới đáng chú ý: một bài hỏi cách dùng chung một mô hình 3D BIM giữa Bonsai và phần diễn họa trong Blender, và một bài giới thiệu cách dùng AI với công cụ dòng lệnh 'BIM Compiler'. Cùng ngày, một thành viên chia sẻ cột mốc 1,5 năm dùng Bonsai hằng ngày làm BIM modeller.",
+            "Chúng tôi chỉ đọc được tiêu đề và phần mở đầu; nên xem thảo luận gốc để biết chi tiết."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "OSArch (quy trình)",
+              "url": "https://community.osarch.org/discussion/3793/workflow-in-blender-sharing-a-3d-bim-model-with-bonsai-and-the-same-for-visualizations"
+            },
+            {
+              "name": "OSArch (BIM Compiler)",
+              "url": "https://community.osarch.org/discussion/3791/how-to-use-ai-on-our-bim-compiler-cli"
+            },
+            {
+              "name": "OSArch (1,5 năm Bonsai)",
+              "url": "https://community.osarch.org/discussion/3790/1-5-years-of-daily-bonsai-work-as-a-bim-modeller-thank-you-osarch-community"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "FIFPRO World 11 năm 2026: Kane vắng mặt dù có Quả Bóng Vàng, Messi trở lại",
+          "meta": "VnExpress · BBC Sport · 9/11",
+          "body": [
+            "FIFPRO công bố đội hình tiêu biểu năm 2026 tối 9/11, dựa trên phiếu của 19.806 cầu thủ chuyên nghiệp từ 73 quốc gia. Harry Kane, chủ nhân Quả Bóng Vàng 2026, bị Haaland vượt mặt (27,6% so với 28,4%). Mbappe có tỷ lệ phiếu cao nhất (46,0%), tiếp theo là Lamine Yamal (37,4%) và Messi (29,5%).",
+            "Messi, 39 tuổi, trở lại lần đầu kể từ 2023, nâng kỷ lục lên 18 lần được chọn; Cristiano Ronaldo vắng mặt với 13,2% phiếu. Ở bóng đá nữ, BBC cho biết Lucy Bronze được chọn lần thứ chín, một kỷ lục."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/kane-bi-loai-messi-co-ten-trong-doi-hinh-hay-nhat-nam-5142667.html"
+            },
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo"
+            }
+          ]
+        },
+        {
+          "headline": "U17 Việt Nam thắng U17 Fiji 2-0, hoàn tất ba trận tập trước U17 World Cup",
+          "meta": "Tuổi Trẻ · VnExpress · 9/11",
+          "body": [
+            "U17 Việt Nam thắng U17 Fiji 2-0 trong trận đấu tập; VnExpress cho biết đội đã thắng cả ba trận tập. U17 World Cup 2026 diễn ra 19/11–13/12 với 48 đội; Việt Nam ở bảng G cùng Bỉ, New Zealand và Mali, có thể đi tiếp nếu đứng nhất, nhì hoặc là một trong 8 đội thứ ba tốt nhất."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/u17-viet-nam-thang-u17-fiji-2-0-10026110921512995.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/viet-nam-thang-ba-tran-dau-tap-truoc-them-u17-world-cup-5142660.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tuyển Việt Nam chuẩn bị đấu Đài Bắc Trung Hoa ở Casper Cup; Nhật Bản giữ trận với Việt Nam dù Asian Cup 2027 hoãn",
+          "meta": "Tuổi Trẻ · VnExpress · 9/11",
+          "body": [
+            "Tuyển Việt Nam đang ráp đội hình cho trận mở màn Casper Cup 2026 gặp Đài Bắc Trung Hoa lúc 19h ngày 11/11 tại sân Thiên Trường (Ninh Bình). VnExpress cho biết Nhật Bản vẫn duy trì trận đấu với Việt Nam dù Asian Cup 2027 bị hoãn."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tuyen-viet-nam-rap-quan-dau-dai-bac-trung-hoa-100261109203847923.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nhat-ban-duy-tri-tran-dau-voi-viet-nam-du-asian-cup-2027-bi-hoan-5142437.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Việt Nam – Nhật Bản ra tuyên bố Tầm nhìn chung; Nhật cam kết hơn 43,1 tỷ yen cho hai dự án",
+          "meta": "Tuổi Trẻ · 9/11",
+          "body": [
+            "Tổng Bí thư, Chủ tịch nước Tô Lâm và Thủ tướng Nhật Bản Takaichi Sanae thông qua tuyên bố Tầm nhìn chung, xác định hai nước là 'Đối tác đồng hành, đồng kiến tạo, cùng có lợi, vì tăng trưởng chất lượng cao, tự chủ chiến lược và tự cường'. Hai bên nhất trí khởi động Năm hợp tác du lịch Việt Nam – Nhật Bản 2027–2028 hướng tới 55 năm quan hệ ngoại giao.",
+            "Cùng ngày, Nhật Bản cam kết cung cấp hơn 43,1 tỷ yen vốn cho hai dự án tại Việt Nam; sáng 10/11 (giờ VN) ông Tô Lâm tiếp lãnh đạo các ngân hàng và tập đoàn lớn của Nhật."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-va-thu-tuong-nhat-ban-thong-qua-tuyen-bo-tam-nhin-chung-100261109204549756.htm"
+            },
+            {
+              "name": "Tuổi Trẻ (vốn)",
+              "url": "https://tuoitre.vn/nhat-ban-cam-ket-cung-cap-von-hon-431-ti-yen-cho-hai-du-an-tai-viet-nam-100261109222428991.htm"
+            },
+            {
+              "name": "Tuổi Trẻ (doanh nghiệp)",
+              "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-lanh-dao-cac-ngan-hang-va-tap-doan-lon-nhat-ban-10026111000003513.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Trump nói chiến tranh với Iran 'về cơ bản đã kết thúc' nhưng giữ phong tỏa; Iran gọi là 'tin giả'",
+          "meta": "Al Jazeera · 9/11",
+          "body": [
+            "Sau khi cùng Phó tổng thống Vance tiếp Thủ tướng Qatar tại Nhà Trắng, ông Trump nói Iran 'về mặt quân sự đã xong', Mỹ chỉ giữ 'nguyên trạng' theo đề nghị của các nước láng giềng — tức tiếp tục phong tỏa hải quân các cảng Iran và lực lượng đặc nhiệm 'Iron Gate' cắt thương mại đường bộ và qua biển Caspi. Ông không cam kết ngừng bắn lâu dài: 'Tôi không đảm bảo gì cả'.",
+            "Thư ký Hội đồng An ninh Quốc gia Iran Mohsen Rezaei bác bỏ là 'tin giả về các cuộc đàm phán tưởng tượng'; Tổng thống Pezeshkian nói Iran sẵn sàng đàm phán nhưng 'không khuất phục trước vũ lực'."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+            }
+          ]
+        },
+        {
+          "headline": "Đàm phán Nga – Mỹ – Ukraine nối lại hôm nay tại Abu Dhabi sau 9 tháng",
+          "meta": "France 24 · Axios · Reuters · 9/11",
+          "body": [
+            "Hai ngày đàm phán ba bên (10–11/11) do đặc phái viên Steve Witkoff và Jared Kushner dẫn dắt là lần đầu kể từ tháng 2. Trọng tâm là bảo đảm an ninh hậu chiến; theo Axios có hai nhóm làm việc: quân sự (giám sát ngừng bắn, sắp xếp an ninh) và chính trị (lãnh thổ). Nhà Trắng 'lạc quan thận trọng'.",
+            "Hai bên vẫn cách xa nhau: Nga đòi toàn bộ Donbas, Ukraine muốn chia theo tiền tuyến hiện tại; ngừng bắn không nằm trong chương trình nghị sự. Trước đó Witkoff và Kushner gặp đại diện EU, NATO, Anh, Pháp, Đức, Italy."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "France 24",
+              "url": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi"
+            },
+            {
+              "name": "Axios",
+              "url": "https://www.axios.com/2026/11/09/ukraine-russia-zelensky-putin-peace-abu-dhabi"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/5f374b32b07b/world/europe/us-hold-trilateral-talks-with-ukraine-russia-abu-dhabi-next-week-us-official-2026-11-02/"
+            }
+          ]
+        },
+        {
+          "headline": "Nghị sĩ Cộng hòa Thomas Massie ép bỏ phiếu luận tội Bộ trưởng Quốc phòng Hegseth",
+          "meta": "BBC · 9/11",
+          "body": [
+            "Massie cáo buộc ông Hegseth vi hiến khi tiến hành chiến sự ở Iran hơn 90 ngày mà không có Quốc hội cho phép, và định buộc Hạ viện bỏ phiếu trong tuần này. BBC nhận định nỗ lực nhiều khả năng thất bại vì Cộng hòa vẫn nắm Quốc hội đến tháng 1; Massie muốn ép ông Trump sa thải Hegseth trước khi phe Dân chủ tự mở thủ tục luận tội. Ông Hegseth họp báo về việc này hôm thứ Ba (giờ Mỹ)."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Trump quay sang nghi ngờ kết quả bầu cử giữa kỳ",
+          "meta": "BBC · 9/11",
+          "body": [
+            "Trên Truth Social, ông Trump đặt nghi vấn về tính hợp pháp của kết quả bầu cử giữa kỳ — vài ngày sau khi nói sẽ chấp nhận — mà không đưa bằng chứng. Theo BBC, hiện phe Dân chủ có 54 ghế Thượng viện và 254 ghế Hạ viện, đa số thoải mái ở cả hai viện, trong khi một số cuộc đua ở Alaska và Mississippi vẫn đang kiểm phiếu."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o"
+            }
+          ]
+        },
+        {
+          "headline": "Nổ nhà máy thép gần Izmir (Thổ Nhĩ Kỳ), ít nhất 17 người chết",
+          "meta": "BBC · 9/11",
+          "body": [
+            "Vụ nổ tại nhà máy Habas Demir Celik ở Aliaga khiến ít nhất 17 công nhân thiệt mạng và 12 người bị thương. Thống đốc địa phương cho biết một cần cẩu chở nồi hơi thay thế bị sập, khiến vật liệu rơi vào lò bên dưới; tai nạn lao động vẫn là vấn đề kéo dài ở Thổ Nhĩ Kỳ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
+            }
+          ]
+        },
+        {
+          "headline": "Đề xuất cấm bán thuốc lá vĩnh viễn cho người sinh từ 1/1/2010",
+          "meta": "VnExpress · 9/11",
+          "body": [
+            "Thảo luận dự án Luật sửa đổi Luật Phòng, chống tác hại của thuốc lá chiều 9/11, đại biểu Lê Hoàng Anh (Ủy ban Kinh tế và Tài chính) đề xuất từ 1/1/2028 cấm bán thuốc lá cho mọi người sinh từ 1/1/2010 trở về sau, kể cả khi họ đã trưởng thành; người bán chỉ cần kiểm tra ngày sinh trên căn cước hoặc VNeID. Đây mới là đề xuất của một đại biểu."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/de-xuat-cam-ban-thuoc-la-vinh-vien-cho-nguoi-sinh-tu-nam-2010-5142500.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "James Gunn và Peter Safran rời ghế lãnh đạo DC Studios",
+          "meta": "The Verge (theo Deadline) · 9/11",
+          "body": [
+            "Theo Deadline, cựu Phó chủ tịch sản xuất Marvel Jeremy Latcham sẽ thay hai đồng CEO từ 1/12, sau khi thương vụ Paramount – Warner Bros. hoàn tất và tạo ra công ty Skydance do David Ellison lãnh đạo. Gunn và Safran vẫn sản xuất các dự án DC, gồm phần tiếp theo của Superman là 'Man of Tomorrow'. Gunn viết trên Instagram rằng thời gian ở DC Studios 'đầy thử thách'."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving"
+            }
+          ]
+        },
+        {
+          "headline": "Russell Brand lĩnh 10 năm rưỡi tù vì hiếp dâm và tấn công tình dục",
+          "meta": "VnExpress · 9/11",
+          "body": [
+            "Tòa án Anh tuyên phạt diễn viên, danh hài Russell Brand 10 năm 6 tháng tù về các tội hiếp dâm và tấn công tình dục, theo BBC và VnExpress."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dien-vien-russell-brand-bi-tuyen-hon-10-nam-tu-5142649.html"
+            }
+          ]
+        },
+        {
+          "headline": "YouTube trở lại bảng xếp hạng Billboard từ 2027",
+          "meta": "TechCrunch · 9/11",
+          "body": [
+            "YouTube sẽ chia sẻ lại dữ liệu nghe nhạc cho Billboard từ năm 2027, chấm dứt bất đồng bắt đầu từ tháng 12/2025, sau khi Billboard đổi công thức để tăng trọng số lượt nghe miễn phí có quảng cáo — điểm YouTube từng phản đối."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"
+            }
+          ]
+        },
+        {
+          "headline": "Trương Nghệ Mưu: 'Chưa biết tôi sẽ ra sao trong làn sóng AI'",
+          "meta": "VnExpress · 9/11",
+          "body": [
+            "Tại tọa đàm bên lề Liên hoan phim Kim Kê, đạo diễn cho rằng AI là công cụ tốt nhưng tạo áp lực chưa từng có với điện ảnh — vốn là nghệ thuật tạo hình ảnh ảo, cạnh tranh trực tiếp với hình ảnh AI. Ông nói điều duy nhất có thể làm là kể những câu chuyện chạm tới trái tim."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/truong-nghe-muu-chua-biet-toi-se-ra-sao-trong-lan-song-ai-5142299.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Thời tiết 10/11: Bắc Bộ rét, vùng núi rét đậm; từ Hà Tĩnh đến Huế và Nam Trung Bộ mưa to đến rất to",
+          "meta": "Tuổi Trẻ · VnExpress · 9–10/11",
+          "body": [
+            "Hà Nội nhiều mây, trời rét, 16–18 độ C về đêm, cao nhất 21–23 độ C; vùng núi phía Bắc có nơi chỉ 12 độ C. Từ Hà Tĩnh đến Huế và duyên hải Nam Trung Bộ mưa to đến rất to kèm dông.",
+            "Ngày 9/11, lũ sông Yên (Thanh Hóa) vượt báo động 3 gần 1 m, nhiều tuyến đường ngập, sạt lở; ở Đà Nẵng cây đổ đè ôtô, Huế hứng sóng cao 2–4 m. Đà Nẵng khuyến cáo tạm hoãn trekking bán đảo Sơn Trà."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thoi-tiet-hom-nay-10-11-bac-bo-ret-dam-trung-bo-mua-to-100261109183334009.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/mua-lu-mien-trung-cay-de-oto-song-tran-ke-duong-ngap-5142653.html"
+            },
+            {
+              "name": "Tuổi Trẻ (Sơn Trà)",
+              "url": "https://tuoitre.vn/du-bao-mua-lon-khuyen-cao-tam-hoan-trekking-kham-pha-ban-dao-son-tra-100261109213106574.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Giá trần điện mặt trời 2026 tăng 7–17%, cao nhất hơn 2.120 đồng/kWh",
+          "meta": "VnExpress · 10/11",
+          "body": [
+            "Theo Quyết định 2946 của Bộ Công Thương (hiệu lực từ 5/11), giá trần điện mặt trời mặt đất ở miền Bắc, Trung, Nam lần lượt 1.591, 1.293 và 1.104 đồng/kWh; điện mặt trời nổi 1.940, 1.561 và 1.340 đồng/kWh. Nhà máy có pin lưu trữ được trần cao hơn khoảng 9–14%; cao nhất hơn 2.120 đồng/kWh cho điện nổi có pin lưu trữ ở miền Bắc (chưa VAT)."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khung-gia-dien-mat-troi-cao-nhat-hon-2-120-dong-mot-kwh-5142638.html"
+            }
+          ]
+        },
+        {
+          "headline": "Vàng thế giới lên 4.130 USD/ounce, vàng miếng SJC tăng 200.000 đồng/lượng",
+          "meta": "Tuổi Trẻ · 9/11",
+          "body": [
+            "Lúc 22h30 ngày 9/11, giá vàng thế giới tăng 56,5 USD lên 4.130 USD/ounce; vàng miếng SJC trong nước tăng 200.000 đồng/lượng, theo Tuổi Trẻ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/gia-vang-the-gioi-cham-4130-usd-ounce-vang-mieng-sjc-tang-200000-dong-luong-100261109233032307.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Giông lốc ở Đồng Tháp làm hư hỏng 145 căn nhà; 65 cọc bê tông dưới biển uy hiếp tàu thuyền Cà Mau",
+          "meta": "VnExpress · 9–10/11",
+          "body": [
+            "Giông lốc liên tiếp ở Đồng Tháp khiến 145 căn nhà hư hỏng. Ở Cà Mau, VnExpress phản ánh 65 cọc bê tông cắm dưới biển đang gây nguy hiểm cho tàu thuyền qua lại."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/giong-loc-lien-tiep-o-dong-thap-145-can-nha-hu-hong-5142646.html"
+            },
+            {
+              "name": "VnExpress (Cà Mau)",
+              "url": "https://vnexpress.net/65-coc-betong-cam-duoi-bien-uy-hiep-tau-thuyen-o-ca-mau-5142647.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 10/11/2026 (giờ VN). Thứ Ba không có mục Xây dựng · Nghiên cứu (không có bài nghiên cứu thật sự lớn). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu. Các mục ghi 'theo tiêu đề' chưa đọc được chi tiết."
+}
