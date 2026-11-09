@@ -15,6 +15,24 @@
   ],
   "articles": [
     {
+      "id": "thit-nuoi-cay-vi-sao-chua-len-ke",
+      "title": "Từ chiếc burger 250.000 euro đến nhà máy vắng lặng",
+      "title_original": "Lab-grown meat was supposed to save the world. What happened?",
+      "author": "Erin Somers",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/news/ng-interactive/2026/nov/05/lab-grown-meat-save-the-world-food-revolution-climate-crisis-food-system",
+      "lang": "en",
+      "topics": [
+        "Tiền bạc",
+        "Tư duy & khoa học",
+        "Con người"
+      ],
+      "summary": "Một ngành hứa làm lại miếng thịt mà không cần giết bò. Sau ba tỷ đô la và hàng trăm công ty, thứ còn lại là nhà máy cổng khoá và viên thịt nhạt nhẽo. Chuyện về nhịp kỳ vọng, không phải về công nghệ.",
+      "added": "2026-11-09",
+      "reading_minutes": 5,
+      "coverage": "summary"
+    },
+    {
       "id": "ai-co-biet-minh-dang-nghi-gi",
       "title": "AI có biết mình đang nghĩ gì?",
       "title_original": "New Research Tests Whether AI Models Know Their Own Thoughts",
