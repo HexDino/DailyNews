@@ -431,6 +431,29 @@
       "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=quy-chuan-xay-dung-va-gia-nha",
       "source_published": "2026-11-06",
       "note": "Published as a 585-word summary (coverage: summary), not a translation."
+    },
+    {
+      "source_id": "psyche",
+      "url": "https://psyche.co/ideas/the-ethics-of-having-a-good-time-at-disney-world-florida",
+      "title": "The ethics of having a good time at Disney World, Florida",
+      "author": "Adam Kadlac",
+      "source": "Psyche",
+      "lang": "en",
+      "topics_guess": [
+        "Văn hoá",
+        "Tiền bạc",
+        "Con người"
+      ],
+      "est_words": 2056,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-11-09",
+      "id": "vui-ve-o-disney-co-sai-khong",
+      "published_at": "2026-11-09",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=vui-ve-o-disney-co-sai-khong",
+      "source_published": "2026-11-09",
+      "note": "Published as a 598-word summary (coverage: summary), not a translation."
     }
   ]
 }
