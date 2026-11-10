@@ -1,0 +1,1140 @@
+{
+  "date": "2026-11-11",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 11/11/2026 · Thứ Tư · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Anthropic chốt giá IPO 70–78 USD/cổ phiếu, định giá tới 1.404 tỷ USD; ra mắt Claude Meetings",
+    "Hạ viện Mỹ bỏ phiếu thủ tục luận tội Bộ trưởng Hegseth; Jim Jordan lãnh đạo phe thiểu số",
+    "U23 Việt Nam thắng U23 Thái Lan 3-0; tối nay tuyển Việt Nam gặp Đài Loan",
+    "Đàm phán Nga – Mỹ – Ukraine ngày đầu 'mang tính xây dựng'",
+    "Google ra TPU 8tx và 8i Max; New York mở cổng đăng ký luật an toàn AI",
+    "Man Utd họp bàn số phận Carrick, Pochettino để ngỏ khả năng về",
+    "M John Harrison, 81 tuổi, đoạt Booker",
+    "Miền Trung mưa lũ: ôtô lên cầu vượt Nha Trang tránh ngập"
+  ],
+  "followups": [
+    {
+      "title": "IPO của Anthropic (mã ANT, Nasdaq)",
+      "update": "Hồ sơ cập nhật 10/11: 825 triệu cổ phiếu, giá 70–78 USD, định giá tới 1.404 tỷ USD; bán riêng 26 tỷ USD cổ phiếu loại N cho 7 đối tác. Ngày niêm yết chưa được công bố trong các nguồn chúng tôi đọc.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-10-27",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+        }
+      ]
+    },
+    {
+      "title": "Đàm phán hòa bình Nga – Ukraine",
+      "update": "Ngày đầu ở Abu Dhabi (10/11) kéo dài bốn giờ, Zelensky và Rubio đánh giá tích cực; ngày thứ hai diễn ra 11/11.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-10",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
+        }
+      ]
+    },
+    {
+      "title": "Bê bối CEO Nvidia Jensen Huang",
+      "update": "Nvidia thuê Wachtell (luật sư Joon Kim) điều tra độc lập; FBI điều tra song song.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-09",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go"
+        }
+      ]
+    },
+    {
+      "title": "Bầu cử giữa kỳ Mỹ (3/11)",
+      "update": "Phe Cộng hòa bầu Jim Jordan làm lãnh đạo thiểu số Hạ viện; Hạ viện bỏ phiếu thủ tục về nghị quyết luận tội Hegseth của ông Massie (kết quả chưa xác nhận lúc lên khuôn).",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-04",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader"
+        },
+        {
+          "name": "Al Jazeera (Hegseth)",
+          "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth"
+        }
+      ]
+    },
+    {
+      "title": "Mưa lũ miền Trung đầu tháng 11",
+      "update": "Tối 10/11 dân Nha Trang đưa ôtô lên cầu vượt tránh lũ; 17 chuyến bay đến Đà Nẵng, Phú Bài phải bay vòng ngày 9/11.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-08",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hang-chuc-oto-dau-tren-cau-vuot-o-nha-trang-tranh-lu-5143129.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-11",
+      "title": "Kết thúc vòng đàm phán ba bên Nga – Mỹ – Ukraine tại Abu Dhabi",
+      "topic": "Chính trị",
+      "note": "Sau đó Witkoff và Kushner có thể tới Moscow và Kyiv (theo Axios).",
+      "sources": [
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/11/09/ukraine-russia-zelensky-putin-peace-abu-dhabi"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Tổng đình công 24 giờ toàn quốc ở Tây Ban Nha",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "time": "19:00",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "title": "Việt Nam – Đài Bắc Trung Hoa (sân Thiên Trường, Ninh Bình)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/lich-thi-dau-doi-tuyen-viet-nam-dai-loan-hom-nay-cho-guong-mat-moi-toa-sang-185261110213449198.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Quốc hội chất vấn cả ngày: Bộ trưởng Tài chính Ngô Văn Tuấn, Bộ trưởng KH&CN Vũ Hải Quân",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/quoc-hoi-se-chat-van-cac-thanh-vien-chinh-phu-xem-xet-dieu-chinh-dia-gioi-giua-ha-noi-va-phu-tho-100261108145112745.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Đài Bắc Trung Hoa – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Hạn các xã, phường Hà Nội báo cáo rà soát an toàn trường học (sau vụ Kim Liên)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Báo Hôm Nay",
+          "url": "https://www.baohomnay.com/Giao-duc/3-000-hoc-sinh-THCS-Kim-Lien-chuyen-sang-hoc-truc-tuyen-tu-6-11-3753262.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Thông tư 81 có hiệu lực: cấm thu quỹ lớp kiểu cũ",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/cam-quy-lop-tu-15-11-ban-doc-hoan-nghenh-nhung-lo-ngai-binh-moi-ruou-cu-100261106141317645.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "title": "New Zealand áp dụng thị thực mới: du học sinh ở lại làm việc thêm 6 tháng",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/new-zealand-cho-phep-du-hoc-sinh-o-lai-lam-viec-them-6-thang-100261106135240169.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "title": "Hết hạn ưu đãi Claude Fable 5.2 cho gói Pro và ghế standard Team (dùng Fable trong gói + 1 lượt reset)",
+      "topic": "Công nghệ",
+      "note": "Tức khoảng 14:59 ngày 17/11 giờ VN. Lượt reset của Max/Ultra dùng được đến 8/3/2027.",
+      "sources": [
+        {
+          "name": "Claude Help Center",
+          "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Việt Nam – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "note": "Trận được lùi từ 15/11 sang 17/11.",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Khai mạc U17 World Cup 2026 (19/11–13/12); Việt Nam ở bảng G cùng Bỉ, New Zealand, Mali",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/u17-viet-nam-thang-u17-fiji-2-0-10026110921512995.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Hết lệnh tạm dừng 14 ngày xây 'khải hoàn môn' ở Washington (dự kiến, tính từ 6/11)",
+      "topic": "Chính trị",
+      "note": "Tòa có thể gia hạn hoặc ra phán quyết tiếp theo.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến biểu quyết Luật sửa đổi Luật Bảo hiểm xã hội",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chua-mo-rong-dien-dong-bao-hiem-bat-buoc-voi-tai-xe-cong-nghe-5142415.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến thông qua chủ trương 3 cao tốc mới và nghị quyết đặc thù du lịch",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress – cao tốc",
+          "url": "https://vnexpress.net/trinh-quoc-hoi-dau-tu-them-ba-du-an-cao-toc-5141815.html"
+        },
+        {
+          "name": "VnExpress – du lịch",
+          "url": "https://vnexpress.net/de-xuat-uu-dai-lon-cho-cac-du-an-du-lich-ty-usd-5141836.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Liverpool – Man Utd tại Anfield (sau đợt FIFA Days)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50441594/man-united-michael-carrick-sir-jim-ratcliffe-future-talks"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "TP.HCM bắn pháo hoa tầm cao tại ba điểm",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tp-hcm-ban-phao-hoa-tam-cao-ba-diem-ngay-24-11-5141981.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hạn gửi Bộ Xây dựng đề xuất kết nối sân bay Gia Bình – trung tâm Hà Nội (đường sắt đô thị)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/pho-thu-tuong-uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-ha-noi-5142080.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Bầu cử sớm ở Tây Ban Nha",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Jeremy Latcham tiếp quản DC Studios thay James Gunn và Peter Safran",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "time": "",
+      "title": "Hạn 28 ngày để ông Eisenkot gom đủ 61 phiếu lập chính phủ Israel (tính từ 7/11; có thể gia hạn tối đa 14 ngày)",
+      "topic": "Chính trị",
+      "note": "Ngày 5/12 là mốc tính toán từ thông báo ngày 7/11.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/doi-thu-cua-thu-tuong-israel-duoc-chi-dinh-thanh-lap-chinh-phu-moi-5142108.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Sân bay Cà Mau dự kiến hoạt động trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/san-bay-ca-mau-lui-ngay-khai-thac-tro-lai-den-18-12-5141694.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Hạn đề xuất hoàn thành 6 dự án dịch vụ sân bay Long Thành",
+      "topic": "Xây dựng",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-lui-han-hoan-thanh-6-du-an-tai-san-bay-long-thanh-5141701.html"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-01",
+      "title": "Hạn đăng ký và luật an toàn AI RAISE của New York có hiệu lực",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Anthropic chốt khoảng giá IPO 70–78 USD/cổ phiếu, định giá tới 1.404 tỷ USD",
+          "meta": "TechCrunch · 10/11",
+          "body": [
+            "Trong hồ sơ IPO cập nhật ngày 10/11 (giờ Mỹ), Anthropic cho biết sẽ chào bán 825 triệu cổ phiếu loại A với giá dự kiến 70–78 USD, thu về 57,75–64,35 tỷ USD. Nếu niêm yết ở mức trần, công ty được định giá 1.404 tỷ USD (pha loãng hoàn toàn), cao hơn mức 965 tỷ USD của vòng gọi vốn tháng 5 nhưng thấp hơn mục tiêu 2.000 tỷ USD từng được đồn đoán.",
+            "Anthropic còn bán riêng 26 tỷ USD cổ phiếu loại N (không có quyền biểu quyết) theo giá IPO cho AMD, Broadcom, Google, Micron, Microsoft, Nvidia và TSMC; riêng Google và Nvidia mỗi bên 10 tỷ USD. Tổng tiền thu ròng ước 84,6–93,7 tỷ USD. Theo một bài khác của TechCrunch, cả 7 nhà sáng lập sẽ mỗi người bán ra khoảng 250 triệu USD trong đợt IPO."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+            },
+            {
+              "name": "TechCrunch (nhà sáng lập)",
+              "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+            }
+          ]
+        },
+        {
+          "headline": "Claude Meetings: Claude vào cuộc họp video, vừa nghe vừa làm việc",
+          "meta": "TechCrunch · 10/11",
+          "body": [
+            "Anthropic ra mắt Claude Meetings: nhóm có thể thêm Claude vào cuộc gọi như một người dự họp hiển thị rõ. Claude theo dõi cuộc trao đổi, soạn kế hoạch đang bàn, vẽ dòng thời gian lên bảng trắng, trả lời câu hỏi trong khung chat và tra dữ liệu từ ứng dụng công việc đã kết nối. Sau cuộc họp, biên bản, việc cần làm và tài liệu Claude tạo nằm trong claude.ai. Hãng cũng giới thiệu Claude Whiteboards và Claude Sheets.",
+            "Claude tự xưng là người dự họp và đăng thông báo trong chat; không vào cuộc gọi có khách bên ngoài nếu quản trị viên chưa cho phép, và tự rời khi khách ngoài tham gia. Bản beta dành cho gói Team và Enterprise, lúc đầu chỉ hỗ trợ Google Meet."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+            }
+          ]
+        },
+        {
+          "headline": "Google ra hai chip TPU mới: TPU 8tx cho huấn luyện bảo mật và TPU 8i Max nhân đôi bộ nhớ",
+          "meta": "TechCrunch · 10/11",
+          "body": [
+            "TPU 8tx, thiết kế cùng AMD và dựa trên TPU 8t, đưa bảo mật vào tầng phần cứng để giữ dữ liệu và trọng số mô hình được cô lập ngay khi đang chạy; chip có mạng suy luận riêng để vừa suy luận vừa huấn luyện, chưng cất mô hình nhỏ ngay tại chỗ. TPU 8i Max gộp hai chip suy luận TPU 8i trong một gói, nhân đôi bộ nhớ, sức tính và băng thông.",
+            "Đây là bước tiếp theo trong nỗ lực của Google giảm phụ thuộc vào chip của hãng khác cho mảng đám mây, giữa lúc Microsoft, Amazon, OpenAI và Anthropic đều tự làm chip AI."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+            }
+          ]
+        },
+        {
+          "headline": "New York mở cổng đăng ký theo luật an toàn AI RAISE; hạn chót 1/1/2027",
+          "meta": "TechCrunch · 10/11",
+          "body": [
+            "Các nhà phát triển AI tiên phong lớn (doanh thu trên 500 triệu USD/năm) như Anthropic và OpenAI phải đăng ký trước 1/1/2027, công bố khung an toàn, báo cáo sự cố an toàn nghiêm trọng trong 72 giờ và ra báo cáo minh bạch mô hình. Mức phạt tới 1 triệu USD cho vi phạm đầu và 3 triệu USD cho các lần sau; cơ quan mới DIGIT sẽ thực thi.",
+            "Thống đốc Kathy Hochul cũng khai trương Trung tâm Trách nhiệm và Nghiên cứu AI New York tại Đại học Binghamton để đánh giá độc lập các hệ thống AI tiên tiến."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+            }
+          ]
+        },
+        {
+          "headline": "Úc tính lập cơ quan an toàn AI, cân nhắc chế tài hình sự sau vụ tác tử OpenAI xâm nhập",
+          "meta": "BBC · 10/11",
+          "body": [
+            "Thủ tướng Anthony Albanese công bố 18 khuyến nghị từ cuộc rà soát nhanh sau vụ một tác tử OpenAI 'xâm nhập' trang web y tế của chính phủ hồi tháng 9, gồm chuẩn an toàn – bảo mật mới và bắt buộc báo cáo sự cố. Ông từng chỉ trích OpenAI mất nhiều tháng mới thông báo vụ việc."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po"
+            }
+          ]
+        },
+        {
+          "headline": "OpenAI: ChatGPT có 'Business Agents' đã xác minh và hồ sơ doanh nghiệp; mua lại startup du lịch Odessia",
+          "meta": "The Verge · TechCrunch · 10/11",
+          "body": [
+            "Theo The Verge, ChatGPT có thêm tác tử AI đại diện cho các công ty, giúp việc như so sánh khi mua sắm; TechCrunch cho biết OpenAI cũng ra hồ sơ doanh nghiệp trong ChatGPT.",
+            "OpenAI xác nhận tuyển Francis Davidson (nhà sáng lập Sonder) qua thương vụ mua Odessia, tác tử AI lập kế hoạch du lịch ra mắt khoảng 5 tháng trước; điều khoản không công bố, sản phẩm Odessia đã đóng."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+            }
+          ]
+        },
+        {
+          "headline": "Adobe MAX: thêm tác tử AI cho Photoshop, Premiere, Firefly và ra MCP cục bộ cho ChatGPT, Claude, Gemini",
+          "meta": "TechCrunch · 10/11",
+          "body": [
+            "Firefly có công cụ dựng mẫu thử Builder (beta kín), công cụ dựng video từ clip, ảnh và hiệu ứng âm thanh; Photoshop có tính năng chiếu sáng lại, Premiere có hệ màu chuyên nghiệp và xóa vật thể trong video. Adobe phát hành MCP cục bộ để các chatbot khác gọi được tính năng của Adobe."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "GoogleChrome/modern-web-guidance: giúp tác tử lập trình viết web theo chuẩn mới",
+          "meta": "GitHub · 10/11",
+          "body": [
+            "Kho của nhóm Chrome (giấy phép Apache-2.0) mô tả mục tiêu 'giữ cho tác tử lập trình cập nhật thực hành tốt nhất của web'. Kho lọt trang nhất Hacker News ngày 10/11 với lời giới thiệu: đưa tác tử ra khỏi kiểu JavaScript 'thời 2019' để dùng các tính năng web hiện đại.",
+            "Kho có khoảng 3.100 sao theo GitHub API lúc tra cứu sáng 11/11."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/GoogleChrome/modern-web-guidance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Bê bối Nvidia: công ty thuê Wachtell điều tra độc lập vụ Jensen Huang",
+          "meta": "BBC · VnExpress · 10/11",
+          "body": [
+            "Nvidia thuê hãng luật Wachtell, Lipton, Rosen & Katz; luật sư Joon Kim sẽ dẫn đầu cuộc điều tra 'kỹ lưỡng và độc lập' về quan hệ ngoài hôn nhân của CEO Jensen Huang với Alice Huang, người bị cáo buộc là gián điệp cho Bắc Kinh và từng là lãnh đạo khách hàng Megaspeed (Singapore). FBI cũng đang điều tra riêng.",
+            "VnExpress phân tích bê bối đang thử thách đà hòa hoãn Mỹ – Trung."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/be-boi-cua-jensen-huang-thu-thach-da-hoa-hoan-my-trung-5142705.html"
+            }
+          ]
+        },
+        {
+          "headline": "N-able tắt dịch vụ N-Central sau khi nhà nghiên cứu công bố hàng chục lỗ hổng zero-day",
+          "meta": "TechCrunch · 10/11",
+          "body": [
+            "Nhà nghiên cứu Ben Bales đăng loạt lỗi 'Able2Shell' lên GitHub hôm Chủ nhật, cho phép đánh cắp thông tin đăng nhập, tạo tài khoản quản trị và chiếm quyền root. N-able đưa bản N-Central chạy trên đám mây ngoại tuyến và khuyên khách hàng tắt cả bản tự cài; hãng nói chưa thấy bằng chứng bị khai thác."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/"
+            }
+          ]
+        },
+        {
+          "headline": "Blender 5.3 hỗ trợ Gaussian Splat",
+          "meta": "Blender.org · 10/11",
+          "body": [
+            "Blender 5.3 nhập được Gaussian Splat từ tệp PLY, SPZ và glTF, lưu dưới dạng point cloud, xử lý bằng Geometry Nodes và render bằng EEVEE, Cycles và Workbench. Splat mặc định dùng shader phát sáng; có hỗ trợ sơ khai để chiếu sáng lại bằng BSDF. Đây là kỹ thuật dựng cảnh 3D từ ảnh, video, cũng có ích cho quét hiện trạng công trình."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Blender",
+              "url": "https://www.blender.org/download/releases/5-3/"
+            }
+          ]
+        },
+        {
+          "headline": "Val Town đóng cửa; IBM Consulting ngừng bảo lãnh visa cho hầu hết vị trí ở Mỹ",
+          "meta": "Val Town Blog · Al Jazeera · 10/11",
+          "body": [
+            "Nhà sáng lập Steve Krouse thông báo Val Town ngừng hoạt động vì không cạnh tranh nổi trong điện toán đám mây; billing dừng từ 10/11, gói trả trước năm được hoàn một phần, có hướng dẫn chuyển sang Cloudflare, Vercel, Netlify, Render.",
+            "Theo Reuters (qua Al Jazeera), IBM Consulting, đơn vị hơn 150.000 người, ngừng bảo lãnh visa lao động và thẻ xanh cho phần lớn vị trí tại Mỹ."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Val Town",
+              "url": "https://blog.val.town/winding-down"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships"
+            }
+          ]
+        },
+        {
+          "headline": "X-energy được cấp phép xây 4 lò phản ứng mô-đun nhỏ đầu tiên tại nhà máy Dow (Texas)",
+          "meta": "TechCrunch · 10/11",
+          "body": [
+            "NRC duyệt giấy phép xây dựng bốn lò Xe-100, mỗi lò 80 MW điện và 200 MW nhiệt; X-energy nói đây là phê duyệt đầu tiên cho lò hạt nhân tiên tiến tại khu công nghiệp ở Mỹ, dự kiến vận hành đầu thập niên 2030. Union of Concerned Scientists cho rằng NRC đã đẩy các câu hỏi an toàn quan trọng sang sau."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "U23 Việt Nam thắng U23 Thái Lan 3-0 ngày ra quân Gia Lai VTV Cup",
+          "meta": "Thanh Niên · 10/11",
+          "body": [
+            "Minh Tâm ghi cú đúp bằng đầu, Williams Hoàng Minh (Minh Hoàng) ghi bàn trên chấm phạt đền, giúp thầy trò HLV Đinh Hồng Vinh thắng 3-0 trên sân Pleiku và đứng đầu bảng sau ngày đầu. Trận còn lại, U23 Qatar bị U23 Singapore cầm chân.",
+            "HLV U23 Thái Lan Thawatchai Damrong-Ongtrakul nói sẽ cố gắng đạt tới trình độ U23 Việt Nam; báo Thái cho rằng đội nhà thiếu thời gian chuẩn bị."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/u23-viet-nam-dai-thang-u23-thai-lan-3-0-minh-tam-ghi-cu-dup-minh-hoang-lap-cong-tu-phat-den-185261110205725217.htm"
+            },
+            {
+              "name": "Thanh Niên (xếp hạng)",
+              "url": "https://thanhnien.vn/xep-hang-gia-lai-cup-moi-nhat-u23-viet-nam-xuat-sac-dung-dau-qatar-top-2-con-thai-lan-the-nao-18526111021231781.htm"
+            },
+            {
+              "name": "Thanh Niên (Qatar – Singapore)",
+              "url": "https://thanhnien.vn/u23-qatar-bat-ngo-bi-u23-singapore-cam-chan-o-tran-mo-man-gia-lai-cup-185261110163045534.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Tối nay 19h: tuyển Việt Nam gặp Đài Loan (Trung Quốc) ở Thiên Trường, Thành Chung lần đầu làm thủ quân",
+          "meta": "Thanh Niên · 10/11",
+          "body": [
+            "Trận ra quân giải tam hùng tại Thiên Trường (Ninh Bình) là phép thử đầu cho các thử nghiệm của HLV Kim Sang-sik; đối thủ kém Việt Nam 75 bậc FIFA. Ông Kim thừa nhận khó gọi đủ trụ cột vì lịch V-League dày nhưng mục tiêu vẫn là thắng cả Đài Loan và Kyrgyzstan. Thành Chung đeo băng đội trưởng, Đình Bắc làm đội phó.",
+            "Kết quả trận sẽ cập nhật ở số chiều."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/lich-thi-dau-doi-tuyen-viet-nam-dai-loan-hom-nay-cho-guong-mat-moi-toa-sang-185261110213449198.htm"
+            },
+            {
+              "name": "Thanh Niên (đội trưởng)",
+              "url": "https://thanhnien.vn/thanh-chung-lan-dau-lam-thu-quan-doi-tuyen-viet-nam-dinh-bac-doi-pho-minh-khoa-giu-vi-tri-bat-ngo-185261109201153153.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Man Utd họp ở Monaco bàn tương lai Carrick; Pochettino sẵn lòng về Old Trafford",
+          "meta": "ESPN · BBC · 10/11",
+          "body": [
+            "Theo nguồn tin ESPN, lãnh đạo Man Utd (CEO Omar Berrada, giám đốc bóng đá Jason Wilcox) gặp Sir Jim Ratcliffe tuần này; Carrick nhiều khả năng mất ghế trước trận gặp Liverpool tại Anfield ngày 22/11. United mới thắng 1 trong 10 trận Premier League và đang ở nhóm xuống hạng.",
+            "ESPN cho biết Mauricio Pochettino, đang có hợp đồng với tuyển Mỹ đến 2030, mở lòng với ghế HLV United và là ứng viên được ưu tiên. CLB nói chưa có quyết định cuối."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "ESPN",
+              "url": "https://www.espn.com/soccer/story/_/id/50441594/man-united-michael-carrick-sir-jim-ratcliffe-future-talks"
+            },
+            {
+              "name": "ESPN (Pochettino)",
+              "url": "https://www.espn.com/soccer/story/_/id/50442407/mauricio-pochettino-man-united-michael-carrick-crisis"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko"
+            }
+          ]
+        },
+        {
+          "headline": "Wenger cân nhắc tranh ghế Chủ tịch FIFA với Infantino",
+          "meta": "BBC Sport · 10/11",
+          "body": [
+            "Theo BBC Sport, Arsene Wenger (77 tuổi) đang nghiêm túc cân nhắc ra tranh cử sau nhiều tuần được các nhân vật cấp cao bóng đá châu Âu thúc giục; một số người ủng hộ sẵn sàng để ông thắng rồi rút trước khi hết nhiệm kỳ 4 năm."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo"
+            }
+          ]
+        },
+        {
+          "headline": "Tin nhanh: Kompany trở lại Bayern; McTominay kể từng được sốc tim trước trận World Cup; Pháp mất Thuram, Tchouaméni",
+          "meta": "BBC Sport · ESPN · 10/11",
+          "body": [
+            "Bayern xác nhận Vincent Kompany đã trở lại sân tập sau khi ngất cuối tháng trước (được chẩn đoán kích thích màng não). Scott McTominay kể đã được điều trị nhịp tim bất thường hai ngày trước trận Scotland thắng Haiti 1-0 hồi tháng 6. Tuyển Pháp của Zidane mất Marcus Thuram và Aurélien Tchouaméni vì chấn thương ở Nations League, gọi Junior Kroupi thay thế."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno"
+            },
+            {
+              "name": "BBC (McTominay)",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo"
+            },
+            {
+              "name": "ESPN",
+              "url": "https://www.espn.com/soccer/story/_/id/50446771/france-thuram-tchouameni-leave-squad-injuries"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Hạ viện Mỹ bỏ phiếu thủ tục về luận tội Bộ trưởng Quốc phòng Hegseth",
+          "meta": "Al Jazeera · AP · VnExpress · 10/11",
+          "body": [
+            "Ngày 10/11 (giờ Mỹ), Hạ viện bỏ phiếu thủ tục về nghị quyết của nghị sĩ Cộng hòa Thomas Massie gồm 8 điều khoản luận tội, cáo buộc ông Hegseth phát động chiến tranh Iran không có phê chuẩn của Quốc hội. Phiếu này quyết định gửi nghị quyết về ủy ban (chặn lại) hay tiến tới bỏ phiếu chính thức ngày 11/11. Ông Hegseth gọi nỗ lực này là 'trò hề'.",
+            "Lúc lên khuôn, chúng tôi chưa xác nhận được kết quả từ nguồn chính thống. Kể cả nếu được thông qua, việc kết tội ở Thượng viện (cần 2/3) vẫn khó xảy ra.",
+            "Cùng ngày, phe Cộng hòa bầu Jim Jordan làm lãnh đạo thiểu số Hạ viện, thay Mike Johnson, sau thất bại bầu cử giữa kỳ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/hegseth-impeachment-congress-massie-trump-272515c4fca92435224406593a892e69"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bo-truong-quoc-phong-my-no-luc-luan-toi-toi-la-tro-he-5143134.html"
+            },
+            {
+              "name": "Al Jazeera (Jordan)",
+              "url": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader"
+            }
+          ]
+        },
+        {
+          "headline": "Đàm phán Nga – Mỹ – Ukraine ngày đầu ở Abu Dhabi 'mang tính xây dựng'",
+          "meta": "BBC · 10/11",
+          "body": [
+            "Sau bốn giờ thảo luận, Tổng thống Zelensky (không dự) nói buổi đàm phán 'mang tính xây dựng và khá thực chất'; Ngoại trưởng Mỹ Marco Rubio gọi là 'rất hiệu quả'. Quan chức Mỹ nói Moscow và Kyiv kín đáo tỏ ra 'linh hoạt một chút' về quyền kiểm soát các vùng phía đông. Hai bên cũng bàn trao đổi tù binh. Ngày thứ hai diễn ra hôm nay 11/11."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
+            }
+          ]
+        },
+        {
+          "headline": "Quốc hội Israel mới tuyên thệ; Eisenkot có 28 ngày lập chính phủ",
+          "meta": "BBC · 10/11",
+          "body": [
+            "Khối 4 đảng của ông Gadi Eisenkot có 48 ghế, khối của Thủ tướng tạm quyền Netanyahu 53 ghế, đều thiếu đa số trong Knesset 120 ghế. Ông Eisenkot được giao lập chính phủ vì nhận nhiều đề cử hơn, có 28 ngày và có thể gia hạn hai tuần. Các đảng do người Arab dẫn dắt có số ghế kỷ lục."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm tỉnh Kanagawa, Nhật Bản",
+          "meta": "VnExpress · 10/11",
+          "body": [
+            "Trong chuyến thăm Nhật Bản 8–11/11, ông Tô Lâm thăm tỉnh Kanagawa ngày 10/11; cùng ngày, một nhân sĩ Nhật được trao chức danh Đại sứ đặc biệt Việt – Nhật."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-tham-tinh-kanagawa-cua-nhat-5143081.html"
+            },
+            {
+              "name": "VnExpress (Đại sứ đặc biệt)",
+              "url": "https://vnexpress.net/nhan-si-nhat-ban-duoc-trao-chuc-danh-dai-su-dac-biet-viet-nhat-5143102.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đề xuất thêm 27/7 làm ngày nghỉ lễ; mục tiêu tuổi thọ trên 80 vào năm 2045",
+          "meta": "VnExpress · 10/11",
+          "body": [
+            "Chuyên gia cho rằng bổ sung ngày 27/7 làm ngày nghỉ lễ vừa mang ý nghĩa tri ân vừa phân bố các kỳ nghỉ đều hơn, vì dư địa số ngày nghỉ chính thức vẫn còn.",
+            "Việt Nam đặt mục tiêu tuổi thọ trung bình trên 80 vào năm 2045, trong đó số năm sống khỏe trên 71."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/du-dia-con-tang-ngay-nghi-le-la-hop-ly-5143059.html"
+            },
+            {
+              "name": "VnExpress (tuổi thọ)",
+              "url": "https://vnexpress.net/viet-nam-dat-muc-tieu-nam-2045-tuoi-tho-trung-binh-dat-hon-80-5143128.html"
+            }
+          ]
+        },
+        {
+          "headline": "Najib Razak rời nhà tù về nhà chịu quản thúc",
+          "meta": "BBC · 10/11",
+          "body": [
+            "Cựu Thủ tướng Malaysia, 73 tuổi, về nhà ở Kuala Lumpur tối 10/11 dưới sự hộ tống của cảnh sát để thụ phần án còn lại vì vụ 1MDB, khép lại bốn năm ngồi tù. Giới điều tra ước 4,5 tỷ USD bị rút khỏi quỹ 1MDB, trên 1 tỷ USD được cho là vào các tài khoản liên quan ông Najib."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do"
+            }
+          ]
+        },
+        {
+          "headline": "Tây Ban Nha tổng đình công 24 giờ hôm nay vì giá nhà, giá cả",
+          "meta": "Al Jazeera · 10/11",
+          "body": [
+            "Hai công đoàn lớn nhất CCOO và UGT kêu gọi đình công toàn quốc từ nửa đêm 11/11 với khẩu hiệu 'lương, nhà ở, giá cả', lần đầu từ năm 2012; giao thông, trường học, y tế bị ảnh hưởng, nhiều chuyến bay có thể hủy. Bầu cử sớm diễn ra ngày 29/11."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over"
+            }
+          ]
+        },
+        {
+          "headline": "Gallup: ủng hộ án tử hình ở Mỹ xuống dưới 50% lần đầu kể từ 1971; Privy Council bãi luật hình sự hóa đồng tính ở Trinidad và Tobago",
+          "meta": "Al Jazeera · BBC · 10/11",
+          "body": [
+            "49% người Mỹ ủng hộ án tử hình cho tội giết người, 45% phản đối, theo Gallup.",
+            "Hội đồng Cơ mật (London), tòa phúc thẩm cuối cùng của Trinidad và Tobago, phán quyết luật cấm quan hệ đồng giới trái quyền được tôn trọng đời tư, sau cuộc kiện 11 năm của ông Jason Jones."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "M John Harrison, 81 tuổi, thành người cao tuổi nhất đoạt Booker với 'The End of Everything'",
+          "meta": "BBC · 10/11",
+          "body": [
+            "Tiểu thuyết hậu tận thế lấy bối cảnh nước Anh sụp đổ sau một thảm họa bí ẩn, bị chia rẽ ý kiến ('khó hiểu nhưng xuất sắc'). Chủ tịch hội đồng Mary Beard nói: 'Đây là cuốn sách khó đọc, nhưng nhiều tác phẩm hay nhất đều khó.' Giải trị giá 50.000 bảng."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko"
+            }
+          ]
+        },
+        {
+          "headline": "David Walliams bị nhiều phụ nữ cáo buộc sai phạm tình dục sau khi thua kiện ngăn công bố",
+          "meta": "BBC · 10/11",
+          "body": [
+            "ITV News và The Guardian công bố cuộc điều tra ba năm, trong đó có người kể bị 'dụ dỗ' khi mới 15 tuổi. Walliams viết rằng ông 'không phải kẻ săn mồi tình dục' và không phạm luật."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo"
+            }
+          ]
+        },
+        {
+          "headline": "Long bào vua Lê Dụ Tông từng được 'sửa chữa'; làng gốm Phước Tích hút chú ý nhờ 'Quán nhà Haha'",
+          "meta": "Thanh Niên · 10/11",
+          "body": [
+            "Hình rồng trên long bào vua Lê Dụ Tông từng bị chỉnh sửa, dấu mực phác thảo vẫn còn.",
+            "Sau tập 4 'Quán nhà Haha', làng cổ Phước Tích (Huế) với nghề gốm hơn 500 năm và chiếc om từng nấu cơm tiến vua được cộng đồng mạng quan tâm."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/long-bao-duoc-sua-chua-cua-vua-le-du-tong-185261110212807658.htm"
+            },
+            {
+              "name": "Thanh Niên (Phước Tích)",
+              "url": "https://thanhnien.vn/lang-co-phuoc-tich-duoc-chu-y-sau-khi-xuat-hien-trong-quan-nha-haha-185261110185443382.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Paul McCartney thành tỷ phú; phim truyền hình Việt 'trẻ hóa' với diễn viên gen Z",
+          "meta": "VnExpress · Thanh Niên · 10/11",
+          "body": [
+            "VnExpress đưa tin Paul McCartney trở thành tỷ phú. Thanh Niên ghi nhận nhiều diễn viên gen Z, có người chưa qua đào tạo, được giao vai chính trên truyền hình, đặt ra thách thức về năng lực diễn."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/paul-mccartney-thanh-ty-phu-5143118.html"
+            },
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/phim-truyen-hinh-viet-tre-hoa-185261110215129888.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Mưa lũ miền Trung: ôtô đậu kín cầu vượt Nha Trang, 17 chuyến bay phải bay vòng",
+          "meta": "VnExpress · 10/11",
+          "body": [
+            "Tối 10/11, lo mưa lớn và hồ chứa xả lũ, hàng chục chủ xe đưa ôtô lên cầu vượt đường sắt ở Nha Trang. Ngày 9/11, mưa giông và tầm nhìn kém ở Đà Nẵng và Phú Bài khiến 17 chuyến bay phải bay vòng chờ hạ cánh.",
+            "Ở Nghệ An, hơn 40 con trâu bò ở xã Hữu Kiệm chết do tụ huyết trùng trong một tuần."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hang-chuc-oto-dau-tren-cau-vuot-o-nha-trang-tranh-lu-5143129.html"
+            },
+            {
+              "name": "VnExpress (chuyến bay)",
+              "url": "https://vnexpress.net/17-chuyen-bay-den-mien-trung-phai-vong-cho-ha-canh-5143103.html"
+            },
+            {
+              "name": "VnExpress (trâu bò)",
+              "url": "https://vnexpress.net/hon-40-con-trau-bo-o-nghe-an-chet-do-benh-tu-huyet-trung-5142997.html"
+            }
+          ]
+        },
+        {
+          "headline": "Đà Nẵng duyệt 113 khu đất làm nhà ở xã hội; bãi rác cũ thành công viên 'chiếc nhẫn Hòa Bình'",
+          "meta": "VnExpress · 10/11",
+          "body": [
+            "113 khu đất rộng khoảng 390 ha, hướng tới gần 23.900 căn nhà ở xã hội giai đoạn 2026–2030. Công viên 29/3 được cải tạo thành biểu tượng 'chiếc nhẫn Hòa Bình' trên vùng đất trước 1975 từng là bãi phế thải lớn."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/da-nang-duyet-113-khu-dat-lam-nha-o-xa-hoi-5143099.html"
+            },
+            {
+              "name": "VnExpress (công viên)",
+              "url": "https://vnexpress.net/tu-bai-rac-lon-nhat-da-nang-den-cong-vien-chiec-nhan-hoa-binh-5143061.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cao tốc TP.HCM – Long Thành sau hơn một năm mở rộng; Nghệ An tính bay thẳng Vinh – Quảng Châu, Thâm Quyến",
+          "meta": "VnExpress · 10/11",
+          "body": [
+            "Nhiều đoạn cao tốc nối TP.HCM với sân bay Long Thành đã mở rộng lên 10–12 làn, các cầu và nút giao lớn dần thành hình. Nghệ An bàn mở đường bay thẳng tới Quảng Châu, Thâm Quyến, dự kiến mỗi tuần một chuyến."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cao-toc-tp-hcm-long-thanh-sau-hon-mot-nam-mo-rong-5142778.html"
+            },
+            {
+              "name": "VnExpress (đường bay)",
+              "url": "https://vnexpress.net/nghe-an-tinh-mo-duong-bay-thang-den-trung-quoc-5143139.html"
+            }
+          ]
+        },
+        {
+          "headline": "FDA buộc thuốc GLP-1 cảnh báo nguy cơ hiếm gây mù đột ngột",
+          "meta": "BBC · 10/11",
+          "body": [
+            "Ozempic, Wegovy, Mounjaro, Zepbound phải ghi cảnh báo về NAION (tắc mạch nuôi dây thần kinh thị giác), có thể gây giảm thị lực không đau và vĩnh viễn ở một mắt. Học viện Nhãn khoa Mỹ nói rủi ro tăng thêm có vẻ nhỏ, chưa chứng minh thuốc gây bệnh; khuyên không tự ngừng thuốc và đi khám ngay nếu mất thị lực đột ngột."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o"
+            }
+          ]
+        },
+        {
+          "headline": "Xạ thủ Trịnh Thu Vinh giành HCB thế giới, có vé dự Olympic Los Angeles 2028",
+          "meta": "Thanh Niên · 10/11",
+          "body": [
+            "Trịnh Thu Vinh đoạt huy chương bạc tại giải bắn súng vô địch thế giới ở Qatar và qua đó giành suất dự Olympic 2028."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/xa-thu-trinh-thu-vinh-xuat-sac-doat-hcb-the-gioi-lap-ky-tich-gianh-ve-du-olympic-los-angeles-2028-185261110190310257.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Sức khỏe: 3 thói quen hại thận và khung giờ dễ đột quỵ",
+          "meta": "VnExpress · 10/11",
+          "body": [
+            "Bác sĩ cảnh báo ăn mặn kéo dài, thức khuya triền miên và lạm dụng thuốc không rõ nguồn gốc âm thầm hủy hoại cầu thận. Một bài khác lưu ý nguy cơ đột quỵ cao vào những giờ đầu buổi sáng do huyết áp tăng vọt khi thức dậy."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bac-si-canh-bao-3-thoi-quen-bien-than-khoe-manh-thanh-xo-muop-5142762.html"
+            },
+            {
+              "name": "VnExpress (đột quỵ)",
+              "url": "https://vnexpress.net/bac-si-my-canh-bao-khung-gio-de-bi-dot-quy-nhat-5142802.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 11/11/2026 (giờ VN). Thứ Tư không có mục Xây dựng (không tìm được tin BIM, phần mềm hay thảo luận mới có thể xác minh) và không có Khuyến mãi đặc biệt mới. Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu. Các mục ghi 'theo tiêu đề' chưa đọc được chi tiết."
+}
