@@ -15,6 +15,23 @@
   ],
   "articles": [
     {
+      "id": "lam-dong-vi-re-hon",
+      "title": "Làm đồng vị rẻ hơn bằng phản ứng nhiệt hạch",
+      "title_original": "A New Kind of Chemistry",
+      "author": "Brian Potter",
+      "source": "Construction Physics",
+      "source_url": "https://www.construction-physics.com/p/a-new-kind-of-chemistry",
+      "lang": "en",
+      "topics": [
+        "Tiền bạc",
+        "Tư duy & khoa học"
+      ],
+      "summary": "Đồng vị dùng trong chụp ảnh y tế hiện đắt và dễ thiếu hụt. Brian Potter giải thích vì sao nơtron từ nhiệt hạch có thể hạ giá sản xuất, và điều gì mở ra nếu giá đó giảm thật.",
+      "added": "2026-11-10",
+      "reading_minutes": 5,
+      "coverage": "summary"
+    },
+    {
       "id": "vui-ve-o-disney-co-sai-khong",
       "title": "Vui vẻ ở Disney có sai không?",
       "title_original": "The ethics of having a good time at Disney World, Florida",

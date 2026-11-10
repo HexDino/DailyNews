@@ -1,0 +1,105 @@
+{
+  "id": "lam-dong-vi-re-hon",
+  "title": "Làm đồng vị rẻ hơn bằng phản ứng nhiệt hạch",
+  "title_original": "A New Kind of Chemistry",
+  "author": "Brian Potter",
+  "source": "Construction Physics",
+  "source_url": "https://www.construction-physics.com/p/a-new-kind-of-chemistry",
+  "source_published": "2026-10-29",
+  "lang": "en",
+  "topics": [
+    "Tiền bạc",
+    "Tư duy & khoa học"
+  ],
+  "summary": "Đồng vị dùng trong chụp ảnh y tế hiện đắt và dễ thiếu hụt. Brian Potter giải thích vì sao nơtron từ nhiệt hạch có thể hạ giá sản xuất, và điều gì mở ra nếu giá đó giảm thật.",
+  "added": "2026-11-10",
+  "reading_minutes": 5,
+  "source_stats": {
+    "url": "https://www.construction-physics.com/p/a-new-kind-of-chemistry",
+    "coverage": "summary",
+    "word_count": 3407,
+    "char_count": 18233,
+    "paragraph_count": 47,
+    "sentence_count": 145,
+    "heading_count": 3,
+    "sha256": "fa57d829c90dcc933987881cfa0600ac3c0781692b6d256be60367af3bfe067f"
+  },
+  "body": [
+    {
+      "type": "p",
+      "text": "Hoá học đứng sau hầu hết vật liệu quanh ta, nhưng có một nhóm nó không làm được: đồng vị. Tính theo gram, chúng thuộc hàng vật liệu đắt nhất hành tinh, và nguồn cung chỉ có ở vài nơi."
+    },
+    {
+      "type": "p",
+      "text": "Đồng vị là các phiên bản của một nguyên tố, khác nhau ở số nơtron trong hạt nhân. Phản ứng hoá học chỉ xếp lại lớp electron bên ngoài; muốn đổi đồng vị phải đụng vào hạt nhân. Đổi số proton thì được hẳn nguyên tố khác."
+    },
+    {
+      "type": "p",
+      "text": "Chúng nằm trong định tuổi cacbon-14, soi mối hàn bằng iridi-192, đầu báo khói dùng americi-241, và nhiều loại chụp ảnh, xạ trị. Đa số không bền, phân rã theo thời gian bán rã, từ chưa đầy một giây đến hàng trăm triệu năm."
+    },
+    {
+      "type": "p",
+      "text": "Kiếm chúng khó. Nhiều đồng vị không có trong tự nhiên nên phải tạo ra; tách từ quặng cũng khó vì chúng cư xử hoá học gần như y hệt, chỉ khác khối lượng. Dự án Manhattan cần cả khu nhà máy cỡ thành phố nhỏ để làm giàu urani-235, vốn chỉ chiếm 0,72% urani tự nhiên."
+    },
+    {
+      "type": "p",
+      "text": "Potter đi qua ba cách. Máy gia tốc bắn hạt mang điện vào nguyên tử đích. Cyclotron ra đời năm 1929, vài năm sau đã tạo phót-pho-32 cho nghiên cứu ung thư; đến 1939 có chục bệnh nhân được dùng."
+    },
+    {
+      "type": "p",
+      "text": "Nhưng làm số lượng lớn thì kém. Một máy y tế của GE giá vài triệu đô la cộng vài triệu tiền xưởng, mỗi giờ chỉ ra một hạt bụi. Bắn proton làm flo-18, cứ 800 hạt mới một hạt lọt vào hạt nhân đích; phần còn lại thành nhiệt. Một gram flo-18 sẽ tốn điện bằng chừng 1,5 giờ sản lượng cả nước Mỹ."
+    },
+    {
+      "type": "p",
+      "text": "Cách thứ hai là lò phân hạch: vừa thải đồng vị, vừa cung cấp nơtron bắn vào vật liệu khác. Mỹ đã chuyển đồng vị từ lò nghiên cứu đi khắp nơi từ trước khi có nhà máy điện dân sự; giữa thập niên 1950 ghi nhận chừng 50.000 lô mua mỗi năm."
+    },
+    {
+      "type": "p",
+      "text": "Lò thì xây đắt, bị quản lý chặt, và nơtron sinh ra năng lượng thấp. Trong lò điện, nơtron còn bị làm chậm để giữ phản ứng dây chuyền. Nhiều phản ứng cần nơtron nhanh hơn thế nên chạy rất chậm, hoặc không xảy ra."
+    },
+    {
+      "type": "p",
+      "text": "Chuỗi cung ứng mong manh là hệ quả. Techneti-99m dùng trong chụp ảnh y tế có từ molypden-99, mà chất này chỉ làm ở vài lò phản ứng. Năm 2024 một số lò dừng sửa chữa, thế giới thiếu thuốc chẩn đoán."
+    },
+    {
+      "type": "p",
+      "text": "Cách thứ ba, cũng là ý chính, là nhiệt hạch. Phản ứng deuteri–triti tạo nơtron khoảng 14 MeV; nơtron phân hạch thường chỉ 1,5–2 MeV và khoảng 0,1% vượt 10 MeV. Ngưỡng cao hơn mở được phản ứng mà hai cách kia không làm nổi."
+    },
+    {
+      "type": "p",
+      "text": "Tác giả tách hai bài toán: xây nhà máy điện nhiệt hạch khó vì phải thu nhiều năng lượng hơn bỏ vào, còn tạo phản ứng nhiệt hạch đã làm được từ những năm 1930. Sản xuất đồng vị không cần giải bài toán đầu."
+    },
+    {
+      "type": "p",
+      "text": "Lợi thế nằm ở giá. Máy gia tốc chỉ tạo đồng vị nên giá phải gánh hết chi phí xưởng. Với nhiệt hạch, nếu chọn đúng phản ứng, cùng một cơ sở vừa tạo đồng vị vừa bán điện, lấy tiền điện bù chi phí."
+    },
+    {
+      "type": "p",
+      "text": "Với liều y tế thì điện chưa đáng kể: 600.000 liều flo-18 gộp lại chỉ nặng bằng một hạt muối. Nhưng muốn ra hàng gram, hàng tấn cho công nghiệp, chi phí năng lượng thành giới hạn thật."
+    },
+    {
+      "type": "p",
+      "text": "Nếu đồng vị rẻ đi, bốn nhóm việc mở ra. Một là y tế: actinium-225 triển vọng cho xạ trị nhắm đích nhưng nguồn ít đến mức mỗi năm chỉ vài bệnh nhân được dùng; iod-131 đã trị tuyến giáp, flo-18 dùng trong chụp FDG."
+    },
+    {
+      "type": "p",
+      "text": "Hai là nguyên liệu cho lò phản ứng: liti-6, liti-7 làm giàu qua quy trình đắt, hiện chỉ có ở Nga và Trung Quốc; lò muối nóng chảy của TerraPower cần clo-37 mà mới làm được lượng gram, nhu cầu tính bằng tấn. Ba là pin hạt nhân, từng nuôi máy tạo nhịp tim và tàu vũ trụ."
+    },
+    {
+      "type": "p",
+      "text": "Bốn là vật liệu tinh khiết đồng vị: kim cương một đồng vị dẫn nhiệt tốt hơn hẳn kim cương thường, silic-28 tinh khiết dùng cho máy tính lượng tử. Mảng này ít được nghiên cứu vì mẫu quá khó làm. Marathon Fusion còn dùng nơtron nhiệt hạch biến thuỷ ngân thành vàng."
+    },
+    {
+      "type": "p",
+      "text": "Bài giữ nhiều dè dặt. SHINE Technologies, SORGENTINA-RF của Ý, Marathon Fusion và OpenStar của New Zealand đều đang theo đuổi hướng này, phần lớn nhắm đồng vị y tế. Tác giả cũng gạch bớt: đồng vị bền rẻ hơn khi tách bằng cách thông thường, nên khó là hàng sớm của nhiệt hạch."
+    },
+    {
+      "type": "p",
+      "text": "Kết luận nằm ở giá. Pin mặt trời từng là công nghệ hẹp trước khi rẻ dần; thép chỉ phổ biến sau cải tiến luyện kim; Model T đổi thế giới không vì là xe đầu tiên mà vì Ford làm nó rẻ. Potter sẽ theo dõi xem giá đồng vị có đi xuống không."
+    },
+    {
+      "type": "p",
+      "text": "*Bản tóm tắt — đọc toàn bài tại Construction Physics.*"
+    }
+  ]
+}

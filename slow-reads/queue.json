@@ -454,6 +454,28 @@
       "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=vui-ve-o-disney-co-sai-khong",
       "source_published": "2026-11-09",
       "note": "Published as a 598-word summary (coverage: summary), not a translation."
+    },
+    {
+      "source_id": "construction-physics",
+      "url": "https://www.construction-physics.com/p/a-new-kind-of-chemistry",
+      "title": "A New Kind of Chemistry",
+      "author": "Brian Potter",
+      "source": "Construction Physics",
+      "lang": "en",
+      "topics_guess": [
+        "Tiền bạc",
+        "Tư duy & khoa học"
+      ],
+      "est_words": 3407,
+      "fetch": "rss+static",
+      "status": "published",
+      "rights_note": "user-accepted",
+      "added_at": "2026-11-10",
+      "id": "lam-dong-vi-re-hon",
+      "published_at": "2026-11-10",
+      "published_url": "https://hexdino.github.io/DailyNews/slow-reads/article.html?id=lam-dong-vi-re-hon",
+      "source_published": "2026-10-29",
+      "note": "Published as an 881-word summary (coverage: summary), not a translation."
     }
   ]
 }
