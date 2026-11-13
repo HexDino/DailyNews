@@ -1,0 +1,1455 @@
+{
+  "date": "2026-11-14",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 14/11/2026 · Thứ Bảy · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Mỹ dừng toàn bộ chuyến bay cất cánh vì sự cố liên lạc không lưu, khoảng 7.000 chuyến bị ảnh hưởng",
+    "OpenAI ra ChatGPT Wallet cho tác tử tự mua hàng; LangChain đạt định giá 3 tỷ USD",
+    "Bê bối Nvidia lan tới nội các: Bessent đổ lỗi Bộ Thương mại của Lutnick",
+    "Man Utd chính thức bổ nhiệm Pochettino; Nhật Bản huỷ giao hữu với tuyển Việt Nam",
+    "19:00 tối nay U23 Việt Nam – U23 Qatar tranh cúp Gia Lai VTV Cup",
+    "Rosalía ba lần đoạt Album của năm tại Latin Grammy"
+  ],
+  "followups": [
+    {
+      "title": "Bê bối CEO Nvidia Jensen Huang",
+      "update": "Bộ trưởng Tài chính Bessent đổ lỗi Bộ Thương mại chậm đưa Megaspeed vào danh sách thực thể; giới đầu tư lo nguồn vốn Nvidia cho startup AI thu hẹp; nghiên cứu mới nói model Trung Quốc mạnh nhất được huấn luyện trên chip Blackwell bị cấm.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-10",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+        }
+      ]
+    },
+    {
+      "title": "Đàm phán hòa bình Nga – Ukraine",
+      "update": "Điện Kremlin nói chỉ cân nhắc cho châu Âu tham gia khi thấy họ thực sự muốn đóng góp; BBC nhận định Putin đòi một 'kiến trúc an ninh' mới cho châu Âu.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-09",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/nga-neu-dieu-kien-de-chau-au-tham-gia-hoa-dam-ukraine-100261113211105289.htm"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo"
+        }
+      ]
+    },
+    {
+      "title": "Sự cố Microsoft 365 toàn cầu",
+      "update": "Microsoft xin lỗi 'sâu sắc'; đến chiều 13/11 (giờ Anh) dịch vụ phục hồi phần lớn sau gần 24 giờ nhưng chưa rõ khi nào khôi phục hoàn toàn.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-13",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o"
+        }
+      ]
+    },
+    {
+      "title": "Nổ cửa hàng gas ở Tân Thuận (TP.HCM)",
+      "update": "Tìm thấy thêm một thi thể trong đống đổ nát chiều 13/11; TP.HCM tiếp tục tìm kiếm cứu nạn.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-13-chieu",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/vu-no-sap-nha-o-tphcm-tim-thay-them-mot-thi-the-trong-dong-do-nat-185261113204355896.htm"
+        }
+      ]
+    },
+    {
+      "title": "Du khách Kuwait mất tích ở Sa Pa",
+      "update": "Đã tìm thấy thi thể ông Khalid Aldawoud gần nơi phát hiện xe máy trên đèo Ô Quy Hồ.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-11-13-chieu",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/tim-thay-thi-the-du-khach-nuoc-ngoai-bi-mat-tich-o-deo-o-quy-ho-18526111318074719.htm"
+        }
+      ]
+    },
+    {
+      "title": "Man Utd tìm HLV thay Carrick",
+      "update": "Man Utd chính thức bổ nhiệm Pochettino, bắt đầu làm việc 18/11, ra mắt dự kiến trước Liverpool 22/11.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-11-12",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-14",
+      "title": "Eurovision phiên bản châu Á lần đầu tổ chức tại Bangkok (11 nước tham gia)",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Thủ tướng Lê Minh Hưng dự Hội nghị Cấp cao ASEAN 49 tại Manila (14–17/11)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/thu-tuong-sap-du-hoi-nghi-cap-cao-asean-5143471.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm dự Hội nghị cấp cao Pháp ngữ lần thứ 20 tại Campuchia (14–16/11)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-sap-du-hoi-nghi-cap-cao-phap-ngu-5143743.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Đài Bắc Trung Hoa – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "time": "19:00",
+      "timezone": "Asia/Saigon",
+      "title": "U23 Việt Nam – U23 Qatar (Gia Lai VTV Cup 2026), trực tiếp VTV6, FPT Play, TV360",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/u23-viet-nam-u23-qatar-19-gio-1411-truc-tiep-tren-fpt-play-vtv6-tv360-vang-danh-tai-pho-nui-185261113205917498.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Hạn các xã, phường Hà Nội báo cáo rà soát an toàn trường học (sau vụ Kim Liên)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Báo Hôm Nay",
+          "url": "https://www.baohomnay.com/Giao-duc/3-000-hoc-sinh-THCS-Kim-Lien-chuyen-sang-hoc-truc-tuyen-tu-6-11-3753262.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Ronaldinho dự kiến đá chính cho Ravenna gặp Forli (Serie C)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Thông tư 81 có hiệu lực: cấm thu quỹ lớp kiểu cũ",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/cam-quy-lop-tu-15-11-ban-doc-hoan-nghenh-nhung-lo-ngai-binh-moi-ruou-cu-100261106141317645.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Tổng thống Chile José Antonio Kast thăm chính thức Việt Nam (3 ngày)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/tong-thong-chile-va-phu-nhan-sap-tham-viet-nam-100261111220134922.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Hết ưu đãi DeepSeek V4.1 Flash miễn phí trên Itzi (đến 00:00 UTC 17/11)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Itzi",
+          "url": "https://itzi.app/free-deepseek"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "title": "New Zealand áp dụng thị thực mới: du học sinh ở lại làm việc thêm 6 tháng",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/new-zealand-cho-phep-du-hoc-sinh-o-lai-lam-viec-them-6-thang-100261106135240169.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "time": "08:00",
+      "timezone": "Asia/Saigon",
+      "title": "Hết hạn 500 triệu token GLM-5.3-Flash miễn phí trên ZCode (9:00 giờ Trung Quốc)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "AI Promo Now",
+          "url": "https://www.aipromonow.com/en/promos/zcode-weekend-glm53-flash-5e8"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "title": "Hết hạn ưu đãi Claude Fable 5.2 cho gói Pro và ghế standard Team (dùng Fable trong gói + 1 lượt reset)",
+      "topic": "Công nghệ",
+      "note": "Tức khoảng 14:59 ngày 17/11 giờ VN. Lượt reset của Max/Ultra dùng được đến 8/3/2027.",
+      "sources": [
+        {
+          "name": "Claude Help Center",
+          "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự AIPA-47 tại Philippines (17–18/11)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chu-tich-quoc-hoi-sap-du-aipa-47-o-philippines-5143988.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm dự Tuần lễ Cấp cao APEC 33 tại Thâm Quyến, Trung Quốc (17–20/11)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-se-du-tuan-le-cap-cao-apec-tai-trung-quoc-5144069.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Việt Nam – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "note": "Trận được lùi từ 15/11 sang 17/11.",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Pochettino bắt đầu làm việc tại Man Utd",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/man-united-bo-nhiem-hlv-pochettino-voi-chuc-danh-gay-tranh-cai-100261113201741117.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Khai mạc U17 World Cup 2026 (19/11–13/12); Việt Nam ở bảng G cùng Bỉ, New Zealand, Mali",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/u17-viet-nam-thang-u17-fiji-2-0-10026110921512995.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "title": "VinFast dự kiến giới thiệu hai mẫu xe máy điện mới (theo thông tin đại lý)",
+      "topic": "Đời sống",
+      "note": "Thời điểm chưa được hãng xác nhận chính thức.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/vinfast-sap-ra-mat-2-xe-may-dien-moi-100261113131020197.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Hết lệnh tạm dừng 14 ngày xây 'khải hoàn môn' ở Washington (dự kiến, tính từ 6/11)",
+      "topic": "Chính trị",
+      "note": "Tòa có thể gia hạn hoặc ra phán quyết tiếp theo.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Ngày Nhà giáo Việt Nam: Bộ GD-ĐT yêu cầu tổ chức tinh gọn, không huy động phụ huynh đóng góp",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bo-gd-dt-yeu-cau-tuyet-doi-khong-huy-dong-cha-me-hoc-sinh-dong-gop-to-chuc-20-11-100261113135444174.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến biểu quyết Luật sửa đổi Luật Bảo hiểm xã hội",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chua-mo-rong-dien-dong-bao-hiem-bat-buoc-voi-tai-xe-cong-nghe-5142415.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến thông qua chủ trương 3 cao tốc mới và nghị quyết đặc thù du lịch",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress – cao tốc",
+          "url": "https://vnexpress.net/trinh-quoc-hoi-dau-tu-them-ba-du-an-cao-toc-5141815.html"
+        },
+        {
+          "name": "VnExpress – du lịch",
+          "url": "https://vnexpress.net/de-xuat-uu-dai-lon-cho-cac-du-an-du-lich-ty-usd-5141836.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Liverpool – Man Utd tại Anfield (sau đợt FIFA Days)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50441594/man-united-michael-carrick-sir-jim-ratcliffe-future-talks"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Ngày Văn hóa Việt Nam: miễn phí vé 3 bảo tàng ở Đà Nẵng",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/mien-phi-ve-3-bao-tang-da-nang-con-duoc-xem-gi-choi-gi-trong-ngay-van-hoa-viet-nam-24-11-100261113143151156.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "TP.HCM bắn pháo hoa tầm cao tại ba điểm",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tp-hcm-ban-phao-hoa-tam-cao-ba-diem-ngay-24-11-5141981.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hạn gửi Bộ Xây dựng đề xuất kết nối sân bay Gia Bình – trung tâm Hà Nội (đường sắt đô thị)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/pho-thu-tuong-uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-ha-noi-5142080.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Bầu cử sớm ở Tây Ban Nha",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hạn đại lý vé số TP.HCM áp dụng quy định cấm bán cho người dưới 18 tuổi",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/dai-ly-ve-so-tphcm-dan-bang-cam-tre-duoi-18-tuoi-mua-ve-so-truoc-3011-185261110094016179.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Jeremy Latcham tiếp quản DC Studios thay James Gunn và Peter Safran",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "time": "",
+      "title": "Hạn 28 ngày để ông Eisenkot gom đủ 61 phiếu lập chính phủ Israel (tính từ 7/11; có thể gia hạn tối đa 14 ngày)",
+      "topic": "Chính trị",
+      "note": "Ngày 5/12 là mốc tính toán từ thông báo ngày 7/11.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/doi-thu-cua-thu-tuong-israel-duoc-chi-dinh-thanh-lap-chinh-phu-moi-5142108.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Sân bay Cà Mau dự kiến hoạt động trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/san-bay-ca-mau-lui-ngay-khai-thac-tro-lai-den-18-12-5141694.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Hạn đề xuất hoàn thành 6 dự án dịch vụ sân bay Long Thành",
+      "topic": "Xây dựng",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-lui-han-hoan-thanh-6-du-an-tai-san-bay-long-thanh-5141701.html"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-01",
+      "title": "Hạn đăng ký và luật an toàn AI RAISE của New York có hiệu lực",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "OpenAI ra ChatGPT Wallet: tác tử 'dots' tự chọn hàng và thanh toán thay người dùng",
+          "meta": "TechCrunch, The Verge · 13/11 (giờ Mỹ)",
+          "body": [
+            "OpenAI ra mắt tính năng ví cho phép các tác tử của ChatGPT (gọi là dots) giúp người dùng quyết định mua gì rồi hoàn tất thanh toán. Đợt đầu chỉ mở giới hạn cho thuê bao Pro tại Mỹ.",
+            "Theo OpenAI, người dùng vẫn kiểm soát: xem lại món hàng, tổng tiền và thẻ sẽ dùng trước khi thanh toán, rồi xác nhận bằng Face ID hoặc vân tay, tạo bản ghi giao dịch. TechCrunch lưu ý DoorDash, Uber cho biết lượng đơn đặt qua tác tử AI vẫn thấp, trong khi Meta Muse (hơn 10 triệu người dùng) thấy mua sắm có AI hỗ trợ là hoạt động hàng đầu."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+            }
+          ]
+        },
+        {
+          "headline": "LangChain gọi 300 triệu USD vòng C, định giá 3 tỷ USD",
+          "meta": "TechCrunch · 13/11",
+          "body": [
+            "Startup quản lý tác tử AI LangChain huy động 300 triệu USD do CapitalG dẫn đầu, có GIC (Singapore), DFJ Growth, IVP, Sapphire Ventures tham gia, định giá 3 tỷ USD – hơn gấp đôi mức 1,25 tỷ USD khoảng một năm trước.",
+            "Công ty cho biết có 7.000 khách hàng dùng LangSmith, công cụ tạo và quản lý tác tử không khoá vào model hay đám mây nào; thông điệp chính là để doanh nghiệp 'sở hữu trí tuệ của riêng mình'."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+            }
+          ]
+        },
+        {
+          "headline": "Hậu Jensen Huang: giới đầu tư lo 'hố' vốn cho startup AI; nghiên cứu nói model Trung Quốc mạnh nhất được huấn luyện trên chip Blackwell bị cấm",
+          "meta": "TechCrunch · 13/11",
+          "body": [
+            "Theo PitchBook (TechCrunch dẫn), Nvidia đã tham gia 105 vòng gọi vốn trong năm nay, thường là nhà đầu tư lớn nhất. Các quỹ và nhà sáng lập lo khi ông Huang rời đi, các khoản rót vốn sẽ nhỏ hơn và định giá thấp hơn.",
+            "Một nghiên cứu mới cho thấy các model mở hàng đầu của Trung Quốc được huấn luyện trên GPU Blackwell – loại bị Mỹ cấm xuất sang Trung Quốc – cho thấy quy mô vấn đề kiểm soát xuất khẩu mà Nvidia đang đối mặt. Mỹ hiện chỉ cho xuất H200 qua tuyến vận chuyển vòng để thu thuế 25%."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+            }
+          ]
+        },
+        {
+          "headline": "ElevenLabs ra ElevenAI: ghi chú cuộc họp và đọc chép cho nhóm, hơn 90 ngôn ngữ",
+          "meta": "TechCrunch · 13/11",
+          "body": [
+            "Ra mắt tại sự kiện 11/11 Summit ở New York, ElevenAI đang ở dạng xem trước, phải đăng ký truy cập sớm. Ứng dụng ghi chú các cuộc họp (có báo cho người tham gia là đang ghi), cho hỏi đáp xuyên các cuộc họp, hỗ trợ trực tiếp trong lúc họp và nối với ElevenAgent để làm việc tiếp theo như soạn email.",
+            "Tính năng đọc chép chuyển giọng nói thành văn bản đã làm sạch trong mọi ứng dụng, hỗ trợ hơn 90 ngôn ngữ. ElevenLabs hiện được định giá 22 tỷ USD."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+            }
+          ]
+        },
+        {
+          "headline": "AI giúp giải mã 1.009 trang sổ tay viết tốc ký của Kurt Gödel, được cho là chứa hàng trăm định lý đã chứng minh",
+          "meta": "The Guardian · 13/11",
+          "body": [
+            "Nhà logic học Áo Kurt Gödel, cha đẻ hai định lý bất toàn (1931), sau những năm 1930 chỉ công bố ít bài, nhưng để lại hàng chục nghìn trang chưa xuất bản. 1.009 trang sổ tay viết dày đặc, phần lớn bằng một kiểu tốc ký đã lỗi thời, nay được giải mã với sự trợ giúp của AI và được cho là chứa hàng trăm định lý đã chứng minh."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "lot-map: bản đồ trực tiếp cho thấy Claude Code đang làm gì",
+          "meta": "GitHub · tạo 9/11",
+          "body": [
+            "Repo hiển thị một bản đồ bên cạnh khung chat: lời gọi công cụ, bước của model, hook, skill và subagent sáng lên khi chúng chạy, giúp theo dõi phiên Claude Code. Khoảng 726 sao khi tra cứu."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/alexeyw/lot-map"
+            }
+          ]
+        },
+        {
+          "headline": "ste80-humanizer: skill cho tác tử viết lại văn bản theo tiếng Anh kỹ thuật giản lược ASD-STE100",
+          "meta": "GitHub · tạo 9/11",
+          "body": [
+            "Agent skill loại bỏ 'dấu vết AI' và viết lại văn bản gần chuẩn Simplified Technical English (ASD-STE100) – hữu ích cho tài liệu kỹ thuật, hướng dẫn. Khoảng 488 sao khi tra cứu."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/Dodaios/ste80-humanizer"
+            }
+          ]
+        },
+        {
+          "headline": "guizang-game-skill: skill cho Claude Code/Codex dựng game hành động 3D chạy trên trình duyệt",
+          "meta": "GitHub · tạo 11/11",
+          "body": [
+            "Skill hướng dẫn tác tử tạo từ đầu một game hành động 3D chơi được trên trình duyệt, kèm bản demo 'Sương khoá sơn môn' (雾锁山门). Khoảng 311 sao khi tra cứu."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/op7418/guizang-game-skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Microsoft xin lỗi 'sâu sắc' sau gần 24 giờ Outlook, Teams gián đoạn toàn cầu",
+          "meta": "BBC, The Verge · 13/11",
+          "body": [
+            "Đến chiều 13/11 (giờ Anh), các dịch vụ đã phục hồi phần lớn sau gần 24 giờ sự cố, nhưng Microsoft nói chưa biết khi nào khôi phục hoàn toàn. Sự cố ảnh hưởng hơn 70 quốc gia; các sản phẩm bị ảnh hưởng có hơn 430 triệu người dùng.",
+            "Giới chuyên gia gọi đây là lời nhắc về việc thế giới phụ thuộc vào một nhóm nhỏ nhà cung cấp công nghệ lớn."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage"
+            }
+          ]
+        },
+        {
+          "headline": "Uber xác nhận hàng nghìn tài xế bị lộ thông tin bằng lái qua vụ tấn công Fireworks AI",
+          "meta": "TechCrunch · 13/11",
+          "body": [
+            "Trong thông báo gửi một số tổng chưởng lý bang Mỹ, Uber cho biết được nhà cung cấp báo ngày 9/10 rằng tin tặc lấy được thông tin đăng nhập nội bộ và dùng để truy cập dữ liệu của Uber. TechCrunch xác định nhà cung cấp là Fireworks AI – nền tảng chạy model mở vừa bị lộ dữ liệu khách hàng như Notion."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+            }
+          ]
+        },
+        {
+          "headline": "SpaceX thử 'bắt đôi' cả hai tầng Starship bằng tay đỡ của tháp phóng",
+          "meta": "BBC, Tuổi Trẻ · 13/11",
+          "body": [
+            "Ở chuyến bay thử tiếp theo, SpaceX sẽ dùng cánh tay cơ khí 'đũa' trên tháp phóng để bắt cả tầng đẩy lẫn tàu Starship khi trở về. Nếu thành công, đây sẽ là lần đầu một tên lửa đã bay vào không gian được thu hồi toàn bộ, mở đường cho việc tái sử dụng."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thu-thach-chua-tung-co-cua-spacex-don-bat-ca-hai-tang-starship-sau-chuyen-bay-vao-khong-gian-100261113105157579.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Kindle Colorsoft mới: mỏng nhẹ hơn, giá từ 290 USD",
+          "meta": "TechCrunch · 13/11",
+          "body": [
+            "Bản mới có màn hình E-Ink màu 7 inch tràn viền, 300ppi cho nội dung đen trắng và 150ppi cho màu; bản thường 16GB, bản Signature 32GB. TechCrunch nhận xét ai đã có Colorsoft đời đầu (2024) thì không cần nâng cấp."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
+            }
+          ]
+        },
+        {
+          "headline": "6 pallet phần cứng Nvidia trị giá 11,4 triệu USD 'bốc hơi' trên đường từ California tới Texas",
+          "meta": "FreightWaves · 9/11",
+          "body": [
+            "Xe tải nhận hàng ở Oakland ngày 29/8 để giao tới Fort Worth, mang logo một công ty vận tải thực phẩm; nhà điều tra mất dấu ở hạt San Bernardino. Cảnh sát Oakland xác nhận đang điều tra vụ trộm, giữa lúc có tin tổng cộng khoảng 111 triệu USD hàng trung tâm dữ liệu bị đánh cắp."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "FreightWaves",
+              "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "Khuyến mãi đặc biệt",
+      "title": "Công nghệ · Khuyến mãi đặc biệt",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "ZCode tặng 500 triệu token GLM-5.3-Flash cho mọi tài khoản cuối tuần này (đến 9:00 ngày 16/11, giờ Trung Quốc)",
+          "meta": "AI Promo Now, ZCode · 13/11",
+          "body": [
+            "Ưu đãi gì: mỗi tài khoản ZCode được 500 triệu token GLM-5.3-Flash dùng trong ứng dụng ZCode, ngữ cảnh tới 1 triệu token, có nhập ảnh.",
+            "Cách nhận: tải hoặc cập nhật ứng dụng ZCode, đăng nhập tài khoản Z.ai, nhận gói 'Weekend Build'; sau 23:00 giờ Trung Quốc (22:00 giờ VN) chuyển nhà cung cấp sang Start Plan và chọn GLM-5.3-Flash.",
+            "Thời hạn: kích hoạt từ 23:00 ngày 13/11, token chưa dùng hết hạn sau 9:00 ngày 16/11 (giờ Trung Quốc, tức 8:00 giờ VN). Lưu ý: chỉ dùng trong client ZCode, không phải API; nên đọc điều khoản dữ liệu của Z.ai trước khi đưa mã nguồn nhạy cảm vào."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "AI Promo Now",
+              "url": "https://www.aipromonow.com/en/promos/zcode-weekend-glm53-flash-5e8"
+            },
+            {
+              "name": "ZCode",
+              "url": "https://zcode.z.ai/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Man Utd chính thức bổ nhiệm Pochettino; ông rơi nước mắt khi chia tay tuyển Mỹ",
+          "meta": "BBC, Tuổi Trẻ · 13/11",
+          "body": [
+            "Man Utd công bố Mauricio Pochettino thay Michael Carrick với chức danh 'head coach'. Theo BBC, United trả phí giải phóng hợp đồng khoảng 7,4 triệu bảng cho tuyển Mỹ, cộng thêm khoản cho ban huấn luyện; nguồn tin BBC nói hợp đồng 2,5 năm, Sky Sports (Tuổi Trẻ dẫn) nói tới hè 2029.",
+            "Ông bắt đầu làm việc ngày 18/11, trận ra mắt dự kiến là chuyến làm khách trước Liverpool ngày 22/11. Pochettino gọi việc rời tuyển Mỹ là 'một trong những quyết định khó khăn nhất' sự nghiệp."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/man-united-bo-nhiem-hlv-pochettino-voi-chuc-danh-gay-tranh-cai-100261113201741117.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Nhật Bản huỷ trận giao hữu với tuyển Việt Nam ngày 30/12; trận với Qatar cũng nhiều khả năng bị bỏ",
+          "meta": "Tuổi Trẻ, Thanh Niên · 13/11",
+          "body": [
+            "JFA huỷ trận Kirin Challenge Cup với Việt Nam tại Panasonic Stadium Suita (Osaka) vì Asian Cup 2027 ở Saudi Arabia bị AFC hoãn sang tháng 12/2027. Theo Thanh Niên, trận đấu kín với Qatar dự kiến 5/1/2027 cũng nhiều khả năng không còn.",
+            "Việc Asian Cup lùi lịch còn khiến VCK U23 châu Á 2028 rơi vào thế trùng lịch, theo Tuổi Trẻ."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nhat-ban-huy-tran-giao-huu-voi-tuyen-viet-nam-100261113200206802.htm"
+            },
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/sau-tran-nhat-ban-doi-tuyen-viet-nam-huy-luon-tran-giao-huu-voi-doi-tuyen-qatar-185261113203541909.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/trung-voi-asian-cup-2027-u23-chau-a-2028-roi-vao-the-kho-100261113171449728.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Tối nay 19:00: U23 Việt Nam gặp U23 Qatar quyết định ngôi vô địch Gia Lai VTV Cup",
+          "meta": "Thanh Niên, Tuổi Trẻ · 14/11",
+          "body": [
+            "Sau hai trận toàn thắng (trận gần nhất 1-0 trước Singapore), U23 Việt Nam chỉ cần thắng Qatar để đăng quang. HLV Đinh Hồng Vinh liên tục xoay tua đội hình; trận đấu trực tiếp trên VTV6, FPT Play, TV360."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/u23-viet-nam-u23-qatar-19-gio-1411-truc-tiep-tren-fpt-play-vtv6-tv360-vang-danh-tai-pho-nui-185261113205917498.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/lich-truc-tiep-giai-u23-gia-lai-vtv-cup-2026-viet-nam-quyet-dau-qatar-10026111313173224.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Vòng loại Afcon 2027: Salah lập cú đúp cho Ai Cập, Nigeria thắng Tanzania 3-1, Tunisia thua",
+          "meta": "BBC Sport · 13/11",
+          "body": [
+            "Tolu Arokodare là người hùng giúp Nigeria thắng 3-1 trên sân nhà trước đồng chủ nhà Tanzania, giữ hy vọng giành suất duy nhất ở bảng L. Mohamed Salah ghi hai bàn khi Ai Cập thắng dễ Malawi; Morocco cũng thắng, còn Tunisia thất bại."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po"
+            }
+          ]
+        },
+        {
+          "headline": "Thủ môn Owono bị treo giò 12 trận sau pha vào bóng khiến tiền đạo Jesus de Miguel qua đời",
+          "meta": "BBC Sport, Tuổi Trẻ · 13/11",
+          "body": [
+            "Uỷ ban kỷ luật Liên đoàn bóng đá Tây Ban Nha phạt thủ môn 25 tuổi của FC Andorra 12 trận vì 'dùng chân đánh mạnh vào ngực đối thủ với lực quá mức' trong trận hạng Nhì với Tenerife ngày 2/11, theo biên bản trọng tài."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thu-mon-vao-bong-gay-chet-nguoi-o-tay-ban-nha-nhan-an-phat-100261114054722107.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ronaldinho 46 tuổi sắp đá chính lần đầu sau hơn 10 năm cho Ravenna (Serie C)",
+          "meta": "BBC Sport · 13/11",
+          "body": [
+            "Ronaldinho dự kiến ra sân trận derby Ravenna – Forli ở hạng ba Italy chủ nhật 15/11, trận đầu cho CLB kể từ khi gia nhập hồi tháng 8. Lần cuối ông thi đấu chính thức là cho Fluminense tháng 9/2015."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo"
+            }
+          ]
+        },
+        {
+          "headline": "VFF kỷ luật thêm 3 thành viên CLB Long An vì dàn xếp tỷ số",
+          "meta": "Tuổi Trẻ · 13/11",
+          "body": [
+            "Ngày 12/11, Ban kỷ luật VFF ra quyết định với 3 thành viên CLB Long An mùa 2025-2026, sau khi Cơ quan Cảnh sát điều tra Bộ Công an công bố thông tin chính thức ngày 11/11."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/them-3-thanh-vien-clb-long-an-bi-vff-ky-luat-vi-dan-xep-ti-so-100261113111714044.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Mỹ dừng toàn bộ chuyến bay cất cánh trên cả nước vì sự cố liên lạc kiểm soát không lưu",
+          "meta": "TechCrunch, Al Jazeera, Thanh Niên · 13/11 (giờ Mỹ)",
+          "body": [
+            "Lúc 15:54 giờ miền Đông Mỹ ngày 13/11 (3:54 sáng 14/11 giờ VN), FAA ra lệnh dừng mọi chuyến bay khởi hành trên toàn nước Mỹ 'do tình huống bất thường và vì lý do an toàn', sau sự cố liên lạc ảnh hưởng nhiều Trung tâm Kiểm soát Đường dài (ARTCC). Máy bay đang bay vẫn được hạ cánh; chuyến quốc tế bay đến được xử lý từng trường hợp.",
+            "Bộ trưởng Giao thông Sean Duffy cho biết kỹ thuật viên FAA đang điều tra. Theo FlightAware, khoảng 7.000 chuyến bay bị hoãn hoặc huỷ. Đến lúc lên khuôn, chưa thấy thông báo dỡ lệnh trong các nguồn đã kiểm tra."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue"
+            },
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/nong-my-tam-dung-khoi-hanh-bay-tren-toan-quoc-185261114055136897.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bê bối Nvidia lan tới nội các: Bộ trưởng Tài chính Bessent đổ lỗi Bộ Thương mại của Lutnick",
+          "meta": "BBC · 13/11",
+          "body": [
+            "Trả lời CNBC, Bộ trưởng Tài chính Scott Bessent nói nhiều cơ quan chính phủ 'đã ủng hộ đưa Megaspeed vào danh sách thực thể trong nhiều tháng', ngụ ý Bộ Thương mại của Howard Lutnick giám sát lỏng việc xuất chip AI. Áp lực buộc ông Lutnick giải trình đến từ cả hai đảng.",
+            "Ông Bessent cũng giải thích việc chuyển vào sống trong căn cứ quân sự, nói một phần vì báo chí đăng ảnh dinh thự của ông và khẳng định không khuất phục trước đe doạ ám sát từ Iran, theo VnExpress."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bo-truong-tai-chinh-my-lam-ro-ly-do-don-nha-vao-can-cu-quan-su-5144485.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thượng nghị sĩ Van Hollen thách thức Chuck Schumer giành ghế lãnh đạo phe Dân chủ tại Thượng viện",
+          "meta": "BBC · 13/11",
+          "body": [
+            "Sau khi Dân chủ thắng lớn kỳ bầu cử giữa kỳ, thượng nghị sĩ bang Maryland Chris Van Hollen (67 tuổi) viết trên X rằng 'để thực hiện được, chúng ta cần lãnh đạo mới'. Ông Schumer (75 tuổi) lãnh đạo phe Dân chủ ở Thượng viện từ 2017."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o"
+            }
+          ]
+        },
+        {
+          "headline": "Nga đặt điều kiện cho châu Âu tham gia hoà đàm; BBC: Putin nâng yêu sách về 'kiến trúc an ninh' châu Âu",
+          "meta": "Tuổi Trẻ, BBC · 13/11",
+          "body": [
+            "Phát ngôn viên Điện Kremlin Dmitry Peskov nói Nga chỉ cân nhắc mở rộng thành phần đàm phán khi thấy châu Âu 'thực sự có ý định đóng góp cho tiến trình hoà bình'.",
+            "Biên tập viên BBC về Nga Steve Rosenberg nhận định sau cuộc gặp đặc phái viên Witkoff và Kushner, Điện Kremlin đòi 'một kiến trúc an ninh và hoà bình mới, lâu dài, không thể chia cắt' – tức thay đổi cấu trúc an ninh châu Âu theo hướng có lợi cho Nga, trong khi vẫn bác bỏ ngừng bắn toàn diện."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nga-neu-dieu-kien-de-chau-au-tham-gia-hoa-dam-ukraine-100261113211105289.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo"
+            }
+          ]
+        },
+        {
+          "headline": "Thổ Nhĩ Kỳ và Qatar ký hiệp định phòng thủ chung",
+          "meta": "Al Jazeera · 13/11",
+          "body": [
+            "Hiệp định được ký sau cuộc gặp giữa Tổng thống Erdogan và Quốc vương Qatar Sheikh Tamim bin Hamad Al Thani tại Istanbul. Phía Thổ Nhĩ Kỳ nói hai nước sẽ cùng ngăn chiến tranh tái bùng phát ở vùng Vịnh; Quốc vương Qatar gọi đây là 'quan hệ đối tác chiến lược'."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement"
+            }
+          ]
+        },
+        {
+          "headline": "Guinea: ít nhất 10 người chết trong đụng độ quanh lệnh cấm đào vàng thủ công",
+          "meta": "Al Jazeera · 13/11",
+          "body": [
+            "Đụng độ nổ ra ngày 12/11 ở Balato, vùng Siguiri, khi lực lượng an ninh tuần tra thực thi lệnh cấm khai thác vàng thủ công ban hành ngày 2/11 vì suy thoái môi trường; 13 người khác bị thương. Chính phủ không nói ai nổ súng trước."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng Bí thư, Chủ tịch nước Tô Lâm dự Lễ kỷ niệm 950 năm Quốc Tử Giám – Quốc học Việt Nam",
+          "meta": "Tuổi Trẻ · 13/11",
+          "body": [
+            "Tối 13/11, lễ kỷ niệm cấp quốc gia được tổ chức tại Văn Miếu – Quốc Tử Giám (Hà Nội). Tổng Bí thư, Chủ tịch nước nhấn mạnh tầm nhìn của tiền nhân khi lập Quốc Tử Giám đến nay vẫn giữ nguyên giá trị lý luận và thực tiễn."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-du-le-ky-niem-950-nam-quoc-tu-giam-quoc-hoc-viet-nam-100261113235743698.htm"
+            }
+          ]
+        },
+        {
+          "headline": "UBKT Trung ương khiển trách Chủ tịch Tuyên Quang, cảnh cáo Phó chủ tịch Vương Ngọc Hà vì sai phạm kỳ thi tốt nghiệp THPT",
+          "meta": "Tuổi Trẻ, Thanh Niên · 13/11",
+          "body": [
+            "Tại kỳ họp thứ 16, UBKT Trung ương khiển trách Chủ tịch UBND tỉnh Tuyên Quang Phan Huy Ngọc, cảnh cáo Phó chủ tịch Vương Ngọc Hà và kỷ luật nhiều cán bộ liên quan sai phạm tổ chức kỳ thi tốt nghiệp THPT.",
+            "Uỷ ban cũng đề nghị Ban Bí thư kỷ luật 3 nguyên lãnh đạo Bình Phước, Bình Dương cũ (Lê Hoàng Lâm, Huỳnh Anh Minh, Nguyễn Thành Tài) và xác định Giám đốc Sở Tư pháp Lâm Đồng Phạm Thị Trà My kê khai lý lịch không trung thực."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ubkt-trung-uong-khien-trach-chu-tich-tinh-tuyen-quang-canh-cao-pho-chu-tich-vuong-ngoc-ha-va-ky-luat-nhieu-can-bo-100261113190314766.htm"
+            },
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/de-nghi-ky-luat-3-can-bo-nguyen-lanh-dao-tinh-binh-phuoc-binh-duong-cu-185261113203305041.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Thủ tướng Lê Minh Hưng dự Hội nghị cấp cao ASEAN 49 tại Manila 14–17/11; Tổng Bí thư tiếp đặc phái viên Cuba",
+          "meta": "Tuổi Trẻ, VnExpress · 13/11",
+          "body": [
+            "Thứ trưởng Ngoại giao Đặng Hoàng Giang cho biết chuyến đi khẳng định ASEAN là ưu tiên chiến lược hàng đầu trong chính sách đối ngoại của Việt Nam; Philippines là Chủ tịch ASEAN 2026.",
+            "Chiều 13/11, Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Ngoại trưởng Cuba Bruno Rodríguez Parrilla, khẳng định Việt Nam sẽ hỗ trợ Cuba trong khả năng và kêu gọi dỡ bỏ cấm vận đơn phương."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ba-uu-tien-cua-viet-nam-tai-hoi-nghi-cap-cao-asean-lan-thu-49-100261113180837604.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-tiep-dac-phai-vien-cuba-5144463.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thủ tướng yêu cầu điều tra vụ tai nạn đặc biệt nghiêm trọng làm 3 người chết ở Tây Ninh",
+          "meta": "Tuổi Trẻ · 13/11",
+          "body": [
+            "Phó thủ tướng Thường trực Phạm Gia Túc ký công điện của Thủ tướng, giao Bộ Công an chỉ đạo điều tra nguyên nhân và yêu cầu Tây Ninh thăm hỏi, hỗ trợ gia đình nạn nhân, có biện pháp phòng ngừa."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thu-tuong-yeu-cau-dieu-tra-nguyen-nhan-vu-tai-nan-lam-3-nguoi-chet-tai-tay-ninh-100261113211520636.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Rosalía làm nên lịch sử: nữ nghệ sĩ đầu tiên ba lần đoạt 'Album của năm' tại Latin Grammy",
+          "meta": "BBC · 13/11",
+          "body": [
+            "Ca sĩ Tây Ban Nha thắng với album Lux, mang về tổng cộng 5 giải, trong đó ca khúc La Perla đoạt Bài hát của năm và Bài hát pop xuất sắc. Giải Thu âm của năm thuộc về ca khúc Niño của nghệ sĩ Argentina Milo J."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o"
+            }
+          ]
+        },
+        {
+          "headline": "Tối nay Eurovision châu Á ở Bangkok: Huy Tuấn nhắn khán giả trong nước 'đừng bình chọn cho Tóc Tiên'",
+          "meta": "Tuổi Trẻ · 13/11",
+          "body": [
+            "Tóc Tiên đại diện Việt Nam tại Eurovision Song Contest Asia 2026 diễn ra tối 14/11 ở Bangkok. Nhạc sĩ Huy Tuấn đăng 'Đừng bình chọn cho Tóc Tiên (nếu bạn là người Việt đang ở Việt Nam)' và tiết lộ vai trò đặc biệt của mình tại cuộc thi."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/truoc-eurovision-song-contest-asia-2026-huy-tuan-bat-ngo-keu-goi-dung-binh-chon-cho-toc-tien-100261113194349615.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Khai mạc Lễ hội Thiết kế Sáng tạo Hà Nội 2026 'Thăng Long Kẻ Nghệ', kéo dài 16 ngày",
+          "meta": "Tuổi Trẻ, VnExpress · 13/11",
+          "body": [
+            "Tối 13/11, lễ hội do UBND Hà Nội và Hội Kiến trúc sư Việt Nam tổ chức mở màn bằng chương trình kết hợp chèo, tuồng, quan họ với hiphop, lấy cảm hứng từ sân khấu thuỷ đình bên hồ Hoàn Kiếm, với 110 nghệ sĩ trong và ngoài nước."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/cheo-tuong-quan-ho-voi-hiphop-mo-man-16-ngay-le-hoi-thiet-ke-sang-tao-ha-noi-100261113233955754.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thang-long-ke-nghe-dua-di-san-den-gan-khan-gia-5144490.html"
+            }
+          ]
+        },
+        {
+          "headline": "Vụ 'Hiệp đen': Công an TP.HCM khởi tố diễn viên Tấn Bo và 10 người liên quan phim ca nhạc 'Huy Bến xe'",
+          "meta": "Thanh Niên · 13/11",
+          "body": [
+            "Mở rộng điều tra vụ Nguyễn Tuấn Hiệp, cơ quan điều tra làm rõ việc Trịnh Minh Tâm (nghệ danh Dương Chấn Huy, 47 tuổi) tổ chức sản xuất phim ca nhạc hành động 'Huy Bến xe' để quảng bá hình ảnh và hai ca khúc của mình; nhiều diễn viên tham gia bị khởi tố."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/vu-an-hiep-den-cong-an-tphcm-khoi-to-tan-bo-hoang-meo-va-9-dong-pham-185261113211720306.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Miss Universe công bố vương miện vàng trắng 18K đính 3.150 viên kim cương",
+          "meta": "Tuổi Trẻ · 14/11",
+          "body": [
+            "Vương miện 'The Radiance of an Eternal Legacy' dành cho người đẹp đăng quang Miss Universe 2026, đánh dấu 75 năm cuộc thi, do nhà thiết kế George Wittels thực hiện cùng Maison d'OR (Paris)."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/miss-universe-cong-bo-vuong-mien-dinh-3150-vien-kim-cuong-10026111401403916.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Trung Quốc siết phim ngắn AI: gỡ 75.000 phim, xử lý hơn 1.500 tài khoản",
+          "meta": "Thanh Niên · 13/11",
+          "body": [
+            "Số liệu được công bố khi Tổng cục Phát thanh – Truyền hình (NRTA) triển khai chiến dịch hai tháng (1/11 – hết 12/2026) nhắm vào phim ngắn do AI tạo, dùng trái phép khuôn mặt, giọng nói người khác và nội dung rập khuôn."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/trung-quoc-siet-phim-ai-ap-luc-moi-doi-voi-nganh-cong-nghiep-giai-tri-185261113190145389.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Kim Soo Hyun thua kiện, phải hoàn 1,16 tỷ won tiền quảng cáo",
+          "meta": "Tuổi Trẻ · 13/11",
+          "body": [
+            "Theo Newsis, Toà án quận Suwon tuyên hãng Frombio thắng một phần vụ kiện nam diễn viên và công ty Gold Medalist, buộc hoàn gần 1,16 tỷ won thù lao quảng cáo kèm lãi; phía Kim Soo Hyun đã kháng cáo."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/kim-soo-hyun-thua-kien-100261113190343973.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Mai Vàng 2026 sau 5 tuần đề cử: Võ Điền Gia Huy vượt Steven Nguyễn, 'Running Man 2026' tạm dẫn đầu",
+          "meta": "Tuổi Trẻ · 14/11",
+          "body": [
+            "Ở hạng mục Nam diễn viên điện ảnh – truyền hình được yêu thích nhất, Võ Điền Gia Huy (Vì mẹ anh phán chia tay) vươn lên dẫn đầu; Hứa Vĩ Văn (Tận hiến) lần đầu vào tốp đề cử."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/vo-dien-gia-huy-soan-ngoi-steven-nguyen-running-man-2026-tam-dan-dau-de-cu-mai-vang-2026-100261113210536211.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Mỹ: tàu chở nhựa đường đâm tàu du lịch chở 129 khách trên sông Mississippi ở New Orleans",
+          "meta": "Al Jazeera · 13/11",
+          "body": [
+            "Tàu Atlantic Asphalt đâm tàu guồng American Heritage khoảng 12:30 trưa giờ địa phương, khi tàu đã cập bến khoảng hai giờ để khách xuống; tàu bị chìm một phần. Thành phố cho biết nhiều người đã được cứu, tìm kiếm vẫn tiếp tục; chưa có thông tin thương vong."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us"
+            }
+          ]
+        },
+        {
+          "headline": "Vụ nổ cơ sở gas ở Tân Thuận (TP.HCM): tìm thấy thêm một thi thể trong đống đổ nát",
+          "meta": "Thanh Niên, Tuổi Trẻ · 13/11",
+          "body": [
+            "Chiều 13/11, Phó chủ tịch UBND TP.HCM Trần Văn Bảy đến hiện trường trên đường Bùi Văn Ba chỉ đạo tìm kiếm cứu nạn; lực lượng chức năng tìm thấy thêm một thi thể. Một nạn nhân sống sót kể đã 'dùng tay moi đất, tạo lỗ nhỏ để thở'."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/vu-no-sap-nha-o-tphcm-tim-thay-them-mot-thi-the-trong-dong-do-nat-185261113204355896.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nan-nhan-vu-nghi-no-khi-gas-sap-nha-o-phuong-tan-thuan-dung-tay-moi-dat-tao-lo-nho-de-tho-100261113174809378.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Tuyển sinh đại học 2027: mỗi ngành tối đa 3 phương thức, điểm cộng giảm còn 0,5 và bỏ hẳn từ 2028",
+          "meta": "Tuổi Trẻ · 13/11",
+          "body": [
+            "Bộ GD-ĐT ban hành Thông tư 95/2026 sửa đổi quy chế tuyển sinh đại học, cao đẳng ngành giáo dục mầm non, giảm giấy tờ; thí sinh cần chú ý các mốc đăng ký trong tháng 7 và tháng 8/2027."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tuyen-sinh-dai-hoc-2027-siet-phuong-thuc-xet-tuyen-giam-diem-cong-bot-giay-to-100261113205424712.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Tìm thấy thi thể du khách Kuwait mất tích ở đèo Ô Quy Hồ",
+          "meta": "Thanh Niên · 13/11",
+          "body": [
+            "Thi thể ông Khalid Aldawoud (51 tuổi) được tìm thấy gần nơi phát hiện xe máy. Theo nhận định ban đầu của chính quyền phường Sa Pa, ông đi vào một cống thoát nước rồi bị dòng nước cuốn xuống khu vực thác."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/tim-thay-thi-the-du-khach-nuoc-ngoai-bi-mat-tich-o-deo-o-quy-ho-18526111318074719.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ Công Thương tăng khung giá điện mặt trời 2026, cao nhất cho điện nổi có pin lưu trữ",
+          "meta": "Thanh Niên · 14/11",
+          "body": [
+            "Giá phát điện tối đa tăng ở cả 3 miền; mức cao nhất 2.120,31 đồng/kWh cho điện mặt trời nổi có pin lưu trữ (BESS) ở miền Bắc, thấp nhất 1.104,32 đồng/kWh cho điện mặt trời mặt đất không pin ở miền Nam."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/tang-gia-dien-mat-troi-khuyen-khich-dau-tu-pin-luu-tru-18526111320091118.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Tuyên Quang đề xuất thu phí 30.000 đồng/người/đêm với khách lưu trú ở Cao nguyên đá Đồng Văn",
+          "meta": "Thanh Niên · 13/11",
+          "body": [
+            "Đề án đang lấy ý kiến; theo Sở VH-TT-DL Tuyên Quang, lượng khách đến công viên địa chất toàn cầu UNESCO này tăng 15–20% mỗi năm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/de-xuat-thu-phi-qua-dem-voi-khach-du-lich-cao-nguyen-da-dong-van-185261113192034476.htm"
+            }
+          ]
+        },
+        {
+          "headline": "TP.HCM đề xuất chỉnh trang 8 công viên hiện hữu, tổng 106 ha",
+          "meta": "Tuổi Trẻ · 14/11",
+          "body": [
+            "Nằm trong đề án phát triển cây xanh giai đoạn 2026–2030 vừa được UBND TP.HCM phê duyệt; công viên Tao Đàn là một trong 8 công viên được đề xuất."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tin-tuc-sang-14-11-tphcm-de-xuat-chinh-trang-nang-cap-8-cong-vien-hien-huu-quy-mo-106ha-100261113215612002.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Kỳ thủ 18 tuổi Phan Huy Hoàng giành HCV cá nhân tại Giải cờ tướng thế giới mở rộng 2026",
+          "meta": "Tuổi Trẻ · 13/11",
+          "body": [
+            "Ở nội dung đồng đội nam khép lại chiều 13/11 tại Singapore, Phan Huy Hoàng là kỳ thủ nổi bật nhất của tuyển Việt Nam, mang về HCV cá nhân."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/dia-chan-mon-co-tuong-ky-thu-viet-nam-18-tuoi-gianh-hcv-ca-nhan-o-giai-the-gioi-100261113172143369.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ấn Độ: xe buýt đâm xe tải gần Vườn quốc gia Kaziranga, ít nhất 24 người chết",
+          "meta": "BBC · 13/11",
+          "body": [
+            "Tai nạn ở huyện Golaghat, bang Assam; 11 người bị thương được đưa tới bệnh viện Jorhat. Theo bộ trưởng bang Atul Bora, nhiều người chết là sinh viên."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 14/11/2026 (giờ VN). Số này không có mục Xây dựng vì chưa có tin mới xác minh được kịp lúc lên khuôn. Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu."
+}
