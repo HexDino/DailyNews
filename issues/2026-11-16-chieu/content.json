@@ -1,0 +1,1578 @@
+{
+  "date": "2026-11-16",
+  "edition": "chieu",
+  "edition_label": "Số buổi chiều",
+  "date_vn": "Số buổi chiều · Thứ Hai, ngày 16 tháng 11 năm 2026",
+  "masthead": "Daily News",
+  "tagline": "Số buổi chiều ngày 16/11/2026 · Thứ Hai · Tin trong ngày · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "highlights": [
+    "Tô Lâm gặp Macron tại Thượng đỉnh Pháp ngữ; Trung ương 5 sẽ ra nghị quyết mới về cải cách tiền lương",
+    "Vụ Mr Pips: hai bị cáo chính lĩnh chung thân, Shark Bình 10 năm tù",
+    "Mỹ – Nga – Trung sẽ bàn ổn định quan hệ ở Thâm Quyến; tàu sân bay Mỹ thứ ba tới Trung Đông",
+    "Cháy ở Phuket, 11 người chết; Indonesia xin lỗi láng giềng vì khói mù",
+    "Fact: 16/11/1945 UNESCO ra đời; 1974 thông điệp Arecibo được gửi vào vũ trụ"
+  ],
+  "followups": [
+    {
+      "title": "Bê bối CEO Nvidia Jensen Huang",
+      "update": "Megaspeed nói bà Alice Huang đã rời công ty từ tháng 8/2025 và khẳng định mình là doanh nghiệp hợp pháp; VnExpress đưa tin ông Huang bị cho là đã cung cấp thông tin sai cho lãnh đạo Nvidia, trong khi một chiến dịch trực tuyến vận động phục chức cho ông.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-10",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/jensen-huang-noi-doi-nvidia-ve-chuyen-ngoai-tinh-5145035.html"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chien-dich-van-dong-phuc-chuc-cho-jensen-huang-5145169.html"
+        }
+      ]
+    },
+    {
+      "title": "Mỹ dừng bay toàn quốc vì sự cố liên lạc kiểm soát không lưu",
+      "update": "Nguyên nhân là một bộ router mới lắp ở Arkansas phát lượng dữ liệu khổng lồ gây quá tải mạng kiểm soát không lưu. Bộ trưởng Duffy nói 'không thể hủy hợp đồng' với L3Harris; ông Trump đổ lỗi cho chính quyền Biden và xin 50 tỷ USD nâng cấp.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-11-14",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chiec-router-khien-khong-phan-my-te-liet-5145033.html"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/my-khong-the-huy-hop-dong-voi-nha-thau-gay-dinh-chi-bay-toan-quoc-5145105.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions"
+        }
+      ]
+    },
+    {
+      "title": "Hội nghị cấp cao ASEAN 49 tại Manila",
+      "update": "ASEAN và Trung Quốc chưa đạt thỏa thuận về COC Biển Đông; khối gia hạn lệnh cấm lãnh đạo Myanmar dự thượng đỉnh.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-14",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/kinh-nghiem-viet-nam-gop-suc-xay-dung-asean-chu-dong-tu-cuong-100261116151606164.htm"
+        }
+      ]
+    },
+    {
+      "title": "Đàm phán hòa bình Nga – Ukraine",
+      "update": "Ông Zelensky nói phi đội F-16 chỉ 'mạnh trên giấy'; Điện Kremlin tuyên bố vẫn dùng vũ lực nếu không đạt thỏa thuận với châu Âu.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-09",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ong-zelensky-phi-doi-f-16-ukraine-chi-manh-tren-giay-5145206.html"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/dien-kremlin-nga-van-dung-vu-luc-de-dat-muc-tieu-o-ukraine-neu-khong-dat-thoa-thuan-voi-chau-au-10026111520010961.htm"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran",
+      "update": "Tàu sân bay thứ ba USS Theodore Roosevelt tới Trung Đông; Iran nói một siêu tàu chở 2 triệu thùng dầu trúng thủy lôi và chìm ở Hormuz.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-13-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tau-san-bay-thu-ba-cua-my-den-trung-dong-giua-cang-thang-voi-iran-5145174.html"
+        },
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/iran-noi-sieu-tau-cho-2-trieu-thung-dau-chim-o-hormuz-5145000.html"
+        }
+      ]
+    },
+    {
+      "title": "Vụ án Mr Pips",
+      "status": "đã kết thúc",
+      "first_issue": "2026-11-04-chieu",
+      "update": "TAND TP Hà Nội tuyên chung thân với Phó Đức Nam (Mr Pips) và Lê Khắc Ngọ (Mr Hunter); Shark Bình lĩnh 10 năm tù vì rửa tiền gần 320 tỷ đồng.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/mr-pips-va-mr-hunter-bi-tuyen-muc-an-chung-than-100261116115938654.htm"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/shark-binh-lanh-10-nam-tu-vi-rua-tien-gan-320-ti-dong-trong-vu-an-mr-pips-100261116130650811.htm"
+        }
+      ]
+    },
+    {
+      "title": "Tàu du lịch va chạm tàu dầu trên sông Mississippi",
+      "status": "đã kết thúc",
+      "first_issue": "2026-11-14-chieu",
+      "update": "Mỹ công bố nguyên nhân: bánh lái tàu dầu Atlantic Asphalt bị kẹt ở vị trí hướng sang phải, khiến tàu đổi hướng đâm vào du thuyền.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/my-cong-bo-nguyen-nhan-tau-dau-dam-lat-du-thuyen-cho-129-nguoi-5145017.html"
+        }
+      ]
+    },
+    {
+      "title": "Hội nghị cấp cao Pháp ngữ lần thứ 20 tại Campuchia",
+      "status": "đã kết thúc",
+      "first_issue": "2026-11-14-chieu",
+      "update": "Ngày cuối 16/11, Tổng Bí thư, Chủ tịch nước Tô Lâm gặp Tổng thống Macron, kêu gọi cộng đồng Pháp ngữ biến sự đa dạng thành sức mạnh.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-gap-tong-thong-phap-5145261.html"
+        },
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-keu-goi-cong-dong-phap-ngu-bien-su-da-dang-thanh-suc-manh-100261116114859471.htm"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-16",
+      "title": "Hết ưu đãi DeepSeek V4.1 Flash miễn phí trên Itzi (đến 00:00 UTC 17/11)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Itzi",
+          "url": "https://itzi.app/free-deepseek"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "title": "New Zealand áp dụng thị thực mới: du học sinh ở lại làm việc thêm 6 tháng",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/new-zealand-cho-phep-du-hoc-sinh-o-lai-lam-viec-them-6-thang-100261106135240169.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "time": "08:00",
+      "timezone": "Asia/Saigon",
+      "title": "Hết hạn 500 triệu token GLM-5.3-Flash miễn phí trên ZCode (9:00 giờ Trung Quốc)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "AI Promo Now",
+          "url": "https://www.aipromonow.com/en/promos/zcode-weekend-glm53-flash-5e8"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "time": "23:59",
+      "timezone": "America/Los_Angeles",
+      "title": "Hết hạn ưu đãi Claude Fable 5.2 cho gói Pro và ghế standard Team (dùng Fable trong gói + 1 lượt reset)",
+      "topic": "Công nghệ",
+      "note": "Tức khoảng 14:59 ngày 17/11 giờ VN. Lượt reset của Max/Ultra dùng được đến 8/3/2027.",
+      "sources": [
+        {
+          "name": "Claude Help Center",
+          "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự AIPA-47 tại Philippines (17–18/11)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chu-tich-quoc-hoi-sap-du-aipa-47-o-philippines-5143988.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Học sinh THCS Kim Liên trở lại học trực tiếp tại 4 điểm trường",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/hoc-sinh-thcs-kim-lien-hoc-nho-tai-4-diem-truong-sau-vu-chay-100261114224407034.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Nations League: Đan Mạch – Na Uy (Đan Mạch chỉ cần hòa để vào tứ kết)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Trump, Tập Cận Bình và Putin họp ba bên lần đầu bên lề APEC ở Thâm Quyến",
+      "topic": "Chính trị",
+      "note": "Nhà Trắng nói diễn ra tuần tới bên lề APEC (17–20/11); ngày cụ thể chưa công bố.",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm dự Tuần lễ Cấp cao APEC 33 tại Thâm Quyến, Trung Quốc (17–20/11)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-se-du-tuan-le-cap-cao-apec-tai-trung-quoc-5144069.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Ủy ban Thường vụ Quốc hội cho ý kiến dự thảo Luật Nhà ở, Luật Kinh doanh bất động sản (sửa đổi)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/nha-o-xa-hoi-du-kien-chi-duoc-ban-lai-sau-5-nam-cho-nguoi-du-dieu-kien-gia-ban-do-cac-ben-thoa-thuan-100261115231226703.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "time": "19:00",
+      "title": "Casper Cup 2026: Việt Nam – Kyrgyzstan",
+      "topic": "Bóng đá",
+      "note": "Trận được lùi từ 15/11 sang 17/11.",
+      "sources": [
+        {
+          "name": "Thethao247",
+          "url": "https://thethao247.vn/63-lich-thi-dau-dt-viet-nam-moi-nhat-thang-11-2026-tran-tiep-theo-dien-ra-khi-nao-c19-d439392.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Bắc Bộ chuyển lạnh (18–19/11), vùng núi có nơi rét",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/du-bao-thoi-tiet-tu-15-den-21-11-bac-bo-chuyen-ret-ca-nuoc-nhieu-noi-mua-100261114143044072.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Hạn chót đăng ký ứng cử Chủ tịch FIFA",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Pochettino bắt đầu làm việc tại Man Utd",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/man-united-bo-nhiem-hlv-pochettino-voi-chuc-danh-gay-tranh-cai-100261113201741117.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Sotheby's đấu giá bức Van Gogh 'Châtaigniers en Fleurs' (ước tính 180 triệu USD) ở New York",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Voyager 1 cách Trái Đất một ngày ánh sáng",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Khai mạc U17 World Cup 2026 (19/11–13/12); Việt Nam ở bảng G cùng Bỉ, New Zealand, Mali",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/u17-viet-nam-thang-u17-fiji-2-0-10026110921512995.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "title": "VinFast dự kiến giới thiệu hai mẫu xe máy điện mới (theo thông tin đại lý)",
+      "topic": "Đời sống",
+      "note": "Thời điểm chưa được hãng xác nhận chính thức.",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/vinfast-sap-ra-mat-2-xe-may-dien-moi-100261113131020197.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Ngày Quốc tế Đàn ông",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/xom-o-ha-noi-mo-lon-lam-co-mung-ngay-quoc-te-dan-ong-5145246.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Hết lệnh tạm dừng 14 ngày xây 'khải hoàn môn' ở Washington (dự kiến, tính từ 6/11)",
+      "topic": "Chính trị",
+      "note": "Tòa có thể gia hạn hoặc ra phán quyết tiếp theo.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Ngày Nhà giáo Việt Nam: Bộ GD-ĐT yêu cầu tổ chức tinh gọn, không huy động phụ huynh đóng góp",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bo-gd-dt-yeu-cau-tuyet-doi-khong-huy-dong-cha-me-hoc-sinh-dong-gop-to-chuc-20-11-100261113135444174.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Dự kiến hiệu lực chính sách xóa nợ lệ phí môn bài cho người nộp thuế diện 03, 06",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/hang-trieu-nguoi-nop-thue-dien-03-06-du-kien-duoc-xem-xet-xoa-no-tu-2111-185261114191859251.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến biểu quyết Luật sửa đổi Luật Bảo hiểm xã hội",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chua-mo-rong-dien-dong-bao-hiem-bat-buoc-voi-tai-xe-cong-nghe-5142415.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến thông qua chủ trương 3 cao tốc mới và nghị quyết đặc thù du lịch",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress – cao tốc",
+          "url": "https://vnexpress.net/trinh-quoc-hoi-dau-tu-them-ba-du-an-cao-toc-5141815.html"
+        },
+        {
+          "name": "VnExpress – du lịch",
+          "url": "https://vnexpress.net/de-xuat-uu-dai-lon-cho-cac-du-an-du-lich-ty-usd-5141836.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Liverpool – Man Utd tại Anfield (sau đợt FIFA Days)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50441594/man-united-michael-carrick-sir-jim-ratcliffe-future-talks"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Xét xử sơ thẩm vụ lừa đảo gần 1.000 tỷ đồng tại Sen Tài Thu (TAND TP Hà Nội)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/vu-lua-dao-gan-1000-ti-cuu-tong-giam-doc-sen-tai-thu-huong-loi-225-ti-mua-nha-xe-bmw-100261115153242981.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Ngày Văn hóa Việt Nam: miễn phí vé 3 bảo tàng ở Đà Nẵng",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/mien-phi-ve-3-bao-tang-da-nang-con-duoc-xem-gi-choi-gi-trong-ngay-van-hoa-viet-nam-24-11-100261113143151156.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "TP.HCM bắn pháo hoa tầm cao tại ba điểm",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tp-hcm-ban-phao-hoa-tam-cao-ba-diem-ngay-24-11-5141981.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hạn Nvidia chứng minh tuân thủ kiểm soát xuất khẩu theo yêu cầu của Bộ trưởng Bessent (10 ngày, ước tính từ 15/11)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hạn gửi Bộ Xây dựng đề xuất kết nối sân bay Gia Bình – trung tâm Hà Nội (đường sắt đô thị)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/pho-thu-tuong-uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-ha-noi-5142080.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Bầu cử sớm ở Tây Ban Nha",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hạn đại lý vé số TP.HCM áp dụng quy định cấm bán cho người dưới 18 tuổi",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/dai-ly-ve-so-tphcm-dan-bang-cam-tre-duoi-18-tuoi-mua-ve-so-truoc-3011-185261110094016179.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Jeremy Latcham tiếp quản DC Studios thay James Gunn và Peter Safran",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "time": "",
+      "title": "Hạn 28 ngày để ông Eisenkot gom đủ 61 phiếu lập chính phủ Israel (tính từ 7/11; có thể gia hạn tối đa 14 ngày)",
+      "topic": "Chính trị",
+      "note": "Ngày 5/12 là mốc tính toán từ thông báo ngày 7/11.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/doi-thu-cua-thu-tuong-israel-duoc-chi-dinh-thanh-lap-chinh-phu-moi-5142108.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "title": "Hạn doanh nghiệp TP.HCM lập trước 1/7/2025 bổ sung thông tin chủ sở hữu hưởng lợi",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/hon-nua-trieu-doanh-nghiep-tren-ca-nuoc-phai-ke-khai-thong-tin-chu-so-huu-huong-loi-100261115192010975.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Sân bay Cà Mau dự kiến hoạt động trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/san-bay-ca-mau-lui-ngay-khai-thac-tro-lai-den-18-12-5141694.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Hạn đề xuất hoàn thành 6 dự án dịch vụ sân bay Long Thành",
+      "topic": "Xây dựng",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-lui-han-hoan-thanh-6-du-an-tai-san-bay-long-thanh-5141701.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-31",
+      "title": "Hết ưu đãi giảm 50% model Hy4 trên Tencent Cloud TokenHub",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Tencent",
+          "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-01",
+      "title": "Hạn đăng ký và luật an toàn AI RAISE của New York có hiệu lực",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chính trị Việt Nam",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Tô Lâm – Macron, Trung ương 5 và cải cách tiền lương, tuyên án Mr Pips, ga Hà Nội – Phú Xuyên, quỹ bình ổn xăng dầu, giáo dục và từ thiện.",
+      "items": [
+        {
+          "headline": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp Tổng thống Pháp Macron bên lề Hội nghị cấp cao Pháp ngữ, hẹn sớm gặp lại trong năm 2026",
+          "meta": "16/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Hai nhà lãnh đạo nhất trí triển khai tốt các dự án hợp tác chiến lược. Tại hội nghị, Tổng Bí thư, Chủ tịch nước kêu gọi Cộng đồng Pháp ngữ biến sự đa dạng thành sức mạnh; Bộ trưởng Ngoại giao Việt Nam điều hành một phiên thảo luận của các lãnh đạo."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-gap-tong-thong-phap-5145261.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-va-tong-thong-phap-hen-som-gap-lai-trong-nam-2026-100261116110918599.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-keu-goi-cong-dong-phap-ngu-bien-su-da-dang-thanh-suc-manh-100261116114859471.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hội nghị Trung ương 5 khóa XIV sẽ ban hành nghị quyết mới về cải cách tiền lương và bảo hiểm xã hội",
+          "meta": "Chiều 16/11 · VnExpress",
+          "body": [
+            "Theo Phó thủ tướng Phạm Thị Thanh Trà, nghị quyết mới sẽ là cơ sở để sửa đổi toàn diện Luật Bảo hiểm xã hội."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/trung-uong-5-se-ban-hanh-nghi-quyet-moi-ve-cai-cach-tien-luong-5145285.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tuyên án vụ Mr Pips: Phó Đức Nam và Lê Khắc Ngọ (Mr Hunter) lĩnh án chung thân; Shark Bình 10 năm tù vì rửa tiền gần 320 tỷ đồng",
+          "meta": "16/11 · Tuổi Trẻ",
+          "body": [
+            "Sau gần ba tuần xét xử và nghị án, TAND TP Hà Nội tuyên chung thân với hai bị cáo chính. Shark Bình bị cáo buộc biết các sàn có dấu hiệu vi phạm vẫn chỉ đạo duy trì dịch vụ thanh toán; viện kiểm sát trước đó đề nghị 9–10 năm tù."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/mr-pips-va-mr-hunter-bi-tuyen-muc-an-chung-than-100261116115938654.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/shark-binh-lanh-10-nam-tu-vi-rua-tien-gan-320-ti-dong-trong-vu-an-mr-pips-100261116130650811.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội đề xuất chuyển đón trả khách ở ga Hà Nội, Giáp Bát về ga Phú Xuyên để mở rộng quốc lộ 1; ga Thọ Lộc đổi tên thành ga Phong Nha",
+          "meta": "16/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Đề xuất phục vụ giải phóng mặt bằng dự án Trục không gian quốc lộ 1. Bộ Xây dựng đổi tên ga Thọ Lộc (Quảng Trị) để hành khách dễ nhận diện điểm du lịch Phong Nha."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/de-xuat-chuyen-ga-ha-noi-giap-bat-ve-ga-phu-xuyen-de-mo-rong-quoc-lo-1-5145263.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/vi-sao-nganh-duong-sat-doi-ten-ga-tho-loc-thanh-ga-phong-nha-100261116121654236.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bộ Công Thương đề xuất bỏ Quỹ bình ổn giá xăng dầu; câu hỏi xử lý các doanh nghiệp đang âm quỹ",
+          "meta": "16/11 · Tuổi Trẻ",
+          "body": [
+            "Đề xuất kèm phương án xử lý số dư quỹ, trong đó có trường hợp các đầu mối như PV Oil, Anh Phát Petro, Phúc Lộc Ninh."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/bo-quy-binh-on-xang-dau-xu-ly-am-quy-ra-sao-o-loat-doanh-nghiep-pv-oil-anh-phat-petro-phuc-loc-ninh-100261116154358404.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Từ 2027, cử nhân loại khá có thể dự tuyển thẳng tiến sĩ; sẽ thêm quy định minh bạch hóa việc cá nhân kêu gọi từ thiện",
+          "meta": "16/11 · Tuổi Trẻ",
+          "body": [
+            "Quy định mới mở rộng cơ hội học thuật nhưng đặt câu hỏi về chất lượng đầu vào. Ở lĩnh vực từ thiện, cơ quan quản lý cho biết sẽ bổ sung quy định trước nhiều bất cập."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/cu-nhan-loai-kha-duoc-du-tuyen-thang-tien-si-bac-thac-si-con-can-thiet-100261116152215842.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ca-nhan-keu-goi-tu-thien-se-them-quy-dinh-de-tang-tinh-minh-bach-100261116111957124.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Quảng Ninh thí điểm 'Trường học xã hội chủ nghĩa' tại 3 trường công lập; Quảng Ngãi nghiên cứu chuyển 9 đơn vị sự nghiệp thành doanh nghiệp",
+          "meta": "16/11 · Tuổi Trẻ",
+          "body": [
+            "Mô hình ở Quảng Ninh bắt đầu từ tháng 11/2026, hướng tới phát triển toàn diện học sinh thay vì chỉ chú trọng kiến thức và thành tích."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/quang-ninh-thi-diem-truong-hoc-xa-hoi-chu-nghia-tai-3-truong-cong-lap-100261116152355893.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/quang-ngai-nghien-cuu-chuyen-9-don-vi-su-nghiep-cong-lap-thanh-doanh-nghiep-100261116061227672.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính trị thế giới",
+      "tags": [
+        "politics"
+      ],
+      "intro": "Thượng đỉnh Mỹ – Nga – Trung, Iran và Hormuz, ASEAN – COC, Bangladesh, Haiti, Anh – EU, Ukraine, cuộc đua Tổng thư ký LHQ.",
+      "items": [
+        {
+          "headline": "Mỹ, Nga, Trung Quốc sẽ bàn cách ổn định quan hệ ba cường quốc khi gặp nhau ở Thâm Quyến; vì sao Bắc Kinh ngần ngại hiệp ước hạt nhân",
+          "meta": "16/11 · VnExpress, Al Jazeera",
+          "body": [
+            "Lãnh đạo ba nước dự kiến thảo luận về 'hòa bình thế giới' bên lề APEC tuần này. Al Jazeera phân tích: Trung Quốc có kho vũ khí nhỏ hơn Mỹ và Nga, lo một hiệp ước sẽ giới hạn năng lực hạt nhân của mình."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/my-nga-trung-se-ban-cach-on-dinh-quan-he-giua-3-cuong-quoc-5145288.html"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia"
+            }
+          ]
+        },
+        {
+          "headline": "Tàu sân bay thứ ba của Mỹ, USS Theodore Roosevelt, tới Trung Đông; Iran tuyên bố siêu tàu chở 2 triệu thùng dầu trúng thủy lôi, chìm ở Hormuz",
+          "meta": "16/11 · VnExpress, Al Jazeera",
+          "body": [
+            "Tàu sẽ hoạt động cùng hai tàu sân bay đã có mặt trong khu vực. Vệ binh Iran cũng nói đang dùng vũ khí Mỹ tịch thu để cải tiến khí tài nội địa; một sĩ quan Mỹ sống sót sau vụ UAV tập kích ở Kuwait gửi đơn khiếu nại Lầu Năm Góc."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tau-san-bay-thu-ba-cua-my-den-trung-dong-giua-cang-thang-voi-iran-5145174.html"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/iran-noi-sieu-tau-cho-2-trieu-thung-dau-chim-o-hormuz-5145000.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/si-quan-my-thoat-chet-o-kuwait-gui-don-khieu-nai-lau-nam-goc-5145256.html"
+            }
+          ]
+        },
+        {
+          "headline": "ASEAN và Trung Quốc chưa chốt được Bộ quy tắc ứng xử Biển Đông; khối gia hạn lệnh cấm lãnh đạo Myanmar dự thượng đỉnh",
+          "meta": "16/11 · Al Jazeera, Tuổi Trẻ",
+          "body": [
+            "Các lãnh đạo Đông Nam Á cũng lên án bạo lực ở Myanmar. Thủ tướng Trung Quốc Lý Cường gọi thành tựu hợp tác với ASEAN là 'phi thường'; Thủ tướng Ấn Độ Modi lên đường tới Manila."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thu-tuong-trung-quoc-goi-thanh-tuu-hop-tac-voi-asean-la-phi-thuong-100261116145817101.htm"
+            },
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/india-news-modi-heads-to-asean-meet-in-manila/live-79954596"
+            }
+          ]
+        },
+        {
+          "headline": "Cựu Thủ tướng Bangladesh Sheikh Hasina quyết về nước dù đối mặt án tử hình; công nhân may đình công đòi lương tối thiểu 30.000 taka",
+          "meta": "16/11 · Tuổi Trẻ, BBC",
+          "body": [
+            "Bà Hasina đã sống lưu vong ở Ấn Độ hơn hai năm. Nhiều xưởng may Bangladesh đóng cửa vì đình công."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/cuu-thu-tuong-bangladesh-quyet-ve-nuoc-du-doi-mat-an-tu-hinh-100261116154736565.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o"
+            }
+          ]
+        },
+        {
+          "headline": "Haiti: góa phụ cố Tổng thống Moise ra tranh cử trong cuộc bầu cử tổng thống đầu tiên sau một thập kỷ; Ecuador phủ nhận có căn cứ quân sự Mỹ",
+          "meta": "16/11 · Al Jazeera, BBC",
+          "body": [
+            "Bà Martine Moise là một trong 33 ứng viên đã đăng ký. Tổng thống Daniel Noboa nói nhân sự Mỹ chỉ ở Ecuador cho 'hoạt động tạm thời'."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country"
+            }
+          ]
+        },
+        {
+          "headline": "Thủ tướng Anh Burnham sẽ nói Brexit 'không hiệu quả' trước thượng đỉnh EU; Thủ tướng Canada Carney nói có thể hợp tác với Trung Quốc nếu đàm phán với Mỹ đổ vỡ",
+          "meta": "16/11 · BBC, Guardian, Tuổi Trẻ",
+          "body": [
+            "Ông Burnham dự kiến tuyên bố sẽ ký thỏa thuận mới với EU. Ông Carney phát biểu trước APEC, nhắc tới khả năng làm việc với các hãng ôtô Trung Quốc."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo"
+            },
+            {
+              "name": "Guardian",
+              "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thu-tuong-canada-noi-se-hop-tac-voi-trung-quoc-neu-dam-phan-voi-my-that-bai-100261116145358938.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Zelensky nói phi đội F-16 Ukraine chỉ 'mạnh trên giấy'; Kremlin: vẫn dùng vũ lực nếu không đạt thỏa thuận với châu Âu",
+          "meta": "16/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Theo ông Zelensky, Ukraine cần số F-16 gấp vài lần hiện nay vì phần lớn máy bay đang bảo dưỡng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-zelensky-phi-doi-f-16-ukraine-chi-manh-tren-giay-5145206.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/dien-kremlin-nga-van-dung-vu-luc-de-dat-muc-tieu-o-ukraine-neu-khong-dat-thoa-thuan-voi-chau-au-10026111520010961.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Cuộc đua Tổng thư ký LHQ gần hạn chót: bà Rebeca Grynspan dẫn đầu nhưng có thể bị Mỹ, Nga phủ quyết; Ahmed Tibi làm Phó Chủ tịch Knesset",
+          "meta": "16/11 · Al Jazeera",
+          "body": [
+            "Theo các cuộc thăm dò, bà Grynspan (Costa Rica) đang là ứng viên sáng giá nhất."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống trong nước",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Không khí lạnh, mức sinh TP.HCM, Ngày Văn hóa Việt Nam, bạo lực tuổi teen, giao thông, nicotine, trẻ em và điện thoại, tour xuyên Việt.",
+      "items": [
+        {
+          "headline": "Miền Bắc sắp đón không khí lạnh mới; Nam Bộ còn mưa cuối mùa rải rác, nắng sẽ gắt hơn",
+          "meta": "16/11 · Tuổi Trẻ",
+          "body": [
+            "Tuổi Trẻ cũng dẫn dự báo El Nino siêu mạnh có thể khiến mùa khô ở Nam Bộ khốc liệt hơn năm 2015–2016. Ở Nha Trang, thành phố rà soát toàn bộ cây xanh sau khi nhiều cây bật gốc vì mưa lớn."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/mien-bac-sap-don-khong-khi-lanh-lieu-co-mua-gio-ret-nhu-dot-vua-dien-ra-100261116104124271.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/mua-cuoi-mua-con-rai-rac-tphcm-va-nam-bo-nang-se-gat-hon-100261116124951038.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/vu-nhieu-cay-xanh-o-nha-trang-bat-goc-sau-mua-lon-ra-soat-lai-toan-bo-cay-tren-dia-ban-100261116112903919.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Phụ nữ TP.HCM sinh con ở tuổi trung bình 30, cao nhất cả nước; mức sinh chỉ 1,51 con/phụ nữ",
+          "meta": "16/11 · Tuổi Trẻ",
+          "body": [
+            "Số liệu phản ánh mức sinh thấp kéo dài tại thành phố."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tuoi-phu-nu-sinh-con-o-tphcm-cao-nhat-nuoc-phan-anh-muc-sinh-thap-keo-dai-10026111611425697.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ngày Văn hóa Việt Nam 24/11: TP.HCM bắn pháo hoa ở 3 điểm, công chức được nghỉ 1 ngày; nhà bán lẻ giảm giá đến 50%",
+          "meta": "16/11 · Tuổi Trẻ",
+          "body": [
+            "Pháo hoa bắn từ 21h đến 21h15. Saigon Co.op giảm giá hàng nghìn sản phẩm thiết yếu và khuyến khích dùng túi tái sử dụng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ngay-van-hoa-viet-nam-tphcm-ban-phao-hoa-tai-3-diem-100261116141104966.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/saigon-coop-giam-gia-hang-nghin-san-pham-khuyen-khich-mua-sam-xanh-100261116150637043.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bạo lực tuổi teen: 3 thiếu niên ở Gia Lai đánh chết học sinh lớp 9 vì ghen; 5 thiếu niên ở Đồng Nai cướp 47 tờ vé số",
+          "meta": "16/11 · Tuổi Trẻ",
+          "body": [
+            "Các nghi phạm ở Gia Lai mới 15–16 tuổi. Nhóm ở Đồng Nai từ 13–16 tuổi, đều đã nghỉ học."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thay-ban-gai-ngoi-cung-nguoi-khac-nhom-thieu-nien-ghen-tuong-danh-chet-nguoi-100261116140534827.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/khan-truong-truy-xet-5-thieu-nien-cuop-47-to-ve-so-va-650000-dong-o-dong-nai-10026111615241197.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Giao thông: tài xế lùi xe trên cao tốc bị phạt 35 triệu đồng; 33 thanh niên lạng lách ở Quảng Trị bị phạt 120 triệu; đề xuất bỏ tốc độ tối thiểu gần trạm thu phí",
+          "meta": "16/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Tài xế 48 tuổi còn bị trừ 10 điểm giấy phép lái xe vì lùi ôtô trên cao tốc TP.HCM – Trung Lương – Mỹ Thuận. Cục Đường bộ đang lấy ý kiến dự thảo sửa Thông tư 38/2024."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tai-xe-lui-xe-tren-cao-toc-bi-phat-35-trieu-dong-5145238.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/phat-120-trieu-dong-voi-nhom-thanh-nien-lang-lach-tren-duong-10026111610480634.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/de-xuat-khong-quy-dinh-toc-do-toi-thieu-gan-tram-thu-phi-tren-duong-cao-toc-100261116133952111.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ngăn nicotine tiếp cận giới trẻ: túi ngậm, shisha và sản phẩm tương tự nicotine mở rộng thị trường, WHO khuyến nghị mở rộng phạm vi cấm",
+          "meta": "16/11 · Tuổi Trẻ",
+          "body": [
+            "Các sản phẩm có thiết kế bắt mắt, hương vị hấp dẫn, nhắm tới người trẻ."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ngan-nicotine-tiep-can-gioi-tre-tu-nhung-san-pham-thuoc-la-moi-100261116121246382.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Có nên cấm tuyệt đối trẻ em dùng điện thoại thông minh? Học sinh mong cha mẹ thấu hiểu khi gặp sự cố trên mạng",
+          "meta": "16/11 · Tuổi Trẻ, VnExpress",
+          "body": [
+            "Hàng nghìn học sinh tham gia chương trình 'An toàn số cho em' chia sẻ về nguy cơ trên Internet."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/co-nen-cam-tuyet-doi-tre-em-dung-dien-thoai-thong-minh-100261116095053152.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nhieu-hoc-sinh-mong-duoc-thau-hieu-khi-gap-su-co-mang-5144402.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tìm thấy hài cốt liệt sĩ tại trụ sở UBND xã bỏ hoang ở Cần Thơ; Quảng Trị chi hơn 370 tỷ đồng chỉnh trang nghĩa trang liệt sĩ",
+          "meta": "16/11 · Tuổi Trẻ",
+          "body": [
+            "Hài cốt đầu tiên được tìm thấy khi mở rộng tìm kiếm ở xã Đông Phước."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tim-thay-hai-cot-liet-si-tai-tru-so-ubnd-xa-bo-hoang-o-can-tho-100261116142235247.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/quang-tri-chi-hon-370-ti-dong-chinh-trang-nhieu-nghia-trang-liet-si-100261116104303113.htm"
+            }
+          ]
+        },
+        {
+          "headline": "9 hành khách đầu tiên lên đường tour xuyên Việt 39 ngày 38 đêm; Nha Trang tận dụng đất ven biển làm bãi đỗ xe miễn phí",
+          "meta": "16/11 · Tuổi Trẻ",
+          "body": [
+            "Tour gồm hơn 60 sản phẩm du lịch trên 5 chặng hành trình."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/9-hanh-khach-dau-tien-tham-gia-tour-xuyen-viet-39-ngay-dem-100261116140331951.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tan-dung-khu-dat-ven-bien-nha-trang-lam-bai-dau-xe-mien-phi-cho-nguoi-dan-du-khach-100261116144246326.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Đời sống quốc tế",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "Cháy ở Phuket, khói mù Indonesia, sóng lớn California, Giáo hoàng và Amazon, trùm ma túy qua đời, nước Anh, nước Úc, AI và khuôn mặt.",
+      "items": [
+        {
+          "headline": "Cháy dãy nhà phố ở Patong (Phuket, Thái Lan) làm ít nhất 11 người chết",
+          "meta": "16/11 · Al Jazeera, VnExpress",
+          "body": [
+            "Nhà chức trách loại trừ khả năng phóng hỏa; VnExpress dẫn nghi vấn chập điện tại một cửa hàng xe máy. Số người bị thương được báo cáo từ 16 đến 36."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chay-cua-hang-xe-may-o-thai-lan-11-nguoi-chet-5145137.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng thống Indonesia Prabowo xin lỗi Singapore, Malaysia vì khói mù do cháy rừng",
+          "meta": "16/11 · Al Jazeera, Tuổi Trẻ",
+          "body": [
+            "Ông Prabowo nói chính phủ 'không khoan nhượng' với các công ty gây cháy rừng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tong-thong-indonesia-xin-loi-singapore-malaysia-ve-tinh-trang-khoi-mu-do-chay-rung-100261116141458616.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Sóng cao hơn 15 m ập vào vùng Vịnh San Francisco, California phát cảnh báo cao nhất; Delaware hứng lốc xoáy hiếm hoi giữa tháng 11",
+          "meta": "16/11 · VnExpress, Guardian",
+          "body": [
+            "Sóng lớn gây ngập nhiều nơi ở California. Cùng lúc, giông mạnh mang mưa đá cỡ quả bóng chày tới Argentina."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/song-cao-hon-15-m-ap-vao-bo-california-phat-canh-bao-5145061.html"
+            },
+            {
+              "name": "Guardian",
+              "url": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado"
+            }
+          ]
+        },
+        {
+          "headline": "Giáo hoàng Leo đòi công lý cho các thủ lĩnh bản địa Peru bị sát hại, kêu gọi chấm dứt phá rừng Amazon",
+          "meta": "16/11 · Al Jazeera, Guardian",
+          "body": [
+            "Ngài lên án nạn phá rừng và khai thác mỏ trái phép đe dọa rừng mưa và cộng đồng địa phương."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon"
+            },
+            {
+              "name": "Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment"
+            }
+          ]
+        },
+        {
+          "headline": "'Bố già' Miguel Ángel Félix Gallardo, người sáng lập băng Guadalajara, qua đời ở tuổi 80",
+          "meta": "16/11 · BBC, Al Jazeera",
+          "body": [
+            "Ông bị kết án vì vụ sát hại một đặc vụ chống ma túy Mỹ và một phi công Mexico năm 1985."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison"
+            }
+          ]
+        },
+        {
+          "headline": "Anh: báo cáo lớn về nạn học sinh sợ đến trường và thanh niên thất nghiệp; cơ quan máu kêu gọi hiến máu khẩn trước mùa đông",
+          "meta": "16/11 · BBC, Guardian",
+          "body": [
+            "Báo cáo đề xuất giảm dần phí bảo hiểm quốc gia để tạo việc làm cho người dưới 25 tuổi. Dự trữ một số nhóm máu chỉ còn một nửa mức cần thiết."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm62pl6lglvwo"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko"
+            },
+            {
+              "name": "Guardian",
+              "url": "https://www.theguardian.com/society/2026/nov/16/uk-blood-services-urgent-appeal-donations-winter"
+            }
+          ]
+        },
+        {
+          "headline": "Úc: nghị sĩ Helen Haines xuất viện sau vụ bị tấn công bằng xe khiến mất cả hai chân; sự cố kỹ thuật buộc sinh viên ĐH Melbourne bỏ thi giữa chừng",
+          "meta": "16/11 · BBC, Guardian",
+          "body": [
+            "Vụ tấn công xảy ra trước văn phòng của bà bốn tuần trước."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o"
+            },
+            {
+              "name": "Guardian",
+              "url": "https://www.theguardian.com/australia-news/2026/nov/16/university-of-melbourne-students-exams-cancelled-tech-issue"
+            }
+          ]
+        },
+        {
+          "headline": "Trung Quốc: nhiều người bán quyền dùng khuôn mặt cho AI với giá vài chục USD; Hàn Quốc tranh cãi trào lưu dùng AI tạo di ảnh cho bản thân",
+          "meta": "16/11 · VnExpress, Tuổi Trẻ",
+          "body": [
+            "Người bán bỏ qua nguy cơ hình ảnh bị lạm dụng để lừa đảo."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/rui-ro-khi-ban-khuon-mat-cho-ai-5145027.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tranh-cai-trao-luu-dung-ai-tao-di-anh-cho-ban-than-cua-gioi-tre-han-quoc-100261116142624113.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Công nghệ (tin ngắn)",
+      "tags": [
+        "tech"
+      ],
+      "items": [
+        {
+          "headline": "Nvidia vẫn có thể vào danh sách hơn 24 'tập đoàn mũi nhọn quốc gia' về AI của Mỹ; Reuters phát hiện dự án 3,2 tỷ USD ở Trung Quốc dùng chip Nvidia",
+          "meta": "16/11 · Tuổi Trẻ",
+          "body": [
+            "Hai thông tin xuất hiện giữa lúc bê bối quanh cựu CEO Jensen Huang tiếp diễn."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nvidia-van-vao-danh-sach-tap-doan-mui-nhon-quoc-gia-ve-ai-bat-chap-be-boi-10026111613093458.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/phat-hien-bat-ngo-ve-chip-nvidia-tai-trung-quoc-100261116145822744.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bóng đá (tin ngắn)",
+      "tags": [
+        "football"
+      ],
+      "items": [
+        {
+          "headline": "Italy thua Bỉ 1-4, bị loại khỏi Nations League; Lee Young-jin, cựu trợ lý HLV Park Hang-seo, dẫn dắt SHB Đà Nẵng",
+          "meta": "16/11 · VnExpress",
+          "body": [
+            "Italy dẫn trước nhưng thủng lưới ba bàn trong 11 phút. Ông Lee thay HLV Lê Đức Tuấn từ vòng 8 V-League 2026–2027."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/italy-tham-bai-truoc-bi-bi-loai-khoi-nations-league-5145007.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cuu-tro-ly-cua-hlv-park-hang-seo-tai-xuat-v-league-5145270.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bên lề & Fact hôm nay",
+      "tags": [
+        "culture",
+        "lifestyle"
+      ],
+      "intro": "Cỗ mừng Ngày Đàn ông, lính cứu hỏa thấp nhất thế giới, những 'Alice Huang' bất đắc dĩ, mèo sống sót sau sập nhà, Giáo hoàng lái trực thăng, Cardi B mặc lụa Bảo Lộc — cùng các sự kiện ngày 16/11 (UNESCO 1945, Arecibo 1974, Venera 3 1965, Artemis I 2022, thác Victoria 1855).",
+      "items": [
+        {
+          "headline": "Phụ nữ một xóm ở Hà Nội góp hơn 60 triệu đồng, mổ lợn làm 33 mâm cỗ đãi cánh mày râu mừng Ngày Quốc tế Đàn ông",
+          "meta": "16/11 · VnExpress",
+          "body": [
+            "Bữa cỗ ở xóm Đoàn Kết, xã Yên Lãng được tổ chức sớm trước ngày 19/11."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/xom-o-ha-noi-mo-lon-lam-co-mung-ngay-quoc-te-dan-ong-5145246.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nữ lính cứu hỏa cao 1,47 m được Guinness công nhận thấp nhất thế giới",
+          "meta": "16/11 · VnExpress",
+          "body": [
+            "Autumn Kelso, 32 tuổi, nhận danh hiệu kỷ lục."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nu-linh-cuu-hoa-cao-1-47-m-lap-ky-luc-guinness-5145203.html"
+            }
+          ]
+        },
+        {
+          "headline": "Bỗng 'nổi tiếng' vì trùng tên Alice Huang: nhiều phụ nữ Mỹ bị trêu chọc nhưng cũng nhận thêm cơ hội nghề nghiệp",
+          "meta": "16/11 · VnExpress",
+          "body": [
+            "Hệ quả bất ngờ từ bê bối của cựu CEO Nvidia."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/noi-tieng-bat-dac-di-vi-trung-ten-alice-huang-5145131.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thiếu nữ New York đoàn tụ với mèo cưng mất tích sau vụ sập nhà ở Brooklyn",
+          "meta": "16/11 · BBC",
+          "body": [
+            "Đội cứu hộ tìm thấy chú mèo trong đống đổ nát bốn ngày sau lời kêu gọi đầy xúc động của Zariah."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo"
+            }
+          ]
+        },
+        {
+          "headline": "Giáo hoàng Leo tự ngồi ghế lái 'Papacoptero' bay tới thánh lễ; Ronaldinho ra sân 45 phút ở giải hạng Ba Italy",
+          "meta": "16/11 · Al Jazeera",
+          "body": [
+            "Video ghi cảnh Giáo hoàng trong buồng lái trực thăng quân đội."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-leo-flies-to-mass-in-the-papacoptero"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division"
+            }
+          ]
+        },
+        {
+          "headline": "Cardi B diện đầm lụa Bảo Lộc của nhà thiết kế Nguyễn Phúc Tuấn tại Baby2Baby Gala 2026; đèn lồng dài 10 m 'tỏa hương' sắp thắp sáng Hội An",
+          "meta": "16/11 · Tuổi Trẻ",
+          "body": [
+            "Lễ hội Đèn lồng quốc tế phố cổ Hội An diễn ra 3–6/12 với nhiều đội thi trong nước và quốc tế."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/cardi-b-dien-dam-lua-bao-loc-du-baby2baby-gala-2026-100261116144120857.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/den-long-dai-10-met-toa-mui-huong-o-pho-co-hoi-an-100261116152422866.htm"
+            }
+          ]
+        },
+        {
+          "headline": "HLV trưởng tuyển bắn súng Trần Quốc Cường tái xuất thi đấu ở tuổi 52, đối đầu chính học trò tại Đại hội Thể thao toàn quốc",
+          "meta": "16/11 · Tuổi Trẻ",
+          "body": [
+            "Cùng ngày, Lê Quang Liêm khép lại vòng bảng giải cờ vua toàn năng thế giới bất bại, đứng nhì bảng B."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/hlv-truong-doi-tuyen-ban-sung-viet-nam-bat-ngo-tai-xuat-o-tuoi-52-doi-dau-chinh-hoc-tro-100261116123859632.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/quang-liem-bo-xa-carlsen-o-giai-co-vua-toan-nang-the-gioi-5145057.html"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay · 16/11/1945: UNESCO được thành lập; ngày 16/11 hằng năm là Ngày Quốc tế Khoan dung",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "UNESCO là tổ chức Giáo dục, Khoa học và Văn hóa của Liên Hợp Quốc."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – November 16",
+              "url": "https://en.wikipedia.org/wiki/November_16"
+            },
+            {
+              "name": "Wikipedia – UNESCO",
+              "url": "https://en.wikipedia.org/wiki/UNESCO"
+            },
+            {
+              "name": "Wikipedia – International Day for Tolerance",
+              "url": "https://en.wikipedia.org/wiki/International_Day_for_Tolerance"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay · 16/11/1974: thông điệp Arecibo được phát từ Puerto Rico vào không gian",
+          "meta": "Khoa học · Wikipedia",
+          "body": [
+            "Đây là một trong những thông điệp vô tuyến nổi tiếng nhất loài người gửi ra vũ trụ."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – November 16",
+              "url": "https://en.wikipedia.org/wiki/November_16"
+            },
+            {
+              "name": "Wikipedia – Arecibo message",
+              "url": "https://en.wikipedia.org/wiki/Arecibo_message"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay · 16/11/1965: Liên Xô phóng Venera 3 — tàu vũ trụ đầu tiên chạm tới bề mặt một hành tinh khác; 16/11/2022: NASA phóng Artemis I",
+          "meta": "Khoa học · Wikipedia, NASA",
+          "body": [
+            "Artemis I là chuyến bay đầu tiên của tên lửa SLS, mở đầu chương trình đưa người trở lại Mặt Trăng."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – November 16",
+              "url": "https://en.wikipedia.org/wiki/November_16"
+            },
+            {
+              "name": "Wikipedia – Venera 3",
+              "url": "https://en.wikipedia.org/wiki/Venera_3"
+            },
+            {
+              "name": "NASA – Artemis I",
+              "url": "https://www.nasa.gov/press-release/liftoff-nasa-s-artemis-i-mega-rocket-launches-orion-to-moon"
+            }
+          ]
+        },
+        {
+          "headline": "Fact hôm nay · 16/11/1855: David Livingstone là người châu Âu đầu tiên nhìn thấy thác Victoria; 1938: Albert Hofmann lần đầu tổng hợp LSD",
+          "meta": "Lịch sử · Wikipedia",
+          "body": [
+            "Thác Victoria nằm trên biên giới Zambia – Zimbabwe."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Wikipedia – November 16",
+              "url": "https://en.wikipedia.org/wiki/November_16"
+            },
+            {
+              "name": "Wikipedia – Victoria Falls",
+              "url": "https://en.wikipedia.org/wiki/Victoria_Falls"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Số buổi chiều tổng hợp từ các nguồn công khai đến khoảng 17h ngày 16/11/2026 (giờ VN). Không lặp tin số sáng (Yemen, Estonia, viện trợ Gaza, Canary, APEC 33…) trừ khi có cập nhật cùng ngày (Nvidia, dừng bay ở Mỹ, ASEAN 49, Nga – Ukraine, Iran)."
+}
