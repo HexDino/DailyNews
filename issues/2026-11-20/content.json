@@ -1,0 +1,1345 @@
+{
+  "date": "2026-11-20",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 20/11/2026 · Thứ Sáu · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Cổ phiếu Anthropic mở cửa 111,5 USD, vốn hóa vượt 2.000 tỷ USD",
+    "Mỹ – Nga – Trung ra tuyên bố hòa bình 4 điểm sau thượng đỉnh ba bên",
+    "Tòa ICJ phán quyết Myanmar phạm tội diệt chủng người Rohingya",
+    "Gemini trên Mac tự thao tác máy tính; gói Microsoft Agent Framework bị cài mã độc",
+    "Tối nay U17 Việt Nam ra quân gặp Bỉ tại U17 World Cup"
+  ],
+  "followups": [
+    {
+      "title": "APEC 33 tại Thâm Quyến và cuộc gặp ba bên Mỹ – Trung – Nga",
+      "update": "Cuộc họp ba bên kéo dài khoảng 90 phút và ra tuyên bố chung 4 điểm: ngăn chiến tranh hạt nhân, duy trì ổn định chiến lược, cải cách LHQ, tăng sản lượng dầu tinh chế. Ông Tô Lâm gặp ông Trump, mời dự APEC 2027 ở Phú Quốc.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-11-16-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/my-nga-trung-ra-tuyen-bo-chung-4-diem-sau-thuong-dinh-ba-ben-5146774.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o"
+        }
+      ]
+    },
+    {
+      "title": "IPO của Anthropic",
+      "update": "Phiên đầu trên Nasdaq, cổ phiếu ANT mở ở 111,5 USD, cao hơn 33% giá IPO 83 USD; vốn hóa vượt 2.000 tỷ USD theo giá mở cửa.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-18",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+        }
+      ]
+    },
+    {
+      "title": "Bê bối CEO Nvidia Jensen Huang",
+      "update": "Hạ viện Mỹ công bố Bộ Thương mại đã duyệt xuất khẩu 879.000 chip AI của Nvidia và AMD cho Trung Quốc trong 6 tháng; Nvidia nói đã ngừng giao H200.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-10",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months"
+        }
+      ]
+    },
+    {
+      "title": "Đàm phán hòa bình Nga – Ukraine",
+      "update": "Putin gác ý định ngừng bắn sau vụ tấn công cầu Crimea; châu Âu họp ở Berlin, tuyên bố sẵn sàng đàm phán với lập trường thống nhất.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-09",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go"
+        }
+      ]
+    },
+    {
+      "title": "Phán quyết ICJ vụ Myanmar bị cáo buộc diệt chủng người Rohingya",
+      "update": "Tòa ICJ kết luận Myanmar phạm tội diệt chủng; lần đầu một quốc gia bị tòa quốc tế kết luận như vậy.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-11-18-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran",
+      "update": "Thượng viện Mỹ bác nghị quyết hạn chế quyền chiến tranh với Iran của ông Trump, tỷ lệ 51-48.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-13-chieu",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-20",
+      "title": "Bão Akvan dự kiến đổ bộ bờ đông Ấn Độ",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/india-nearly-50-000-evacuated-as-cyclone-akvan-nears-the-coast/live-79987334"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Bốc thăm tứ kết UEFA Nations League",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "AFP",
+          "url": "https://www.afp.com/en/portugal-beat-wales-restore-order-after-ronaldo-furore"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Hết lệnh tạm dừng 14 ngày xây 'khải hoàn môn' ở Washington (dự kiến, tính từ 6/11)",
+      "topic": "Chính trị",
+      "note": "Tòa có thể gia hạn hoặc ra phán quyết tiếp theo.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Microsoft dự kiến công bố báo cáo cuối về sự cố Microsoft 365",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Ngày Nhà giáo Việt Nam: Bộ GD-ĐT yêu cầu tổ chức tinh gọn, không huy động phụ huynh đóng góp",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/bo-gd-dt-yeu-cau-tuyet-doi-khong-huy-dong-cha-me-hoc-sinh-dong-gop-to-chuc-20-11-100261113135444174.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Tổng thống Azerbaijan Ilham Aliyev thăm chính thức Việt Nam (20–21/11)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/tong-thong-azerbaijan-va-phu-nhan-sap-tham-viet-nam-100261116182101026.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "time": "20:00",
+      "title": "U17 World Cup: U17 Việt Nam – U17 Bỉ (trận ra quân bảng G)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/hlv-doi-viet-nam-se-co-quyen-luc-moi-o-world-cup-u17-2026-100261118191411639.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Dự kiến hiệu lực chính sách xóa nợ lệ phí môn bài cho người nộp thuế diện 03, 06",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/hang-trieu-nguoi-nop-thue-dien-03-06-du-kien-duoc-xem-xet-xoa-no-tu-2111-185261114191859251.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến biểu quyết Luật sửa đổi Luật Bảo hiểm xã hội",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/chua-mo-rong-dien-dong-bao-hiem-bat-buoc-voi-tai-xe-cong-nghe-5142415.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Quốc hội dự kiến thông qua chủ trương 3 cao tốc mới và nghị quyết đặc thù du lịch",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress – cao tốc",
+          "url": "https://vnexpress.net/trinh-quoc-hoi-dau-tu-them-ba-du-an-cao-toc-5141815.html"
+        },
+        {
+          "name": "VnExpress – du lịch",
+          "url": "https://vnexpress.net/de-xuat-uu-dai-lon-cho-cac-du-an-du-lich-ty-usd-5141836.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "time": "19:30",
+      "title": "U17 World Cup: U17 Nhật Bản – U17 Colombia (đại diện châu Á cuối cùng ra quân)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VOV",
+          "url": "http://vov.vn/the-thao/ket-qua-u17-world-cup-2026-bong-da-chau-a-lo-thanh-tich-hoan-hao-ngay-ra-quan-post1351709.vov"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Liverpool – Man Utd tại Anfield (sau đợt FIFA Days)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50441594/man-united-michael-carrick-sir-jim-ratcliffe-future-talks"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "title": "TP.HCM trình chiếu 3D Mapping trước trụ sở UBND và khách sạn Rex (22–24/11)",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/chieu-3d-mapping-truoc-tru-so-ubnd-tphcm-va-khach-san-rex-trong-3-ngay-100261118182108005.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "time": "00:00",
+      "title": "Cao tốc TP.HCM – Long Thành: xe chuyển sang đoạn mở rộng 10 làn (gần 10 km qua Đồng Nai)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/10-km-cao-toc-tp-hcm-long-thanh-hoan-thanh-mo-rong-len-10-lan-5146798.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "title": "OpenAI mở đơn ChatGPT for Academic Researchers (50.000 suất ChatGPT Plus miễn phí)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Xét xử sơ thẩm vụ lừa đảo gần 1.000 tỷ đồng tại Sen Tài Thu (TAND TP Hà Nội)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/vu-lua-dao-gan-1000-ti-cuu-tong-giam-doc-sen-tai-thu-huong-loi-225-ti-mua-nha-xe-bmw-100261115153242981.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "HiAPI bắt đầu tặng 10 triệu token DeepSeek V4.1 Flash/ngày (24–30/11, giờ PT)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "HiAPI",
+          "url": "https://hiapi.ai/en/blog/free-deepseek-api-black-friday-2026"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Ngày Văn hóa Việt Nam: miễn phí vé 3 bảo tàng ở Đà Nẵng",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/mien-phi-ve-3-bao-tang-da-nang-con-duoc-xem-gi-choi-gi-trong-ngay-van-hoa-viet-nam-24-11-100261113143151156.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "TP.HCM bắn pháo hoa tầm cao tại ba điểm",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tp-hcm-ban-phao-hoa-tam-cao-ba-diem-ngay-24-11-5141981.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hạn Nvidia chứng minh tuân thủ kiểm soát xuất khẩu theo yêu cầu của Bộ trưởng Bessent (10 ngày, ước tính từ 15/11)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hạn gửi Bộ Xây dựng đề xuất kết nối sân bay Gia Bình – trung tâm Hà Nội (đường sắt đô thị)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/pho-thu-tuong-uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-ha-noi-5142080.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "time": "trưa",
+      "title": "TP.HCM đóng toàn bộ cống dự án ngăn triều 10.000 tỷ đồng để kiểm chứng hiệu quả",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/du-an-ngan-trieu-10000-ti-dong-trua-25-11-dong-toan-bo-cac-cong-de-kiem-chung-hieu-qua-100261118133836594.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Bầu cử sớm ở Tây Ban Nha",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hạn đại lý vé số TP.HCM áp dụng quy định cấm bán cho người dưới 18 tuổi",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/dai-ly-ve-so-tphcm-dan-bang-cam-tre-duoi-18-tuoi-mua-ve-so-truoc-3011-185261110094016179.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hết thời gian dùng miễn phí Devin SWE-2 Flash",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Cognition",
+          "url": "https://cognition.ai/blog/swe-2-flash"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hết ưu đãi SFT miễn phí Muse Glimmer 30B trên Fireworks AI",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Fireworks AI",
+          "url": "https://fireworks.ai/pricing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "time": "22:59",
+      "title": "Hết ưu đãi Hy4 flash miễn phí trên WorkBuddy (23:59 giờ Bắc Kinh) và giảm 50% trên TokenHub",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Tencent",
+          "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Estonia đóng các cửa khẩu biên giới với Nga",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Jensen Huang làm việc với ba ủy ban Hạ viện Mỹ; Tổng cố vấn Nvidia Tim Teter ngày 2/12",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/jensen-huang-se-trinh-dien-truoc-cac-uy-ban-ha-vien-my-5145849.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Jeremy Latcham tiếp quản DC Studios thay James Gunn và Peter Safran",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "time": "",
+      "title": "Hạn 28 ngày để ông Eisenkot gom đủ 61 phiếu lập chính phủ Israel (tính từ 7/11; có thể gia hạn tối đa 14 ngày)",
+      "topic": "Chính trị",
+      "note": "Ngày 5/12 là mốc tính toán từ thông báo ngày 7/11.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/doi-thu-cua-thu-tuong-israel-duoc-chi-dinh-thanh-lap-chinh-phu-moi-5142108.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "title": "Hạn doanh nghiệp TP.HCM lập trước 1/7/2025 bổ sung thông tin chủ sở hữu hưởng lợi",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/hon-nua-trieu-doanh-nghiep-tren-ca-nuoc-phai-ke-khai-thong-tin-chu-so-huu-huong-loi-100261115192010975.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Sân bay Cà Mau dự kiến hoạt động trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/san-bay-ca-mau-lui-ngay-khai-thac-tro-lai-den-18-12-5141694.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-21",
+      "title": "Anthropic dự kiến vào chỉ số Nasdaq 100",
+      "topic": "Công nghệ",
+      "note": "Theo Stock Analysis",
+      "sources": [
+        {
+          "name": "Stock Analysis",
+          "url": "https://stockanalysis.com/news/anthropic-prices-ipo-83-per-share/"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Hạn đề xuất hoàn thành 6 dự án dịch vụ sân bay Long Thành",
+      "topic": "Xây dựng",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-lui-han-hoan-thanh-6-du-an-tai-san-bay-long-thanh-5141701.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-31",
+      "title": "Hết ưu đãi giảm 50% model Hy4 trên Tencent Cloud TokenHub",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Tencent",
+          "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-01",
+      "title": "Hạn đăng ký và luật an toàn AI RAISE của New York có hiệu lực",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Cổ phiếu Anthropic mở cửa 111,5 USD, cao hơn 33% giá IPO; vốn hóa vượt 2.000 tỷ USD",
+          "meta": "TechCrunch, BBC · 19/11 (giờ Mỹ)",
+          "body": [
+            "Theo TechCrunch, trong những phút đầu giao dịch trên Nasdaq, cổ phiếu ANT đạt 111,5 USD, cao hơn 33% so với giá IPO 83 USD. Với giá mở cửa này, vốn hóa Anthropic vượt 2.000 tỷ USD, lớn hơn Meta, Tesla hay Walmart; chỉ Apple, Amazon, Alphabet, Nvidia và Microsoft có giá trị cao hơn. Đợt chào bán huy động hơn 81 tỷ USD; cộng các vòng gọi vốn khác, Anthropic dự kiến có khoảng 220 tỷ USD tiền mặt.",
+            "Phát biểu trước giờ mở cửa, CEO Dario Amodei nói việc lên sàn 'chỉ củng cố quyết tâm làm điều đúng' và gọi cách tiếp cận an toàn của công ty là 'cuộc đua lên đỉnh'. BBC nhận định Anthropic là công ty thuần AI đầu tiên niêm yết, một phép thử cho cả ngành. Al Jazeera đưa tin ba người bị bắt trong cuộc biểu tình phản đối IPO bên ngoài Nasdaq."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq"
+            }
+          ]
+        },
+        {
+          "headline": "Gemini trên Mac tự thao tác máy tính thay người dùng",
+          "meta": "TechCrunch · 19/11",
+          "body": [
+            "Google đưa tính năng computer use vào ứng dụng Gemini cho macOS: AI có thể điều khiển ứng dụng Mac, duyệt web ở chế độ nền để làm các việc nhiều bước như điền biểu mẫu, xử lý hàng loạt file, sắp xếp thư mục hay tạo slide từ dữ liệu. Người dùng xem tác tử làm việc trong khung xem trước, vẫn dùng chuột và màn hình bình thường, và có thể tạm dừng, dừng hoặc duyệt từng thao tác.",
+            "Tính năng ban đầu chỉ có bằng tiếng Anh ở Mỹ, cần ứng dụng Gemini cho Mac và gói Google AI Plus, Pro hoặc Ultra. TechCrunch nhận xét Google đến muộn hơn OpenAI, Anthropic và Meta ở mảng tác tử trên máy tính."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+            }
+          ]
+        },
+        {
+          "headline": "Google ra Gemini 4 Neon cho lập trình phức tạp, giá 3 USD/triệu token đầu vào",
+          "meta": "Google, Google AI Studio, InfoWorld · 18/11",
+          "body": [
+            "Google giới thiệu Gemini 4 Neon, mô hình nhắm tới kỹ thuật phần mềm phức tạp, công việc tri thức và khoa học. Giá API là 3 USD/triệu token đầu vào, 15 USD/triệu token đầu ra, token đầu vào lưu cache 0,15 USD/triệu; ngữ cảnh 1 triệu token, có trên gói trả phí của Gemini API. 9to5Google mô tả Neon là 'chất lượng Carbon ở tốc độ Flash' cho người dùng AI Pro."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Google",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+            },
+            {
+              "name": "Google AI Studio",
+              "url": "https://aistudio.google.com/docs/whats-new-gemini-4-neon"
+            },
+            {
+              "name": "InfoWorld",
+              "url": "https://www.infoworld.com/article/4250618/google-launches-gemini-4-neon-touting-lower-costs-for-complex-ai-coding-tasks.html"
+            },
+            {
+              "name": "9to5Google",
+              "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/"
+            }
+          ]
+        },
+        {
+          "headline": "OpenAI dùng tác tử Codex tự tìm và sửa lỗi hiệu năng ChatGPT",
+          "meta": "OpenAI · 19/11",
+          "body": [
+            "OpenAI công bố 'Performance Factory', hệ thống chạy trên đám mây dùng tác tử Codex. Khi cảnh báo hiệu năng bật lên, một tác tử điều tra nguyên nhân, ghi kết quả và đề xuất bản sửa cho kỹ sư duyệt; sau khi triển khai, tác tử khác kiểm tra hiệu năng đã trở lại mức nền chưa. Theo OpenAI, trong hơn ba tháng quy trình này theo dõi hơn 1.700 cuộc điều tra và tìm ra nguyên nhân gốc của hơn 600 trường hợp, khoảng 17 cuộc điều tra tự động mỗi ngày."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/"
+            }
+          ]
+        },
+        {
+          "headline": "ChatGPT có Live Dictation: chép lời ngay khi nói, bỏ giới hạn 10 phút",
+          "meta": "The Verge · 19/11",
+          "body": [
+            "Tính năng đọc chính tả mới của ChatGPT chép lời theo thời gian thực thay vì chờ ghi âm xong; người dùng bấm vào dạng sóng âm để xem bản chép và sửa trong ô nhập. OpenAI cũng bỏ giới hạn ghi âm 10 phút. Tính năng đang triển khai toàn cầu cho mọi gói ChatGPT trên web, ứng dụng desktop, iOS và Android."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "mobile-agent-testers: 20 tác tử Claude Code kiểm thử app trên 20 điện thoại ảo song song",
+          "meta": "GitHub · tạo 16/11 · 45 sao",
+          "body": [
+            "Repo chạy các tác tử Claude Code trên iOS Simulator và Android emulator qua GitHub Actions, mô phỏng 20 người kiểm thử trên 20 máy khác nhau cùng lúc; tác giả quảng cáo chi phí '0 USD' (tận dụng runner GitHub Actions). Hữu ích để thử nghiệm kiểm thử giao diện mobile tự động bằng tác tử."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/pierridotite/mobile-agent-testers"
+            }
+          ]
+        },
+        {
+          "headline": "cache-maxxing: thanh hiển thị thời điểm cache prompt của Claude hết hạn và giá tin nhắn kế tiếp",
+          "meta": "GitHub · tạo 17/11 · 45 sao",
+          "body": [
+            "Công cụ hiển thị một thanh phía trên khung chat cho biết khi nào prompt cache của Claude hết hạn và tin nhắn tiếp theo sẽ tốn bao nhiêu trước khi gửi, giúp người dùng API tránh trả giá đầy đủ khi cache đã nguội."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/5m0k3/cache-maxxing"
+            }
+          ]
+        },
+        {
+          "headline": "agent-sentry: quét bảo mật và cổng chính sách cho skill tác tử và công cụ MCP, chạy cục bộ",
+          "meta": "GitHub · tạo 16/11 · 15 sao",
+          "body": [
+            "Trình quét chạy cục bộ kiểm tra các skill của tác tử AI và công cụ MCP trước khi cài, áp chính sách chặn những gì nguy hiểm. Chủ đề này càng đáng chú ý sau vụ gói Microsoft Agent Framework trên PyPI bị cài mã đánh cắp khóa (xem mục IT)."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/B1MAS/agent-sentry"
+            }
+          ]
+        },
+        {
+          "headline": "openfabriq: 'nhà máy phần mềm AI' dạng mã, tác tử tự phân loại, sửa và review repo GitHub",
+          "meta": "GitHub · tạo 16/11 · 16 sao",
+          "body": [
+            "openfabriq mô tả các tác tử phân loại issue, triển khai, review và sửa lỗi cho repo GitHub bằng những file cấu hình dễ đọc, chạy với Claude. Dự án còn rất mới, phù hợp để tham khảo cách tổ chức quy trình tác tử theo kiểu 'infrastructure as code'."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/openfabriq/openfabriq"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Gói Microsoft Agent Framework trên PyPI bị chiếm quyền, cài mã đánh cắp khóa đám mây",
+          "meta": "BleepingComputer, Wiz, GitHub Advisory · 17–19/11",
+          "body": [
+            "Hai phiên bản độc hại 1.26.1 và 1.26.2 của gói agent-framework được đẩy lên PyPI ngày 17/11 (giờ UTC) và bị gỡ trong khoảng một giờ. Mã độc chạy mỗi khi Python khởi động qua file .pth, kể cả khi không import gói, thu biến môi trường chứa khóa, file thông tin đăng nhập (Azure CLI, .npmrc, .git-credentials, Docker…), token Azure managed identity, OIDC của Azure DevOps và (bản 1.26.2) GitHub Actions, rồi gửi về webhook.site.",
+            "Wiz cho rằng kẻ tấn công đã dùng chứng chỉ của hệ thống ký phát hành ESRP của Microsoft. Ai đã cài hai bản này nên cô lập môi trường, dựng lại từ bản sạch 1.26.0 và xoay vòng mọi khóa có thể bị lộ."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "BleepingComputer",
+              "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/"
+            },
+            {
+              "name": "Wiz",
+              "url": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi"
+            },
+            {
+              "name": "GitHub Advisory",
+              "url": "https://github.com/advisories/GHSA-764m-3ppc-5m73"
+            }
+          ]
+        },
+        {
+          "headline": "Mỹ duyệt bán gần 900.000 chip AI cho Trung Quốc trong sáu tháng",
+          "meta": "Al Jazeera (Reuters) · 19/11",
+          "body": [
+            "Ủy ban Đối ngoại Hạ viện Mỹ công bố Bộ Thương mại đã duyệt xuất khẩu 879.000 chip AI của Nvidia và AMD (gồm H200 và MI325X) cho các công ty Trung Quốc từ tháng 12/2025 đến tháng 5/2026, trong đó Tencent 150.000, Alibaba 75.000, Baidu 43.000, BYD 4.000; các công ty xin tổng cộng 3,4 triệu chip. Chưa rõ bao nhiêu lô thực sự được giao.",
+            "Nvidia nói giấy phép kèm điều kiện chặt và 'đã ngừng giao H200 cho Trung Quốc'. Cổ phiếu Nvidia giảm 3,3%, AMD giảm 7,7% trong phiên."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months"
+            }
+          ]
+        },
+        {
+          "headline": "Tòa án Anh buộc chính phủ thừa nhận lệnh bí mật yêu cầu Apple mở 'cửa hậu'",
+          "meta": "TechCrunch · 19/11",
+          "body": [
+            "Tòa Quyền điều tra (Investigatory Powers Tribunal) của Anh bác lập luận an ninh quốc gia của Bộ Nội vụ và yêu cầu chính phủ xác nhận đã ra 'thông báo năng lực kỹ thuật' đòi Apple cung cấp dữ liệu mã hóa của khách hàng. Apple từng từ chối và tắt tính năng Advanced Data Protection cho iCloud ở Anh. Nhóm Liberty, bên khởi kiện, nói đây là lần đầu chính phủ bị buộc xác nhận một lệnh kỹ thuật bí mật; phiên cuối về chi tiết được công bố dự kiến năm sau."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/"
+            }
+          ]
+        },
+        {
+          "headline": "Apple tuyển kỹ sư xây tác tử AI tự duyệt web, viết mã thay người dùng",
+          "meta": "The Verge · 19/11",
+          "body": [
+            "Theo một tin tuyển dụng The Verge phát hiện, Apple cần kỹ sư làm tác tử AI có thể duyệt web thay người dùng, làm việc xuyên ứng dụng, viết mã và gọi dịch vụ. Cùng ngày Google cũng đưa lịch sử trò chuyện AI lên ngay trang chủ tìm kiếm bằng một thanh bên mới."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+            }
+          ]
+        },
+        {
+          "headline": "EVN miền Nam cảnh báo làn sóng đăng ký điện cho trung tâm dữ liệu: 4.000 MVA trong vài tháng",
+          "meta": "VnExpress · 19/11",
+          "body": [
+            "Tại diễn đàn của VCCI, Phó tổng giám đốc EVNSPC Bùi Quốc Hoan cho biết dự án trung tâm dữ liệu lớn nhất đang triển khai ở Việt Nam có công suất 140 MVA, nhưng tổng công suất đăng ký cấp điện cho loại hình này chỉ riêng địa bàn EVNSPC đã lên 4.000 MVA trong vài tháng. Ông đề nghị đánh giá kỹ mục đích đầu tư, tránh tận dụng điện giá rẻ chỉ để cho khách nước ngoài thuê."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/de-xuat-danh-gia-ky-muc-dich-dau-tu-cac-trung-tam-du-lieu-5146786.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "Khuyến mãi đặc biệt",
+      "title": "Công nghệ · Khuyến mãi đặc biệt",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "HiAPI tặng 10 triệu token DeepSeek V4.1 Flash mỗi ngày dịp Black Friday (24–30/11)",
+          "meta": "HiAPI · thông báo trên blog hãng",
+          "body": [
+            "Ưu đãi: mỗi tài khoản HiAPI đã nạp tiền ít nhất một lần (bất kỳ số tiền nào) được dùng miễn phí 10 triệu token/ngày mô hình DeepSeek V4.1 Flash, đặt lại lúc 0h giờ Thái Bình Dương; giới hạn 10 yêu cầu/phút, 2 yêu cầu đồng thời. Thời gian: 0h 24/11 đến 23h59 30/11 (giờ PT). Endpoint tương thích OpenAI https://api.hiapi.ai/v1, model deepseek-v4.1-flash; giá thường 0,44 USD/1,32 USD mỗi triệu token vào/ra.",
+            "Cách nhận: tạo API key, nạp tiền một lần, rồi làm theo hướng dẫn (header bắt buộc) được công bố trên trang sự kiện ngày 24/11; yêu cầu không đúng cách bị tính giá thường. Lưu ý: HiAPI là bên trung gian bán lại, không phải DeepSeek; cần nạp tiền trước và nên cân nhắc điều khoản dữ liệu trước khi gửi dữ liệu nhạy cảm. Chỉ áp dụng V4.1 Flash, không gồm V4 Pro."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "HiAPI",
+              "url": "https://hiapi.ai/en/blog/free-deepseek-api-black-friday-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Phần mềm",
+      "title": "Xây dựng · Phần mềm",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Bentley mở MicroStation MCP cho mọi người dùng MicroStation 2026.2, sớm hơn kế hoạch",
+          "meta": "Bentley Systems · 18/11",
+          "body": [
+            "MicroStation MCP cho phép bất kỳ trợ lý AI nào hỗ trợ Model Context Protocol làm việc trong phiên MicroStation đang mở bằng lệnh tiếng Anh thông thường: phân tích thiết kế, kiểm tra bản vẽ theo tiêu chuẩn, tự động hóa thao tác mô hình lặp lại, rồi tự kiểm tra kết quả. Bentley dự định phát hành thương mại cùng MicroStation 2027 nhưng mở sớm vì Chương trình truy cập sớm quá đông.",
+            "Tính năng đến qua bản cập nhật Bentley Copilot trong MicroStation 2026.2, không có ở bản cũ hơn. Bentley kể kỹ sư Stuart Milne dựng lại tòa Gherkin ở London với Claude và Astra trong 30 phút thay vì nhiều ngày, kỹ sư vẫn kiểm tra mọi kết quả."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Bentley",
+              "url": "https://www.bentley.com/en/blog/microstation-mcp-ai/"
+            }
+          ]
+        },
+        {
+          "headline": "Autodesk Content Catalog bản mới vào public tech preview: tìm kiếm hợp nhất, phân quyền theo vai trò",
+          "meta": "Autodesk AEC blog · 19/11",
+          "body": [
+            "Trải nghiệm mới của Autodesk Content Catalog, kho thư viện nội dung BIM dùng chung, nay mở thử công khai sau giai đoạn thử riêng: gộp duyệt và tìm kiếm vào một trang dựa trên tìm kiếm đám mây, hiển thị rõ hơn tiến trình tải lên, cho quản trị viên phân quyền theo vai trò Forma Data Management hoặc theo công ty thay vì từng người, và thêm 'Personal Saved Searches' cho từng người dùng. Bản Content Catalog cổ điển vẫn dùng song song trong giai đoạn preview."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Autodesk",
+              "url": "https://www.autodesk.com/blogs/aec/2026/11/19/new-autodesk-content-catalog-experience-public-tech-preview/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Công an Hà Nội dẫn trước nhưng thua ngược Johor Darul Ta'zim 1-3 ở Shopee Cup",
+          "meta": "VnExpress · 19/11",
+          "body": [
+            "Ở lượt hai bảng B Cup CLB Đông Nam Á 2026-2027 trên sân Hàng Đẫy, Công an Hà Nội sớm dẫn nhờ pha phản lưới của Nene phút 3, nhưng Johor Darul Ta'zim lội ngược dòng với cú đúp của Arribas (50', 86') và bàn của Guilherme (60'). Một ngày trước, Công an TP.HCM thắng Buriram United 1-0."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cong-an-ha-noi-thua-nguoc-clb-manh-nhat-malaysia-5146802.html"
+            }
+          ]
+        },
+        {
+          "headline": "U17 World Cup ra quân: Australia hạ Argentina 2-0, Mozambique thắng Đan Mạch 4-0; tối nay U17 Việt Nam gặp Bỉ",
+          "meta": "FIFA, VOV, ANTARA · 19/11",
+          "body": [
+            "Ngày khai mạc ở Doha: Qatar 2-0 Panama, Ai Cập 1-2 Hy Lạp, New Caledonia 0-1 Ecuador, Hàn Quốc 3-0 Uganda, Mozambique 4-0 Đan Mạch, Argentina 0-2 Australia, Pháp 3-1 Haiti, Ả Rập Xê Út 2-3 Uruguay. Mozambique thắng ngay trận ra mắt lịch sử với cú đúp của Alirio Cuna; Akol Akon tỏa sáng giúp Australia, còn Argentina mất người vì thẻ đỏ.",
+            "U17 Việt Nam ra quân gặp U17 Bỉ lúc 20h00 tối nay 20/11 (giờ VN) ở bảng G, cùng bảng có Mali và New Zealand."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "FIFA",
+              "url": "https://www.fifa.com/en/tournaments/mens/u17worldcup/qatar-2026/scores-fixtures"
+            },
+            {
+              "name": "VOV",
+              "url": "http://vov.vn/the-thao/ket-qua-u17-world-cup-2026-bong-da-chau-a-lo-thanh-tich-hoan-hao-ngay-ra-quan-post1351709.vov"
+            },
+            {
+              "name": "ANTARA",
+              "url": "https://www.antaranews.com/berita/5866447/hasil-piala-dunia-u17-qatar-menang-australia-tekuk-argentina"
+            }
+          ]
+        },
+        {
+          "headline": "Pochettino vạch ưu tiên ở Man Utd: văn hóa, hàng thủ và Bruno Fernandes",
+          "meta": "BBC Sport · 19/11",
+          "body": [
+            "Trong cuộc phỏng vấn đầu tiên trên cương vị HLV trưởng Manchester United, Mauricio Pochettino nói cần 'tạo thói quen và văn hóa tốt nhất' để tiến gần việc thắng mọi trận. BBC phân tích ba vấn đề lớn ông phải giải: văn hóa đội bóng, hàng phòng ngự và vai trò của Bruno Fernandes. Buổi tập đầu tiên của ông còn bị một người điều khiển drone quay lén."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cxlylzyg38l8o"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo"
+            }
+          ]
+        },
+        {
+          "headline": "FIFA chốt ba ứng viên chủ tịch: Infantino đối đầu Diallo và Tashima",
+          "meta": "BBC Sport · 19/11",
+          "body": [
+            "FIFA xác nhận Philippe Diallo (Chủ tịch LĐBĐ Pháp) và Kozo Tashima (Nhật Bản) sẽ tranh cử với đương kim chủ tịch Gianni Infantino tại Đại hội FIFA ở Morocco năm sau."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo"
+            }
+          ]
+        },
+        {
+          "headline": "Tuyển Anh bị UEFA phạt vì cổ động viên hô khẩu hiệu bài Công giáo ở Tây Ban Nha",
+          "meta": "BBC Sport · 19/11",
+          "body": [
+            "UEFA phạt LĐBĐ Anh 15.000 euro (12.572 bảng) và treo án cấm khán giả sân khách một trận, sau tiếng hô bài Công giáo của cổ động viên Anh trong trận thắng Tây Ban Nha ở Nations League."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o"
+            }
+          ]
+        },
+        {
+          "headline": "Champions League nữ: Lyon thắng Arsenal 2-0",
+          "meta": "BBC Sport · 19/11",
+          "body": [
+            "Lyon vượt trội và thắng Arsenal 2-0, khiến đội bóng Anh gặp khó trong cuộc đua giành vé thẳng vào tứ kết Champions League nữ."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Mỹ, Nga, Trung ra 'tuyên bố hòa bình' 4 điểm sau thượng đỉnh ba bên đầu tiên",
+          "meta": "VnExpress, BBC · 19/11",
+          "body": [
+            "Ông Trump, ông Putin và ông Tập Cận Bình họp khoảng 90 phút tại Kỳ Lân Sơn Trang, Thâm Quyến, bên lề APEC. Tuyên bố chung 4 điểm do Trung Quốc công bố khẳng định 'chiến tranh hạt nhân không có người chiến thắng và tuyệt đối không được phép xảy ra', cam kết duy trì ổn định chiến lược, đối thoại giảm rủi ro, kêu gọi cải cách Liên Hợp Quốc và tăng sản lượng dầu tinh chế (theo VnExpress). BBC gọi đây là 'tuyên bố chung về hòa bình'."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/my-nga-trung-ra-tuyen-bo-chung-4-diem-sau-thuong-dinh-ba-ben-5146774.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp ông Trump, mời dự APEC 2027 tại Phú Quốc",
+          "meta": "VnExpress (TTXVN) · 19/11",
+          "body": [
+            "Bên lề Tuần lễ Cấp cao APEC ở Thâm Quyến, Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị Mỹ ủng hộ Việt Nam tổ chức thành công Năm APEC 2027, mời Tổng thống Trump thăm Việt Nam và dự Tuần lễ Cấp cao APEC 2027 tại Phú Quốc; khẳng định Việt Nam coi Mỹ là đối tác tầm quan trọng chiến lược và đề nghị thúc đẩy khuôn khổ Đối tác Chiến lược Toàn diện. Cùng ngày, ông thăm tỉnh Vân Nam."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-gap-tong-thong-trump-5146782.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-tham-tinh-van-nam-5146792.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tổng thống Azerbaijan Ilham Aliyev bắt đầu thăm chính thức Việt Nam",
+          "meta": "VnExpress (TTXVN) · 19/11",
+          "body": [
+            "Tổng thống Aliyev và phu nhân đến Hà Nội tối 19/11, thăm chính thức Việt Nam ngày 19–21/11 theo lời mời của Tổng Bí thư, Chủ tịch nước Tô Lâm; đây là chuyến thăm chính thức thứ hai của ông. Đại sứ Đặng Minh Khôi nói chuyến thăm mở ra giai đoạn cụ thể hóa tầm nhìn chiến lược giữa hai nước."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tong-thong-azerbaijan-den-ha-noi-bat-dau-tham-viet-nam-5146808.html"
+            }
+          ]
+        },
+        {
+          "headline": "Tòa ICJ phán quyết Myanmar phạm tội diệt chủng người Rohingya",
+          "meta": "BBC, Al Jazeera · 19/11",
+          "body": [
+            "Tòa Công lý Quốc tế kết luận Myanmar phạm tội diệt chủng đối với người Rohingya trong chiến dịch quân sự năm 2017 làm hàng nghìn người chết. Theo BBC, đây là lần đầu một quốc gia bị tòa án quốc tế kết luận phạm tội diệt chủng; Chánh án Iwasawa Yuji nói Myanmar có 'ý định' tiêu diệt nhóm người này. Al Jazeera tổng hợp phản ứng của thế giới và người sống sót."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya"
+            }
+          ]
+        },
+        {
+          "headline": "Putin dừng bàn ngừng bắn sau vụ tấn công cầu Crimea; châu Âu nói sẵn sàng đàm phán",
+          "meta": "VnExpress, BBC · 19/11",
+          "body": [
+            "Ông Putin cho biết đã cân nhắc ngừng bắn ở một số khu vực nhưng quyết định không làm sau các vụ Ukraine tấn công cầu Crimea, và cảnh báo đòn đáp trả 'đau đớn hơn nhiều'. Tại hội nghị 'Liên minh những nước sẵn sàng' ở Berlin, Thủ tướng Anh Andy Burnham và Thủ tướng Đức Merz nói châu Âu có lập trường đàm phán thống nhất; Merz cảnh báo 'mô hình Yalta' không mang lại hòa bình.",
+            "Đặc phái viên Mỹ Jared Kushner nói Nga 'thoải mái' với bảo đảm an ninh kiểu Điều 5 NATO cho Ukraine; ông Zelensky đáp 'Putin luôn nói không'. Cùng ngày drone Nga đánh vào trung tâm Kyiv, một người chết, Đại sứ quán Hà Lan, Áo bị hư hại."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ong-putin-canh-bao-dap-tra-ukraine-dau-don-hon-sau-vu-tap-kich-cau-crimea-5146806.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go"
+            }
+          ]
+        },
+        {
+          "headline": "Thượng viện Mỹ bác nghị quyết hạn chế quyền tiến hành chiến tranh với Iran của ông Trump",
+          "meta": "Al Jazeera · 19/11",
+          "body": [
+            "Nghị quyết bị bác với tỷ lệ 51-48; ba thượng nghị sĩ Cộng hòa bỏ phiếu cùng phe Dân chủ ủng hộ hạn chế quyền chiến tranh của tổng thống đối với Iran."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran"
+            }
+          ]
+        },
+        {
+          "headline": "Venezuela ký thỏa thuận quân sự với Mỹ chưa đầy một năm sau khi ông Maduro bị bắt",
+          "meta": "BBC · 19/11",
+          "body": [
+            "Chính phủ lâm thời do bà Delcy Rodríguez đứng đầu ký thỏa thuận hợp tác quân sự với Bộ trưởng Quốc phòng Mỹ Pete Hegseth. Ông Hegseth nói Venezuela đã từ 'mối đe dọa khu vực hung hăng nhất' thành 'đối tác an ninh tuân thủ'."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo"
+            }
+          ]
+        },
+        {
+          "headline": "Israel hoàn tất chiến dịch trên bộ ở Gaza ngoài 'Lằn ranh vàng'; Hamas tố vi phạm ngừng bắn",
+          "meta": "BBC · 19/11",
+          "body": [
+            "Quân đội Israel cho biết đã hoàn tất chiến dịch trên bộ hiếm hoi ở khu vực phía đông trại tị nạn Nuseirat, ngoài vùng họ kiểm soát, nói nhằm phá một 'đường hầm khủng bố'. Người dân phải sơ tán một ngày trước đó; Hamas gọi đây là vi phạm 'trắng trợn' lệnh ngừng bắn."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "GTA VI phát hành, ước tính lập kỷ lục doanh thu ngày đầu",
+          "meta": "USA Today, Reuters, BBC · 19/11",
+          "body": [
+            "Grand Theft Auto VI ra mắt toàn cầu ngày 19/11 và được dự báo phá kỷ lục doanh số của ngành (Reuters). USA Today tổng hợp năm điểm đáng chú ý của ngày phát hành. Các con số doanh thu ngày đầu đang lan truyền chủ yếu là ước tính của bên thứ ba, Take-Two chưa công bố chính thức.",
+            "Nhạc trong game có nhiều nghệ sĩ châu Phi như DJ Lag (Nam Phi), Burna Boy và Asake (Nigeria); DJ Lag nói với BBC đây là 'giấc mơ thành hiện thực'. Al Jazeera nhận định thành công của GTA VI cho thấy sức nặng văn hóa và kinh tế của trò chơi điện tử, giữa lúc ngành từng sa thải hàng loạt."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "USA Today",
+              "url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-major-takeaways-release-day/92862268007/"
+            },
+            {
+              "name": "Investing.com (Reuters)",
+              "url": "https://www.investing.com/news/stock-market-news/taketwo-set-to-shatter-sales-records-as-gta-vi-launches-to-massive-fanfare-5039603"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games"
+            }
+          ]
+        },
+        {
+          "headline": "Ngày Nhà giáo 20/11: Thủ tướng kêu gọi giảm áp lực, khắc phục bệnh thành tích",
+          "meta": "VnExpress · 19/11",
+          "body": [
+            "Gặp mặt nhà giáo tiêu biểu chiều 19/11 cùng Chủ tịch Quốc hội Trần Thanh Mẫn, Thủ tướng Lê Minh Hưng nhấn mạnh truyền thống hiếu học, tôn sư trọng đạo và đề nghị chung tay khắc phục bệnh thành tích, giảm áp lực để việc học thực sự mang lại niềm vui, tri thức và giá trị tốt đẹp."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thu-tuong-giam-ap-luc-de-viec-hoc-mang-lai-ca-niem-vui-va-tri-thuc-5146759.html"
+            }
+          ]
+        },
+        {
+          "headline": "Ba anh em nhà Esposito lần đầu cùng có tên trong lịch sử tuyển Italy",
+          "meta": "VnExpress · 19/11",
+          "body": [
+            "Salvatore, Sebastiano và Francesco Pio Esposito trở thành ba anh em ruột đầu tiên cùng khoác áo đội tuyển Italy. Sebastiano ra mắt trong trận Italy làm khách Thổ Nhĩ Kỳ ở Nations League, đá chính cùng Pio, còn anh cả Salvatore ngồi xem một mình ở nhà vì 'mê tín'."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ba-anh-em-dau-tien-cung-khoac-ao-doi-tuyen-italy-5146811.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Không khí lạnh tăng cường, Bắc Bộ rét; vùng núi có nơi rét đậm",
+          "meta": "Trung tâm Dự báo KTTV quốc gia, VietNamNet · 20/11",
+          "body": [
+            "Ngày 20/11 miền Bắc tiếp tục chịu ảnh hưởng không khí lạnh tăng cường: nhiều mây, có mưa rào và rải rác dông, trời rét; vùng núi Tây Bắc, Đông Bắc có nơi rét đậm. Hà Nội nhiệt độ thấp nhất khoảng 15–17°C, cao nhất 19–21°C; Trung Bộ tiếp tục có mưa lớn."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "NCHMF",
+              "url": "https://www.nchmf.gov.vn/Kttvsite/vi-VN/1/index.html"
+            },
+            {
+              "name": "VietNamNet",
+              "url": "https://vietnamnet.vn/du-bao-thoi-tiet-20-11-2026-khong-khi-lanh-bo-sung-mien-bac-ret-2572301.html"
+            }
+          ]
+        },
+        {
+          "headline": "Gần 10 km cao tốc TP.HCM – Long Thành mở rộng lên 10 làn, chuyển xe sang đường mới từ 22/11",
+          "meta": "VnExpress · 19/11",
+          "body": [
+            "VEC cho biết đoạn mở rộng gần 10 km từ sau cầu dẫn Long Thành đến nút giao quốc lộ 51 đã hoàn thành. Từ 0h ngày 22/11, xe qua khu vực sẽ chuyển sang phần đường mới để nhà thầu cải tạo mặt đường hiện hữu; tài xế cần chú ý biển báo, vạch sơn tạm."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/10-km-cao-toc-tp-hcm-long-thanh-hoan-thanh-mo-rong-len-10-lan-5146798.html"
+            }
+          ]
+        },
+        {
+          "headline": "Sân bay Long Thành: còn bốn hạng mục có thể ảnh hưởng mốc khai thác 24/12",
+          "meta": "VnExpress · 19/11",
+          "body": [
+            "Hơn một tháng trước ngày dự kiến khai thác thương mại 24/12, sân bay Long Thành còn khối lượng lớn từ nhà ga, đường nội cảng đến nghiệm thu, cấp phép. Dự án đang chạy chương trình chuẩn bị khai thác (ORAT) với 55 kịch bản chia ba đợt từ tháng 9 đến tháng 12."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/bon-hang-muc-co-the-anh-huong-khai-thac-long-thanh-vao-thang-12-5146679.html"
+            }
+          ]
+        },
+        {
+          "headline": "Quảng Ngãi tính làm cáp treo vượt biển 3 km nối đảo Lớn – đảo Bé Lý Sơn",
+          "meta": "VnExpress · 19/11",
+          "body": [
+            "Tuyến cáp treo dài khoảng 3 km, dự tính 300 tỷ đồng vốn ngoài ngân sách, triển khai giai đoạn 2030–2045, nằm trong kế hoạch phát triển đặc khu Lý Sơn thành trung tâm du lịch biển đảo. Hiện người dân và du khách chủ yếu đi lại bằng canô, tàu; đảo Bé có khoảng 400–500 người sinh sống."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/quang-ngai-tinh-lam-cap-treo-vuot-bien-noi-hai-dao-ly-son-5146795.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hà mã Fiona nổi tiếng của vườn thú Cincinnati chết sau khi nuốt chiếc mũ len",
+          "meta": "BBC · 19/11",
+          "body": [
+            "Fiona, chú hà mã trở thành ngôi sao mạng sau khi sinh non năm 2017, đã chết vài ngày sau khi nuốt một chiếc mũ len rơi vào chuồng, dù bác sĩ thú y và người chăm sóc nhiều lần cứu chữa. Vườn thú nói Fiona 'đã chiến đấu đến khi không thể nữa'."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 20/11/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu."
+}
