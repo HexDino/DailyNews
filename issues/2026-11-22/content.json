@@ -1,0 +1,1340 @@
+{
+  "date": "2026-11-22",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 22/11/2026 · Chủ Nhật · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Cộng đồng Lean xác nhận chứng minh giả thuyết Riemann là đúng",
+    "Iran tuyên bố bắn trúng F-16 Mỹ, CENTCOM bác bỏ",
+    "Năm 2027 có 13 ngày nghỉ lễ, Tết hưởng nguyên lương",
+    "OpenAI ra GPT-6.1 Terra giá 1/5 USD mỗi triệu token",
+    "Chelsea thua Leeds 1-4, Arsenal hòa Newcastle 2-2"
+  ],
+  "followups": [
+    {
+      "title": "Chứng minh giả thuyết Riemann bằng Claude",
+      "update": "Cộng đồng Lean/Mathlib ra tuyên bố chung chứng nhận phát biểu và chứng minh (thư viện Lean 17 triệu dòng) là đúng.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-21",
+      "sources": [
+        {
+          "name": "Lean community",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+        }
+      ]
+    },
+    {
+      "title": "Căng thẳng Mỹ – Iran",
+      "update": "Iran tuyên bố bắn trúng F-16 Mỹ (CENTCOM bác bỏ), tấn công gây cháy ở Bahrain; Iran nói đã hội đàm với trung gian Qatar.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-13-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/iran-tuyen-bo-ban-trung-tiem-kich-f-16-my-bac-bo-5147537.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions"
+        }
+      ]
+    },
+    {
+      "title": "Đàm phán hòa bình Nga – Ukraine",
+      "update": "Nga tấn công Kryvyi Rih (2 chết, 60 bị thương); tàu hàng Nga trúng UAV ở vịnh Phần Lan; Nga nói đã khôi phục đường sắt qua cầu Crimea.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-13",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+        }
+      ]
+    },
+    {
+      "title": "COP31 tại Thổ Nhĩ Kỳ",
+      "update": "Đàm phán quá hạn hơn một ngày, tạm dừng qua đêm vì bất đồng về nhiên liệu hóa thạch và tài chính thích ứng.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-20-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-22",
+      "title": "Chung kết ATP Finals: Alcaraz – Zverev (Turin)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/alcaraz-dau-zverev-o-chung-ket-atp-finals-5147552.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Liverpool – Man Utd tại Anfield (sau đợt FIFA Days)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50441594/man-united-michael-carrick-sir-jim-ratcliffe-future-talks"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "title": "TP.HCM trình chiếu 3D Mapping trước trụ sở UBND và khách sạn Rex (22–24/11)",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/chieu-3d-mapping-truoc-tru-so-ubnd-tphcm-va-khach-san-rex-trong-3-ngay-100261118182108005.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "time": "00:00",
+      "title": "Cao tốc TP.HCM – Long Thành: xe chuyển sang đoạn mở rộng 10 làn (gần 10 km qua Đồng Nai)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/10-km-cao-toc-tp-hcm-long-thanh-hoan-thanh-mo-rong-len-10-lan-5146798.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "time": "06:00",
+      "title": "MLS Cup play-off: Inter Miami (Messi) – Columbus Crew",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/messi-san-chuc-vo-dich-mls-cup-thu-hai-lien-tiep-5146433.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Ngày Di sản văn hóa Việt Nam — Hà Nội miễn vé nhiều di tích (23–24/11)",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/11-bao-tang-di-tich-mien-phi-ve-tai-ha-noi-ngay-van-hoa-viet-nam-100261121214945355.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "title": "OpenAI mở đơn ChatGPT for Academic Researchers (50.000 suất ChatGPT Plus miễn phí)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Xét xử sơ thẩm vụ lừa đảo gần 1.000 tỷ đồng tại Sen Tài Thu (TAND TP Hà Nội)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/vu-lua-dao-gan-1000-ti-cuu-tong-giam-doc-sen-tai-thu-huong-loi-225-ti-mua-nha-xe-bmw-100261115153242981.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "HiAPI bắt đầu tặng 10 triệu token DeepSeek V4.1 Flash/ngày (24–30/11, giờ PT)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "HiAPI",
+          "url": "https://hiapi.ai/en/blog/free-deepseek-api-black-friday-2026"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Ngày Văn hóa Việt Nam (ngày nghỉ hưởng lương từ năm 2027)",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/13-ngay-nghi-le-tet-nam-2027-5146995.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Ngày Văn hóa Việt Nam: miễn phí vé 3 bảo tàng ở Đà Nẵng",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/mien-phi-ve-3-bao-tang-da-nang-con-duoc-xem-gi-choi-gi-trong-ngay-van-hoa-viet-nam-24-11-100261113143151156.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "TP.HCM bắn pháo hoa tầm cao tại ba điểm",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tp-hcm-ban-phao-hoa-tam-cao-ba-diem-ngay-24-11-5141981.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hạn Nvidia chứng minh tuân thủ kiểm soát xuất khẩu theo yêu cầu của Bộ trưởng Bessent (10 ngày, ước tính từ 15/11)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hạn gửi Bộ Xây dựng đề xuất kết nối sân bay Gia Bình – trung tâm Hà Nội (đường sắt đô thị)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/pho-thu-tuong-uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-ha-noi-5142080.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "time": "00:00",
+      "title": "Hai trạm BOT Bến Thủy I và II thu phí trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hai-tram-bot-ben-thuy-thu-phi-tro-lai-tu-25-11-5147393.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "time": "trưa",
+      "title": "TP.HCM đóng toàn bộ cống dự án ngăn triều 10.000 tỷ đồng để kiểm chứng hiệu quả",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/du-an-ngan-trieu-10000-ti-dong-trua-25-11-dong-toan-bo-cac-cong-de-kiem-chung-hieu-qua-100261118133836594.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "title": "Trình diễn kỹ thuật lặn cấy phục hồi 12 loài san hô",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/ngay-28-11-trinh-dien-ky-thuat-lan-cay-phuc-hoi-12-loai-san-ho-tai-dac-khu-con-dao-100261119162254047.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Bầu cử sớm ở Tây Ban Nha",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hạn đại lý vé số TP.HCM áp dụng quy định cấm bán cho người dưới 18 tuổi",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/dai-ly-ve-so-tphcm-dan-bang-cam-tre-duoi-18-tuoi-mua-ve-so-truoc-3011-185261110094016179.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hết thời gian dùng miễn phí Devin SWE-2 Flash",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Cognition",
+          "url": "https://cognition.ai/blog/swe-2-flash"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hết ưu đãi SFT miễn phí Muse Glimmer 30B trên Fireworks AI",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Fireworks AI",
+          "url": "https://fireworks.ai/pricing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "time": "22:59",
+      "title": "Hết ưu đãi Hy4 flash miễn phí trên WorkBuddy (23:59 giờ Bắc Kinh) và giảm 50% trên TokenHub",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Tencent",
+          "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Estonia đóng các cửa khẩu biên giới với Nga",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Jensen Huang làm việc với ba ủy ban Hạ viện Mỹ; Tổng cố vấn Nvidia Tim Teter ngày 2/12",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/jensen-huang-se-trinh-dien-truoc-cac-uy-ban-ha-vien-my-5145849.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Jeremy Latcham tiếp quản DC Studios thay James Gunn và Peter Safran",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "time": "",
+      "title": "Hạn 28 ngày để ông Eisenkot gom đủ 61 phiếu lập chính phủ Israel (tính từ 7/11; có thể gia hạn tối đa 14 ngày)",
+      "topic": "Chính trị",
+      "note": "Ngày 5/12 là mốc tính toán từ thông báo ngày 7/11.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/doi-thu-cua-thu-tuong-israel-duoc-chi-dinh-thanh-lap-chinh-phu-moi-5142108.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "title": "Ban chấp hành UEFA họp tại Belfast, dự kiến chốt địa điểm VCK Nations League",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/xac-dinh-4-cap-dau-tu-ket-uefa-nations-league-5147263.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "title": "Hạn ngân sách liên bang Mỹ — nguy cơ chính phủ đóng cửa",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/chinh-phu-my-doi-dien-voi-nguy-co-dong-cua-lan-thu-tu-100261120200910188.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "title": "Hạn doanh nghiệp TP.HCM lập trước 1/7/2025 bổ sung thông tin chủ sở hữu hưởng lợi",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/hon-nua-trieu-doanh-nghiep-tren-ca-nuoc-phai-ke-khai-thong-tin-chu-so-huu-huong-loi-100261115192010975.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Sân bay Cà Mau dự kiến hoạt động trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/san-bay-ca-mau-lui-ngay-khai-thac-tro-lai-den-18-12-5141694.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-21",
+      "title": "Anthropic dự kiến vào chỉ số Nasdaq 100",
+      "topic": "Công nghệ",
+      "note": "Theo Stock Analysis",
+      "sources": [
+        {
+          "name": "Stock Analysis",
+          "url": "https://stockanalysis.com/news/anthropic-prices-ipo-83-per-share/"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Hạn đề xuất hoàn thành 6 dự án dịch vụ sân bay Long Thành",
+      "topic": "Xây dựng",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-lui-han-hoan-thanh-6-du-an-tai-san-bay-long-thanh-5141701.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "time": "trong ngày",
+      "title": "Dự kiến chuyến bay Long Thành – Hà Nội đầu tiên của Vietnam Airlines, Vietjet",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vietnam-airlines-vietjet-sap-mo-duong-bay-tu-long-thanh-ra-bac-5147412.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-31",
+      "title": "Hết ưu đãi giảm 50% model Hy4 trên Tencent Cloud TokenHub",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Tencent",
+          "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-01",
+      "title": "Hạn đăng ký và luật an toàn AI RAISE của New York có hiệu lực",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Cộng đồng Lean và Mathlib xác nhận chứng minh giả thuyết Riemann của Levent Alpöge là đúng",
+          "meta": "Lean community blog · 21/11",
+          "body": [
+            "Trong tuyên bố chung được Lean FRO và Mathlib Initiative ủng hộ, cộng đồng Lean/Mathlib cho biết đã kiểm chứng trong khoảng một ngày thư viện Lean 17 triệu dòng mã mà Levent Alpöge (nhà toán học làm việc tại Anthropic, thực hiện cùng Claude) công bố ngày 20/11, và 'chứng nhận cả phát biểu lẫn chứng minh giả thuyết Riemann là đúng'; mã nguồn chỉ phụ thuộc trực tiếp vào Mathlib.",
+            "Đây là xác nhận về mặt kiểm chứng hình thức bằng máy; giải thưởng của Viện Toán Clay vẫn theo quy trình riêng (công bố và thời gian thẩm định)."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Lean community",
+              "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+            },
+            {
+              "name": "GitHub",
+              "url": "https://github.com/CocoSgt/riemann-hypothesis-lean"
+            }
+          ]
+        },
+        {
+          "headline": "OpenAI ra GPT-6.1 Terra: mô hình tầm trung nhanh hơn, giá API 1 USD/5 USD mỗi triệu token",
+          "meta": "FeaturedDaily (dẫn BleepingComputer, 9to5Mac) · 21/11",
+          "body": [
+            "GPT-6.1 Terra thay GPT-5.6 Terra, có trong ChatGPT Work, Codex và API (tên gpt-6.1-terra); giá 1 USD/triệu token đầu vào và 5 USD/triệu token đầu ra, OpenAI nói rẻ hơn 50%. Hãng cho biết Terra hoàn thành tác vụ nhanh hơn 3 lần GPT-6 Astra và GPT-6.1 Sol, ngang Astra với giá bằng 1/10; trên Terminal-Bench 4.0 đạt 50,3% (GPT-5.6 Terra: 21,5%).",
+            "Các con số là do OpenAI công bố; hãng vẫn khuyên dùng Sol hoặc Astra cho tác vụ lập trình phức tạp nhất. Bản trong ChatGPT đang triển khai dần cho Plus, Pro, Enterprise, Edu."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "FeaturedDaily",
+              "url": "https://featureddaily.com/news/openai-launches-gpt-6-1-terra-a-faster-cheaper-medium-sized-model"
+            }
+          ]
+        },
+        {
+          "headline": "AWS Quick thêm plugin gói sẵn tác tử, skill, connector và flow; hỗ trợ tiếng Việt",
+          "meta": "AWS · 20–21/11",
+          "body": [
+            "Plugin cho phép cài một lần cả bộ tác tử, skill, connector và flow cho một công việc (ví dụ trợ lý lịch họp, phát triển bán hàng); có hơn 100 skill và plugin, người dùng có thể mô tả công việc bằng chat để Quick tự lắp plugin rồi chia sẻ cho đồng nghiệp.",
+            "Bản cập nhật cùng đợt thêm điều phối nhiều tác tử trong một yêu cầu, flow chạy dài hơn với bước xác định, connector Meta Ads và Amplitude (hỏi quyền trước mọi thao tác ghi), cùng hỗ trợ tiếng Nhật, Đức, Trung và tiếng Việt."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "AWS What's New",
+              "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/"
+            },
+            {
+              "name": "AWS Blog",
+              "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/"
+            }
+          ]
+        },
+        {
+          "headline": "Đàm phán LHQ ở Geneva không thống nhất được quy tắc cho 'robot sát thủ'",
+          "meta": "The Verge · 21/11",
+          "body": [
+            "Sau vòng đàm phán tại Geneva về vũ khí tự động, các nước chỉ đồng ý 'bắt đầu thảo luận các phương án' cho bộ quy tắc, chưa đạt thỏa thuận ràng buộc nào về việc điều chỉnh loại vũ khí dùng AI chọn và tấn công mục tiêu."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "skill-distill: chưng cất một phiên Claude Code/Codex tốt thành skill cho mô hình mở trọng số",
+          "meta": "GitHub · tạo 21/11 · 336 sao · MIT",
+          "body": [
+            "Công cụ Python của Sybil Solutions biến một phiên làm việc thành công với Claude Code hoặc Codex thành 'skill' mà mô hình mở trọng số có thể làm theo để tái hiện tác vụ — hướng tới giảm chi phí khi chuyển việc lặp lại sang mô hình rẻ hơn."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/sybil-solutions/skill-distill"
+            }
+          ]
+        },
+        {
+          "headline": "Diderot (Bluesky): tìm kiếm và hỏi đáp trên Slack, phiên tác tử lập trình, tài liệu và ticket",
+          "meta": "GitHub · tạo 21/11 · 39 sao · Apache-2.0",
+          "body": [
+            "Dự án tự host viết bằng Go do tổ chức bluesky-social phát hành, gom tri thức nội bộ từ Slack, các phiên coding agent, tài liệu và ticket để tìm kiếm và đặt câu hỏi."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/bluesky-social/diderot"
+            }
+          ]
+        },
+        {
+          "headline": "PiBot: đội tác tử AI chạy cục bộ trên máy tính, có nhóm chat nhiều tác tử và cơ chế duyệt",
+          "meta": "GitHub · tạo 21/11 · 159 sao · Apache-2.0",
+          "body": [
+            "Ứng dụng mã nguồn mở xây trên pi, hỗ trợ trò chuyện nhóm nhiều tác tử, điều khiển máy tính, trình duyệt, MCP, routine và phê duyệt trước hành động; chạy trên macOS, Windows, Linux và Android."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/w01fb0ss/PiBot"
+            }
+          ]
+        },
+        {
+          "headline": "fast-anything: không viết lại cả app bằng Rust, chỉ viết lại 5% phần chậm",
+          "meta": "GitHub · tạo 21/11 · 64 sao · MIT",
+          "body": [
+            "Quy trình cho tác tử lập trình: đo hiệu năng ứng dụng Python, Node hoặc Ruby, chuyển các hàm 'nóng' sang Rust rồi chứng minh hành vi không đổi so với bản gốc."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/EL4CTEO/fast-anything"
+            }
+          ]
+        },
+        {
+          "headline": "agora-mesh: nối các tác tử lập trình trên nhiều máy để cùng lập kế hoạch và chia việc",
+          "meta": "GitHub · tạo 19/11 · 35 sao · MIT",
+          "body": [
+            "Dự án Rust cộng đồng giúp các coding agent trên nhiều máy phối hợp lập kế hoạch, chia nhỏ công việc và đẩy kết quả lên các nhánh git riêng."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/kn0sti/agora-mesh"
+            }
+          ]
+        },
+        {
+          "headline": "rounds: canvas cục bộ hiển thị mọi thứ các phiên Claude Code tạo ra",
+          "meta": "GitHub · tạo 20/11 · 66 sao · MIT",
+          "body": [
+            "Công cụ JavaScript gom các tệp, kết quả mà các phiên Claude Code sinh ra lên một canvas chạy trên máy, tiện theo dõi khi chạy nhiều phiên."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/krispuckett/rounds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "Khuyến mãi đặc biệt",
+      "title": "Công nghệ · Khuyến mãi đặc biệt",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Qoder: chọn tầng mô hình Efficient không bị trừ Credits cho người dùng trả phí",
+          "meta": "Qoder Docs, TaskPanel · kiểm tra 20/11",
+          "body": [
+            "Ưu đãi: trong thời gian khuyến mãi, tầng Efficient tính hệ số 0.0x (thay vì 0.3x), tức không trừ Credits. Đối tượng: người dùng trả phí Lite, Pro, Pro+, Ultra và ghế Teams/Enterprise; người dùng gói Free trong thời gian dùng thử Pro khi còn Credits. Không áp dụng cho Service Account. Cách nhận: tự động khi chọn Efficient trong bộ chọn tầng mô hình — không cần mã.",
+            "Thời hạn: chưa rõ ngày kết thúc (Qoder ghi 'TBD' và có thể đổi điều khoản bất cứ lúc nào). Lưu ý: chỉ có lợi nếu bạn đã trả phí Qoder; kiểm tra hệ số hiển thị 0.0x trước khi dùng nhiều."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Qoder Docs",
+              "url": "https://docs.qoder.com/events/efficientunlimited"
+            },
+            {
+              "name": "TaskPanel",
+              "url": "https://taskpanel.io/deal/qoder-efficient-model-tier-costs-0-credits-for-paid-users-limited-time"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Nghiên cứu",
+      "title": "Xây dựng · Nghiên cứu",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "IfcGym/IfcEdit: huấn luyện tác tử AI sửa mô hình IFC bằng 'bộ kiểm tra' tự động",
+          "meta": "arXiv · 17/11",
+          "body": [
+            "Nhóm tác giả xây môi trường IfcGym, nơi mô hình ngôn ngữ sửa tệp IFC bằng mã chạy được và bốn bộ kiểm tra chấm tính hợp lệ, đúng ý định, lan truyền phụ thuộc và giữ nguyên phần không liên quan. Mô hình Qwen3.5-9B sau tinh chỉnh SFT và học tăng cường GRPO đạt 86,78% 'thành công nghiêm ngặt' trên 1.990 tác vụ sửa của 13 dự án thực; bản 27B đạt 91,76%.",
+            "Vì sao đáng chú ý: sửa một cấu kiện trong IFC thường kéo theo nhiều phần tử phụ thuộc — cách chấm điểm kiểm chứng được giúp tác tử AI sửa BIM an toàn hơn thay vì chỉ 'trông giống' kết quả mẫu."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2611.22307"
+            }
+          ]
+        },
+        {
+          "headline": "Ước lượng tầng của công nhân, thiết bị trong nhà cao tầng đang thi công khi có rất ít trạm phát",
+          "meta": "arXiv · 17/11",
+          "body": [
+            "Công trường nhà nhiều tầng thường thiếu hạ tầng mạng và điện, môi trường thay đổi theo tiến độ. Bài báo đề xuất dùng mạng LPWA với vài điểm truy cập tạm thời, kết hợp quan sát giữa các thiết bị đầu cuối với nhau (chênh lệch tầng tương đối) để bù cho tín hiệu từ trạm phát, từ đó xác định tầng chính xác hơn.",
+            "Vì sao đáng chú ý: theo dõi người và thiết bị theo tầng phục vụ an toàn lao động mà không phải lắp hệ thống định vị dày đặc."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2611.22184"
+            }
+          ]
+        },
+        {
+          "headline": "Camera sự kiện giúp nhận diện vật thể trên công trường ban đêm, trong hầm và dưới đèn pha",
+          "meta": "arXiv · 14/11",
+          "body": [
+            "So sánh ba bộ phát hiện dựa trên camera sự kiện (SMamba, SATE, EvRT-DETR) với camera RGB trên bộ dữ liệu PEOD: ở ảnh thiếu sáng (70% tập thử), bộ tốt nhất đạt 27,2 AP so với 21,3 AP của RGB; kết hợp cả hai cảm biến cho kết quả tốt nhất mọi điều kiện (33,3 AP). Với vật chuyển động nhanh, RGB chỉ tìm được 11–19% vật cỡ trung, EvRT-DETR tìm được 39–60%.",
+            "Vì sao đáng chú ý: giám sát bằng hình ảnh trên công trường hay thất bại lúc sáng sớm, chiều tối, trong hầm — đây là số liệu định lượng đầu tiên cho lợi ích của loại cảm biến này."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2611.19746"
+            }
+          ]
+        },
+        {
+          "headline": "DGV-DLIVO: định vị robot kiểm tra trong đường hầm thủy điện dài, lặp lại và thiếu sáng",
+          "meta": "arXiv · 17/11",
+          "body": [
+            "Trong hầm xả lũ, hành lang thoát nước, kết cấu lặp lại khiến LiDAR khó xác định chuyển động dọc trục hầm. Phương pháp mới dùng chính hướng 'suy biến' của LiDAR để chọn vùng ảnh hữu ích và chỉ bổ sung ràng buộc thị giác vào đúng hướng thiếu thông tin; thử nghiệm thực tế ở hầm thủy điện cho thấy các phương pháp LIO, LIVO, VIO hiện có bị đứng hình, dao động.",
+            "Vì sao đáng chú ý: định vị ổn định là điều kiện để robot tự động kiểm tra hầm, công trình ngầm thay người."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2611.22385"
+            }
+          ]
+        },
+        {
+          "headline": "Lập lịch sạc cho máy xúc điện trên công trường bằng trạm sạc di động",
+          "meta": "arXiv · 15/11",
+          "body": [
+            "Từ dữ liệu trình diễn thực tế của một máy xúc điện cỡ nhỏ, nhóm tác giả ước lượng công suất từng thao tác bằng hồi quy Bayes, rồi lập bài toán tối ưu đồng thời lịch làm việc, lịch sạc và lộ trình trạm sạc di động (kéo giữa điểm đấu lưới và công trường), tối ưu chi phí điện, phát thải và khối lượng công việc trong vòng điều khiển dự báo MPC.",
+            "Vì sao đáng chú ý: thiếu chỗ sạc là rào cản lớn khi điện hóa máy thi công — bài toán này áp dụng được cho công trường xa lưới điện."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2611.20392"
+            }
+          ]
+        },
+        {
+          "headline": "Điều khiển an toàn cho tay máy hạng nặng chạy điện làm việc sát vách hầm",
+          "meta": "arXiv · 16/11",
+          "body": [
+            "Kiến trúc kết hợp điều khiển trở kháng thay đổi (tự chỉnh độ cứng theo nguy cơ va chạm) với hàm rào chắn điều khiển (giới hạn vùng làm việc và hành trình xi-lanh điện). Thử nghiệm cho thấy điều khiển trở kháng giảm 92,59% lực tương tác đỉnh và 96,33% lực RMS với môi trường.",
+            "Vì sao đáng chú ý: tay máy điện tải lớn đang thay thủy lực trong thi công hầm; an toàn khi tiếp xúc với vách hầm, thiết bị là yêu cầu bắt buộc."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2611.21309"
+            }
+          ]
+        },
+        {
+          "headline": "Phát hiện xây dựng không phép bằng so sánh ảnh vệ tinh",
+          "meta": "arXiv · 18/11",
+          "body": [
+            "Dùng mạng nơ-ron huấn luyện sẵn biến ảnh vệ tinh thành đặc trưng rồi phân loại: đạt khoảng 95% độ chính xác khi nhận diện đất đã xây dựng và khoảng 83% khi xác định một cặp ảnh có thay đổi hay không; thử sơ bộ trên 48 ô ảnh ở Agra (Ấn Độ).",
+            "Vì sao đáng chú ý: cách làm đơn giản, dữ liệu công khai, gợi ý công cụ giám sát trật tự xây dựng cho đô thị thiếu quy hoạch; tác giả lưu ý ảnh chỉ cho thấy thay đổi vật lý, không chứng minh công trình có phép hay không."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "arXiv",
+              "url": "https://arxiv.org/abs/2611.24190"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Arsenal hòa Newcastle 2-2, nguy cơ mất thủ môn Raya vì chấn thương vai",
+          "meta": "VnExpress, BBC · 21/11",
+          "body": [
+            "Arsenal dẫn trước nhờ Eberechi Eze, để Newcastle ghi hai bàn trong hiệp hai rồi gỡ hòa nhờ Noni Madueke; đội đứt mạch năm trận thắng nhưng vẫn hơn đội nhì sáu điểm. Phút 70, David Raya rời sân sau một pha va chạm và sẽ được chụp chiếu."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/arsenal-tra-gia-dat-sau-tran-hoa-newcastle-5147553.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo"
+            }
+          ]
+        },
+        {
+          "headline": "Chelsea thua Leeds 1-4 tại Stamford Bridge, Alonso gặp khủng hoảng đầu tiên",
+          "meta": "VnExpress, Al Jazeera · 21/11",
+          "body": [
+            "Leeds ngược dòng thắng 4-1, lần đầu thắng trên sân Chelsea kể từ 1999 và vượt lên thứ sáu; Chelsea tụt xuống thứ tám, thua ba trong bốn trận gần nhất. CĐV la ó HLV Xabi Alonso, người nhận việc từ tháng 5."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/alonso-het-thoi-gian-trang-mat-o-chelsea-5147550.html"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league"
+            }
+          ]
+        },
+        {
+          "headline": "Man City hòa Fulham 1-1, Haaland bị từ chối bàn thắng gây tranh cãi",
+          "meta": "VnExpress, Tuổi Trẻ · 21/11",
+          "body": [
+            "Phút 24, Haaland đá bồi sau pha cản phá của Bernd Leno nhưng trọng tài thổi phạt vì cho rằng thủ môn đã kiểm soát bóng; VAR giữ nguyên. Man City không thắng trận thứ tư liên tiếp."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/haaland-bi-huy-ban-thang-day-tranh-cai-trong-tran-hoa-cua-man-city-5147520.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/man-city-khong-thang-tran-thu-4-lien-tiep-chim-sau-vao-khung-hoang-100261121225545625.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Bournemouth thắng chín trận liên tiếp, Evanilson tiếp tục ghi bàn",
+          "meta": "BBC · 21/11",
+          "body": [
+            "Bournemouth đánh bại Nottingham Forest, nối dài mạch chín trận thắng liên tiếp — chuỗi trận BBC gọi là tiếp tục 'làm nên lịch sử' của CLB; Evanilson lại ghi bàn."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo"
+            }
+          ]
+        },
+        {
+          "headline": "V-League: Nam Định thắng Hải Phòng trên chấm phạt đền, củng cố ngôi đầu",
+          "meta": "Tuổi Trẻ, Thanh Niên · 21/11",
+          "body": [
+            "Thép Xanh Nam Định đánh bại Hải Phòng (bị đuổi một người) nhờ quả phạt đền và giữ ngôi đầu bảng; Hà Nội thắng ngược CLB TP.Đồng Nai, trong khi HAGL và Đồng Nai vẫn chìm sâu ở cuối bảng."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nam-dinh-cung-co-ngoi-dau-dong-nai-chim-sau-o-day-bang-100261121195038822.htm"
+            },
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/doi-khach-hai-phong-bi-duoi-nguoi-thua-nam-dinh-tren-cham-phat-den-ngoi-dau-chua-doi-chu-185261121195633177.htm"
+            },
+            {
+              "name": "Thanh Niên",
+              "url": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-hagl-cung-clb-tpdong-nai-chim-rat-sau-nam-dinh-but-pha-than-toc-185261121190800747.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Iran tuyên bố bắn trúng F-16 Mỹ, CENTCOM bác bỏ; Bahrain nói bị tấn công gây cháy cơ sở công nghiệp",
+          "meta": "VnExpress, Al Jazeera · 21/11",
+          "body": [
+            "Quân đội Iran nói tên lửa phòng không đã phát nổ gần một F-16 Mỹ trên vùng biển phía nam đêm 20/11, buộc máy bay hạ cánh khẩn cấp; CENTCOM khẳng định mọi chiến đấu cơ Mỹ ở Trung Đông đều an toàn. Bahrain cho biết một đòn tấn công của Iran gây cháy tại một cơ sở công nghiệp, không có người bị thương; IRGC nói nhắm vào vị trí quân sự Mỹ ở al-Riffa và Awali.",
+            "Ngoại trưởng Iran nói đã hội đàm với trung gian Qatar và việc mở lại eo biển Hormuz 'không khó' nếu Mỹ chấp nhận điều kiện hợp lý; ông Trump nói muốn thỏa thuận 'lâu dài' ngăn Iran có vũ khí hạt nhân."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/iran-tuyen-bo-ban-trung-tiem-kich-f-16-my-bac-bo-5147537.html"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions"
+            }
+          ]
+        },
+        {
+          "headline": "Tàu hàng Nga đi Kaliningrad trúng UAV ở vịnh Phần Lan, trôi vào vùng biển Phần Lan",
+          "meta": "BBC · 21/11",
+          "body": [
+            "Tàu Sparta II bốc cháy sau đòn tấn công sáng thứ Bảy; quân đội Phần Lan cho rằng nhiều khả năng Ukraine đứng sau, Kyiv chưa bình luận. Thủ tướng Phần Lan Petteri Orpo nói 'chiến tranh đang tràn sang sát bên chúng ta' và Ukraine có quyền đáp trả kẻ xâm lược."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+            }
+          ]
+        },
+        {
+          "headline": "Nga tấn công Kryvyi Rih, quê nhà ông Zelensky: 2 người chết, 60 người bị thương",
+          "meta": "Al Jazeera, Tuổi Trẻ · 21/11",
+          "body": [
+            "Đòn tấn công diễn ra khi tên lửa Nga rơi xuống lãnh thổ Ba Lan và nỗ lực hòa bình do Mỹ dẫn dắt còn bất định; NATO cam kết bảo vệ 'từng tấc lãnh thổ'. Ông Zelensky nói lời hứa 'không bỏ rơi Ukraine' phải được ghi trên giấy trắng mực đen."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nato-cam-ket-bao-ve-tung-tac-lanh-tho-sau-vu-ten-lua-xam-pham-khong-phan-ba-lan-100261121231148431.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Nga nói đã khôi phục hoàn toàn đường sắt qua cầu Crimea",
+          "meta": "Tuổi Trẻ · 21/11",
+          "body": [
+            "Phó Thủ tướng Nga Andrei Nikitin nói tàu hỏa qua cầu Crimea (dài 19 km, nối miền nam Nga với bán đảo) đã chạy đúng lịch sau các đòn tấn công của Ukraine; phía Ukraine ước tính Nga có thể mất khoảng một năm để dọn đoạn cầu bị sập."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/cau-crimea-nga-noi-da-khoi-phuc-duong-sat-ukraine-uoc-tinh-mat-1-nam-de-xu-ly-phan-cau-sap-100261121211624933.htm"
+            }
+          ]
+        },
+        {
+          "headline": "COP31 bế tắc vì nhiên liệu hóa thạch, đàm phán quá hạn hơn một ngày",
+          "meta": "BBC · 22/11",
+          "body": [
+            "Hội nghị khí hậu COP31 tại Thổ Nhĩ Kỳ phải tạm dừng qua đêm khi gần 200 nước chưa thống nhất thỏa thuận mới. EU và các đảo quốc Thái Bình Dương phản đối dự thảo không nhắc tới giảm nhu cầu nhiên liệu hóa thạch; Nhóm châu Phi đòi cam kết thêm tiền cho thích ứng."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o"
+            }
+          ]
+        },
+        {
+          "headline": "Mexico bắt trùm ma túy trong danh sách 10 kẻ bị FBI truy nã gắt gao nhất",
+          "meta": "BBC · 21/11",
+          "body": [
+            "Fausto Isidro 'Chapo Isidro' Meza Flores cùng bảy người bị đặc nhiệm bắt ở Guasave, Sinaloa sau đấu súng; 7 nghi phạm và 4 binh sĩ quân đội Mexico thiệt mạng trong chiến dịch."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o"
+            }
+          ]
+        },
+        {
+          "headline": "Hàng nghìn người biểu tình ở Pháp, Bồ Đào Nha về chi phí sinh hoạt và nhà ở",
+          "meta": "Al Jazeera · 21/11",
+          "body": [
+            "Các cuộc tuần hành tiếp nối làn sóng biểu tình do giới trẻ dẫn dắt ở châu Âu về giáo dục và khó khăn kinh tế."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing"
+            }
+          ]
+        },
+        {
+          "headline": "Hội nghị ba bên Mỹ – Nga – Trung: 90 phút tại Thâm Quyến và tiền lệ đối thoại siêu cường",
+          "meta": "VnExpress · 22/11",
+          "body": [
+            "Bài phân tích nhìn lại cuộc gặp 19/11 tại Kỳ Lân Sơn Trang — lần đầu ông Tập Cận Bình, ông Putin và ông Trump ngồi chung một hội nghị thượng đỉnh ba bên. Ông Tập phát tín hiệu sẽ có thêm các cuộc gặp tương tự và nhấn mạnh ba nước cần tôn trọng chủ quyền của nhau."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hoi-nghi-thuong-dinh-ba-ben-dinh-hinh-chinh-tri-sieu-cuong-5146859.html"
+            }
+          ]
+        },
+        {
+          "headline": "Năm 2027 người lao động có 13 ngày nghỉ lễ, Tết hưởng nguyên lương",
+          "meta": "VnExpress · 22/11",
+          "body": [
+            "13 ngày nghỉ chia thành 8 dịp, sau khi bổ sung Ngày Tổ quốc tri ân – Ngày Thương binh, liệt sĩ (27/7) và Ngày Văn hóa Việt Nam (24/11)."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/13-ngay-nghi-le-tet-nam-2027-5146995.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thủ tướng ra Chỉ thị 40 kích cầu tiêu dùng cuối năm, xử lý nghiêm tăng giá bất hợp lý",
+          "meta": "VnExpress, Tuổi Trẻ · 21/11",
+          "body": [
+            "Bộ Tài chính được yêu cầu điều hành thuế, phí hợp lý để giảm chi phí sinh hoạt; giá do Nhà nước định cần điều chỉnh theo lộ trình, hạn chế tăng dịp cuối năm. 10 tháng đầu năm, CPI bình quân tăng 4,57%; nhóm nhà ở, điện, nước, vật liệu xây dựng tăng 6,7%, nhiên liệu tăng 13%."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thu-tuong-chi-thi-kich-cau-tieu-dung-cuoi-nam-5147500.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nghị quyết 403: cảnh báo sớm rủi ro bị điều tra, áp thuế với nhóm hàng xuất siêu lớn",
+          "meta": "VnExpress · 21/11",
+          "body": [
+            "Phó Thủ tướng Thường trực Phạm Gia Túc ký kế hoạch quản trị xuất siêu và rủi ro thương mại quốc tế 2026–2030: Bộ Công Thương theo dõi mặt hàng, thị trường, doanh nghiệp có mức tập trung xuất khẩu cao để cảnh báo sớm nguy cơ điều tra, áp thuế hoặc rào cản; khuyến khích nhập máy móc, công nghệ, nguyên liệu phục vụ sản xuất."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/chinh-phu-yeu-cau-canh-bao-som-rui-ro-voi-nhom-hang-xuat-sieu-lon-5147531.html"
+            }
+          ]
+        },
+        {
+          "headline": "Lâm Đồng siết quản lý 126 biệt thự ở Đà Lạt, 81 căn phải bảo tồn nghiêm ngặt",
+          "meta": "VnExpress · 22/11",
+          "body": [
+            "Quy định ký ngày 20/11 chia 126 biệt thự thành ba nhóm; nhóm một gồm Dinh I, II, III có giá trị đặc biệt. 81 biệt thự, trong đó có ba dinh, không được tùy ý cải tạo, phá dỡ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/lam-dong-siet-quan-ly-126-biet-thu-o-da-lat-5147455.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Khai mạc Lễ hội Oóc Om Bóc – Đua ghe Ngo Cần Thơ 2026 với kỷ lục 84 đội đua",
+          "meta": "Tuổi Trẻ · 21/11",
+          "body": [
+            "Lễ khai mạc tối 21/11 tại Công viên 30/4 (phường Phú Lợi) là lễ hội đầu tiên sau khi Cần Thơ hợp nhất với Sóc Trăng, Hậu Giang, gắn với chào mừng Ngày Văn hóa Việt Nam (24/11); 84 đội ghe nam, nữ tham gia."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/khai-hoi-ooc-om-boc-ky-luc-voi-84-doi-nam-nu-mo-man-chuoi-trai-nghiem-mien-song-nuoc-100261121214022454.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội miễn vé nhiều bảo tàng, di tích dịp Ngày Di sản (23/11) và Ngày Văn hóa Việt Nam (24/11)",
+          "meta": "Tuổi Trẻ · 21/11",
+          "body": [
+            "Theo Ban quản lý hồ Hoàn Kiếm và phố cổ, 6 điểm di tích miễn vé trong hai ngày 23–24/11, mở cửa 8h–12h và 13h30–17h30; tổng cộng 11 bảo tàng, di tích tại Hà Nội miễn vé dịp này."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/11-bao-tang-di-tich-mien-phi-ve-tai-ha-noi-ngay-van-hoa-viet-nam-100261121214945355.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Đại hội Thể thao toàn quốc lần thứ X khai mạc bên sông Sài Gòn",
+          "meta": "VnExpress · 21/11",
+          "body": [
+            "Lễ khai mạc bắt đầu 19h tối 21/11 tại Công viên Bờ sông Sài Gòn (phường An Khánh), chương trình chính dài 113 phút gồm trình diễn ánh sáng, nhạc cảnh 'Những dòng sông hội tụ' và nghi thức đại hội."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dai-hoi-the-thao-toan-quoc-2026-khai-mac-ben-song-sai-gon-5147526.html"
+            }
+          ]
+        },
+        {
+          "headline": "Peter Fluck, đồng sáng lập chương trình rối châm biếm Spitting Image, qua đời ở tuổi 85",
+          "meta": "BBC · 21/11",
+          "body": [
+            "Ông mất tại nhà ở Cornwall sau một thời gian bệnh. Spitting Image phát sóng 1984–1996 qua 18 mùa, nổi tiếng với rối biếm họa người nổi tiếng, chính trị gia và hoàng gia, trong đó có bà Margaret Thatcher."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Alcaraz gặp Zverev ở chung kết ATP Finals 2026",
+          "meta": "VnExpress · 22/11",
+          "body": [
+            "Alcaraz ngược dòng thắng Ben Shelton 3-6, 6-3, 7-6(1); Zverev thắng Medvedev 7-6(0), 6-4. Chung kết tại Turin ngày 22/11 là cuộc đấu giữa hai tay vợt giành ba trong bốn Grand Slam năm nay; Zverev kết thúc năm ở vị trí số một thế giới."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/alcaraz-dau-zverev-o-chung-ket-atp-finals-5147552.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cô đơn nghiêm trọng làm tăng 38% nguy cơ sa sút trí tuệ ở người trên 65 tuổi",
+          "meta": "Tuổi Trẻ (dẫn The Telegraph) · 21/11",
+          "body": [
+            "Nghiên cứu của Đại học Bordeaux đăng trên Ageing and Mental Health cho thấy gần một phần ba người cô đơn nhất không sống một mình mà sống cùng người khác nhưng thiếu kết nối có ý nghĩa."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/nghien-cuu-tinh-trang-co-don-keo-dai-co-the-lam-tang-nguy-co-sa-sut-tri-tue-100261121120531881.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hải quan siết kiểm tra dâu tây nhập khẩu sau lô hàng vượt ngưỡng thuốc trừ sâu gần 6 lần",
+          "meta": "Tuổi Trẻ · 21/11",
+          "body": [
+            "Cục Hải quan yêu cầu các chi cục kiểm tra chặt dâu tây tươi nhập khẩu sau khi Cục Trồng trọt và Bảo vệ thực vật phát hiện một lô khoảng 4 tấn từ Trung Quốc có dư lượng thuốc bảo vệ thực vật vượt giới hạn cho phép gần 6 lần."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/dau-tay-nhap-khau-co-du-luong-thuoc-tru-sau-vuot-nguong-gan-6-lan-hai-quan-siet-kiem-tra-10026112116342858.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Trồng được khoai tây trên đất mô phỏng Mặt trăng nhờ phân trùn quế",
+          "meta": "Tuổi Trẻ · 21/11",
+          "body": [
+            "Nhóm của GS Aymeric Goyer (Đại học bang Oregon) công bố ngày 19/11 trên npj Microgravity, được NASA hỗ trợ, nhằm tìm cách sản xuất lương thực tại chỗ cho các sứ mệnh Mặt trăng dài ngày."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/trong-thanh-cong-khoai-tay-tren-dat-mo-phong-mat-trang-100261121215944707.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hơn 100 triệu cua đỏ trên đảo Giáng Sinh bắt đầu mùa di cư",
+          "meta": "VnExpress (dẫn AFP) · 21/11",
+          "body": [
+            "Cua đỏ rời rừng ra biển để giao phối, đẻ trứng khi mùa mưa tới (thường tháng 10–11); tốc độ và thời điểm di cư phụ thuộc chu kỳ Mặt Trăng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hon-100-trieu-cua-do-tren-dao-giang-sinh-lu-luot-di-cu-5147515.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 22/11/2026 (giờ VN). Mục Nghiên cứu là bản điểm tin tuần (bài arXiv đăng 14–18/11). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu."
+}
