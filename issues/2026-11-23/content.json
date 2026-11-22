@@ -1,0 +1,1100 @@
+{
+  "date": "2026-11-23",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 23/11/2026 · Thứ Hai · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "COP31 đổ vỡ, không đạt thỏa thuận chính",
+    "Liverpool vùi dập Man Utd 4-0 trận ra mắt Pochettino",
+    "Liên danh Việt–Pháp–Hàn trúng gói tư vấn 10.243 tỷ đường sắt tốc độ cao",
+    "Tàu chiến Nga trúng drone ở cảng Benghazi, Libya",
+    "Alcaraz lần đầu vô địch ATP Finals"
+  ],
+  "followups": [
+    {
+      "title": "COP31 tại Thổ Nhĩ Kỳ",
+      "update": "Hội nghị kết thúc ngày 22/11 mà không có thỏa thuận chính vì bất đồng về nhiên liệu hóa thạch và tài chính thích ứng; lần đầu kể từ 2009.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-11-20-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo"
+        }
+      ]
+    },
+    {
+      "title": "Lập chính phủ Israel sau bầu cử",
+      "update": "Likud và Yashar kết thúc vòng đàm phán ngày 22/11 không có thỏa thuận, bất đồng về ghế thủ tướng và Ben-Gvir; hẹn họp tiếp.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-22-chieu",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal"
+        }
+      ]
+    },
+    {
+      "title": "Xung đột Nga – Ukraine",
+      "update": "Sau vụ tàu hàng trúng UAV ở vịnh Phần Lan, tàu hộ tống Merkury của Nga bị nghi trúng drone tại Benghazi (Libya) ngày 22/11.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-13",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+        }
+      ]
+    },
+    {
+      "title": "Chung kết ATP Finals",
+      "update": "Alcaraz thắng Zverev 6-2, 7-6(7), lần đầu vô địch.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-11-22",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/alcaraz-lan-dau-vo-dich-atp-finals-5147764.html"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-23",
+      "title": "FIFA họp xác nhận Vương quốc Anh đăng cai World Cup nữ 2035",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Ngày Di sản văn hóa Việt Nam — Hà Nội miễn vé nhiều di tích (23–24/11)",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/11-bao-tang-di-tich-mien-phi-ve-tai-ha-noi-ngay-van-hoa-viet-nam-100261121214945355.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "title": "OpenAI mở đơn ChatGPT for Academic Researchers (50.000 suất ChatGPT Plus miễn phí)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Trung tâm triển lãm quy hoạch TP.HCM (Thủ Thiêm) mở cửa",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/trung-tam-trien-lam-800-ty-dong-o-thu-thiem-truoc-ngay-mo-cua-5147624.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Xét xử sơ thẩm vụ lừa đảo gần 1.000 tỷ đồng tại Sen Tài Thu (TAND TP Hà Nội)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/vu-lua-dao-gan-1000-ti-cuu-tong-giam-doc-sen-tai-thu-huong-loi-225-ti-mua-nha-xe-bmw-100261115153242981.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "time": "tối",
+      "title": "Cúp nước theo lịch tại 5 phường TP.HCM",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/nhung-tuyen-hem-duong-nao-thuoc-5-phuong-tai-tphcm-cup-nuoc-tu-toi-mai-23-11-100261122125442093.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "HiAPI bắt đầu tặng 10 triệu token DeepSeek V4.1 Flash/ngày (24–30/11, giờ PT)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "HiAPI",
+          "url": "https://hiapi.ai/en/blog/free-deepseek-api-black-friday-2026"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Ngày Văn hóa Việt Nam (ngày nghỉ hưởng lương từ năm 2027)",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/13-ngay-nghi-le-tet-nam-2027-5146995.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Ngày Văn hóa Việt Nam: miễn phí vé 3 bảo tàng ở Đà Nẵng",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/mien-phi-ve-3-bao-tang-da-nang-con-duoc-xem-gi-choi-gi-trong-ngay-van-hoa-viet-nam-24-11-100261113143151156.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "title": "TP.HCM bắn pháo hoa tầm cao tại ba điểm",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/tp-hcm-ban-phao-hoa-tam-cao-ba-diem-ngay-24-11-5141981.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "time": "02:45",
+      "title": "Serie A: Monza – Fiorentina khép lại vòng 12 (20:45 giờ Ý 23/11)",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Sky TG24",
+          "url": "https://tg24.sky.it/sport/2026/11/22/serie-a-partite-oggi-risultati-gol-highlights-video"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "time": "rạng sáng",
+      "title": "Không khí lạnh mới tràn xuống, miền Bắc rét trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/mien-bac-ret-tro-lai-tu-ngay-24-11-5147608.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hạn Nvidia chứng minh tuân thủ kiểm soát xuất khẩu theo yêu cầu của Bộ trưởng Bessent (10 ngày, ước tính từ 15/11)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hạn gửi Bộ Xây dựng đề xuất kết nối sân bay Gia Bình – trung tâm Hà Nội (đường sắt đô thị)",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/pho-thu-tuong-uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-ha-noi-5142080.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "time": "00:00",
+      "title": "Hai trạm BOT Bến Thủy I và II thu phí trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/hai-tram-bot-ben-thuy-thu-phi-tro-lai-tu-25-11-5147393.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "time": "sáng",
+      "title": "Cân, đo chính thức cuộc thi tìm con tôm sú nặng nhất Cà Mau 2026",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/ca-mau-tim-con-tom-su-nang-nhat-nam-2026-han-cuoi-sang-2511-185261122141441719.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "time": "trưa",
+      "title": "TP.HCM đóng toàn bộ cống dự án ngăn triều 10.000 tỷ đồng để kiểm chứng hiệu quả",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/du-an-ngan-trieu-10000-ti-dong-trua-25-11-dong-toan-bo-cac-cong-de-kiem-chung-hieu-qua-100261118133836594.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "title": "Trình diễn kỹ thuật lặn cấy phục hồi 12 loài san hô",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/ngay-28-11-trinh-dien-ky-thuat-lan-cay-phuc-hoi-12-loai-san-ho-tai-dac-khu-con-dao-100261119162254047.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Bầu cử sớm ở Tây Ban Nha",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hạn đại lý vé số TP.HCM áp dụng quy định cấm bán cho người dưới 18 tuổi",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/dai-ly-ve-so-tphcm-dan-bang-cam-tre-duoi-18-tuoi-mua-ve-so-truoc-3011-185261110094016179.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hết thời gian dùng miễn phí Devin SWE-2 Flash",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Cognition",
+          "url": "https://cognition.ai/blog/swe-2-flash"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hết ưu đãi SFT miễn phí Muse Glimmer 30B trên Fireworks AI",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Fireworks AI",
+          "url": "https://fireworks.ai/pricing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "time": "22:59",
+      "title": "Hết ưu đãi Hy4 flash miễn phí trên WorkBuddy (23:59 giờ Bắc Kinh) và giảm 50% trên TokenHub",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Tencent",
+          "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Estonia đóng các cửa khẩu biên giới với Nga",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Jensen Huang làm việc với ba ủy ban Hạ viện Mỹ; Tổng cố vấn Nvidia Tim Teter ngày 2/12",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/jensen-huang-se-trinh-dien-truoc-cac-uy-ban-ha-vien-my-5145849.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Jeremy Latcham tiếp quản DC Studios thay James Gunn và Peter Safran",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "time": "",
+      "title": "Hạn 28 ngày để ông Eisenkot gom đủ 61 phiếu lập chính phủ Israel (tính từ 7/11; có thể gia hạn tối đa 14 ngày)",
+      "topic": "Chính trị",
+      "note": "Ngày 5/12 là mốc tính toán từ thông báo ngày 7/11.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/doi-thu-cua-thu-tuong-israel-duoc-chi-dinh-thanh-lap-chinh-phu-moi-5142108.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "title": "Ban chấp hành UEFA họp tại Belfast, dự kiến chốt địa điểm VCK Nations League",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/xac-dinh-4-cap-dau-tu-ket-uefa-nations-league-5147263.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "title": "Hạn ngân sách liên bang Mỹ — nguy cơ chính phủ đóng cửa",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/chinh-phu-my-doi-dien-voi-nguy-co-dong-cua-lan-thu-tu-100261120200910188.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "title": "Hạn doanh nghiệp TP.HCM lập trước 1/7/2025 bổ sung thông tin chủ sở hữu hưởng lợi",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/hon-nua-trieu-doanh-nghiep-tren-ca-nuoc-phai-ke-khai-thong-tin-chu-so-huu-huong-loi-100261115192010975.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Sân bay Cà Mau dự kiến hoạt động trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/san-bay-ca-mau-lui-ngay-khai-thac-tro-lai-den-18-12-5141694.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-21",
+      "title": "Anthropic dự kiến vào chỉ số Nasdaq 100",
+      "topic": "Công nghệ",
+      "note": "Theo Stock Analysis",
+      "sources": [
+        {
+          "name": "Stock Analysis",
+          "url": "https://stockanalysis.com/news/anthropic-prices-ipo-83-per-share/"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Hạn đề xuất hoàn thành 6 dự án dịch vụ sân bay Long Thành",
+      "topic": "Xây dựng",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-lui-han-hoan-thanh-6-du-an-tai-san-bay-long-thanh-5141701.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "time": "trong ngày",
+      "title": "Dự kiến chuyến bay Long Thành – Hà Nội đầu tiên của Vietnam Airlines, Vietjet",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vietnam-airlines-vietjet-sap-mo-duong-bay-tu-long-thanh-ra-bac-5147412.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-31",
+      "title": "Hết ưu đãi giảm 50% model Hy4 trên Tencent Cloud TokenHub",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Tencent",
+          "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-01",
+      "title": "Hạn đăng ký và luật an toàn AI RAISE của New York có hiệu lực",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+        }
+      ]
+    },
+    {
+      "date": "2027-03-01",
+      "title": "Luật BHXH sửa đổi có hiệu lực: bỏ giới hạn 12 tháng ủy quyền nhận lương hưu",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/uy-quyen-nhan-luong-huu-khong-con-gioi-han-12-thang-5147725.html"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Apple được cho là phát triển tác nhân AI tự thao tác máy tính như người dùng",
+          "meta": "VnExpress (theo Bloomberg) · 22/11",
+          "body": [
+            "Theo Mark Gurman (Bloomberg), một tin tuyển dụng của Apple — bị gỡ ngày 20/11 vài ngày sau khi đăng — mô tả một AI agent có thể dùng máy tính như một người có năng lực: duyệt web, làm việc xuyên nhiều ứng dụng và viết mã. Apple được cho là nhắm ra mắt sớm nhất vào cuối năm sau.",
+            "Bloomberg cho rằng tân CEO John Ternus đang thúc Craig Federighi đẩy nhanh mảng AI; Apple chưa xác nhận thông tin."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/apple-bi-mat-phat-trien-tro-ly-ai-tu-dieu-khien-may-tinh-5147686.html"
+            }
+          ]
+        },
+        {
+          "headline": "Sarvam AI (Ấn Độ) phát hành checkpoint mở Sarvam-105B-1711 cho tác nhân doanh nghiệp, giá 0,15 USD/triệu token",
+          "meta": "Sarvam AI blog · 22/11",
+          "body": [
+            "Sarvam công bố Sarvam-105B-1711, bản checkpoint mới của mô hình MoE 105 tỷ tham số (10,3 tỷ tham số kích hoạt theo Unite.AI), tối ưu cho chăm sóc khách hàng, voice agent và tác vụ agentic. Hãng cho biết điểm trung bình trên 8 benchmark hội thoại tăng từ 42,6 lên 73,9 và giá blended giảm từ 0,44 xuống 0,15 USD/triệu token.",
+            "Trọng số mở trên Hugging Face ở dạng BF16 và NVFP4 (65 GB, chạy trên một GPU RTX PRO 6000 Blackwell). Các so sánh với Gemini 3.5 Flash-Lite, Gemma 4 31B là số liệu do Sarvam tự công bố."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Sarvam AI",
+              "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711"
+            },
+            {
+              "name": "Unite.AI",
+              "url": "https://www.unite.ai/sarvam-ai-releases-open-weight-105b-checkpoint-for-enterprise-agents/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "ThreatDefence/agentic-attack-detections — bộ luật phát hiện tấn công do AI agent thực hiện",
+          "meta": "GitHub · tạo 20/11 · ~380 sao · MIT",
+          "body": [
+            "Kho tổng hợp luật phát hiện và IOC cho các framework tấn công dùng AI agent (ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero), gồm truy vấn KQL cho Microsoft Sentinel/Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic và STIX 2.1.",
+            "Hữu ích cho đội SOC muốn săn hoạt động của công cụ pentest tự động; nên kiểm thử luật trên môi trường riêng trước khi bật cảnh báo."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/ThreatDefence/agentic-attack-detections"
+            }
+          ]
+        },
+        {
+          "headline": "JimLiu/open-artifact — 'artifact' mở, không phụ thuộc agent hay mô hình, lưu cục bộ dạng file",
+          "meta": "GitHub · tạo 17/11 · ~350 sao · Apache-2.0",
+          "body": [
+            "Dự án cho phép tạo, chỉnh sửa, bình luận và xuất slide, thiết kế UI, design system, bảng trắng, bảng tính, dashboard, tài liệu và motion dưới dạng file thuần lưu trên máy, dùng được với nhiều agent/mô hình khác nhau.",
+            "Số sao lấy từ GitHub API lúc tra cứu sáng 23/11."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/JimLiu/open-artifact"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Smartphone xuất xưởng tại Đông Nam Á giảm 36% trong quý III, Việt Nam vẫn tăng 1%",
+          "meta": "VnExpress · 22/11",
+          "body": [
+            "Lượng smartphone xuất xưởng tại khu vực Đông Nam Á quý III/2026 giảm 36% so với cùng kỳ năm trước; riêng thị trường Việt Nam tăng trưởng 1%."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/thi-truong-smartphone-dong-nam-a-lao-doc-5147543.html"
+            }
+          ]
+        },
+        {
+          "headline": "Apple và các nhà cung cấp màn hình bước vào giai đoạn nước rút cho iPhone Air 2, iPhone 18",
+          "meta": "VnExpress · 22/11",
+          "body": [
+            "Apple cùng các nhà cung cấp tấm nền như LG, Samsung đang chuẩn bị sản xuất hàng loạt cho iPhone Air thế hệ hai và iPhone 18, theo VnExpress."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/apple-chuan-bi-san-xuat-hang-loat-iphone-air-2-iphone-18-5147678.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Liverpool thắng Man Utd 4-0, Pochettino ra mắt trong ác mộng",
+          "meta": "Ngoại hạng Anh vòng 12 · Anfield, 22/11",
+          "body": [
+            "Leny Yoro nhận thẻ đỏ ngay phút 8 và Man Utd thua 0-4 trong trận đầu của HLV Mauricio Pochettino. Theo Opta, ông là HLV đầu tiên trong lịch sử Ngoại hạng Anh chứng kiến đội nhận thẻ đỏ và thủng lưới hai lần ngay hiệp một trận ra mắt.",
+            "Man Utd vẫn đứng thứ 19 với 8 điểm sau 12 vòng. BBC Sport cho biết Rio Ngumoha là điểm sáng của Liverpool."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/man-utd-tham-bai-trong-tran-ra-mat-cua-pochettino-5147763.html"
+            },
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo"
+            }
+          ]
+        },
+        {
+          "headline": "Hull thắng Brighton 2-0 nhờ cú đúp phút bù giờ của McBurnie",
+          "meta": "Ngoại hạng Anh · 22/11",
+          "body": [
+            "Oli McBurnie ghi hai bàn trong thời gian bù giờ giúp Hull City đánh bại Brighton (đang thứ hai, chơi thiếu người)."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o"
+            }
+          ]
+        },
+        {
+          "headline": "La Liga: Barca ngược dòng thắng Villarreal 3-2 dù Yamal hỏng phạt đền; Real thắng Celta 2-1",
+          "meta": "La Liga vòng 13 · 21–22/11",
+          "body": [
+            "Bị dẫn 0-2, Barca vẫn thắng 3-2 trên sân Camp Nou; Lamine Yamal sút trúng cột ở phút 23 và thành cầu thủ trẻ nhất La Liga hỏng ba quả phạt đền (19 tuổi 132 ngày, vượt mốc của Fernando Torres).",
+            "Real Madrid thắng ngược Celta Vigo 2-1 dù Kylian Mbappe sút hỏng phạt đền."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/yamal-lan-thu-ba-hong-phat-den-tai-la-liga-5147741.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/real-nguoc-dong-trong-ngay-mbappe-sut-hong-phat-den-5147548.html"
+            }
+          ]
+        },
+        {
+          "headline": "Serie A: Atalanta hòa Inter 4-4 dù Pio Esposito lập hat-trick; Milan thắng 5-1, Juventus thắng 4-0",
+          "meta": "Serie A vòng 12 · 22/11",
+          "body": [
+            "Inter ba lần dẫn hai bàn nhưng bị Atalanta gỡ hòa 4-4, bàn cuối là quả phạt đền của Kessie phút 90+1; Pio Esposito ghi ba bàn. Theo RTL 102.5, Lazio dẫn đầu, hơn Inter 3 điểm, Roma vươn lên thứ hai.",
+            "Các trận khác: Milan 5-1 Frosinone, Juventus 4-0 Venezia, Bologna 1-1 Udinese, Sassuolo 0-2 Genoa. Vòng đấu khép lại với Monza – Fiorentina tối 23/11 (giờ Ý)."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Sky TG24",
+              "url": "https://tg24.sky.it/sport/2026/11/22/serie-a-partite-oggi-risultati-gol-highlights-video"
+            },
+            {
+              "name": "RTL 102.5",
+              "url": "https://rtl.it/notizie/sport/calcio/serie-a-clamorosa-rimonta-dell-atalanta-4-4-contro-l-inter-che-ora-e-terza-in-classifica/"
+            }
+          ]
+        },
+        {
+          "headline": "PSG mất Desire Doue dài hạn vì đứt dây chằng chéo trước",
+          "meta": "BBC Sport · 22/11",
+          "body": [
+            "Tiền đạo 21 tuổi sẽ phẫu thuật cuối tháng này sau khi đứt dây chằng chéo trước gối phải trong trận PSG thắng Nice 3-2 tối 21/11."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero"
+            }
+          ]
+        },
+        {
+          "headline": "V-League vòng 8: Đà Nẵng thua Ninh Bình 0-1, tân binh tuyển Việt Nam Hồng Phúc nhận thẻ đỏ",
+          "meta": "V-League 2026-27 · sân Chi Lăng, 22/11",
+          "body": [
+            "Hậu vệ Nguyễn Hồng Phúc (Đà Nẵng) bị truất quyền thi đấu phút 74 sau pha vào bóng với Nguyễn Lê Phát, rồi cúi đầu xin lỗi khán giả khi rời sân."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tuyen-thu-viet-nam-cui-dau-xin-loi-sau-the-do-o-v-league-5147731.html"
+            }
+          ]
+        },
+        {
+          "headline": "FIFA dự kiến xác nhận Vương quốc Anh đăng cai World Cup nữ 2035 ngày 23/11",
+          "meta": "BBC Sport · 22/11",
+          "body": [
+            "Anh, Bắc Ireland, Scotland và Xứ Wales là ứng viên duy nhất; giải dự kiến có 48 đội, 104 trận trong 39 ngày tại 19 sân. Đây sẽ là kỳ World Cup đầu tiên tại Vương quốc Anh kể từ năm 1966."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "COP31 kết thúc không có thỏa thuận chính — lần đổ vỡ đầu tiên kể từ Copenhagen 2009",
+          "meta": "BBC, Al Jazeera · 22/11",
+          "body": [
+            "Hội nghị khí hậu tại Antalya (Thổ Nhĩ Kỳ) kéo dài tới Chủ nhật, thành COP dài nhất lịch sử, nhưng dự thảo cuối bị EU, các đảo quốc Thái Bình Dương và nhiều nước bác vì không nhắc trực tiếp đến nhiên liệu hóa thạch; các nước nghèo phản đối việc thiếu cam kết tài chính thích ứng.",
+            "Theo Al Jazeera, bản sửa đổi đã bỏ mục tiêu 120 tỷ USD cho thích ứng. Tổng thư ký LHQ Antonio Guterres nói ông 'vô cùng thất vọng'."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse"
+            }
+          ]
+        },
+        {
+          "headline": "Libya: tàu hộ tống Merkury của Hải quân Nga trúng nghi tấn công bằng drone ở cảng Benghazi",
+          "meta": "Al Jazeera, BBC · 22/11",
+          "body": [
+            "Chính quyền miền đông Libya cho biết vụ tấn công rạng sáng gây nổ và cháy; nguồn tin địa phương nói với Al Jazeera có người Libya và Nga thiệt mạng (chưa rõ số lượng) và tàu chở vũ khí, đạn dược. Ảnh vệ tinh Vantor xác định đây là tàu hộ tống Merkury.",
+            "Chưa bên nào nhận trách nhiệm; Nga chưa phản ứng ngay."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
+            }
+          ]
+        },
+        {
+          "headline": "Mỹ: Đảng Dân chủ giành đa số Hạ viện lớn nhất kể từ 1992",
+          "meta": "BBC · 22/11",
+          "body": [
+            "Ứng viên Dân chủ Chuck Hubbard thắng Hạ nghị sĩ Cộng hòa Virginia Foxx ở khu vực 5 bang North Carolina với cách biệt 330 phiếu; Foxx đã thừa nhận thất bại.",
+            "Đảng Dân chủ hiện có ít nhất 258 ghế, Cộng hòa ít nhất 173, còn 4 cuộc đua chưa ngã ngũ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno"
+            }
+          ]
+        },
+        {
+          "headline": "Israel: Likud và Yashar kết thúc vòng đàm phán liên minh mà không có thỏa thuận",
+          "meta": "Al Jazeera · 22/11",
+          "body": [
+            "Theo Channel 12, hai bên vẫn bất đồng về người lãnh đạo chính phủ và việc có đưa Bộ trưởng An ninh Itamar Ben-Gvir vào nội các; tuyên bố chung nói sẽ có cuộc họp tiếp theo nhưng chưa nêu ngày."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal"
+            }
+          ]
+        },
+        {
+          "headline": "Sudan: drone bị cho là của RSF giết 4 người quanh Khartoum, làm hư hại tòa nhà LHQ",
+          "meta": "Al Jazeera · 22/11",
+          "body": [
+            "Các vụ tấn công rạng sáng Chủ nhật trúng khu dân cư khi phòng không đánh chặn drone nhắm vào cơ quan chính phủ và sân bay Khartoum."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum"
+            }
+          ]
+        },
+        {
+          "headline": "Liên danh Việt – Pháp – Hàn trúng gói tư vấn lớn nhất đường sắt tốc độ cao Bắc – Nam, hơn 10.243 tỷ đồng",
+          "meta": "VnExpress · 22/11",
+          "body": [
+            "Ban QLDA Thăng Long (Bộ Xây dựng) phê duyệt kết quả gói TV-02 (khảo sát, lập báo cáo nghiên cứu khả thi gồm thiết kế FEED và hồ sơ mời thầu). Liên danh 8 doanh nghiệp do SYSTRA (Pháp) đứng đầu, gồm Sambo, Yooshin, KNR (Hàn Quốc) và TEDI, TEDI SOUTH, TRICC, Hoàng Long (Việt Nam).",
+            "Giá trúng thầu thấp hơn giá mở thầu 539 tỷ đồng; thời gian thực hiện 30 tháng; đây là liên danh duy nhất nộp hồ sơ."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/lien-danh-viet-phap-han-trung-goi-tu-van-lon-nhat-duong-sat-toc-do-cao-bac-nam-5147718.html"
+            }
+          ]
+        },
+        {
+          "headline": "Từ 3/2027, ủy quyền nhận lương hưu không còn giới hạn 12 tháng",
+          "meta": "VnExpress · 23/11",
+          "body": [
+            "Luật sửa đổi Luật Bảo hiểm xã hội vừa được Quốc hội thông qua bỏ giới hạn hiệu lực tối đa 12 tháng của văn bản ủy quyền; thời hạn do các bên thỏa thuận theo Bộ luật Dân sự (không thỏa thuận thì là một năm). Luật có hiệu lực từ 1/3/2027."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/uy-quyen-nhan-luong-huu-khong-con-gioi-han-12-thang-5147725.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội thông qua cơ chế đặc thù xử lý 12 dự án liên quan Tập đoàn Mường Thanh",
+          "meta": "VnExpress · 23/11",
+          "body": [
+            "HĐND TP Hà Nội đã thông qua nghị quyết về cơ chế, chính sách đặc thù để xử lý sai phạm tại các dự án liên quan tập đoàn này trên địa bàn."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/12-du-an-lien-quan-den-tap-doan-muong-thanh-se-duoc-xu-ly-the-nao-5147720.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Hoạt động mừng Ngày Văn hóa Việt Nam: 'Vũ hội khăn rằn' ở Nguyễn Huệ, tổng duyệt concert 'Muôn sắc Việt Nam'",
+          "meta": "VnExpress · 23/11",
+          "body": [
+            "Nghệ sĩ Kim Xuân, Phương Thanh và nhiều nghệ sĩ đeo khăn rằn trình diễn trên phố đi bộ Nguyễn Huệ; Tùng Dương, Hương Tràm cùng nhiều nghệ sĩ tổng duyệt concert 'Muôn sắc Việt Nam' tối 22/11."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/vu-hoi-khan-ran-mung-ngay-van-hoa-viet-nam-5147746.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nghe-si-tong-duyet-concert-muon-sac-viet-nam-5147758.html"
+            }
+          ]
+        },
+        {
+          "headline": "Khu lưu niệm 'vua vọng cổ' Viễn Châu đi vào hoạt động, kinh phí 70 tỷ đồng",
+          "meta": "VnExpress · 23/11",
+          "body": [
+            "Khu lưu niệm soạn giả 'Tình anh bán chiếu' Viễn Châu hoạt động từ ngày 21/11."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/khu-luu-niem-vua-vong-co-vien-chau-hoat-dong-5147498.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nghệ sĩ Trần Hiếu được vinh danh ở tuổi 90",
+          "meta": "VnExpress · 22/11",
+          "body": [
+            "Ông nằm trong danh sách 50 văn nghệ sĩ được vinh danh vì có nhiều đóng góp cho văn học nghệ thuật."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nghe-si-tran-hieu-duoc-vinh-danh-o-tuoi-90-5147644.html"
+            }
+          ]
+        },
+        {
+          "headline": "Phim 'Hoàng hậu cuối cùng' tái hiện cung đình Huế",
+          "meta": "VnExpress · 23/11",
+          "body": [
+            "Đoàn phim do Tăng Thanh Hà đóng chính tái hiện cuộc sống Nam Phương hoàng hậu và vua Bảo Đại ở bối cảnh Đại nội Huế."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/boi-canh-hoang-cung-trong-phim-hoang-hau-cuoi-cung-5147699.html"
+            }
+          ]
+        },
+        {
+          "headline": "Miley Cyrus kết hôn với tay trống Maxx Morando",
+          "meta": "BBC · 22/11",
+          "body": [
+            "Hôn lễ diễn ra ở California; cặp đôi bên nhau bốn năm và đính hôn năm 2025, theo BBC."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Alcaraz lần đầu vô địch ATP Finals, thắng Zverev 6-2, 7-6(7)",
+          "meta": "Quần vợt · Turin, 22/11",
+          "body": [
+            "Ở tuổi 23, Alcaraz thành tay vợt trẻ nhất có đủ bốn Grand Slam và ATP Finals (người thứ tư đạt thành tích này). Anh khép mùa với chuỗi 14 trận thắng và ba danh hiệu liên tiếp ở Vienna, Paris Masters, ATP Finals."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/alcaraz-lan-dau-vo-dich-atp-finals-5147764.html"
+            }
+          ]
+        },
+        {
+          "headline": "Mỹ: Virginia ghi nhận ca tử vong đầu tiên liên quan sởi năm 2026, nạn nhân dưới 5 tuổi",
+          "meta": "Al Jazeera · 22/11",
+          "body": [
+            "Thông báo được đưa ra chỉ vài ngày sau khi Mỹ mất danh hiệu đã loại trừ bệnh sởi."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5"
+            }
+          ]
+        },
+        {
+          "headline": "Mỹ: Lục quân quyết cho nổ hàng tấn chất nổ không ổn định ở Iowa bất chấp lệnh tòa",
+          "meta": "BBC · 22/11",
+          "body": [
+            "Lục quân Mỹ nói cần 'hành động nhanh' để bảo vệ nhân viên và cộng đồng quanh nhà máy đạn dược ở Iowa."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo"
+            }
+          ]
+        },
+        {
+          "headline": "Đau khổ vì chia tay 'người yêu AI'",
+          "meta": "VnExpress · 23/11",
+          "body": [
+            "Bài viết về những người dùng gắn bó cảm xúc với bạn đồng hành AI và hụt hẫng khi mối quan hệ ảo kết thúc."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/dau-kho-vi-chia-tay-nguoi-yeu-ai-5147663.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 23/11/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu."
+}
