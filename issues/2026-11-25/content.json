@@ -1,0 +1,1469 @@
+{
+  "date": "2026-11-25",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 25/11/2026 · Thứ Tư · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Huawei bị tòa Mỹ kết tội trộm bí mật thương mại",
+    "CAS trả chức vô địch AFCON 2025 cho Senegal",
+    "OpenAI: GPT-6 tự thiết kế được protein mới",
+    "Cổ phiếu Anthropic rơi dưới giá IPO",
+    "Hà Nội đón Cấp cao CLMV, ACMECS ngày 28/11"
+  ],
+  "followups": [
+    {
+      "title": "Bê bối CEO Nvidia Jensen Huang",
+      "update": "Ông Huang họp toàn thể, xin lỗi nhân viên, nói đang trị liệu và cảm ơn Nhà Trắng; Bộ trưởng Tư pháp Todd Blanche từ chối xác nhận có điều tra; cổ phiếu Nvidia giảm hơn 7% hôm 24/11.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-10",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated"
+        }
+      ]
+    },
+    {
+      "title": "Xung đột Nga – Ukraine",
+      "update": "Putin tuyên bố trả đũa 'không thể tránh khỏi' sau các đòn vào nhà máy lọc dầu; Ba Lan cáo buộc Nga cố ý xâm phạm không phận; Zelensky gặp Thủ tướng Hungary Magyar.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-13",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/ukraine-zelenskyy-and-hungary-s-magyar-meet-amid-thaw-in-ties/a-80036546"
+        }
+      ]
+    },
+    {
+      "title": "Tranh chấp chức vô địch AFCON 2025",
+      "update": "CAS chấp nhận kháng cáo, trả chức vô địch cho Senegal; Morocco về nhì.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-11-24",
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/cas-reinstates-senegal-as-2025-afcon-champions/a-80021027"
+        }
+      ]
+    },
+    {
+      "title": "Cổ phiếu Anthropic sau IPO",
+      "update": "Rơi xuống dưới giá IPO 83 USD, có lúc 76 USD trong phiên 24/11.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-19",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+        }
+      ]
+    },
+    {
+      "title": "Vụ nổ khí gas phố Nguyễn Văn Tuyết, Hà Nội",
+      "update": "Số người tử vong tăng lên 7, 9 người đang điều trị; hơn 100 hộ dân được di dời.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-24-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/them-nan-nhan-tu-vong-trong-vu-no-khi-gas-o-ha-noi-5148493.html"
+        }
+      ]
+    },
+    {
+      "title": "Kế hoạch cho nổ chất nổ của Lục quân Mỹ ở Iowa",
+      "update": "Lục quân thông báo kích nổ hơn 4 tấn chì azide vào thứ Tư 25/11 (giờ Mỹ).",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-23",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-25",
+      "title": "Lục quân Mỹ kích nổ hơn 4 tấn chì azide ở Iowa (giờ Mỹ)",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "time": "tối",
+      "title": "AFC Champions League Two: Thể Công – Viettel tái đấu Melbourne Victory",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/lich-truc-tiep-afc-champions-league-two-the-cong-viettel-tai-dau-melbourne-victory-100261124214626356.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Thủ tướng Lào Saleumxay Kommasith thăm chính thức Việt Nam (27–28/11), dự hội nghị CLMV và ACMECS",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thu-tuong-lao-tham-chinh-thuc-viet-nam-du-hoi-nghi-clmv-va-acmecs-100261123141534303.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "title": "Hội nghị Cấp cao CLMV 12 và ACMECS 11 tại Hà Nội",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/viet-nam-sap-to-chuc-hai-hoi-nghi-cap-cao-cua-khu-vuc-5148504.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "title": "Trình diễn kỹ thuật lặn cấy phục hồi 12 loài san hô",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/ngay-28-11-trinh-dien-ky-thuat-lan-cay-phuc-hoi-12-loai-san-ho-tai-dac-khu-con-dao-100261119162254047.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Bầu cử sớm ở Tây Ban Nha",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Ngoại hạng Anh: Arsenal – Man City",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Phà Bình Quới (TP.HCM) tạm ngưng hoạt động",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/pha-binh-quoi-lai-tam-ngung-hoat-dong-tu-ngay-29-11-100261124150356334.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hạn đại lý vé số TP.HCM áp dụng quy định cấm bán cho người dưới 18 tuổi",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/dai-ly-ve-so-tphcm-dan-bang-cam-tre-duoi-18-tuoi-mua-ve-so-truoc-3011-185261110094016179.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hết thời gian dùng miễn phí Devin SWE-2 Flash",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Cognition",
+          "url": "https://cognition.ai/blog/swe-2-flash"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hết ưu đãi SFT miễn phí Muse Glimmer 30B trên Fireworks AI",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Fireworks AI",
+          "url": "https://fireworks.ai/pricing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "time": "22:59",
+      "title": "Hết ưu đãi Hy4 flash miễn phí trên WorkBuddy (23:59 giờ Bắc Kinh) và giảm 50% trên TokenHub",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Tencent",
+          "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "time": "23:00",
+      "timezone": "UTC+7",
+      "title": "Hết ưu đãi dùng miễn phí HungerG trên Qoder (24:00 giờ Singapore)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Qoder",
+          "url": "https://docs.qoder.com/events/hungerg-free"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Estonia đóng các cửa khẩu biên giới với Nga",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Jensen Huang làm việc với ba ủy ban Hạ viện Mỹ; Tổng cố vấn Nvidia Tim Teter ngày 2/12",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/jensen-huang-se-trinh-dien-truoc-cac-uy-ban-ha-vien-my-5145849.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Jeremy Latcham tiếp quản DC Studios thay James Gunn và Peter Safran",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "time": "15:00",
+      "timezone": "UTC+7",
+      "title": "Hết ưu đãi Black Friday 50% của Coderblock (nửa đêm 30/11 giờ PT)",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Coderblock",
+          "url": "https://coderblock.ai/black-friday"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Jensen Huang điều trần trước Ủy ban Ngân hàng Thượng viện Mỹ",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "time": "",
+      "title": "Hạn 28 ngày để ông Eisenkot gom đủ 61 phiếu lập chính phủ Israel (tính từ 7/11; có thể gia hạn tối đa 14 ngày)",
+      "topic": "Chính trị",
+      "note": "Ngày 5/12 là mốc tính toán từ thông báo ngày 7/11.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/doi-thu-cua-thu-tuong-israel-duoc-chi-dinh-thanh-lap-chinh-phu-moi-5142108.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "title": "Ban chấp hành UEFA họp tại Belfast, dự kiến chốt địa điểm VCK Nations League",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/xac-dinh-4-cap-dau-tu-ket-uefa-nations-league-5147263.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "title": "Tidal xóa toàn bộ 27 triệu bài nhạc do AI tạo, cấm tải nhạc AI mới",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "title": "Hạn ngân sách liên bang Mỹ — nguy cơ chính phủ đóng cửa",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/chinh-phu-my-doi-dien-voi-nguy-co-dong-cua-lan-thu-tu-100261120200910188.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "title": "Hạn doanh nghiệp TP.HCM lập trước 1/7/2025 bổ sung thông tin chủ sở hữu hưởng lợi",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/hon-nua-trieu-doanh-nghiep-tren-ca-nuoc-phai-ke-khai-thong-tin-chu-so-huu-huong-loi-100261115192010975.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "title": "Hạn cuối cuộc thi Kaggle 'Humanity's First Exam' của Google DeepMind",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Google",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-16",
+      "title": "Bà Sheikh Hasina dự định trở về Bangladesh",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Sân bay Cà Mau dự kiến hoạt động trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/san-bay-ca-mau-lui-ngay-khai-thac-tro-lai-den-18-12-5141694.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-21",
+      "title": "Anthropic dự kiến vào chỉ số Nasdaq 100",
+      "topic": "Công nghệ",
+      "note": "Theo Stock Analysis",
+      "sources": [
+        {
+          "name": "Stock Analysis",
+          "url": "https://stockanalysis.com/news/anthropic-prices-ipo-83-per-share/"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Hạn đề xuất hoàn thành 6 dự án dịch vụ sân bay Long Thành",
+      "topic": "Xây dựng",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-lui-han-hoan-thanh-6-du-an-tai-san-bay-long-thanh-5141701.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "time": "trong ngày",
+      "title": "Dự kiến chuyến bay Long Thành – Hà Nội đầu tiên của Vietnam Airlines, Vietjet",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vietnam-airlines-vietjet-sap-mo-duong-bay-tu-long-thanh-ra-bac-5147412.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-31",
+      "title": "Hết ưu đãi giảm 50% model Hy4 trên Tencent Cloud TokenHub",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "Tencent",
+          "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-01",
+      "title": "Hạn đăng ký và luật an toàn AI RAISE của New York có hiệu lực",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+        }
+      ]
+    },
+    {
+      "date": "2027-03-01",
+      "title": "Luật BHXH sửa đổi có hiệu lực: bỏ giới hạn 12 tháng ủy quyền nhận lương hưu",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/uy-quyen-nhan-luong-huu-khong-con-gioi-han-12-thang-5147725.html"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "OpenAI: dòng GPT-6 tự thiết kế được protein mới chỉ bằng suy luận và viết mã",
+          "meta": "OpenAI · 24/11",
+          "body": [
+            "Trong bản preprint mới, OpenAI cho biết các mô hình GPT-6 có thể thiết kế cấu trúc và trình tự protein mới mà không gọi tới các mô hình sinh học chuyên dụng, chỉ dùng suy luận và công cụ lập trình đa dụng; một mô hình nghiên cứu nội bộ ngang hoặc vượt mô hình chuyên dụng ở nhiều tác vụ.",
+            "Thử nghiệm trong phòng lab cùng Onava: protein dựa trên thiết kế của GPT-6.2 cho thấy dấu hiệu gắn kết với năm mục tiêu. OpenAI nói sẽ đánh giá rủi ro an toàn sinh học theo Preparedness Framework."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+            }
+          ]
+        },
+        {
+          "headline": "Google DeepMind ra benchmark 'Humanity's First Exam' đo độ tin cậy của LLM với câu hỏi đời thường",
+          "meta": "Google · 24/11",
+          "body": [
+            "HFE gồm 544 câu hỏi văn bản và hình ảnh ở mức cơ bản, trải trên 20 năng lực nền tảng, và đo việc mô hình có trả lời đúng ổn định mọi lần (kể cả các biến thể nhỏ) hay không, thay vì chỉ giải được một lần.",
+            "Kèm theo là cuộc thi Kaggle kéo dài ba tuần đến 15/12, mời cộng đồng gửi những câu hỏi đời thường mà mô hình hiện nay vẫn trả lời sai."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Google",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/"
+            }
+          ]
+        },
+        {
+          "headline": "Amazon: tin tặc dùng AI agent trên framework Cairn tự tìm và khai thác lỗ hổng zero-day trong khoảng 11 phút",
+          "meta": "Ars Technica · 24/11",
+          "body": [
+            "Theo Amazon Threat Intelligence, nhóm tấn công chỉ đưa danh sách IP và mục tiêu 'lấy quyền shell'; các agent chạy trên Cairn — framework kiểm thử xâm nhập mã nguồn mở — đã phát hiện lỗi path traversal chưa được công bố trong một ứng dụng AI chẩn đoán hình ảnh y tế mã nguồn mở, rồi chiếm quyền root.",
+            "Cairn hỗ trợ nhiều back-end như Claude Code, Codex, Pi; Palo Alto Networks trước đó ghi nhận chiến dịch dùng Cairn xâm nhập ít nhất 10 tổ chức. Amazon cảnh báo tốc độ này nhanh hơn khả năng phân loại cảnh báo thủ công của nhiều trung tâm SOC."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+            }
+          ]
+        },
+        {
+          "headline": "Cổ phiếu Anthropic rơi xuống dưới giá IPO 83 USD, có lúc chỉ còn 76 USD",
+          "meta": "TechCrunch · 24/11 (giờ Mỹ)",
+          "body": [
+            "Cổ phiếu giảm gần 12% so với phiên trước, chưa đầy một tuần sau khi chào sàn Nasdaq ở mức 111,5 USD. Giới đầu tư mạo hiểm coi diễn biến này là phong vũ biểu cho cách thị trường đại chúng định giá ngành AI.",
+            "Cùng phiên, Nvidia giảm hơn 7%, trả lại một phần mức tăng trên 30% hôm 23/11."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+            }
+          ]
+        },
+        {
+          "headline": "Meta đưa trợ lý AI Muse vào tin nhắn Instagram, bắt tay Walmart mang ưu đãi Black Friday lên Muse",
+          "meta": "TechCrunch · 24/11",
+          "body": [
+            "Người dùng Instagram có thể gọi Muse ngay trong DM; song song, Walmart hợp tác với Meta để đưa các deal Black Friday vào agent Muse."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+            }
+          ]
+        },
+        {
+          "headline": "Anh cảnh báo tấn công mạng dùng AI đang phơi bày nhiều năm bảo mật yếu kém",
+          "meta": "TechCrunch · 24/11",
+          "body": [
+            "Cơ quan an ninh mạng Anh nhận định các cuộc tấn công được AI hỗ trợ đang khai thác những lỗ hổng tồn đọng lâu năm; cùng ngày TechCrunch dẫn báo cáo cho biết hàng chục tàu chở dầu và tàu hàng bị tấn công mạng trong vài tuần gần đây."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "AyushRajSinghParihar/weaponized-curiosity — agent skill nghiên cứu dựa trên bằng chứng và tối ưu có giới hạn",
+          "meta": "GitHub · tạo 23/11 · ~170 sao · MIT",
+          "body": [
+            "Một 'Agent Skill' di động giúp agent lập kế hoạch nghiên cứu, chạy thí nghiệm và tối ưu trong giới hạn đặt trước, dựa trên bằng chứng thay vì đoán.",
+            "Số sao lấy từ GitHub API lúc tra cứu sáng 25/11."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/AyushRajSinghParihar/weaponized-curiosity"
+            }
+          ]
+        },
+        {
+          "headline": "memoryoffish/film-director-skill-plugin — để coding agent làm 'đạo diễn': từ kịch bản tới phim",
+          "meta": "GitHub · tạo 22/11 · ~130 sao · Apache-2.0",
+          "body": [
+            "Gồm một skill và một plugin cho coding agent: dựng phân cảnh, proxy Blender và âm thanh, đi từ kịch bản tới bản dựng phim."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/memoryoffish/film-director-skill-plugin"
+            }
+          ]
+        },
+        {
+          "headline": "uxpilot-ai/user-interview-skill — skill miễn phí viết kịch bản phỏng vấn người dùng trung lập",
+          "meta": "GitHub · tạo 23/11 · ~120 sao · Apache-2.0",
+          "body": [
+            "Dùng được với Claude Code, Codex và Cursor để soạn hướng dẫn phỏng vấn 1:1 tránh câu hỏi dẫn dắt — hữu ích cho nhóm sản phẩm làm nghiên cứu người dùng."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/uxpilot-ai/user-interview-skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Huawei bị bồi thẩm đoàn Mỹ kết tội âm mưu đánh cắp bí mật thương mại và gian lận ngân hàng",
+          "meta": "Al Jazeera (AP, Reuters), BBC · 24/11",
+          "body": [
+            "Sau phiên tòa hơn hai tháng với hơn 60 nhân chứng bên công tố, Huawei bị kết tội ở các cáo buộc trộm bí mật thương mại và gian lận ngân hàng nhưng được tuyên trắng án ở tội nghiêm trọng nhất: âm mưu hoạt động kiểu tội phạm có tổ chức (racketeering).",
+            "Luật sư Huawei cho biết sẽ kháng cáo. Vụ án bắt đầu từ năm 2018, gắn với việc bà Mạnh Vãn Chu bị bắt tại Canada."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo"
+            }
+          ]
+        },
+        {
+          "headline": "Jensen Huang họp toàn thể Nvidia: xin lỗi nhân viên, nói đang trị liệu tâm lý và cảm ơn Nhà Trắng",
+          "meta": "TechCrunch, The Verge · 24/11",
+          "body": [
+            "Theo CNBC và WSJ (TechCrunch dẫn), ông Huang thừa nhận vi phạm bộ quy tắc ứng xử, nói 'tôi đã làm tổn thương tất cả các bạn', và cảm ơn chính quyền vì cung cấp thông tin tình báo giúp hội đồng quản trị đánh giá rủi ro an ninh quốc gia ở mức thấp. The Verge dẫn lời ông bác chuyện ông Trump là người giúp ông được phục chức.",
+            "Tại Mỹ, Bộ trưởng Tư pháp Todd Blanche từ chối xác nhận ông Huang có bị điều tra hay không."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated"
+            }
+          ]
+        },
+        {
+          "headline": "Firefox 161 cho chọn trang dùng VPN và xóa lịch sử duyệt web bằng một cú nhấp",
+          "meta": "The Verge · 24/11",
+          "body": [
+            "Bản mới cho phép đặt quy tắc site nào đi qua VPN tích hợp, kèm nút 'Fire' xóa nhanh lịch sử."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button"
+            }
+          ]
+        },
+        {
+          "headline": "Uber và Nuro bắt đầu thử robotaxi Lucid không người lái, chuẩn bị ra mắt năm 2027",
+          "meta": "TechCrunch · 24/11",
+          "body": [
+            "Đợt thử nghiệm không có tài xế an toàn trên xe là bước tiếp theo trước kế hoạch khai thác thương mại năm 2027."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/"
+            }
+          ]
+        },
+        {
+          "headline": "Một nửa đội tàu thăm dò sao Hỏa đã cũ của NASA ngừng hoạt động vì sự cố kỹ thuật",
+          "meta": "Ars Technica · 24/11",
+          "body": [
+            "Ars Technica cho biết nhiều tàu quỹ đạo và thiết bị trên bề mặt sao Hỏa đã quá tuổi thọ thiết kế đang gặp trục trặc cùng lúc; cùng ngày có tin Nhà Trắng muốn tăng 2 tỷ USD cho NASA để đẩy nhanh Artemis."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "Khuyến mãi đặc biệt",
+      "title": "Công nghệ · Khuyến mãi đặc biệt",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Qoder: dùng miễn phí mô hình 'ẩn danh' HungerG đến hết 30/11, không trừ Credits",
+          "meta": "Qoder Docs · 23/11–30/11 (giờ Singapore, UTC+8)",
+          "body": [
+            "Ưu đãi: gọi mô hình HungerG trong Qoder và Qoder IDE không tốn Credits, kể cả ở mức suy nghĩ Max. Dành cho mọi người dùng cá nhân Qoder International (Free, Pro Trial, Lite, Pro, Pro+, Ultra); gói Teams/Enterprise không áp dụng; JetBrains plugin, CLI, web app chưa hỗ trợ.",
+            "Cách nhận: cập nhật Qoder bản mới nhất, chọn HungerG trong danh sách model — không cần đăng ký. Thời gian: từ 24:00 ngày 23/11 đến 24:00 ngày 30/11 (giờ UTC+8, tức 23:00 30/11 giờ VN). Lưu ý: nhà phát triển mô hình chưa được công bố, có giới hạn sử dụng hợp lý theo ngày, giờ cao điểm có thể xếp hàng; không nên đưa mã nguồn nhạy cảm."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Qoder",
+              "url": "https://docs.qoder.com/events/hungerg-free"
+            }
+          ]
+        },
+        {
+          "headline": "Coderblock giảm 50% kỳ thanh toán đầu gói Pro/Business và một gói credit dịp Black Friday",
+          "meta": "Coderblock · 23/11–30/11",
+          "body": [
+            "Ưu đãi: giảm nửa giá tháng đầu (gói tháng) hoặc năm đầu (gói năm) cho đăng ký Pro/Business mới, cộng một gói credit nửa giá cho mỗi tài khoản. Người đang trả phí chỉ được gói credit giảm giá.",
+            "Cách nhận: mã BLACKFRIDAY50 tự áp khi mở trang thanh toán trên coderblock.ai. Kết thúc nửa đêm giờ Thái Bình Dương 30/11 (khoảng 15:00 ngày 1/12 giờ VN). Lưu ý: cần thanh toán, gia hạn về giá thường sau kỳ đầu."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Coderblock",
+              "url": "https://coderblock.ai/black-friday"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "CAS trả lại chức vô địch AFCON 2025 cho Senegal, Morocco về nhì",
+          "meta": "DW, Tuổi Trẻ · 24/11",
+          "body": [
+            "Tòa Trọng tài Thể thao chấp nhận kháng cáo của Liên đoàn bóng đá Senegal, hủy quyết định của Ban kháng nghị CAF và xác nhận kết quả trận chung kết ngày 18/1 (Senegal thắng 1-0 sau hiệp phụ). CAS cho rằng quyết định tiếp tục trận đấu thuộc thẩm quyền riêng của trọng tài.",
+            "Trước đó CAF xử Senegal thua 0-3 vì cầu thủ bỏ sân khi Morocco được hưởng phạt đền."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/cas-reinstates-senegal-as-2025-afcon-champions/a-80021027"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/toa-an-the-thao-ra-quyet-dinh-soc-tuoc-chuc-vo-dich-chau-phi-cua-morocco-trao-cho-senegal-100261124225339285.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Champions League: Arsenal hòa Dortmund 1-1, lần đầu không thắng trên sân nhà mùa này",
+          "meta": "Al Jazeera (AFP), VnExpress · 24/11",
+          "body": [
+            "Gyokeres mở tỷ số phút 10 bằng cú sút xa nhưng bỏ lỡ cú đánh đầu cận thành cuối trận; Beier gỡ hòa phút 55. Arsenal đứng thứ 5 vòng phân hạng, Dortmund thứ 7. Chủ nhật này Arsenal gặp Man City."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/arsenal-dut-mach-thang-san-nha-o-champions-league-5148523.html"
+            }
+          ]
+        },
+        {
+          "headline": "Real Madrid đè bẹp PSV với cú đúp của Mbappe và siêu phẩm của Bellingham",
+          "meta": "Al Jazeera, VnExpress · 24/11",
+          "body": [
+            "Real có chiến thắng đậm ở vòng phân hạng Champions League; Mbappe ghi hai bàn, Bellingham có pha lập công đẹp mắt."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/real-dai-thang-voi-cu-dup-cua-mbappe-5148521.html"
+            }
+          ]
+        },
+        {
+          "headline": "Công An Hà Nội thắng Vissel Kobe — đội dẫn đầu AFC Champions League Elite",
+          "meta": "VnExpress, Tuổi Trẻ · 24/11",
+          "body": [
+            "Đây là trận thua đầu tiên của Vissel Kobe ở giải; HLV đội Nhật khen CAHN chơi sáng tạo. Tối nay Thể Công – Viettel tái đấu Melbourne Victory ở AFC Champions League Two."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/cahn-thang-clb-dan-dau-champions-league-chau-a-5148478.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/vissel-kobe-thua-tran-dau-tien-hlv-khen-cong-an-ha-noi-choi-sang-tao-100261124212646211.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/lich-truc-tiep-afc-champions-league-two-the-cong-viettel-tai-dau-melbourne-victory-100261124214626356.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Man Utd kháng cáo thành công thẻ đỏ của Yoro; Pochettino vẫn bức xúc",
+          "meta": "VnExpress, BBC Sport · 24/11",
+          "body": [
+            "Thẻ đỏ của trung vệ Leny Yoro được hủy sau kháng cáo; BBC Sport cho biết HLV Pochettino dẫn đầu làn sóng phản ứng của đội về quyết định ban đầu."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/man-utd-khang-cao-thanh-cong-the-do-cua-yoro-5148506.html"
+            },
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo"
+            }
+          ]
+        },
+        {
+          "headline": "Đội nữ Crystal Palace bị trừ điểm vì dùng bốn lượt thay người trong một trận WSL",
+          "meta": "BBC Sport · 24/11",
+          "body": [
+            "Palace vi phạm quy định số lần dừng trận để thay người trong một trận thắng ở giải nữ Anh và bị trừ điểm."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo"
+            }
+          ]
+        },
+        {
+          "headline": "U17 World Cup: đã xác định 11/32 đội đi tiếp sau hai lượt trận vòng bảng",
+          "meta": "Tuổi Trẻ, VnExpress · 25/11",
+          "body": [
+            "U17 Việt Nam có 1 điểm sau trận hòa New Zealand 3-3; FIFA khen đội có 'khả năng vượt khó đáng kinh ngạc'."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/xac-dinh-11-32-doi-di-tiep-sau-2-luot-tran-vong-bang-u17-world-cup-2026-100261125043900568.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/fifa-u17-viet-nam-co-kha-nang-vuot-kho-dang-kinh-ngac-5148429.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Hà Nội tổ chức Hội nghị Cấp cao CLMV 12 và ACMECS 11 ngày 28/11",
+          "meta": "VnExpress · 24/11",
+          "body": [
+            "Thủ tướng Lê Minh Hưng cùng lãnh đạo Myanmar, Campuchia, Lào, Thái Lan và Tổng Thư ký ASEAN dự. CLMV năm nay có chủ đề 'Kết nối CLMV - Phát huy tiềm năng - Kiến tạo tương lai thịnh vượng', tập trung kết nối hạ tầng, logistics, chuỗi cung ứng.",
+            "Năm 2025 thương mại của CLMV với thế giới đạt khoảng 1.040,7 tỷ USD, chiếm 23,8% tổng thương mại ASEAN."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/viet-nam-sap-to-chuc-hai-hoi-nghi-cap-cao-cua-khu-vuc-5148504.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/lanh-dao-5-nuoc-mekong-va-tong-thu-ky-asean-se-du-hai-hoi-nghi-cap-cao-tai-ha-noi-100261124223850426.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Chủ tịch Kim Jong Un tiếp nhận quốc thư của Đại sứ Việt Nam và 9 nước",
+          "meta": "Tuổi Trẻ · 24/11",
+          "body": [
+            "Lễ trình quốc thư diễn ra tại Bình Nhưỡng với đại sứ Việt Nam cùng chín nước khác."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/chu-tich-quoc-vu-trieu-tien-kim-jong-un-tiep-nhan-quoc-thu-cua-dai-su-viet-nam-va-9-nuoc-100261124210037011.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Taxi Mai Linh bị ngân hàng thu giữ tài sản, lao động đăng ký giảm hàng nghìn người",
+          "meta": "Tuổi Trẻ · 24/11",
+          "body": [
+            "Hãng taxi lâu năm đang gặp khó về tài chính, tài sản bị ngân hàng thu giữ, số lao động đăng ký sụt hàng nghìn người."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/taxi-mai-linh-bi-ngan-hang-thu-giu-tai-san-lao-dong-dang-ky-giam-hang-nghin-nguoi-100261124202107518.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Putin tuyên bố trả đũa là 'không thể tránh khỏi' sau khi Ukraine tiếp tục đánh nhà máy lọc dầu Nga",
+          "meta": "Al Jazeera (Reuters) · 24/11",
+          "body": [
+            "Ông Putin nói Kyiv phớt lờ đề nghị của ông Trump ngừng tấn công cơ sở năng lượng. Theo hai nguồn tin ngành dẫn bởi Reuters, drone Ukraine đã làm công suất chế biến dầu thô của Nga giảm 45% kể từ cuối tháng 10.",
+            "Cùng ngày, Ba Lan cáo buộc Nga cố ý xâm phạm không phận; tấn công của Nga vào Zaporizhzhia làm 2 người chết, 40 người bị thương."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation"
+            }
+          ]
+        },
+        {
+          "headline": "Ông Zelensky gặp tân Thủ tướng Hungary Magyar trong bối cảnh quan hệ tan băng",
+          "meta": "DW, Tuổi Trẻ · 24/11",
+          "body": [
+            "Cuộc gặp đánh dấu bước cải thiện quan hệ Kyiv – Budapest; ông Zelensky cũng nói 'không thể chỉ Ukraine trả giá cho hòa bình'."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/ukraine-zelenskyy-and-hungary-s-magyar-meet-amid-thaw-in-ties/a-80036546"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ong-zelensky-khong-the-chi-ukraine-tra-gia-cho-hoa-binh-100261124231054866.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Lầu Năm Góc bị cho là 'trì hoãn bàn giao' loạt tên lửa Patriot cho Ukraine",
+          "meta": "VnExpress · 24/11",
+          "body": [
+            "Thông tin về việc hoãn chuyển giao hệ thống phòng không xuất hiện khi Ukraine liên tục kêu gọi tăng cường phòng không."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/lau-nam-goc-tri-hoan-ban-giao-loat-ten-lua-patriot-cho-ukraine-5148448.html"
+            }
+          ]
+        },
+        {
+          "headline": "Cựu Tổng thống Pháp Sarkozy và vợ Carla Bruni sẽ hầu tòa",
+          "meta": "BBC · 24/11",
+          "body": [
+            "BBC cho biết hai vợ chồng sẽ bị đưa ra xét xử — thêm một vụ án nữa đối với ông Sarkozy."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o"
+            }
+          ]
+        },
+        {
+          "headline": "Trung Quốc điều tra Bí thư Thành ủy Thượng Hải vì 'vi phạm kỷ luật nghiêm trọng'",
+          "meta": "Tuổi Trẻ · 24/11",
+          "body": [
+            "Đây là một trong những quan chức cấp cao nhất bị điều tra trong chiến dịch chống tham nhũng của Bắc Kinh."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/trung-quoc-dieu-tra-bi-thu-thanh-uy-thuong-hai-vi-vi-pham-ky-luat-nghiem-trong-100261124202927677.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Israel không kích giết chỉ huy an ninh nội bộ của Hamas ở Gaza",
+          "meta": "BBC, Al Jazeera · 24/11",
+          "body": [
+            "Vụ tấn công bằng drone nhằm vào một quan chức an ninh cấp cao của Hamas; Al Jazeera cũng đưa tin Bộ trưởng Ben-Gvir bị cáo buộc tìm cách gây 'chiến tranh tôn giáo' qua các vụ đột kích nhà thờ Hồi giáo."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids"
+            }
+          ]
+        },
+        {
+          "headline": "Tòa Nhân quyền châu Âu: các nước được đẩy lùi người di cư trong một số trường hợp",
+          "meta": "DW · 24/11",
+          "body": [
+            "Phán quyết của Tòa án Nhân quyền châu Âu cho phép quốc gia thành viên trả người di cư về trong những điều kiện nhất định. Cùng ngày EU áp hạn ngạch nhập khẩu xe hybrid từ Trung Quốc."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/european-court-finds-states-can-turn-back-migrants-in-some-cases/a-80038352"
+            },
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/eu-imposes-import-quotas-for-hybrid-vehicles-from-china/a-80029981"
+            }
+          ]
+        },
+        {
+          "headline": "Nga bắt giữ một thống đốc vùng trong vụ án hình sự hiếm hoi",
+          "meta": "BBC · 24/11",
+          "body": [
+            "Việc khởi tố lãnh đạo cấp vùng đương nhiệm là điều ít gặp ở Nga."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Tidal sẽ xóa 27 triệu bài nhạc do AI tạo hoàn toàn từ ngày 9/12",
+          "meta": "Ars Technica, TechCrunch · 24/11",
+          "body": [
+            "Nhạc AI chiếm 6,3% kho của Tidal; 43% bài tải lên trong 90 ngày qua là AI hoàn toàn. Tidal nói 96% bài gắn nhãn AI không có lượt nghe nào trong 90 ngày. Nghệ sĩ vẫn được dùng công cụ AI nếu sản phẩm cuối có yếu tố con người."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+            }
+          ]
+        },
+        {
+          "headline": "Trống đồng Đông Sơn hồi hương từ Pháp; truy tìm một trống đồng cổ mất dấu hơn 30 năm",
+          "meta": "VnExpress · 24/11",
+          "body": [
+            "Một chiếc trống đồng Đông Sơn đã được đưa về nước từ Pháp; VnExpress cũng có bài về hành trình truy tìm một trống đồng cổ đã mất dấu hơn ba thập kỷ."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/trong-dong-dong-son-hoi-huong-tu-phap-5148202.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/truy-tim-trong-dong-co-sau-hon-30-nam-mat-dau-5148197.html"
+            }
+          ]
+        },
+        {
+          "headline": "Gần 50.000 khán giả dự concert 'Muôn sắc Việt Nam' mừng Ngày Văn hóa Việt Nam",
+          "meta": "VnExpress · 24/11",
+          "body": [
+            "Chương trình kể câu chuyện văn hóa bằng âm nhạc, thu hút gần 50.000 người trong ngày lễ Văn hóa Việt Nam đầu tiên."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/gan-50-000-khan-gia-do-ve-concert-muon-sac-viet-nam-5148441.html"
+            }
+          ]
+        },
+        {
+          "headline": "Nhật ký của Giáo hoàng Francis kể từng 'thấy quỷ' ba lần",
+          "meta": "BBC, DW · 24/11",
+          "body": [
+            "Những trang nhật ký được công bố mô tả khủng hoảng tinh thần của cố Giáo hoàng và các lần ông cho rằng đã đối mặt với ma quỷ."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no"
+            },
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/pope-francis-diaries-recount-spiritual-crisis-him-seeing-the-devil/a-80033224"
+            }
+          ]
+        },
+        {
+          "headline": "David Fincher bị chỉ trích vì nghi dùng AI trong phim mới trên Netflix",
+          "meta": "The Verge · 24/11",
+          "body": [
+            "Khán giả và giới làm phim đặt câu hỏi về việc dùng AI trong khâu hậu kỳ của phim 'Cliff Booth'."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive"
+            }
+          ]
+        },
+        {
+          "headline": "Giải Booker Thiếu nhi đầu tiên công bố danh sách rút gọn 8 cuốn, có giám khảo nhí",
+          "meta": "The Guardian, BBC · 24/11",
+          "body": [
+            "Danh sách 'Great Eight' được công bố cùng hội đồng giám khảo có cả trẻ em."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/books/2026/nov/24/first-childrens-booker-prize-reveals-great-eight-shortlist"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c65y18gl23gko"
+            }
+          ]
+        },
+        {
+          "headline": "Phim tài liệu Đức về bộ phim bị đánh cắp đoạt giải Emmy Quốc tế",
+          "meta": "DW · 24/11",
+          "body": [
+            "Tác phẩm của các đạo diễn Đức được vinh danh tại International Emmy Awards."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/german-directors-doc-on-stolen-film-wins-international-emmy-award/a-76103455"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Vụ nổ khí gas phố Nguyễn Văn Tuyết (Hà Nội): số người tử vong tăng lên 7",
+          "meta": "VnExpress · 24/11",
+          "body": [
+            "Một nữ bệnh nhân 24 tuổi tử vong tối 24/11 tại Bệnh viện Xanh Pôn; 9 người khác đang điều trị. Quán lẩu dưới chân khu tập thể E4 đang cải tạo, dự kiến khai trương 26/11 thì phát nổ.",
+            "Hơn 100 hộ dân được di dời khỏi khu tập thể cũ; Cảnh sát PCCC TP.HCM cùng ngày phát hiện tiệm tạp hóa bán gần 100 bình gas mini không an toàn."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/them-nan-nhan-tu-vong-trong-vu-no-khi-gas-o-ha-noi-5148493.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/di-doi-hon-100-ho-dan-khoi-nha-tap-the-cu-sau-vu-no-o-ha-noi-5148377.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/canh-sat-pccc-tphcm-phat-hien-tiem-tap-hoa-ban-gan-100-binh-gas-mini-khong-dam-bao-an-toan-100261124191329745.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Thời tiết 25/11: Bắc Bộ rét 10 độ C, Nam Bộ nóng 34 độ C",
+          "meta": "Tuổi Trẻ · 25/11",
+          "body": [
+            "Không khí lạnh khiến miền Bắc rét, trong khi Nam Bộ vẫn nắng nóng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thoi-tiet-hom-nay-25-11-bac-bo-ret-10-do-c-nam-bo-nong-34-do-c-100261124182935855.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ánh Viên giành hai HCV, phá hai kỷ lục Đại hội Thể thao toàn quốc sau 8 năm",
+          "meta": "VnExpress · 24/11",
+          "body": [
+            "Kình ngư Nguyễn Thị Ánh Viên trở lại với hai huy chương vàng và hai kỷ lục mới."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/anh-vien-gianh-hai-hc-vang-pha-hai-ky-luc-dai-hoi-sau-8-nam-5148470.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hải Phòng bác tin bắt cóc trẻ em sau vụ người dân vây giữ 5 người",
+          "meta": "Tuổi Trẻ · 24/11",
+          "body": [
+            "Công an xác minh không có vụ bắt cóc và giải thích nguyên nhân người dân vây giữ nhóm 5 người — lời nhắc cẩn trọng với tin đồn trên mạng."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/hai-phong-bac-tin-bat-coc-tre-em-he-lo-ly-do-nguoi-dan-vay-giu-5-nguoi-10026112422135282.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Mỹ: số ca tử vong do sởi lên 14, cả nước gần 6.000 ca",
+          "meta": "Ars Technica · 24/11",
+          "body": [
+            "Các ca tử vong liên tiếp cho thấy đợt bùng phát sởi tại Mỹ chưa hạ nhiệt."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/"
+            }
+          ]
+        },
+        {
+          "headline": "Thương vong do mìn trên thế giới cao nhất 5 năm, chủ yếu ở Myanmar và Syria",
+          "meta": "Al Jazeera, DW · 24/11",
+          "body": [
+            "Báo cáo của tổ chức giám sát cho thấy số người chết và bị thương vì mìn tăng mạnh."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria"
+            },
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/land-mine-deaths-reach-five-year-high-watchdog-says/a-80033092"
+            }
+          ]
+        },
+        {
+          "headline": "Ấn Độ: rượu giả làm 18 người chết, hơn 1.100 người nhập viện",
+          "meta": "Tuổi Trẻ · 24/11",
+          "body": [
+            "Một vụ ngộ độc rượu giả quy mô lớn khiến hàng nghìn người phải cấp cứu."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/an-do-18-nguoi-tu-vong-hon-1100-nguoi-vao-vien-do-ruou-gia-100261124220018255.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Lục quân Mỹ sẽ kích nổ hơn 4 tấn chì azide ở Iowa vào thứ Tư",
+          "meta": "Al Jazeera · 24/11",
+          "body": [
+            "Sau khi tòa án mở đường, Lục quân thông báo tiến hành vụ kích nổ ngày 25/11 (giờ Mỹ)."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 25/11/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu."
+}
