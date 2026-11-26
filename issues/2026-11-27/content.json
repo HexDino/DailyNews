@@ -1,0 +1,1235 @@
+{
+  "date": "2026-11-27",
+  "masthead": "Daily News",
+  "tagline": "Số ra ngày 27/11/2026 · Thứ Sáu · Giờ Việt Nam (UTC+7)",
+  "cover": true,
+  "topics": [
+    "Công nghệ",
+    "Xây dựng",
+    "Bóng đá",
+    "Chính trị",
+    "Văn hoá",
+    "Đời sống"
+  ],
+  "highlights": [
+    "Nvidia tạm dừng giao máy chủ AI tới 4 nước Đông Nam Á",
+    "Trump nói yêu cầu Putin rút lại gây hấn với châu Âu; Zelensky chê Mỹ chưa đủ cứng",
+    "U17 Việt Nam thua Mali 0-2, dừng bước ở U17 World Cup",
+    "Claude cho cài artifact thành app Mac/Windows; OpenAI thử Private Inference",
+    "Autodesk Assistant trong Revit ra bản chính thức"
+  ],
+  "followups": [
+    {
+      "title": "U17 Việt Nam tại U17 World Cup 2026",
+      "update": "Thua Mali 0-2 ở lượt cuối bảng G tối 26/11, xếp thứ 3 bảng và bị loại.",
+      "status": "đã kết thúc",
+      "first_issue": "2026-11-25-chieu",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/ket-qua-u17-world-cup-viet-nam-mali-5149345-tong-thuat.html"
+        }
+      ]
+    },
+    {
+      "title": "Xung đột Nga – Ukraine",
+      "update": "Trump nói đã yêu cầu Putin rút lại hành động gây hấn với châu Âu; Zelensky nói với BBC rằng Mỹ chưa gây đủ sức ép lên Nga; Kremlin cáo buộc Kyiv mở rộng xung đột ra Baltic và Địa Trung Hải.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-13",
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
+        }
+      ]
+    },
+    {
+      "title": "Thượng đỉnh EU về ngân sách dài hạn và Ukraine",
+      "update": "Hội nghị kết thúc sớm vì bất đồng; các lãnh đạo nhắm thống nhất ngân sách vào tháng 12.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-26-chieu",
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415"
+        }
+      ]
+    },
+    {
+      "title": "Nổ kho dầu ở Bangkok",
+      "update": "BBC cập nhật 9 người bị thương, 3 người nguy kịch; giới chức kêu gọi dân rời khu vực.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-26-chieu",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo"
+        }
+      ]
+    },
+    {
+      "title": "Vụ xe bồn cháy ở Giza (Ai Cập) làm 31 người chết",
+      "update": "Công tố viên tạm giữ tài xế 21 tuổi và yêu cầu xét nghiệm ma túy; người này khai đang vượt xe khi tai nạn xảy ra.",
+      "status": "đang diễn biến",
+      "first_issue": "2026-11-26",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-27",
+      "title": "Mưa lớn ở Gia Lai từ đêm 27 đến hết 29/11, phía đông có nơi trên 400 mm",
+      "topic": "Thời tiết",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/du-bao-mua-lon-o-gia-lai-keo-dai-tu-dem-27-den-ngay-2911-co-noi-tren-400-mm-18526112612044017.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Thủ tướng Lào Saleumxay Kommasith thăm chính thức Việt Nam (27–28/11), dự hội nghị CLMV và ACMECS",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/thu-tuong-lao-tham-chinh-thuc-viet-nam-du-hoi-nghi-clmv-va-acmecs-100261123141534303.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "title": "Hội nghị Cấp cao CLMV 12 và ACMECS 11 tại Hà Nội",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/viet-nam-sap-to-chuc-hai-hoi-nghi-cap-cao-cua-khu-vuc-5148504.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "title": "Trình diễn kỹ thuật lặn cấy phục hồi 12 loài san hô",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/ngay-28-11-trinh-dien-ky-thuat-lan-cay-phuc-hoi-12-loai-san-ho-tai-dac-khu-con-dao-100261119162254047.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Bầu cử sớm ở Tây Ban Nha",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Ngoại hạng Anh: Arsenal – Man City",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Phà Bình Quới (TP.HCM) tạm ngưng hoạt động",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/pha-binh-quoi-lai-tam-ngung-hoat-dong-tu-ngay-29-11-100261124150356334.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Hạn đại lý vé số TP.HCM áp dụng quy định cấm bán cho người dưới 18 tuổi",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Thanh Niên",
+          "url": "https://thanhnien.vn/dai-ly-ve-so-tphcm-dan-bang-cam-tre-duoi-18-tuoi-mua-ve-so-truoc-3011-185261110094016179.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "title": "TP.HCM bắt đầu miễn giấy phép xây dựng cho nhà ở riêng lẻ, công trình tạm, trạm sạc",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/tphcm-mien-giay-phep-xay-dung-nha-o-rieng-le-cong-trinh-tam-tram-sac-100261125184407072.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "time": "24:00",
+      "timezone": "UTC+8",
+      "title": "Hết đợt dùng miễn phí mô hình HungerG trên Qoder International",
+      "topic": "Công nghệ",
+      "note": "Không trừ Credits trong thời gian khuyến mãi; áp dụng cho người dùng cá nhân.",
+      "sources": [
+        {
+          "name": "Qoder",
+          "url": "http://docs.qoder.com/events/hungerg-free"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Estonia đóng các cửa khẩu biên giới với Nga",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Jensen Huang làm việc với ba ủy ban Hạ viện Mỹ; Tổng cố vấn Nvidia Tim Teter ngày 2/12",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/jensen-huang-se-trinh-dien-truoc-cac-uy-ban-ha-vien-my-5145849.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Jeremy Latcham tiếp quản DC Studios thay James Gunn và Peter Safran",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Jensen Huang điều trần trước Ủy ban Ngân hàng Thượng viện Mỹ",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "time": "",
+      "title": "Hạn 28 ngày để ông Eisenkot gom đủ 61 phiếu lập chính phủ Israel (tính từ 7/11; có thể gia hạn tối đa 14 ngày)",
+      "topic": "Chính trị",
+      "note": "Ngày 5/12 là mốc tính toán từ thông báo ngày 7/11.",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/doi-thu-cua-thu-tuong-israel-duoc-chi-dinh-thanh-lap-chinh-phu-moi-5142108.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "title": "Ban chấp hành UEFA họp tại Belfast, dự kiến chốt địa điểm VCK Nations League",
+      "topic": "Bóng đá",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/xac-dinh-4-cap-dau-tu-ket-uefa-nations-league-5147263.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "title": "Tidal xóa toàn bộ 27 triệu bài nhạc do AI tạo, cấm tải nhạc AI mới",
+      "topic": "Văn hoá",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "title": "Hạn ngân sách liên bang Mỹ — nguy cơ chính phủ đóng cửa",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/chinh-phu-my-doi-dien-voi-nguy-co-dong-cua-lan-thu-tu-100261120200910188.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "title": "Hạn doanh nghiệp TP.HCM lập trước 1/7/2025 bổ sung thông tin chủ sở hữu hưởng lợi",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "Tuổi Trẻ",
+          "url": "https://tuoitre.vn/hon-nua-trieu-doanh-nghiep-tren-ca-nuoc-phai-ke-khai-thong-tin-chu-so-huu-huong-loi-100261115192010975.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-16",
+      "title": "Bà Sheikh Hasina dự định trở về Bangladesh",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Sân bay Cà Mau dự kiến hoạt động trở lại",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/san-bay-ca-mau-lui-ngay-khai-thac-tro-lai-den-18-12-5141694.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-21",
+      "title": "Anthropic dự kiến vào chỉ số Nasdaq 100",
+      "topic": "Công nghệ",
+      "note": "Theo Stock Analysis",
+      "sources": [
+        {
+          "name": "Stock Analysis",
+          "url": "https://stockanalysis.com/news/anthropic-prices-ipo-83-per-share/"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Hạn đề xuất hoàn thành 6 dự án dịch vụ sân bay Long Thành",
+      "topic": "Xây dựng",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/de-xuat-lui-han-hoan-thanh-6-du-an-tai-san-bay-long-thanh-5141701.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "time": "trong ngày",
+      "title": "Dự kiến chuyến bay Long Thành – Hà Nội đầu tiên của Vietnam Airlines, Vietjet",
+      "topic": "Đời sống",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/vietnam-airlines-vietjet-sap-mo-duong-bay-tu-long-thanh-ra-bac-5147412.html"
+        }
+      ]
+    },
+    {
+      "date": "2027-01-01",
+      "title": "Hạn đăng ký và luật an toàn AI RAISE của New York có hiệu lực",
+      "topic": "Công nghệ",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+        }
+      ]
+    },
+    {
+      "date": "2027-03-01",
+      "title": "Luật BHXH sửa đổi có hiệu lực: bỏ giới hạn 12 tháng ủy quyền nhận lương hưu",
+      "topic": "Chính trị",
+      "sources": [
+        {
+          "name": "VnExpress",
+          "url": "https://vnexpress.net/uy-quyen-nhan-luong-huu-khong-con-gioi-han-12-thang-5147725.html"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "topic": "Công nghệ",
+      "subtitle": "AI",
+      "title": "Công nghệ · AI",
+      "tags": [
+        "tech",
+        "ai"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Anthropic cho biến artifact của Claude thành ứng dụng Mac và Windows",
+          "meta": "Claude by Anthropic · mới công bố",
+          "body": [
+            "Tính năng 'Install as app' đang được triển khai dạng beta trong Claude cho Mac và Windows: một artifact khi được cài sẽ có biểu tượng riêng, mở trong cửa sổ riêng thay vì nằm trong Claude, có thể chia sẻ cho người khác và tự cập nhật khi artifact gốc được sửa.",
+            "Mỗi ứng dụng có thể dùng Claude và các connector của người dùng, gửi thông báo, thêm mục vào thanh menu hoặc khay hệ thống; người dùng tự chọn quyền cho từng app, còn quản trị viên gói Team và Enterprise có thể bật/tắt quyền này cho cả tổ chức. Các yêu cầu app gửi tới Claude được tính vào hạn mức của gói đang dùng."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Claude by Anthropic",
+              "url": "https://claude.com/resources/articles/install-as-app"
+            }
+          ]
+        },
+        {
+          "headline": "OpenAI thử nghiệm 'Private Inference' — điện toán bảo mật để che dữ liệu doanh nghiệp ngay cả khi mô hình đang xử lý",
+          "meta": "CNBC TV18 · 26/11",
+          "body": [
+            "CEO Sam Altman cho biết trên X rằng OpenAI đang thử nghiệm Private Inference với một nhóm nhỏ khách hàng. Đây là một phần của gói mới OpenAI Private Intelligence, dùng điện toán bảo mật (confidential computing) để bảo vệ prompt và kết quả của doanh nghiệp khỏi bị lộ trong lúc xử lý.",
+            "Theo CNBC TV18, bộ giải pháp còn có thể kết hợp Zero Data Retention và cơ chế rà soát an toàn tự động mà nhân viên OpenAI không cần xem nội dung. Chưa có thông tin về giá hay thời điểm mở rộng."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "CNBC TV18",
+              "url": "https://www.cnbctv18.com/technology/sam-altman-announces-openai-private-inference-whats-the-new-privacy-feature-and-how-does-it-work-20041890.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Cognition ra SWE-2.1: mô hình lập trình huấn luyện bằng RL trên Kimi K3, mạnh lên rõ ở bảo mật",
+          "meta": "Cognition · 24/11",
+          "body": [
+            "Cognition (hãng làm Devin) công bố SWE-2.1, bản nâng cấp lớn của SWE-2, vẫn huấn luyện thuần bằng học tăng cường trên nền Kimi K3. Theo bảng của hãng, điểm Terminal-Bench 4.1 tăng từ 24,2 lên 50,0 và FrontierCode 2.0 từ 24,1 lên 41,3 — vẫn thấp hơn Claude Opus 5.5 và Gemini 4 Neon ở hai bài này.",
+            "Cognition nhấn mạnh năng lực tìm và khai thác lỗ hổng tăng mạnh: 80% trên ExploitBench và 27,3% cờ trên ExploitGym. Đây là số liệu tự công bố, chưa có đánh giá độc lập."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Cognition",
+              "url": "https://cognition.com/blog/swe-2-1"
+            }
+          ]
+        },
+        {
+          "headline": "Pydantic ra mắt Pax, agent lập trình trên terminal, cùng bản beta Pydantic AI Harness",
+          "meta": "Pydantic · 25/11",
+          "body": [
+            "Pydantic giới thiệu Pax — agent lập trình chạy trên terminal, xây trên Pydantic AI Harness, thư viện 'capability' chính thức của Pydantic AI với hơn 100 khả năng có thể gắn vào bất kỳ agent nào. Harness được đưa lên beta trên đường tới bản 1.0.",
+            "Với người đã dùng Pydantic AI, đây là cách lắp agent riêng từ các khối có sẵn thay vì tự viết vòng lặp agent."
+          ],
+          "tags": [
+            "tech",
+            "ai"
+          ],
+          "sources": [
+            {
+              "name": "Pydantic",
+              "url": "https://pydantic.dev/articles/pax-harness-beta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "GitHub repos",
+      "title": "Công nghệ · GitHub repos",
+      "tags": [
+        "tech",
+        "github"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "nexu-io/opengame: 'Unity & Unreal cho AI agent' với hơn 100 game để remix",
+          "meta": "GitHub · tạo 25/11 · ★775",
+          "body": [
+            "Kho mới tự giới thiệu là 'Super Game Agent', cho phép hơn 20 agent lập trình (Claude Code, Codex, DeepSeek…) tạo và remix game từ thư viện hơn 100 mẫu. Đạt 775 sao sau khoảng hai ngày.",
+            "Mới và tăng sao nhanh, nên thử trong môi trường tách biệt trước khi dùng nghiêm túc."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/nexu-io/opengame"
+            }
+          ]
+        },
+        {
+          "headline": "Moh4696/inkworks-skill: agent skill vẽ trang 3D tương tác 'cách nó hoạt động' theo phong cách bản vẽ kỹ thuật",
+          "meta": "GitHub · tạo 25/11 · ★441",
+          "body": [
+            "Inkworks là một agent skill giúp agent dựng các trang giải thích nguyên lý hoạt động bằng mô hình 3D tương tác, trình bày như một tờ bản vẽ kỹ thuật — hợp với người làm kỹ thuật, xây dựng muốn minh hoạ cơ cấu."
+          ],
+          "tags": [
+            "tech",
+            "github"
+          ],
+          "sources": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/Moh4696/inkworks-skill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Công nghệ",
+      "subtitle": "IT & công nghệ chung",
+      "title": "Công nghệ · IT & công nghệ chung",
+      "tags": [
+        "tech"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Nvidia tạm dừng giao máy chủ AI tới Malaysia, Singapore, Thái Lan và Indonesia",
+          "meta": "TechCrunch / WSJ · 26/11",
+          "body": [
+            "Theo Wall Street Journal, Nvidia đã yêu cầu các đối tác sản xuất như Dell và Super Micro tạm ngừng giao máy chủ tới bốn nước Đông Nam Á trong thời gian chưa xác định, để đánh giá xem đối tác trong khu vực có đáp ứng yêu cầu xuất khẩu mới của Mỹ hay không.",
+            "Lý do: các công ty Trung Quốc đã thuê dùng chip Nvidia từ xa qua các trung tâm dữ liệu ở đây — kẽ hở mà Bộ Thương mại Mỹ vừa đóng đầu tháng này. Viện Institute for Progress ước tính các trung tâm dữ liệu kiểu này cung cấp khoảng 24% năng lực tính toán AI của Trung Quốc. Việt Nam không nằm trong danh sách được nêu."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+            },
+            {
+              "name": "CNA",
+              "url": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351"
+            }
+          ]
+        },
+        {
+          "headline": "Nhà phát triển ứng dụng Android sắp phải công khai địa chỉ và số điện thoại",
+          "meta": "The Verge · 26/11",
+          "body": [
+            "Google thông báo từ năm sau nhiều nhà phát triển trên Play Store sẽ phải công khai số điện thoại và địa chỉ. Thay đổi nhằm đáp ứng Đạo luật Dịch vụ Số (DSA) của EU, nhưng Google cho biết thông tin sẽ hiển thị trên toàn thế giới.",
+            "Các lập trình viên độc lập lo ngại về quyền riêng tư, nhất là người làm app tại nhà."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu"
+            }
+          ]
+        },
+        {
+          "headline": "FIFA xác nhận bị tấn công mạng nhắm vào 'một số thông tin cá nhân và kinh doanh'",
+          "meta": "DW · 26/11",
+          "body": [
+            "Liên đoàn bóng đá thế giới cho biết vụ tấn công mạng nhắm vào một tập hợp giới hạn thông tin cá nhân và kinh doanh, xảy ra vào lúc nhạy cảm với tổ chức và Chủ tịch Gianni Infantino."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660"
+            }
+          ]
+        },
+        {
+          "headline": "X lần đầu có tính năng kiểm soát của phụ huynh sau 20 năm",
+          "meta": "TechCrunch · 26/11",
+          "body": [
+            "Mạng xã hội X của Elon Musk bổ sung parental controls cho tài khoản thiếu niên, cho phép cha mẹ, người giám hộ quản lý nội dung con em nhìn thấy trên nền tảng."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/"
+            }
+          ]
+        },
+        {
+          "headline": "Nextcloud ra ứng dụng Nextcloud Office cho desktop",
+          "meta": "Nextcloud / Hacker News · 26/11",
+          "body": [
+            "Nextcloud giới thiệu ứng dụng desktop cho bộ văn phòng Nextcloud Office (dựa trên Euro-Office), một lựa chọn tự lưu trữ thay cho Microsoft 365 và Google Workspace; tin lên trang nhất Hacker News."
+          ],
+          "tags": [
+            "tech"
+          ],
+          "sources": [
+            {
+              "name": "Nextcloud",
+              "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Xây dựng",
+      "subtitle": "Phần mềm",
+      "title": "Xây dựng · Phần mềm",
+      "tags": [
+        "construction"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Autodesk Assistant trong Revit đã ra bản chính thức; Autodesk mở loạt bài 'Prompt to Practice' hướng dẫn kiểm tra kết quả",
+          "meta": "Autodesk AEC blog · 25/11",
+          "body": [
+            "Autodesk cho biết Autodesk Assistant trong Revit đã phát hành chính thức (GA) và thay đổi nhiều kể từ bản Tech Preview hồi tháng 4: các bản Revit 2027.3 và 2027.4 thêm nút Stop, Undo có nhãn, cho thêm tệp làm ngữ cảnh, ghi journal và giải thích rõ hơn khi một yêu cầu không làm được. Assistant giờ được cập nhật theo lịch riêng, tách khỏi chu kỳ phát hành Revit.",
+            "Bài đầu của loạt 'Prompt to Practice' khuyên bắt đầu bằng câu 'What can you do for me?', viết prompt cụ thể và kiểm tra từng thay đổi trong mô hình trước khi phát hành bản vẽ."
+          ],
+          "tags": [
+            "construction"
+          ],
+          "sources": [
+            {
+              "name": "Autodesk AEC blog",
+              "url": "https://www.autodesk.com/blogs/aec/2026/11/25/prompt-to-practice-what-autodesk-assistant-in-revit-does-well-today-and-how-to-check-its-work/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Bóng đá",
+      "subtitle": "",
+      "title": "Bóng đá",
+      "tags": [
+        "football"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "U17 Việt Nam thua Mali 0-2, dừng bước ở vòng bảng U17 World Cup",
+          "meta": "VnExpress / Tuổi Trẻ · 26/11",
+          "body": [
+            "Ở lượt cuối bảng G tối 26/11, U17 Việt Nam thua Mali 0-2 và không thể vào vòng knock-out trong lần đầu dự U17 World Cup. Đội xếp thứ 3 bảng G. Phút 26, Lê Trọng Đại Nhân bỏ lỡ cơ hội đối mặt thủ môn để mở tỉ số.",
+            "Sau trận, HLV U17 Việt Nam bật khóc, chắp tay cảm ơn các cầu thủ."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/ket-qua-u17-world-cup-viet-nam-mali-5149345-tong-thuat.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/bang-xep-hang-u17-world-cup-u17-viet-nam-roi-giai-voi-vi-tri-thu-3-bang-g-100261126222412343.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/hlv-u17-viet-nam-khoc-chap-tay-cam-on-cau-thu-5149355.html"
+            }
+          ]
+        },
+        {
+          "headline": "Vì sao Man City của Maresca sa sút sau 7 trận toàn thắng?",
+          "meta": "VnExpress · 27/11",
+          "body": [
+            "Thắng bảy vòng đầu Ngoại hạng Anh dưới thời Enzo Maresca, Man City chỉ giành một điểm qua bốn trận tiếp theo, trong khi hàng thủ thủng lưới 20 bàn sau 10 trận trên mọi đấu trường. Theo tin đồn chuyển nhượng BBC tổng hợp, Erling Haaland đang cân nhắc rời CLB."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/vi-sao-man-city-sa-sut-sau-khoi-dau-nhu-mo-5148935.html"
+            },
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o"
+            }
+          ]
+        },
+        {
+          "headline": "Bournemouth thắng cả 5 trận châu Âu đầu tiên, CĐV đã đặt khách sạn cho chung kết Europa League",
+          "meta": "BBC Sport · 26/11",
+          "body": [
+            "Bournemouth gia nhập nhóm hiếm hoi các đội thắng cả năm trận đầu tiên ở đấu trường châu Âu và được nói là 'được phép mơ' tới chức vô địch Europa League."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o"
+            }
+          ]
+        },
+        {
+          "headline": "Tiền đạo Đức Laura Freigang bị cấm 16 tháng, lỡ World Cup nữ 2027",
+          "meta": "DW / BBC Sport · 26/11",
+          "body": [
+            "Freigang bị treo giò tới tháng 10/2027 vì liên quan đến ba lần kiểm tra doping, đồng nghĩa lỡ World Cup nữ 2027 tại Brazil. Cô phủ nhận có ý né kiểm tra."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/freigang-banned-germany-star-to-miss-2027-world-cup/a-80063930"
+            },
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o"
+            }
+          ]
+        },
+        {
+          "headline": "Kimmich chỉ trích ban lãnh đạo Bayern vì bình luận về sức khoẻ Musiala",
+          "meta": "DW · 26/11",
+          "body": [
+            "Joshua Kimmich phản ứng gay gắt sau khi lãnh đạo Bayern đặt câu hỏi liệu Jamal Musiala có trở lại phong độ cũ và còn xứng mức lương cao hay không."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/joshua-kimmich-critcizes-bayern-bosses-over-musiala-health-comments/a-80060155"
+            }
+          ]
+        },
+        {
+          "headline": "Calvert-Lewin gia hạn với Leeds đến 2029; U21 TP.HCM thua đậm ngày ra quân Đại hội Thể thao toàn quốc",
+          "meta": "BBC Sport / Tuổi Trẻ · 26/11",
+          "body": [
+            "Tiền đạo tuyển Anh Dominic Calvert-Lewin ký hợp đồng mới ở lại Leeds United đến năm 2029.",
+            "Trong nước, U21 TP.HCM tạo nhiều cơ hội nhưng thua đậm U21 Quân Đội trong ngày ra quân môn bóng đá nam Đại hội Thể thao toàn quốc 2026."
+          ],
+          "tags": [
+            "football"
+          ],
+          "sources": [
+            {
+              "name": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/dai-hoi-the-thao-toan-quoc-2026-u21-tphcm-thua-dam-ngay-ra-quan-mon-bong-da-nam-100261126203236004.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Chính trị",
+      "subtitle": "",
+      "title": "Chính trị",
+      "tags": [
+        "politics"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Trump nói đã yêu cầu Putin 'rút lại' hành động gây hấn quân sự với châu Âu; Zelensky: Mỹ quá tập trung vào Trung Đông",
+          "meta": "DW / Tuổi Trẻ / BBC · 26/11",
+          "body": [
+            "Ngày 26/11, Tổng thống Donald Trump cho biết đã yêu cầu Tổng thống Vladimir Putin chấm dứt mọi hành động gây hấn quân sự nhằm vào châu Âu và tin vẫn có thể đạt thỏa thuận Nga – Ukraine.",
+            "Trả lời BBC, Tổng thống Volodymyr Zelensky bày tỏ thất vọng vì Mỹ quá tập trung vào Trung Đông, chưa gây sức ép đủ mạnh lên Nga, và gọi việc ông Trump coi Putin là bạn là 'lạ'. Cùng ngày, Điện Kremlin cáo buộc Ukraine tìm cách mở rộng xung đột ra Địa Trung Hải và biển Baltic."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/tong-thong-trump-yeu-cau-tong-thong-putin-cham-dut-hanh-dong-gay-han-quan-su-nham-vao-chau-au-100261126231843798.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/nga-to-ukraine-tim-cach-mo-rong-xung-dot-ra-dia-trung-hai-bien-baltic-5149341.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hai người Italy thiệt mạng trong vụ tấn công ở Kuwait; nhà máy lọc dầu Jazan của Saudi Arabia bị tập kích",
+          "meta": "BBC / Al Jazeera / DW · 26/11",
+          "body": [
+            "Thủ tướng Italy Giorgia Meloni nói một drone của Iran đã giết hai kỹ thuật viên người Italy làm cho chi nhánh Italy của hãng vũ khí Đức Rheinmetall ở Kuwait; một người Kuwait và một người Pakistan bị thương. Iran bác bỏ liên quan.",
+            "Cùng ngày, Bộ Năng lượng Saudi Arabia cho biết một cuộc tấn công vào nhà máy lọc dầu Jazan của Aramco làm một công dân Nepal thiệt mạng, nhiều người bị thương và gây cháy, làm gián đoạn hoạt động."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o"
+            },
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/iranian-drone-kills-2-italian-workers-in-kuwait-meloni-says/a-80064974"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations"
+            }
+          ]
+        },
+        {
+          "headline": "Việt Nam lần đầu mời doanh nghiệp dự Hội nghị cấp cao CLMV; EU coi Việt Nam là mắt xích đa dạng hóa chuỗi cung ứng",
+          "meta": "Tuổi Trẻ · 26/11",
+          "body": [
+            "Theo sáng kiến của Việt Nam, doanh nghiệp và các đối tác phát triển sẽ được mời dự Hội nghị cấp cao CLMV-12 ngày 28/11 tại Hà Nội.",
+            "Cao ủy EU về Thương mại và An ninh kinh tế Maroš Šefčovič nói Việt Nam đóng vai trò quan trọng để EU đa dạng hóa chuỗi cung ứng và mong có cơ hội đầu tư vào các lĩnh vực trọng yếu."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/sang-kien-cua-viet-nam-ve-hoi-nghi-cap-cao-clmv-lan-dau-doanh-nghiep-duoc-moi-du-100261126193845975.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/cao-uy-eu-ve-thuong-mai-va-an-ninh-kinh-te-viet-nam-dong-vai-tro-quan-trong-de-eu-da-dang-hoa-chuoi-cung-ung-100261126181507266.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Hạ viện Mỹ thông qua dự luật lập đội đặc nhiệm triệt phá các khu lừa đảo ở Đông Nam Á",
+          "meta": "Tuổi Trẻ · 26/11",
+          "body": [
+            "'Đạo luật triệt phá các mạng lưới lừa đảo nước ngoài' được Hạ viện Mỹ thông qua, đề xuất lập một đội đặc nhiệm liên ngành trong vòng 30 ngày kể từ khi luật được ban hành."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ha-vien-my-thong-qua-de-xuat-lap-doi-dac-nhiem-triet-pha-cac-khu-lua-dao-o-dong-nam-a-100261126224016662.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Ủy ban Kiểm tra Trung ương đề nghị kỷ luật hai nguyên lãnh đạo ở Sơn La, Hải Dương",
+          "meta": "VnExpress · 26/11",
+          "body": [
+            "Ủy ban Kiểm tra Trung ương đề nghị Ban Bí thư kỷ luật ông Nguyễn Đắc Lực, nguyên Giám đốc Sở Tài nguyên và Môi trường Sơn La, và ông Lê Đình Long, nguyên Bí thư Thành ủy Hải Dương."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/de-nghi-ky-luat-hai-nguyen-lanh-dao-o-son-la-hai-duong-5149351.html"
+            }
+          ]
+        },
+        {
+          "headline": "Thượng đỉnh EU kết thúc sớm vì bất đồng ngân sách; Pablo Hernández de Cos được chọn làm Chủ tịch ECB",
+          "meta": "DW / Al Jazeera · 26/11",
+          "body": [
+            "Các lãnh đạo EU kết thúc sớm hội nghị thượng đỉnh do khoảng cách lớn về ngân sách dài hạn và khoản vay 49 tỷ USD cho Ukraine; họ đặt mục tiêu thống nhất vào tháng 12.",
+            "Cũng sau cuộc họp các lãnh đạo eurozone, nhà kinh tế Tây Ban Nha Pablo Hernández de Cos được công bố sẽ là Chủ tịch mới của Ngân hàng Trung ương châu Âu."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief"
+            }
+          ]
+        },
+        {
+          "headline": "Israel dọa buộc 1 triệu người rời nhà ở Gaza nếu Hamas không giải giáp",
+          "meta": "VnExpress · 26/11",
+          "body": [
+            "Israel đe dọa tiếp tục chiến dịch quân sự ở Dải Gaza, buộc 1 triệu người Palestine rời nơi sinh sống nếu Hamas không giải giáp. Al Jazeera cho biết mưa mùa đông cũng đang buộc người dân Gaza phải sơ tán lần nữa."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/israel-doa-ep-1-trieu-nguoi-roi-bo-nha-cua-o-dai-gaza-5149356.html"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again"
+            }
+          ]
+        },
+        {
+          "headline": "Mỹ: thẩm phán bác các hạn chế mới về quyền công dân theo nơi sinh; Trump gọi số liệu GDP là 'giả'",
+          "meta": "Al Jazeera · 26/11",
+          "body": [
+            "Sau khi thua ở Tòa án Tối cao, chính quyền Trump đã thử một bộ hạn chế hẹp hơn với quyền công dân theo nơi sinh, nhưng tiếp tục bị một thẩm phán liên bang bác bỏ.",
+            "Cùng ngày, ông Trump gọi số liệu tăng trưởng GDP công bố trước bầu cử giữa kỳ là 'giả', cho rằng đó là quyết định cố ý và đòi điều tra."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation"
+            }
+          ]
+        },
+        {
+          "headline": "Trung Quốc điều tra Bí thư Thượng Hải Trần Cát Ninh; Nga bắt Phó tư lệnh Không quân Vũ trụ",
+          "meta": "VnExpress / Tuổi Trẻ · 25–26/11",
+          "body": [
+            "Ông Trần Cát Ninh, Bí thư Thành ủy Thượng Hải, ủy viên Bộ Chính trị Trung Quốc, bị điều tra vì nghi 'vi phạm nghiêm trọng kỷ luật và pháp luật'.",
+            "Ở Nga, tòa án binh công bố lệnh bắt tướng Yuri Grekhov, Phó Tư lệnh Lực lượng Không quân Vũ trụ, với cáo buộc nhận hối lộ quy mô đặc biệt lớn."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/trung-quoc-dieu-tra-bi-thu-thuong-hai-5148567.html"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/pho-tu-lenh-khong-quan-vu-tru-nga-bi-bat-voi-cao-buoc-nhan-hoi-lo-dac-biet-lon-100261126183944594.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Guinea-Bissau: chính quyền quân sự hoãn bầu cử tổng thống 2 năm",
+          "meta": "DW / Al Jazeera · 26/11",
+          "body": [
+            "Quyết định được đưa ra đúng một năm sau khi quân đội nắm quyền ngày 26/11/2025; chính quyền quân sự nói chưa đủ điều kiện tổ chức bầu cử, cuộc bỏ phiếu dời tới năm 2028."
+          ],
+          "tags": [
+            "politics"
+          ],
+          "sources": [
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/guinea-bissau-junta-delays-presidential-vote-for-2-years/a-80068910"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Văn hoá",
+      "subtitle": "",
+      "title": "Văn hoá",
+      "tags": [
+        "culture"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Hoàng Thùy Linh trở lại với album phòng thu thứ năm 'Thùy'",
+          "meta": "Tuổi Trẻ / VnExpress · 26/11",
+          "body": [
+            "Sau hơn ba năm vắng bóng, Hoàng Thùy Linh ra mắt album phòng thu thứ năm mang tên Thùy tại TP.HCM ngày 26/11, gồm 11 bài được thực hiện trong 3 tháng. Rapper Đen Vâu có mặt chúc mừng."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/3-thang-cho-11-bai-trong-album-suc-lam-viec-cua-hoang-thuy-linh-that-kinh-khung-100261126182333452.htm"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/den-vau-chuc-mung-hoang-thuy-linh-ra-album-5149218.html"
+            }
+          ]
+        },
+        {
+          "headline": "Gérard Depardieu phải ra tòa vì cáo buộc hiếp dâm nữ diễn viên năm 2018",
+          "meta": "DW / BBC · 26/11",
+          "body": [
+            "Tòa phúc thẩm Paris giữ nguyên quyết định đưa nam diễn viên 77 tuổi ra xét xử với cáo buộc hiếp dâm và tấn công tình dục nữ diễn viên Charlotte Arnould năm 2018."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/gerard-depardieu-to-stand-trial-in-france-for-rape-and-sexual-assault/a-80069424"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o"
+            }
+          ]
+        },
+        {
+          "headline": "Avengers: Doomsday được dự báo mở màn vượt xa Dune 3",
+          "meta": "Tuổi Trẻ · 26/11",
+          "body": [
+            "Hai bom tấn cùng ra rạp cuối năm bắt đầu xuất hiện trong các dự báo doanh thu, trong đó Avengers: Doomsday bỏ xa Dune 3 ở doanh thu mở màn."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/avengers-doomsday-bo-xa-dune-3-trong-du-bao-doanh-thu-mo-man-100261126135209437.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Nhân viên Rockstar bỏ phiếu không lập công đoàn",
+          "meta": "The Verge · 26/11",
+          "body": [
+            "Cuộc bỏ phiếu công nhận công đoàn tại hãng làm GTA VI thất bại, chỉ 25% ủng hộ. Công đoàn IWGB nói các thành viên ở Rockstar sẽ tiếp tục vận động dù không được công nhận chính thức."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb"
+            }
+          ]
+        },
+        {
+          "headline": "Bob Dylan ở tuổi 85 mở chặng lưu diễn Anh: The Guardian khen giọng 'tốt hơn 40 năm trước'",
+          "meta": "The Guardian · 26/11",
+          "body": [
+            "Mở đầu chặng Anh mới của Never Ending Tour tại Bournemouth, Dylan có vẻ thờ ơ với khán giả nhưng các ca khúc được phối lại giàu tưởng tượng, theo bài đánh giá của The Guardian."
+          ],
+          "tags": [
+            "culture"
+          ],
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/music/2026/nov/26/bob-dylan-review-bournemouth-international-centre-uk-tour"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Đời sống",
+      "subtitle": "",
+      "title": "Đời sống",
+      "tags": [
+        "lifestyle"
+      ],
+      "intro": "",
+      "items": [
+        {
+          "headline": "Thời tiết 27/11: cả nước tăng mưa, Nam Bộ mưa to giữa mùa khô; Thủ tướng yêu cầu ứng phó lũ ở Nam Trung Bộ – Tây Nguyên",
+          "meta": "Tuổi Trẻ · 26–27/11",
+          "body": [
+            "Hôm nay nhiều nơi tăng mưa, có nơi mưa rất to; Nam Bộ có đợt mưa ngay trong mùa khô.",
+            "Thủ tướng yêu cầu các bộ, ngành, địa phương chủ động ứng phó mưa lũ, lũ quét, sạt lở, sẵn sàng sơ tán dân và cứu hộ cứu nạn tại Nam Trung Bộ – Tây Nguyên."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thoi-tiet-hom-nay-27-11-nhieu-noi-tang-mua-nam-bo-mua-to-trong-mua-kho-100261126164210178.htm"
+            },
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/thu-tuong-yeu-cau-chu-dong-ung-pho-mua-lu-tai-nam-trung-bo-tay-nguyen-100261126194129429.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Metro TP.HCM chật kín giờ cao điểm; cán bộ đi xe buýt, metro sẽ được tính vào khen thưởng",
+          "meta": "VnExpress · 26–27/11",
+          "body": [
+            "Sau gần hai năm vận hành, metro số 1 có cảnh hành khách xếp hàng dài, toa chật kín giờ cao điểm, nhiều bãi gửi xe hết chỗ.",
+            "TP.HCM đưa việc đi phương tiện công cộng ít nhất hai lần mỗi tuần vào tiêu chí đánh giá, xếp loại, khen thưởng cán bộ, công chức, viên chức."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/metro-tp-hcm-dong-nghit-khach-gio-cao-diem-5149216.html"
+            },
+            {
+              "name": "VnExpress",
+              "url": "https://vnexpress.net/tp-hcm-khen-thuong-can-bo-tich-cuc-di-xe-buyt-metro-5149347.html"
+            }
+          ]
+        },
+        {
+          "headline": "Hà Nội thống nhất phát hành trái phiếu huy động vốn làm metro năm 2027",
+          "meta": "Tuổi Trẻ · 26/11",
+          "body": [
+            "Hà Nội thống nhất chủ trương phát hành trái phiếu để đầu tư xây dựng các tuyến metro trong năm 2027, đồng thời phấn đấu tăng trưởng GRDP 11,1% theo chỉ tiêu Trung ương giao."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/ha-noi-thong-nhat-chu-truong-phat-hanh-trai-phieu-de-huy-dong-von-xay-metro-100261126185418604.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Đề xuất trộn thí sinh từ ít nhất 2 trường trong mỗi điểm thi tốt nghiệp THPT",
+          "meta": "Tuổi Trẻ · 26/11",
+          "body": [
+            "Theo đề xuất, khi sắp xếp điểm thi, phòng thi phải trộn thí sinh đến từ tối thiểu hai trường THPT, đồng thời bảo đảm thuận tiện đi lại."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Tuổi Trẻ",
+              "url": "https://tuoitre.vn/de-xuat-tron-thi-sinh-toi-thieu-2-truong-trong-mot-diem-thi-tot-nghiep-thpt-100261126195449483.htm"
+            }
+          ]
+        },
+        {
+          "headline": "Tàu chở dầu diesel lật gần Ibiza, một thuyền viên tử vong",
+          "meta": "BBC / DW · 26/11",
+          "body": [
+            "Tàu Med Emre treo cờ Malta, chở tới 7.000 tấn dầu diesel, bị lật ngoài khơi đảo Ibiza (Tây Ban Nha). Lực lượng chức năng cứu 17 thuyền viên nhưng một người tử vong sau đó trong bệnh viện; kế hoạch ứng phó ô nhiễm đã được kích hoạt."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do"
+            },
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054"
+            }
+          ]
+        },
+        {
+          "headline": "Mỹ: bão làm tốc mái, ngập đường đầu kỳ nghỉ Lễ Tạ ơn",
+          "meta": "BBC · 26/11",
+          "body": [
+            "Hàng trăm nghìn người bị ảnh hưởng bởi các cơn bão khi kỳ nghỉ cuối tuần Lễ Tạ ơn bắt đầu."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o"
+            }
+          ]
+        },
+        {
+          "headline": "Musk hứa tặng mỗi trẻ em Mỹ hai cổ phiếu SpaceX",
+          "meta": "Al Jazeera · 26/11",
+          "body": [
+            "Theo Elon Musk, mỗi trẻ em Mỹ sẽ nhận một cổ phiếu từ SpaceX và một cổ phiếu từ cá nhân ông."
+          ],
+          "tags": [
+            "lifestyle"
+          ],
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer_note": "Báo được tổng hợp từ các nguồn công khai sáng 27/11/2026 (giờ VN). Mọi con số, trích dẫn lấy từ nguồn ghi kèm; số sao GitHub lấy từ GitHub API tại thời điểm tra cứu."
+}
